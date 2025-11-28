@@ -5,53 +5,47 @@ from jsonschema import validate, ValidationError
 
 SCHEMA_PATH = "schema/poema.schema.json"
 DATASET_PATH = "datasets"
-HASH_REGISTRY = "scripts/hash_registry.txt"
 
+def hash_poema(texto: str) -> str:
+    return hashlib.sha256(texto.strip().encode("utf-8")).hexdigest()
 
-def hash_poema(texto):
-    return hashlib.sha256(texto.encode("utf-8")).hexdigest()
-
-
-def load_hashes():
-    if not os.path.exists(HASH_REGISTRY):
-        return set()
-    with openb(HASH_REGISTRY, "r") as f:
-        return set(line.strip() for line in f.readlines())
-
-
-def save_hash(h):
-    with open(HASH_REGISTRY, "a") as f:
-        f.write(h + "\n")
-
-
-def validate_json(data):
-    with open(SCHEMA_PATH) as schema_file:
+def validate_json(data, path):
+    with open(SCHEMA_PATH, "r", encoding="utf-8") as schema_file:
         schema = json.load(schema_file)
+    try:
         validate(instance=data, schema=schema)
-
+    except ValidationError as e:
+        raise Exception(f"❌ ERROR EN FORMATO en {path}\n→ {e.message}")
 
 def scan_datasets():
-    stored_hashes = load_hashes()
+    print("🔍 Escaneando dataset...\n")
 
-    for folder, _, files in os.walk(DATASET_PATH):
-        for file in files:
-            if not file.endswith(".json"):
-                continue
+    hashes = {}       # hash -> archivo original
+    duplicados = []   # lista de conflictos
 
-            path = os.path.join(folder, file)
-            with open(path, "r", encoding="utf-8") as f:
-                data = json.load(f)
+    for ruta, _, archivos in os.walk(DATASET_PATH):
+        for archivo in archivos:
+            if archivo.endswith(".json"):
+                path = os.path.join(ruta, archivo)
 
-            validate_json(data)
+                with open(path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
 
-            poema_hash = hash_poema(data["poema"]["texto"])
-            if poema_hash in stored_hashes:
-                raise Exception(f"❌ DUPLICADO detectado en {path}")
-            else:
-                save_hash(poema_hash)
+                validate_json(data, path)
+                h = hash_poema(data["poema"]["texto"])
 
-    print("✅ VALIDACIÓN EXITOSA — sin duplicados y con formato correcto")
+                if h in hashes:
+                    duplicados.append((path, hashes[h]))
+                else:
+                    hashes[h] = path
 
+    if duplicados:
+        msg = "🚫 SE DETECTARON POEMAS DUPLICADOS:\n"
+        for p1, p2 in duplicados:
+            msg += f"❌ {p1} es idéntico a {p2}\n"
+        raise Exception(msg)
+
+    print("✅ VALIDACIÓN EXITOSA — no hay duplicados ni errores")
 
 if __name__ == "__main__":
     scan_datasets()

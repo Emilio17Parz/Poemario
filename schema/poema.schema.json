@@ -1,32 +1,16 @@
 {
-  "$schema": "https://json-schema.org/draft-07/schema#",
-  "title": "PoemaIA",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
-  "required": ["subcategoria", "poema", "metadata"],
+  "required": ["subcategoria", "poema"],
   "properties": {
-    "subcategoria": {
-      "type": "string",
-      "minLength": 1
-    },
+    "subcategoria": { "type": "string" },
     "poema": {
       "type": "object",
-      "required": ["titulo", "texto", "tipo", "palabra_clave_ingresada"],
+      "required": ["texto", "tipo", "palabra_clave_ingresada"],
       "properties": {
-        "titulo": { "type": "string" },
-        "texto": { "type": "string", "minLength": 20 },
+        "texto": { "type": "string" },
         "tipo": { "type": "string" },
-        "métrica": { "type": "string" },
         "palabra_clave_ingresada": { "type": "string" }
-      }
-    },
-    "metadata": {
-      "type": "object",
-      "required": ["autor", "fecha_creacion", "version"],
-      "properties": {
-        "autor": { "type": "string" },
-        "fecha_creacion": { "type": "string", "format": "date" },
-        "version": { "type": "number" },
-        "fuente": { "type": "string" }
       }
     }
   }
