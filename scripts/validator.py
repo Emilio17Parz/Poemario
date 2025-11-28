@@ -15,7 +15,7 @@ def hash_poema(texto):
 def load_hashes():
     if not os.path.exists(HASH_REGISTRY):
         return set()
-    with openb(HASH_REGISTRY, "r") as f:
+    with open(HASH_REGISTRY, "r") as f:
         return set(line.strip() for line in f.readlines())
 
 
@@ -42,9 +42,13 @@ def scan_datasets():
             with open(path, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
-            validate_json(data)
+            try:
+                validate_json(data)
+            except ValidationError as e:
+                raise Exception(f"❌ ERROR EN FORMATO en {path} → {e.message}")
 
             poema_hash = hash_poema(data["poema"]["texto"])
+
             if poema_hash in stored_hashes:
                 raise Exception(f"❌ DUPLICADO detectado en {path}")
             else:
