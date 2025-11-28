@@ -15,37 +15,53 @@ def validate_json(data, path):
     try:
         validate(instance=data, schema=schema)
     except ValidationError as e:
-        raise Exception(f"❌ ERROR EN FORMATO en {path}\n→ {e.message}")
+        raise Exception(f" ERROR EN FORMATO en {path}\n→ {e.message}")
 
 def scan_datasets():
-    print("🔍 Escaneando dataset...\n")
+    print(" Escaneando dataset...\n")
 
     hashes = {}       # hash -> archivo original
     duplicados = []   # lista de conflictos
+    errores = []      # errores de carga o estructura
 
     for ruta, _, archivos in os.walk(DATASET_PATH):
         for archivo in archivos:
             if archivo.endswith(".json"):
                 path = os.path.join(ruta, archivo)
 
-                with open(path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
+                # Ignorar archivos vacíos
+                if os.path.getsize(path) == 0:
+                    print(f"⚠️  Archivo vacío ignorado: {path}")
+                    continue
 
-                validate_json(data, path)
-                h = hash_poema(data["poema"]["texto"])
+                try:
+                    with open(path, "r", encoding="utf-8") as f:
+                        data = json.load(f)
 
-                if h in hashes:
-                    duplicados.append((path, hashes[h]))
-                else:
-                    hashes[h] = path
+                    validate_json(data, path)
+                    h = hash_poema(data["poema"]["texto"])
+
+                    if h in hashes:
+                        duplicados.append((path, hashes[h]))
+                    else:
+                        hashes[h] = path
+
+                except Exception as e:
+                    errores.append(str(e))
+
+    if errores:
+        print(" ERRORES DETECTADOS:")
+        for err in errores:
+            print(err)
+        raise Exception(" Validación incompleta por errores de formato.")
 
     if duplicados:
-        msg = "🚫 SE DETECTARON POEMAS DUPLICADOS:\n"
+        msg = " SE DETECTARON POEMAS DUPLICADOS:\n"
         for p1, p2 in duplicados:
-            msg += f"❌ {p1} es idéntico a {p2}\n"
+            msg += f" {p1} es idéntico a {p2}\n"
         raise Exception(msg)
 
-    print("✅ VALIDACIÓN EXITOSA — no hay duplicados ni errores")
+    print(" VALIDACIÓN EXITOSA — no hay duplicados ni errores")
 
 if __name__ == "__main__":
     scan_datasets()
