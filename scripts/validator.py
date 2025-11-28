@@ -9,26 +9,10 @@ HASH_REGISTRY = "scripts/hash_registry.txt"
 
 
 def hash_poema(texto: str) -> str:
-    """Crea un hash único basado en el poema para detectar duplicados."""
     return hashlib.sha256(texto.strip().encode("utf-8")).hexdigest()
 
 
-def load_hashes() -> set:
-    """Carga los hashes registrados previamente para identificar duplicados."""
-    if not os.path.exists(HASH_REGISTRY):
-        return set()
-    with open(HASH_REGISTRY, "r", encoding="utf-8") as f:
-        return set(line.strip() for line in f.readlines())
-
-
-def save_hash(h: str) -> None:
-    """Guarda un hash nuevo en el archivo de registro."""
-    with open(HASH_REGISTRY, "a", encoding="utf-8") as f:
-        f.write(h + "\n")
-
-
-def validate_json(data: dict, path: str) -> None:
-    """Valida que el JSON cumpla con el schema."""
+def validate_json(data, path):
     with open(SCHEMA_PATH, "r", encoding="utf-8") as schema_file:
         schema = json.load(schema_file)
     try:
@@ -38,10 +22,10 @@ def validate_json(data: dict, path: str) -> None:
 
 
 def scan_datasets():
-    stored_hashes = load_hashes()
-    new_hashes = set()
-
     print("🔍 Escaneando dataset...\n")
+
+    hashes = {}  # hash → archivo original
+    duplicados = []
 
     for root, _, files in os.walk(DATASET_PATH):
         for file in files:
@@ -49,24 +33,27 @@ def scan_datasets():
                 continue
 
             path = os.path.join(root, file)
+
             with open(path, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
             validate_json(data, path)
 
-            poema_texto = data["poema"]["texto"]
-            poema_hash = hash_poema(poema_texto)
+            texto = data["poema"]["texto"]
+            h = hash_poema(texto)
 
-            if poema_hash in stored_hashes or poema_hash in new_hashes:
-                raise Exception(f"🚫 DUPLICADO DETECTADO en:\n{path}\n"
-                                f"Este poema ya existe en el dataset.")
+            if h in hashes:
+                duplicados.append((path, hashes[h]))
             else:
-                new_hashes.add(poema_hash)
+                hashes[h] = path
 
-    for h in new_hashes:
-        save_hash(h)
+    if duplicados:
+        msg = "🚫 SE DETECTARON POEMAS DUPLICADOS:\n"
+        for p1, p2 in duplicados:
+            msg += f"\t❌ {p1} es idéntico a {p2}\n"
+        raise Exception(msg)
 
-    print("✅ VALIDACIÓN EXITOSA — sin duplicados y con formato correcto")
+    print("✅ VALIDACIÓN EXITOSA — no hay duplicados ni errores de formato")
 
 
 if __name__ == "__main__":
