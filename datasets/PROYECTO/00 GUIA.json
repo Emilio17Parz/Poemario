@@ -1,0 +1,32 @@
+{
+  "estructura_proyecto": {
+    "total_tipos_poema": 50,
+    "total_subclases": 10,
+    "total_archivos": 500,
+    "poemas_por_archivo": 1250,
+    "poemas_totales": 625000
+  },
+  "instrucciones_llenado": [
+    "1. Cada archivo JSON contiene 1250 entradas",
+    "2. La primera entrada tiene un ejemplo REAL",
+    "3. Las 1249 restantes son marcadores a reemplazar",
+    "4. Usar el 'generador_lote.py' para llenar automáticamente"
+  ],
+  "formato_poema": {
+    "campos_requeridos": [
+      "subcategoria (string)",
+      "poema.titulo (string)",
+      "poema.texto (string, con saltos de línea)",
+      "poema.tipo (string, uno de los 50 tipos)",
+      "poema.palabra_clave_ingresada (string)"
+    ]
+  },
+  "archivos_generados": {
+    "ejemplos": [
+      "Amor_Soneto.json",
+      "Naturaleza_Haiku.json",
+      "Muerte_Limerick.json"
+    ],
+    "ruta_completa": "C:\\Users\\Ivan\\Documents\\ML\\poemario\\BASE_DATOS_POEMAS_COMPLETA"
+  }
+}

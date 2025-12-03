@@ -1,0 +1,86 @@
+{
+  "estructura": "datasets/<tipo_poema>/<tema>.json",
+  "total_archivos": 502,
+  "tipos_poema": [
+    "Acróstico",
+    "Aventura epica heroismo",
+    "Balada",
+    "COMPLETA",
+    "Canción petrarquista",
+    "Copla",
+    "Cuarteta",
+    "Cuarteto",
+    "Desamor tristeza perdida",
+    "Décima espinela",
+    "Elegía",
+    "Epigrama",
+    "Estancia",
+    "Estrofa alcaica",
+    "Estrofa sáfica",
+    "Haiku",
+    "Himno",
+    "Limerick",
+    "Madrigal",
+    "Moaxaja",
+    "Oda",
+    "PROYECTO",
+    "Palíndromo poético",
+    "Pantoum",
+    "Pareado",
+    "Poema concreto",
+    "Poema didáctico",
+    "Poema dramático",
+    "Poema elegíaco",
+    "Poema en prosa",
+    "Poema lírico",
+    "Poema narrativo",
+    "Poema satírico",
+    "Poema épico",
+    "Redondilla",
+    "Religion espiritualidad",
+    "Romance",
+    "Rondeau",
+    "Rondó",
+    "Seguidilla",
+    "Serventesio",
+    "Sestina",
+    "Silva",
+    "Sociedad critica social",
+    "Soneto",
+    "Tanka",
+    "Terceto",
+    "Terceto encadenado",
+    "Triolet",
+    "Verso libre",
+    "Versículo",
+    "Vida y existencia",
+    "Villanelle",
+    "Yo interior introspeccion",
+    "Zéjel",
+    "caligrama",
+    "ghazal",
+    "Égloga"
+  ],
+  "fecha_reorganizacion": "C:\\Users\\Ivan\\Documents\\ML\\poemario",
+  "ejemplos": {
+    "rutas": [
+      "datasets/Soneto/Amor.json",
+      "datasets/Haiku/Naturaleza.json",
+      "datasets/Redondilla/Muerte.json"
+    ],
+    "contenido_ejemplo": {
+      "archivo": "datasets/Soneto/Amor.json",
+      "estructura": [
+        {
+          "subcategoria": "Amor",
+          "poema": {
+            "titulo": "Título del poema",
+            "texto": "Texto del poema...",
+            "tipo": "Soneto",
+            "palabra_clave_ingresada": "palabra_clave"
+          }
+        }
+      ]
+    }
+  }
+}
