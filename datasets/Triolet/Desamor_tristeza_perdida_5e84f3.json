@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El ayer no volverá,\nSe ha marchado con el viento,\nY nunca regresará.\nEl ayer no volverá,\nSolo pena dejará,\nEn mi pensamiento.\nEl ayer no volverá,\nSe ha marchado con el viento.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

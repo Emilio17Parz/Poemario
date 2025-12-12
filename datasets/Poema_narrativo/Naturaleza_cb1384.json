@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gritó un pastor su nombre a la roca más alta,\nY la roca le devolvió la voz con más falta.\nEl eco era su sombra, su gemelo de aire,\nJugando con el sonido en el verde desaire.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "eco"
+  }
+}

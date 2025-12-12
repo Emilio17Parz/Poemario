@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El último adiós,\nante nuestro Dios.\n\nYa no hay vuelta,\nla vida suelta,\nse queda envuelta,\nentre los dos.\n\nEl último adiós,\nante nuestro Dios.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

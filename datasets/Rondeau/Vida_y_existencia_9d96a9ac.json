@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Un laberinto extraño,\nque nos causa daño,\nes este vivir,\nsin saber a dónde ir,\nni el tamaño.\n\nSubiendo el peldaño,\ndel propio engaño,\nqueremos salir,\nun laberinto.\n\nPasando el año,\ncomo un rebaño,\nsin decidir,\nnuestro porvenir,\nen este escaño,\nun laberinto.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

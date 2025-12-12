@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Creo sin ver,\nconfío en la promesa\ndel más allá.\nEs la fuerza que empuja\ncuando todo va mal.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "fe"
+  }
+}

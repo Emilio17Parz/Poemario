@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Son que suena,\ny que encanta,\ny levanta,\nla colmena.\nEs la vena,\ndel amor,\ny el dolor,\nde la pena.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "música"
+  }
+}

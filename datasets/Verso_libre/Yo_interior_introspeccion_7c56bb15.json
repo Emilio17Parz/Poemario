@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me quito la máscara al final del día.\nLa sonrisa que usé para el jefe,\nla calma que usé para los hijos.\nDebajo está mi rostro desnudo,\nlleno de arrugas y dudas.\nQué alivio ser feo y real\nen la soledad de mi cuarto.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

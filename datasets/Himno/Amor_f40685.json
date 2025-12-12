@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuente primera de la vida humana,\namor de madre, luz de la mañana.\nSacrificio que nada pide a cambio,\ndulce refugio, el más puro recambio.\n\n¡Salve, oh madre, reina del hogar,\ncuya bondad es vasta como el mar!\nTe cantan hoy los hijos de la tierra,\ntu amor la paz en su regazo encierra.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "madre"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Entra el invierno en la habitación,\naunque sea agosto en el calendario.\nPierde su ritmo mi corazón,\nvivo atrapado en este calvario.\n\nAunque sea agosto en el calendario,\nhielo recubre mi piel y hueso.\nVivo atrapado en este calvario,\nya no recuerdo tu último beso.\n\nHielo recubre mi piel y hueso,\npierde su ritmo mi corazón.\nYa no recuerdo tu último beso,\nentra el invierno en la habitación.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "frío"
+  }
+}

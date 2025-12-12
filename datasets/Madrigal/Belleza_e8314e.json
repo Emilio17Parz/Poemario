@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mármol que respira,\nformado por la mano del artista;\nque conquista,\na quien mira.\nLa piedra fría cobra vida y gracia,\ncon eficacia.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

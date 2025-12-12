@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Brújula norte,\nque guía el paso,\nante el ocaso,\ny da soporte.\n¿Por qué vivir?\nPara sentir.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

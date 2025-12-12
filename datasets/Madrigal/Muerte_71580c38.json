@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra te ha cubierto,\ndejando el cuerpo frío y descubierto.\nPasaste ya el umbral\ndel destino final.\nSilencio sepulcral\nreina donde antes hubo un vendaval.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

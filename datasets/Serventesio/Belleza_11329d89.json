@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza que el alma nos conmueve,\nSe asoma en cada flor al despertar,\nY un hálito sutil la siempre mueve,\nDejando su glorioso esplendor brillar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Gloria al valiente de pecho de acero,\nque marcha sin miedo por el sendero!\nDefiende al débil con brazo potente,\ny enfrenta el peligro con frente valiente.\n\n¡Cantad su coraje, su fuerza y honor,\nque vence a la sombra y al vil opresor!\nSu nombre grabado en la piedra estará,\ny su gran hazaña jamás morirá.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Se fue tu sombra, el alma ya no sienta\nel tibio abrazo que se fue de aquí;\nla vida pesa, la pena me atormenta,\ny cada lágrima me recuerda a ti.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

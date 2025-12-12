@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No busca el guerrero la vana gloria,\nsino la historia.\nServir a su nación,\ncon devoción,\ny cumplir el deber,\nhasta caer.\nEl honor es su meta,\ncompleta.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

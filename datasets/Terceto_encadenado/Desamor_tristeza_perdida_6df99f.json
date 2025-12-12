@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Derramo mi dolor sobre la mesa,\nno puedo, por más que hago, parar,\nde sentir esta carga que me pesa.\n\nUn mar de sal que inunda mi mirar,\ny me ahoga en su cauce desmedido,\nsin que encuentre consuelo al despertar.\n\nMe siento tan perdido.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

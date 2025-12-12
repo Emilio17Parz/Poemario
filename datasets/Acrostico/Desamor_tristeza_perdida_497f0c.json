@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cae mi esperanza,\nAl suelo de la vida.\nEn la desesperanza,\nRota y perdida.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "CAER"
+  }
+}

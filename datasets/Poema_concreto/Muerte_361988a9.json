@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "M U E R T E\n   c a e\n    l e n t o\n     s i l e n c i o\n      v a c í o\n       o s c u r o\n        p o l v o\n         f r í o\n          n a d a\n           f i n\n            e t e r n o\n            [ T U M B A ]",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

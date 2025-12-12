@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Piedra en el zapato del alma.\nCaminar con culpa\nes caminar cojo.\nHay que sacarse la piedra,\nmirarla,\ny tirarla lejos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

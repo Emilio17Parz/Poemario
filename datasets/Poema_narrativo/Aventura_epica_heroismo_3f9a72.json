@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El amigo del alma, con espada de acero,\nLe dio el golpe por la espalda, sin ningún esmero.\nCayó en la arena el héroe, sintiendo el dolor,\nLa traición es la sombra del peor horror.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "traición"
+  }
+}

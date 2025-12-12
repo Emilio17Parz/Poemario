@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Queremos tener alas,\nvolar sin ataduras,\nsin miedo a las balas,\nni a las amarguras.\n\nVolar sin ataduras,\nser dueños del viento,\nni a las amarguras,\nvivir el momento.\n\nSer dueños del viento,\nqueremos tener alas,\nvivir el momento,\nsin miedo a las balas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "alas"
+  }
+}

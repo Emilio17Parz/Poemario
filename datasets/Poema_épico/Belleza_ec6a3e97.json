@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuando el mundo era sombra y abismo,\nllegó la aurora con su estandarte.\nPintó de rojo y oro cada parte,\nrompiendo el gris con heroísmo.\nEl color invadió la tierra y el mar,\nuna invasión que no tiene par.\nTriunfo de la luz sobre la nada,\nla gran belleza fue coronada.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "color"
+  }
+}

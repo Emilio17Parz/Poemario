@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La niebla no tiene luz, (A)\nmi ser ya sin claridad, (B)\nme hunde la soledad, (B)\ncargando una triste cruz. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Niebla"
+  }
+}

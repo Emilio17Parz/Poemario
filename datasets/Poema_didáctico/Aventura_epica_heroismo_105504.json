@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Defiende al débil siempre,\nes la ley del caballero,\nque el mal no siembre,\nsu sendero.\nLucha por lo justo,\naunque te lleves un susto.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Justicia"
+  }
+}

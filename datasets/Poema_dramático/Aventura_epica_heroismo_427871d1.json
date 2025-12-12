@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "JUEZ: Reniega de tus voces, bruja.\nJUANA: Son de Dios, aunque la llama ruja.\nJUEZ: Arderás en la hoguera por hereje.\nJUANA: Que mi fe nunca se aleje.\n(Prenden el fuego)\nJUANA: ¡Jesús! ¡Jesús! No siento el dolor.\nSolo siento Su inmenso amor.\nJUEZ: ¡Hemos quemado a una santa!\nJUANA: Mi espíritu al cielo se levanta.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

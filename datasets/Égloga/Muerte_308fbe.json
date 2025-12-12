@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No llores, pastor, su partida,\nque ahora pace en prados eternos.\nLejos de fríos y de inviernos,\ngoza de una nueva vida.\nSu alma, del cuerpo desprendida,\nha roto los lazos tiernos.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "eternos"
+  }
+}

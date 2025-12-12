@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Altos muros nos separan,\ny familias con rencor,\npero no hay piedra que frene\nla fuerza de nuestro amor.\nDe noche salto la tapia,\nburlando al vigilador,\npara beber de tus labios\nel néctar y el dulzor.\nQue digan lo que ellos quieran,\nque causen cualquier dolor,\nque tú y yo somos el fuego\ny ellos son el extintor.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "muro"
+  }
+}

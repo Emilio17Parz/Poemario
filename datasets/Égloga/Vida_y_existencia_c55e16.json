@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corremos por la pradera,\ncon la fuerza del potrillo,\nsaltando cada cerrillo,\nen esta edad primera.\n\nLa vida es una carrera,\nhacia el sol del mediodía,\nllena de luz y energía,\ny de ilusión verdadera.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

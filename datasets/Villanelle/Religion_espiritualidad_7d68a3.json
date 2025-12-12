@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Regalo del cielo,\nque no merezco,\npero es mi consuelo.\n\nSin recelo,\nagradezco,\nregalo del cielo.\n\nCon anhelo,\ncrezco,\npero es mi consuelo.\n\nEn el suelo,\nparezco,\nregalo del cielo.\n\nCon el velo,\nofrezco,\npero es mi consuelo.\n\nEl revuelo,\npadezco,\nregalo del cielo,\npero es mi consuelo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "gracia"
+  }
+}

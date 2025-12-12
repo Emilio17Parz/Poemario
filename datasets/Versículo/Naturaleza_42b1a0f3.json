@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río fluye incesante, sangre de la tierra que busca el corazón del mar.\nNo se detiene ante la roca ni se cansa en el llano infinito.\nEs la imagen del tiempo que pasa y no vuelve, agua que siempre es nueva.\nLleva en su corriente la historia de las montañas y el secreto de las nubes.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "río"
+  }
+}

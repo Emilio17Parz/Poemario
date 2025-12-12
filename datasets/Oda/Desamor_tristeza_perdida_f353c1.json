@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pedazos de papel,\ntirados al viento,\nborrando el sentimiento,\ny su sabor a hiel.\nPalabras destruidas,\npor las despedidas.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "carta_rota"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La eternidad espera,\nal otro lado del muro,\nun futuro oscuro,\no una luz verdadera.\n\nYa no hay frontera,\nni camino duro,\nni estación primera.\nLa eternidad.\n\nUna paz duradera,\nes lo que auguro,\nen el aire puro,\nde esa esfera,\nque a todos libera.\nLa eternidad.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

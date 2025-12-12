@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cae mi llanto,\ny mi quebranto.\n\nPerdí la ilusión,\nde mi corazón,\nsin tener razón,\nme duele tanto.\n\nCae mi llanto,\ny mi quebranto.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

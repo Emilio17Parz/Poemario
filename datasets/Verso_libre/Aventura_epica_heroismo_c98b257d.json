@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Navegamos hacia lo desconocido, más allá de donde terminan los mapas del mundo.\nEl mar es inmenso y terrible, pero nuestro barco es fuerte y nuestra voluntad de hierro.\nBuscamos nuevas tierras, nuevos cielos, la aventura que nos haga sentir vivos.\nSomos los hijos del horizonte, los exploradores de los límites de la realidad.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mar"
+  }
+}

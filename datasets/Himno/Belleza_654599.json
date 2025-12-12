@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verbo encendido, palabra alada,\nque dejas la esencia por siempre grabada.\n¡Gloria a la Poesía, voz del profeta!,\nque alcanza la cima y la lejana meta.\n\nRima y métrica, verso y pasión,\nllave maestra del corazón.\nCantemos al bardo que sabe decir,\nlo que nadie más puede describir.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

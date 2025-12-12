@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vender el tiempo por monedas.\nOcho horas al día,\ncuarenta años.\nEsperando el fin de semana,\nesperando la jubilación,\nesperando a empezar a vivir.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Emprender el viaje\nhacia la orilla que ninguno ha visto;\nsin estar listo,\nsin equipaje;\ncruzar la barca de la laguna estigia;\nsin un vigía\nque anuncie la llegada,\na la región de sombra y de la nada.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

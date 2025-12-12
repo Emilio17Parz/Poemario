@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "From quiet lands, where fate began to stir,\nA hero rose, with purpose in his soul.\nHe left the comfort, 'gainst the evil blur,\nTo seek a truth, and make the broken whole.\n\nThrough shadowed vales, where ancient horrors slept,\nAnd over mountains, reaching for the sky,\nHis silent promise, faithfully he kept,\nBeneath the gaze of stars that watched him fly.\n\nBefore the stronghold, dark against the sun,\nWhere evil gathered, silent, vast, and cold.\nHe gripped his sword, his epic race half-run,\nA final chapter, valor to unfold.\n\nAt last, he stood, prepared for his batalla,\nAnd in his triumph, found his true regalia.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

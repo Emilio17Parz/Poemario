@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Eco en la casa,\nnadie responde al grito,\nsolo el silencio.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

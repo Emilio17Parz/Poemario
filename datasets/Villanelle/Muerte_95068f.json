@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lugar de paz y descanso,\ndonde duermen los ausentes,\nen un silencio muy manso.\n\nYo no me canso,\nde ver a las gentes,\nlugar de paz y descanso.\n\nEn el remanso,\nde las fuentes,\nen un silencio muy manso.\n\nPaso y avanzo,\nentre los durmientes,\nlugar de paz y descanso.\n\nEs el garbanzo,\nde los vivientes,\nen un silencio muy manso.\n\nAquí afianzo,\nmis referentes,\nlugar de paz y descanso,\nen un silencio muy manso.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "```\n               A M O R\n              A M O R A M O R\n             A M O R A M O R A M\n            A M O R A M O R A M O R\n           B E S O B E S O B E S O\n          A M O R A M O R A M O R A M\n         A M O R A M O R A M O R A M O R\n        U N I Ó N E T E R N A C O R A Z Ó N\n       P A S I Ó N P U R A Y V I D A E T E R N A\n      A M O R A M O R A M O R A M O R A M O R A\n     A M O R A M O R A M O R A M O R A M O R A M\n    A M O R A M O R A M O R A M O R A M O R A M O R\n   A M O R A M O R A M O R A M O R A M O R A M O R A M\n  A M O R A M O R A M O R A M O R A M O R A M O R A M O\n   A M O R A M O R A M O R A M O R A M O R A M O R A M\n    A M O R A M O R A M O R A M O R A M O R A M O R\n     A M O R A M O R A M O R A M O R A M O R A\n      A M O R A M O R A M O R A M O R A M\n       A M O R A M O R A M O R A M O\n        A M O R A M O R A M O R\n         A M O R A M O R\n          A M O R A\n           A M O R\n            B E S O\n             A M O R\n              U N O\n               V I D A\n                P A Z\n                 A M O R\n```",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "beso"
+  }
+}

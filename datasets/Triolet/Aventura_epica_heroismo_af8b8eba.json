@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El héroe parte, un grito de valor,\nEl vasto mundo ha de conquistar.\nEl héroe parte, un grito de valor,\nSin miedo enfrenta cualquier fragor.\nEl vasto mundo ha de conquistar.\nSu fiel espada brillando con honor,\nEl héroe parte, un grito de valor,\nEl vasto mundo ha de conquistar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "espada"
+  }
+}

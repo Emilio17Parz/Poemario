@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se miró en el cristal,\ny no vio al joven de ayer,\nsino a un hombre al caer,\nla tarde otoñal.\nLas arrugas contaban,\nhistorias de risa y llanto,\ny un secreto encanto,\nque los años daban.\nSonrió a su reflejo,\naceptando ser viejo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "reflejo"
+  }
+}

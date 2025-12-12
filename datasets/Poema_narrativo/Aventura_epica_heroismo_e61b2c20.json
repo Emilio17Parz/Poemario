@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El joven Arturo llegó a la plaza,\ndonde la roca guardaba el acero.\nNadie de noble o plebeya raza,\nhabía podido ser el primero.\nAgarró el mango con su tenaza,\nbajo la vista del mundo entero.\nTiró con fuerza y la hoja salió,\nbrillando al sol de la alborada,\ny el pueblo a su rey conoció,\npor la magia de aquella espada.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "espada"
+  }
+}

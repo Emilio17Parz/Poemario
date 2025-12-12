@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Inspiración divina,\nmujer de ensueño.\nQue camina,\npor mi diseño.\n\nMujer de ensueño,\nidea perfecta.\nPor mi diseño,\nlínea recta.\n\nIdea perfecta,\nque camina.\nLínea recta,\ninspiración divina.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "musa"
+  }
+}

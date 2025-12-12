@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nacido bajo un signo marcado,\nelegido para la gran misión,\ncon el destino entrelazado,\ny fuego en el corazón.\nCamina solo hacia el peligro,\nescribiendo con sangre su libro.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Héroe"
+  }
+}

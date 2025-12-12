@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cayó en el hoyo ciego, sin poder salir,\nEl enemigo reía, sin dejar de herir.\nPero usó su astucia para poder trepar,\nLa trampa es la lección para poder avanzar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "trampa"
+  }
+}

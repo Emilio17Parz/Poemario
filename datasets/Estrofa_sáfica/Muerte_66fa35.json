@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Deja la carne, vuela hacia Dios,\nchispa divina que no perece,\ny en las alturas resplandece,\nser inmortal.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "alma"
+  }
+}

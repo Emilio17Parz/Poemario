@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fantasma que paraliza,\nque nace de la imaginación,\ny nubla la razón,\nvolviéndola ceniza.\n\nEl miedo se desliza,\npor cada rincón,\nrobando la ilusión,\ncon su fría brisa.\n\nTemo a lo que no sé,\na fallar, a perder,\na quedarme sin fe.\n\nDebo reconocer,\nque el miedo es un pie,\nque me impide correr.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

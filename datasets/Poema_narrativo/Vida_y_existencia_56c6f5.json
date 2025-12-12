@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El sol estaba en lo alto, y su sombra era fiel,\nPegada a sus pasos, de cuerpo y de piel.\nPero al caer la tarde, la sombra creció,\nY el hombre se asustó de lo que no vio.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

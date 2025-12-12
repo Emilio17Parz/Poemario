@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vistan de negro los cielos y mares,\nque el sol no se atreva a salir mañana,\nhan muerto los sueños, los dulces lares,\ntoca a silencio la vieja campana.\nUn héroe ha caído, no por la espada,\nsino por la ausencia de su amada.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Luto"
+  }
+}

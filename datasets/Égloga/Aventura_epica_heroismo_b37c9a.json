@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cantemos las glorias pasadas,\nde pastores que fueron reyes.\nSin otras leyes\nque las espadas.\nHoy recordadas\npor los bueyes.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "reyes"
+  }
+}

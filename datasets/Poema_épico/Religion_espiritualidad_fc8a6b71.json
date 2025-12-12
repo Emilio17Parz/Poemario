@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Lucifer, el ángel bello,\nse rebeló contra Dios,\ny hubo guerra entre los dos,\ncon fuego y con destello.\nCayó con el cuello,\nroto y veloz,\nal infierno atroz,\nperdiendo su sello.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "caída"
+  }
+}

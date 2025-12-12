@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Al final del túnel luz,\ndicen que ven los que marchan,\nhacia el reino celestial.\nEs el brillo divinal,\nque acoge al alma cansada,\ny le ofrece redención.\n\nLa redención,\nen esa luz,\ntan deseada.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "luz"
+  }
+}

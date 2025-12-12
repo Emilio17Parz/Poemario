@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuelga en la pared, fría y vacía,\nla piel de hierro que me protegió,\nel brillo de antaño se oscureció,\ny el metal llora su agonía.\nTestigo mudo de la valentía,\nque el tiempo lento consumió,\nquien la portaba ya partió,\na la eterna lejanía.\nTriste caparazón sin vida,\nrecuerdo de golpes y honor,\nreliquia de una partida.\nDespiertas en mí el dolor,\nde ver la fuerza perdida,\ny el fin del luchador.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "armadura"
+  }
+}

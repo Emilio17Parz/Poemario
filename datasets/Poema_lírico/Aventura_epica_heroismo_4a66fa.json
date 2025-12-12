@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Solo me queda una flecha\ny el pulso que no tiembla.\nLa vida es la mecha\nque el tiempo no emblema.\n\nSi fallo, todo cae,\nsi acierto, la paz,\nmi única clave\npara ser capaz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "flecha"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Grita el silencio su gran verdad,\nnadie responde a mi oración.\nPesa la losa de la ansiedad,\nen los rincones del corazón.\n\nNadie responde a mi oración,\nmundo callado, mundo vacío.\nEn los rincones del corazón,\ncorre la angustia como un río.\n\nMundo callado, mundo vacío,\npesa la losa de la ansiedad.\nCorre la angustia como un río,\ngrita el silencio su gran verdad.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

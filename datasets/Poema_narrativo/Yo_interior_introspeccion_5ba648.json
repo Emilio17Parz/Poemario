@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Se sentó en el jardín con la mente en calma,\nDejando que el silencio le llegara al alma.\nLa reflexión es el arte de hablar sin voz,\nLa cura del hombre, el premio de Dios.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "reflexión"
+  }
+}

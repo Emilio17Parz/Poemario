@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Parca danza al pasar,\nTrayendo consigo el fin,\nNo hay nada ya que salvar,\nSilente como un jazmín.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "fin"
+  }
+}

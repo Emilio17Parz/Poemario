@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El reloj se ha vuelto lento,\npegajoso.\nLos minutos se estiran como chicle.\n¿Cómo puede durar tanto un día\ncuando no tienes a nadie\ncon quien compartirlo?",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

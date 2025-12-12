@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres mi escondedero y mi escudo; en tu palabra he esperado y en tu abrazo encuentro la salvación.\nLíbrame de los hombres malvados y de las lenguas que cortan como navajas, escóndeme bajo la sombra de tus alas.\nPorque tú has sido mi fortaleza, torre fuerte delante del enemigo, y roca mía y castillo mío.\nEn la paz de tu pecho descansaré, y no temeré el terror nocturno, ni saeta que vuele de día.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "refugio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El niño pide pan en la vereda,\ncon la mirada triste y suplicante,\nmientras el mundo gira y se enreda.\n\nNadie se para, nadie se queda,\nante esa imagen tan agonizante,\nel niño pide pan en la vereda.\n\nLa indiferencia es una moneda,\nque paga el precio del caminante,\nmientras el mundo gira y se enreda.\n\nNo hay una mano que interceda,\npor ese ser pequeño y errante,\nel niño pide pan en la vereda.\n\nLa caridad es una seda,\nque se desgarra en este instante,\nmientras el mundo gira y se enreda.\n\nEs la injusticia que nos aseda,\ny nos convierte en pueblo distante,\nel niño pide pan en la vereda,\nmientras el mundo gira y se enreda.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

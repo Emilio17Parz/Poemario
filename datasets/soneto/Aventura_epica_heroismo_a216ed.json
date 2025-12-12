@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¿Qué es la gloria sino humo?\nEl aplauso de la gente,\nun recuerdo intermitente,\nque yo con desdén asumo.\n\nBuscan subir a lo sumo,\nser el astro reluciente,\npero el olvido inclemente,\nles baja pronto el insumo.\n\nLa verdadera victoria,\nno está en el mármol grabado,\nni en los libros de historia.\n\nEstá en haber luchado,\ncon la conciencia notoria,\nde haber el bien sembrado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

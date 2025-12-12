@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Aventura\n               Épica\n             Heroísmo\n           Senda audaz\n         Valor, coraje\n       La Lucha inmensa\n      El Dragón temible\n     Con Fuerza de mil\n    Hacia la Cima, por\n   El Destino forjado\n  En cada golpe, el\n H O N O R se alza\nLa Victoria aguarda\n  En la Leyenda Eterna\n    Del Héroe sin fin",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "honor"
+  }
+}

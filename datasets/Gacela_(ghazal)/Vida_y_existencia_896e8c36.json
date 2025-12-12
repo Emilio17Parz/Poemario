@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivimos soñando con lo que no es,\nconstruyendo castillos del revés.\n\nLa ilusión nos mueve los pies,\npero la realidad cuenta hasta diez.\n\nDespertar es volver a la escasez,\npero soñar nos da la fluidez.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "ilusión"
+  }
+}

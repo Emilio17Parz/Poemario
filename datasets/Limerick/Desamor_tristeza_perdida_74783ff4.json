@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Un amor que me hirió sin piedad,\nDejó el alma en cruel soledad.\nPor el dulce ayer,\nQue jamás ha de ser,\nUna lágrima fue mi verdad.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

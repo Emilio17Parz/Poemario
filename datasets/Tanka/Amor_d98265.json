@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Luz que despierta\nsobre tu rostro amado\nbello comienzo.\nVerte al abrir los ojos\nes mi mayor regalo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

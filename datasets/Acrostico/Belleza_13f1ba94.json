@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cálidos tonos en el paisaje,\nOlas azules en la gran mar,\nLuz que dibuja nuestro viaje,\nOcre de otoño al despertar,\nRojo de sangre y de coraje.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "color"
+  }
+}

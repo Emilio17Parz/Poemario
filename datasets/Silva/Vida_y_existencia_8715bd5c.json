@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Persigue tu meta,\ncon la ilusión de un niño soñador,\ncomo hace el poeta,\ncon su fervor,\nbuscando siempre un mundo mejor.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "meta"
+  }
+}

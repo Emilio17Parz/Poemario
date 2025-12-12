@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nuestro paso es leve huella,\nque la lluvia borrará,\nnadie nos recordará,\nni quedará nuestra estrella.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "paso"
+  }
+}

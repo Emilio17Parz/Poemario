@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Forjada en fuegos de otro mundo,\ncon runas brillantes en la hoja,\nla espada que la sangre arroja\ny causa un daño profundo.\n\nElige a su dueño en un segundo,\na aquel que no tiene congoja,\ny que de la cobardía se despoja\npara ser del reino el fecundo.\n\nArma de doble filo y poder,\nque da la victoria o la muerte,\nsegún se sepa querer.\n\nEs la llave de la suerte,\nque ayuda a defender\nal brazo que es fuerte.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "filo"
+  }
+}

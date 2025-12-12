@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El frío abrazo de la muerte,\nQue el alma en sombras se desvanece,\nNuestro sendero ya no tiene suerte,\nEl frío abrazo de la muerte.\nEn cada gesto, la *memoria* crece,\nCon su silencio, la vida advierte,\nEl frío abrazo de la muerte,\nQue el alma en sombras se desvanece.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

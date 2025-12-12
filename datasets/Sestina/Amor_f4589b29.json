@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Toma mi vida y toma mi mano,\ncaminemos sin ver el destino,\nconfiando en la fuerza del lazo.\nNo me importa si es corto el plazo,\nsi lo recorro junto a tu lado,\nen este viaje de amor leal.\n\nDe amor leal,\ndame tu mano,\ny sé mi amado.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "mano"
+  }
+}

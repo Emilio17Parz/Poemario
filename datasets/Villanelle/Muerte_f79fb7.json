@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acaba el tiempo de vida,\ny llega el momento del fin,\nla partida decidida.\n\nYa no hay salida,\nen el jardín,\nse acaba el tiempo de vida.\n\nEs la medida,\ndel paladín,\nla partida decidida.\n\nAlma perdida,\nen el confín,\nse acaba el tiempo de vida.\n\nLuz encendida,\ndel serafín,\nla partida decidida.\n\nQueda dormida,\nla flor de jazmín,\nse acaba el tiempo de vida,\nla partida decidida.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

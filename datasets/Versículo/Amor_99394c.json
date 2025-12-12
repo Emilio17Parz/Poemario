@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando el mundo afila sus dientes y la tormenta ruge afuera, tú eres mi cueva y mi puerto seguro.\nEn ti bajo las armas, me quito la armadura y descanso como el guerrero que ha encontrado por fin su hogar.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "refugio"
+  }
+}

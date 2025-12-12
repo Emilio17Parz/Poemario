@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siento un hueco en la panza,\nque no es de la balanza.\nEs el vacío,\ndel amor mío,\nsin esperanza.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

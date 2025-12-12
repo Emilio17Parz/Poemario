@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Verde es la esperanza de tu llegada,\nflorece mi jardín al verte entrar,\nel alma que antes estaba callada,\npor ti comienza de nuevo a cantar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Verde"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Romper cadenas es la misión,\nvolar alto sin ataduras,\nlejos de cualquier prisión.\n\nVivir las grandes aventuras,\nde ser dueño de la voluntad,\ny alcanzar las mayores alturas.\n\nDe la verdad.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

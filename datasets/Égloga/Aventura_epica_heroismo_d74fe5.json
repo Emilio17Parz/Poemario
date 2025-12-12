@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guié al rebaño y a la gente,\na tierras de pasto nuevo,\ny en mi pecho llevo,\nel peso del frente.\n\nSer guía es exigente,\npero verlos comer,\nes el mayor placer,\ndel pastor valiente.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "líder"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Señor de la inmensidad,\nque todo lo ves y sabes,\ntú tienes todas las llaves,\nde la humana verdad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "dios"
+  }
+}

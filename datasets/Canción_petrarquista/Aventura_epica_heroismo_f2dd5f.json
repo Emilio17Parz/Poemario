@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Buscando la riqueza\nperdieron muchos la vida y el alma;\nrompiendo la calma\ncon su bajeza;\nque el oro brilla con luz engañosa;\ny es mariposa\nque quema al que la toca,\nllevándolo a una perdición loca.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

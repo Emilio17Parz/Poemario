@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene la estrella brillo,\nsuave y sencillo.\n\nLuz en la oscuridad,\nde la inmensidad,\ncon serenidad,\ndesde su castillo.\n\nTiene la estrella brillo,\nsuave y sencillo.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Salir del puerto, dejar lo seguro,\nlanzarse a lo desconocido,\nromper del miedo el grueso muro,\ny encontrar lo que estaba perdido.\nEl héroe no es quien se queda,\nsino quien rueda y rueda.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

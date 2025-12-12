@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pacen las cabras en la ladera,\nsalta el cordero, duerme el mastín.\nEs este valle un gran jardín\ndonde la vida es placentera.\nBajo la luz de la primavera\ntodo parece no tener fin.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cabras"
+  }
+}

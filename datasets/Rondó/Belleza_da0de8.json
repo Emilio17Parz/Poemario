@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Abre la rosa,\nsu capullo,\ncon orgullo,\nhermosa.\nMariposa,\ndel arrullo.\nAbre la rosa.\n\nReina del jardín,\nperfumada,\namada,\nsin fin.\nEl clarín,\ncallada.\nAbre la rosa.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

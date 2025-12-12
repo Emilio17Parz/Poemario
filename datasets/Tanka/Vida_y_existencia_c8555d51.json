@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida respira,\ncamino de **verdad**.\nEl alma percibe\nsu esencia profunda,\nmisterio del ser.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

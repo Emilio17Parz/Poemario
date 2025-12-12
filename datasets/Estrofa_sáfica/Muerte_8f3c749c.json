@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Yace olvidado en la fría tumba,\nmientras el mundo gira y retumba,\ntodo el orgullo pronto se derrumba,\nnada nos queda.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

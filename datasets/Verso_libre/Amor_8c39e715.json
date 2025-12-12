@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Llegaste como un desorden necesario.\nTiraste los libros de los estantes,\nabriste las ventanas cerradas,\ny dejaste que entrara el polvo y la luz.\nMi vida ordenada y gris\nse llenó de tu ruido,\ny por primera vez,\nel caos tuvo sentido.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "caos"
+  }
+}

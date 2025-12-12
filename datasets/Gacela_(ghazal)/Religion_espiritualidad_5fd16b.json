@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Gesto sagrado es el viejo ritual,\npuente al misterio, el viejo ritual.\n\nRepetir las palabras antiguas,\nda poder y sentido al ritual.\n\nConectar lo mortal con lo eterno,\nes la magia del santo ritual.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "ritual"
+  }
+}

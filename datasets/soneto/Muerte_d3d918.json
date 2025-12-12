@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj de arena se ha vaciado,\ncae el último grano en el suelo,\nse detiene el pulso y el anhelo,\ny el libro de la vida es cerrado.\n\nTodo lo que fue edificado\nse desvanece como un velo,\ny el tiempo, con su cruel celo,\ndeja el presente pasado.\n\nFugaz es nuestro paso aquí,\ncomo la huella en la orilla\nque el mar borra, frenesí.\n\nQueda solo la semilla\nde lo que dimos de sí,\ny el polvo en la mejilla.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

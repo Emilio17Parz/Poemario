@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde llama sin cesar,\nun dulce aliento al caminar,\npor cada senda que se enmienda,\nla naturaleza nos ofrenda,\nnos invita a meditar.\n\nLos pájaros van a cantar,\njunto al tranquilo y viejo río, sin dudar,\nla vida fluye cual leyenda,\nEl verde llama sin cesar.\n\nLas hojas danzan al pasar,\nlas flores quieren despertar,\nla brisa que el alma nos contienda,\nun eco dulce que nos tienda,\nnos vuelve a reconfortar,\nEl verde llama sin cesar.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "río"
+  }
+}

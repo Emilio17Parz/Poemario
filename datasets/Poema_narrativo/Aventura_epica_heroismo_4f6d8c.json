@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Pudo haber huido al ver el peligro fatal,\nPero quedó a su lado, sin pensar en el mal.\nPerdió la vida en esto, mas ganó el recuerdo,\nEl honor es el premio, el último acuerdo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "honor"
+  }
+}

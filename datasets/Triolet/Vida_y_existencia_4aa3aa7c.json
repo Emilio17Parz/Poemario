@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hago mi camino\nal caminar,\ncon buen tino.\nHago mi camino,\nes mi destino\nel avanzar.\nHago mi camino\nal caminar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "camino"
+  }
+}

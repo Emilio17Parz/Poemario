@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hay dos mundos en la misma calle.\nUno tira el pan que le sobra,\nel otro busca en la basura.\nLa pobreza no es solo hambre,\nes la vergüenza de una sociedad\nque ha olvidado compartir,\nque mide el valor de un hombre\npor el peso de su bolsillo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

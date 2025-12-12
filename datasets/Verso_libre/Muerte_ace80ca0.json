@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dicen que la muerte es un sueño largo, un dormir sin sueños, un descanso de la fatiga de ser.\nCerrar los ojos y dejarse caer en el abismo suave de la nada, sin miedo, sin dolor.\nComo el niño que se duerme en brazos de su madre, así el alma se entrega a la oscuridad.\nDulce es el reposo para el guerrero cansado, dulce es el final del camino para el peregrino.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

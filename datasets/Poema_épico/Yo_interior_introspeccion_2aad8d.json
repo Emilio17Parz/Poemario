@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Lo que oculto bajo la alfombra,\nla bestia que habita en el sótano,\nmiedo, ira y oscura sombra,\nque a veces toma el gobierno.\nAceptar la noche interior,\nes el camino superior.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

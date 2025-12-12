@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Jasón y los Argonautas,\nbuscaron el vellocino,\npor un mar divino,\ny tierras incautas.\nCon héroes y flautas,\ny mucho destino,\nhallaron el lino,\nde las pautas.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

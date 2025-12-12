@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Nieve que te vas con tu breve fulgor,\nla calma que el cuerpo no quiere ya sentir.\nTu pureza es sombra, sin un gran dolor,\nel alma sin poder huir.\nTu cristal se rompe, el brillo se va,\nla pena que el tiempo me da.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Nieve"
+  }
+}

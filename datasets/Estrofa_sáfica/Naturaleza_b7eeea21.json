@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Fresca brisa mueve el verde pinar,\nbajo el sol que dora el vasto campo,\ndonde el cielo se une con la tierra,\nvive la vida.\n\nCorre el río claro entre las rocas,\nen su orilla una pequeña **flor**\nabre sus pétalos al aire libre,\ndulce fragancia.\n\nBrisa suave en el alma mece el fuego,\ncanta el pájaro libre en la rama,\ny el silencio abraza el alma nuestra,\npaz que consuela.\n\nOh, belleza pura, don divino,\nque renueva el espíritu humano,\nen tu seno encuentro la armonía,\neterna calma.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "flor"
+  }
+}

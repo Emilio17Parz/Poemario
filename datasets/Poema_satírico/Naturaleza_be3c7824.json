@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El rey de la selva en casa,\nte mira con gran desdén,\nle das comida y también,\nla cama que le apetezca.\nSi lo tocas te amenaza,\ncon su garra de sartén,\npero el dueño, ¡qué bien!,\nle limpia la carcasa.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "gato"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, Naturaleza, qué gran musa del arte,\nAsí proclama el que la ve de lejos,\nSentado en su sillón, con su café aparte,\nMientras otros limpian los restos añejos.\n\nNo es el arroyo cristalino y puro\nLo que te salpica, sino fango y cieno;\nEl lirio campestre, de aroma futuro,\nTrae polen que te deja el ojo lleno.\n\nEl tierno cervatillo, cual postal idílica,\nDeja un rastro que el olfato no perdona;\nY la abeja obrera, en su misión bucólica,\nTe pica si su espacio no perdonas.\n\nEl **viento**, ese juguetón que despeina,\nNo canta romanzas, mas sí polvo y ramas;\nTe enfría los sesos, la ropa te estrena\nCon barro que en tu idilio se derrama.\n\nSe pinta de verde el más gris de los muros,\nSe riega con esmero el cactus de plástico;\nY se ama el paisaje de montes oscuros,\nSiempre que haya WiFi y baño fantástico.\n\nAsí que aplaudamos la \"pachamama\" santa,\nDesde la burbuja de la civilización;\nQue el barro en la suela jamás nos espanta,\nSi el filtro del \"Insta\" mejora la visión.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

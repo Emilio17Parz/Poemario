@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de arena infinito y rojo,\ndonde el sol quema la esperanza,\nla duna cambia y avanza,\na su capricho y antojo.\nEl viajero siente el enojo,\nde la sed que el cuerpo alcanza,\nen esta dura andanza,\ndonde la vida es despojo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

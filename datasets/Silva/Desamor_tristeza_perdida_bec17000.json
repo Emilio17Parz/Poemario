@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu engaño fue letal,\nun golpe que rompió mi confianza,\nun acto tan fatal,\nque mata la esperanza,\ny rompe de mi vida la balanza.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "engaño"
+  }
+}

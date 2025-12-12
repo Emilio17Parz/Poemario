@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Temor al fin,\na la oscuridad fría\ndel ataúd.\nPero es solo la puerta\na otra dimensión.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

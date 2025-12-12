@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Piel con arrugas,\nmapa de lo vivido,\nsabio cansancio.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

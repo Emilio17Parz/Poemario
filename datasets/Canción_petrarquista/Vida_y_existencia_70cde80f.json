@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos cual hoja que el viento mece,\nfrágiles ante el golpe del destino,\ny en nuestro camino\nla dicha nace y pronto fallece.\nNada es estable bajo de la luna,\nni la fortuna,\nque gira sin parar,\ny hoy nos hace reír y mañana llorar.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "fragilidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra de la Muerte, con su guadaña fría,\nNos vuelve al fin al polvo, al origen deshecho.\nSilente e inevitable, consume nuestra vida,\nDejando solo el rastro de un sueño ya deshecho.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fuerza implacable que teje la suerte,\ny nos conduce hacia la propia muerte.\nNo valen ruegos ni valen huidas,\nestán marcadas las tristes vidas.\n\n¡Gloria al destino que manda y ordena,\ny nos impone su dura cadena!\nCaemos vencidos ante su ley,\nsea mendigo o sea el rey.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "fatalidad"
+  }
+}

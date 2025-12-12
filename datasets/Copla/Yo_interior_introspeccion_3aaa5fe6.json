@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El pensamiento es un loco\nque no se quiere callar,\nme lleva de un lado a otro\ny no me deja sosegar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "loco"
+  }
+}

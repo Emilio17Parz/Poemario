@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Lo único constante es cambiar,\nfluye con la corriente,\nvolver a empezar,\nes de valiente.\nReinvéntate a diario,\nen tu escenario.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Cambio"
+  }
+}

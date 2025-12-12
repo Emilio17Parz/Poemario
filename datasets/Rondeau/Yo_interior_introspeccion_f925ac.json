@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Espera mañana,\nen la ventana,\nla luz,\nandaluz,\ny la hermana.\n\nLa lana,\ny la cana,\ndel trasluz,\nEspera mañana.\n\nEl capuz,\ny la cruz,\ncercana,\ny sana,\nque seduz,\nEspera mañana.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "mañana"
+  }
+}

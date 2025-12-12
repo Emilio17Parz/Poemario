@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El ojo que nunca se cierra,\nel juez que vigila el actuar,\nque sabe premiar y culpar\ny libra su interna guerra.\n\nNo hay sitio en toda la tierra\ndonde te puedas ocultar,\npues ella te habrá de encontrar\ny su veredicto aterra.\n\nEs luz de la moralidad,\nbrújula del bien y el mal,\nguardiana de la integridad.\n\nOír su voz es fundamental,\npara vivir con dignidad\ny ser un humano cabal.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La tierra está llorando,\npor el veneno que le estamos dando.\nBosques que son ceniza,\nel mar que agoniza.\nSi no la protegemos,\nnuestro propio final escribiremos.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

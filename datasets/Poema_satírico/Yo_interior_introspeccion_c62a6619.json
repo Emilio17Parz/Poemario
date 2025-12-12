@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La culpa es de otro,\nnunca es mía,\nyo soy perfecto,\ntodo el día.\nSi algo sale mal,\nfue el destino,\no el gato negro,\nen mi camino.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

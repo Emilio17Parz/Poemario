@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Viento helado, que arrastra mi queja,\nlleva mi pena lejos del mar.\nMi voz es débil, la vida me deja,\nsin un puerto donde pueda anclar.\n¡Oh, soplo errante, de fuerza sutil,\nescucha mi alma de triste candil!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La arruga cuenta una historia,\nde risas y de sol,\nes mapa de memoria,\ny de autocontrol.\nEnvejecer es un arte,\nque embellece tu parte.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Vejez"
+  }
+}

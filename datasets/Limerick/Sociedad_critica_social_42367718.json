@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El dinero mueve el mundo,\ncon un poder profundo,\nsi tienes billete,\nte dan el banquete,\nsi no, eres vagabundo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Dinero"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tener fe mueve montañas,\ny nos da seguridad,\nrompiendo las telarañas,\nde la oscura soledad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "fe"
+  }
+}

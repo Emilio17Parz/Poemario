@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Oh noche eterna sin amanecer!\nCubre mi pena con tu negrura,\nesconde al mundo mi desventura,\ny no me obligues a renacer.\n\nSean tus estrellas lágrimas frías,\ntestigos mudos de mi quebranto,\nentiérrame bajo tu manto,\nlejos de luces y de alegrías.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "oscuridad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No había pruebas de nada, solo un libro viejo,\nDonde un sabio contaba el más firme reflejo.\nElla creyó en la historia, sin ver ni tocar,\nLa fe es el cimiento para poder andar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "fe"
+  }
+}

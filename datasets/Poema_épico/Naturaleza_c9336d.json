@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompe la tierra la lanza verde,\nvuelve la vida a ganar la lid,\nel frío huye, la nieve pierde,\nbrota la rosa y brota la vid.\nRenacimiento, victoria floral,\nfiesta de vida universal.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Primavera"
+  }
+}

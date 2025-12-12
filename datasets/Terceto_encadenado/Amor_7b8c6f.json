@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El misterio de amarte es un dulce fin (A),\nla razón oculta de mi existir (B),\nel eterno aroma de un dulce jazmín (A).\n\nNo hay más que buscar, no hay más que vivir (B),\nque en tu cuerpo hallar la gran verdad (C),\nla fuerza que ayuda a seguir (B).\n\nMi alma se llena de caridad (C),\nel fuego sagrado que no se irá (D),\nla clave de la libertad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Misterio"
+  }
+}

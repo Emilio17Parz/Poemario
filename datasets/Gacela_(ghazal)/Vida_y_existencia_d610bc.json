@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dos caminos se abren, es la elección,\nlibertad y condena, la elección.\n\nNo elegir es también decidir,\nes la trampa sutil de la elección.\n\nCada paso define quién eres,\nfruto amargo o dulce de la elección.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "elección"
+  }
+}

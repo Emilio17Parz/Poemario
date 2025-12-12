@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sobre el lienzo se mezclan los colores,\natrapando la luz de un solo instante,\ntan brillante,\nque despierta los más dulces amores.\nPincelada que guarda la memoria,\ny gloria,\nde un paisaje que nunca envejecerá,\nni morirá.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El alma es de Dios, un soplo de vida sin final (A),\nque vive en la carne, que quiere volar (B),\nla vida es un sueño, el don total (A),\nla calma que viene a sanar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

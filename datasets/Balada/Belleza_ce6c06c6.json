@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La rosa que florece, gracia vana,\nSus pétalos suaves, de vívido matiz,\nLa sonrisa en la faz más soberana,\nQue se desvanece y no vuelve a ser feliz.\n\nMas hondo que el cristal del ojo mira,\nExiste una armonía en el alma fiel,\nBondad que el espíritu transpira,\nCual bálsamo que cura la amarga hiel.\n\nLa cumbre que se alza contra el cielo,\nEl canto del arroyo, un eco que implora,\nLa lágrima callada de un desconsuelo,\nBelleza guarda que el corazón atesora.\n\nPues cada don, su inmaculada **forma**\nAdquiere, donde su ser viene a brillar,\nDesde la estatua eterna hasta la tormenta,\nUn viso de lo excelso que hay que hallar.\n\nAsí, no busques solo el oropel fugaz,\nEl velo resplandeciente, el pulcro fulgor,\nSino donde la verdad su senda traza,\nY despierta del sueño de tan breve esplendor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "forma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La flor se seca y el día se acaba,\nla juventud con el tiempo se traba,\ntoda belleza tiene su final,\nen este mundo que es temporal.\nPero en lo breve está su dulzura,\nsu intensidad y su gran hermosura,\nhay que gozarla en el momento,\nantes que escape llevada por viento.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

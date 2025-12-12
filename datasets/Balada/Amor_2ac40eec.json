@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Busco tu luz en la oscuridad,\ncomo el viajero busca el hogar,\neres mi centro y mi verdad,\nel único sitio donde descansar.\nTengo la plena seguridad,\nque aunque el destino nos pida calma,\nsiempre tendremos la unidad,\nde estar unidos alma con alma.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "alma"
+  }
+}

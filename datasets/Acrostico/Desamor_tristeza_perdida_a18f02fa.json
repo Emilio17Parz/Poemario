@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "R ompióse el cristal de mi alma,\nO lvidado en algún rincón,\nT odo perdió la calma,\nO scura desolación.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "roto"
+  }
+}

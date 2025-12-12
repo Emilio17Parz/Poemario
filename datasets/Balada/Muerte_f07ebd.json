@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lo más terrible no es el morir,\nsino que nadie recuerde tu nombre,\nque se deshaga tu porvenir,\ny que tu huella ya no asombre.\nSer una sombra que se disuelve,\nen la memoria de la humanidad,\nmientras el polvo al polvo vuelve,\nen la absoluta oscuridad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

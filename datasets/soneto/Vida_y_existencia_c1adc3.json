@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Divino tesoro que te vas,\nagua fresca que corre ligera,\nflorida y hermosa primavera,\nque no vuelve nunca jamás.\n\nTodo es fuerza, ímpetu y compás,\nqueriendo comerse la esfera,\nsin pensar en la larga espera,\nni en mirar hacia tiempos atrás.\n\nLa piel tersa y el ojo brillante,\nla risa fácil y el paso fuerte,\nen ese momento delirante.\n\nIgnorando a la sombra y la muerte,\nviviendo el presente constante,\nconfiando en la buena suerte.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

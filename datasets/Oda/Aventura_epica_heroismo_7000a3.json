@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Palabra dada,\nlimpia virtud,\nsalud,\nsagrada.\nVale la vida,\ny la partida.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "honor"
+  }
+}

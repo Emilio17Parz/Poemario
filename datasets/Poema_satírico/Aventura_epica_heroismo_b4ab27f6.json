@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un héroe se nos fue, de gran renombre,\n(O al menos eso dijo en su partida),\nCon panza prominente, ni por asombre\nValiente; más bien de alma entumecida.\n\nDecía el oráculo, con tono grave,\n(Tras ver su bolsa llena de doblones),\nQue un mal ancestral, que al mundo agravie,\nSolo él curaría con sus decisiones.\n\nCruzó ciénagas, montes y desiertos,\nCon mapa que mojado se deshizo.\nComió rancho rancio, tuvo pies inciertos,\nY un sabañón gigante, ¡qué servicio!\n\nEl dragón terrible, al fin, ¿quién era?\nUn burócrata viejo y cascarrabias.\nQue exigía mil sellos, de tal manera\nQue su furia eran solo sus palabras.\n\nLa gran **batalla** fue un trámite lento,\nEntre papeles viejos y un gran bostezo.\nNo hubo sangre ni épico lamento,\nSolo un permiso denegado, con desprecio.\n\nVolvió a casa, sin gloria ni laurel,\nSu espada, al fin, colgó sin más apuro.\nContó su gesta, nadie quiso creer,\nY el mundo, indiferente, siguió oscuro.\nMas él, feliz, volvió a su catre fiel,\nY al vino rancio, su placer futuro.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

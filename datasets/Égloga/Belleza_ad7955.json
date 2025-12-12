@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dos luceros tiene su cara,\npuertas de un alma pura.\nSu dulce hermosura\nno se compara.\nSi ella me mirara,\nfuera ventura.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luceros"
+  }
+}

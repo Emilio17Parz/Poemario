@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se paró el reloj,\ncon un sonrojo,\nde metal y cuerda,\npara que pierda,\nsu tictac cojo.\n\nSin ningún enojo,\nni desalojo,\nel tiempo recuerda,\nSe paró el reloj.\n\nBajo el cerrojo,\ny el trampantojo,\nde la vida izquierda,\nque se muerda,\nel último antojo,\nSe paró el reloj.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

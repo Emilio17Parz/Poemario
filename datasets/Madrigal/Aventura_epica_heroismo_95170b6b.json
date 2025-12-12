@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla la espada fiera\nen la mano de quien vencer espera.\nDefensa del honor,\ncausa del gran temor.\nAcero que no falla\ny decide la suerte en la batalla.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "espada"
+  }
+}

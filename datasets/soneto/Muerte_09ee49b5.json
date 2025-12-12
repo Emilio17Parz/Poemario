@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego fuiste ayer, vida llameante,\ny hoy eres polvo gris en una urna,\nmemoria de una época diurna\nque se apagó en un trágico instante.\n\nYa no existe la forma, ni el semblante,\nni la mirada clara y taciturna,\nsolo queda esta estela, muda y hurna,\nde lo que fue un espíritu gigante.\n\nCenizas que el viento podría llevar,\npero que guardo con celoso empeño\npara tenerte y poderte llorar.\n\nEres el fin del corporal diseño,\nla prueba de que todo ha de acabar\ncomo se acaba el más hermoso sueño.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

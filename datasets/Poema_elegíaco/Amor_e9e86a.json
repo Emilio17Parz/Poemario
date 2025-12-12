@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Donde plantamos rosas, solo hay espinas hoy,\nel jardín se ha secado, ya no sé dónde voy.\nLas flores son ceniza, el pasto es de color gris,\nla muerte de la vida que tuviste aquí.\n\nLloro por el color que el recuerdo me niega,\npor la suave fragancia que el tiempo no me entrega.\nMi alma es el paisaje de la desolación,\nla amarga cosecha de una vana ilusión.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

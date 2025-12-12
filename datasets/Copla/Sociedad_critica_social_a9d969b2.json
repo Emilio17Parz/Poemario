@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "La riqueza, sorda y muda,\nal pobre quiere humillar,\ny entre el lodo, un grito anuda\nsu fuerza para luchar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "grito"
+  }
+}

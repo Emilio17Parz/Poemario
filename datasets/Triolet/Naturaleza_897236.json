@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ruge el trueno feroz,\nrompiendo la calma.\nCon una voz,\nruge el trueno feroz.\nEs muy veloz,\ntiembla el alma.\nRuge el trueno feroz,\nrompiendo la calma.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

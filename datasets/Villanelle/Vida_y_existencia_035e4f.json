@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El trabajo dignifica la vida,\ny nos da el pan de cada día,\ncurando cualquier herida.\n\nEs la labor cumplida,\ncon alegría,\nel trabajo dignifica la vida.\n\nLa meta conseguida,\ncon valentía,\ncurando cualquier herida.\n\nSin dar por perdida,\nla energía,\nel trabajo dignifica la vida.\n\nEs la medida,\nde la valía,\ncurando cualquier herida.\n\nEn la partida,\nde la vía,\nel trabajo dignifica la vida,\ncurando cualquier herida.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

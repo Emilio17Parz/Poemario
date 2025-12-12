@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El campo se despierta\ncon nuevo sol;\nel alba que se asienta\nen cada flor.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "flor"
+  }
+}

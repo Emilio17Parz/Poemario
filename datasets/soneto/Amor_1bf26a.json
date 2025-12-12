@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pasamos por tormentas y huracanes,\npor valles de dolor y de sequía,\npero nunca perdimos la guía\nni cedimos a extraños afanes.\n\nLuchamos contra mil y un desmanes,\nmanteniendo la fe día tras día,\nuniendo tu energía con la mía,\nrompiendo de la suerte los imanes.\n\nHoy miramos atrás lo recorrido,\ny vemos que el amor se hizo fuerte,\ncomo el acero al fuego sometido.\n\nNada podrá romper, ni la muerte,\neste lazo que hemos construido,\nque es nuestra gloria y nuestra suerte.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "acero"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El verbo de mi vida\nera 'ser' y 'estar',\ny tú lo cambiaste\npor el verbo 'amar'.\n\nMi gramática es tu cuerpo,\nmi única oración, tu piel,\ny mi léxico se rinde\na tu boca de miel.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "verbo"
+  }
+}

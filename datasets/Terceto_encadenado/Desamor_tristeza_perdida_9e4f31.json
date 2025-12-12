@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La sombra me sigue con velo de pena cruel (A),\nun fantasma triste que vaga sin par (B),\nla vida es un trago de amarga hiel (A).\n\nNo hay más que buscar, no hay más que amar (B),\nel silencio es dueño de mi razón (C),\nla forma de no volver a sanar (B).\n\nMi corazón roto, sin compasión (C),\nla ausencia me come, sin un final (D),\nla eterna y dura lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

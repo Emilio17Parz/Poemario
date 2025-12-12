@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando escucho tu voz,\nse detiene el reloj y el tiempo muere,\nes un dardo veloz,\nque dulcemente el corazón me hiere.\nMúsica celestial que me fascina,\nfuente cristalina,\nno dejes de sonar en mi oído,\nque estoy perdido.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "canto"
+  }
+}

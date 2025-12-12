@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El ayer es historia,\nel mañana es misterio,\nvive la gloria,\ndel hoy con criterio.\nEl ahora es regalo,\nno lo trates de malo.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Presente"
+  }
+}

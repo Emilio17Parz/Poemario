@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En el silencio que la noche teje,\ncuando el mundo exterior ya se ha dormido,\nmi espíritu en su cuna se mece,\nbuscando el ser que en mí se ha escondido.\n\nDespojo máscaras, velos y antifaces,\nque el día impone con su duro brillo,\ny en hondos pozos de recuerdos y enlaces,\nmi esencia busca su propio pasillo.\n\n¿Soy este eco o el original concierto?\n¿La sombra errante o el fugaz destello?\nEn cada atisbo, un abismo incierto,\ndonde la **duda** me clava su sello.\n\nMe miro al espejo de mi propia mente,\nreflejo roto de mil fragmentos,\ny siento el pulso de un ser diferente,\ntejido de sueños y de lamentos.\n\nAtravieso pasajes de antigua memoria,\ndonde resuenan voces olvidadas,\ncada rincón es una historia,\nverdades nuevas, viejas, reveladas.\n\nNo hay un final, solo el eterno viaje,\nde conocer el alma en su vaivén,\nun íntimo y sagrado paisaje,\ndonde ser yo es la única fe.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "duda"
+  }
+}

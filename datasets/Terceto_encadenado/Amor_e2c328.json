@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la estrella en mi noche sin par (A),\nque guía mi rumbo con fe y con luz (B),\nmi barca sin vela que quiere anclar (A).\n\nMi alma se libra del peso de la cruz (B),\nla pena se aleja, no existe el error (C),\nla calma que vino de un dulce tul (B).\n\nPor ti mi vida tiene gran fulgor (C),\nel eterno canto, la voz sin igual (D),\nla esencia más pura del puro amor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Estrella"
+  }
+}

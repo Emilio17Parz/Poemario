@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena el violín con melancolía,\nllora la cuerda su canción,\nlleva la pena y la alegría,\ndirecto a mi corazón.\nEs la música la pasión,\nque no necesita razón.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "música"
+  }
+}

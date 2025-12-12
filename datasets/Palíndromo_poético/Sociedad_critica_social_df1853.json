@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Falso ser\nes quien\nmiente\nes quien\nfalso ser",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "falso"
+  }
+}

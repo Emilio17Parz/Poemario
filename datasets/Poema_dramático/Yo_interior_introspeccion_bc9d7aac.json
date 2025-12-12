@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "MENTE: Ve a la derecha, es seguro.\nCORAZÓN: Ve a la izquierda, aunque sea oscuro.\nMENTE: Allí hay lógica y razón.\nCORAZÓN: Aquí hay pasión e ilusión.\nMENTE: Te vas a estrellar, te lo digo.\nCORAZÓN: Pero estaré vivo y conmigo.\nYO: ¡Basta! ¿A quién debo escuchar?\nALMA: Al silencio, para empezar.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "camino"
+  }
+}

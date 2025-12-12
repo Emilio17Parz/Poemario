@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "ÉL: Te veo en cada esquina de la calle.\nELLA (FANTASMA): Soy solo un eco, una sombra.\nÉL: Mi boca con desesperación te nombra.\nELLA (FANTASMA): No me llames, deja que me calle.\nSoy el recuerdo que debes soltar,\npara que puedas volver a respirar.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

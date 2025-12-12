@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Salida del puerto seguro,\nbúsqueda de lo nuevo,\nromper el cotidiano muro\ny encontrar el relevo.\nCaminos desconocidos,\nrostros que nunca vi,\npaisajes y sonidos\nque entran dentro de mí.\nMaestro de la vida,\nque enseñas humildad,\ncada milla recorrida\nes una nueva verdad.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

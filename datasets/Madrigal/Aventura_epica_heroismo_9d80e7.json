@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos junto a la hoguera,\nhistorias de dioses y de titanes,\ny afanes,\nque sucedieron en la antigua era.\nVerdad o mentira, qué más da,\nsi está,\nviva en la memoria de la canción,\ny la tradición.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mito"
+  }
+}

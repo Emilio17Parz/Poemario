@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dragón echa fuego,\npor su boca gigante,\npero sigo adelante,\nsin hacerle ruego.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

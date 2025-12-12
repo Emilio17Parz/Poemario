@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tu abrazo consigo hallar la calma,\nrefugio contra el miedo y la tormenta,\nque sana las heridas de mi alma.\n\nTu cuerpo junto al mío se alimenta,\nde esta paz que nos une en el silencio,\ny que a nuestro cariño fundamenta.\n\nPor eso tu presencia reverencio.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "calma"
+  }
+}

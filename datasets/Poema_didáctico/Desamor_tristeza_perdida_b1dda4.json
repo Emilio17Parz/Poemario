@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aunque hoy todo sea gris,\nmañana saldrá el sol,\nvolverás a ser feliz,\ny a tener el control.\nEl amor volverá a llamar,\ncuando estés listo para amar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Esperanza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dices que la vida es laberinto,\ny te guía el instinto.\nPero llevas GPS,\ny te pierdes con estres.\nNo es la vida complicada,\nes tu mente despistada.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

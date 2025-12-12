@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Veinte millonarios corriendo,\ndetrás de un balón de cuero,\ny el pueblo pobre rugiendo,\ngastando su poco dinero.\nPan y circo moderno,\npara aguantar el invierno.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Fútbol"
+  }
+}

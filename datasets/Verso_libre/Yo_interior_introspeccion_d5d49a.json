@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El cristal no miente,\npero tampoco dice toda la verdad.\nMe devuelve la piel,\nlas arrugas,\npero no muestra el incendio\nque arde detrás de los ojos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El mar me devolvió una ola,\nsin rastro de ti, sola, sola.\nLa sal en mi boca,\nme sabe a loca,\nla pena que no se controla.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

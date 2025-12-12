@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompe la noche la luz primera,\ny se disipan las sombras ya,\nnace de nuevo la vida entera,\ny el sol su brillo nos traerá.\nCantan las aves, se abre la flor,\ny el mundo empieza su actividad,\ntras el descanso reparador,\nvuelve la luz y la claridad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

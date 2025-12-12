@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tierra que cubres al ser ya dormido,\ncuna de paz, de silencio total.\nEn tu seno el cuerpo ya está cosido,\nlibre por siempre de un duro mal.\n¡Oh, matriz noble, de eterna labor,\ndevuelves al polvo su fulgor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Tierra"
+  }
+}

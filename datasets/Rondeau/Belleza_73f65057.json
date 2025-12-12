@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mundo de color,\nlleno de amor,\ny de belleza,\nque con firmeza,\nborra el dolor.\n\nEs el esplendor,\ndel Creador,\ncon gran destreza,\nmundo de color.\n\nSin el temor,\nal desamor,\nla naturaleza,\nMuestra su pieza,\ncon gran valor,\nmundo de color.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "color"
+  }
+}

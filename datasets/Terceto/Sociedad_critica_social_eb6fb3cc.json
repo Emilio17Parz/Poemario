@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se escucha en el silencio un fuerte grito,\nde quienes ya no pueden aguantar,\nrompiendo el orden de lo prescrito.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "grito"
+  }
+}

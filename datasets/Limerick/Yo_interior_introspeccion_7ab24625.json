@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No sé si ir o venir,\nsi reír o sufrir,\nla duda me mata,\nme ata la pata,\ny no me deja vivir.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Duda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me late el pecho fuerte\nsi estás presente,\ntu risa es el arroyo\nde fresca fuente.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

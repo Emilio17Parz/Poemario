@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra final que cubre el dulce fulgor (A),\nla vida se apaga, sin un final (A),\nla ausencia de todo valor (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Me llama la mar,\ncon su voz profunda,\nola que inunda,\nmi despertar.\nQuiero navegar,\nla dicha fecunda.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "mar"
+  }
+}

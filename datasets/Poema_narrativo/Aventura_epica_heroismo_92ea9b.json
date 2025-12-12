@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Navegó cien días por el mar del olvido,\nBuscando el oro antiguo que estaba escondido.\nNo halló ni una moneda, solo arena y sal,\nEl tesoro era el viaje, la cosa fatal.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

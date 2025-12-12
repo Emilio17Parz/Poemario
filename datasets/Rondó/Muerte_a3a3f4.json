@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te fuiste al cielo azul,\na ser una estrella.\nDejando huella,\nen el baúl.\n\nBajo el tul,\nde la doncella.\nTe fuiste al cielo azul,\na ser una estrella.\n\nComo abedul,\nque destella.\nCosa bella,\nde estambul.\nTe fuiste al cielo azul.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

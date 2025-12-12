@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El frío me hiela el rostro, la piel que se va a perder (A),\nel cuerpo que yace sin querer (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Errar es humano en el caminar,\ny divino es saber perdonar.\nEl rencor es veneno en la copa,\nque al amor puro siempre arropa.\nLimpia la ofensa con comprensión,\ny sanarás tu propio corazón.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor eterno prometimos,\nbajo la luna de aquel día,\nllevando el alma vacía,\nde los miedos que vencimos.\n\nJuntos la senda seguimos,\ncon ilusión y alegría,\ny nuestros sueños unimos.\nAmor eterno.\n\nAunque a veces discutimos,\ntu luz sigue siendo guía,\nmi paz y mi energía,\npor lo mucho que sentimos,\ny lo que nos ofrecimos.\nAmor eterno.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

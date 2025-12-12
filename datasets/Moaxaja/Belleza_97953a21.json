@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baila la niña,\ncon la campiña.\n\nMueve su cuerpo,\ntan despierto,\nen el huerto,\nde la viña.\n\nBaila la niña,\ncon la campiña.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "danza"
+  }
+}

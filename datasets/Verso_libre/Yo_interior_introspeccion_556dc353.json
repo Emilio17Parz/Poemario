@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me he roto mil veces.\nSoy un jarrón pegado con oro.\nMis grietas son mi historia.\nNo quiero ser perfecto,\nquiero ser entero.\nCada pedazo recogido del suelo\nes una lección aprendida\ny puesta en su lugar.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "reconstrucción"
+  }
+}

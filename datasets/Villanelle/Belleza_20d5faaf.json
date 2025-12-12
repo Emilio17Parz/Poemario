@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La esencia que al alma logra conmover,\nUn rayo de luz que el corazón transforma,\nY en cada curva perfecta halla su forma.\n\nEl suave murmullo de un dulce amanecer,\nCuando el velo nocturno el día conforma,\nLa esencia que al alma logra conmover.\n\nQuizás en el vuelo de un triste atardecer,\nO en el espejo claro donde la vida asoma,\nY en cada curva perfecta halla su forma.\n\nEs ver en lo simple la vida florecer,\nLa chispa vital que en el arte se doma,\nLa esencia que al alma logra conmover.\n\nLa imagen que inspira, que hace renacer,\nUna voz que con gracia al silencio aroma,\nY en cada curva perfecta halla su forma.\n\nLa luz del espíritu, en paz, debe mover,\nUn don inefable que el tiempo no merma,\nLa esencia que al alma logra conmover,\nY en cada curva perfecta halla su forma.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "forma"
+  }
+}

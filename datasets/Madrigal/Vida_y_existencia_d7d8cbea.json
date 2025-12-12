@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye y se mueve,\nnada permanece, todo es breve.\nEl río nunca es mismo,\nes ley del dinamismo.\nCambiar es existir,\ny en cada cambio volver a vivir.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

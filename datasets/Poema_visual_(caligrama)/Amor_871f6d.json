@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Disparo directo\nal centro del pecho\nCupido no falla\ncuando apunta\na tu nombre.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "flecha"
+  }
+}

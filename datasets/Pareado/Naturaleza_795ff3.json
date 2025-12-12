@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El invierno es frío,\ncomo un desafío.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ante lo grande nos inclinamos,\nlo que supera nuestra razón,\nllena de asombro el corazón,\ny sin palabras nos quedamos.\n\nLo sublime nos hace pequeños,\npero eleva nuestra mirada,\nhacia la esencia sagrada,\nde los más altos y puros sueños.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "admiración"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Solo en la noche, frente al peligro,\nvigila el pastor su rebaño.\nNo le hace daño\nel miedo negro.\nYo me alegro\nde su amaño.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "peligro"
+  }
+}

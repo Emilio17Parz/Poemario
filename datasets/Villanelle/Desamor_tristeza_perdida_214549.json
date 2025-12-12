@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu sombra me persigue todavía,\ncomo un fantasma que no se va,\nrobándome la luz del día.\n\nEs una triste compañía,\nque en mi memoria siempre está,\ntu sombra me persigue todavía.\n\nQuisiera hallar la alegría,\npero el dolor no se me va,\nrobándome la luz del día.\n\nSiento una gran melancolía,\nque mi futuro cerrará,\ntu sombra me persigue todavía.\n\nNo tengo paz ni tengo guía,\ndesde que te fuiste allá,\nrobándome la luz del día.\n\nVivo en la oscura agonía,\nde un amor que no volverá,\ntu sombra me persigue todavía,\nrobándome la luz del día.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pedí un papel sellado,\nme tienen de lado a lado,\n\"vuelva mañana\",\ndice la fulana,\nestoy desesperado.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Burocracia"
+  }
+}

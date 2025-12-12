@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Todo lo bueno engorda,\no es pecado mortal,\nla iglesia se desborda,\ncontra el instinto animal.\nSi es divertido, es malo,\ndice el santo del palo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Pecado"
+  }
+}

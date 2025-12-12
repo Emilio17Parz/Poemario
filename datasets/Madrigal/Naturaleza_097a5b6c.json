@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde manto cubre la quietud,\nUn susurro del viento en la arboleda,\nDonde el sol pinta con su plenitud.\n\nFluye el río, su voz no se arredra,\nY canta el ave en su rama dorada,\nLa vida eterna, nunca se arredra.\n\nDesde el pico al valle, la mirada\nSe pierde en cielos de azul profundo,\nY en la brisa salada, enamorada,\n\nPercibo el pulso del vasto *mar* rotundo,\nQue acaricia la orilla con su calma,\nEl corazón del mundo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mar"
+  }
+}

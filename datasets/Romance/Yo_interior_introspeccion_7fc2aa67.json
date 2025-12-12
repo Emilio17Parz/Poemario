@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco el silencio en la noche,\npara escuchar a mi alma,\nque grita cuando hay ruido\ny pierde la calma.\nMe cuenta sus penas viejas,\ncon la palma,\ny me pide que la cure\ncon ensalma.\nEl diálogo con uno mismo,\nes la balma,\nque sana las cicatrices\nde la jalma.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "alma"
+  }
+}

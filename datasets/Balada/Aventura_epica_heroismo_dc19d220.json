@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "En tierras viejas, de leyenda y bruma,\nDonde el mal anidaba en la alta sierra,\nCayó la noche, densa como espuma,\nSintiendo el pueblo el yugo de la guerra.\n\nDe entre la gente, un joven se alzó en pie,\nCon ojos firmes y un espíritu ardiente,\nEscudo al brazo y fe, pues sabía bien\nQue solo un héroe salvaría a su gente.\n\nCruzó desiertos de arenas que quemaban,\nBosques oscuros donde las almas lloran,\nY los dragones al pasar le acechaban,\nMientras las cumbres sus hazañas ignoran.\n\nEn cuevas hondas, donde el oro dormía,\nVenció a las bestias de miradas frías,\nY con su espada, que la luz emitía,\nCortó las redes de las brujerías.\n\nLlegó por fin al foso del Tirano,\nEn una llanura teñida de sombra,\nDonde el ejército, cruel y profano,\nEsperaba el momento que los nombra.\n\nEl viento helado trajo un grito lúgubre,\nLas huestes chocaron con fragor y espanto,\nComenzó la gran **batalla**, cruel y fúnebre,\nY el héroe alzaba su valiente canto.\n\nGolpe tras golpe, cual relámpago fiero,\nAbrió camino entre la vil marea,\nSu corazón no conoció el sendero\nDe la derrota, ni la vil tarea.\n\nVenció al oscuro lord, de negra armadura,\nQue el miedo y el dolor por años sembró,\nTrayendo al fin la paz y la ventura,\nLa libertad que el pueblo tanto anheló.\n\nCon la victoria, el sol de nuevo brilló,\nEl héroe regresó a su hogar tranquilo,\nY el eco de su gesta resonó,\nUn canto eterno, sin tiempo ni exilio.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

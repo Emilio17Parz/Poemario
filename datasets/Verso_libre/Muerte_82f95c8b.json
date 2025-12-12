@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No morimos del todo mientras quede alguien que pronuncie nuestro nombre con amor.\nVivimos en la memoria de los que dejamos atrás, en las obras que construimos, en la semilla plantada.\nSomos inmortales en el eco de nuestras acciones, en la bondad que repartimos.\nLa carne perece, pero el espíritu perdura en la trama invisible de la humanidad.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "legado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Suene la Música en los aires!\nLenguaje universal y profundo,\nque une a los pueblos de este mundo,\nsin fronteras ni desaires.\n\nNotas que curan la soledad,\nritmos que mueven la voluntad,\nviva la eterna sonoridad,\nque nos regala felicidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "sonido"
+  }
+}

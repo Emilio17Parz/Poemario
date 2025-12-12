@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cruzó nuestros pasos el gran destino,\nunió nuestras sendas en el andar,\nmarcando por siempre nuestro camino.\n\nBebimos del mismo y sagrado vino,\nque nos enseñó la forma de amar,\ncruzó nuestros pasos el gran destino.\n\nFue un plan de los cielos, algo divino,\nque nadie en la tierra puede cambiar,\nmarcando por siempre nuestro camino.\n\nSorteando las piedras y el remolino,\nlogramos las dudas al fin disipar,\ncruzó nuestros pasos el gran destino.\n\nYa sea en el llano o el bosque alpino,\njuntos tendremos que continuar,\nmarcando por siempre nuestro camino.\n\nAgradezco al astro y al adivino,\nque supieron esto pronosticar,\ncruzó nuestros pasos el gran destino,\nmarcando por siempre nuestro camino.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "destino"
+  }
+}

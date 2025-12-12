@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro frente al espejo,\ny veo un rostro viejo,\nque me da un consejo.\nMe miro frente al espejo,\nme siento perplejo,\ncon mi reflejo.\nMe miro frente al espejo,\ny veo un rostro viejo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

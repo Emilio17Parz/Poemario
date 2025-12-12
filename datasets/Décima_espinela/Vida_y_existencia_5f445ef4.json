@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corre veloz el tiempo\nsin mirar nunca hacia atrás,\ny no nos dará jamás\nun segundo contratiempo.\nEn este breve destiempo\nconstruimos la ilusión,\nbuscando la perfección\nen un mundo pasajero,\ndonde el instante primero\nes nuestra única acción.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hay un fuego que no consume la zarza, sino que ilumina el desierto de mi existencia solitaria.\nEse fuego eres tú, ardiendo en el centro de mi tienda, calentando las noches frías del invierno del alma.\nAcércate a la lumbre, no temas quemarte, pues esta llama es de luz y no de destrucción.\nEn tus ojos veo el reflejo de ese incendio sagrado que purifica todo lo que toca.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

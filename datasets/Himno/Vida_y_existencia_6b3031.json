@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Fuerza invisible que tejes la suerte,\ndesde el nacimiento hasta la muerte!\nNadie conoce tu plan escondido,\nni sabe el sendero que fue elegido.\n\n¡Salve, destino, que guías la nave,\naunque la tormenta se torne muy grave!\nAcepto tu mando con fe y valentía,\nbuscando la luz en la noche y el día.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "destino"
+  }
+}

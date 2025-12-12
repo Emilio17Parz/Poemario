@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tejen las parcas el hilo,\nde nuestra suerte mortal,\nunos nacen con estrella,\ny otros nacen con mal.\nNadie elige su cuna,\nni su signo zodiacal,\nsomos actores del drama\nen el teatro mundial.\nPero podemos cambiar,\nel guion original,\ncon la fuerza de la mano\ny el esfuerzo vital.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "hilo"
+  }
+}

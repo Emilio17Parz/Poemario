@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Color verde,\nde ilusión,\nen el corazón,\nque no pierde.\nQue recuerde,\nla razón.\nColor verde.\n\nAunque todo,\nsea oscuro,\nyo procuro,\nde algún modo.\nEn el lodo,\nser puro.\nColor verde.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "verde"
+  }
+}

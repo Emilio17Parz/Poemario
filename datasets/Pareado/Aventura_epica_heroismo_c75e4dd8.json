@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por sendas de gloria, un héroe partió,\nsu noble estirpe el destino forjó.\n\nGigantes acechan, dragones sin par,\nmas no hay sombra que lo pueda quebrar.\n\nLa espada reluce, el escudo en la mano,\ncombate la noche, el mal más tirano.\n\nSu espíritu ardiente, su voz es la ley,\nun gran juramento lo nombra gran rey.\n\nEl **honor** lo guía, su fe es un baluarte,\nla épica senda de un alma de arte.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "honor"
+  }
+}

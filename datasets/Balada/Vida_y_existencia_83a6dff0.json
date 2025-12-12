@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Reloj que marcas las horas,\nsin detenerte jamás,\nignoras nuestras demoras,\ny lo que dejamos atrás.\nTú las virtudes devoras,\ny las tornas contratiempo,\nporque en tu marcha atesoras,\nel implacable paso del tiempo.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

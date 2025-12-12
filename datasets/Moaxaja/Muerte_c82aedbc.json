@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se apaga la luz,\nbajo el capuz.\n\nTodo termina,\ny se calcina,\nla vida fina,\nen la cruz.\n\nSe apaga la luz,\nbajo el capuz.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "luz"
+  }
+}

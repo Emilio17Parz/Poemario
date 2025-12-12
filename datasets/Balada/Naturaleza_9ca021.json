@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Blanca la nieve cubre el camino,\ny el hielo brilla en el matorral,\nduerme la vida bajo el espino,\nen un silencio muy sepulcral.\nPero en la casa el fuego crepita,\ndando refugio y dando calor,\nmientras afuera el viento grita,\nsu vieja historia de gran temor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

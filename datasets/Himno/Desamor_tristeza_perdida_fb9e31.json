@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Espectro oscuro que sigue mis pasos,\ntestigo fiel de mis mil fracasos.\nSombra que crece cuando el sol se va,\ny que a mi lado siempre estará.\n\n¡Salve, oh sombra, mi fiel compañera,\nbandera negra de mi vida entera!\nTú no me dejas aunque todos huyan,\ny mis esperanzas se destruyan.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

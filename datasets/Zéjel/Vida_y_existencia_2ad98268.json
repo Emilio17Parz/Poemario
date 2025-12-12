@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es un viaje,\ncon equipaje.\n\nDesde la cuna,\nves la luna,\nde la fortuna,\ny el paisaje.\n\nEs un viaje,\ncon equipaje.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

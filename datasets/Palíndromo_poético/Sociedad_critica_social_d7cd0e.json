@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Guerra da\ndolor y\nmuerte\ndolor y\nguerra da",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

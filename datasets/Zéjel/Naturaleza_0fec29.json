@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Luna de plata,\nque se desata.\n\nBrilla en la noche,\ncomo un broche,\nsin reproche,\ny grata.\nLuna de plata,\nque se desata.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "luna"
+  }
+}

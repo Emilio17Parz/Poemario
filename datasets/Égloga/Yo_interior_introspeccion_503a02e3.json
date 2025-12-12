@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vienen a mí los recuerdos,\ncomo ovejas al redil,\nde un tiempo abril,\ncuando éramos cuerdos.\nNo hay desacuerdos,\nen este perfil,\ntan sutil,\nde los lerdos.\nSoy lo que fui,\ny lo que viví,\ndentro de mí.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Queda el aroma de tu piel en la ropa,\nun rastro sutil que me mata de pena,\ncomo una condena, como una cadena,\nque llena de lágrimas mi amarga copa.\n\nLa mente navega, la memoria galopa,\nhacia aquellos días de luna llena,\npero la realidad, cruel y ajena,\ncon la dura muerte de golpe se topa.\n\nRecuerdo bendito y a la vez maldito,\nque mantienes vivo este amor infinito.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

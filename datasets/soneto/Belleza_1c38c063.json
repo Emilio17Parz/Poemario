@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Belleza, un don que al alma maravilla,\nSe posa en cada flor, en cada ser que va,\nY en la profunda paz que la noche nos da,\nSu esencia pura, eterna, sin mancilla.\n\nUn eco de virtud que el tiempo no aniquila,\nEn cada gesto noble, un aura que vibrará,\nDel sol naciente en oro, que al mundo alumbrará,\nSe esconde su verdad, ¡oh, qué sencilla!\n\nNo solo es forma o piel que el ojo ansía en vuelo,\nEs el fulgor interno, el alma que destella,\nEl aura que ilumina cualquier triste duelo.\n\nUn **brillo** que ennoblece y quita todo velo,\nLa fe que en cada ser se enciende, ¡oh, qué bella!\nY asciende victoriosa hacia el más puro cielo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

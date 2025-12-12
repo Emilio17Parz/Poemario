@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El honor es una vestidura blanca que no admite la menor mancha.\nVale más morir con honor que vivir arrastrándose en la vergüenza.\nEl hombre de honor es fiel a su palabra y leal a sus principios.\nEs un faro de integridad en medio de un mar de corrupción.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "honor"
+  }
+}

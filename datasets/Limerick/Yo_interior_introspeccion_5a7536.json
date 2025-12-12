@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi mente no para quieta,\nda vueltas en bicicleta.\nPiensa en tonterías,\ntodos los días,\nsin meta.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "mente"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "FLOR: ¿Por qué me diste vida tan breve?\nSOL: Para que brilles antes de la nieve.\nFLOR: Me marchito mientras otros perduran.\nSOL: Tu belleza es lo que ellos procuran.\nFLOR: Mañana seré polvo en el suelo.\nSOL: Pero hoy eres reina bajo el cielo.\nDisfruta tu instante de gloria y color,\nque eterna es la piedra, pero sin olor.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "belleza"
+  }
+}

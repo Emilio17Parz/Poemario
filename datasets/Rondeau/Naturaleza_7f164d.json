@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El amanecer,\nvolver a nacer.\nLuz primera,\nque se espera,\ncon placer.\n\nEs el deber,\ndel ser.\nLa carrera,\nel amanecer.\n\nAl ver,\ny al creer.\nLa espera,\nsincera,\ndel ayer,\nel amanecer.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

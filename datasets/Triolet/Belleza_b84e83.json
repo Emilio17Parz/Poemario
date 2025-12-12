@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Gesto amable,\nEs tu sonrisa,\nInevitable.\nGesto amable,\nY afable,\nCon prisa.\nGesto amable,\nEs tu sonrisa.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "gesto"
+  }
+}

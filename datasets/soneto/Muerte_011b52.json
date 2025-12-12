@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se rasga la vestidura del alma,\nal ver partir al ser adorado,\nqueda el espacio deshabitado,\ny se rompe la dicha y la calma.\n\nNo hay consuelo que traiga la palma,\npara este corazón destrozado,\nque llora triste y desesperado,\ny ninguna palabra lo ensalma.\n\nEl luto viste la casa entera,\nlas risas se apagan por respeto,\ny se hace eterna la espera.\n\nGuardamos el dolor en secreto,\ncomo una sagrada y gran hoguera,\nhasta cumplir el ciclo completo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

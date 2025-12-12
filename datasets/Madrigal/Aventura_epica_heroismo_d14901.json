@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Corta las olas con su proa altiva,\nvelas hinchadas por el viento fuerte,\nla suerte,\nde la tripulación siempre está viva.\nNavegante sin miedo al horizonte,\nni al monte,\nde agua que amenaza con devorar,\nal mar.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mar"
+  }
+}

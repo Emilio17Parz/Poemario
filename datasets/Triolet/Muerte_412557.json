@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cesa el dolor,\ncon el final.\nSin temor,\ncesa el dolor.\nEl amor,\nes vital.\nCesa el dolor,\ncon el final.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

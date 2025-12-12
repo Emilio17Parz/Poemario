@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tesoro que fuiste de un noble fulgor,\nhoy tu brillo me causa dolor.\nEl alma te busca sin un gran amor,\nel alma sin un gran valor.\nTu forma es triste, la verdad es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Tesoro"
+  }
+}

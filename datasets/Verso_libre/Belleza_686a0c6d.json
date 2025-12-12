@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La música es el lenguaje de los ángeles, que entra por el oído y toca el alma directamente.\nUna melodía puede hacerme llorar, puede transportarme a tiempos y lugares olvidados.\nEs la arquitectura invisible, el sonido organizado que vence al caos y al silencio.\nGloria a la música que nos consuela, que nos alegra, que nos hace humanos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "música"
+  }
+}

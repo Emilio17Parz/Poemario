@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Rolando sopló su cuerno en el valle,\nllamando al rey aunque ya moría.\nNo quiso huir con cobardía,\nprefirió que su sangre la hierba acalle.\nDefendió el paso contra el pagano,\ncon la espada firme en la mano.\nMorir con honor es vivir sin fin,\nsu gesta resuena en cada confín.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "honor"
+  }
+}

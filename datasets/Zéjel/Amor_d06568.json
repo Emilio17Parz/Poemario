@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Soñamos con un hogar,\nque nos permita amar.\n\nLa vida no tiene fin,\nsin principio ni confín,\nla dicha es un festín,\nque nos permita amar.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

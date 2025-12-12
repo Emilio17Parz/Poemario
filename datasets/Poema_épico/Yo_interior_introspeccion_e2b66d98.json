@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me coroné rey,\nde mi propio reino,\ny ahora me peino,\ncon mi propia ley.\nSoy de la grey,\nque no tiene dueño,\ny cumplo el sueño,\ndel buey.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "rey"
+  }
+}

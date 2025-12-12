@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL REY JOVEN]\nMe han cargado con el peso de cien profecías. Dicen que debo salvar al mundo.\nYo solo quiero mi huerto, mi esposa, mi paz. Pero el destino no pregunta.\nLlevaré esta corona de espinas. Cargaré con vuestra fe estúpida.\nSi el mundo se salva, será por mi miedo, no por mi valor. Y no lo olvidéis.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "profecía"
+  }
+}

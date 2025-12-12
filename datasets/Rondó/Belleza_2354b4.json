@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baila el cuerpo,\nal compás.\nNo te vas,\nsin el tiempo.\n\nPasatiempo,\nde paz.\nBaila el cuerpo,\nal compás.\n\nContratiempo,\nfugaz.\nCapaz,\ndel templo.\nBaila el cuerpo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "danza"
+  }
+}

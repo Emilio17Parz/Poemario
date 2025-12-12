@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El alma es la fuente de todo fulgor,\nla luz que ilumina la mente y el ser,\nla vida es un don, un gran valor,\nla fuerza que ayuda a crecer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

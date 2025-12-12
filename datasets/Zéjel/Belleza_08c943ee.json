@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza, luz que brilla,\nEn la más humilde orilla.\nUn tesoro en la pupila,\nQue el alma siempre recopila.\n\nSe ve en la flor que se abre,\nO en la gota que del árbol labre,\nEn el mar que siempre cubre.\nQue el alma siempre recopila.\n\nEs un fulgor, un destello,\nQue pinta el mundo, qué bello,\nCon cada **color**, un sello.\nQue el alma siempre recopila.\n\nEn la mirada sincera,\nEn la verdad que nos libera,\nUn amor que nos espera.\nQue el alma siempre recopila.\n\nLa belleza, luz que brilla,\nEn la más humilde orilla.\nUn tesoro en la pupila,\nQue el alma siempre recopila.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "color"
+  }
+}

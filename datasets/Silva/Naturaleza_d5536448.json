@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla invisible el poderoso viento,\nsin pausa y sin aliento.\nMueve la copa alta,\ny nunca le falta,\nfuerza para empujar,\ny todo cambiar.\nViajero incansable,\ne inabarcable.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "viento"
+  }
+}

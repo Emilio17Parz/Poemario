@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Estoy solo en la multitud,\nnadie conoce mi secreto,\nni mi profunda inquietud.\n\nHe perdido la juventud,\ny el ánimo que era completo,\nestoy solo en la multitud.\n\nNo tengo la virtud,\nde estar tranquilo y quieto,\nni mi profunda inquietud.\n\nEs una esclavitud,\neste dolor discreto,\nestoy solo en la multitud.\n\nSin salud ni gratitud,\nvivo como un esqueleto,\nni mi profunda inquietud.\n\nEn esta latitud,\nme siento un obsoleto,\nestoy solo en la multitud,\nni mi profunda inquietud.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

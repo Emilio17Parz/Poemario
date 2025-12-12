@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El verde campo y el azul del cielo,\nforman el cuadro de la perfección,\nque nos regala paz y gran consuelo.\n\nEs un regalo que nos da el suelo,\nsin pedir nada más que admiración,\nel verde campo y el azul del cielo.\n\nEl río corre con su raudo vuelo,\nhacia la mar con gran dedicación,\nque nos regala paz y gran consuelo.\n\nLa montaña levanta su modelo,\nde fuerza, de poder y de unión,\nel verde campo y el azul del cielo.\n\nTodo respira con el mismo anhelo,\nde vida, de color y de canción,\nque nos regala paz y gran consuelo.\n\nCuidemos este mágico pañuelo,\nque envuelve al mundo con su bendición,\nel verde campo y el azul del cielo,\nque nos regala paz y gran consuelo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

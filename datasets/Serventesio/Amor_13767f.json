@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tengo celos del viento que te toca,\ny del sol que ilumina tu perfil,\nesta duda mi mente desenfoca,\ny me siento perdido y muy frágil.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "celos"
+  }
+}

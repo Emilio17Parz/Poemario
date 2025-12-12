@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hay solo una vía,\nla que lleva a lo sagrado,\nla de la virtud.\nDifícil es el sendero,\npero la meta es la gloria.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Vía"
+  }
+}

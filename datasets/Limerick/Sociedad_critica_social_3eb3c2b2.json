@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mi vecino es ruidoso,\ny además muy chismoso,\nescucha en la pared,\ncon mucha sed,\nde un dato escandaloso.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Vecino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cada gota es un espejo brillante,\nque guarda el frío de la noche que fue.\nEs la lágrima breve y elegante,\nde la hierba que al sol se ve.\n\nSe esfuma con el primer rayo tibio,\nsin dejar rastro ni agravio.\nUn cristal de pureza en el comienzo,\nque nos regala un noble e intenso,\ninstante de frágil belleza.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "rocío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Pasaba el carro negro y lento,\npor las calles del pueblo,\nbajo un triste cielo,\ny un lastimero viento.\nLa gente se quitaba el sombrero,\nal ver el ataúd pasar,\niban todos a llorar,\nal amigo y compañero.\nLlegaron al camposanto,\ny allí terminó el canto.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "luto"
+  }
+}

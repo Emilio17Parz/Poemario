@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Desierto en alba.",
   "poema": {
     "texto": "Alba desierta se extiende,\nSilencio reina el camino,\nBrisa suena solitaria.",

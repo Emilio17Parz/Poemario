@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El viaje ya sin un fin, (A)\nme hunde sin la verdad, (B)\nmi vida ya sin piedad, (B)\nsolo siento ya el argüín. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

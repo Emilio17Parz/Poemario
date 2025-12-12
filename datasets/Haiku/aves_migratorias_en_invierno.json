@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Aves migratorias en invierno.",
   "poema": {
     "texto": "Pensando en invierno,\nCielo lleno de pájaros,\nMigran sin cesar.",

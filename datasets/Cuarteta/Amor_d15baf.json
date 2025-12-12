@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En cada tarde miro al horizonte,\nbuscando el perfil de tu volver,\neres el sol sobre el lejano monte,\nlo que me ayuda a crecer y vencer.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Tarde"
+  }
+}

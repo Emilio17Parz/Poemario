@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juro un amor que es eterno,\naunque llegue el crudo invierno.\n\nNo lo rompe la distancia,\nni pierde su fragancia,\ncon absoluta constancia,\nlejos del fuego del infierno.\n\nJuro un amor que es eterno,\naunque llegue el crudo invierno.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

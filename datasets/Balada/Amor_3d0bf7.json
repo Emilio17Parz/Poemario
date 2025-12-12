@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu risa es la música que al cielo se va (a),\nel eco de un gozo sin un final (b),\nmi corazón en ti reposa ya (a),\nsin sombra que cubra mi dulce fanal (b),\nla calma me inunda, sin pena ni mal (b),\ny la fe que me ayuda a seguir sin fallar (c),\nla vida es un sueño que al fin se da (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, el alma me guía sin fin (c'),\nes el eterno y dulce jazmín (c'),\nla luz de mi dulce trajín (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

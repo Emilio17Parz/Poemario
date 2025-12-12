@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aquí solo hay escombros donde el amor se alzaba fuerte y fiel,\nla ruina es el testigo de la gran traición que vino con tu hiel.\nLas paredes se cayeron, el techo no está ya,\ny solo el viento frío susurra que no volverás.\n\nEs inútil buscar la forma antigua de la dulce verdad,\nla pena es el arquitecto de esta cruel soledad.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ruina"
+  }
+}

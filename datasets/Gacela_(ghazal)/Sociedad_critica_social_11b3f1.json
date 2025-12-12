@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se compra y se vende todo con dinero,\nel mundo se mueve solo por dinero.\n\nNo importa la sangre ni la dignidad,\nsi al final del día se gana dinero.\n\nEl pobre suspira mirando el manjar,\nque el rico desprecia sobrando dinero.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "dinero"
+  }
+}

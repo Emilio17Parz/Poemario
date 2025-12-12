@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu corazón se volvió de hielo,\ndonde antes había pasión,\ny ahora solo queda el frío.\nSiento un inmenso vacío,\nal tocar tu piel distante,\nque ya no responde a mi piel.\n\nResponde a mi piel,\nsolo con hielo,\ny un aire errante.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La luna era testigo sobre el tejado blanco,\nDe dos almas unidas, sin miedo ni barranco.\nÉl le contó una historia, ella le dio la mano,\nBajo el faro de plata del astro pagano.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "luna"
+  }
+}

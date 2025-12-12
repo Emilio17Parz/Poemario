@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La corona pesa más que el yelmo.\nEl rey no duerme,\nvigila las fronteras y las traiciones.\nSu trono está hecho de espadas\ny su soledad\nes el reino más grande.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "rey"
+  }
+}

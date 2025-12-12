@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Camino entre niebla con mi gran duda,\nno veo el sendero por mi gran duda.\n\n¿Es este el camino o me equivoqué?,\npregunta constante de mi gran duda.\n\nLa fe es la antorcha que puede quemar,\nla sombra espesa de mi gran duda.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "duda"
+  }
+}

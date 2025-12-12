@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Libro sagrado,\nque cuenta la historia,\nde pena y gloria,\ndel pueblo amado.\nHas revelado,\nla voz del Señor,\ncon gran amor,\ny sabiduría,\nque noche y día,\nda resplandor.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "biblia"
+  }
+}

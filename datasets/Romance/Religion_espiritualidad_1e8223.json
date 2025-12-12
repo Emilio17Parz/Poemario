@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mordió la manzana dulce\ny perdió el paraíso,\npor querer saberlo todo\nsin pedir ningún permiso.\nEl pecado nos aleja\ndel camino recto y liso,\ny nos llena de vergüenza\ncon su peso indeciso.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pecado"
+  }
+}

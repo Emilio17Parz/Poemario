@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te veo al dormir,\nen mi mundo ideal.\nSin tener que huir,\nde la vida real.\n\nEn mi mundo ideal,\ntodo es perfecto.\nDe la vida real,\nborro el defecto.\n\nTodo es perfecto,\nsin tener que huir.\nBorro el defecto,\nte veo al dormir.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

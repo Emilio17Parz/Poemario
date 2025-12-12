@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El otoño es la dulce melancolía de la tierra, el arte de soltar lo que ya no sirve para prepararse al descanso.\nLos árboles se desnudan en una lluvia de oro y cobre, confiando en que la primavera volverá a vestirlos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

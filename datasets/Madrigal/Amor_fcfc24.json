@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cual ola que a la playa,\nllega buscando arena y descanso,\nque mi amor no se vaya,\ny se quede en tu puerto, quieto y manso.\nInmenso como el mar es mi querer,\nmi amanecer,\ndéjame navegar en tu mirada,\nenamorada.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ola"
+  }
+}

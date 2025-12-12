@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Quería ser inmortal,\nescribiendo poesía,\npero nadie le leía,\nlo cual era fatal.\nSe murió de un mal,\ny al otro día,\nsu libro se vendía,\ncomo pan integral.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "fama"
+  }
+}

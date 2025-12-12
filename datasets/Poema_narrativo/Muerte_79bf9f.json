@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dejó la casa, el perro, la vieja pared,\nInició un viaje largo, sin sed y sin red.\nNo sabía el destino, ni el nombre del puerto,\nSolo que el camino era solo desierto.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

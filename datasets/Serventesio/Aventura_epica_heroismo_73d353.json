@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La fortaleza es el ancla, la roca que no se va a quebrar (A),\nen medio del fango, de la tempestad (B),\nes el espíritu firme, que sabe amar (A),\nla clave de la libertad (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Fortaleza"
+  }
+}

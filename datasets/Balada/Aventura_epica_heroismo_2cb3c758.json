@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Partimos hacia lo desconocido,\ncruzando selvas y desierto,\ncon el espíritu atrevido,\ny el corazón descubierto.\nBuscamos el puerto,\nque nos mantenga despierto.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

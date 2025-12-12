@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Corazón en sombra,\nLa soledad me abraza hoy,\nTodo se ha perdido.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

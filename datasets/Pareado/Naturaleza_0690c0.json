@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol de la tarde, un fuego encendido y sin fin (A),\nla fuerza que impulsa mi dulce trajín (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Sol"
+  }
+}

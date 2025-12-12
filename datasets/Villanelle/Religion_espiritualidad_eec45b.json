@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi alma busca a Dios,\ncomo el ciervo al agua,\ndiciendo al mundo adiós.\n\nPara nosotros dos,\nen la fragua,\nmi alma busca a Dios.\n\nCon voz,\nque no amagua,\ndiciendo al mundo adiós.\n\nVeloz,\nen la enagua,\nmi alma busca a Dios.\n\nAtroz,\nla piragua,\ndiciendo al mundo adiós.\n\nFeroz,\nla managua,\nmi alma busca a Dios,\ndiciendo al mundo adiós.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "alma"
+  }
+}

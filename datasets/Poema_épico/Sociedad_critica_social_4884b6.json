@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Voces que gritan desde la pantalla,\nvendiendo miedo y distracción,\nla verdad en su ruido calla,\nmanipulando a la nación.\nOjo gigante que todo lo ve,\ny nos dice qué debemos creer.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Medios"
+  }
+}

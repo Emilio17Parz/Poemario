@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Nuestro cuento se acabó,\nNo tuvo final feliz,\nEl destino lo rompió.\nNuestro cuento se acabó,\nEl amor se marchitó,\nDejando una cicatriz.\nNuestro cuento se acabó,\nNo tuvo final feliz.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "acabó"
+  }
+}

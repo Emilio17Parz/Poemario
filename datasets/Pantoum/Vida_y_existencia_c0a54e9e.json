@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida se despliega, un lienzo sin final,\nSusurros del tiempo tejen un hilo incierto,\nUn soplo en el sendero, efímero y vital,\nMientras el alma busca su puerto descubierto.\n\nSusurros del tiempo tejen un hilo incierto,\n¿Es libre la quimera o un guion prefijado?\nMientras el alma busca su puerto descubierto,\nUn eco ancestral nos llama desde un sitio olvidado.\n\n¿Es libre la quimera o un guion prefijado?\nEl destino aguarda, velado en el mirar,\nUn eco ancestral nos llama desde un sitio olvidado,\nEn cada nuevo paso, un viaje sin cesar.\n\nEl destino aguarda, velado en el mirar,\nLa vida se despliega, un lienzo sin final,\nEn cada nuevo paso, un viaje sin cesar,\nUn soplo en el sendero, efímero y vital.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "destino"
+  }
+}

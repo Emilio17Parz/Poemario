@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En la torre más alta, bajo el cielo gris,\nse libraba la guerra por un solo beso.\nEl caballero, de su juramento preso,\nescaló los muros de piedra y de lis.\nNo le importó la flecha ni el abismo,\nvenciendo al miedo y al mismo egoísmo.\nAl llegar a su amada, el mundo calló,\ny en ese contacto la paz estalló.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "beso"
+  }
+}

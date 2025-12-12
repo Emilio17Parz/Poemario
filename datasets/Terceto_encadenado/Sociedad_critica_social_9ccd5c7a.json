@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La justicia está vendada,\ny no ve la realidad,\nsolo mira la verdad.\n\nDe la bolsa pesada,\ndel que puede pagar,\nla sentencia comprada.\n\nSin titubear.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "ciega"
+  }
+}

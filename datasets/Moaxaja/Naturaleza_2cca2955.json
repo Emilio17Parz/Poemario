@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Inmensa es la mar,\nque invita a soñar.\n\nOlas de sal,\nritmo vital,\ny natural,\nal chocar.\n\nInmensa es la mar,\nque invita a soñar.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "mar"
+  }
+}

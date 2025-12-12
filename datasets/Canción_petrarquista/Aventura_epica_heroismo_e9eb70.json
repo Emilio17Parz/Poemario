@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No es quien no teme nada,\nsino quien vence al miedo con coraje;\nen el viaje\nde la estocada;\nvaliente es el que avanza decidido,\naunque perdido\nparezca el resultado,\npor defender lo justo y lo amado.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "valiente"
+  }
+}

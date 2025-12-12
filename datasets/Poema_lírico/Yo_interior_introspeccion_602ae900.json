@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siempre la duda camina a mi lado,\ninterrogando la gran realidad,\n¿es esto sueño o es la verdad?\n¿O es un delirio del tiempo pasado?\nVivo en preguntas siempre atrapado,\nbuscando un poco de claridad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "duda"
+  }
+}

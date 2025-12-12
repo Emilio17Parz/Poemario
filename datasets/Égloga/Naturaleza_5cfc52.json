@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llega el frío y la escarcha,\nel campo duerme bajo el hielo,\nse vuelve plomizo el cielo,\ny la vida para su marcha.\n\nPero bajo la blanca parcha,\nla semilla espera el sol,\nguardando su arrebol,\npara la futura marcha.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se levanta el edificio\ncon columnas y arcos,\ncomo imponentes barcos\nen su pétreo oficio.\nEs un noble sacrificio\nconstruir la catedral,\nun arte fundamental\nque busca tocar el cielo,\ncon su gótico vuelo\ny su fuerza vertical.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

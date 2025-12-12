@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Conocer mi raíz,\nde dónde yo vengo, ay,\nquién es mi gente.\nSolo así el árbol crece fiel,\nfuerte y sin peligro.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Raíz"
+  }
+}

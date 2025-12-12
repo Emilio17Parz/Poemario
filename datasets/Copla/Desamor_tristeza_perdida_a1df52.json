@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soy libre de tus cadenas\npero preso del dolor,\nprefiero estar atado\na tu falso amor.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

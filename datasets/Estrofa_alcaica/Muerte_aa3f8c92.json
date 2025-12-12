@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo, cruel, su guadaña afila,\nllevándose al fin lo que fue hermoso,\ncuando el fulgor se apaga al fin,\nal reino mudo, al frío polvo.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia mansa\nsobre el campo seco,\ny revive la hierba\nen cada pequeño hueco.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

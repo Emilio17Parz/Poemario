@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo la luna te entrego mi vida entera (A),\nque el tiempo nos guarde esta dulce espera (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

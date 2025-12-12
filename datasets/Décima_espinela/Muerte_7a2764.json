@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Me persigue la sombra,\nde la muerte en cada paso,\nseñalando mi ocaso,\naunque nadie la nombra.\nSu presencia me asombra,\ncon su frío y su guadaña,\nque con fuerza y con saña,\ncortará mi hilo vital,\nllevándome al funeral,\ncon su tétrica maña.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

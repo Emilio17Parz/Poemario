@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi pecho es una tumba donde el amor descansa,\nsin flores ni luz, sin ninguna remansa.\nEl luto es la camisa que el alma se pone ya,\nla sombra de tu adiós que nunca se va.\n\nNo lloro por tu cuerpo, sino por el sueño roto,\npor el dulce comienzo que se hizo coto.\nMi corazón es el mármol, frío y sin calor,\nla estatua de la pena sin ningún fulgor.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "luto"
+  }
+}

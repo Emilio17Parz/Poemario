@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La luz de tu mirada es mi fortuna,\nUn puerto dulce donde ancla mi anhelo,\nQue ahuyenta sombras bajo cada luna.\n\nMi corazón se eleva hasta tu cielo,\nSembrando versos en un campo vasto,\nDesnudo el alma, libre de su velo.\n\nMas nada puede derrumbar tal pacto,\nNi invierno helado, ni el fugaz momento,\nPues nuestro amor se erige *eterno* y casto.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

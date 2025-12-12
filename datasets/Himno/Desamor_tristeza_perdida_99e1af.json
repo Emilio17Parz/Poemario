@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Muros caídos de lo que fue un templo,\ntriste despojo, doloroso ejemplo.\nDonde hubo fuego hoy crece la hiedra,\nfrío recuerdo en la dura piedra.\n\n¡Cantad a las ruinas de mi ilusión,\nesqueletos de una vieja pasión!\nEl tiempo destruye lo edificado,\ndejando el campo yerto y asolado.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "ruinas"
+  }
+}

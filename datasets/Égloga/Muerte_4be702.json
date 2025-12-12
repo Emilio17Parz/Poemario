@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Muere el estío y llega el frío,\nlas flores bajan la cabeza,\nse termina la naturaleza,\ny se hiela la corriente del río.\n\nEs la muerte blanca del rocío,\nque anuncia el sueño de la semilla,\nhasta que el sol de nuevo brilla,\nen este ciclo de desafío.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "final"
+  }
+}

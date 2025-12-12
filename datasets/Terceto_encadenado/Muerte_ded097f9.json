@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa en la tumba y reposo,\nel cuerpo que tuvo latido,\nen un sueño profundo y brumoso.\n\nPor la eternidad retenido,\nya no siente el dolor ni el placer,\npues su tiempo se ha consumido.\n\nY no volverá a renacer.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "reposo"
+  }
+}

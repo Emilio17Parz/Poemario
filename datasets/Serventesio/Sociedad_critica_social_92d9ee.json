@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hablan y hablan,\nsin solución,\ny nos entablan,\nla discusión.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "política"
+  }
+}

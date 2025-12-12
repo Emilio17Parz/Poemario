@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se alza el titán sobre la montaña,\namerazando aplastar la aldea,\nno hay ejército que lo vea\nsin sentir una pavorosa saña.\n\nSolo la astucia y no la maña\npuede vencer a quien así pelea,\ncomo David, aunque no se crea,\nvenció a Goliat en campaña.\n\nEl héroe busca el punto débil,\nla grieta en la armadura,\ncon pulso firme y hábil.\n\nY con una estocada dura,\nderriba al gigante inhábil,\nsalvando a la criatura.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "Goliat"
+  }
+}

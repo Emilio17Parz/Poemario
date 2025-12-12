@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Arcoíris roto sobre la mirada,\nque vistes la tierra de forma sagrada.\n¡Honor al Color, hijo de la luz!,\nque quitas del mundo la grisácea cruz.\n\nRojo de sangre, azul de la mar,\nverde que invita siempre a soñar.\nSin ti la vida sería una sombra,\npor eso mi boca tu nombre nombra.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "color"
+  }
+}

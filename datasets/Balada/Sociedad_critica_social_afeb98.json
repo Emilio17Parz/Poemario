@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vivimos pegados a la pantalla,\nen una red que nunca calla,\nconectados con el lejano,\ny olvidados del ser humano.\nPerdimos el tacto y el calor,\npor un mensaje de color,\ny somos siervos del celular,\nsin tiempo ya para conversar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "tecnología"
+  }
+}

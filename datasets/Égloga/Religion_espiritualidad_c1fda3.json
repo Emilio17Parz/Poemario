@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En el silencio de la montaña\nocupo a escuchar tu voz.\nEl mundo va veloz\ncon su ruido y su maña.\nPero aquí no daña\nsu paso atroz.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "voz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pasa el enojo\nvuelve la calma dulce\nbeso de paz.\nEl amor se renueva\ntras la breve tormenta.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "reconciliación"
+  }
+}

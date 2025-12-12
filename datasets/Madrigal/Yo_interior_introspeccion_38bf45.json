@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién soy en realidad?,\nquitando nombres y cargos sociales;\nlos males,\nde la edad.\nEsencia pura que busca su ser,\nal renacer.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

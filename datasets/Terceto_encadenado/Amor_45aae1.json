@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo yo vuelo sin miedo a caer (A),\nrompiendo las jaulas, sin más prisión (B),\nla fuerza que ayuda a mi ser a crecer (A).\n\nMi alma se libra de toda condición (B),\nel aire es más libre, más dulce y fiel (C),\nla eterna y dulce lección (B).\n\nLa vida es un trago de pura miel (C),\nque sacia mi sed con gran placer (D),\nla ausencia de toda hiel (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

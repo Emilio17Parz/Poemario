@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del monte, etérea y divina,\nla inspiradora de la voz cantada,\ncon túnica de nubes adornada,\ny luz que cada verso determina.\n\nSi tú me miras, la razón se inclina,\ny brota la palabra enamorada,\nla rima fluye dulce y ordenada,\ny el caos de la mente se termina.\n\nEres la fuente de toda belleza,\nel soplo que despierta la emoción,\ny borra del poeta la tristeza.\n\nSin ti no existe ritmo ni canción,\ntú das al arte fuerza y gentileza,\ny al poema le entregas corazón.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "musa"
+  }
+}

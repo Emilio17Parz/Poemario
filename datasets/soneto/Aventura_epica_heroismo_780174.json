@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelve el guerrero, cansado y viejo,\ncon cicatrices en cuerpo y mente,\nha visto el mundo y a mucha gente,\ny ahora se mira en el propio espejo.\n\nYa no busca del combate el reflejo,\nsino la paz de su hogar latente,\ny el abrazo de quien fue paciente\nesperando su tardío consejo.\n\nPero en sus ojos queda la llama,\nde aquellas tierras que recorrió,\ny de la aventura que le llama.\n\nAunque su espada ya se durmió,\nsu espíritu inquieto aun reclama\nla libertad que un día vivió.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

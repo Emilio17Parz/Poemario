@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Encuentro el sosiego en mi interior,\ncuando callan las voces de la gente,\ny la mente,\nse libra de su carga y su dolor.\nPaz blanca que restaura el corazón,\nla razón,\nde sentirse pleno y en armonía,\ncada día.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sosiego"
+  }
+}

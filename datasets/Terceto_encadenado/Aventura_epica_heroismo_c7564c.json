@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Combate al dragón, al monstruo sin fin (A),\ncon la pura fuerza de su corazón (B),\nel eterno aroma de un dulce jazmín (A).\n\nLa fuerza que impulsa mi fiel razón (B),\nel alma que vuela, sin un error (C),\nla esencia del puro valor (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en él hallar la paz (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Dragón"
+  }
+}

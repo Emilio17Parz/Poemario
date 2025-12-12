@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gira la rueda de la fortuna,\nrepartiendo premio y castigo,\na veces es cruel enemigo,\ny otras dulce como la luna.\n\nNo hay lógica, norma, ni una,\nrazón que la tenga consigo,\nes azar lo que yo te digo,\nque nos mece desde la cuna.\n\nNo confíes todo al azar,\ntrabaja tu propio sendero,\npara poder edificar.\n\nMas ten siempre un ojo ligero,\npor si la suerte ha de llegar,\nser su más listo compañero.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

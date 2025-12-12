@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Llega a la cima la gran conquista,\nbandera clavada en la conquista.\n\nDominio de tierras y voluntad,\npoder y fuerza de la conquista.\n\nPero el alma no se deja vencer,\nla libertad huye de la conquista.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

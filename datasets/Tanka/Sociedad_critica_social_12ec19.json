@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El muro se alza,\nentre los ricos y el pobre,\ndivisión cruel ya.\nLa justicia está ciega,\ny la voz del pueblo es sorda.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Muro"
+  }
+}

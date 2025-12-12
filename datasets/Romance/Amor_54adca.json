@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te vi bailar con aquel\nque dicen que es caballero,\ny sentí clavarse dentro\nun agudo y frío acero.\nNo me mires de esa forma\nque yo soy hombre sincero,\ny los celos me devoran\ncomo fuego en el granero.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "celos"
+  }
+}

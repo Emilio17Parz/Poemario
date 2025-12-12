@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo viaje me espera,\ncruzando la frontera,\nde lo conocido,\nhacia lo perdido,\nen la tierra extranjera.\n\nSerá una quimera,\no una verdad entera,\nlo que he decidido,\nlargo viaje.\n\nMi alma aventurera,\nbusca la manera,\nde hallar el sentido,\nen el mundo extendido,\nsin que nada me hiera,\nlargo viaje.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

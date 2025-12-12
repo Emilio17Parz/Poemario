@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En el espejo,\nme reflejo.\nLo que soy,\ny adónde voy,\ncon complejo.\n\nEl consejo,\ndel viejo.\nEl hoy,\nen el espejo.\n\nEl pellejo,\ny el tejo.\nLo que doy,\ny no soy,\na lo lejos,\nen el espejo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

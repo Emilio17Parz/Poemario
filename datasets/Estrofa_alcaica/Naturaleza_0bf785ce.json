@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Alzan sus ramas en el viejo bosque,\ntocan el cielo con su verde luz,\ncantan aves en el nido,\ncon una paz y gran quietud.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

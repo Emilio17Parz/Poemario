@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mármol frío que respira,\npor la mano del artista,\nuna obra que a la vista,\ncualquier corazón admira.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

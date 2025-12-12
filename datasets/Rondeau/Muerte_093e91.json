@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Baja el telón,\nde la función,\nterminada,\nacabada,\nla acción.\n\nLa pasión,\ny la unión,\nolvidada,\nBaja el telón.\n\nLa canción,\ndel corazón,\ncallada,\nparada,\nla razón,\nBaja el telón.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "telón"
+  }
+}

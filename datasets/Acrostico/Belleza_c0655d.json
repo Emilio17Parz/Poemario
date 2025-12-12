@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mujer que inspiras,\nUniendo el talento.\nSueños que respiras,\nArte y sentimiento.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "MUSA"
+  }
+}

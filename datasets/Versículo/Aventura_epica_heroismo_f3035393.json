@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El campo de batalla es un altar de sacrificio donde se prueba el valor.\nEntre el humo y el estruendo, los hombres se enfrentan a su destino.\nNo hay belleza en la guerra, solo dolor, sangre y pérdida.\nPero a veces la batalla es necesaria para proteger lo que amamos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

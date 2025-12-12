@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Buscan la copa de la vida eterna,\nlos caballeros de la tabla redonda,\ncruzando valles y la mar honda,\niluminados por la luz interna.\n\nNo es un objeto lo que gobierna\nesta búsqueda que a todos ronda,\nsino una verdad que corresponda\na la salvación sempiterna.\n\nEl Grial no es oro ni plata fina,\nsino la pureza del corazón\nque al hombre noble ilumina.\n\nSolo quien tenga la razón\ny la virtud que no declina,\nhallará la bendición.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "copa"
+  }
+}

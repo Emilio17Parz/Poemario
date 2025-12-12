@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te convertiste solo en una sombra,\nque se aleja veloz por el pasillo,\ny mi voz con tristeza ya no nombra.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

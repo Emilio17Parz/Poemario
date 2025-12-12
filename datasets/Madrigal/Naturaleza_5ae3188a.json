@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En el vasto tapiz que el Creador tejiera,\nDespliega su esplendor la madre tierra;\nUn canto silente en cada aurora espera,\nMientras el rocío en pétalos se aferra.\nLa vida misma es una dulce hoguera.\n\nLos bosques murmuran secretos ancestrales,\nDonde el sol se filtra en luces desiguales;\nEl río, espejo de azules celestiales,\nCuenta historias de viajes fluviales,\nEntre riscos y valles, portales.\n\nY el **viento**, alma invisible que se agita,\nBesa las copas, su rumor nos invita;\nDespeina los trigales con su danza exquisita,\nUna caricia etérea que nos quita\nLa prisa, mientras el tiempo levita.\n\nNo hay pena que el verdor no mitigue serena,\nNi angustia que el canto del mirlo no detenga;\nEn la quietud del monte, el alma se serena,\nUn bálsamo que fluye por la vena\nDel ser, y el espíritu se llena.\n\n¡Oh, Naturaleza, templo sin medida!\nTu arte puro el alma nos anida;\nPromesa eterna, jamás vencida,\nEn cada hoja, en cada fuente, vida,\nBelleza en tu esencia, siempre prendida.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "viento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Contempla, alma, el verdor sin fin que abraza,\nla lección muda en cada humilde flor,\npues la quietud del bosque que solaza\nes sabio libro de perenne amor.\n\nObserva el río en su constante ir y venir,\nque no descansa hasta hallar su inmenso mar;\nenseña el cauce cómo hay que fluir,\nsin miedo al cambio, sin dudar, sin variar.\n\nEl **viento**, mensajero que no cesa,\nmurmura cuentos entre hoja y hoja,\nlimpia la faz de la tierra que pesa,\ny sin ser visto, su simiente arroja.\n\nDel brote tierno a la raíz profunda y fuerte,\ncada estación su curso fiel detenta:\nla vida nace, muere y luego vierte\nsu esencia nueva en la simiente lenta.\n\nNo es dueño el hombre de tan vasto reino,\nmas guardián es de su ser y su don.\nAprendamos del pájaro en su empeño,\nde la paciente y firme evolución.\n\nAsí la tierra, madre que nos nutre,\ncon cada aurora y cada atardecer,\nnos muestra el ciclo que jamás se pudre,\nun arte eterno para comprender.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

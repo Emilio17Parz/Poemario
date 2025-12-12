@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabra que se hace baile,\nverbo que cobra color,\nvoz que sale del fraile\no del loco soñador.\nAtrapas lo inexpresable,\nnombras lo que no se ve,\ny haces lo miserable\nhermoso con tu fe.\nAlquimia del lenguaje,\nque transformas el dolor\nen un bello equipaje\npara el lector.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

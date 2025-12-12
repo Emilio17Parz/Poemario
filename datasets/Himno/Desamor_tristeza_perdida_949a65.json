@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Manto gris que cubres el alma cansada,\nTristeza profunda, dama desolada.\nTe rindo tributo con llanto y dolor,\npues has apagado la luz del amor.\n\nReinas en mi pecho con trono de hielo,\ny has nublado por siempre mi cielo.\nNo hay himno de gozo, solo de pesar,\npara la que ahora me viene a habitar.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

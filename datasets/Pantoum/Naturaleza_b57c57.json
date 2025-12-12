@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Salta el agua al vacío,\nruge con fuerza y espuma,\nel canto eterno del río,\nque entre las rocas suma.\n\nRuge con fuerza y espuma,\nniebla blanca se levanta,\nque entre las rocas suma,\nuna voz que siempre canta.\n\nNiebla blanca se levanta,\nel canto eterno del río,\nuna voz que siempre canta,\nsalta el agua al vacío.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "agua"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde es el bosque,\nque no se enrosque.\n\nÁrboles viejos,\ndan sus consejos,\nen los reflejos,\ndel quiosque.\n\nVerde es el bosque,\nque no se enrosque.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

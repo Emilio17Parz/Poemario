@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Guardamos en cajas la historia,\nfragmentos de lo que vivimos,\nlos besos que un día nos dimos,\ny las tardes de pena y gloria.\n\nEs frágil la humana memoria,\nse borran los trazos que hicimos,\ny a veces ya no distinguimos,\nla verdad de la vanagloria.\n\nRecordar es volver a pasar,\npor el corazón lo sentido,\ny evitar dejarlo escapar.\n\nSoy lo que no he olvidado,\nlo que en mi mente ha quedado,\ndel tiempo que me ha tocado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

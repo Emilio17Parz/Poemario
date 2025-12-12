@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es la existencia un fugaz sueño,\nnadie del mundo es el propio dueño,\ntodo se logra con el gran empeño,\nvana ilusión.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

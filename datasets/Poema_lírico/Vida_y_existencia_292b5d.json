@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La soledad no es ausencia,\nes la paz del ser.\nEs la pura presencia\ndonde puedo ver.\n\nNo hay ruido ni grito,\nsolo mi propia voz,\nmi único mito\nsin ningún arroz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

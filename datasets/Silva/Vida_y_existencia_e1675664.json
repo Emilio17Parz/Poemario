@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Largo y difícil es nuestro camino,\nmarcado por destino.\nA veces hay abrojos,\ny a veces, a los ojos,\nflores de gran color,\ncalman el dolor.\nSe hace senda al andar,\nsin descansar.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "camino"
+  }
+}

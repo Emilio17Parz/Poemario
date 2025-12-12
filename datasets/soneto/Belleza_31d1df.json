@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Anhelo inalcanzable del humano,\nla línea sin error, pura y recta,\nla obra acabada y correcta,\nque buscamos con empeño vano.\n\nSe nos escapa siempre de la mano,\npues la vida es curva e imperfecta,\nmas la mente sueña y proyecta,\nese ideal sublime y lejano.\n\nQuizás la perfección sea la muerte,\nla quietud donde nada se mueve,\nni cambia de forma ni de suerte.\n\nPrefiero la vida que se atreve,\na ser errada, manchada y fuerte,\ny que con sus fallos nos conmueve.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "perfección"
+  }
+}

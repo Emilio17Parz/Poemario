@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cae el crepúsculo sobre la historia,\nlos bardos no cantan, rompen su lira,\nse borra tu nombre de mi memoria,\naunque el corazón todavía delira.\nEs el fin de la era, el Ragnarök,\ndel mundo que creamos tú y yo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Ocaso"
+  }
+}

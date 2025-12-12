@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Tu grito revolucionario,\nes solo comentario.\nLo escribes en Twitter,\ny te crees un líder.\nSal a la calle a luchar,\ny deja de teclear.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "grito"
+  }
+}

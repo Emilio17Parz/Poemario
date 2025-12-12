@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No volveré a buscarte,\nes mi última palabra,\naunque tenga que amarte.\n\nVoy a intentar olvidarte,\nantes que el pecho se abra,\nno volveré a buscarte.\n\nPrefiero alejarte,\nque vivir en la macabra,\naunque tenga que amarte.\n\nNo quiero molestarte,\nni que tu voz me labra,\nno volveré a buscarte.\n\nTengo que curarte,\ncomo una herida que sangra,\naunque tenga que amarte.\n\nMe iré a otra parte,\ndonde nadie me ladra,\nno volveré a buscarte,\naunque tenga que amarte.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

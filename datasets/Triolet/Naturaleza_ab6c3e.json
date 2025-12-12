@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Caen las hojas al suelo,\nDe color rojo y marrón,\nBajo el nublado cielo.\nCaen las hojas al suelo,\nEn un triste vuelo,\nSin ninguna dirección.\nCaen las hojas al suelo,\nDe color rojo y marrón.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "hojas"
+  }
+}

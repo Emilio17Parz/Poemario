@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si acaso te ofendí con mi torpeza,\nte pido que perdones mi desliz,\ny vuelvas a hacerme sentir feliz,\nborrando de mi alma la tristeza.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Esta piedra que guarda la belleza\nque hizo al mundo rico y a mí pobre,\nno es de mármol ni cobre,\nsino de mi dolor la fortaleza.\nAquí yace el sol que me alumbraba,\nla virtud que adoraba,\ny ahora soy ciego y solo,\nsin norte, sin estrella y sin polo.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

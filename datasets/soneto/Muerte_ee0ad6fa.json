@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Qué existe tras el muro de la vida?\n¿Hay un jardín de luz y de ambrosía?\n¿O solo la infinita noche fría\nde una conciencia ya desvanecida?\n\nEs la pregunta nunca respondida,\nel gran misterio de la travesía,\nque inquieta al hombre en su agonía\ncuando la puerta se halla dividida.\n\nCruzar el río de aguas insondables\nhacia la orilla que jamás se ve,\ndejando atrás los bienes palpables.\n\nTal vez sea el vacío, o tal vez fe,\npero ante esos caminos inefables,\nsolo el silencio sabe el porqué.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mas_alla"
+  }
+}

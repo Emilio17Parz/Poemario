@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El pueblo espera,\nel regreso del que fue,\na salvar su honor.\nSu fe es el arma secreta,\nque le da mucha fuerza.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Pueblo"
+  }
+}

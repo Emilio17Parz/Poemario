@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ser de\nluz viva\nen paz\nluz viva\nser de",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "ser"
+  }
+}

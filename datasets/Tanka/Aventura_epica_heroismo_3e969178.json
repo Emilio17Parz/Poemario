@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Valiente el corcel,\nCruza llanuras sin fin,\nCon fuerte espada,\nPor gloria y por la paz,\nSu alma jamás cederá.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "espada"
+  }
+}

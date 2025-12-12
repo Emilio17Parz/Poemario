@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Era rico y poderoso,\ntenía oro y tierras,\nganaba todas las guerras,\ny vivía orgulloso.\nPero la rueda giró,\ny lo perdió todo un día,\nse acabó su alegría,\ny en la calle se vio.\nAprendió que nada es eterno,\nni el verano ni el invierno.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "azar"
+  }
+}

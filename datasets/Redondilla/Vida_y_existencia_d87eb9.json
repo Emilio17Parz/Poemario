@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El espejo me mintió, (A)\nme castiga sin la razón, (B)\nmi alma ya sin perdón, (B)\nmi ser ya se rompió. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

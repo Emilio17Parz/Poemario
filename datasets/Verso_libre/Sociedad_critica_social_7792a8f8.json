@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cuando las palabras no bastan,\nnace el grito.\nUn aullido colectivo\nque sale de las gargantas oprimidas.\nEs la voz de los sin voz,\nrompiendo el silencio cómplice,\npara decir basta.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "grito"
+  }
+}

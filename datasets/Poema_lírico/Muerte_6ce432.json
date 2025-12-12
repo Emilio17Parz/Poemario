@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo ya no corre\ncuando el alma se fue.\nEl reloj se desmorona\nsin ninguna fe.\n\nEl instante es eterno,\nel pasado es el hoy,\nen un cruel infierno\ndonde solo soy.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

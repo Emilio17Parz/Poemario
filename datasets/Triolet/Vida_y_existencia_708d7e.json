@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La esperanza,\nnunca muere.\nNos alcanza,\nla esperanza.\nSi se quiere,\nla balanza.\nLa esperanza,\nnunca muere.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

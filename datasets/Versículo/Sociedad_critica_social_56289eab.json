@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La libertad es el derecho sagrado de todo ser que respira.\nNadie tiene autoridad para poner cadenas a la voluntad de otro.\nRomped los yugos, abrid las cárceles, dejad que el espíritu vuele.\nPorque donde está el espíritu, allí hay libertad.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

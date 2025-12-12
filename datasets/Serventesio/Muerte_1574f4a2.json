@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra viene con su manto inerte,\napagando la llama de la voz;\nes el final de toda amarga suerte,\nun viaje sin retorno, y sin adiós.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

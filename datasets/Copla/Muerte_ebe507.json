@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dicen que tu alma\nvaga por la casa,\ny que con el viento\nsuspira y pasa.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me quema por dentro esta gran pasión,\ny siento que pierdo toda la calma,\nno atiende a motivos mi corazón.\n\nEs fuego que nace de la ilusión,\ntocando en lo hondo de mi propia alma,\nme quema por dentro esta gran pasión.\n\nNo escucho consejos ni la razón,\nla llama se eleva, sube y empalma,\nno atiende a motivos mi corazón.\n\nBuscando en tus ojos mi salvación,\ntu amor es la única y dulce palma,\nme quema por dentro esta gran pasión.\n\nMe entrego sin miedo a esta prisión,\nque toda mi vida y ser desalma,\nno atiende a motivos mi corazón.\n\nEs esta mi eterna y fiel confesión,\nque grita en silencio y nunca se ensalma,\nme quema por dentro esta gran pasión,\nno atiende a motivos mi corazón.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Emprendo hacia lo ignoto el largo viaje,\nllevando la esperanza como equipaje de viaje.\n\nCruzaré los desiertos y los océanos,\nporque mi alma me pide este gran viaje.\n\nNo importa si regreso o si me pierdo,\nlo que importa es la senda, el mismo viaje.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

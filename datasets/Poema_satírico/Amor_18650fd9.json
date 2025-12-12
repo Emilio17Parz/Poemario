@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Culpas siempre al cruel destino,\nde que te guste tanto el vino.\nDices que Cupido te flechó,\npero fue el alcohol quien te embrujó.\nNo es el hado, ni es la suerte,\nes que eres un golfo de muerte.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

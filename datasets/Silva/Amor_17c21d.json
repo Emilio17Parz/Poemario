@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sin ti no respiro,\nme falta el aliento,\ny soy como el viento,\nque da un suspiro.\nA la puerta miro,\nesperando verte,\nqueriendo tenerte,\nen este triste y largo retiro.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

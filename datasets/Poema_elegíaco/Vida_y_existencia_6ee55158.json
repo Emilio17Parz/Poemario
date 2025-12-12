@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Murió la fe, murió la gran verdad,\nahogada en el mar de la mentira,\nel alma noble con dolor suspira,\nante el triunfo de la falsedad.\nLloro por un mundo que ha perdido,\nel norte, la razón y el sentido.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Maldigo la distancia que separa\ntu cuerpo del abrazo que te espera,\ny esta longitud cruel de carretera\nque el tiempo con su burla nos declara.\n\nSi yo tuviera el ala que depara\nal ave su volar en primavera,\ncruzara el mar y la montaña fiera\npara mirar de cerca tu honda cara.\n\nPero me ata el suelo y la mesura,\ny debo conformarme con la carta,\ncon la voz que atraviesa la espesura.\n\nHasta que el hado el muro al fin departa,\nviviré de tu imagen y figura,\naunque la soledad mi pecho parta.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

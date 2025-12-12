@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ruedan las lágrimas por la cara,\npor la tristeza de la partida,\nes un dolor que nunca para,\nesta profunda y cruel herida.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

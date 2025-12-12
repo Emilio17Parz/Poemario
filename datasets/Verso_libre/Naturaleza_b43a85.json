@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar es una bestia que respira.\nInhala y la orilla se seca,\nexhala y la espuma nos toca los pies.\nEs el ritmo hipnótico\nde un corazón de agua salada\nque late desde antes del tiempo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mar"
+  }
+}

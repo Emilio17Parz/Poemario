@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escrito está en las estrellas el fin,\nnadie escapa a lo que ha sido trazado,\nel hado,\nteje su red desde el principio al fin.\nAunque luchemos por cambiar la suerte,\nla muerte,\nes la única cita que es segura,\ny dura.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "oráculo"
+  }
+}

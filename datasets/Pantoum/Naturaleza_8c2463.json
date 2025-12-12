@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Olas de arena son dunas,\nque cambian con el vendaval,\nno tienen formas ningunas,\npaisaje seco y fatal.\n\nQue cambian con el vendaval,\nel sol quema la piel,\npaisaje seco y fatal,\nque sabe a sal y a miel.\n\nEl sol quema la piel,\nno tienen formas ningunas,\nque sabe a sal y a miel,\nolas de arena son dunas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "dunas"
+  }
+}

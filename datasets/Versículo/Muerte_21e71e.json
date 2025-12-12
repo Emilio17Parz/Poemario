@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Los muertos no mueren del todo mientras sean nombrados, viven en el eco de nuestra voz y en la hemeroteca del recuerdo.\nCaminan por los pasillos de nuestra mente, inmortales y jóvenes, mientras nosotros tengamos aliento para recordarlos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

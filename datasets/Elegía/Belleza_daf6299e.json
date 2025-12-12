@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cubrió la nieve la flor,\ny mató el color verde,\ntodo se pierde,\nbajo el blanco terror.\nEs el fin del calor,\nque el frío muerde,\ny no recuerde,\nel esplendor.\nPaisaje muerto y frío,\nsin vida ni voz,\nvacío.\nVeloz,\nel estío,\ndijo adiós.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

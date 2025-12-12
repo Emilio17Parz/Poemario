@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye como el río al mar,\nnada se queda quieto jamás,\nque la vida es evolucionar.\n\nNo mires nunca con pena atrás,\npues el pasado ya se marchó,\ny el futuro es lo que tú harás.\n\nLo que Dios te dio.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

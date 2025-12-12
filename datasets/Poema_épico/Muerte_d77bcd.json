@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Toma mi mano, esqueleto frío,\nbailemos el vals de la eternidad,\nya no hay verano, ni hay estío,\nsolo esta ronda de la verdad.\nTodos entran al baile final,\nen esta fiesta universal.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

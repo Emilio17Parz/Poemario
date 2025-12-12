@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Un respiro lento,\ntrae el centro a mi vida,\nla paz regresa ya.\nEl alma se calma y ve,\nel claro camino fiel.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Respiro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Solo este instante tienes en la mano,\nel ayer huyó y el futuro es nada,\nvive la vida que te fue otorgada,\nhoy es el día.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "presente"
+  }
+}

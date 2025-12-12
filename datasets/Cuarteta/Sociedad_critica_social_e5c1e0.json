@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La cadena oprime, el yugo pesado,\nque el fuerte impone al débil sin piedad,\nel pueblo dormido, el triste y callado,\nsufre la ceguera de la sociedad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Cadena"
+  }
+}

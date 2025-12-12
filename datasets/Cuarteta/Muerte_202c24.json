@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Si existe un cielo, que sea de calma,\nde luz que no mienta, de amor sin fin,\ndonde repose la cansada alma,\ndespués de su duro y largo trajín.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Cielo"
+  }
+}

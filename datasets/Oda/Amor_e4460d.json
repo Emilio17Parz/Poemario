@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aroma que se queda,\nen la ropa y en el aire,\ncon elegante donaire,\ncomo una fina seda.\nRespiro tu esencia,\nen tu dulce presencia.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "perfume"
+  }
+}

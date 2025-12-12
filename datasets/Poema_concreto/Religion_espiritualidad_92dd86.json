@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "A R O A R O A R O\nR O A R O A R O A\nO A R O A R O A R\nA R O A R O A R O\nR O A R O A R O A",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

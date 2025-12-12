@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Las flores cubren la tumba fría,\ncon sus colores y su fragancia,\nson el tributo de cada día,\na pesar de la larga distancia.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "flores"
+  }
+}

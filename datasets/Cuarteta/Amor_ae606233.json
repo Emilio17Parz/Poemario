@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor es la luz que me guía,\nMi sol en la fría quietud,\nUn cálido y tierno abrazo me da alegría,\nRenueva mi juventud.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

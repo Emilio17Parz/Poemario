@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Luna blanca\nen la noche\nluz de plata\nen la noche\nluna blanca",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "luna"
+  }
+}

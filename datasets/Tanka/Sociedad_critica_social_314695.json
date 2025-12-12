@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El pueblo grita\npidiendo sus derechos\nfuego en la calle.\nLa historia se transforma\ncon sangre y con sudor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "revolución"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La lluvia es un llanto que limpia el cristal (A),\nel mundo se esconde bajo el chaparrón (B),\nla calma que es ya inmortal (A).\n\nLa vida se apaga, sin un fulgor (B),\nel alma reposa, sin un final (C),\nla esencia del puro valor (B).\n\nNo hay más que amar, no hay más que el mal (C),\nque en su voz hallar la fe (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Lluvia"
+  }
+}

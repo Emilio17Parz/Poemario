@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pasamos de largo,\ndel que sufre mal,\ncon paso amargo.\n\nEs algo normal,\nno mirar al lado,\nen lo social.\n\nTan degradado.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "indiferencia"
+  }
+}

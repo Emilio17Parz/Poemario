@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi amor floreció en el abril,\ncon fuerza de un dulce candil.\nEs luz que no cesa,\nsin duda ni prisa,\nun fuego que vive sutil.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Abril"
+  }
+}

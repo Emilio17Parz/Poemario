@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Qué grande se hace la casa\nahora que tú no estás,\nsolo el eco me responde\ncuando miro hacia atrás.\nLa silla sigue vacía\ny el fuego no prende más,\nreina la fría tristeza\ncon su oscuro antifaz.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

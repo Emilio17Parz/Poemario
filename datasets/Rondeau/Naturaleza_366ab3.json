@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento sin parar,\nque nos quiere despeinar,\ninvisible caminante,\nviajero y constante,\nque no se deja atrapar.\n\nNadie lo puede callar,\nni su rumbo desviar,\nes un espíritu errante,\nSopla el viento.\n\nSe dedica a susurrar,\ny las hojas a llevar,\nen un baile elegante,\nfuerte y desafiante,\nque nos hace respirar,\nSopla el viento.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "aire"
+  }
+}

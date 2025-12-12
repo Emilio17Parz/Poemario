@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río corre alegre y cristalino,\nbuscando con afán llegar al mar,\nsiguiendo su trazado y su destino.\n\nNo deja de correr ni de cantar,\nllevando vida al valle que atraviesa,\nsin que nadie lo pueda ya parar.\n\nCon su fuerza que besa.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nEl sueño de amarte me tiene sin fin (E1: fin)\nMi vida es la forma que quiero ofrecer (E2: ofrecer)\nTu voz es el eco que rompe el mal (E3: mal)\nEl gozo que siento no tiene ya hiel (E4: hiel)\nLa fuerza que ayuda a mi ser a crecer (E5: crecer)\nEl tiempo se para sin un solo error (E6: error)\n\nTORNADA:\nLa fuerza que ofrezco me ayuda a crecer (E2, E5)\nEl tiempo sin hiel se rompe en un mal (E4, E3)\nMi vida no tiene error ni fin (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

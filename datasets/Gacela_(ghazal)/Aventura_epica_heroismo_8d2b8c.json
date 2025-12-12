@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nadie escapa de su cruel destino,\nestá marcado el cruel destino.\n\nEl héroe avanza hacia su final,\ncumpliendo el paso del cruel destino.\n\nLo que ha de ser, será al final,\nley implacable del cruel destino.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "destino"
+  }
+}

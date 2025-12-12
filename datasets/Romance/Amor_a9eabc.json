@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Con tus Manos me juraste,\namor eterno y verdad,\ny en la noche me besaste,\ncon tanta dulce caridad.\n\nAhora el frío me congela,\nsin el calor de tu ser,\ny mi alma ya no vela,\nsin un poco de poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Manos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del cielo, musa inspiradora,\ny toca con tu luz mi frente oscura,\ndame locura,\npara cantar la dicha que enamora.\nSin tu favor mi pluma no levanta,\nni canta,\nla belleza que veo en lo creado,\namado.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "arte"
+  }
+}

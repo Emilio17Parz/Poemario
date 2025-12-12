@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El viento es libre,\nno tiene dueño ni jaula,\nvuela donde quiere.\nAsí quisiera ser yo ya,\nsin cadenas en el alma.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Libertad"
+  }
+}

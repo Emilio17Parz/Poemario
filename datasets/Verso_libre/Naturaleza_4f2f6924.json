@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El pulso de la tierra, lento y profundo,\nse siente bajo el pie descalzo.\nEl viento susurra historias antiguas\nentre las copas de los árboles, un coro\nde secretos que solo el tiempo guarda.\n\nEn el corazón del **bosque**, donde la luz apenas filtra,\nhay un verde que respira, un silencio\ndenso, cargado de musgo y vida oculta.\nUn hormiguero, una telaraña, el rastro\nde un venado que cruzó la senda.\nCada hoja, un espejo diminuto\ndel cielo fragmentado.\n\nEl río canta su canción incesante,\npuliendo guijarros, un hilo de plata\na través del valle tallado por milenios.\nLas nubes, arquitectas efímeras,\ndibujan castillos y criaturas míticas\nantes de desvanecerse en el azul infinito.\n\nAquí, el tiempo se estira, se disuelve,\ny uno es apenas una mota de polvo\nen la inmensidad palpitante.\nLa naturaleza no pregunta, solo es,\ny en su ser, hallamos nuestra propia verdad.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

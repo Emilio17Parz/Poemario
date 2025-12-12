@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Un amigo es un tesoro,\nque se guarda en el corazón,\ny vale más que el oro.\n\nEn el alegre coro,\nde la canción,\nun amigo es un tesoro.\n\nSin el decoro,\nde la traición,\ny vale más que el oro.\n\nYo lo valoro,\ncon devoción,\nun amigo es un tesoro.\n\nNo me demoro,\nen esta unión,\ny vale más que el oro.\n\nSiempre lo imploro,\ncon razón,\nun amigo es un tesoro,\ny vale más que el oro.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "amistad"
+  }
+}

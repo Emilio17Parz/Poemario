@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es combatir cada día,\ncontra el miedo, la duda y el mal,\nen una batalla fundamental,\npor mantener la propia alegría.\n\nNo se gana con la cobardía,\nni esperando un golpe de azar,\nhay que salir al ruedo a pelear,\ncon coraje y con valentía.\n\nLas cicatrices son las medallas,\nque cuentan la historia del guerrero,\nque sobrevivió a las batallas.\n\nLevantarse del suelo primero,\nsaltar las más altas murallas,\ny ser de uno mismo el pionero.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

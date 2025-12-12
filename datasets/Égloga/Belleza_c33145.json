@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Bella es la vida sencilla,\ndel pastor y su rebaño,\nlejos del mundo y su engaño,\ny su falsa maravilla.\n\nAquí la verdad brilla,\nen el agua y en la flor,\ny se encuentra el valor,\nen la humilde semilla.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "simplicidad"
+  }
+}

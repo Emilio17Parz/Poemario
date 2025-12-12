@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Estrella que da la vida,\ny cáncer de piel también,\nte deja la cara ardida,\nsi no te proteges bien.\nAdorado por los turistas,\nodiado por oficinistas.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Sol"
+  }
+}

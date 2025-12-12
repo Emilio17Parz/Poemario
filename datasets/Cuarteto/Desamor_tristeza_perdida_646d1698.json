@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Intento echarte fuera de mi mente,\nborrar cada recuerdo del pasado,\npero sigues estando a mi lado\ncomo una sombra siempre presente.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "mente"
+  }
+}

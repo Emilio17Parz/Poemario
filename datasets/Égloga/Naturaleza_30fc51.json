@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entremos al bosque de altos pinos,\ncatedral verde de sombra y paz.\nAquí el mundo muestra su faz\nlejos de ruidos y desatinos.\nLos pájaros en sus trinos finos\ncelebran la vida libre y audaz.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "pinos"
+  }
+}

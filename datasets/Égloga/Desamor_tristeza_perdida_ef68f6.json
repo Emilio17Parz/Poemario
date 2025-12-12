@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se secó la fuente del abrevadero,\nse secó el amor en tu pensamiento.\nSolo queda polvo y lamento\nen este paraje que fue sendero.\nYo, triste pastor, pobre y austero,\nmuero de sed y de desaliento.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "fuente"
+  }
+}

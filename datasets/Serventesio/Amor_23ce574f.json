@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te prometo un cariño que sea eterno,\nmás allá de la muerte y la razón,\nque resista los hielos del invierno,\ny palpite en mi fiel corazón.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

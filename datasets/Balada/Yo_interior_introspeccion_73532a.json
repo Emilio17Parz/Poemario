@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cargo una piedra en la mochila,\nque mi energía aniquila,\nes el peso de lo que hice,\ny que nunca finalice.\nLa culpa es un mal compañero,\nque nos roba el sendero,\ny nos ata al viejo ayer,\nsin dejarnos renacer.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

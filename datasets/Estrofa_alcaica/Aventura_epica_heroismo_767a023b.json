@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Muro de bronce que el impacto para,\nsalva la vida del guerrero audaz,\nnada se le compara\npara ganar la paz.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "escudo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Desciende el llanto gris desde el nublado,\nlavando el polvo de la urbe sucia,\ncon una persistencia y una astucia,\nque deja todo el suelo renovado.\n\nEl campo bebe el líquido sagrado,\ny reverdece tras la seca angustia,\nya no se ve la flor caída y mustia,\nsino el jardín vital y colorado.\n\nMúsica rítmica sobre el tejado,\nque invita al sueño y a la reflexión,\nen este día oscuro y apagado.\n\nBendita sea la precipitación,\nque trae la vida al mundo cansado,\ny calma la sedienta creación.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

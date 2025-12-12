@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Frío que me envuelves con cruel soledad,\nla helada que el cuerpo no puede vencer.\nTu fuerza es pena, sin caridad,\nel alma sin un gran poder.\nTu forma es el fin, la dura verdad,\nel alma que sufre caridad.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

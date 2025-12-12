@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mantiene limpio su honor\nante el vil enemigo,\ny lleva siempre consigo\nsu valentía y valor.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "honor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Llevo una máscara puesta,\npara acudir a la mundana fiesta.\nOculto lo que siento,\nmi pena y mi tormento.\nQuiero ser yo mismo,\ny salir de este falso abismo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

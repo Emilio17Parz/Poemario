@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se rompe el hilo que nos sostenía,\ncayendo al pozo de la despedida,\ndejando el alma sola y malherida,\nperdida en esta gris melancolía.\n\nYa no habrá sol al comenzar el día,\nni habrá retorno, ni punto de partida,\nsolo una historia triste y concluida,\nque se deshace en lenta agonía.\n\nTe digo adiós con la voz quebrada,\nmirando al suelo para no llorar,\nsintiendo cómo mueres, mi amada.\n\nNo queda nada más que recordar,\nla dicha que tuvimos, hoy helada,\ny este dolor que no puedo calmar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

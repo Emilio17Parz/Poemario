@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Con la voluntad,\nse consigue,\ntodo lo que,\nse persigue.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "consigue"
+  }
+}

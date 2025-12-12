@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Embriágame amor con tu copa de vino,\nque quiero perder el sentido en el vino.\n\nOlvido las penas y el cruel destino,\nbebiendo de tus labios el rojo vino.\n\nLa vida es un trago de sabor divino,\nsi tú me la ofreces con sabor a vino.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "vino"
+  }
+}

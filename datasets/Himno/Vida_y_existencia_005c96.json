@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Paloma blanca que surcas el viento,\ncese de guerras y de sufrimiento!\nAnhelo supremo de la humanidad,\nreino de justicia y de bondad.\n\n¡Gloria a la paz que desarma la ira,\ny que la concordia en todos inspira!\nSin ti la vida es un campo de muerte,\ncontigo cambiamos la triste suerte.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "paz"
+  }
+}

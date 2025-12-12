@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El héroe parte en su grandioso viaje,\nCon valor forjado en hierro, sin temor,\nLa gloria aguarda en cada audaz paraje.\n\nSu espíritu no cede ante el ultraje,\nEn busca de un destino o un clamor,\nEl héroe parte en su grandioso viaje.\n\nRompe cadenas, libra del anclaje,\nSuperando pruebas con tenaz fulgor,\nLa gloria aguarda en cada audaz paraje.\n\nNi el fiero dragón, ni el sombrío brebaje,\nDetendrán su marcha, su inmenso ardor,\nEl héroe parte en su grandioso viaje.\n\nConquistando cumbres, sin buscar un ataje,\nLibre de la sombra, su alma es candor,\nLa gloria aguarda en cada audaz paraje.\n\nRegresa victorioso, sin ultraje,\nCumplido el honor, extinto el dolor,\nEl héroe parte en su grandioso viaje,\nLa gloria aguarda en cada audaz paraje.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

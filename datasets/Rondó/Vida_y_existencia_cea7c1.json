@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es una lucha,\nconstante por sobrevivir.\nTratando de sonreír,\naunque la pena es mucha.\n\nNadie nos escucha,\ncuando queremos huir.\nLa vida es una lucha,\nconstante por sobrevivir.\n\nBajo la ducha,\nlas lágrimas dejar ir.\nVolver a construir,\nla fe que no se arrucha.\nLa vida es una lucha.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "ALMA: ¿Cuánto dura este instante de luz?\nÁNGEL: Dura lo que dura la eternidad.\nALMA: ¿Sin tiempo, sin horas, sin edad?\nÁNGEL: Sin el peso de la vieja cruz.\nAhora eres libre del ciclo mortal,\nentra en la dicha que es inmortal.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

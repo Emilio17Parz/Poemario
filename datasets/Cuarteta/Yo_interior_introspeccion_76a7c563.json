@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Ante el espejo mi alma quiero hallar,\nMás allá de lo que pueda mostrar.\nUn mundo interno busco sin dudar,\nMi esencia profunda voy a explorar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

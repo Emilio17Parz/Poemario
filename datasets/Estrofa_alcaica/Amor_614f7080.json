@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sufro tu falta como el dolor de herida,\nlejos te encuentras y mi vivir se apaga,\nesperaré tu venida\ncomo quien cura su vieja llaga.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cisne en el agua,\ndesliza su cuello fiel,\nelegancia pura.\nSu plumaje es como nieve,\nsola en el oscuro lago.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Cisne"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Líneas negras\ngruesas y finas\nnúmeros abajo\netiqueta\nprecio puesto\nal ser humano\nconsumo.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "consumo"
+  }
+}

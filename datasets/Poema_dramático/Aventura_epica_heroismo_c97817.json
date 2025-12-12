@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[LA REINA EXILIADA]\nMe robaron el trono, me mataron a los míos. Y me llamaron débil.\nHe aprendido a ser fría. El odio es mi armadura, la venganza, mi mapa.\nNo busco justicia. Busco sangre. Destruiré sus ciudades, uno por uno.\nCuando caiga el último, solo entonces, podré dormir en paz.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "venganza"
+  }
+}

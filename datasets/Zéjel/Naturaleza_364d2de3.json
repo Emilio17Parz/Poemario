@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol calienta,\ny nos contenta.\n\nSale temprano,\nsobre el llano,\ncomo un hermano,\nque se presenta.\n\nEl sol calienta,\ny nos contenta.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "sol"
+  }
+}

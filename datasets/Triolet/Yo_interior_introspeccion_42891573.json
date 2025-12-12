@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Toco el fondo\nde mi ser,\ntan hondo.\nToco el fondo,\nme escondo,\nal caer.\nToco el fondo\nde mi ser.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "fondo"
+  }
+}

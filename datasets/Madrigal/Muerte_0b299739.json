@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando la vela de la vida exhala\nsu último aliento, frágil, tenue llama,\nun velo gris desciende,\nla piel se torna gélida, no clama.\nNo hay eco de voz,\nni rastro de la huella que dejara.\nEl pulso ya no late,\nla mirada perdida, el alma rara.\nSe esfuma el tiempo, el goce,\nla pena y la esperanza que se amara.\nSolo la forma yace,\nmientras la esencia, libre, se dispara.\nY entonces nos envuelve, sin tardanza,\nel beso frío del profundo **silencio**.\nNo hay ruego que lo rompa,\nni sol que en sus abismos ya se esparza.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

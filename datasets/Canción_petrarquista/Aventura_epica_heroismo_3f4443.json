@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El eco de la fama\nque vuela de boca en boca cantando;\ny celebrando\na quien ama\nla virtud más que el ocio regalado;\nser aclamado\npor hechos inmortales,\nes el premio a los héroes cabales.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

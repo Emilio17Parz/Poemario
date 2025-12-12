@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Eres la sombra que nubla mi día,\nel recuerdo amargo de lo que fue,\nya no me queda esperanza ni fe,\nsolo esta inmensa melancolía.\nSe transformó la pasada alegría,\nen una sombra que no se ve.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La fuerza no tiene fin,\nmi alma es un trajín.\n\nEl coraje ya me llegó,\nla vida me salvó,\nel mundo me perdonó,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "fortaleza"
+  }
+}

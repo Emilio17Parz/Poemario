@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuela ligero\nsin mapas ni fronteras\nalma libre.\nTu canto es alegría\nen la rama del pino.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "pájaro"
+  }
+}

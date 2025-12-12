@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Los ricos con tanto poder,\nno dejan al pobre crecer.\nSu ambición es cruel,\ny amarga como hiel,\nla vida sin un solo ser.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Ricos"
+  }
+}

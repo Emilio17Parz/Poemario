@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ha llegado la diosa flora,\nvistiendo el valle de colores,\nregalando miles de olores,\na quien la naturaleza adora.\n\nLa abeja zumba trabajadora,\ny la mariposa aletea,\nen esta fiesta que se crea,\ncuando la vida se enamora.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

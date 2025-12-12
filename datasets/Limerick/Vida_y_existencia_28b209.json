@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Trabajo de sol a sol,\nbebiendo solo alcohol.\nEl jefe me grita,\nla paga es chiquita,\n¡qué vida de caracol!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

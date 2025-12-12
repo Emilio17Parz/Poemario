@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento susurra, el alma sin voz (A),\nde viejas historias, de dulce dolor (A),\nel eco que viene de Dios (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

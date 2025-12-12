@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El viaje es largo, de pruebas sin fin,\nde monstruos y sombras que quieren parar,\npero el héroe sabe que el dulce trajín,\nes la forma más pura de amar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

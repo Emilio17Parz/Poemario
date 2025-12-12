@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Si en tu pecho un anhelo de gloria reposa,\nY sientes la sed de un camino mayor,\nNo ignores la voz, la promesa grandiosa\nQue al alma valiente le inspira valor.\n\nAbandona el umbral de tu paz conocida,\nDeja atrás la quietud, el cobijo sutil.\nLa senda que buscas, audaz, atrevida,\nTe aguarda en parajes de riesgo febril.\n\nHallarás en tu viaje monstruos y quimeras,\nLa sombra del miedo que te acecha feroz.\nMas no es la espada que al mal desespera,\nSino el espíritu que alza su voz.\n\nEn cada caída, levántate presto,\nQue el barro del suelo tu temple forjó.\nEl miedo es un velo, un fugaz pretexto,\nSi el fin que persigues tu alma abrazó.\n\nLlegará el momento, la prueba suprema,\nDonde el temple y la fe se medirán sin par.\nUna vasta y fiera **batalla**, un dilema,\nQue el héroe en tu seno habrá de despertar.\n\nNo es solo la victoria que un nombre te labra,\nNi el oro brillante que al regreso traes;\nEs la luz que en tu ser, por la lucha, se labra,\nEl alma más pura que al mundo le das.\n\nY cuando las gestas se tornen leyenda,\nY el eco de tus pasos resuene al andar,\nSabrás que la senda que el valor te encomienda\nEs un faro perenne que al mundo ha de guiar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

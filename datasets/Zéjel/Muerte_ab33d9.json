@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El sueño ya me ganó,\ny el mundo me dejó.\n\nLa vida ya se fue,\nla pena ya no ve,\nel alma ya tiene fe,\ny el mundo me dejó.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

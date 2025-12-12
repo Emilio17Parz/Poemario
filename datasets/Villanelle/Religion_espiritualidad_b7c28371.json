@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La fe mueve la montaña,\ncreyendo sin poder ver,\ncon una fuerza extraña.\n\nEl alma no se engaña,\nal querer y al saber,\nla fe mueve la montaña.\n\nEs luz que nos baña,\ny nos hace renacer,\ncon una fuerza extraña.\n\nRompe la telaraña,\ndel miedo a caer,\nla fe mueve la montaña.\n\nSiempre nos acompaña,\nal amanecer,\ncon una fuerza extraña.\n\nMilagro y hazaña,\ndel puro creer,\nla fe mueve la montaña,\ncon una fuerza extraña.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "fe"
+  }
+}

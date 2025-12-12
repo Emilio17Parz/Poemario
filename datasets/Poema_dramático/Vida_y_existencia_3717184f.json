@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "JOVEN: (Al espejo) Soy fuerte, bello y conquistador.\nVIEJO: (Reflejo) Fui como tú, con ese ardor.\nJOVEN: El mundo es mío, todo lo puedo.\nVIEJO: Pronto tendrás mi mismo miedo.\nJOVEN: Tú eres el pasado, yo el presente.\nVIEJO: Yo soy tu futuro, tenlo en mente.\nDisfruta ahora, que el tiempo vuela.\nLa vida es corta como una estela.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

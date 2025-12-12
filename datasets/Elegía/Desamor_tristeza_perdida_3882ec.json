@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Compañera fiel de mis días,\npena negra que no se va,\nque siempre está y estará,\nen mis noches y en mis vías.\n\nMe robas todas las alegrías,\ny la paz que nunca vendrá,\nmi alma triste llorará,\npor tus oscuras profecías.\n\nPena honda, pozo de dolor,\nque apagas todo resplandor.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "pena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canta mi musa\nversos de miel,\nsin excusa.\nCanta mi musa,\nno rehúsa\nser fiel.\nCanta mi musa\nversos de miel.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "musa"
+  }
+}

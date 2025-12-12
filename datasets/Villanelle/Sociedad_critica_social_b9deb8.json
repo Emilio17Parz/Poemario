@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Miramos siempre la pantalla,\nconectados y en soledad,\nmientras la vida real se calla.\n\nEn esta red que nos enmalla,\nperdemos la identidad,\nmiramos siempre la pantalla.\n\nLa mente libra su batalla,\ncontra la falsa verdad,\nmientras la vida real se calla.\n\nEl sentimiento se desmaya,\nante la frialdad,\nmiramos siempre la pantalla.\n\nNadie cruza la raya,\nde la virtualidad,\nmientras la vida real se calla.\n\nSomos esclavos de la tralla,\nde la modernidad,\nmiramos siempre la pantalla,\nmientras la vida real se calla.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tecnología"
+  }
+}

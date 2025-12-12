@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El grito del mar ya (7a),\nque rompe el silencio (5b),\nmi vida que al fin se da (7c),\nsin solo un incienso (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

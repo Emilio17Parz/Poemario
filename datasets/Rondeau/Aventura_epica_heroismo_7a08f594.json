@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "En pos de gloria y un fiel honor,\nEl hidalgo parte sin temor.\nPor reinos lejanos, tierras sin par,\nCon dracos y brujas ha de lidiar,\nEnfrentando un destino avasallador.\n\nSu temple de acero, su gran valor,\nDel mal y la sombra es destructor.\nJamás su promesa podrá quebrar,\nEn pos de gloria y un fiel honor.\n\nEl filo reluce, la sangre y sudor,\nEscritos quedaron con gran fulgor.\nUn pacto sagrado ha de sellar,\nSu fuerza y coraje no han de cesar,\nGuardando al mundo de todo dolor,\nEn pos de gloria y un fiel honor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "honor"
+  }
+}

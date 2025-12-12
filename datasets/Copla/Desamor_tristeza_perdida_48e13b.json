@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hace frío en el invierno\npero más frío hace en mí,\ndesde aquella tarde gris\nen que yo te perdí.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "frío"
+  }
+}

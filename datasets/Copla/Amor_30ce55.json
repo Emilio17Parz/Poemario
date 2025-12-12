@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus ojos son dos luceros\nque alumbran mi caminar,\nsi los cierras, vida mía,\nyo me empiezo a tropezar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

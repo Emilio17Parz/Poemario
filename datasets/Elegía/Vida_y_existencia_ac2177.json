@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Risa que intentas mostrar gran valor,\npero tu sonido es pena y dolor.\nTu fuerza es falsa, sin un fulgor,\nel alma sin un gran amor.\nTu alegría es sombra, el cristal se rompe,\nla pena que el alma me irrompe.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

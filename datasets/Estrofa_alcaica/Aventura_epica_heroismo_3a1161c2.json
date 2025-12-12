@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guarda el guerrero su sagrado honor,\nmás que la vida y que el amor,\nse mantiene siempre firme,\nante el peligro y el dolor.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "honor"
+  }
+}

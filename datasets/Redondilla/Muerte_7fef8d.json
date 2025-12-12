@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llevo flores hoy,\na tu sepultura,\ncon mucha ternura,\nporque tuyo soy.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "flores"
+  }
+}

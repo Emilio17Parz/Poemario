@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si el cielo tiene oídos y los dioses me escuchan,\nque me quiten la vida para que no sienta más.\nLuchar contra tu ausencia es una vana lucha,\ny mi alma ya no encuentra ni un momento de paz.\n\nQuiero el olvido simple, la anestesia sin forma,\nque mi nombre se borre de tu cruel recuerdo.\nQue el tiempo me disuelva, que me quite la norma,\ny sea polvo sin pena, sin ningún acuerdo.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ruego"
+  }
+}

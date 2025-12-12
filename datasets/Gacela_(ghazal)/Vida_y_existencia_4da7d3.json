@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se nos escapa de las manos el tiempo,\ncomo arena sutil, huye el tiempo.\n\nNo perdona ni a reyes ni a siervos,\nsu justicia es fugaz, es el tiempo.\n\nEl ayer ya murió y hoy es breve,\nmañana es un misterio del tiempo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

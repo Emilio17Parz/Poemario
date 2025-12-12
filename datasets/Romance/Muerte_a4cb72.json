@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Partida ya no tiene,\nni un retorno ni un final,\nmi alma ya se detiene,\nsin un dulce gran mal.\n\nTe fuiste sin consuelo,\nsin una sola razón,\ny ahora lloro sin recelo,\npor tu cruel traición.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Partida"
+  }
+}

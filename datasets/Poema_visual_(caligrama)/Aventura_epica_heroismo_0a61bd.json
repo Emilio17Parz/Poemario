@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mango de cuero\ncruz de metal\nhoja larga\nde acero frío\nfilo mortal\nque defiende\nla verdad.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "espada"
+  }
+}

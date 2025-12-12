@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soy lo que recuerdo y soy,\nlo que doy y a donde voy,\nmi historia está en mi piel,\nen el amargo y la miel.\nLa memoria me construye,\ny el tiempo no la destruye,\nes el mapa de mi ser,\nque me ayuda a no caer.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

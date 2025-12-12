@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duerme en la calle la triste pobreza,\nfrío en los huesos de la triste pobreza.\n\nMientras las torres tocan el cielo,\ncrece en la sombra la triste pobreza.\n\nEs la herida que no quiere cerrar,\nculpa de todos, la triste pobreza.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

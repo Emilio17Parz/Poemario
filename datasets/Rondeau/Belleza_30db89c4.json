@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo gira y vuela,\ncomo una tela,\nque el viento mueve,\ncon paso leve,\ny el alma consuela.\n\nEs la música que cela,\nla emoción que revela,\ncuando se atreve,\nel cuerpo gira.\n\nLa danza devela,\nla pasión que desvela,\nque el ritmo promueve,\ny la vida conmueve,\ncomo una candela,\nel cuerpo gira.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "danza"
+  }
+}

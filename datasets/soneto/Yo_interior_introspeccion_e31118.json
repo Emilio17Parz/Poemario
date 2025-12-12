@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Estar solo conmigo mismo,\nsin ruido y sin compañía,\nuna dulce melancolía,\no un terrible abismo.\n\nDepende del propio prisma,\nsi es paz o si es agonía,\nsi es fuente de poesía,\no cárcel del ostracismo.\n\nEn la soledad me encuentro,\nme hablo y me respondo,\nviajando hacia el centro.\n\nDonde el misterio hondo,\ndel ser que llevo dentro,\nse revela y ahondo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

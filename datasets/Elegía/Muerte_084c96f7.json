@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Oh, Muerte, sombra eterna, velo azul,\nQue todo lo consumes, sin piedad,\nTu paso deja un eco, un frío tul,\nVacío inmenso, cruda soledad.\n\nEl soplo que fue vida, luz y voz,\nSe quiebra entre tus dedos, sin rumor,\nY el mundo calla, sordo a nuestro adiós,\nInmerso en un perenne y hondo dolor.\n\nDe risas que se fueron, melodías mudas,\nDe sueños que no vuelven, desolación,\nEl alma busca huellas, memorias desnudas,\nFrente a tu inexorable, fría estación.\n\nAsí llega el instante, el límite final,\nDonde la senda humana halla su fin,\nUn silencio profundo, espectral,\nMás allá del murmullo y del confín.\n\nMas queda el rastro de quien ya no está,\nGrabado a fuego en cada corazón,\nAunque la vida siga su compás,\nTu nombre vive en nuestra triste canción.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "fin"
+  }
+}

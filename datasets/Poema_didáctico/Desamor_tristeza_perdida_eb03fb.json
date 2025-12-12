@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "De cada adiós se saca una lección,\nsobre quién eres y qué quieres,\nno veas solo la decepción,\nsino los nuevos saberes.\nEl dolor es maestro severo,\npero te hace guerrero sincero.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Aprendizaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nadie puede ver el rostro del viento,\npero sentimos la fuerza del viento.\n\nMueve las copas altas y las espigas,\ntrae aromas lejanos el libre viento.\n\nLleva mis pensamientos a donde quieras,\nviajero incansable, poderoso viento.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "viento"
+  }
+}

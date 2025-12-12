@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No hay obra más perfecta\nque la mujer en la tierra,\ncon su misterio y su gracia\nque tanta belleza encierra.\nEs madre, amante y amiga,\npaz en medio de la guerra,\ny la musa que al poeta\na la vida lo aferra.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "mujer"
+  }
+}

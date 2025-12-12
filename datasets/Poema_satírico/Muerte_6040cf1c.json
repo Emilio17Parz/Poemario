@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El doctor hizo lo que pudo,\npara salvar su vida,\npero dejó la herida,\nen la cuenta, ¡qué rudo!\nLa salud es un embudo,\nde plata perdida,\ny la muerte recibida,\nes gratis, no lo dudo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "médico"
+  }
+}

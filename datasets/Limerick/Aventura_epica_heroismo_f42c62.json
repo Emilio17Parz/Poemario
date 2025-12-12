@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La espada de acero muy fiel,\nsu filo sin rastro de hiel.\nEs arma de bien,\nsin un solo quién,\nla fuerza que tiene su riel.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Espada"
+  }
+}

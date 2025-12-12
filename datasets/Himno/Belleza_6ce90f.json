@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Piedras que cantan en la vertical,\nbuscando el cielo en su ideal!\nArcos y torres, cúpulas de oro,\nque guardan del arte el gran tesoro.\n\n¡Honor al genio que alza el muro,\ny crea espacios de aire puro!\nHabitar la belleza es el fin,\nsea en palacio o en el jardín.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "arquitectura"
+  }
+}

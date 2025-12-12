@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estrella de mi norte,\nque guías mi bajel por el océano,\ncon tu gran porte,\nme salvas del peligro más tirano.\nBrilla siempre en mi cielo, luz divina,\nque me fascina,\nllevándome seguro hacia tu puerto,\na cielo abierto.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "guía"
+  }
+}

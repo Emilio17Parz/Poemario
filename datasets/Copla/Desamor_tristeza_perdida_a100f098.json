@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me dijiste adiós muy triste\nbajando por la ladera,\ny se me quedó la pena\nclavada en la talanquera.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

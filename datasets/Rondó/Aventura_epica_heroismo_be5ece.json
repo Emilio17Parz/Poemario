@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Marca la ruta,\nel papel,\ncon miel,\ny fruta.\nLa gruta,\nfiel.\nMarca la ruta.\n\nCamino largo,\npor andar,\ny llegar,\nsin embargo.\nEl cargo,\ndel mar.\nMarca la ruta.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "ruta"
+  }
+}

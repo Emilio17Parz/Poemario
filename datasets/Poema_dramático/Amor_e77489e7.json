@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "CONDE: ¿A quién mirabais, señora, en el baile?\nDUQUESA: A nadie, señor, solo al aire.\nCONDE: Mentís, que vi vuestros ojos clavados\nen el joven poeta de versos osados.\nDUQUESA: Son vuestros celos, monstruos de la mente.\nCONDE: ¡Es mi honor, que se siente doliente!\nDUQUESA: Matadme si queréis, pero soy fiel.\nCONDE: ¡Maldito sea el amor y su hiel!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "celos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despunta el alba dorada,\nTrayendo un nuevo comienzo,\nA la tierra cansada.\nDespunta el alba dorada,\nLa noche es retirada,\nSobre el inmenso lienzo.\nDespunta el alba dorada,\nTrayendo un nuevo comienzo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "alba"
+  }
+}

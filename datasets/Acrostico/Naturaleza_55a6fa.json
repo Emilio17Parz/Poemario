@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ondeas en el mar,\nLlegas hasta la orilla.\nAmas el reventar.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "OLA"
+  }
+}

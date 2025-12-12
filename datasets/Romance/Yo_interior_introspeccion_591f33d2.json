@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Estoy en la encrucijada,\nsin saber qué senda andar,\nsi la derecha o la izquierda\ndebo tomar.\nLa duda me paraliza,\nel pensar,\ny el miedo a equivocarme\nme hace temblar.\nElegir es renunciar,\ny soltar,\npero hay que dar el paso\ny avanzar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "cruce"
+  }
+}

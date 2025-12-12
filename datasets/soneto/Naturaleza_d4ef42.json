@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bóveda inmensa, azul infinito,\ndonde las nubes pintan figuras,\nlejos de nuestras tristes locuras,\nmás allá de nuestro pequeño grito.\n\nEres el techo del gran recinto,\ntestigo de todas las criaturas,\ncambiando de luces y texturas\nsegún el sol o el astro distinto.\n\nMirar arriba es buscar a Dios,\no buscar la nada y el vacío,\nperdiéndonos entre los dos.\n\nCielo que cubres mi desvarío,\nrecibe la queja de mi voz\ny llévatela como un río.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "nubes"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Voz del Señor sobre las aguas; truena el Dios de gloria, el Señor sobre las muchas aguas.\nVoz del Señor con potencia; voz del Señor con gloria; voz del Señor que quebranta los cedros.\nSu voz es como el sonido de muchas aguas; y la tierra resplandeció a causa de su gloria.\nOí una voz del cielo como estruendo de muchas aguas, y como sonido de gran trueno; y la voz que oí era como de arpistas.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "voz"
+  }
+}

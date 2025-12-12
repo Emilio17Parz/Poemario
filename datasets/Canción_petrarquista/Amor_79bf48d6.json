@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dichosa cárcel, suave cautiverio,\ndonde el corazón vive aprisionado,\nde su propia voluntad atado\nbajo de vuestro angélico imperio.\nNo pido libertad, ni la deseo,\npues en vuestros ojos mi gloria veo,\ny muero si me falta\nvuestra divina luz, pura y alta.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "cárcel"
+  }
+}

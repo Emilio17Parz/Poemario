@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega la sombra oscura\na cubrir la claridad,\nmostrando la sepultura\ncomo única verdad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "oscura"
+  }
+}

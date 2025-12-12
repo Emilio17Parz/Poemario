@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No hace falta ir al templo\npara rezar con fervor,\nsi llevas dentro del pecho\nun poquito de amor.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "templo"
+  }
+}

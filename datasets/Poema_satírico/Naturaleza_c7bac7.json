@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despeina y levanta faldas,\nte tira el gorro al río,\nte da golpes en las espaldas,\ny te deja muerto de frío.\nInvisible gamberro,\nque aúlla como un perro.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

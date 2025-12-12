@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Largo es el paso por la tierra dura,\nlleno de piedras y de espinas secas,\npero al final la luz del sol nos cura,\nsenda de vida.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "camino"
+  }
+}

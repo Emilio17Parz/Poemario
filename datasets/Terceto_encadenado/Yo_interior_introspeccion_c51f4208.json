@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No para de pensar,\nmi mente inquieta,\nbuscando una meta.\n\nQue pueda alcanzar,\npara hallar la calma,\ny poder descansar.\n\nEn el fondo del alma.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "pensar"
+  }
+}

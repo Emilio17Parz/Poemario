@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Salimos al mundo a andar,\nsin mapa ni dirección,\nteniendo que tropezar,\npara aprender la lección.\nEs la forma de avanzar,\ny de forjar el destino,\nsabiendo siempre encontrar,\nel rumbo en nuestro camino.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "camino"
+  }
+}

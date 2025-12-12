@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El poder de tu amor me hace fuerte y leal (A),\nme impulsa a volar, me enseña a creer (A),\nla forma que es ya inmortal (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Poder"
+  }
+}

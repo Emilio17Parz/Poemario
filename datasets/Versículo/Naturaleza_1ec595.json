@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña respira fuego y humo, recordándonos que bajo nuestros pies tranquilos hierve un infierno líquido.\nEl volcán es la fuerza creadora y destructora, la cicatriz por donde la tierra sangra roca derretida.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "volcán"
+  }
+}

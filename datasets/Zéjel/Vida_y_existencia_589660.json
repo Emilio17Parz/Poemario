@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El cambio ya me llegó,\nla vida me transformó.\n\nEl miedo ya se me fue,\nla suerte ya tiene fe,\nel alma ya no ve,\nla vida me transformó.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

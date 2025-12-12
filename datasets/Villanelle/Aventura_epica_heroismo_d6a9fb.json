@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Verde laberinto,\nde vida y muerte,\ny puro instinto.\n\nYo no te pinto,\nde otra suerte,\nverde laberinto.\n\nMe siento distinto,\nal verte,\ny puro instinto.\n\nBebo tu tinto,\npara ser fuerte,\nverde laberinto.\n\nNo sucinto,\nal quererte,\ny puro instinto.\n\nMe encinto,\nen tu suerte,\nverde laberinto,\ny puro instinto.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "selva"
+  }
+}

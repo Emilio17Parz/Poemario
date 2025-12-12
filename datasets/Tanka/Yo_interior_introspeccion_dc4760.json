@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soy como la piedra,\nque el agua va puliendo,\ncon lento proceso.\nEl tiempo me hace más fuerte,\ny me da más claridad.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Piedra"
+  }
+}

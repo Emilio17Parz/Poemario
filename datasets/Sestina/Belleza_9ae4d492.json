@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Contemplo tu bello rostro,\nespejo de un alma clara,\nque brilla con luz propia.\nNo necesito una copia,\nde la belleza ideal,\nporque la tengo ante mí.\n\nAnte mí,\ntu rostro,\ntan real.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

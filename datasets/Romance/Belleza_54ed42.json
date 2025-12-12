@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Flor tiene un dulce aroma,\nde promesa y de candor,\ny mi alma ya se doma,\nsin un poco de fulgor.\n\nYo te busco en el pétalo,\ny no encuentro ya tu ser,\nmi alma ya sin tálamo,\nsin un solo gran poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

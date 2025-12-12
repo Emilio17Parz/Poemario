@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Océano de arena y de soledad,\ndonde el sol quema con furia asesina,\ny la vida parece una ruina,\nbajo la seca y dura realidad.\n\nReina el silencio en su inmensidad,\ny el horizonte en dunas se reclina,\nmientras la sed al viajero domina,\nprobando su valor y voluntad.\n\nMas hay belleza en tu desnudez,\nen los colores ocres y dorados,\ny en esa extraña y quieta placidez.\n\nGuardas secretos tiempos enterrados,\ny en la noche, con gran nitidez,\nmuestras los cielos más estrellados.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

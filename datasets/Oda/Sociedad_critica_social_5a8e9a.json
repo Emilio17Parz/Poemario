@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Piedra que aisla,\nfrontera dura,\nlocura,\nque hila.\nVergüenza humana,\ncotidiana.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "muro"
+  }
+}

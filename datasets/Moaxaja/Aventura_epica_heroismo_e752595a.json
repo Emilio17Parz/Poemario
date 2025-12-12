@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busco el tesoro,\nplata y oro.\n\nEstá escondido,\ny perdido,\nsin sentido,\nque yo adoro.\n\nBusco el tesoro,\nplata y oro.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fue la dicha conocerte,\nun regalo del destino,\ntener esta buena suerte\nde cruzarme en tu camino.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

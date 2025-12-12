@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "**A**bismo dulce donde el alma se despliega,\n**M**isterio cálido que el corazón anhela,\n**O**céano inmenso donde el sentir navega,\n**R**osa encendida que en tus labios un **beso** sella.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "beso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando el sol se pone lento,\ny la noche empieza a hablar,\nguardas tú mi pensamiento,\nque no sabe otro lugar.\n\nRecuerdo aquel primer día,\nbajo un cielo de cristal,\ncuando el mundo se fundía,\nen un sueño celestial.\n\nNo hay dolor que no se calme,\nni tormenta que me arredre,\nsi tu mano en mi palma,\nsu refugio me concede.\n\nY en la brisa de la tarde,\no en la fuerza del huracán,\naún tu tierno beso arde,\nsello de nuestro afán.\n\nLos inviernos han pasado,\nflorecieron mil abriles,\npero el tiempo no ha borrado,\nnuestros sueños juveniles.\n\nAsí va mi corazón,\nfiel a ti, sin desvarío,\nhallando su bendición,\nen este amor tan mío.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "beso"
+  }
+}

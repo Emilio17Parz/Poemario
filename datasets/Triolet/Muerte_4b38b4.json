@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La piedra marca el lugar,\nDonde descansa el cuerpo,\nSin poder despertar.\nLa piedra marca el lugar,\nNos invita a recordar,\nEn este huerto.\nLa piedra marca el lugar,\nDonde descansa el cuerpo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

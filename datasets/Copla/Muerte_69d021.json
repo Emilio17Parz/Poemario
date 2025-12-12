@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Una lágrima sola\ncae al ataúd,\npidiendo clemencia\ny mucha salud.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Galopa mi corcel\ncomo el viento,\nllevando al caballero\nsin aliento.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

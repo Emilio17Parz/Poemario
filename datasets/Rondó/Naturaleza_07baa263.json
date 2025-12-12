@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento,\nen este momento,\nmoviendo las hojas,\ny pasiones rojas,\ncon su aliento.\n\nEs un cuento,\nsopla el viento.\n\nSin lamento,\nni sufrimiento,\ntú te despojas,\nde tus congojas,\ny estás contento.\nSopla el viento.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "viento"
+  }
+}

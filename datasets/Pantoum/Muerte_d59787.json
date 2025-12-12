@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cae el velo sobre los ojos,\nya no se ve la luz del día.\nQuedan atrás los viejos enojos,\nqueda atrás la alegría.\n\nYa no se ve la luz del día,\nentras al reino de la sombra.\nQueda atrás la alegría,\nnadie tu nombre ya nombra.\n\nEntras al reino de la sombra,\nquedan atrás los viejos enojos.\nNadie tu nombre ya nombra,\ncae el velo sobre los ojos.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "velo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Peso en la espalda,\nerror del pasado.\nSube por la falda,\nme tiene atado.\n\nError del pasado,\nno puedo borrar.\nMe tiene atado,\nsin avanzar.\n\nNo puedo borrar,\nsube por la falda.\nSin avanzar,\npeso en la espalda.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

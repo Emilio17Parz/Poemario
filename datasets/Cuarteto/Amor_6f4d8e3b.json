@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde en mi pecho un incesante fuego,\nuna llama que crece desmedida,\ncon la fuerza de mi alma decidida\na entregarse por siempre en este juego.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

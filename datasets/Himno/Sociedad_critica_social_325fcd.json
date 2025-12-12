@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Bandera blanca, paloma de luz,\nque quitas del mundo la pesada cruz!\nCallen las armas y el odio se apague,\ny el amor dulce las llagas enjuague.\n\n¡Gloria a la paz, el bien más preciado,\npor siglos y siglos tan deseado!\nConstruyamos puentes y no las murallas,\ny ganaremos las grandes batallas.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "paz"
+  }
+}

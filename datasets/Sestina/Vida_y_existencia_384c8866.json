@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se hace camino al andar,\nsin mapa y sin dirección,\nbuscando el propio destino.\nA veces piedras y espino,\notras veces suave flor,\nque adorna la travesía.\n\nEn la travesía,\nse encuentra la flor,\ny se hace el camino.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "camino"
+  }
+}

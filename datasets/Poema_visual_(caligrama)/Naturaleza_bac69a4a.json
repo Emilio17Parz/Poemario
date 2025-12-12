@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "      Hojas      \n    Verde Vida   \n   Ramas Altas   \n      Tronco     \n      Raíz       ",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

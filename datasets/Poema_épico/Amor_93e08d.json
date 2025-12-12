@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Como titanes que el cielo sostienen,\nasi nos amamos, con fuerza brutal,\nlas montañas tiemblan, los ríos se detienen,\nante este afecto, vasto y colosal.\nNo es amor suave de brisa y de flor,\nes el cataclismo de un dios creador.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Titanes"
+  }
+}

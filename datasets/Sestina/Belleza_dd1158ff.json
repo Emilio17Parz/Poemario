@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Miro la naturaleza,\nobra maestra divina,\nperfecta en su creación.\nCausa admiración,\nel monte, el río y la flor,\nen su estado puro.\n\nEstado puro,\nde la naturaleza,\ny su esplendor.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

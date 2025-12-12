@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En el abrazo quieto del verdor profundo,\ndonde el musgo teje alfombras sin mirar,\nse despierta un murmullo, un nuevo mundo,\nque el alma sin voz puede escuchar.\n\nEl río, vena líquida, serpentea sin prisa,\nsusurrando leyendas a la roca ancestral.\nEl viento, invisible danza, eleva una brisa,\nque el perfume de pinos se hace inmortal.\n\nY cuando el sol se rinde al velo violeta,\nemerge la **luna**, un disco de cristal,\npintando de plata la arboleda secreta,\ntestigo silente de un rito primal.\n\nMi corazón se funde con la tierra mojada,\ncon cada hoja que vibra, con cada ruiseñor,\nhallando en esta calma un alma desvelada,\nun eco de lo eterno, el más puro amor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "luna"
+  }
+}

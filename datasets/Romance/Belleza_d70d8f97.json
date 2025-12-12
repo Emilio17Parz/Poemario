@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No es el diamante pulido\nel que tiene mayor brillo,\nsino la lágrima pura\nen el rostro del chiquillo.\nResplandor de la inocencia,\nmás noble que un gran castillo,\nluz que nace desde adentro\ny es limpia como el tomillo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Baja cantando el río,\ndesde la cumbre nevada,\nhasta el valle verde y hondo.\nEn su caudal yo escondo,\nmis penas y mis deseos,\npara que lleguen al mar.\n\nLleguen al mar,\njunto con el río,\ny mis paseos.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el céfiro suave,\nmoviendo la mies dorada,\ncaricia de la alborada,\nque no pesa ni cabe.\nNadie su origen sabe,\nni su ruta trazada,\npero deja la huellada,\nen la nube y la nave.\nRefresca mi frente,\nviento de la montaña,\ny cuéntame tu hazaña.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "aire"
+  }
+}

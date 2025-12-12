@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Venía el río crecido,\ny el puente estaba roto,\npero cruzamos el coto,\ncon el ganado unido.\n\nFue un esfuerzo decidido,\nluchando contra la corriente,\ny salimos al frente,\ncon el deber cumplido.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "río"
+  }
+}

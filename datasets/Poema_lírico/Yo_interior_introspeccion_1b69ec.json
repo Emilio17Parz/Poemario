@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi mente es un pozo\nde sombra y de mal.\nEl único gozo\nsin signo vital.\n\nMe ahogo en el silencio,\nme pierdo en la paz,\nmi único presagio\nsin ser capaz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "pozo"
+  }
+}

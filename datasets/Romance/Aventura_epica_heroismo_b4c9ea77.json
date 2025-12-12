@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan tambores de guerra,\nse prepara la batalla,\nlos caballos piafan fuerte\nfrente a la alta muralla.\nHoy se decide la suerte,\nquien avanza y quien desmaya,\ny la historia escribirá\nquien tuvo la mejor talla.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

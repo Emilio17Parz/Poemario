@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No cicatriza la herida,\nque dejaste al marcharte,\nsin mirar una vez atrás.\nSé que no volverás,\npero el dolor se queda,\nlatiendo en el corazón.\n\nEn el corazón,\narde la herida,\ny nada queda.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "herida"
+  }
+}

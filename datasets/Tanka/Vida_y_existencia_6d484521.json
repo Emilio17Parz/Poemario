@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Piel arrugada,\nmapa de mil historias\ny de experiencia.\nEl atardecer llega\ncon calma y gratitud.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

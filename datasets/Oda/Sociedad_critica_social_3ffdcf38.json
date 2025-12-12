@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Paloma blanca que vuela,\nsobre el campo de batalla,\nque apagas la candela\ny callas la metralla.\nSilencio de los fusiles,\nabrazo de los hermanos,\nque salvas a miles\nde destinos vanos.\nUtopía necesaria,\ncamino de convivencia,\nplegaria solidaria\nde nuestra conciencia.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "paz"
+  }
+}

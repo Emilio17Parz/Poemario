@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando la plata cubra tu cabello\ny el tiempo marque líneas en tu frente,\nyo te amaré con ímpetu ferviente,\nhallando en tu cansar lo que es más bello.\n\nNo buscaré del joven el destello,\nsino la paz de un río transparente,\nque ha fluido constante y paciente,\nponiendo en nuestra historia su gran sello.\n\nCaminaremos lentos, de la mano,\nrecordando el fervor de la juventud,\npero adorando el tiempo cotidiano.\n\nSerá tu ancianidad mi plenitud,\ny en el final del ciclo tan humano,\ntu amor será mi eterna gratitud.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

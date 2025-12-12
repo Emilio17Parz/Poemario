@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un río que fluye sin par (A),\ncon fuerza, con calma, con gran fulgor (B),\nla forma de al fin sanar (A).\n\nNo luches contra ella, sin un error (B),\nla vida que brota, sin un final (C),\nla esencia del puro valor (B).\n\nPor ella mi alma vive, mi ser total (C),\nla fuerza que impulsa mi fiel razón (D),\nla eterna y dulce verdad real (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Fluir"
+  }
+}

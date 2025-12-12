@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Crecen hojas en la rama\ndel árbol fuerte y vital,\nque con el viento reclama\nsu espacio natural.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "rama"
+  }
+}

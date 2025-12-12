@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No confundas deseo con amor,\nla llama rápida con la brasa,\nuno es intenso fulgor,\nque pronto se pasa.\nEl amor se cocina lento,\ny resiste cualquier viento.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Lujuria"
+  }
+}

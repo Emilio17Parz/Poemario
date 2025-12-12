@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Búsqueda eterna de lo sublime,\nque al espíritu humano redime!\nNo basta lo útil, hace falta lo bello,\npara dejar en el tiempo un sello.\n\n¡Salve, estética, ciencia del gusto,\nque haces amable lo que es vetusto!\nAdornar la vida es un deber,\npara que el alma pueda crecer.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "estética"
+  }
+}

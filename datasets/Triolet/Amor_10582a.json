@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me pierdo en tu dulce mirada,\nque brilla con luz de lucero.\nMi alma se siente amada,\nme pierdo en tu dulce mirada.\nPor siempre serás mi adorada,\nte quiero con amor sincero.\nMe pierdo en tu dulce mirada,\nque brilla con luz de lucero.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

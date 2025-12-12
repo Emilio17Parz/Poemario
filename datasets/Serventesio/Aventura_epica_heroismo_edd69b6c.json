@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge el cañón en la gran batalla,\ntiembla la tierra con gran frenesí,\ny el enemigo asustado se calla,\nal ver la fuerza que avanza hacia allí.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

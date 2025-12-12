@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién soy yo?,\npregunto,\nperplejo,\nal espejo,\nque vio.\n\nNadie oyó,\n¿quién soy yo?\n\nEl asunto,\ndel punto,\nviejo,\ny lejos,\nsalió.\n¿Quién soy yo?",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

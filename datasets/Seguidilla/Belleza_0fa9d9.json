@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo bello está,\nen el ser,\ny hay que,\nsaber ver.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "ser"
+  }
+}

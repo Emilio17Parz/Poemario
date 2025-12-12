@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mirar tu faz,\nEn cada amanecer,\nVibrante es el\nDe tu sonrisa el color,\nPura y eterna paz.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "color"
+  }
+}

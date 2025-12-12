@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Danza esta vida, con gozo y dolor,\nsin miedo a caer, sin temor al mal,\nla forma más pura de ser, de amor,\nel alma que es ya inmortal.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

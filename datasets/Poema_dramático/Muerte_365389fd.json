@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "HOMBRE: Un paso más y todo termina.\nVIENTO: No lo hagas, la vida camina.\nHOMBRE: No aguanto el dolor, el peso, el miedo.\nVIENTO: Mañana será otro día, te enredo.\nHOMBRE: El abismo me llama con voz dulce.\nVIENTO: Piensa en quien te ama, no te expulse.\nHOMBRE: Nadie me ama. Adiós, mundo cruel.\n(Cae al vacío como un papel)",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "abismo"
+  }
+}

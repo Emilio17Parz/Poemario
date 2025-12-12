@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hemos llegado al final,\ndel camino que unimos,\ny ahora se bifurca en dos.\nQueda el silencio atroz,\nde lo que pudo haber sido,\ny nunca llegará a ser.\n\nLlegará a ser,\nsolo un final,\ny un olvido.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "final"
+  }
+}

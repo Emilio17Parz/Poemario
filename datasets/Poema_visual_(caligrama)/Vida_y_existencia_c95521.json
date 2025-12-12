@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cuerda atada\nvueltas y lazos\nconfusión\nproblema duro\nsin principio\nni final\nenredo.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "error"
+  }
+}

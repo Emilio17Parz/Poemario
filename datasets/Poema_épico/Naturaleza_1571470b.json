@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Antes que el hombre pisara la tierra,\nya estaba el bosque, gigante y sagrado.\nEjército verde, jamás conquistado,\nque guarda secretos de paz y de guerra.\nSus raíces beben del centro del mundo,\nsu copa conversa con lo profundo.\nTitanes de madera que al cielo tocan,\ny a los antiguos espíritus invocan.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

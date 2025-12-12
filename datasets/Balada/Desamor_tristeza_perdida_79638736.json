@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quemé tus cartas en la hoguera,\nviendo las letras hacerse gris,\nquisiera que mi alma pudiera,\nvolver a ser lo que fue y feliz.\nPero me queda la cicatriz,\nde aquel amor que fue un desliz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "carta"
+  }
+}

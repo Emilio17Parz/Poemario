@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Silencio en la tumba,\nduerme el viajero,\nnadie lo zumba.\nSilencio en la tumba,\ntodo se derrumba\nen el agujero.\nSilencio en la tumba,\nduerme el viajero.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

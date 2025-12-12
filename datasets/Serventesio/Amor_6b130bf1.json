@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mirada es la luz de mi sendero,\nque ilumina mi paso al caminar,\neres el único sol que yo prefiero,\ny la estrella que me hace soñar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "luz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volvió a su casa en la noche,\na recorrer los pasillos,\noía los grillos,\ny vio su viejo coche.\nQuiso tocar a su amada,\nque dormía en la cama,\npero su mano era llama,\nfría y apagada.\nEntendió que ya no vivía,\ny se marchó con el día.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

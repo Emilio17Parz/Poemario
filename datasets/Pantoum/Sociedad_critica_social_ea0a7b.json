@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Siembran miedo en la noticia,\npara tenernos callados.\nSe pierde la justicia,\nvivimos amenazados.\n\nPara tenernos callados,\ncierran puertas y rejas.\nVivimos amenazados,\nentre quejas y viejas.\n\nCierran puertas y rejas,\nse pierde la justicia.\nEntre quejas y viejas,\nsiembran miedo en la noticia.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

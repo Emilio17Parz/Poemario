@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Parca afila su hoz\nbajo la luna menguante,\nesperando el momento justo\npara cortar al instante.\nNo acepta oro ni joyas\nni súplica de amante,\nsolo cumple su deber\nde segadora constante.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "parca"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Quien tiene un amigo fiel\ntiene un tesoro guardado,\nun escudo en la batalla\ny un consuelo en el cuidado.\nLa amistad es la riqueza\ndel hombre más desdichado,\nque brilla más que el dinero\ny el oro más refinado.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "amistad"
+  }
+}

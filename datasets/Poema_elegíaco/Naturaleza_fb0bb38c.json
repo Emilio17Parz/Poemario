@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cayó el gigante centenario,\nvencido por el hacha cruel,\nya no dará sombra ni miel,\nun fin triste y solitario.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

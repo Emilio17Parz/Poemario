@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El Reino se va al olvido,\nno tiene ya ni fe,\ny mi alma ya sin nido,\nsin un solo gran sé.\n\nMe voy con el invierno,\nme voy sin un adiós,\ny mi vida es un infierno,\nsin un solo de vos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Reino"
+  }
+}

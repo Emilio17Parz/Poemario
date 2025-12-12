@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Avanza el Segador por campos de trigo,\nsu guadaña de plata no tiene piedad,\nno distingue entre rey, pobre o mendigo,\ncosechando las almas para la eternidad.\nEl filo silba una canción de cuna,\nbajo la luz pálida de la luna.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Segador"
+  }
+}

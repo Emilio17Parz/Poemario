@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aunque hoy el cielo esté gris y oscuro,\nel sol volverá, tenlo seguro.\nNingún invierno dura por siempre,\nni hay mal que al alma desmiembre.\nMantén viva la llama y la fe,\nque el amor volverá, ya lo sé.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

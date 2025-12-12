@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me busco en el reflejo del espejo,\ntratando de saber quién soy yo,\ny encuentro un rostro pálido y viejo.\n\nEl tiempo con sus huellas me marcó,\ndejando cicatrices en la piel,\npero mi esencia pura no cambió.\n\nAunque la vida fuera a veces cruel.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

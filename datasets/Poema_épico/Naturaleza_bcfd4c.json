@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Aúlla a la luna el hijo del frío,\nhermano del viento, señor del clan,\nsu canto es guerra, su canto es mío,\nlos bosques tiemblan donde ellos van.\nEspíritu libre, colmillo y piel,\nguerrero salvaje, noble y fiel.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Lobo"
+  }
+}

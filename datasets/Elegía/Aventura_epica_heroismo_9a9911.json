@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Yace en el campo de honor,\nel valiente que nos guiaba,\nsu sangre lavaba,\nel terror.\n\nDolor,\nque grababa,\ny acababa,\nel fulgor.\n\nEspada rota en la mano,\nsueño vano.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

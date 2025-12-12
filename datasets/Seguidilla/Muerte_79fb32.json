@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te llevo flores blancas,\nal cementerio,\ncon un sentimiento,\nmuy serio.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "blancas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miro fotos viejas,\nsonrisas de antaño.\nDetrás de las rejas,\npasará otro año.\n\nSonrisas de antaño,\nque ya no volverán.\nPasará otro año,\ny se borrarán.\n\nQue ya no volverán,\nmiro fotos viejas.\nY se borrarán,\ndetrás de las rejas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

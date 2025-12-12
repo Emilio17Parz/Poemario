@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El éxtasis breve, la dulce emoción fiel (A),\nque el alma recoge al contemplar (A),\nla vida es un trago de dulce miel (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Éxtasis"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el agua cristalina\npor el cauce de este río,\nllevándose las tristezas\ny el recuerdo del estío.\nVa buscando la mar grande\ncon su eterno poderío,\nmientras riega las orillas\ncon su llanto y rocío.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "río"
+  }
+}

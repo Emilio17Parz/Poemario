@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En el jardín callado de mi mente,\ndonde la brisa oculta me visita,\nme busco sin cesar, fervientemente.\nY la frágil **duda** me incita\na escuchar los murmullos del alma,\nesa voz que sin nombre me calma,\no me agita en su honda claridad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "duda"
+  }
+}

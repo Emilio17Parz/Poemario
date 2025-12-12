@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El Sueño de estar contigo,\nfue dulce y profundo al fin,\npero el despertar fue un castigo,\ny no hay un solo ín.\n\nAhora mi almohada es testigo,\ndel dolor que vive en mí,\ny no encuentro ya el abrigo,\nque me diste junto a ti.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

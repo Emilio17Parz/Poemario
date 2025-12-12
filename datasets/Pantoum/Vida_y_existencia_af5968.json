@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es la vida una gran batalla,\nganar terreno o retroceder.\nEl miedo grita y nunca calla,\npero no debemos ceder.\n\nGanar terreno o retroceder,\ncon la armadura de la fe.\nPero no debemos ceder,\nponiéndonos siempre de pie.\n\nCon la armadura de la fe,\nel miedo grita y nunca calla.\nPoniéndonos siempre de pie,\nes la vida una gran batalla.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

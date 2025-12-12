@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú me muestras lo real,\nsin ninguna sombra y mal.\n\nLa vida no es un disfraz,\nsin engaño ni antifaz,\nsolo queda ya la paz,\nsin ninguna sombra y mal.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

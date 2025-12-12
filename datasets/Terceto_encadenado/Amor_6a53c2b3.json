@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juremos un amor que sea eterno,\nque venza las barreras de la edad,\ny el frío desolado del invierno.\n\nBusquemos la absoluta claridad,\nuniendo nuestros pasos en la vida,\nlejos de la cruel oscuridad.\n\nCon el alma por siempre agradecida.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

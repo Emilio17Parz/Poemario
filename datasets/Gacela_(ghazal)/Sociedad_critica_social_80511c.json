@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele el silencio del hambre,\ngrito ahogado del hambre.\n\nMesas repletas que tiran el pan,\nfrente a los ojos del hambre.\n\nVergüenza del mundo que mira hacia atrás,\npara no ver el rostro del hambre.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

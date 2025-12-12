@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "PENITENTE: Padre, he pecado, soy impuro.\nCONFESOR: Habla, hijo, tras este muro.\nPENITENTE: Robé al pobre y mentí a mi madre.\nCONFESOR: Grave es la falta ante el Padre.\nPENITENTE: ¿Hay perdón para un alma tan negra?\nCONFESOR: Si el arrepentimiento te integra.\nReza y repara el daño causado.\nYo te absuelvo de tu pecado.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "pecado"
+  }
+}

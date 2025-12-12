@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "[LA VIUDA]\n(Vestida de negro)\nMi corazón es un tambor que solo toca marchas fúnebres. No hay otro ritmo.\nMe miro en el espejo y veo tu ausencia. Me hablo y escucho tu voz.\nEl luto no es una ropa, es una piel que me cubre, fría y permanente.\nSoy una estatua de sal en medio de un campo de cenizas.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "luto"
+  }
+}

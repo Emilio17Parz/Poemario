@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Pregunto todo,\ny no hallo nada,\nde ningún modo.\n\nEn la bajada,\ndel recodo,\nde la andada.\n\nEn el lodo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "duda"
+  }
+}

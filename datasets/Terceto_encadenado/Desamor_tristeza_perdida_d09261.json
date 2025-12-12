@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El adiós sin palabras, el golpe fatal (A),\nque rompe mi vida, que quiebra la fe (B),\nla ausencia de todo bien total (A).\n\nMi alma se queda, sin un 'yo sé' (B),\nperdido en la niebla de mi razón (C),\nel precio que tengo que pagar (B).\n\nLa vida es un drama, una gran lección (C),\nsin luz, sin rumbo, sin un final (D),\nla ausencia de toda emoción (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

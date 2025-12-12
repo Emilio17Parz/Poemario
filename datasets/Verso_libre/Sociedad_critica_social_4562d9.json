@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Viejos firmando papeles\nen despachos de caoba.\nJóvenes muriendo en el barro\nlejos de casa.\nLa guerra es la matemática cruel\ndel poder.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

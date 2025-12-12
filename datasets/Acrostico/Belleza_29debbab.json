@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "C romática visión,\nO freces alegría,\nL lenas el corazón,\nO ro de medio día,\nR eina de la ilusión.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "color"
+  }
+}

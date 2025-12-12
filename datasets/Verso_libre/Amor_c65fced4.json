@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor es verte dormir,\ncon la boca entreabierta\ny el pelo revuelto.\nNo hay violines ni fuegos artificiales,\nsolo la paz de saber\nque estás ahí,\nrespirando el mismo aire,\ncompartiendo la misma manta\ny el mismo destino.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "cotidiano"
+  }
+}

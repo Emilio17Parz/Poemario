@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nacemos solos y solos\nmoriremos al final,\nla soledad es la sombra\nde nuestra vida mortal.\nAun rodeados de gente\nen la fiesta mundanal,\nel alma sigue desierta\ncomo un triste erial.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

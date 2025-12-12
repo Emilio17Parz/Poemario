@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mano con mano,\nhasta el fin de los días,\njuntos en paz.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "paz"
+  }
+}

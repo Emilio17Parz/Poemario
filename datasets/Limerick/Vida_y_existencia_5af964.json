@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La duda me ataca sin fin,\nla vida sin un solo tin.\nLa mente que piensa,\nla calma que amansa,\nel alma que busca su ruin.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Duda"
+  }
+}

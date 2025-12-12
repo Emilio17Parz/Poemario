@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "   nacer\n c       v\ne         i\nr         v\n c       i\n   e r r",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "espiral"
+  }
+}

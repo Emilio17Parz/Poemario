@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo es oro puro,\nque no debemos nunca malgastar,\npues el futuro,\nsuele tardar,\ny el presente se nos puede escapar.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "oro"
+  }
+}

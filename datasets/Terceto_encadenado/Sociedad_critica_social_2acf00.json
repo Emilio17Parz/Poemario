@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El niño pide pan,\nen la esquina fría,\ncon inmenso afán.\n\nNadie le sonría,\npasan con indiferencia,\nsin ver su agonía.\n\nNi su presencia.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

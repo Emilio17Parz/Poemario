@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Vivo en un sueño si estás a mi lado,\nla realidad se transforma en color,\nmi corazón se siente enamorado.\n\nTodo el pasado quedó olvidado,\nborraste el rastro de aquel dolor,\nvivo en un sueño si estás a mi lado.\n\nMe has rescatado y me has cuidado,\ncon la ternura de tu dulce amor,\nmi corazón se siente enamorado.\n\nNunca me he visto tan ilusionado,\ncomo un devoto ante su señor,\nvivo en un sueño si estás a mi lado.\n\nHemos unido lo que era apartado,\nsembrando juntos una nueva flor,\nmi corazón se siente enamorado.\n\nSoy el cautivo de tu buen agrado,\npreso feliz de tu beso y sabor,\nvivo en un sueño si estás a mi lado,\nmi corazón se siente enamorado.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

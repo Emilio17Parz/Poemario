@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El sabor amargo de la hiel sin fin (A),\nque bebe mi alma con gran dolor (B),\nla vida es un drama, un triste trajín (A),\nla ausencia del puro amor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Amargo"
+  }
+}

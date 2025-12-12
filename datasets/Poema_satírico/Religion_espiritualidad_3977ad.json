@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Gato negro y escalera,\nespejo roto y sal,\nuna vida entera,\nhuyendo del mal.\nEl miedo irracional,\nes el único animal.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Superstición"
+  }
+}

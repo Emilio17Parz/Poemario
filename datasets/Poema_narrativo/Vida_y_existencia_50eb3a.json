@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Abrió el viejo baúl de fotos sin color,\nTrayendo al presente un pasado mejor.\nVio a los que se fueron, a los que amó al fin,\nLa memoria es el puente, el mejor festín.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

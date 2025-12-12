@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL VIAJERO]\nHe cruzado desiertos, he escalado montañas de hielo por un rumor, una leyenda.\nMe dicen que el mapa es falso, que el tesoro no existe. ¡Pero mi alma arde!\nLa búsqueda no es por el oro, es por probarme que la fe es más fuerte que la razón.\nSi muero aquí, que mi cuerpo sea la prueba de que vale la pena creer.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "búsqueda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Acero forjado,\ncompañera fiel del guerrero;\nel sendero,\nmarcado.\nCorta el aire con silbido letal,\ncontra el mal.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "espada"
+  }
+}

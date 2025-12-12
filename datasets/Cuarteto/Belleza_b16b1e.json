@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El sonido es calma, la música suave,\nque toca la fibra más pura y real,\nla vida es un canto, el alma cabe,\nen el ritmo que es ya inmortal.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Sonido"
+  }
+}

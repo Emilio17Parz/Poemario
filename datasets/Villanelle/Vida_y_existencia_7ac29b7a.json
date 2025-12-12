@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Escrito está en las estrellas,\nel rumbo de nuestro andar,\nmarcado por viejas huellas.\n\nNo valen quejas ni querellas,\ncontra lo que ha de pasar,\nescrito está en las estrellas.\n\nLas vidas lindas o bellas,\nse tienen que terminar,\nmarcado por viejas huellas.\n\nSon como chispas y centellas,\nque vienen y van al mar,\nescrito está en las estrellas.\n\nCierran las puertas aquellas,\nque no pudimos cruzar,\nmarcado por viejas huellas.\n\nSomos esclavos de ellas,\ndel hado y su decretar,\nescrito está en las estrellas,\nmarcado por viejas huellas.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "destino"
+  }
+}

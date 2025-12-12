@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Espejo quieto entre los pinos,\ndonde se mira la luna llena,\nborrando toda la pena,\ncon sus reflejos divinos.\n\nAguas mansas, azules linos,\nque guardan el sueño del pez,\ny nos muestran la nitidez,\nde los eternos caminos.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "lago"
+  }
+}

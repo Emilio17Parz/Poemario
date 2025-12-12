@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La cumbre toca la nube,\nvestida de nieve blanca,\nmientras el alma sube.\n\nNingún miedo la estanca,\nante la vista imponente,\nque el aliento nos arranca.\n\nDe repente.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

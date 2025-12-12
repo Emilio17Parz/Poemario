@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Este fuego no se apaga,\naunque llueva o nieve.\nEl tiempo es breve,\npero el amor paga.\n\nComo una daga,\nque dulce se mueve.\nEste fuego no se apaga,\naunque llueva o nieve.\n\nLa dicha estraga,\nlo malo y leve.\nNadie se atreve,\na ser la plaga.\nEste fuego no se apaga.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla con fuerza el invisible viento,\nmueve las hojas con su gran poder,\nlleva lejos los aromas,\nal comenzar a atardecer.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "viento"
+  }
+}

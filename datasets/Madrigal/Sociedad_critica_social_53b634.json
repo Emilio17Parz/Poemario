@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele ver la mano extendida,\npidiendo un poco de pan y piedad,\nen la ciudad,\ndonde la riqueza es desmedida.\nRostros que el hambre ha demacrado,\nolvidado,\npor un mundo que gira indiferente,\nante la gente.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

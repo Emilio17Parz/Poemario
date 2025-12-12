@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Manos que labran, que forjan y crean,\ny que el futuro mejor nos plantean!\nSudor que riega la tierra fecunda,\ny hace que el fruto en la mesa abunda.\n\n¡Honor al obrero, pilar del estado,\nque con su esfuerzo nos ha levantado!\nDignidad santa del que se gana,\nel pan que come cada mañana.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

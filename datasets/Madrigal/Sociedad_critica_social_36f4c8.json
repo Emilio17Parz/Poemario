@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Verdad que se disfraza,\nnoticia falsa que corre veloz;\nalza la voz,\nen la plaza.\nCreemos ciegos lo que la pantalla,\nnos ametralla.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Lo único constante es el cambio,\nel río que fluye y no cesa,\nla vida que nunca regresa,\nal mismo punto de intercambio.\n\nNo temas al nuevo recambio,\nni a la hoja que el viento apresa,\npues en la mudanza se expresa,\nel sabio consejo del labio.\n\nAdaptarse es la ley natural,\nfluir como el agua en la roca,\npara evitar el triste mal.\n\nLo nuevo a la puerta nos toca,\ny abrir es el paso vital,\nque a la evolución nos avoca.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

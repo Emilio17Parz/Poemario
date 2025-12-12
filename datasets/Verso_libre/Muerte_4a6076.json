@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte alimenta la vida.\nDel árbol caído nacen hongos,\ndel cuerpo inerte brotan flores.\nLa rueda gira,\nnada se pierde,\ntodo se transforma en otra cosa.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ciclo"
+  }
+}

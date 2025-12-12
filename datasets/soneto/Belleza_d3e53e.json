@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es verdad, la verdad belleza,\nno hace falta saber nada más,\nen la tierra jamás,\nhabrá otra certeza.\n\nCon tal franqueza,\ntú vivirás,\ny amarás,\ncon entereza.\n\nLo bello nunca muere,\nqueda en el recuerdo,\ny se adhiere.\n\nAl acuerdo,\nque sugiere,\nel cuerdo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

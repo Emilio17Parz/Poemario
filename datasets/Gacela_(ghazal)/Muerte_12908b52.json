@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volvemos al polvo de donde venimos,\ncenizas ligeras que un día fuimos.\n\nLos sueños y glorias que construimos,\nse deshacen como el humo que vimos.\n\nNada nos llevamos, nada tuvimos,\nsolo el amor que en la vida dimos.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

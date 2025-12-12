@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Falta tu calidez,\nRodeado de hielo estoy.\nInvierno otra vez,\nOlvido a donde voy.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "FRIO"
+  }
+}

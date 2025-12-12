@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lloraba en la barra del bar,\nsin poderse consolar.\nEl camarero,\nmuy zalamero,\nle dijo deja de aullar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

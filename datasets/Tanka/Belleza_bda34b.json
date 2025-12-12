@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La risa sincera,\nes un sonido precioso,\nlleno de verdad.\nLa expresión de un alma libre,\nque no teme a nada ya.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

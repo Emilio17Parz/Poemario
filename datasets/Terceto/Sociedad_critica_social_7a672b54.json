@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "El vicio acecha en la ciudad dormida,\nLa injusticia prospera sin temor,\nUn solo grito clama por la vida.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "grito"
+  }
+}

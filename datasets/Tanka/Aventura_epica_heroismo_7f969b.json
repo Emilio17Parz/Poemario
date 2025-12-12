@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dulce sabor\nde la victoria ganada,\ntras el duro esfuerzo.\nLa paz vuelve a reinar ya,\ny la luz brilla en la tierra.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Victoria"
+  }
+}

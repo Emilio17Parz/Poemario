@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me ahoga esta gran pena\nque llevo en mi interior,\nes una dura cadena.\nMe ahoga esta gran pena,\nmi alma se envenena\ncon la falta de tu amor.\nMe ahoga esta gran pena\nque llevo en mi interior.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "pena"
+  }
+}

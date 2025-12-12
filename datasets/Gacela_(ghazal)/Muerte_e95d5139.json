@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte llega calzando sandalias de musgo,\napagando la llama sin pedirme permiso ni usgo.\n\nCierra los ojos del hombre, termina el trasgu,\ny nos lleva al silencio donde ya no juzgo.\n\nEs el paso final, el eterno refusgo,\ndonde todo se acaba y en la nada me hundo.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "final"
+  }
+}

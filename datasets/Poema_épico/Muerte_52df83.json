@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Curva de acero que corta el hilo,\nherramienta agrícola del destino,\ntiene en la muerte su eterno asilo,\ny siega las almas en el camino.\nSiega la hierba y siega la flor,\nigual al siervo que al emperador.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Guadaña"
+  }
+}

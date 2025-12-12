@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El mundo es un escenario.\nEntramos, decimos nuestro texto,\nhacemos reír o llorar,\ny salimos por el foro.\nNo importa si el papel es de rey o mendigo,\nsolo importa si actuaste con verdad,\nsi dejaste una emoción\nen la platea vacía.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "teatro"
+  }
+}

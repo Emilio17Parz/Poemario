@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del helicón mi divina musa,\npara inspirar mis versos, amada musa.\n\nSin ti mi pluma es seca y no tiene voz,\ndame tu aliento mágico, dulce musa.\n\nCantaré la belleza del mundo entero,\nsi tú guías mi canto, celeste musa.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "musa"
+  }
+}

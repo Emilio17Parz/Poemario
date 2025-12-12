@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae en silencio el copo de hielo,\nvistiendo al mundo de blanco tul,\nparece un trozo del mismo cielo,\nque baja suave del alto azul.\nTodo se calla, todo se duerme,\nbajo la capa de frialdad,\nhasta que el sol vuelva y se afirme,\ntrayendo vida y felicidad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

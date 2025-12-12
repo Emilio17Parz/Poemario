@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lucha por la causa de la libertad total,\npor el derecho de todo mortal,\nno teme al peligro, ni al mal fatal,\nla esencia de lo que es real.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Libertad"
+  }
+}

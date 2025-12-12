@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi madre me enseñó un rezo\ncuando yo era chiquitito,\ny lo digo cada noche\ncomo un santo requisito.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

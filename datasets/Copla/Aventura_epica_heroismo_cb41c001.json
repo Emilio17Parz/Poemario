@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Soy el rey de la montaña,\nel terror de los caminos,\nrobo a los ricos y nobles\ny ayudo a los vecinos.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "sierra"
+  }
+}

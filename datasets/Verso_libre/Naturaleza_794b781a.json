@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entrar al bosque es entrar a un templo\nsin techo ni paredes.\nLos árboles son columnas vivas\nque sostienen el cielo.\nEl musgo es la alfombra del silencio.\nAquí, mi respiración se acompasa\ncon la savia que sube lenta,\ny me siento pequeño y eterno\na la vez.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

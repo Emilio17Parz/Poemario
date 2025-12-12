@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Teme el alma al olvido,\nmás que a morir,\nser un nombre perdido,\nque no ha de vivir.\n\nMás que a morir,\nes desaparecer,\nque no ha de vivir,\nni permanecer.\n\nEs desaparecer,\nteme el alma al olvido,\nni permanecer,\nser un nombre perdido.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río busca el mar,\nbajando la cuesta,\nno puede parar,\nen su eterna fiesta.\n\nBajando la cuesta,\nlleva vida y limo,\nen su eterna fiesta,\ny en su desanimo.\n\nLleva vida y limo,\nel río busca el mar,\ny en su desanimo,\nno puede parar.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "río"
+  }
+}

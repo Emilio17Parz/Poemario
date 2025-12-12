@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL MENSAJERO]\nEstoy agotado. Mis piernas ya no responden, pero la antorcha no se apaga.\nEste fuego es la última esperanza de la ciudad sitiada. No puedo fallar.\nSi caigo, el mensaje se pierde y mueren todos. Soy solo un cuerpo frágil,\npero mi voluntad es el motor que mueve este mundo roto.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "antorcha"
+  }
+}

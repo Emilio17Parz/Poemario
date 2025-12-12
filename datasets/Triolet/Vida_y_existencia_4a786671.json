@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo es azar\nen este juego,\nal despertar.\nTodo es azar,\nhay que ganar\no perder luego.\nTodo es azar\nen este juego.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "azar"
+  }
+}

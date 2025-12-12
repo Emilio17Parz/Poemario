@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Me inspira la musa,\nque a nadie rehúsa.\n\nBaja del cielo,\nquita el desvelo,\ny alza el vuelo,\nde forma profusa.\n\nMe inspira la musa,\nque a nadie rehúsa.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "musa"
+  }
+}

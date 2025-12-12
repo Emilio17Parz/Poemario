@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siento el paso del año,\nen la carne y la idea,\ncomo la marea,\nque causa su daño.\n\nNo es un vil engaño,\nes la fiel tarea,\nque la vida crea,\ny yo acompaño.\n\nEl tiempo interior,\nno marca las horas,\nsino el valor.\n\nDe las auroras,\ny del amor,\nque tú atesoras.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

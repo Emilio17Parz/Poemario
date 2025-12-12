@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el final de la jornada,\ncon la luz ya apagada,\ny el silencio que crece,\nmientras el sol padece,\nen la tarde cansada.\n\nEs la hora marcada,\nla vida terminada,\nque ya no florece,\nLlega el final.\n\nEl alma liberada,\nemprende la escapada,\nhacia donde merece,\ny el cuerpo desfallece,\nen la tierra sagrada,\nLlega el final.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

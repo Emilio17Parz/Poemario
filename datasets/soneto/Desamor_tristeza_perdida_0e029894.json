@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Monstruo de ojos verdes que devora\nla calma y la razón en un bocado,\ndejando el corazón envenenado\ny el alma que en tinieblas se evapora.\n\nLa duda cruel que crece y empeora,\nimaginando al ser que fue amado\nen brazos de otro dueño, regalado,\nmientras mi propio ser se deteriora.\n\nLos celos son infierno en vida viva,\nun fuego que no quema, pero hiela,\ny deja la confianza a la deriva.\n\nNo hay paz para quien siempre recela,\nni luz para la mente pensativa\nque tras cada sonrisa, engaño huele.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "celos"
+  }
+}

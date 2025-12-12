@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Notas que se elevan,\nlenguaje universal del corazón;\nla dulce canción,\ndonde nos llevan.\nLa música sana la herida abierta,\ny la despierta.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "música"
+  }
+}

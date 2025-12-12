@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuidaré de tu amor como una rosa,\nregándola con agua de ternura,\npara que sea siempre la más hermosa.\n\nProtegiendo su tallo y su frescura,\nde los vientos helados del invierno,\ncon una devoción noble y pura.\n\nEn lazo sempiterno.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "flor"
+  }
+}

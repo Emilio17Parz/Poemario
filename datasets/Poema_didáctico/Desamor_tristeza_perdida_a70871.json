@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No te aísles en tu caverna,\nbusca la mano amiga,\nla amistad es linterna,\nque la oscuridad mitiga.\nHablar sana el corazón,\ny devuelve la razón.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Apoyo"
+  }
+}

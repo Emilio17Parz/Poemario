@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Caballo loco que corre y salta,\nde idea en idea sin descansar,\nsin parar,\nla paz mental siempre me hace falta.\nDomar la mente, aquietar el río,\nes el desafío,\npara encontrar la serenidad,\nde verdad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pensamiento"
+  }
+}

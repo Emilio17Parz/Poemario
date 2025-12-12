@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te busqué por las calles de la ciudad grande, pregunté a los guardias que rondan la muralla.\nTe busqué en los libros antiguos y en las canciones nuevas, en el rostro de los extraños.\nHasta que te encontré en mi propio costado, como si siempre hubieras estado allí, esperando mi despertar.\nAhora que te tengo, no te soltaré, ni dejaré que te vayas a la habitación de la que me concibió.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "búsqueda"
+  }
+}

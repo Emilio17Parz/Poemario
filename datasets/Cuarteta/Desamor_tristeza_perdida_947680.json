@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El silencio ocupa tu lugar,\nun hueco frío que no se llena más,\nes el dolor que me hace temblar,\nla sombra de lo que ya no está.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Ausencia"
+  }
+}

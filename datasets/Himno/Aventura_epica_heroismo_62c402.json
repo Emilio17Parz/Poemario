@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ofrenda suprema de la propia vida,\npor una causa noble y querida.\n¡Honor al Sacrificio, acto de amor!,\nque brilla más fuerte que el mismo sol.\n\nDar todo por otros, sin pedir nada,\nes la hazaña más pura y sagrada.\nTe alzamos un canto de gratitud,\nejemplo de máxima rectitud.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "sacrificio"
+  }
+}

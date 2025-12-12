@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En un universo de dudas y caos, tú eres mi única certeza inquebrantable, mi punto fijo en el horizonte.\nSaber que me amas es el cimiento sobre el que construyo la casa de mi vida, piedra a piedra.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "certeza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Conócete a ti mismo,\nel oráculo dijo,\nsalir del abismo,\nes el acertijo.\nMira en tu espejo,\ny sigue el consejo.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Conócete"
+  }
+}

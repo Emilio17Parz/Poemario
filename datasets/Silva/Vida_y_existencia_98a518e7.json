@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sé fuerte en la batalla,\nque la vida presenta con rigor,\ny salta la valla,\ncon gran valor,\npara vencer al miedo y al dolor.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "fuerte"
+  }
+}

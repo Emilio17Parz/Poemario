@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El infierno es la ausencia,\nde la luz y del bien,\nuna eterna sentencia,\nlejos del santo edén.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "infierno"
+  }
+}

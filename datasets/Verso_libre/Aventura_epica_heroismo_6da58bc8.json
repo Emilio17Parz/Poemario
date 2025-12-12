@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El caos reina en el campo,\ngritos, polvo y sangre.\nEn medio de la batalla,\nel miedo se vuelve coraje.\nNo se lucha por odio,\nse lucha por sobrevivir,\npor proteger lo amado,\nen la danza mortal del acero.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

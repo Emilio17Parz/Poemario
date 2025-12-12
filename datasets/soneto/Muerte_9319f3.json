@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dame la mano por última vez,\nantes de cruzar el río oscuro,\nel camino se vuelve inseguro,\ny se acaba mi propia fluidez.\n\nSiento el frío y la rigidez,\nmurallas de un altísimo muro,\npero te juro, amor, te lo juro,\nque te amé con total honradez.\n\nNo llores por mí, sigue viviendo,\nbusca la luz y busca la risa,\nmientras yo me voy disolviendo.\n\nLa vida se pasa tan deprisa,\nque cuando nos vamos yendo,\nsolo queda una suave brisa.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "despedida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Anoche te soñé entre los trigales,\nvestida de blancura y de rocío,\ncurando con tus besos el vacío\ny ahuyentando mis penas y mis males.\n\nCantaban a lo lejos los zorzales,\ny el mundo no sentía hambre ni frío,\nera perfecto el cauce de este río\nlejos de los dolores terrenales.\n\nDespierto y te busqué con la mirada,\npero solo encontré la luz del día\ny la almohada vacía y arrugada.\n\nMas queda en mi memoria la alegría,\nde aquella visión dulce y sagrada,\nque reina en mi constante fantasía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

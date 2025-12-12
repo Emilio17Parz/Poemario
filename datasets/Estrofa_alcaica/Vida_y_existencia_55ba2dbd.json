@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El ser despierta, efímero y sereno,\nBajo la bóveda, un designio lleno.\nRecorre el vasto edén,\nSu espíritu va y viene.\n\nLas sendas traza el alma en su jornada,\nDe gozos plenos y de fe forjada.\nLa sombra y la verdad,\nUn propósito alcanzan.\n\nMas corre el **tiempo**, río inagotable,\nQue arrastra todo cuanto fue admirable.\nTransforma el ser fugaz,\nLo efímero en audacia.\n\nY al fin retorna al polvo de la tierra,\nMas queda el eco de la eterna guerra.\nLa vida no fenece,\nSe eleva y se renueva.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

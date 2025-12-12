@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La lluvia es una cortina de cuentas de cristal que une el cielo con la tierra en un abrazo húmedo.\nTamborilea sobre los techos cantando la promesa de la vida, y la tierra sedienta abre la boca para beber.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

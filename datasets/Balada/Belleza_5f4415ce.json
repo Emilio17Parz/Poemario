@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brilla el diamante en el collar,\nluce la perla su blancor,\npiedras que saben deslumbrar,\ncon su destello y fulgor.\nPero no tienen el calor,\ndel verdadero amor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "joya"
+  }
+}

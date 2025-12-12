@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Viene la noche,\ny el sueño,\nel dueño,\ndel coche.\nEl broche,\ndel leño.\nViene la noche.\n\nMundo irreal,\nque visito,\nel hito,\ndel mal.\nEl final,\ndel grito.\nViene la noche.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "noche"
+  }
+}

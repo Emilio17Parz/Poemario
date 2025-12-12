@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cantemos al lazo que nunca muere,\nal amor eterno, fuerte y sagrado,\nque vence al tiempo y al triste pasado,\ny que en la historia su nombre prefiere.\nLuz inmortual que en el pecho palpita,\ny que a la gloria suprema invita.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

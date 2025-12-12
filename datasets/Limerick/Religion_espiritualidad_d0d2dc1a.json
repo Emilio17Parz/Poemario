@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Un monje de gran fe,\nbuscaba un místico edén.\nRezaba sin par,\nen su viejo altar,\n¡halló la paz en el 'amén'!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "fe"
+  }
+}

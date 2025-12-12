@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL EXPLORADOR]\nEl castillo está cercado, el dragón duerme, y solo tengo esta cuerda y mi fe.\nNo es por el oro, es por el juramento que hice a su hermana. Mi vida no importa.\nSi caigo, que mi grito sea la señal para que ella sepa que no la olvidé.\nEl rescate es una locura contra la razón, y en esa locura está mi honor.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "rescate"
+  }
+}

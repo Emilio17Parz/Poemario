@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El espejo me devuelve un rostro gris,\nsin brillo, sin alma, sin mirar,\n¿quién soy sin ti, si fuiste mi raíz?\nno sé hacia dónde quiero ya marchar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Brillo que asoma al final del túnel,\npromesa de un mundo que no es aquel.\n¡Gloria a la Luz que recibe al alma!,\ny le devuelve la perdida calma.\n\nGuía en el tránsito, faro divino,\nmeta gloriosa de nuestro camino.\nCorremos hacia ti con fe y confianza,\nLuz de la vida, nuestra esperanza.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luz"
+  }
+}

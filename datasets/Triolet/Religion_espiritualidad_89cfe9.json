@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Elevo mi rezo,\nAl Dios del cielo,\nY empiezo.\nElevo mi rezo,\nCon un tropiezo,\nY anhelo.\nElevo mi rezo,\nAl Dios del cielo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

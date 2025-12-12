@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Espero verte en la luz,\ndonde no existe el dolor,\nlejos de la negra cruz.\n\nComo un andaluz,\nlleno de amor,\nespero verte en la luz.\n\nSin el capuz,\ndel desamor,\nlejos de la negra cruz.\n\nEn el trasluz,\ndel resplandor,\nespero verte en la luz.\n\nComo el avestruz,\nque busca calor,\nlejos de la negra cruz.\n\nSin tragaluz,\nni sinsabor,\nespero verte en la luz,\nlejos de la negra cruz.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

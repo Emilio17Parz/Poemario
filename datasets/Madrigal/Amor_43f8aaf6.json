@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La luz del alba roza la enramada,\ndespierta el rocío en cada hoja verde.\nAsí mi alma, por tu presencia amada,\nun nuevo día de asombro aprende.\n\nEl arroyo canta su dulce melodía,\nrefleja el cielo, claro y sin velos.\nTu voz, amor, mi eterna sinfonía,\neleva el espíritu a celestes vuelos.\n\nY siento que en lo hondo, en el corazón mismo,\ndonde anida el pálpito más puro,\ntu esencia es un don, un suave lirismo,\npromesa que hace el porvenir seguro.\n\nComo el sauce que se inclina al agua mansa,\nasí mi ser a tu ternura se rinde.\nEs tu amor la quietud, la esperanza,\nel sueño que al alma se le infunde.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

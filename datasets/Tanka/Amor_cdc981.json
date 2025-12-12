@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El silencio habla\nde las almas que se unen,\nmás allá del tiempo.\nDos espejos en la noche,\nun solo latido claro.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

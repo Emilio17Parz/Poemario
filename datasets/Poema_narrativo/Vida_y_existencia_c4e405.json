@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Estuvo en el abismo, en la oscura sima,\nLlorando el error y buscando una rima.\nEntonces vio un destello, una débil razón,\nLa luz es la esperanza del corazón.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "luz"
+  }
+}

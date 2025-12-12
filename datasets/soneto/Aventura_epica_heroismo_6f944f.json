@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La vida lanza el guante,\nponiendo a prueba el ser,\npara ver si va a caer,\no seguir adelante.\n\nEs un momento picante,\nque obliga a resolver,\ny a sacar el poder,\ndel espíritu errante.\n\nAceptar el desafío,\nes crecer y madurar,\nvenciendo al escalofrío.\n\nDemostrar al actuar,\nque se tiene el brío,\npara poder triunfar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "reto"
+  }
+}

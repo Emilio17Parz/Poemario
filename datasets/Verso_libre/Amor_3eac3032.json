@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor no tiene mapas,\nsolo corrientes invisibles.\nA veces un susurro de hojas secas\nbajo el cielo que se anubla,\notras, la claridad rotunda\nde un mediodía sin piedad.\n\nTu voz,\nun ancla en la deriva del tiempo,\no la cometa que me eleva\nmás allá de mi propia piel.\n\nHay una geografía de caricias,\nun idioma de silencios compartidos,\ndonde cada respiración es una sílaba\nde un canto ancestral.\n\nY en el centro de ese universo íntimo,\npulsa la sangre, la corriente viva,\nla *pasión* que enciende los crepúsculos,\nque dibuja constelaciones nuevas\nen la noche de nuestros ojos cerrados.\n\nEs el temblor de un puente antiguo,\nel aroma a tierra mojada después de la lluvia,\nla certeza de que un hueco en el alma\nsolo tú, y nadie más, habita.\nUna melodía sin fin,\nsiempre en re-creación.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

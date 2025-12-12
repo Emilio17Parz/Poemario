@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Música sublime, que no quieres sonar,\nla nota que el alma no quiere ya oír.\nTu ritmo es sombra, sin poder anclar,\nel alma sin poder huir.\nTu melodía es pena, el fulgor se va,\nel alma que sufre sin un ya.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Música"
+  }
+}

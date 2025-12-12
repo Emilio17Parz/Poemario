@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Andamos juntos la senda,\nla vida nos da una prenda.\n\nLa mano es toda de miel,\nel corazón es muy fiel,\nla piel es como piel,\nla vida nos da una prenda.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "camino"
+  }
+}

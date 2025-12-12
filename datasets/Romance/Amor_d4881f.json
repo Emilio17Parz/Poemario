@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Iniciamos un Viaje largo,\npor senderos de ilusión,\npero el destino fue amargo,\ny se llevó mi razón.\n\nAhora viajo sin consuelo,\npor la ruta del dolor,\nmaldiciendo aquel anhelo,\ny el recuerdo de tu amor.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

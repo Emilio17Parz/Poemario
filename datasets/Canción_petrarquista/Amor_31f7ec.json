@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oh, alma de mi alma,\nespejo donde miro lo que soy;\na donde quiera voy\nllevo vuestra calma;\nque unidos nuestros seres en un nudo,\ncontra el destino rudo,\nvenceremos el tiempo,\nen este dulce y blando pasatiempo.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "alma"
+  }
+}

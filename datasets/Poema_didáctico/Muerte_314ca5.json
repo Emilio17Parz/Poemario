@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nadie muere del todo,\nsi se le recuerda,\nsacúdete el lodo,\ny no pierdas la cuerda.\nMantén vivo el nombre,\ndel buen hombre.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Memoria"
+  }
+}

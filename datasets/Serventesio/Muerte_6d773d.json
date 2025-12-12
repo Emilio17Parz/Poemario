@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Decir adiós es triste y doloroso,\ncuando se marcha un ser querido,\nqueda un silencio largo y tenebroso,\ny el corazón se siente malherido.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

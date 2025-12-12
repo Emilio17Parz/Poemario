@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ya no es el fuego loco de la infancia,\nni el grito pasional de juventud,\nes una sosegada quietud,\nun amor que resiste la distancia.\n\nSe nutre de respeto y tolerancia,\nbuscando en el otro la virtud,\ncuidando con esmero la salud\nde esta unión que mantiene su elegancia.\n\nHemos cruzado juntos los umbrales,\nsabemos de caídas y de cimas,\nde goces y de tristes funerales.\n\nY aun así, con dulzura te aproximas,\ncurando con tus manos mis mis males,\nmientras el mismo verso aun rimas.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "madurez"
+  }
+}

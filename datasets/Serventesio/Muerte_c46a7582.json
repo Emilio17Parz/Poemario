@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Más allá del lejano horizonte,\nhay un mundo que dura por siempre,\ndonde el alma vuela sobre el monte,\ny jamás su paz se destemple.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "siempre"
+  }
+}

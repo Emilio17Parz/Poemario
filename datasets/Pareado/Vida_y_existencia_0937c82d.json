@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida es un soplo, un misterio sin fin,\nQue fluye en el alma, de principio a fin.\n\nExistir es sentir el latido fugaz,\nBuscando en cada aurora su eterno solaz.\n\nAndamos un sendero, un constante **camino**,\nTejiendo destinos, de lo humano y divino.\n\nCada paso que damos, una huella al dejar,\nEn este universo que nos ve transitar.\n\nEl ser es un eco, que resuena en la faz,\nUn brillo que persiste, que trae propia paz.\n\nAsí, entre la luz y la sombra sutil,\nExistimos, vivimos, de modo gentil.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "camino"
+  }
+}

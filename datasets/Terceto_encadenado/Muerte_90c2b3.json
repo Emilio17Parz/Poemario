@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El grito del alma, la voz sin un final (A),\nque rompe el silencio con gran dolor (B),\nla ausencia de todo bien total (A).\n\nEl cuerpo se queda, sin un fulgor (B),\nla pena me inunda con gran dolor (C),\nla forma de no volver a amar (B).\n\nNo hay más que sufrir, no hay más valor (C),\nla sombra me cubre, sin piedad (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

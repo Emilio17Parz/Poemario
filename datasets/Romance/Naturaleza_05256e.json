@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Trinan las aves al alba\nsaludando al nuevo día,\nllenando el aire de notas\nde perfecta melodía.\nVuelan libres por el cielo\ncon total soberanía,\nenseñando que la vida\nes vuelo y es alegría.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pájaros"
+  }
+}

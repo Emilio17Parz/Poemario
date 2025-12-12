@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cabalga el Cid Campeador,\nsobre su caballo Babieca,\ncon la tizona en la mano\ny la barba que no peca.\nLos moros huyen gritando,\nhacia la Meca,\nal ver al león de Castilla\nque nunca se seca.\nGanó Valencia el hidalgo,\ny su fama trueca,\nen leyenda inmortal\nque la historia beca.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

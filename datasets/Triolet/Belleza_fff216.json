@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte,\nexpresa.\nTu parte,\nel arte.\nImpresa,\nal darte.\nEl arte,\nexpresa.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "arte"
+  }
+}

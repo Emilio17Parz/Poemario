@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dulce es el canto,\nque me gusta tanto.\n\nSuena la voz,\ntan veloz,\ny no atroz,\nsin espanto.\n\nDulce es el canto,\nque me gusta tanto.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "canto"
+  }
+}

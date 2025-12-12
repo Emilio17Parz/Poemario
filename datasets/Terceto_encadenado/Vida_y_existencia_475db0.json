@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El horizonte llama, sin un final (A),\nla promesa de un nuevo amanecer (B),\nla vida es la senda que hay que andar (A).\n\nLa fuerza que ayuda a mi alma a crecer (B),\nel alma que vuela, sin un error (C),\nla forma de no volver a caer (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en él hallar la paz (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Horizonte"
+  }
+}

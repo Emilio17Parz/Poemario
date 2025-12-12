@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cierro los ojos a la oscuridad,\nentro sin miedo en la oscuridad.\n\nNo existe luz en el reino de Hades,\ntodo es tiniebla y oscuridad.\n\nLa noche eterna me abraza por fin,\nsoy uno más en la oscuridad.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "oscuridad"
+  }
+}

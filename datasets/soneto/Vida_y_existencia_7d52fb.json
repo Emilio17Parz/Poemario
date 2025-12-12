@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llega el otoño con su luz dorada,\nplateando el pelo y la experiencia,\ndando al espíritu paciencia\ny a la mirada una paz sosegada.\n\nLa batalla ya está terminada,\nse silencia la vana exigencia,\ny se valora la existencia\npor la simple vida regalada.\n\nNo es el fin, es la culminación,\nel momento de recoger el fruto\nde tanta y larga plantación.\n\nRindo a la vejez tributo,\ncon respeto y admiración,\nlejos del miedo y del luto.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "fruto"
+  }
+}

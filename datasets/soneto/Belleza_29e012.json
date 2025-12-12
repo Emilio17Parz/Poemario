@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras que se engarzan como joyas,\nritmo que marca el pulso de la sien,\nbuscando el mal, buscando el bien,\nen las humanas y antiguas tramoyas.\n\nNavegas en el verso y te apoyas,\nen la rima que suena cual sostén,\ny viajas en un mágico tren,\nque te lleva lejos de las paranoias.\n\nLa poesía es pintar con la voz,\nesculpir con el aire y el sentido,\ny dar al pensamiento un fin atroz.\n\nRescatar lo que fue y ha sido,\nde la guadaña y de la hoz,\ndel tiempo que todo lo ha barrido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

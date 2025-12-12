@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te grito en el vacío\ny solo vuelve mi voz.\nNo hay respuesta, solo el río\ndel tiempo, que va veloz.\n\nEl eco es tu fantasma\nque se ríe de mí,\nrecordándome que ya\nno hay nada de ti.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "eco"
+  }
+}

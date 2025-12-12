@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Página de piedra del libro de vida,\nfechas que marcan principio y fin,\nresume la historia de la partida,\nflor de granito en el jardín.\nEl musgo la cubre, el tiempo la borra,\npero el recuerdo, nadie lo ahorra.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Lápida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La certeza es una cárcel cómoda, pero la duda es el camino abierto hacia la sabiduría.\nMe permito no saber, me permito cuestionar, me permito cambiar de opinión cuando la luz cambia de ángulo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "duda"
+  }
+}

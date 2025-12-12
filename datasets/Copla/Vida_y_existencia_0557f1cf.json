@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo es un potro blanco\nque nadie puede parar,\ncuando quieres darte cuenta\nya cruzaste por la mar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

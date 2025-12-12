@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No hay camino marcado.\nEl sendero se abre con el machete\nde tus decisiones.\nA veces te pierdes en la maleza,\na veces encuentras un claro.\nLo importante no es llegar a la cima,\nsino cómo te duelen los pies\ny con quién compartes el agua.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "camino"
+  }
+}

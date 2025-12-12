@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando llega la Muerte, dulce olvido,\nQue alivia el alma del dolor sufrido,\nEl cuerpo entonces queda reducido\nA solo polvo, un ser ya insonido,\nEn el silencio eterno y extendido.\n\nNo hay más suspiros, ni el clamor dolido,\nEl tiempo borra ya lo que ha existido,\nY el mundo sigue, inerte y desvalido,\nCuando llega la Muerte.\n\nSe apaga el fuego, el sueño prometido,\nSe rompe el lazo, aquel cordón tendido,\nNi un rastro queda del amor querido,\nTan solo sombras, un final transido,\nDejando un hueco que no fue advertido,\nCuando llega la Muerte.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hombro con hombro ante la adversidad,\nhermanos de cayado y honda.\nQue el valor responda\ncon lealtad.\nEs la verdad\nmás honda.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "honda"
+  }
+}

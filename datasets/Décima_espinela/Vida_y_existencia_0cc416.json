@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un sendero,\nlleno de piedras y flores,\nde alegrías y dolores,\nque recorro viajero.\nSoy humilde pasajero,\nque busca su dirección,\ncon la firme intención,\nde dejar una huella,\nbrillante como estrella,\nen mi propia canción.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "camino"
+  }
+}

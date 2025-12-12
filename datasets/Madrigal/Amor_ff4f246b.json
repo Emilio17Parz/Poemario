@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tu cabello de oro\nse enreda mi deseo y mi tesoro,\nla brisa lo acaricia\ny es para mí la máxima delicia.\nPrisionero en sus lazos,\nquiero morir soñando en tus abrazos.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "cabello"
+  }
+}

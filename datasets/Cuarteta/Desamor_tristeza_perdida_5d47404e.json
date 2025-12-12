@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me dijiste un triste adiós\nen la puerta del zaguán,\ny el dolor de entre los dos\nse comió todo mi afán.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

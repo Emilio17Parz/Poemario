@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Los ejércitos se vieron al alba,\nen el valle de la decisión.\nNadie sabía quién se salva,\nen esa terrible colisión.\nSonó la trompeta y la carga salva,\nchocaron con gran confusión.\nDuró la lucha hasta la tarde,\ncayó el muro y la muralla,\ny el mundo vio cómo arde,\nel campo tras la batalla.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

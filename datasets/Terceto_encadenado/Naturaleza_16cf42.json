@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La nieve es silencio, el manto que cubre el ser (A),\nla tierra que duerme sin un final (B),\nla calma que ayuda a crecer (A).\n\nEl frío es el golpe, el don total (B),\nla vida que es pura, sin un error (C),\nla eterna y dulce verdad real (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en su pureza hallar la paz (D),\nla ausencia de todo valor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Nieve"
+  }
+}

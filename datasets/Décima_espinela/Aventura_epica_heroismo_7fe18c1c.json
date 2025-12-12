@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sale de la cueva oscura\nel monstruo de tres cabezas,\ncausando mil tristezas\ncon su horrible figura.\nPero la mano pura\ndel guerrero sagrado,\ncon su hierro afilado\nle corta el aliento,\ny se lleva el viento\nal ser malvado.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

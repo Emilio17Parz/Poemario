@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi espada brilla al sol,\ncon el arrebol,\nde la sangre vertida,\nen la lucha de vida,\nsin perder el control.\n\nEs el fiel crisol,\ndel guerrero español,\nen la partida,\nmi espada brilla.\n\nDefiende el farol,\ndel honor y el rol,\nque no se olvida,\nen la tierra herida,\npor el odio mongol,\nmi espada brilla.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "espada"
+  }
+}

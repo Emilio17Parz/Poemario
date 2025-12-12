@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi alma en la cárcel de mi propia soledad (A),\nsin la llave que abre la libertad (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Prisión"
+  }
+}

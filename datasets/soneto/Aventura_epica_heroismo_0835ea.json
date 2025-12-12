@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cofre lleno de monedas,\nde rubíes y esmeraldas,\noculto tras las espaldas,\nde selvas y de arboledas.\n\nBuscamos entre las sedas,\ny las antiguas faldas,\nlas riquezas gualdas,\nque prometen las veredas.\n\nPero el tesoro mayor,\nes la propia experiencia,\ndel viaje y su fulgor.\n\nLa ganada sapiencia,\ny el vivido amor,\nson la real herencia.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

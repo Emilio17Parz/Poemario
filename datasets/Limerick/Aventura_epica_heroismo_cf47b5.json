@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El reto que tengo que hacer,\nes fuerza que puedo vencer.\nCon garra y valor,\nsin un solo error,\nel alma que quiere ya ser.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Desafío"
+  }
+}

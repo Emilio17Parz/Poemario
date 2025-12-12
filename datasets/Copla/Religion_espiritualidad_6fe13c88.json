@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Antes de dormir yo rezo\nun Padre Nuestro y un Credo,\npara que Dios me proteja\ny me quite el miedo.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "noche"
+  }
+}

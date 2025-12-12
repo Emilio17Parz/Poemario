@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te doy este anillo de oro,\nredondo como mi fe,\npara que nunca te olvides\nde aquel día en el café.\nPrometo ser tu refugio,\ntu barco y tu timonel,\ncuidarte de las tormentas\ny serte por siempre fiel.\nLlévalo siempre en la mano,\ncomo prenda de mi ser,\nque mientras brille ese oro,\nmi amor no ha de perecer.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "anillo"
+  }
+}

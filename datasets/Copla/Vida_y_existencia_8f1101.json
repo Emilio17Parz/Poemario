@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es una guerra fiel (a),\nde luz y de sombra atroz (b),\nmi alma es un trago de hiel (c),\nla última y fuerte voz (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Guerra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siento que algo se muere,\ny algo nuevo despierta,\nse cierra una puerta,\ny otra se prefiere.\n\nLa transformación hiere,\ndeja el alma abierta,\nexpuesta e incierta,\npero el ser la requiere.\n\nNo soy el mismo de ayer,\nel río ha fluido,\ny me ha hecho crecer.\n\nLo viejo se ha ido,\ny empiezo a entender,\nel nuevo sentido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La simetría ya (7a),\nsin un solo fin (5b),\nmi vida que al fin se da (7c),\nsin un jazmín (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Simetría"
+  }
+}

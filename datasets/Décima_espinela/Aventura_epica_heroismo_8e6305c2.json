@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por un sendero de valor\nEl desafío se alza fiero\nDe un espíritu sincero\nSin sentir ningún dolor\nVa el valiente buscador.\n\nEl destino ha de desafiar,\nEl peligro va a afrontar,\nSu coraje brillará,\nY el temor no existirá,\nLa gloria ha de alcanzar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

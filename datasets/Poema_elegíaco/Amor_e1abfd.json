@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz era la música, el dulce canto sin fin,\nla melodía exacta de mi triste motín.\nAhora el silencio es plomo, pesado y profundo,\nel sonido final de mi pequeño mundo.\n\nTe hablo en el vacío, y el eco me responde,\nla burla constante del dolor que se esconde.\nMi vida es la espera sin fin, sin razón,\nla sombra de una nota sin ninguna canción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "voz"
+  }
+}

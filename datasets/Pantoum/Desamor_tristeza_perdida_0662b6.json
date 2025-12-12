@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sangra sin cicatriz,\ngolpe en el costado.\nNo fui feliz,\na tu lado.\n\nGolpe en el costado,\nduele respirar.\nA tu lado,\nno quiero estar.\n\nDuele respirar,\nno fui feliz.\nNo quiero estar,\nsangra sin cicatriz.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "herida"
+  }
+}

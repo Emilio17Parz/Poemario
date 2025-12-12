@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viene la muerte callada\ncon su manto de neblina,\nbuscando la flor más bella\nque en el jardín se adivina.\nNo le importa si es temprano\no si la tarde declina,\nella cumple su tarea\ncon precisión muy fina.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

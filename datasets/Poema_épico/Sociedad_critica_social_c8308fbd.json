@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El Muro de Berlín cayó,\nseparando hermanos,\ncon bloques insanos,\nque el odio creó.\nLa gente cantó,\ncon sus propias manos,\nlos cantos humanos,\nque la paz nos dio.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "muro"
+  }
+}

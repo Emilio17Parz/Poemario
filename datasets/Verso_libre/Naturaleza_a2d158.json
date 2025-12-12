@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae el cielo en pedazos líquidos.\nLa lluvia tamborilea en el techo,\nuna música monótona y dulce.\nLa tierra abre la boca\ny bebe con sed milenaria,\nagradeciendo el regalo gris.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

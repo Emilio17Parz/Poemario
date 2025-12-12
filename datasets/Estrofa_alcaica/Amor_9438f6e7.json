@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Río revuelto que se desborda fiero,\nrompe los diques de la moral prudente,\nsolo tu cuerpo yo quiero\ny tu calor en mi piel presente.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

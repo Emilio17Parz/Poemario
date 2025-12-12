@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No te llevas el oro,\nni la casa, ni el coche.\nTe llevas lo que diste,\nel amor que sembraste,\nla luz que encendiste en otros.\nEse es el único equipaje permitido.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "legado"
+  }
+}

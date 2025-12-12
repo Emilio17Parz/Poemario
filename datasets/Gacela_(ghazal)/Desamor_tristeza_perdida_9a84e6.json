@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento en el alma un muro de hielo,\ntodo se cubre con capa de hielo.\n\nYa no hay calor, ni sol en el cielo,\nsolo el invierno y su gris hielo.\n\nFría la cama y frío el suelo,\ncongelado el amor en bloque de hielo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

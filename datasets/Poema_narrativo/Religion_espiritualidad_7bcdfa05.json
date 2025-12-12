@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En la celda fría del monasterio,\nel monje velaba en la noche.\nEl mundo afuera era un misterio,\nlleno de guerra y de derroche.\nÉl mantenía su ministerio,\nsin buscar gloria ni broche.\nPedía paz para la humanidad,\ncon un susurro que era un beso,\ny dicen que salvó a la ciudad,\ncon la fuerza de su humilde rezo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

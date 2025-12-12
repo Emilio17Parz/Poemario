@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mirad las estatuas de los emperadores,\ncaídas y rotas entre la maleza.\nPerdieron su nombre y su fortaleza,\nsus leyes, sus cortes y sus loores.\nEl viento del desierto susurra la ley:\n'Polvo eres, mendigo, y polvo eres, rey'.\nLa historia se escribe en la arena fina,\nque el tiempo dispersa y difumina.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

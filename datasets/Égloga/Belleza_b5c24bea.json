@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "DAMÓN: Mira el otoño y su rojo color,\ncómo transforma el verde en dorado.\nSILVANO: Es un milagro que nos fue dado,\nun estallido de un viejo pintor.\nNo hay gris que aguante tal explosión,\nde vida y belleza en profusión.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "color"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me quito la máscara hoy,\npara ver mi rostro real,\nsaber a dónde voy,\ny cuál es mi ideal.\nSaber quién soy,\ncon total claridad,\ny encontrar donde estoy,\nmi propia identidad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

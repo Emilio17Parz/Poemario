@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Chispa de fuego divino,\nque habita en la carne mortal,\nbuscando el bien y no el mal,\nen su eterno camino.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "alma"
+  }
+}

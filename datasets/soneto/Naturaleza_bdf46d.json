@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despliega la noche su manto oscuro,\nsembrado de diamantes celestiales,\ncallan los ruidos terrenales\ny el mundo entra en un sueño seguro.\n\nLa luna asoma tras el viejo muro,\nbañando con sus luces espectrales\nlos bosques, los ríos y los valles,\ncon un brillo pálido y puro.\n\nEs la hora del misterio y la calma,\ncuando el universo se revela\ny toca lo profundo del alma.\n\nLa naturaleza enciende su vela,\ny bajo la silenciosa palma\nla vida nocturna vuela.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "luna"
+  }
+}

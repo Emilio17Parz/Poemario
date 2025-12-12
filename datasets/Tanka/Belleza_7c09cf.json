@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Paisaje humano\ncon valles y colinas\nhistoria fiel.\nEn los ojos se lee\nla vida que pasó.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

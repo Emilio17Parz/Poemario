@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Las luces se encendieron en la gran capital,\nDonde el rico comía, sin pensar en el mal.\nLa ciudad es la jungla de acero y de metal,\nDonde el hombre es un número, un signo vital.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

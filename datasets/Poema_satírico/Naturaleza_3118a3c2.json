@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Lavé el coche esta mañana,\ny el cielo se puso gris,\nparece que este país,\ntiene una nube villana.\nCae el agua con gana,\nensuciando el barniz,\ny yo con cara de infeliz,\nmirando por la ventana.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

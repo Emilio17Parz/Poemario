@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llora el sauce sobre la corriente,\ny yo lloro al pie de su tronco.\nMi voz se ha vuelto un grito ronco\nde llamar a quien está ausente.\n¿Por qué el amor es tan inclemente\ny el destino tan ciego y tan bronco?",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sauce"
+  }
+}

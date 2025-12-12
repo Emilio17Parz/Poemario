@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Clava la bandera en la cima,\ntierra nueva reclamada,\nel esfuerzo se estima,\njornada acabada.\n\nTierra nueva reclamada,\norgullo del imperio,\njornada acabada,\ngran misterio.\n\nOrgullo del imperio,\nclava la bandera en la cima,\ngran misterio,\nel esfuerzo se estima.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

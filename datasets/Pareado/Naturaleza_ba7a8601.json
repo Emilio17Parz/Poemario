@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol despierta en la mañana pura,\nregalando a la tierra su dulzura.\n\nLas flores abren con suave fulgor,\nperfumando el ambiente con su color.\n\nUn río canta su alegre canción,\nllevando vida a cada rincón.\n\nY en el verde bosque, un fresco rumor,\nnos abraza con paz y con amor.\n\nLas aves trinan con voz cristalina,\ncelebrando la vida divina.\n\nLa brisa susurra entre cada hoja,\nla maravilla que la tierra arroja.\n\nDel cielo azul, la nube que pasa,\nreflejo eterno de la bella masa.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El mapa está roto,\nes piel y dolor.\nEl único dolo\nsin ningún color.\n\nMe enseña el camino\nque el tiempo borró,\nmi único sino\npara tener fe.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

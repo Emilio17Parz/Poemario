@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cosas dejas,\ny te alejas.\n\nOtro toma,\nsin broma,\ny se asoma,\na las rejas.\nCosas dejas,\ny te alejas.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

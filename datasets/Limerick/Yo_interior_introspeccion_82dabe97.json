@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soñé que volaba,\ny nadie me ataba,\ndespierto en el suelo,\ncon un gran duelo,\nla cama faltaba.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

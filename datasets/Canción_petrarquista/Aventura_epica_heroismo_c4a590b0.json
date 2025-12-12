@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Quien quiera cruzar el mar espumoso,\nprepare el alma para la tormenta,\nque se presenta\ncon rostro fiero y nada piadoso.\nPero tras la lucha viene la calma,\ny el alma\nllega al puerto ansiado,\nrica del tesoro conquistado.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "mar"
+  }
+}

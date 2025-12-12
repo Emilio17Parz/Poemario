@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No volvió la nave de su viaje,\nse la tragó la mar embravecida,\nperdimos la esperanza y la vida,\nsin que llegara nunca su mensaje.\nLloro a los que partieron con anhelo,\ny hallaron en las aguas su consuelo.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

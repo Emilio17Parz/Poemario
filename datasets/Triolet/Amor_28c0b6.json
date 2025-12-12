@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te prometo amor eterno,\nmás allá del final.\nUn verano en invierno,\nte prometo amor eterno.\nCuidarte con gesto tierno,\nde cualquier tipo de mal.\nTe prometo amor eterno,\nmás allá del final.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

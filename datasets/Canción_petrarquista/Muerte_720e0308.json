@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí reposa quien vivió soñando,\nbajo la losa fría,\nlejos del sol y del mundano trato.\nEl tiempo su memoria va borrando,\ncomo se va el día,\ny queda solo un nombre en el retrato.\nEs el final sensato,\ndormir el sueño eterno en la tumba,\nque nada derrumba.\n\nCanción, pon una flor,\nsobre la piedra del que fue cantor.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

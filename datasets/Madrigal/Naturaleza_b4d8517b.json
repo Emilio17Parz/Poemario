@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde templo sagrado,\ndonde el ruido del mundo es olvidado.\nCantan las aves bellas\nbajo las mil estrellas.\nRefugio de la calma,\ndonde respira en paz mi pobre alma.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

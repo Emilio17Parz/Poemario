@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos errantes en el laberinto,\nguiados solo por el fiel instinto,\nen este mundo de color distinto,\npaso perdido.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

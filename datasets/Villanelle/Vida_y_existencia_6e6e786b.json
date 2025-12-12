@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llega la tarde con calma,\nblanqueando el pelo y la sien,\ny dando reposo al alma.\n\nYa no se busca la palma,\nni la victoria también,\nllega la tarde con calma.\n\nEl corazón se desalma,\nde la pasión del ayer,\ny dando reposo al alma.\n\nLa experiencia se empalma,\ncon el saber y el bien,\nllega la tarde con calma.\n\nMirar atrás y ver la salma,\nde lo que fue nuestro edén,\ny dando reposo al alma.\n\nEs la vejez quien ensalma,\nla herida que no se ven,\nllega la tarde con calma,\ny dando reposo al alma.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

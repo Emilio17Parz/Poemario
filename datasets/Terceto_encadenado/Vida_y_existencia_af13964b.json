@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo vale más que el oro,\nes un bien que se nos va,\nel más preciado tesoro.\n\nQue la vida nos dará,\ny no se puede comprar,\npues jamás volverá.\n\nUna vez que logra pasar.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "oro"
+  }
+}

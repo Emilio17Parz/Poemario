@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro el espejo con temor,\nbuscando algún rastro mejor,\nde aquel que fui en el pasado,\nun rostro joven y soñado,\nlejano a este dolor.\n\nVeo un extraño, un impostor,\nque me devuelve el sinsabor,\nde un presente ya cansado,\nmiro el espejo.\n\nQuiero encontrar el resplandor,\nque se perdió en el estertor,\ndel tiempo que me ha cambiado,\ny aunque me siento derrotado,\nbusco mi ser interior,\nmiro el espejo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

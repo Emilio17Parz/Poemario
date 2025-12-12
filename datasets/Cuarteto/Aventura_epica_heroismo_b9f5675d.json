@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Pocos alcanzan la soñada gloria,\ntras el combate y el dolor sufrido,\nmas quien luchó jamás será vencido\ny vivirá por siempre en la memoria.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se acabó la cosecha,\nllegó el frío atroz.\nMi vida es la flecha\nsin ninguna voz.\n\nEl invierno es la pena\nque el alma me da,\nla fría cadena\nque nunca se va.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

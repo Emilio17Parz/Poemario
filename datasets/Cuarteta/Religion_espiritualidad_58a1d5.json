@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En la cruz diste la vida,\npor salvarnos del pecado,\nfue un acto sagrado,\nque cerró nuestra herida.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

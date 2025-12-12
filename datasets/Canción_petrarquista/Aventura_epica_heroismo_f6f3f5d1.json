@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El viaje más largo es hacia adentro,\nal fondo del abismo del ser,\npara ver\nlo que se esconde en el oscuro centro.\nAllí están los monstruos y tesoros,\nlos decoros\ny la realidad,\nla aventura de la identidad.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "viaje interior"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mantiene inmaculado su honor,\ncomo la joya de mayor valía,\nsin ceder ante el miedo o el terror.\n\nActúa con total hidalguía,\nsiendo fiel a su propia palabra,\ncon rectitud, valor y energía.\n\nY su propio destino se labra.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "honor"
+  }
+}

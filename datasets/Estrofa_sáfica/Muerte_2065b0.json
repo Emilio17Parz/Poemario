@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Borra los nombres el viento y los años,\nnadie recuerda quién fuiste ayer,\npolvo y ceniza hemos de volver,\nnada perdura.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Espíritu invisible que mueve el mundo, viento viajero y libre.\nNadie ha visto tu rostro, pero todos hemos sentido tu caricia y tu furia.\nArrancas las hojas muertas y empujas las velas hacia nuevos horizontes.\nEres el aliento de la vida que nunca se detiene en ningún lugar.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "viento"
+  }
+}

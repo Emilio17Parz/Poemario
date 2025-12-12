@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dejaron todo atrás, la riqueza y el nombre,\nMontados en un corcel, huyendo de todo hombre.\nCruzaron el gran río cuando el sol se escondía,\nEl amor era su patria, su única guía.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "fuga"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hielo en tus ojos,\nya no me reconoces,\nsoy un extraño.\nDuele más tu silencio\nque un grito de rencor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "frialdad"
+  }
+}

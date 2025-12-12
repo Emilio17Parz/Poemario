@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Meta lejana\nque buscamos sin fin\nsueño ideal.\nLo humano tiene fallos\npero en ellos hay luz.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "perfección"
+  }
+}

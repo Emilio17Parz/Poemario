@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ciudad de blancas paredes,\ndonde el silencio gobierna,\ny duermen los que vivieron\nen su morada eterna.\nLeo nombres en la piedra,\ncon una luz subalterna,\nfechas que marcan el fin\nde la luz y la lucerna.\nAquí se acaban los odios,\ny la envidia sempiterna,\ntodos iguales reposan\nen la fría y dura caverna.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

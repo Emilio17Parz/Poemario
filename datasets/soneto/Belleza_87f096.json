@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo que resiste el paso del año,\ny sigue vigente y actual,\nun modelo universal,\nque no sufre merma ni daño.\n\nNo es moda fugaz, ni engaño,\nsino una verdad esencial,\nequilibrio fundamental,\nque guía al rebaño humano.\n\nGrecia y Roma nos lo dieron,\ncanon de belleza y razón,\nque los siglos mantuvieron.\n\nEs la base de la creación,\nde aquellos que construyeron,\nnuestra cultura y visión.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "clásico"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mochila al hombro,\ndejando casa,\nque pasa,\nescombro.\nBusca futuro,\ntras el muro.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "emigrante"
+  }
+}

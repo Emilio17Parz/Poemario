@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Libertad noble, de un dulce fulgor,\nla meta que el alma debe alcanzar.\nLuchar por ella sin un gran dolor,\nel alma que busca el mar.\n¡Oh, don sagrado, de eterna verdad,\nme das la fe y la caridad!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Libertad"
+  }
+}

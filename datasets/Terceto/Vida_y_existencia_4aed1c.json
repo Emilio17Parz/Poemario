@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La única certeza es el momento fiel (A),\nel tiempo que tienes para vivir (A),\nla vida es un trago de dulce miel (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Certeza"
+  }
+}

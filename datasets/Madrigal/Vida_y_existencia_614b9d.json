@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye y cambia, nada es quieto,\ncomo el agua del río en su carrera,\nde esa manera,\nla vida guarda su mayor secreto.\nNo somos los mismos de ayer tarde,\naunque nos arde,\nel mismo fuego en diferente leña,\nque sueña.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "río"
+  }
+}

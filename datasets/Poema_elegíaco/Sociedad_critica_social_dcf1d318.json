@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Lloro la herida de la pobreza,\nque mata los sueños de la niñez,\nmostrando del mundo la crudeza,\ny de los hombres la dejadez.\nEs un luto que mancha la conciencia,\nante tanta y cruel indiferencia.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

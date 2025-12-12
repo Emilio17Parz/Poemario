@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tu abrazo hallé mi hogar,\nrefugio contra el frío.\nNo quiero de ti escapar,\nen tu abrazo hallé mi hogar.\nContigo puedo soñar,\ny llenar el vacío.\nEn tu abrazo hallé mi hogar,\nrefugio contra el frío.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

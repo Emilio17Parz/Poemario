@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Herida abierta en la piel terrestre,\ntajo profundo de tiempo y río,\npaisaje rojo, agreste y maestre,\ndonde resuena el eco vacío.\nMonumento al paso de la edad,\npura y terrible majestuosidad.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Cañón"
+  }
+}

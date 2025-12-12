@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Deja en mi boca tu divino beso,\ndulce regalo que me da la paz,\ndeteniendo el paso breve,\ndel tiempo frío y tan fugaz.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "beso"
+  }
+}

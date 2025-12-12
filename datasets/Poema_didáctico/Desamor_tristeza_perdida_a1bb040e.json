@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Saber decir adiós es gran virtud,\ncuando el amor se ha vuelto una cadena;\nno prolongues por miedo la condena,\nni vivas en la falsa gratitud.\nCerrar la puerta a tiempo es dignidad,\ny el primer paso a la felicidad.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

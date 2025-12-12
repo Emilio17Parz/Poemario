@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Blanco vestido,\ncaminas hacia el ara,\nsol de mi vida.\nHoy unimos las sendas\npara nunca soltar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "boda"
+  }
+}

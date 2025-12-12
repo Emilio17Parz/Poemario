@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Unos quieren besos, otros actos,\notros tiempo o regalos,\nconoce los pactos,\ny evita los malos.\nAma como el otro necesita,\ny la dicha se suscita.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Lenguaje"
+  }
+}

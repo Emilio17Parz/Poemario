@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mundo blanco, mundo muerto,\nbajo la sábana fría,\ndonde duerme la alegría,\ny el campo queda desierto.\n\nEs un paisaje incierto,\nsin canto ni melodía,\nesperando que algún día,\nrenazca el brote en el huerto.\n\nSueño helado de la vida,\nque parece despedida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

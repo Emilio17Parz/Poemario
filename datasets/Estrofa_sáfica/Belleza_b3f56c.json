@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dura un suspiro, pasa como el viento,\nla hermosura que muere al nacer,\npero nos deja su gran placer,\nbreve destello.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

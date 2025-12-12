@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "He caminado por senderos que no tenían nombre, buscando una señal en la piedra muda que me dijera hacia dónde ir.\nCada paso que doy reescribe la historia de mi vida, borrando lo que fui para dibujar el mapa de lo que seré mañana.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "camino"
+  }
+}

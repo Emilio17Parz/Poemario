@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo gira ligero,\nal compás de la canción,\ncomo un ave en el sendero.\n\nEs pura liberación,\nmover los pies con la gracia,\nde una dulce ilusión.\n\nQue no se sacia.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "danza"
+  }
+}

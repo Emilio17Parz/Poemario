@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tu vida es un libro que debes escribir,\ncada página es tuya, tu gran verdad,\nla historia que quieres al fin vivir,\nla eterna y cruel libertad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Libro"
+  }
+}

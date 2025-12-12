@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hombre valiente que el temor desprecia,\nsalva a su pueblo del dragón maldito,\nsu voluntad es recia\ny su valor es infinito.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

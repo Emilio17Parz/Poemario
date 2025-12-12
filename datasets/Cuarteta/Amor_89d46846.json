@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El sol que nace en tu mirada clara,\nDespierta un fuego en mi profundo ser,\nY en cada latido de mi propia alma,\nTu amor eterno se deja ver.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "alma"
+  }
+}

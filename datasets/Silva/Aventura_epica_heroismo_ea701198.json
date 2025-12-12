@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El fuego del dragón,\nquema la aldea y siembra el espanto,\nen la región,\ncon su quebranto,\nhasta que el héroe cubre con su manto.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El sol de la vida que me das tú (A),\nel rayo que quiebra la oscuridad (B),\nla luz que me cubre con un dulce tul (A).\n\nLa eterna y noble y gran verdad (B),\nque rompe el silencio, sin más dolor (C),\nla esencia de la caridad (B).\n\nPor ti yo respiro, con gran fulgor (C),\nel canto del alma, la voz sin igual (D),\nla fuente de todo valor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Sol"
+  }
+}

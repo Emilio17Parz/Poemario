@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tus abrazos hallé mi casa,\nmuros de piel contra el vendaval.\nEl tiempo corre, la vida pasa,\npero este amor no tiene final.\n\nMuros de piel contra el vendaval,\nme protegen del miedo externo.\nPero este amor no tiene final,\nes un verano en pleno invierno.\n\nMe protegen del miedo externo,\nel tiempo corre, la vida pasa.\nEs un verano en pleno invierno,\nen tus abrazos hallé mi casa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "refugio"
+  }
+}

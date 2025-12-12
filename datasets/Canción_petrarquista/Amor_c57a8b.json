@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Vuestro nombre sagrado\nesculpido en mi pecho llevo escrito;\nes mi único rito,\nde un ser enamorado;\nlo pronuncio al viento y se detiene,\ny el consuelo me viene,\nsolo con escucharlo,\ny en mi memoria siempre recordarlo.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

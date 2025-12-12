@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La esencia pura de un gran esplendor,\nQue habita en cada flor, con su dulzor,\nEn la brisa que corre, delicada,\nY en la hoja que cae, ya gastada,\nUn sinfín de colores, gran primor.\n\nEl trino del zorzal, la brisa con rumor,\nQue emana del profundo y vasto mar con vigor,\nEn su furia, espuma desbordada,\nLa esencia pura.\n\nLa vida que renace, un nuevo verdor,\nDel rayo que ilumina con su fulgor,\nY en la calma que espera, desvelada,\nCada gota de lluvia, bien amada,\nNos deja un mensaje de gran valor,\nLa esencia pura.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "mar"
+  }
+}

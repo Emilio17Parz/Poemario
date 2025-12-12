@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Años viajando por el mar incierto,\nlejos de casa y del hogar querido,\ntrampas de dioses y dolor constante\nha sufrido.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

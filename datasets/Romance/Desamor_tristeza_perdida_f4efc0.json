@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Camino por la ciudad\nentre la gente que pasa,\npero me siento desierto\ncomo si fuera una brasa.\nNadie llena este vacío\nque mi espíritu traspasa,\ndesde que tú decidiste\nir a vivir a otra casa.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

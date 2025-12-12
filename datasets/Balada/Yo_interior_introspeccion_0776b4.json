@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vuelan mis sueños como aves,\nbuscando las llaves suaves,\nde la puerta del porvenir,\ndonde yo quiero vivir.\nSon el motor de mi existir,\nque me impiden desistir,\ny me empujan hacia adelante,\ncomo un eterno caminante.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

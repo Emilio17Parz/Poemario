@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú\n      y\n            Yo\n      y\nTú\n\n      Nosotros",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "unión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Entro callado y solo\ndentro del templo,\ny la bondad del santo\nyo la contemplo.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "templo"
+  }
+}

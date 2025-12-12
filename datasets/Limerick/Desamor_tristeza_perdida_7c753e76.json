@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Un alma que el gozo perdió,\nSu amargo lamento vertió.\nCon hondo pesar,\nNo pudo sanar,\nY un triste adiós su voz profirió.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hago mi rezo,\ncon un tropiezo.\n\nPido piedad,\ncon humildad,\ny la verdad,\nque empiezo.\n\nHago mi rezo,\ncon un tropiezo.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

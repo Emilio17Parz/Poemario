@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "David con su honda,\nvenció a Goliat,\nel gran potentat,\nde fuerza redonda.\nLa piedra en la fronda,\nle dio el jaque mate,\nsin mucho debate,\nni mucha ronda.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "gigante"
+  }
+}

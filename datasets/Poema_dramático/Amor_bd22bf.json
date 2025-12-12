@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[ELLA]\n(Después de diez años, viéndole entrar)\nNo llores, amor. Mírame. El tiempo no existe entre quienes se aman.\nLas arrugas son solo mapas de las batallas que libramos separados.\nVen. El fuego aún arde. La mesa está puesta. Volvamos a empezar.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "reencuentro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te escribo en este papel,\nlo que calla mi boca,\namor dulce como miel,\nque mi alma provoca.\n\nLo que calla mi boca,\nson versos de sentimiento,\nque mi alma provoca,\ny lanza a los cuatro vientos.\n\nSon versos de sentimiento,\nte escribo en este papel,\ny lanza a los cuatro vientos,\namor dulce como miel.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "carta"
+  }
+}

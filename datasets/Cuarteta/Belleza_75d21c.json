@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Es el éxtasis breve, la dulce emoción,\nque el alma recoge al contemplar,\nla chispa de gracia, la gran lección,\nel gozo que viene a liberar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Éxtasis"
+  }
+}

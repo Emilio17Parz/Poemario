@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra te ha cubierto,\ncon su manto de negrura,\nllevándote a la altura,\ndel universo abierto.\nEs el destino cierto,\nde toda criatura.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

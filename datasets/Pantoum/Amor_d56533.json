@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juro estar a tu lado,\nhasta el fin de los días.\nCuidar lo que he amado,\ncalmar tus agonías.\n\nHasta el fin de los días,\nlealtad y verdad.\nCalmar tus agonías,\ncon gran bondad.\n\nLealtad y verdad,\ncuidar lo que he amado.\nCon gran bondad,\njuro estar a tu lado.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

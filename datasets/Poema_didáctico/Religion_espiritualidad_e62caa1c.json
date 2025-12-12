@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El rezo no debe ser repetición,\nde palabras vacías y huecas;\nsino como aguas de bibliotecas,\nque nutren la mente y la intención.\nReza con el alma y con la acción,\nesa es la perfecta oración.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me abraza muy fuerte la soledad,\nen esta casa vacía y fría,\nes mi única y cruda realidad.\n\nSe fue la ilusión y la claridad,\nla noche ha vencido a la luz del día,\nme abraza muy fuerte la soledad.\n\nNo tengo consuelo ni piedad,\nse ha muerto la antigua alegría,\nes mi única y cruda realidad.\n\nCamino sin rumbo en la ciudad,\nperdida la fe y la energía,\nme abraza muy fuerte la soledad.\n\nEs reina de toda mi voluntad,\nse ha vuelto mi sombra y mi guía,\nes mi única y cruda realidad.\n\nConfieso con toda sinceridad,\nque sufro esta larga agonía,\nme abraza muy fuerte la soledad,\nes mi única y cruda realidad.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

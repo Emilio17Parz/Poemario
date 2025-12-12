@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Escucho canciones tristes,\nde esas que tú me distes.\nMe corto la vena,\ncon la galleta,\npor las cosas que dijistes.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "música"
+  }
+}

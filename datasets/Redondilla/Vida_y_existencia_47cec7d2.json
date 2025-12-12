@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco la razón de ser\nen este mundo gigante,\ny sigo siempre adelante\nqueriendo comprender.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "razón"
+  }
+}

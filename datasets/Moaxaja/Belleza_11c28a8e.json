@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brilla la joya,\nque no se abolla.\n\nOro y brillante,\ntan elegante,\ny deslumbrante,\nen la olla.\n\nBrilla la joya,\nque no se abolla.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "joya"
+  }
+}

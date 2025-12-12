@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dormía la figura en la cantera,\noculta en el bloque de piedra fría,\nhasta que el cincel con osadía\nlibró la forma presa y prisionera.\n\nSurgió la piel de mármol, verdadera,\ncon gesto de dolor o de alegría,\ny aquella roca inmóvil parecía\ntener la vida humana y duradera.\n\nEl arte de quitar lo que nos sobra,\nde hallar la esencia en lo profundo,\nasí es como el maestro siempre obra.\n\nY queda para siempre en este mundo\nla estática belleza de la obra,\ntestigo de un talento furibundo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

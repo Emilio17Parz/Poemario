@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fue una gran ciudad de mármol y oro,\ncon torres que tocaban las nubes.\nTenía ejércitos y un gran tesoro,\ny jardines donde subes y subes.\nPero el tiempo, con su paso sonoro,\ntrajo guerras y pestes en aludes.\nCayeron los muros y las estatuas,\nse secó el agua y murió el olivo,\ny hoy son ruinas mudas y fatuas,\nconvertidas solamente en polvo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Zarpa la barca hacia la otra orilla,\ndonde no alumbra la luz amarilla.\nCruzar la laguna de aguas oscuras,\ndejando atrás las viejas amarguras.\n\n¡Buen viaje al alma que emprende el vuelo,\nliberada al fin del humano suelo!\nHacia la luz o hacia la nada,\ncomienza la última jornada.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

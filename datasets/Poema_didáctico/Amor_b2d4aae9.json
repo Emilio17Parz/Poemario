@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Para amar a otro con calidad,\námate primero con intensidad.\nNadie da lo que no tiene dentro,\nsé tú de tu vida el propio centro.\nEl amor propio es el cimiento,\nde cualquier otro sentimiento.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "autoestima"
+  }
+}

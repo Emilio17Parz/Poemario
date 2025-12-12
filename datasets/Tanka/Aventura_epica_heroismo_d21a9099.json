@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Poder oculto,\nhechizo que transforma\nla realidad.\nEl mago alza su vara\ny la luz obedece.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "magia"
+  }
+}

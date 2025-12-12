@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Está escrito en la estrella mi destino,\no lo forjo yo mismo en el camino?\n\nSoy el dueño de mi pan y mi vino,\no soy marioneta del ser divino.\n\nBusco la respuesta en el remolino,\nde esta existencia de lino fino.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "estrella"
+  }
+}

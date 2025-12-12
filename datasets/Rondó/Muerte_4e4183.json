@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra cubre los ojos,\ny apaga la mirada.\nLa vida cansada,\ndeja sus despojos.\n\nSin enojos,\nni llamada.\nLa sombra cubre los ojos,\ny apaga la mirada.\n\nEntre abrojos,\nqueda la nada.\nJornada,\nde cerrojos.\nLa sombra cubre los ojos.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "M ajestuoso y profundo,\nA zul en la inmensidad,\nR uge la voz del mundo.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "mar"
+  }
+}

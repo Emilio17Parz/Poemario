@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Linda flor,\ncon olor,\na primavera,\nque espera,\nel amor.\n\nSin dolor,\nlinda flor.\n\nTu color,\ny valor,\nla primera,\nque fuera,\nmejor.\nLinda flor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "flor"
+  }
+}

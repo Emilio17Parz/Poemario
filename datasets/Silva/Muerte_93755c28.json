@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra me da miedo,\nporque anuncia que el tiempo se termina,\ny yo ya no puedo,\nver la colina,\ndonde la vida alegre camina.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

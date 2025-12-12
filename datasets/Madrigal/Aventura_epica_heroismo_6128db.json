@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Armadura brillante,\nmontado en corcel de paso firme;\nno he de irme,\ndistante.\nServir a la dama y al señor,\ncon honor.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

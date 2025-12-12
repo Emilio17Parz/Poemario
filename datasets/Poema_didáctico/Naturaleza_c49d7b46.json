@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mira el río que fluye sin cesar,\nnunca la misma agua has de tocar;\nasí es la vida, cambio permanente,\nnada se queda estático o latente.\nAprende a fluir y a no retener,\nlo que el tiempo se tiene que beber.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "río"
+  }
+}

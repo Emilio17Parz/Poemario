@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las estrellas,\nson bellas.\nEn lo alto,\ndando un salto,\nson ellas.\n\nLas huellas,\ny centellas.\nSin asalto,\nlas estrellas.\n\nBotellas,\ny paellas.\nEl falto,\nbasalto,\nde aquellas,\nlas estrellas.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

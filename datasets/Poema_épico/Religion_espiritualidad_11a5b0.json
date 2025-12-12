@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Voz en el desierto que clama fuerte,\nvisionario de tiempos por venir,\nanuncia la vida, anuncia la muerte,\ny lo que el pueblo debe cumplir.\nBoca de Dios, hombre de fuego,\nque no conoce miedo ni sosiego.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Profeta"
+  }
+}

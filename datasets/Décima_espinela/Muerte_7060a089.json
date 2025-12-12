@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reina un profundo silencio\nen la sala de la espera,\ncuando cruzas la frontera\npagando el último precio.\nYa no existe el desprecio\nni el ruido de la ciudad,\nsolo la tranquilidad\nde quien duerme sin soñar,\ny deja de batallar\ncon la dura realidad.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

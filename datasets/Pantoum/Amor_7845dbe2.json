@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El fuego de la pasión,\nquema sin causar dolor,\nes la dulce perdición,\ndel verdadero amor.\n\nQuema sin causar dolor,\nesta llama que no cesa,\ndel verdadero amor,\nque en mis labios se expresa.\n\nEsta llama que no cesa,\nel fuego de la pasión,\nque en mis labios se expresa,\nes la dulce perdición.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

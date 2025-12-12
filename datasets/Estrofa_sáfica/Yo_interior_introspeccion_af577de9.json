@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro mi rostro frente al fiel espejo,\nhallo el semblante pálido y viejo,\nbusco en los ojos algún consejo,\nquién soy ahora.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Los dioses miraban con celos la unión,\nde dos seres mortales de carne y de hueso.\nJuraron un pacto de amor tan espeso,\nque rompió las leyes de la creación.\n'Será nuestro lazo por siempre eterno',\ndijeron frente a las puertas del infierno.\nY aunque los siglos sus cuerpos borraron,\nsu leyenda viva los astros guardaron.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

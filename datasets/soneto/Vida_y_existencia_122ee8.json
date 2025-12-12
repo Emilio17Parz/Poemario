@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Carpe diem, aprovecha el día,\nno fíes del mañana incierto,\npues el futuro es desierto\ny el pasado melancolía.\n\nVive el ahora con alegría,\ncon el corazón despierto,\nque este instante es lo cierto\ny lo demás fantasía.\n\nBebe la copa hasta el final,\nbesa, ríe, canta y baila,\nlejos del triste mal.\n\nQue la vida se desahíla,\ny en su corte fatal,\nnuestra existencia asila.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ahora"
+  }
+}

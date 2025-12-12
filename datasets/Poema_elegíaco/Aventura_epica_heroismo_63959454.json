@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Silencio en el llano,\ntras la gran pelea,\nla muerte pasea,\ntomando la mano.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

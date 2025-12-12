@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lee el libro prohibido,\npalabras de poder,\nel mundo perdido,\nva a renacer.\n\nPalabras de poder,\nrayos de luz extraña,\nva a renacer,\nen la montaña.\n\nRayos de luz extraña,\nlee el libro prohibido,\nen la montaña,\nel mundo perdido.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "magia"
+  }
+}

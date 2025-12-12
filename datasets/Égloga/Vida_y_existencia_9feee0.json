@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminamos por la senda,\nentre zarzas y romero,\nsin saber el paradero,\nni dónde está la vivienda.\n\nQue la experiencia se aprenda,\ncon cada paso dado,\nen este mundo prestado,\nque es una extraña ofrenda.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "caminante"
+  }
+}

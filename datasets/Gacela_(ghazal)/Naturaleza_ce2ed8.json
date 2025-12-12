@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bordan el manto las mil estrellas,\nojos del cielo las mil estrellas.\n\nGuiaron barcos en mares antiguos,\nmapa de luces las mil estrellas.\n\nPolvo de mundos que ya murieron,\nbrillan por siempre las mil estrellas.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

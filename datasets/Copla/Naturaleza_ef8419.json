@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuela mariposa\nde flor en flor,\nllevando en tus alas\ntodo el color.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "mariposa"
+  }
+}

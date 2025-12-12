@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Honor al silencio que todo lo cubre,\ncuando la vida deja de latir,\ny ya no queda más por decir,\nni nuevo día que el sol descubre.\nPaz absoluta, descanso supremo,\ndonde se apaga el esfuerzo extremo.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

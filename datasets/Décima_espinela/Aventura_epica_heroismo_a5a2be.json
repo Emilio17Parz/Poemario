@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El Puerto no tiene luz, (A)\nme mata sin la voz, (B)\ny en el alma ya sin Dios, (B)\ncargando una triste cruz. (A)\nMi corazón ya sin voz, (A)\nde tristeza y gran pesar, (C)\nno puedo ya ni pensar, (C)\nen el amor que no fue, (D)\nsolo encuentro el 'porqué', (D)\nde mi eterno malestar. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Puerto"
+  }
+}

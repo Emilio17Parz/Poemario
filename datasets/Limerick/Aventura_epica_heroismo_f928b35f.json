@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Un pirata de palo y parche,\nquería que el barco marche,\nse hundió en el puerto,\nquedó medio muerto,\ny lleno de mucho almarche.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Pirata"
+  }
+}

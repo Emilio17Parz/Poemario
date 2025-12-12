@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despierta el campo del letargo frío,\nse viste de colores la pradera,\nya llega jubiloso la primavera\nllenando de caudal al seco río.\n\nRenace en cada rama el inmenso brío,\nla flor despliega su fragancia entera,\ny canta el ave de forma ligera\nborrando del invierno el desvarío.\n\nLa vida brota en formas infinitas,\nel sol calienta con mayor fervor,\ny danzan en el aire mariposas.\n\nSon de la tierra gracias exquisitas,\nun himno a la belleza y al color,\nque nos regala tardes venturosas.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pradera"
+  }
+}

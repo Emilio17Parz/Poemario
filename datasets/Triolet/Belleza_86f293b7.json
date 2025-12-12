@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es puro esplendor,\nNos puede el alma embriagar.\nUn dulce y tierno resplandor,\nLa belleza es puro esplendor,\nCon su mirar nos hace amar,\nUn don divino, gran favor,\nLa belleza es puro esplendor,\nNos puede el alma embriagar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El viento se lleva la última y dulce promesa (A),\nla vida sin ti es un triste arrabal (B),\nmi alma se queda, la pena es la presa (A),\nel golpe duro y fatal (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

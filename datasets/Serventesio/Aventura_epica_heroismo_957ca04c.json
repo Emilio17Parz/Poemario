@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Con brío y fe, el campeón se lanza al fragor,\nUn rayo de esperanza su paso al fin destierra,\nLa furia de la gran gesta, el épico clamor,\nEn cada golpe recio, la antigua **batalla** encierra.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

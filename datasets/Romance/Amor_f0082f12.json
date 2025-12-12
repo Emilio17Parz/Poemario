@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te he entregado sin reservas\nlas llaves de mi propia alma,\npara que entres cuando quieras\ny me traigas dulce calma.\nEres dueño de mis sueños,\nde mi triunfo eres la palma,\ny sin ti la vida es\nun desierto sin la palma.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "alma"
+  }
+}

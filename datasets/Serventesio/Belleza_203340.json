@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El color vibrante, la mezcla sin par ni dolor (A),\nque pinta la vida con gran fulgor (B),\nla rosa encendida, el dulce amor (A),\nla fuente de todo valor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Color"
+  }
+}

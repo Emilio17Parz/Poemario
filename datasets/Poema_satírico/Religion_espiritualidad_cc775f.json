@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Saludo al sol y calambre,\npostura de la grulla,\nmuriéndose de hambre,\npara que el chi fluya.\nRelajarse estresado,\nen un suelo helado.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Yoga"
+  }
+}

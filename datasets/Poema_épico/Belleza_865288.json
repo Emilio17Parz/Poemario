@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Joya efímera de la pradera,\nestallido de color y aroma,\nreina de la primavera,\nque al sol tímidamente asoma.\nBelleza frágil que muere pronto,\nlección para el sabio y el tonto.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

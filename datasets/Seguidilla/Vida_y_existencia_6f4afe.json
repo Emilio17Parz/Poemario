@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es frágil (7a),\nun cristal cruel (5b),\nsin un solo ágil (7c),\nsin una miel (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Frágil"
+  }
+}

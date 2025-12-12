@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hubo un incendio aquí, yo lo sé,\nardía la pasión desmesurada,\nhoy solo queda tierra quemada,\ny el polvo gris de lo que se fue.\n\nSopla el viento y se lleva la fe,\nde aquella llamarada sagrada,\nquedando el alma desamparada,\nsin saber el cómo ni el porqué.\n\nLas cenizas ensucian mis manos,\nresiduos de un amor fracasado,\nque fuimos dos incautos humanos.\n\nTodo quedó en el fuego arrasado,\ny entre los escombros tan vanos,\nlloro por lo que hemos terminado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

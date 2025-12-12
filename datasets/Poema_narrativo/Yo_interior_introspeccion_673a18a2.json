@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busqué la alegría,\nen cosas de fuera,\nde manera,\nvacía.\nPero un día,\nmiré hacia adentro,\nen el centro,\ndel día.\nY allí estaba,\nlo que faltaba.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "niño"
+  }
+}

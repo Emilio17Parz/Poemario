@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Luchar contra el lobo y el frío,\nes la suerte del pastor.\nSoportar el sol y el dolor\ncon coraje y con brío.\nEs este el desafío\nde vivir con honor.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "lobo"
+  }
+}

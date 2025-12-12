@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El oro está escondido\nen la isla del mar embravecido.\nPiratas lo codician,\nsu vida desperdician.\nLa cruz marca el lugar\ndonde la dicha se puede encontrar.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

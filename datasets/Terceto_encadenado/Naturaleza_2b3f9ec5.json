@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Desciende con presteza el claro río,\nbajando de la cumbre a la llanura,\nhuyendo del helado y blanco frío.\n\nRefleja en su caudal la hermosura,\ndel cielo y de los árboles del margen,\nllevando vida, dicha y frescura.\n\nDejando que las aguas se descarguen.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "río"
+  }
+}

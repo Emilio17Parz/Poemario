@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Caminamos juntos hoy,\nhacia un futuro brillante.\nYo sé bien adónde voy,\ncaminamos juntos hoy.\nTodo mi ser te doy,\nen este amor constante.\nCaminamos juntos hoy,\nhacia un futuro brillante.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "camino"
+  }
+}

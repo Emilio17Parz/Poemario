@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Firmamos la alianza no con papel,\nsino con almas que se entretejen,\nmás fuerte que el bronce, más dulce que miel,\naunque los demonios del mundo se quejen.\nUnimos los reinos del sol y la luna,\nen esta batalla, nuestra fortuna.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Alianza"
+  }
+}

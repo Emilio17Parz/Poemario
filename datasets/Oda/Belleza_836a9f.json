@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pintura sublime, de lienzo y color,\nla forma que el alma quiere crear.\nEl arte es la fuerza, sin un gran dolor,\nla vida que puedo amar.\n¡Oh, tela noble, de dulce fulgor,\nme das la fe y el valor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Pintura"
+  }
+}

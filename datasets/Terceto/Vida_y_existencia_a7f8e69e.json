@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos la razón de estar aquí,\nen medio de este cosmos infinito,\npreguntando por qué y para qué fui.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "razón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Subieron a la montaña\ndonde nadie había pisado,\ncon el frío y la tormenta\ny el cuerpo muy cansado.\nClavaron allí su enseña\nen el pico nevado,\ny miraron desde arriba\nel mundo conquistado.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

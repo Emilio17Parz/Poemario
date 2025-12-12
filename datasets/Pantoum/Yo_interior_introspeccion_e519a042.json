@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El silencio habla,\nsin voz,\nen la tabla,\nveloz.\n\nSin voz,\nme dice,\nveloz,\nque analice.\n\nMe dice,\nel silencio habla,\nque analice,\nen la tabla.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

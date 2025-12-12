@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Me persigue la sombra de la duda,\nno hay verdad que no tenga su duda.\n\n¿Para qué estamos vivos aquí?,\nes la gran y terrible duda.\n\nLa certeza es un lujo lejano,\ncompañera fiel es la duda.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "duda"
+  }
+}

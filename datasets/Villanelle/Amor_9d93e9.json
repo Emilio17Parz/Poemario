@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El destino nos tiene atados sin un final (R1)\nMi corazón ya no quiere más mal (b)\nMi vida se cubre con un dulce y noble fanal (R2)\n\nLa sombra se aleja sin un error (a)\nNo hay más que buscar, no hay más que el valor (b)\nEl destino nos tiene atados sin un final (R1)\n\nMi vida es la senda de puro fulgor (a)\nMi alma te sigue sin un temor (b)\nMi vida se cubre con un dulce y noble fanal (R2)\n\nLa luz que me guía sin un error (a)\nContigo yo quiero al fin vencer (b)\nEl destino nos tiene atados sin un final (R1)\n\nMi vida es un canto sin un dolor (a)\nMi corazón ya no quiere más caer (b)\nMi vida se cubre con un dulce y noble fanal (R2)\n\nMi alma te sigue sin un temor (a)\nContigo mi vida es un dulce querer (b)\nEl destino nos tiene atados sin un final (R1)\nMi vida se cubre con un dulce y noble fanal (R2)",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

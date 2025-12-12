@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Estalla el mundo en color\ncuando llega primavera,\ny se viste la pradera\ncon su traje de esplendor.\nSe va marchando el dolor\ndel invierno gris y oscuro,\ny el aire se siente puro\nbajo el sol que resplandece,\nla vida que reaparece\nes el milagro seguro.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "color"
+  }
+}

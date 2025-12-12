@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Todo llega a su triste final,\nlas promesas se las llevó el viento,\nqueda un amargo sentimiento,\ny un vacío existencial.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "final"
+  }
+}

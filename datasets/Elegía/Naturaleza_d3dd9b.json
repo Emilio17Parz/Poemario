@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante blanco que lloras,\nagua dulce al mar salado,\nte derrites desolado,\ncontando tus últimas horas.\n\nYa no brillas, ni enamoras,\ncon tu hielo azulado,\nel calor te ha condenado,\ny a la extinción te incorporas.\n\nMontaña de nieve que muere,\ny que el cambio climático hiere.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "glaciar"
+  }
+}

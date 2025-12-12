@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siento el peso,\nde la mala acción,\nun triste beso,\nde la traición.\n\nDe la mala acción,\nme arrepiento,\nde la traición,\nen este momento.\n\nMe arrepiento,\nsiento el peso,\nen este momento,\nun triste beso.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "peso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se borra la memoria,\nCon el paso del tiempo,\nSe termina la historia.\nSe borra la memoria,\nLa vana gloria,\nEs un contratiempo.\nSe borra la memoria,\nCon el paso del tiempo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

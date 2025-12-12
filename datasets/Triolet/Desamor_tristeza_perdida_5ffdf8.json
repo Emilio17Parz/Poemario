@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sangra la herida abierta,\nQue dejaste al marchar,\nMi alma no despierta.\nSangra la herida abierta,\nLa esperanza está muerta,\nNo paro de llorar.\nSangra la herida abierta,\nQue dejaste al marchar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sangre"
+  }
+}

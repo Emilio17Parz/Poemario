@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Elige bien a quien te rodea,\npues te contagian su ser,\nque sea gente que crea,\ny te ayude a ver.\nDime con quién andas,\ny te diré qué demandas.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Amistad"
+  }
+}

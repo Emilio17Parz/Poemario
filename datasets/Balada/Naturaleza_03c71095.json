@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento canta un viejo son,\nentre pinos y peñascos mil,\nla tierra esconde su razón,\nun verde manto, siempre gentil.\n\nEl bosque susurra sin cesar,\nhistorias de musgo y de raíz,\ndonde el ciervo viene a soñar,\nbajo la copa de un roble feliz.\n\nEl río serpentea al andar,\nreflejo azul de un cielo fugaz,\nsus aguas corren sin dudar,\nnutriendo la vida con su solaz.\n\nLas cumbres velan en su quietud,\ngigantes de piedra y de cristal,\ntestigos de toda latitud,\nde un tiempo eterno, primordial.\n\nY cuando el sol se va a dormir,\npintando el oeste de carmesí,\nla sombra empieza a emerger,\ntrayendo el misterio hasta aquí.\n\nEntonces, pálida y serena,\nsurge del velo celestial,\nla hermosa y mística **luna**, llena,\nun faro en la noche, sin igual.\n\nSu luz platea el monte y mar,\ndespierta el búho, calma el dolor,\nla naturaleza vuelve a amar,\nen su silencio, puro esplendor.\n\nAsí el mundo gira sin final,\nbelleza eterna, sin cesar,\nun ciclo mágico y vital,\nque el alma aprende a venerar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "luna"
+  }
+}

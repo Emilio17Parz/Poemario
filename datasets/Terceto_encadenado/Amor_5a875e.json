@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Soñé que caminábamos unidos,\npor playas de cristal y arena fina,\ncon todos nuestros miedos ya vencidos.\n\nBajo una luz perfecta y divina,\nque iluminaba nuestro gran amor,\nque el alma con su fuego determina.\n\nLejos del dolor.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

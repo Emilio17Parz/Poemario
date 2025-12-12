@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "El susurro del musgo",
   "poema": {
     "texto": "El musgo, tapiz siempre verde,\nguarda un antiguo misterio,\nbajo el dosel del imperio\nque el tiempo jamás pierde.\n\nCon su dulce humedad,\nmurmura una débil voz,\nbajo la sombra atroz\nde la eternidad.\n\nEs un testigo callado\nque el tiempo ha cubierto de olvido,\nmas en su abrazo extendido\nel pasado ha anclado.",

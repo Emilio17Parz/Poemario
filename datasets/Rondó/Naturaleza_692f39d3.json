@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bella flor,\ncon tu olor,\nque perfuma,\ncomo la espuma,\ndel amor.\n\nSin dolor,\nbella flor.\n\nCon valor,\ny color,\nse consuma,\nla bruma,\ndel temor.\nBella flor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "flor"
+  }
+}

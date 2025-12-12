@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi piel no te siente,\nestá fría y muda ya.\nEl amor es la suerte\nque nunca vendrá.\n\nSoy solo una cáscara\nque el viento se lleva,\nuna triste máscara\nsin ninguna cueva.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "piel"
+  }
+}

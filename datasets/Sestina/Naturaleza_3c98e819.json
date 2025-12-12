@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "De los altos montes, surge un claro río,\nla vida en cada flor, que mece el dulce viento.\nCon luz plateada, asoma ya la luna,\ntiñendo el bosque de un profundo verde.\n\nEl campo bañado en verde, bajo los viejos montes,\nla clara luna espejo del veloz río.\nSusurra el viento, trayendo aroma de cada flor.\n\nUna pequeña flor entre el tapiz verde,\nel suave viento que acaricia los montes.\nVa sin descanso el cristalino río,\ntestigo silencioso es la gran luna.\n\nLa pálida luna desvela cada flor,\nmientras el ágil río pinta de eterno verde.\nSe alzan los nobles montes, que azota el fuerte viento.\n\nY el viento gime, mientras la luna blanca\ncorona los altísimos montes.\nQué hermosa es cada flor en el tapiz verde\nque sigue su camino el incesante río.\n\nY el río murmura, mientras el viento canta\nsobre el manto verde. La serena luna\nguía la frágil flor, alzándose entre montes.\n\nEl río y la luna se unen en un juego,\nel viento mece el verde, un ciclo sin sosiego,\nde los montes nace, con cada nueva flor.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "luna"
+  }
+}

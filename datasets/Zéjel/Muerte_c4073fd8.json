@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el fin,\ndel trajín.\n\nLa vida pasa,\ncomo la brasa,\nen nuestra casa,\ny en el jardín.\n\nLlega el fin,\ndel trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "fin"
+  }
+}

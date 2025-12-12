@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Ay, Flor de formas que te vas sin piedad,\ntu color es sombra, sin un gran bien!\nEl arte se queja con falsedad,\nel alma sin un sostén.\nLa simpleza es pena, la belleza se fue,\nel alma sin un solo sé.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

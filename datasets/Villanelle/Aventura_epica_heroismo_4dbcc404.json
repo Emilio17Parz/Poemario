@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla el acero en la batalla,\ndefendiendo el honor del rey,\nrompiendo cota y malla.\n\nEl enemigo se calla,\nante el filo de la ley,\nbrilla el acero en la batalla.\n\nNadie cruza la raya,\nni escapa de la grey,\nrompiendo cota y malla.\n\nEs la fuerza que estalla,\nen medio de la muchachey,\nbrilla el acero en la batalla.\n\nQuien la empuña no falla,\nsiguiendo la noble beyl,\nrompiendo cota y malla.\n\nVictoria que se halla,\ntras el sangriento jerey,\nbrilla el acero en la batalla,\nrompiendo cota y malla.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "espada"
+  }
+}

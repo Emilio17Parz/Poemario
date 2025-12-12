@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol se va durmiendo,\ndejando el cielo en fuego consumido;\nun día que se ha ido,\ndesapareciendo.\nLa calma llega con la tarde quieta,\ncomo una meta.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

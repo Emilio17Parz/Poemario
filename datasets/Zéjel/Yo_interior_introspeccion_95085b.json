@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi alma no tiene fin,\ny la vida es un trajín.\n\nEl ser ya me llegó,\nla suerte me sonrió,\ny el miedo se me acabó,\ny la vida es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "alma"
+  }
+}

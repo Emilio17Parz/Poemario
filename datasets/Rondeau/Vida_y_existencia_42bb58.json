@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Recuerda el ayer,\nal amanecer,\nlo vivido,\ny querido,\nal caer.\n\nEl saber,\ny el creer,\nperdido,\nRecuerda el ayer.\n\nEl nido,\ny el ruido,\ndel ser,\ny el ver,\nsentido,\nRecuerda el ayer.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

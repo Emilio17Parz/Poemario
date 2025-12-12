@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Callado estoy mirando tu figura,\nsin voz que rompa el aire cristalino,\ntan solo sigo el rastro del destino\nque me llevó a tu dulce arquitectura.\n\nEn este amor no cabe la amargura,\nni el ruido vano del hablar mezquino,\npues hablan nuestros ojos de camino\nhacia una paz inmensa y sin premura.\n\nEl silencio es el verbo que prefiero\ncuando tu mano roza mi costado,\ny en el latir furioso es donde muero.\n\nNo hace falta decir que te he soñado,\npues en la calma de este instante fiero\nsabe mi pecho que por ti es amado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

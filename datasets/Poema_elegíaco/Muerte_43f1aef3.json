@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El velo cae, la luz se desvanece,\nUn soplo helado el alma se ha llevado.\nEl mundo en torno, mudo, enmudece,\nY un eco apenas queda del pasado.\n\nSe fue la voz que el aire modulaba,\nLa risa tibia, el gesto protector.\nAhora un hueco inmenso nos taladra,\nUn frío abismo, un duelo y un dolor.\n\n¿Qué somos, sino un frágil, breve instante,\nUna chispa que en sombras se diluye?\nUn peregrino en senda errante,\nQue al polvo vuelve, y nada lo rehúye.\n\nNi ruego, ni clamor, ni amargo llanto,\nPuede torcer lo escrito por el sino.\nLlegó el momento, el último quebranto,\nEl implacable e irreversible **fin**.\n\nMas no se apaga el fuego del recuerdo,\nNi la ternura que en el pecho arde.\nCon cada adiós, un hilo nos desuerdo,\nY el corazón, herido, siempre tarde.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "fin"
+  }
+}

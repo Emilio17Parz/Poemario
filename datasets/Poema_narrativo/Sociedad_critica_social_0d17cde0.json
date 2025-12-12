@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vinieron las máquinas,\na tirar las casas,\ncomo si fueran masas,\nde páginas.\nLa abuela lloraba,\nen su silla,\npor la villa,\nque amaba.\nConstruyeron un centro,\ncomercial dentro.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "progreso"
+  }
+}

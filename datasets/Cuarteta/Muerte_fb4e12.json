@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Una lágrima breve sobre la tumba,\nel recuerdo triste de lo que fue,\nla vida es una frágil rumba,\nque nunca más se podrá mover.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Lágrima"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mi llanto no tiene agua,\nse ha secado la fuente.\nEs la dura plaga\nque me duele y me miente.\n\nNo hay lágrima ni pena,\nsolo un grito mudo y fiel,\nla fría cadena\ncon sabor a hiel.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

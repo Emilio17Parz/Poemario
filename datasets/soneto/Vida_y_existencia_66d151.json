@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Chronos devora a sus hijos con prisa,\nno perdona instantes ni edades,\nderriba imperios y ciudades\ny borra de los labios la sonrisa.\n\nSu paso constante nos avisa\nque son vanas las vanidades,\ny que ante sus frías verdades\nla vida se vuelve ceniza.\n\nPero el alma rebelde se opone,\ncreando arte y belleza eterna,\nque al mismo tiempo depone.\n\nEn la caverna más interna,\nla luz del espíritu impone\nsu ley que al tiempo gobierna.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "Chronos"
+  }
+}

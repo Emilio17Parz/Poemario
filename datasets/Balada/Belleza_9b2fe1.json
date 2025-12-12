@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Buscamos siempre la forma ideal,\nque no tenga fallo ni mancha real,\nun sueño puro de la perfección,\nque es de la mente la gran obsesión.\nPero lo humano es siempre incompleto,\ny ahí reside su mayor secreto,\nque en el defecto también hay amor,\ny una belleza de mucho valor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "perfección"
+  }
+}

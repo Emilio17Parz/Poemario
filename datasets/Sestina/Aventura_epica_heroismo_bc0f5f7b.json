@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se forja la leyenda,\nde los tiempos antiguos,\ncon magia y verdad.\nVive en la eternidad,\nel nombre del guerrero,\nque el bardo recita.\n\nEl bardo recita,\nla leyenda,\ndel primero.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

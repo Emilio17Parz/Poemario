@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Digo adiós,\na los dos,\nmundos,\nprofundos,\nde dios.\n\nSin pos,\nni tos,\nrotundos,\nDigo adiós.\n\nVeloz,\natroz,\nfecundos,\nvagabundos,\nen pos,\nDigo adiós.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

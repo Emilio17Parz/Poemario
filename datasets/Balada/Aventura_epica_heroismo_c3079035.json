@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fue forjada en el fuego,\npara servir al rey,\nsin pausa y sin sosiego,\ndefendiendo la ley.\nEn un mortal juego,\nde estocada y parada,\nel héroe se entrega ciego,\nconfiado en su espada.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "espada"
+  }
+}

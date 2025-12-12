@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquellos ojos que canté ferviente,\ny los brazos, las manos y los pies,\nson polvo y nada ves,\nsino tierra que pisa la gente.\nMas la forma inmortal que los movía,\nesa no moriría,\ny vive transformada\nen la visión eterna y deseada.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

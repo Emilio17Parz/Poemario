@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El ayer se fue\ny no volverá,\nlo que hiciste ayer\nahí quedará.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

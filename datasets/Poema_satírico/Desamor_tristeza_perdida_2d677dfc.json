@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te fuiste con ese tipo,\nque tiene coche y dinero,\npero es feo el compañero,\ny tiene cara de hipo.\nYo aquí tranquilo participo,\ndel placer de estar soltero,\nmientras tú aguantas al cuero,\ny a su aliento de anticipo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "reemplazo"
+  }
+}

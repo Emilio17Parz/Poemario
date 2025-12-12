@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El hálito del norte, gélido, silbó\nLlamando al corazón valiente sin demora,\nDonde la bruma antigua un eco despertó\nQue un tiempo nuevo en su reloj ahora augura.\n\nPartió el campeón, con paso firme y lento,\nDejando atrás la paz de su solar,\nImpulsado por un noble sentimiento,\nUn hado que le urgía a conquistar.\n\nLa sombra de gigantes se cernía,\nUn dragón escupía fuego inmisericorde,\nMas su temple de acero no cedía,\nAnte la hueste oscura que le aborda.\n\nCon furia digna de un dios se alzó el acero,\nEl campo retumbó con gran fragor,\nEn plena **batalla** demostró ser fiero,\nLuchando contra el pérfido opresor.\n\nLa victoria final, con sangre, se forjó,\nEl yelmo roto, el pecho henchido de valor,\nEl héroe su leyenda así labró,\nUn nombre eterno para el vencedor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

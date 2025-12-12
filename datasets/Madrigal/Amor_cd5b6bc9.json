@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú reinas en mi alma\ncon cetro de bondad y de ternura,\ny en tu bella figura\nencuentro dulce calma.\nEres la verde palma\nque ofrece su frescura,\ny que a mi corazón lo desarma.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "alma"
+  }
+}

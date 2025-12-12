@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Oh, Flor de formas y de gran color,\nel arte que el mundo nos quiere dar!\nTu aroma es dulce, sin un gran dolor,\nel alma te ayuda a anclar.\nLa simpleza es noble, de belleza total,\nla vida que vence el mal!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

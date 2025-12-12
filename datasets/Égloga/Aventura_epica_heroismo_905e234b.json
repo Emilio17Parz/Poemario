@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dejó la espada y escudo,\npara tomar el cayado,\nel soldado cansado,\nvuelve al campo mudo.\nSu cuerpo desnudo,\nde hierro pesado,\nbusca el prado,\ny el lazo nudo.\nLa paz es su meta,\nya no la saeta,\nni la corneta.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "retorno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se pierde en el mal juego\nla vida y la fortuna,\nquedando solo y ciego\nsin esperanza alguna.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "juego"
+  }
+}

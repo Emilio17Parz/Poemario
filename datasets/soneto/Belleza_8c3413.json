@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza no está en la piel,\nque se arruga y se marchita,\nsino en el alma que habita,\ndulce como la miel.\n\nEs un tesoro fiel,\nque el tiempo no quita,\ny que resucita,\nen el vergel.\n\nBondad, verdad y pureza,\nson los adornos reales,\nde la cabeza.\n\nInmortales,\ncon firmeza,\ny cabales.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "piel"
+  }
+}

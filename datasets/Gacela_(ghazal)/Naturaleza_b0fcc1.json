@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Duerme el gigante, el viejo volcán,\nfuego en sus venas, el viejo volcán.\n\nSi se despierta tiembla la tierra,\nira de piedra del viejo volcán.\n\nColumna de humo que toca el cielo,\nseñor del fuego, el viejo volcán.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "volcán"
+  }
+}

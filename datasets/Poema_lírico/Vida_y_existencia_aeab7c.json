@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Me busco en las calles,\nme busco en el mar.\nMi ser tiene fallas\ny no puedo amar.\n\nLa búsqueda es el viaje\na mi propia razón,\nmi único equipaje\nsin ninguna opción.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "búsqueda"
+  }
+}

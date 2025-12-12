@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabra que canta,\nritmo y rima,\nque mima,\ny encanta.\nVoz del sentimiento,\nen movimiento.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

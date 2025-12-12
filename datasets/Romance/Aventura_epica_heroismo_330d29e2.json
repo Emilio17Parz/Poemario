@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cíñete al cinto la espada,\ncaballero del honor,\nque el reino pide tu brazo\ny tu probado valor.\nEl acero brilla frío\nbajo el sol abrasador,\nlisto para defender\nal débil y al labrador.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "espada"
+  }
+}

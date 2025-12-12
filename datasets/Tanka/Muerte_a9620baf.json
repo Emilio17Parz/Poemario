@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Pesa el dolor,\ncomo losa de mármol\nsobre el pecho.\nHay que aprender de nuevo\na respirar sin ti.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

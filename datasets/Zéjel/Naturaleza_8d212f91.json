@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bella es la flor,\ncon su color.\n\nNace en el prado,\ntan perfumado,\ny regalado,\ncon mucho amor.\n\nBella es la flor,\ncon su color.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "flor"
+  }
+}

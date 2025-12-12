@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se tiñe de rojo el cielo,\nmuere la tarde en el mar,\nextiende la noche su velo,\ninvitando a descansar.\n\nMuere la tarde en el mar,\nel sol se hunde despacio,\ninvitando a descansar,\nen el infinito espacio.\n\nEl sol se hunde despacio,\nextiende la noche su velo,\nen el infinito espacio,\nse tiñe de rojo el cielo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tarde"
+  }
+}

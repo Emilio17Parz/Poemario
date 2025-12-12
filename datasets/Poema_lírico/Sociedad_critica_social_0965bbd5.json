@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dulce palabra que el alma desea,\nvuelo de ave sin reja ni red,\nagua que calma mi antigua sed,\ny que en el viento libre ondea.\nQue la libertad siempre se vea,\ncomo el derecho que está en la pared.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

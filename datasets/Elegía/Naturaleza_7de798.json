@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cauce de piedras y de polvo,\ndonde antes cantaba el agua,\nahora el sol ardiente fragua,\nun camino muerto y corvo.\n\nYa no hay peces, ni hay estorbo,\npara cruzar su antigua enagua,\ntodo es sed que desagua,\nen un recuerdo triste y torvo.\n\nRío que fuiste vida y risa,\nhoy eres solo arena y brisa.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "río_seco"
+  }
+}

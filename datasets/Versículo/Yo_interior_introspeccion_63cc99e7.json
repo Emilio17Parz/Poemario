@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En el claustro del ser, la luz se enciende adentro.\nNo hay ruta ni mapa, solo el pulso del tiempo.\nDespojo las máscaras, el rastro de lo externo,\nY hallo, en el hondo silencio, mi pura identidad.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

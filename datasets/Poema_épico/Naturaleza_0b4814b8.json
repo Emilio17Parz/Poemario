@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Helios conduce el carro de oro,\npor la bóveda del firmamento,\ndando luz y calor y aliento,\na la creación en su coro.\nEs el ojo que ve el tesoro,\ny el guardián del juramento,\nastros rinden su acatamiento,\nal rey del celeste foro.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "sol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Selva de gris hormigón,\ndonde el ruido nunca cesa.\nSe endurece el corazón,\nla rutina nos apresa.\n\nDonde el ruido nunca cesa,\ngritos mudos en la calle.\nLa rutina nos apresa,\nsin que el alma se halle.\n\nGritos mudos en la calle,\nse endurece el corazón.\nSin que el alma se halle,\nselva de gris hormigón.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

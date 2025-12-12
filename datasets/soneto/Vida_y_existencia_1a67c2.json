@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco el sentido en el laberinto,\nla respuesta a la gran pregunta,\n¿por qué la humanidad se junta\nen este planeta distinto?\n\nNo me basta el mero instinto,\nni la ciencia que apunta,\nmi alma se despunta\nbuscando un tinto.\n\nQuizás el sentido sea amar,\no crear, o simplemente estar,\nviendo el tiempo pasar.\n\nDejar de tanto preguntar,\ny empezar a caminar\nhacia el ancho mar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pregunta"
+  }
+}

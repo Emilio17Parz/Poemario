@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu abrazo es hogar,\npaz que calma mi tormenta,\ntiempo que se esfuma.\nEn tu pecho encuentro el puerto,\ndonde el alma se reposa.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Abrazo"
+  }
+}

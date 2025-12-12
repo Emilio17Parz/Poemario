@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo vuela,\ny no consuela.\n\nSe va la vida,\ncomo huida,\ntan sentida,\nque nos duela.\n\nEl tiempo vuela,\ny no consuela.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

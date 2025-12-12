@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El pasado se fue, ya no existe,\nel futuro es un sueño que no llega,\nquien se niega,\na vivir el presente, vive triste.\nAbraza el hoy con toda tu energía,\ncon alegría,\nque este segundo es todo lo que tienes,\ny mantienes.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ahora"
+  }
+}

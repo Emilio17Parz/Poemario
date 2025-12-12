@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El tiempo se detiene,\ncuando te tengo cerca.\nLa paz a mí viene,\nel tiempo se detiene.\nNada nos previene,\nsin valla ni cerca.\nEl tiempo se detiene,\ncuando te tengo cerca.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

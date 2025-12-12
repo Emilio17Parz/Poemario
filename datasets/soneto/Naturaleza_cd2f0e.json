@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro rey de dorada cabellera,\nque das calor al mundo cada día,\nfuente de luz, de vida y alegría,\nquemando en tu magnífica hoguera.\n\nSin ti la tierra fuera una esfera,\nde hielo, oscuridad y lejanía,\nmas tu mirar la noche desafía,\ny nace así la dulce primavera.\n\nTe alzas triunfante por el este rojo,\ny mueres dignamente en occidente,\nsin mostrar nunca fatiga o enojo.\n\nEres el ojo divino y ardiente,\nque todo lo vigila a su antojo,\ny mantiene el latido viviente.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sol"
+  }
+}

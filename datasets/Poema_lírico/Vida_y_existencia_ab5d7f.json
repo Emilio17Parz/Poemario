@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo no es lineal,\nes un círculo cruel.\nEl hoy es fatal\nsin ningún papel.\n\nCargo el peso de un siglo\nen la espalda corta,\nmi único sigilo\nen la vida absorta.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

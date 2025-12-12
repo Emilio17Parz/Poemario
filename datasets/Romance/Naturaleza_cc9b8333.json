@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En el bosque umbrío, donde el musgo abraza,\nTu figura etérea mi alma siempre traza.\nComo el río que fluye, sereno y profundo,\nAsí tu amor inunda mi pequeño mundo.\n\nEl dulce aroma de la flor silvestre,\nEs tu aliento suave, que mi ser enriquece.\nEl trino del ave al nacer el día,\nEs eco de tu risa, pura melodía.\n\nY cuando la **luna**, con su plata dormida,\nIlumina el sendero de nuestra vida,\nBajo el manto eterno de estrellas fugaces,\nNuestras almas se unen en suaves enlaces.\n\nCada hoja que cae, cada brisa que canta,\nMe recuerda el goce que tu amor me encanta.\nMi corazón es un jardín donde creces,\nY por siempre tu esencia en él floreces.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "luna"
+  }
+}

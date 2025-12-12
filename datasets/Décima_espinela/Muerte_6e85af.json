@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vino el ángel a buscar,\nsu alma cansada y vieja,\nsin escuchar ninguna queja,\nlisto para volar.\nLe ayudó a cruzar,\nel río de la oscuridad,\nhacia la eternidad,\ndonde brilla la luz,\ny no pesa la cruz,\nde la mortalidad.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

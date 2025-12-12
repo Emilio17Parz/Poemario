@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ser invisible,\nque mueves las estrellas\ny el corazón.\nTe busco en el silencio\ny allí te encuentro yo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "dios"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor, te has vuelto un espectro errante,\nque habita en los muros de mi habitación,\ncausando en mi pecho una gran opresión,\ntan cerca, tan lejos, tan inquietante.\n\nYa no eres carne, ni piel, ni amante,\nsolo un recuerdo, una ilusión,\nque nubla mi vista y mi razón,\nen este drama triste y constante.\n\nFantasma querido, déjame en paz,\no llévame contigo bajo tu faz.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

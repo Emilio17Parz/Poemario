@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "De la hoguera que fuimos, nada queda,\nsolo este polvo gris que el viento lleva,\nya no hay chispa que el alma promueva,\ntodo murió.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Reza todo el día,\nla doña en el banco,\npero su lengua es,\nun veneno blanco.\nCritica al vecino,\ny al cura también,\nmientras dice 'Jesús',\ny 'Amén, amén'.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "beata"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi mente es una casa ruidosa,\nllena de voces que discuten.\nRecuerdos del ayer,\nmiedos del mañana.\nIntento poner orden en el caos,\npero los pensamientos vuelan\ncomo pájaros asustados,\nbuscando un lugar donde posarse.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mente"
+  }
+}

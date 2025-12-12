@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cae la lluvia sobre los techos,\nasí caen lágrimas en mi faz,\nrecordando los tristes hechos\nque me robaron toda la paz.\nFuiste cruel y fuiste voraz,\ny ahora mi llanto es pertinaz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

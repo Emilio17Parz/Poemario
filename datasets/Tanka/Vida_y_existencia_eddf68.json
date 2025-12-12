@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caer al suelo\nlimpiarse las heridas\nvolver al pie.\nLa vida es combate\nque exige gran valor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

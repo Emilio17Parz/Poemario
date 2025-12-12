@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo fuimos y al polvo volveremos,\ncuando se apague el fuego de la vida,\ny en la tierra desnuda descansemos.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

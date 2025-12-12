@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Volcán que duermes sin fuerza ni furia,\nel fuego se ha ido, sin un gran mal.\nTu lava es fría, sin una injuria,\nel alma que siente el golpe fatal.\nTu boca es quieta, el poder se fue,\nla pena que el tiempo ve.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Volcán"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Salgo a lo desconocido,\ncon la brújula y la fe,\nde no darme por vencido.\n\nNo sé muy bien lo que veré,\nni lo que habré conseguido,\nsalgo a lo desconocido.\n\nEl camino he decidido,\ny hacia adelante miraré,\nde no darme por vencido.\n\nAunque me sienta perdido,\nmi destino seguiré,\nsalgo a lo desconocido.\n\nEl miedo habré combatido,\ny mis fuerzas probaré,\nde no darme por vencido.\n\nCon el ánimo encendido,\nla aventura abrazaré,\nsalgo a lo desconocido,\nde no darme por vencido.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

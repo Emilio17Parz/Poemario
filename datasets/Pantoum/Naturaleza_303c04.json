@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Inmensidad azulada,\nolas vienen y van.\nPlaya mojada,\ndonde los sueños están.\n\nOlas vienen y van,\nritmo del corazón.\nDonde los sueños están,\nperder la razón.\n\nRitmo del corazón,\nplaya mojada.\nPerder la razón,\ninmensidad azulada.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mar"
+  }
+}

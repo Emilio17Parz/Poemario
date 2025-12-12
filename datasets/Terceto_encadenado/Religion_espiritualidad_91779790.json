@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Desciende de lo alto pura luz,\nrompiendo la tiniebla del pecado,\nregalo que nos viene de la cruz.\n\nEl hombre que se siente desolado,\nencuentra en ese brillo su consuelo,\nsintiéndose por fin perdonado.\n\nY alza su vista agradecida al cielo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "luz"
+  }
+}

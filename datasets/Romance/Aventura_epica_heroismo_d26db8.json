@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Partió Colón con tres naves\nhacia el mar desconocido,\nbuscando las Indias nuevas\ncon su rumbo decidido.\nMeses de agua y de cielo\ncon el ánimo perdido,\nhasta que gritaron ¡Tierra!\ny el mundo fue sacudido.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

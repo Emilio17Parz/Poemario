@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí descansa quien amó,\nquien luchó y quien sufrió,\nla tierra se lo comió\ny el olvido lo cubrió.\nSu nombre el tiempo borró,\nla piedra se partió,\ny nadie ya recordó\nlo que su pecho sintió.\nLetras muertas en granito,\nresumen de una existencia,\nun silencio infinito.\nQueda solo la esencia,\nde un paso fortuito,\ny la eterna ausencia.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "epitafio"
+  }
+}

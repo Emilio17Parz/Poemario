@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viste una luz lejana\nal cerrar la ventana de mañana.\nUn brillo que guiaba,\nmientras todo acababa.\nEl alma se libera\ny vuela hacia su eterna primavera.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "luz"
+  }
+}

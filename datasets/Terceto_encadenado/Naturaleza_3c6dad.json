@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Desciende el agua mansa de la nube,\nlimpiando el polvo gris de la ciudad,\nmientras el verde de la tierra sube.\n\nRegalo de bondad y claridad,\nque calma la sedienta superficie,\ncon gotas de total serenidad.\n\nQue la vida acaricie.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

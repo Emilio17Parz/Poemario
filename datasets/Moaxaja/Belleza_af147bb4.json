@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verde paisaje,\nde buen viaje.\n\nMontes y ríos,\ny los rocíos,\nno son fríos,\ncon coraje.\n\nVerde paisaje,\nde buen viaje.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

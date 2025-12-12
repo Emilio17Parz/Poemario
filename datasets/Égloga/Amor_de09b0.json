@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Danzan las ninfas y los pastores,\nal son del tamboril y la gaita,\nla alegría en el aire se asalta,\nborrando los antiguos dolores.\n\nTú y yo giramos entre las flores,\nmano con mano, pie contra pie,\nsabiendo que el amor es la fe,\nque da a la vida sus mil colores.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "danza"
+  }
+}

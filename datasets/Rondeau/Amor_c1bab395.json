@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuego pasional que en mi pecho arde,\nno dejes que el olvido te acobarde,\nni que el tiempo con su paso lento,\nborre de mi alma este sentimiento,\nanques que la noche llegue tarde.\n\nAunque el mundo entero nos aguarde,\ny la razón cobarde se resguarde,\nyo gritaré a los cuatro vientos,\nfuego pasional.\n\nNo habrá quien este amor retarde,\nni quien con su envidia nos bombarde,\npues vivimos felices momentos,\nlejos de dudas y lamentos,\nmientras nos queme, sin alarde,\nfuego pasional.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

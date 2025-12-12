@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El árbol en el monte\nse mece con el aire,\ny saluda a la gente\ncon mucho donaire.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte, mano fría,\nque ha de llegar,\ndeja tras ella sombra\ny eterno penar.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

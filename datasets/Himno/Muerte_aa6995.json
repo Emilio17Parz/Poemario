@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Hilo invisible que teje la parca,\ny que a cada uno su hora le marca.\n¡Honor al Destino, fuerza mayor!,\nque rige la vida con gran rigor.\n\nNadie escapa a su cita final,\nes la ley férrea, universal.\nAceptamos tu mando con sumisión,\npues eres del mundo la condición.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién me mira desde allí?,\nreflejo que desconozco.\nLo que ayer yo fui,\nhoy se vuelve tosco.\n\nReflejo que desconozco,\nojos que guardan secretos.\nHoy se vuelve tosco,\nmis planes y bocetos.\n\nOjos que guardan secretos,\nlo que ayer yo fui.\nMis planes y bocetos,\n¿quién me mira desde allí?",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

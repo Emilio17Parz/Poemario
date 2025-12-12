@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Escribió un texto lleno de amor,\npidiendo perdón y otra oportunidad,\nconfesando toda su verdad,\ny su profundo dolor.\nEl dedo tembló sobre 'enviar',\nleyó las palabras una vez más,\nrecordó que no volvería jamás,\ny decidió borrar.\nGuardó el teléfono en el bolsillo,\ny caminó por el pasillo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "móvil"
+  }
+}

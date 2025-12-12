@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Reina de plata en la noche estrellada,\nguardiana de sueños, diosa callada.\n¡Salve, Luna, que guías la marea!,\ny alumbras la senda, sea cual sea.\n\nTu rostro cambiante nos habla de ciclos,\nde tiempos antiguos y nuevos periplos.\nPoetas y amantes te rinden loor,\nfarol del misterio y del suave amor.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luna"
+  }
+}

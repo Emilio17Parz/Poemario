@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Me prometí ser libre, y soy solo un esclavo,\nla vida sin la calma, el triste pasivo.\nLa promesa se rompió en el duro cristal,\nla sombra constante de un sino fatal.\n\nNo tengo el destino, no tengo la fe,\nla vida sin la calma, sin saber el qué.\nMi final es la sombra de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

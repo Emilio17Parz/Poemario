@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dejar la casa\ncruzar el mar incierto\nsueño y dolor.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "emigrante"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me planto delante del vidrio,\ny busco al que dicen que soy,\npregunto hacia dónde me voy,\ny limpio del ojo el colirio.\n\nNo veo ni paz ni delirio,\ntan solo el cansancio de hoy,\ny sé que lo que ahora doy\nes fruto de mi propio martirio.\n\nEl otro que mira de frente,\nconoce mis miedos secretos,\nmi historia y mi duda latente.\n\nNo valen allí los decretos,\nsoy yo, desnudo y presente,\ncon todos mis propios aprietos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

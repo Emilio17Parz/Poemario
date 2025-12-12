@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Saca la fuerza de tu propio centro,\nla llama sagrada que no se va,\nvivir es el arte, el gran encuentro,\ncon el ser profundo que te da.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Fuerza"
+  }
+}

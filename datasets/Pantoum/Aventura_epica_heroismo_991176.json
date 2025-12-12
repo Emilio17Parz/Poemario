@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Bestia de escama y fuego,\nreina en la cueva oscura.\nNo es un simple juego,\nenfrentar su figura.\n\nReina en la cueva oscura,\nguarda el oro ancestral.\nEnfrentar su figura,\nes el reto mortal.\n\nGuarda el oro ancestral,\nno es un simple juego.\nEs el reto mortal,\nbestia de escama y fuego.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

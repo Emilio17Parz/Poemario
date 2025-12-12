@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mirada es la luz de mi sendero,\nque alumbra con su brillo mi caminar,\ny es el único sol que yo prefiero.\n\nNo dejo ni un instante de pensar,\nen esa claridad que me regalas,\ny que me invita siempre a despertar.\n\nContigo mis mañanas no son malas.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "luz"
+  }
+}

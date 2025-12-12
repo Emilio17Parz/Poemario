@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nLa prisión me encierra sin un final (E1: final)\nMi vida es la sombra que quiero ya ver (E2: ver)\nEl muro me cubre sin una razón (E3: razón)\nEl dolor me inunda sin un gran temor (E4: temor)\nMi alma se quiebra sin poder vencer (E5: vencer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nLa sombra que quiero sin poder vencer (E2, E5)\nEl temor me da la razón (E4, E3)\nSin un error, sin un final (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Prisión"
+  }
+}

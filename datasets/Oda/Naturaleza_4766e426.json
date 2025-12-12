@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viajero que nadie ha visto,\npero todos han sentido,\nfuerza que empuja la vela\ny se lleva el sonido.\nPeinas el campo de trigo,\narrancas la hoja muerta,\nsilbas en la chimenea\ny golpeas en la puerta.\nEspíritu libre y loco,\nque no conoce prisión,\neres el aliento puro\nde toda la creación.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "viento"
+  }
+}

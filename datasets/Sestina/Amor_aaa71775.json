@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Guardo en mi labio el calor de tu beso,\ncomo se guarda la flor en el libro,\npara que nunca se muera el recuerdo.\nEs la marca dulce de nuestro tiempo,\nque detiene el paso de la vida,\ny nos regala un instante eterno.\n\nEn este instante eterno,\nrevive siempre tu beso,\ny florece la vida.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "beso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Queremos libertad,\npara vivir,\ncon la verdad,\ny sonreír.\n\nPara vivir,\nsin cadenas,\ny sonreír,\nsin penas.\n\nSin cadenas,\nqueremos libertad,\nsin penas,\ncon la verdad.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

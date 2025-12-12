@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Muro de piedra,\ndonde la hiedra.\n\nTorre alta,\nque resalta,\ny no falta,\nquien medra.\nMuro de piedra,\ndonde la hiedra.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "castillo"
+  }
+}

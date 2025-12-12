@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entro silente en el bosque\ndonde la luz se matiza,\ny la brisa se desliza\ncomo en un verde quiosco.\nAunque parezca algo tosco\nel tronco del viejo roble,\ntiene un espíritu noble\nque protege a las criaturas,\ny entre las ramas oscuras\nsu belleza es siempre doble.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

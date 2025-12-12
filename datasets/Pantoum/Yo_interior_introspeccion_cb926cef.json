@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro frente al espejo,\ny veo a un desconocido,\nun rostro cansado y viejo,\npor el tiempo transcurrido.\n\nY veo a un desconocido,\nque me devuelve la mirada,\npor el tiempo transcurrido,\nen la vida gastada.\n\nQue me devuelve la mirada,\nme miro frente al espejo,\nen la vida gastada,\nun rostro cansado y viejo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

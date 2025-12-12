@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Dónde están los días de ayer?\n¿Las risas, los juegos, los sueños?\nSe fueron con sus dueños,\npara nunca más volver.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

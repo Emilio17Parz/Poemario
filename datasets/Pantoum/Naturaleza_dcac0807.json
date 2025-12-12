@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol dora el trigo,\nen el campo abierto,\nes el gran amigo,\ndel mundo despierto.\n\nEn el campo abierto,\nbrinda su calor,\ndel mundo despierto,\npinta el color.\n\nBrinda su calor,\nel sol dora el trigo,\npinta el color,\nes el gran amigo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro mi rostro y busco la verdad,\nde quién soy más allá de la apariencia,\nen mi profunda y nuda soledad.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "yo"
+  }
+}

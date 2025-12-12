@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sigue tus sueños,\nhasta el final.\nSé de tus dueños,\nsigue tus sueños.\nLo ideal,\nsin ceños.\nSigue tus sueños,\nhasta el final.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

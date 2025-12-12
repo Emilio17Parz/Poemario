@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo humano es la medida de todas las cosas, la proporción áurea hecha vida.\nLa danza celebra la belleza del movimiento, la fuerza, la gracia, el equilibrio.\nNo hay nada impuro en la forma humana, es el templo del espíritu, obra maestra.\nAdmira la belleza de tu propio cuerpo, cuídalo, ámalo como el regalo que es.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "cuerpo"
+  }
+}

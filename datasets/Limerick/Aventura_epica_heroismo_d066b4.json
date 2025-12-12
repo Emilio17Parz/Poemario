@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Un pirata con pata de palo,\nera un tipo bastante malo.\nResbaló en cubierta,\ndejó la puerta abierta,\ny se dio un gran regalo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "pirata"
+  }
+}

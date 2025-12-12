@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos barro, somos polvo,\ny al polvo regresaremos,\npor más que nos aferremos\na este mundo y su revuelvo.\nYo en mis dudas me disuelvo\npensando en la conclusión,\npues no hay otra solución\npara este breve pasaje,\nque dejar el equipaje\ny aceptar la condición.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

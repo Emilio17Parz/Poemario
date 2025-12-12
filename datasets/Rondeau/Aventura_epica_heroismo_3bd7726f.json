@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cruel batalla,\ndonde la metralla,\nrompe el silencio,\ny yo presencio,\nquien nunca calla.\n\nFrente a la muralla,\nel miedo estalla,\ny me convenció,\ncruel batalla.\n\nNadie se halla,\nni se desmaya,\nen el cansancio,\ndel rancio,\nque nos avasalla,\ncruel batalla.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

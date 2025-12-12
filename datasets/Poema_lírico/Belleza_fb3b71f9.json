@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¿Qué es la belleza? Un soplo, un claro fulgor,\nLa estela que deja el instante vivido,\nUn eco invisible que calma el dolor,\nQue anida en el alma, jamás extinguido.\n\nSe halla en el alba que tiñe de rosa,\nEn la gota de rocío, en la flor que se abre.\nEn la voz callada, serena y gozosa,\nEn la melodía que el viento nos sabe.\n\nEstremece el pecho, lo llena de calma,\nEs un arrebato, un don celestial.\nPenetra en la esencia más honda del alma,\nRompiendo las rejas del tiempo banal.\n\nY miro en tus ojos, en la curva que traza\nTu labio al sonreír, tu andar tan gentil.\nAhí hallo la forma, mi dulce **musa**,\nQue enciende la chispa de este verso febril.\n\nY aunque el tiempo ruede y el brillo se ausente,\nSu eco persiste, perenne y fugaz.\nUn rastro dorado que el alma no miente,\nPromesa de asombro, de íntima paz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "musa"
+  }
+}

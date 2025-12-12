@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Después de la larga odisea,\nde monstruos, de guerras y mar,\nel héroe consigue llegar\na la patria que tanto desea.\n\nPero nadie ya le creía,\nsu rostro ha cambiado al andar,\ny le cuesta reconocer el hogar\nque en sueños su mente veía.\n\nVolver es la última prueba,\naceptar que el tiempo pasó,\ny que él ya no es quien se lleva.\n\nLa paz que al final encontró,\nes ver cómo el hijo se eleva\ny cómo la vida siguió.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "retorno"
+  }
+}

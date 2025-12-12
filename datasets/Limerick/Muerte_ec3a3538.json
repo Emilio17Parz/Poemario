@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Había un fantasma en el ático,\nque era muy poco simpático,\ngritaba \"¡Buu!\",\ncon gran inquietud,\ny tenía un dolor ciático.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Fantasma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se llena el mundo de vivo color,\nal llegar la dulce primavera,\nborrando el frío y el gris dolor.\n\nRenace el campo con esplendor,\nde una manera muy ligera,\nse llena el mundo de vivo color.\n\nCada paisaje es un primor,\nque la mirada considera,\nborrando el frío y el gris dolor.\n\nSiento en el alma un gran calor,\nante esta fiesta verdadera,\nse llena el mundo de vivo color.\n\nEs de la vida el gran valor,\nque se renueva y persevera,\nborrando el frío y el gris dolor.\n\nTodo se vuelve mucho mejor,\ncon esta luz que nos espera,\nse llena el mundo de vivo color,\nborrando el frío y el gris dolor.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "color"
+  }
+}

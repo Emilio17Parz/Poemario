@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¡Gloria a ti, vasta eternidad!\nOcéano sin tiempo y sin orillas,\ndonde se doblan todas las rodillas,\nante tu inmensa y gran majestad.\nReino sin fin donde el alma despierta,\ncruzando al fin la misteriosa puerta.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

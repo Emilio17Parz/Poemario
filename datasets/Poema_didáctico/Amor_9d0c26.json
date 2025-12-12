@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Palabra que asusta al inmaduro,\npero que sostiene la relación,\nes el lazo fuerte y seguro,\nmás allá de la emoción.\nDecidir amar cada mañana,\nes la victoria cotidiana.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Compromiso"
+  }
+}

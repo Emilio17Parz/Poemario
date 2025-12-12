@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No fue casualidad, fue un sendero,\nque dos almas en la noche unió,\neres mi norte, mi primer viajero,\nel ancla firme que jamás huyó.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

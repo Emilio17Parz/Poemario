@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sé luz en la oscuridad,\nno maldigas la noche,\ncon tu bondad,\nsin reproche.\nUna vela pequeña,\nvence a la peña.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

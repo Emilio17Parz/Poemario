@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cañones rompen la paz,\nsangre riega el suelo.\nDetrás del disfraz,\nse oscurece el cielo.\n\nSangre riega el suelo,\nhermanos peleando.\nSe oscurece el cielo,\nel mundo llorando.\n\nHermanos peleando,\ndetrás del disfraz.\nEl mundo llorando,\ncañones rompen la paz.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

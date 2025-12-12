@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Negros vestidos, almas en penumbra,\nduelo profundo por el que se fue,\nqueda el vacío, tiembla nuestra fe,\ntriste jornada.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "luto"
+  }
+}

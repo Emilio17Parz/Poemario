@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Papel que viaja con el viento,\nllevando tinta del corazón,\npuente frágil de celulosa\nque une la espera y la ilusión.\nGuardo tus letras como oro,\ntestigos de lo que sentimos,\nhuella física y palpable\nde los sueños que compartimos.\nOda a la pluma que te escribe,\nal sobre que guarda el secreto,\ny a la emoción de leerte\nen el silencio completo.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "carta"
+  }
+}

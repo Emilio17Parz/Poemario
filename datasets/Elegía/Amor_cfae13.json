@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Rotos los votos, quebrada la fe,\nlas palabras vuelan cual hojas secas,\ndejando las almas vacías y huecas,\npreguntándome siempre por qué y por qué.\n\nPrometimos amarnos y yo te fallé,\no tú me fallaste, y ahora pecas,\nde estar tan lejos, en otras bibliotecas,\nleyendo historias que yo no soñé.\n\nElegía a la promesa incumplida,\nherida mortal que no cierra en la vida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

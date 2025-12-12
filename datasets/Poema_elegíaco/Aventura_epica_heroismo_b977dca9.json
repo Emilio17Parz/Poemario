@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La sangre ha regado,\nla tierra baldía,\nse fue la alegría,\ndel soldado.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "sangre"
+  }
+}

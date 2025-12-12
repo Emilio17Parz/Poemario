@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "BEETHOVEN: No oigo las notas, solo un zumbido.\nDIOS: Pero la música no se ha ido.\nBEETHOVEN: ¿Cómo compondré si no puedo oír?\nDIOS: Debes sentirla antes de escribir.\nEstá en tu mente, en tu corazón.\nBEETHOVEN: ¡Es una cruel y gran maldición!\n(Toca el piano con furia)\nDIOS: Escucha el silencio, ahí está el arte.\nBEETHOVEN: ¡Haré que el cielo y la tierra se parte!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

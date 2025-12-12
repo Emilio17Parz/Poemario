@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La flor se abre y muere\ncon un solo color.\nSu belleza me hiere\ncon tan corto fulgor.\n\nEs la prueba evidente\nde que todo es fugaz,\ny el sol insistente\nque nos da la paz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "flor"
+  }
+}

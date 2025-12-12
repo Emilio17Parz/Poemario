@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Forjada al fuego de un volcán,\nespada mágica de rey,\nlos enemigos temblarán,\nante el filo de su ley.\nDefensora de la grey,\ny del trono y su virrey.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "espada"
+  }
+}

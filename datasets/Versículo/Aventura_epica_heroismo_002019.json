@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La corona es un círculo de oro que aprieta las sienes y no deja dormir al que lleva el peso de un pueblo entero.\nEl rey está solo en su trono, rodeado de cortesanos que sonríen con la boca y afilan dagas con la mirada.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "rey"
+  }
+}

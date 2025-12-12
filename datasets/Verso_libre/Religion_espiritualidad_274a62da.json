@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Te he buscado, Dios mío, en los templos de piedra y en los libros de la ley.\nPero Tú estabas en el silencio de mi corazón, en el susurro del viento, en la mirada del pobre.\nNo eres un juez lejano sentado en un trono, sino la vida misma que late en todo.\nEres el aire que respiro, la luz que me guía, el amor que me sostiene.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "dios"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El jardín está seco, la flor no existe ya sin piedad y cruel,\nla vida sin la calma, con sabor amargo a hiel.\nEl frío ha matado la belleza sin luz ni razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el verde que el tiempo robó al final sin voz ni luz ya sin fe,\ny mi ser es la sombra que nunca veré.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

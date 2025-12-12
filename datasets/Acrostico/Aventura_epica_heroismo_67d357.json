@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Gran hazaña hecha,\nEsfuerzo total.\nSigue la flecha,\nTermina el mal.\nAlza la cosecha.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "GESTA"
+  }
+}

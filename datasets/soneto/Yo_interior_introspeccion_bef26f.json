@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dentro de mí vive un niño,\nque quiere jugar y reír,\nque no sabe mentir,\nni vestir de armiño.\n\nCon cariño,\nle oír,\ny sentir,\nsu guiño.\n\nHe olvidado su voz,\npor ser adulto serio,\ny veloz.\n\nEl misterio,\natroz,\ndel imperio.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "jugar"
+  }
+}

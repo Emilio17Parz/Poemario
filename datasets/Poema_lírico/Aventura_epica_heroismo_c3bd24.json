@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La muralla cae lenta,\nla puerta ya no está.\nMi vida es la venta\nde una cruel verdad.\n\nResistir es un rito\nde honor sin igual,\nmi único mito\npara el fin final.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "resistencia"
+  }
+}

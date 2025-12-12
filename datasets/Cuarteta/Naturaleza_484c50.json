@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Hace calor,\nen el verano,\ncon el sudor,\nen la mano.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "verano"
+  }
+}

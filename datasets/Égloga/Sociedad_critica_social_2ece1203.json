@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "TIRSIS: ¿Viste al señor con su guardia armada?\nTeme a su pueblo, teme a su sombra.\nDAMÓN: Su libertad ni siquiera se nombra,\nvive en su cárcel de reja dorada.\nYo duermo al raso, sin llaves ni puerta,\nmi libertad es la vida despierta.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

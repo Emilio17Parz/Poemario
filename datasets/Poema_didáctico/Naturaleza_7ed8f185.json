@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La abeja vuela de flor en flor,\nbuscando el néctar con gran labor.\nLleva el polen en sus patitas,\ndando vida a plantas bonitas.\nSin este viaje de la abeja,\nla fruta y semilla se nos aleja.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "polinización"
+  }
+}

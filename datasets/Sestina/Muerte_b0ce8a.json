@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Temo caer en el olvido,\ncuando me vaya de aquí,\ny que todo lo vivido,\nno deje rastro de mí,\ncomo si no hubiera sido,\nlo que un día fui.\n\nYo sé bien lo que fui,\nantes de caer en el olvido,\ny todo lo que he sido,\nmientras estuve aquí,\ncon lo que he vivido,\ny lo que di de mí.\n\nQuedará algo de mí,\nde aquel que yo fui,\ncuando ya haya vivido,\nel tiempo del olvido,\nlejos de aquí,\ndonde siempre he sido.\n\nLo que siempre he sido,\nes una parte de mí,\nque se queda aquí,\naunque yo ya fui,\npresa del olvido,\nque borra lo vivido.\n\nTodo lo vivido,\ny lo que ha sido,\ncaerá en el olvido,\nlejos de mí,\ny de lo que fui,\ncuando estaba aquí.\n\nYa no estaré aquí,\ncon lo vivido,\nsino como el que fui,\ny que ha sido,\nparte de mí,\nen el mar del olvido.\n\nOlvido de lo vivido,\nlo que fui y he sido,\nya no está aquí.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "He traído un panal de la sierra,\npara endulzar tus labios de fresa,\nven y sentémonos a la mesa,\nde esta verde y florida tierra.\n\nLa dulzura el dolor destierra,\ny el amor se vuelve alimento,\nen este mágico y gran momento,\nque en el alma mi pecho encierra.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "miel"
+  }
+}

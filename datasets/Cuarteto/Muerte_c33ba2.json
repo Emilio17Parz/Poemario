@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El último suspiro, un soplo de aire breve,\nque escapa del cuerpo sin volver más,\nla vida que se va, la carga es leve,\nla calma que trae la paz.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Suspiro"
+  }
+}

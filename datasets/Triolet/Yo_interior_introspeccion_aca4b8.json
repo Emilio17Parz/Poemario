@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siento el peso,\nDe mis errores,\nEn el proceso.\nSiento el peso,\nSin un beso,\nNi favores.\nSiento el peso,\nDe mis errores.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "peso"
+  }
+}

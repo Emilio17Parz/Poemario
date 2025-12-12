@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nadie sabe lo que siento,\ncuando rozas mi costado,\nes un amor guardado,\nlejos del ojo y del viento.\nEs mi dulce tormento,\nquererte en la oscuridad,\npero es la única verdad,\nque mantiene mi cordura,\nen esta vida tan dura,\nde inmensa soledad.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

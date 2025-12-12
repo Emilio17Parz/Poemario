@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Oigo la voz,\ntan veloz.\nAdentro,\nen el centro,\nferoz.\n\nEl arroz,\ny la hoz.\nEl encuentro,\noigo la voz.\n\nEl albornoz,\ny el atroz.\nYo entro,\ny concentro,\nportavoz,\noigo la voz.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "voz"
+  }
+}

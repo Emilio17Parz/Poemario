@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Gris hormigón,\nsin ver el cielo,\ndesde el balcón.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

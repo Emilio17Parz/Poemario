@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Llegó un extraño al redil,\ncontando historias de mar,\nde monstruos y azar,\ny tierras de perfil.\nSu rostro viril,\nmarcaba el pesar,\ndel mucho andar,\nlejos del carril.\nNos habló de la gloria,\nde la victoria,\ny de la memoria.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "desconocido"
+  }
+}

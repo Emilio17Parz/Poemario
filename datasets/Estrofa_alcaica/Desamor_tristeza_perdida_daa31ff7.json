@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Eres ahora la pálida sombra,\nque se desliza por la habitación,\nmi memoria ya te nombra,\ncon una triste y gran pasión.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

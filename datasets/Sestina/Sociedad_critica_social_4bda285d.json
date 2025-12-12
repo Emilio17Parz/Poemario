@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El grito del hambre,\nno deja dormir,\na la conciencia.\nEs la dura sentencia,\nde la desigualdad,\nque mata despacio.\n\nMata despacio,\nel hambre,\ny la crueldad.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

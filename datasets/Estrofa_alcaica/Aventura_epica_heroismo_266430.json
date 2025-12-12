@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El **ré**torno **és** cál**ma** sin **un** dolor (11)\nDon**de** el **hé**roe **há**lla **su** dulce paz (11)\n**Ál**ma que **vúé**lve **te**naz (9)\n**Sín** la **híél** (4).",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "Retorno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, Naturaleza, templo inabarcable de lo sagrado.\nTu aliento es el viento que susurra secretos en las hojas,\ntu voz, el trueno que estremece el horizonte y la lluvia que purifica la tierra.\nEres el pulso de la vida que brota incansable,\ndesde el diminuto liquen que se aferra a la roca\nhasta la inmensidad del océano que guarda misterios ancestrales.\n\nMira la **montaña**, altar de roca y nieve,\ndonde el tiempo esculpe la eternidad con lentitud majestuosa.\nSus picos, dedos que rozan las nubes, son custodios del silencio,\ntestigos de amaneceres dorados y crepúsculos de fuego.\nEn sus laderas, el venado bebe del arroyo cristalino,\ny el águila traza círculos de libertad sin fin.\n\nCada flor que se abre al sol es un cántico mudo,\ncada gota de rocío, una lágrima de asombro.\nEres la sabiduría primordial, el espejo donde el alma se reconoce,\nel santuario donde el espíritu encuentra su verdadero hogar.\nQue mi ser sea un eco de tu armonía perfecta,\ny mi corazón, un peregrino constante en tus senderos infinitos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro con pena el viejo espejo,\ny lloro al niño que ya no está,\nel tiempo cruel se lo lleva allá,\ndejándome tan solo un reflejo.\nLamento la inocencia que perdí,\ny el extraño en que me convertí.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

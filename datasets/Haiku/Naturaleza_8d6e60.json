@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Brisa suave,\nmueve las verdes hojas,\ndanza del aire.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "brisa"
+  }
+}

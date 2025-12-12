@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La Cena íntima, de pan y de vino amargo,\nes hoy reflejo de una mesa vacía.\nEn vano espero aquel abrazo largo,\nque dio sentido a mi melancolía.\nSolo quedan velas de cera extinguida,\npor la promesa que se ha ido de mi vida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Cena"
+  }
+}

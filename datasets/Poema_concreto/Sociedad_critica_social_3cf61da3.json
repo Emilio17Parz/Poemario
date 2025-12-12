@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Libre   Vuela\n  \\       /  \n   \\     /   \n  Libertad   ",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

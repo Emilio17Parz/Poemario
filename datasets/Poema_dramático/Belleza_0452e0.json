@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[EL ANCIANO]\n(Viendo el sol caer)\nNo es tristeza. Es la belleza de la rendición. El sol se va sin luchar.\nEl ocaso es el final de la luz con la promesa de que volverá.\nEs la hora donde todo se tiñe de un color que la vida no se atreve a usar.\nLa verdadera belleza es siempre un adiós. Y yo también me despido con este fulgor.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "ocaso"
+  }
+}

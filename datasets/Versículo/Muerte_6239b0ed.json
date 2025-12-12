@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es el soplo final, el telón que se abate,\nla quietud que devora el postrer temblor.\nLa carne, despojada de su efímera prisa,\ndescansa sin pregunta ni dolor.\n\nEl espacio se ensancha donde hubo calor, la forma,\nuna ausencia tan vasta como el mar nocturno es.\nLa voz que fue una vez, ahora es silencio,\nun eco que se pierde en el sendero diurno ya.\n\nMas no todo se extingue en la ceniza fría del tiempo,\npues vive la **memoria**, faro en la oscuridad.\nEn cada gesto amado, en la tenue melancolía,\nsu esencia aún respira, sin fin ni vanidad.\n\nLa muerte es el reposo, el ciclo consumado al fin,\npero el espíritu eterno, en el alma labrado hondo,\na través del recuerdo, nunca se ha marchado lejos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

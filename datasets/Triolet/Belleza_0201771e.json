@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Amo el arte\nque me inspira,\nen cada parte.\nAmo el arte,\nque reparte\nlo que mira.\nAmo el arte\nque me inspira.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "arte"
+  }
+}

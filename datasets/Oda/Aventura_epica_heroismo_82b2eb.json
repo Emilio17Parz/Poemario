@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Victoria lograda, de gozo sin par,\nla meta que al fin se pudo alcanzar.\nEl alma se llena, sin poder anclar,\na la fuerza del dulce mar.\n¡Oh, triunfo noble, de dulce fulgor,\nme das la fe y el amor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Victoria"
+  }
+}

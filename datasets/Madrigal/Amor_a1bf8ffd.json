@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mano entre mis manos,\nhace los juramentos más humanos.\nCamino acompañado,\nsintiéndome amado.\nNo sueltes mi destino,\nque eres la luz que alumbra mi camino.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mano"
+  }
+}

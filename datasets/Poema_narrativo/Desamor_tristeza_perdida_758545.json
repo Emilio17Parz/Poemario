@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Las horas se hicieron lentas, el minutero un cuchillo,\nQue cortaba la tarde en el mismo altillo.\nEl reloj avanzaba sin él a su lado,\nContando el vacío de lo que fue amado.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

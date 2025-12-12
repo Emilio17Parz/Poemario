@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pasan los años volando,\nDejando huella en la piel,\nEl tiempo va ganando.\nPasan los años volando,\nY vamos andando,\nSobre el papel.\nPasan los años volando,\nDejando huella en la piel.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "años"
+  }
+}

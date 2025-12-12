@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El faro es la meta, la luz que guía con fe y sin error (A),\nel puerto seguro, con gran valor (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Faro"
+  }
+}

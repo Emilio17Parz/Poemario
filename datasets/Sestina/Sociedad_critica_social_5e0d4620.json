@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Reina la gran mentira,\nen los discursos vanos,\nque nos quieren vender.\nNos hacen creer,\nque todo va bien,\nmientras el barco se hunde.\n\nBarco se hunde,\npor la mentira,\ny su sostén.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es el sueño profundo, que no tiene despertar (A),\nla conciencia se apaga, sin más dolor (B),\nla vida es un arte, que se va a esfumar (A),\nla ausencia de todo fulgor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Suspiro por tu aire\nde madrugada,\nque llegue hasta tu lecho\nmi voz callada.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "suspiro"
+  }
+}

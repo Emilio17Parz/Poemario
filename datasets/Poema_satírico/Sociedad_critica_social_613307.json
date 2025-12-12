@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El impuesto de los tontos,\ndicen los matemáticos,\nsueños rotos y prontos,\npara los fanáticos.\nTrabajar no te hace rico,\nmejor jugar al pico.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Lotería"
+  }
+}

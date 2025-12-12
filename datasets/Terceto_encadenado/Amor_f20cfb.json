@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo la luna te juro mi amor sin par (A),\nla fe que me guía con gran fulgor (B),\nmi barca sin rumbo que quiere anclar (A).\n\nEl eterno y puro y dulce valor (B),\nla calma que viene a mi alma a sanar (C),\nla esencia del gran amor (B).\n\nLa vida es un sueño que se va a dar (C),\nsin miedo al castigo, sin un final (D),\nla forma de al fin amar (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

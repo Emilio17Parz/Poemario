@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se nos escapa rápido el breve tiempo,\ncomo arena en los dedos se va el tiempo.\n\nNo puedes detenerlo ni con oro,\nes el juez implacable que es el tiempo.\n\nAprovecha el momento, vive el ahora,\nantes que se termine tu propio tiempo.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

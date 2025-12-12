@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde fuego en mis venas,\ncuando me tocas,\ny con tus dulces besos,\ntú me provocas.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Con el sudor de la frente\nse gana el pan de la mesa,\nlabrando la tierra dura\no cargando con la empresa.\nEl trabajo dignifica\ny quita la gran pereza,\ndando sentido a los días\ncon su constante promesa.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

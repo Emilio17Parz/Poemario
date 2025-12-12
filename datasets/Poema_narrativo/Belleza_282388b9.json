@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mundo era gris en aquel cuento,\nnadie conocía el rojo o el verde.\nTodo era triste y sin movimiento,\ndonde la dicha siempre se pierde.\nUn niño encontró un extraño fragmento,\nun prisma que la luz muerde.\nLo alzó hacia el sol y salió un rayo,\nque pintó el cielo y la flor,\ny desde aquel mágico mayo,\nel mundo se llenó de color.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "color"
+  }
+}

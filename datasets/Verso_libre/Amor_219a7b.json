@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu risa debería envasarse\npara los días tristes.\nEs un estallido,\nun desorden hermoso\nque me sacude el pecho\ny me obliga a reír también,\naunque no entienda el chiste.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "risa"
+  }
+}

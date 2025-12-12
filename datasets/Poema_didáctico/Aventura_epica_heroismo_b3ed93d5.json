@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nadie vence al mal solo,\nse necesita el polo.\nBusca aliados y amigos,\npara vencer enemigos.\nLa unión hace la fuerza,\ny al destino lo tuerza.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "equipo"
+  }
+}

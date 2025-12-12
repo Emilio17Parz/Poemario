@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus manos de marfil,\nque tejen el destino de mi suerte,\ncon un toque sutil,\nme salvan del abismo y de la muerte.\nDejadme descansar en vuestro nido,\npor siempre protegido,\nsintiendo el calor que me dais,\ncuando me acariciáis.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "caricia"
+  }
+}

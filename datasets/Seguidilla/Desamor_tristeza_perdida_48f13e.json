@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El tiempo me duele (7a),\nla pena sin paz (5b),\nmi alma se hiele (7c),\nsin un adiós (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Tiempo"
+  }
+}

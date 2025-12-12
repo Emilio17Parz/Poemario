@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El error no es un fracaso,\nsino un necesario paso.\nAprende del fallo cometido,\ny habrás crecido y aprendido.\nSolo quien no intenta nada,\ntiene la vida estancada.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "error"
+  }
+}

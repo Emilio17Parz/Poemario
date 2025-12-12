@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Humo y cemento donde el verde muere,\nruido de máquinas que nunca callan,\ngente que corre sin saber a dónde\nse avasallan.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "urbe"
+  }
+}

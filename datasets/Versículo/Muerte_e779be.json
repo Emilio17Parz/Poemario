@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El frío de la muerte no es invernal, es la ausencia del fuego vital, la quietud del mármol que toca el alma.\nEl cuerpo se vuelve estatua, máscara de eternidad, testimonio helado de que el pájaro ya voló de la jaula.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "frío"
+  }
+}

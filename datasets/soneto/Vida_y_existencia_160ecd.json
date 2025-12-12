@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nací libre como el viento fuerte,\ny libre quiero vivir y morir,\nsin cadenas que me hagan sufrir\nni amo que decida mi suerte.\n\nPrefiero el peligro y la muerte\na la jaula de oro y mentir,\nal yugo que impide sentir\ny al miedo que al hombre inverte.\n\nLa libertad es don preciado,\nque no se compra ni vende,\nsino que es conquistado.\n\nQuien la tiene la defiende,\ny quien la ha olvidado,\nsu propia alma ofende.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "jaula"
+  }
+}

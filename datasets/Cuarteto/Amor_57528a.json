@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dibujo tu silueta en la noche oscura,\nla imagen perfecta que quiero guardar,\nmi alma te nombra con dulce premura,\nmi vida sin ti es sin lugar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Silueta"
+  }
+}

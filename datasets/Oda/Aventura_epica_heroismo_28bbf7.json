@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Camino de gesta, de arduo deber,\nla senda que el héroe debe seguir.\nCon fe en el final, que puedo vencer,\nsin miedo ni ganas de huir.\n¡Oh, ruta firme, de dulce fulgor,\nme das la fe y el valor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Camino"
+  }
+}

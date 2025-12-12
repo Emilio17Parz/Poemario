@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El valor del héroe, sin miedo ni error,\nque enfrenta al gigante, que quiere vencer,\nno teme al castigo, ni al fuerte dolor,\nla fuerza que ayuda a crecer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Valor"
+  }
+}

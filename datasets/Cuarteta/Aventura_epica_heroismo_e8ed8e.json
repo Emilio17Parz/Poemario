@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busco el cofre de oro,\nen la isla lejana,\ncon fe en la mañana,\ny en mi propio decoro.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "oro"
+  }
+}

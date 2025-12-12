@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En todas partes hay hermosura,\nsi se tiene el ojo abierto,\nen el desierto,\ny en la altura.\n\nLa figura,\ndel puerto,\ny el huerto,\nprocura.\n\nUnir a los hombres,\ncon el lazo,\nde los nombres.\n\nY el brazo,\nque asombres,\nel trazo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "lazo"
+  }
+}

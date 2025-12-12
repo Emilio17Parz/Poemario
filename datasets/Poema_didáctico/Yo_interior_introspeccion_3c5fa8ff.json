@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Sé tú mismo, no imites a nadie,\nel mundo precisa tu unicidad;\nno vendas tu personalidad,\npor mucho que el otro te irradie.\nTu valor está en ser original,\nesa es tu fuerza fundamental.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

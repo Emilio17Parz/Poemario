@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Camina en la cuerda floja,\nbuscando el punto medio,\nantes que la vida escoja,\nsu propio remedio.\n\nBuscando el punto medio,\nentre el bien y el mal,\nsu propio remedio,\npara el ser mortal.\n\nEntre el bien y el mal,\ncamina en la cuerda floja,\npara el ser mortal,\nantes que la vida escoja.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "balanza"
+  }
+}

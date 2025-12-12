@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento silba en la torre\ny mueve los olivares,\nllevándose los lamentos\na otros lejanos lugares.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "viento"
+  }
+}

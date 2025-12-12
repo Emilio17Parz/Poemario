@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Un santo de yeso y madera,\nperdió su aureola ligera.\nLe pusieron gorra,\nque a todos ahorra,\nuna risa muy duradera.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "santo"
+  }
+}

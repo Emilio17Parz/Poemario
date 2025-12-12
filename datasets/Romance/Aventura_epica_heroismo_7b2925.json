@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Chocan los hierros y escudos\nen el campo de la muerte,\nla sangre riega la tierra\ny se decide la suerte.\nGritan los hombres heridos\ncon una voz ronca y fuerte,\nmientras la gloria y la fama\na los valientes divierte.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

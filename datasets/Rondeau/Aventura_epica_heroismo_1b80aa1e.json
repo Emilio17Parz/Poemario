@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un viaje heroico, audaz y sin igual,\nEl héroe parte con espada y fe,\nPor sendas donde el mal acecha cruel,\nContra conjuros, demonios y orco fiel,\nSu estandarte ondea contra el vendaval.\n\nA tierras vírgenes, tras un portal,\nDonde la magia es un dulce vergel,\nPor sendas donde el mal acecha cruel,\nUn viaje heroico.\n\nCon brío lucha, alza un grito triunfal,\nDesafía a la muerte, no hay cuartel,\nSu valentía es un faro vital,\nDerriba muros de un poder infiel,\nRescatando la paz universal,\nUn viaje heroico.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

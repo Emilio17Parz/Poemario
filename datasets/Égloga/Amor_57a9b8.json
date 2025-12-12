@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juremos aquí, sobre la hierba,\nque nuestros rebaños irán unidos,\ny nuestros corazones fundidos,\ncomo el ciervo junto a la cierva.\n\nQue no haya mal que la unión disuelva,\nni invierno que hiele nuestra pasión,\nsino una eterna y gran comunión,\nque en este valle siempre se vuelva.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "pacto"
+  }
+}

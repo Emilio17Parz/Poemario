@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río busca el mar con prisa de amante,\ncorriendo por las piedras, sonoro y constante.\n\nLleva en sus aguas claras el cielo brillante,\ny la imagen del sauce, su eterno acompañante.\n\nNadie detiene el curso del agua errante,\nque muere en el océano, su fin y su instante.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "agua"
+  }
+}

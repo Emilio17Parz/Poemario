@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visto de negro hoy,\nPor tu triste partida,\nNo sé a dónde voy.\nVisto de negro hoy,\nEs lo que soy,\nCon el alma herida.\nVisto de negro hoy,\nPor tu triste partida.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "negro"
+  }
+}

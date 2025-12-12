@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La hierba ya sin color, (A)\nmi vida ya sin consuelo, (B)\nya no siento ya tu celo, (B)\nme queda solo el dolor. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Hierba"
+  }
+}

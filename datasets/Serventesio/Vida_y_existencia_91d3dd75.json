@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca el humano la pura verdad,\nentre las sombras de la confusión,\npara entender esta realidad,\ny no vivir en la falsa ilusión.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

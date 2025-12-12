@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Yo me miro y pregunto,\nquién es ese que veo reflejado,\nen este punto,\ndel pasado,\nque se muestra tan viejo y cansado.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "yo"
+  }
+}

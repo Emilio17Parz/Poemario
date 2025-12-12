@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele mirar la terrible pobreza,\nque se acumula en la gran ciudad,\ny nos golpea con mucha dureza,\nla indiferencia y la crueldad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Callando el mal que el corazón padece,\nse hace más grande la herida mortal,\ny este dolor fatal\ncon el triste silencio más crece.\nMas si hablo, ofendo a quien adoro,\ny así, entre el silencio y el lloro,\nconsumo mi existencia,\nadmirando de lejos su presencia.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

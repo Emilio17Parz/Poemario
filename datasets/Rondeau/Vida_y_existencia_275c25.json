@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es una lucha,\nque se escucha.\nSobrevivir,\ny resistir,\nen la ducha.\n\nMucha,\ntrucha.\nAl vivir,\nes una lucha.\n\nLa hucha,\nse arrechucha.\nSin morir,\nni huir,\nla capucha,\nes una lucha.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

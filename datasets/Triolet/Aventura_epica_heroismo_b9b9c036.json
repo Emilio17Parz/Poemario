@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mata al dragón\ncon su lanza,\ncon decisión.\nMata al dragón,\nsin compasión,\nla esperanza.\nMata al dragón\ncon su lanza.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

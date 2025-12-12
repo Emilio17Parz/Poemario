@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena en el aire la dulce música,\nlenguaje de dioses, la dulce música.\n\nCalma a las bestias y sana el dolor,\ncon su armonía, la dulce música.\n\nNo necesita palabras ni voz,\nhabla al espíritu la dulce música.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "música"
+  }
+}

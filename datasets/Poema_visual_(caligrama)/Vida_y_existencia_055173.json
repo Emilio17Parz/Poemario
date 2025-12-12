@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Círculo de horas\nmanecillas giran\ntic tac tic tac\nmarcando el paso\ndel tiempo que\nse va y no\nvuelve más.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

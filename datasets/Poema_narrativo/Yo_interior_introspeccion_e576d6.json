@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El pasado se fue, el futuro no está,\nEl hombre se quedó en el 'ahora' al azar.\nEl tiempo es la ilusión que el alma se da,\nEl presente es el único lugar donde está.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

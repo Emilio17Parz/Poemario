@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Rompen las manos las viejas cadenas,\nque nos causaron tantas de las penas,\nsangre que corre libre en las venas,\npueblo despierto.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

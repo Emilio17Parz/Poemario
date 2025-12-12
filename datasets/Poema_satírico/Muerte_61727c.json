@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Habla con el tatarabuelo,\npor cincuenta euros la hora,\nte toma bien el pelo,\neficaz estafadora.\nEl muerto no dice nada,\npero ella está inspirada.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Médium"
+  }
+}

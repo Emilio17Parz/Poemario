@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo avanza con firme paso,\ny nos lleva directo al final,\nhacia el simple y eterno ocaso.\n\nO hacia el juicio universal,\ndonde todo será pesado,\ncon medida justa y cabal.\n\nLo bueno y lo malvado.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "paso"
+  }
+}

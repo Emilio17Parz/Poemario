@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos polvo y ceniza,\nque el viento atiza.\nVolvemos a la tierra,\ntras perder la guerra,\ncon la muerte precisa.\n\nLa vida se desliza,\ny se finaliza.\nEn la sierra,\nsomos polvo.\n\nNadie garantiza,\nla risa.\nLa tumba encierra,\nlo que aterra,\ny se eterniza,\nsomos polvo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

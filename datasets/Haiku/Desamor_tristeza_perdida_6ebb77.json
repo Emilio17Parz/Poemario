@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Borras mi nombre,\ncomo huella en la arena,\nmar del olvido.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "arena"
+  }
+}

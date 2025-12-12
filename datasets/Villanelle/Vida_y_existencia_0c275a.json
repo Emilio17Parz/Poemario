@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Errar es de humanos,\nperdonar es divino,\ncomo buenos hermanos.\n\nNo seamos vanos,\nen el camino,\nerrar es de humanos.\n\nCon actos sanos,\ny buen tino,\ncomo buenos hermanos.\n\nEn los llanos,\ndel destino,\nerrar es de humanos.\n\nSin ser tiranos,\ndel vecino,\ncomo buenos hermanos.\n\nLavemos manos,\ny el lino,\nerrar es de humanos,\ncomo buenos hermanos.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "error"
+  }
+}

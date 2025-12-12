@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lanza hechizo,\nel mago,\nel trago,\nque hizo.\nEl rizo,\ndel lago.\nLanza hechizo.\n\nPoder oculto,\nque despierta,\nla puerta,\ndel tumulto.\nEl indulto,\nalerta.\nLanza hechizo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "hechizo"
+  }
+}

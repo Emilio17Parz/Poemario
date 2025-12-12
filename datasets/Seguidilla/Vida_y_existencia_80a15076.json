@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llegamos a este mundo\nllorando fuerte,\nprincipio de una senda\nhacia la muerte.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "nacer"
+  }
+}

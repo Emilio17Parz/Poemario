@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la luz que alumbra mi mañana,\nel sol radiante de mi despertar,\ndulce canción que entra por la ventana.\n\nMi corazón alegre te engalana,\nya no concibo el tiempo sin amar,\neres la luz que alumbra mi mañana.\n\nTu risa fresca, clara y soberana,\nes el remedio para mi pesar,\ndulce canción que entra por la ventana.\n\nLa vida corre suave y tan ufana,\ncuando a tu lado puedo caminar,\neres la luz que alumbra mi mañana.\n\nNo hay en el mundo dicha más humana,\nque en tus abrazos poder descansar,\ndulce canción que entra por la ventana.\n\nTe quiero con el alma, mi sultana,\npor siempre y para siempre he de jurar,\neres la luz que alumbra mi mañana,\ndulce canción que entra por la ventana.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "luz"
+  }
+}

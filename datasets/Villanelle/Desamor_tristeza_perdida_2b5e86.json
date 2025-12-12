@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tengo miedo a no olvidar,\na quedarme en el pasado,\ny no volver a empezar.\n\nMe aterra el recordar,\nlo que hemos amado,\ntengo miedo a no olvidar.\n\nNo sé cómo sanar,\neste pecho lastimado,\ny no volver a empezar.\n\nEl tiempo no quiere pasar,\ny me siento estancado,\ntengo miedo a no olvidar.\n\nQuisiera poder volar,\na un cielo despejado,\ny no volver a empezar.\n\nPero tengo que aceptar,\nque estoy desolado,\ntengo miedo a no olvidar,\ny no volver a empezar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

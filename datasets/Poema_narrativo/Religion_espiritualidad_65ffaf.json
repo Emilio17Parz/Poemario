@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Buscó en cien escrituras el secreto final,\nLeyendo los maestros, sin pensar en el mal.\nLa verdad no era un dogma, ni un verso sagrado,\nLa verdad era el silencio del que ya ha callado.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

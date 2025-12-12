@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tú eliges el rumbo, la senda y la fe (A),\nel bien o el mal, la sombra o la luz (A),\nla vida es un eterno 'sé' (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Elegir"
+  }
+}

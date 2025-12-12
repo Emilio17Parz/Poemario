@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Un amigo fiel,\nes un escudo,\ncontra el destino,\nrudo.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "escudo"
+  }
+}

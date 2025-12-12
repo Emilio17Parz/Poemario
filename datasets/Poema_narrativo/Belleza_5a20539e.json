@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tres diosas bajaron,\nante el pastor,\npidiendo el honor,\nque desearon.\nUna ofreció poder,\notra sabiduría,\nla tercera decía,\nel amor tener.\nLa manzana entregó,\na quien amor le dio.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "juicio"
+  }
+}

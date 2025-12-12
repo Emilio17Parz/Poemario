@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo camino tiene su fin,\ncuando se acaba la luz vital,\ny calla el eco del cornetín.\n\nSe marchita el rosa y el jazmín,\nllega el silencio del gran final,\ntodo camino tiene su fin.\n\nYa no hay batalla ni espadachín,\nque venza al hado fundamental,\ny calla el eco del cornetín.\n\nCerramos puertas del camarín,\ncae el telón teatral,\ntodo camino tiene su fin.\n\nDesde el palacio hasta el jardín,\ntodos iremos al mismo umbral,\ny calla el eco del cornetín.\n\nEs la sentencia del serafín,\nla conclusión universal,\ntodo camino tiene su fin,\ny calla el eco del cornetín.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "fin"
+  }
+}

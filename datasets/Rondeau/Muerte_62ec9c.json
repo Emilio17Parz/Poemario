@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Calla tu voz,\ntan veloz,\npara siempre,\neste diciembre,\nferoz.\n\nCon la hoz,\natroz,\nque siembre,\nCalla tu voz.\n\nSin el arroz,\nni el portavoz,\nde la costumbre,\nen la cumbre,\nde dios,\nCalla tu voz.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "voz"
+  }
+}

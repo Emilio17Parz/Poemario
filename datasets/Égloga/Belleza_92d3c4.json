@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cielo se vuelve un lienzo,\nde naranjas y violetas,\ndonde las nubes inquietas,\nmarcan del fin el comienzo.\n\nAnte tal gloria me venzo,\ny contemplo emocionado,\nel día ya terminado,\ncon un suspiro inmenso.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

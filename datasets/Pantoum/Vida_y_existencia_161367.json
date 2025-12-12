@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye como el río,\nnada permanece igual.\nSiento calor, siento frío,\nes el ciclo vital.\n\nNada permanece igual,\ntransformación constante.\nEs el ciclo vital,\nde cada caminante.\n\nTransformación constante,\nsiento calor, siento frío.\nDe cada caminante,\ntodo fluye como el río.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

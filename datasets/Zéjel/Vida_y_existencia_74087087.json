@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un sueño,\ndel que nadie es dueño.\n\nUna ilusión fugaz,\nque se quita el antifaz,\ny nos deja en paz,\ncon afán y empeño.\n\nLa vida es un sueño,\ndel que nadie es dueño.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

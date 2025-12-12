@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca la luz,\ndel andaluz,\nverdad,\nbondad,\ny la cruz.\n\nEl trasluz,\ny el capuz,\nlealtad,\nBusca la luz.\n\nLa edad,\ny la ciudad,\narcabuz,\natrapaluz,\nrealidad,\nBusca la luz.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "luz"
+  }
+}

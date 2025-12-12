@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La tumba es el lecho, de tierra y de piedra,\ndonde el cuerpo duerme sin despertar,\nel alma se va, la vida se arredra,\nla hora que sabe parar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Tumba"
+  }
+}

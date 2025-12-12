@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Ando buscando mi sitio,\ncomo un eterno litigio,\nentre lo que soy y quiero,\ny lo que en verdad prefiero.\nEs la búsqueda del Grial,\nen el mundo material,\nhallar el propio sentido,\npara no estar perdido.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "búsqueda"
+  }
+}

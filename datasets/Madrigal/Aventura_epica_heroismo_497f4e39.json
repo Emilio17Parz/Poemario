@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El héroe parte, audaz corazón,\nBajo un cielo de promesa y mito,\nCon la verdad forjando su razón,\nUn nuevo sendero, nunca escrito.\n\nPor cumbres altas y abismos crueles,\nDonde la magia oculta su saber,\nEnfrenta pruebas, fantasmas, dueles,\nBuscando el alba de un nuevo ser.\n\nY al fin resuena el férreo llamar,\nLa gran **batalla** que su destino urde,\nDonde su acero ha de cantar,\nY el valor indomable muerde.\n\nSu nombre vive, gesta inmortal,\nUn faro eterno de pura luz,\nQue rompe sombras, todo el mal,\nCumpliendo el rito de su cruz.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

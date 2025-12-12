@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El coraje es la fuerza, la llama que arde con fe (A),\nque rompe la sombra, el eterno 'sé' (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Coraje"
+  }
+}

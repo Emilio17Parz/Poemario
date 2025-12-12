@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me enfrenté al monstruo en el espejo,\nla batalla más dura de mi existencia.\nLuché contra mi propia conciencia,\ny contra el paso del tiempo viejo.\nNo hubo escudos, ni lanzas, ni yelmo,\nsolo la verdad en el páramo yermo.\nVencí a la imagen, rompí el cristal,\npara encontrar mi ser real.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

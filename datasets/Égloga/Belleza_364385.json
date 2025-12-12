@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cabellera blanca que se desata,\ndesde la cumbre hasta la poza,\ndonde el agua ríe y goza,\ncon su espuma de pura plata.\n\nTu fuerza bella nos arrebata,\ncon el estruendo y el frescor,\ny nos llenas de un temblor,\nque a tu grandeza nos ata.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cascada"
+  }
+}

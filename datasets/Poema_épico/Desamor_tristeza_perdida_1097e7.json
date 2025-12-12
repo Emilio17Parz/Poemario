@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La niebla desciende del monte alto,\nborrando tu rastro en el sendero,\ndoy un paso, un grito, un salto,\npero ya no te encuentro, lucero.\nPerdido en la bruma de la memoria,\nasí termina nuestra gran historia.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Niebla"
+  }
+}

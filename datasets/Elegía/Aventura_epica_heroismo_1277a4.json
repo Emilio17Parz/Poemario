@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Camino de gesta, de arduo dolor,\nla senda que el héroe no pudo seguir.\nMi alma se queja sin un fulgor,\nel alma sin poder huir.\nTu ruta es sombra, la verdad es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Camino"
+  }
+}

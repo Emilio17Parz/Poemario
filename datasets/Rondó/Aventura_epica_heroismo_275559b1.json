@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por la senda ignota, hacia la gesta audaz,\nDonde el honor y la gloria nos aguardan sin paz.\nCon acero en mano, el valor nos es solaz,\nPor la senda ignota, hacia la gesta audaz,\nNi temor ni sombra el espíritu eficaz,\nAfrontamos fieros el destino pertinaz,\nPor la senda ignota, hacia la gesta audaz,\nDonde el honor y la gloria nos aguardan sin paz.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

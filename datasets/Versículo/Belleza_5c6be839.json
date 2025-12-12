@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Contemplo la forma perfecta de la naturaleza, la geometría sagrada.\nLa espiral del caracol, la simetría de la hoja, la curva del horizonte.\nLa belleza reside en la armonía de las partes, en el orden del caos.\nEs la firma del gran arquitecto en cada detalle de la creación.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "forma"
+  }
+}

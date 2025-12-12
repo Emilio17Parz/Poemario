@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No busques a Dios en los templos de piedra hechos por mano humana.\nBúscalo en el susurro del viento, en la mirada del pobre, en tu interior.\nÉl es el aliento que sostiene el universo, la causa primera y el fin último.\nDios no es un juez lejano, sino el amor que late en todas las cosas.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "dios"
+  }
+}

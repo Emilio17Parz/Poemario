@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Más vale morir de pie,\nque vivir arrodillado,\nmanteniendo la fe,\nen el juramento dado.\nEl caballero se ve,\nlleno de gran valor,\nporque siempre fue,\nfiel a su sacro honor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "honor"
+  }
+}

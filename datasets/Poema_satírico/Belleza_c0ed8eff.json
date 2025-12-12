@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Uñas de gel,\nde tres pulgadas,\ncomo de águila,\nafiladas.\nNo puedes teclear,\nni abrir una lata,\npero te sientes,\nmuy aristócrata.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "uñas"
+  }
+}

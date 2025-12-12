@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "**A**l alba parte, el corazón valiente,\n**V**a en pos de lo ignoto, sin temor.\n**E**cos de leyendas, un camino ardiente,\n**N**avega mares, desafía el fragor.\n**T**ierras remotas, misterios por hallar,\n**U**n destino noble, su alma ha de forjar.\n**R**einos oscuros, combates con fervor,\n**A**lcanzando la **gloria** con su inmenso valor.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busca en el fondo,\ndonde me escondo,\nla verdad,\nde mi edad,\ny lo hondo.\n\nNo respondo,\nni redondeo,\nla soledad,\nBusca en el fondo.\n\nEl mundo,\nrotundo,\nclaridad,\ny bondad,\nvagabundo,\nBusca en el fondo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "fondo"
+  }
+}

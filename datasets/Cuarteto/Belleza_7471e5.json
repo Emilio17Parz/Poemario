@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El ritmo es la clave, la dulce cadencia,\ndel cuerpo que danza, del verso al hablar,\nla música pura de toda existencia,\nla calma que viene a sanar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Ritmo"
+  }
+}

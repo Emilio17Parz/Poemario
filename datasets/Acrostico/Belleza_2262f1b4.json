@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "B rillante como el sol,\nE ncanto sin igual,\nL lena de tornasol,\nL uz de lo natural,\nA mada cual farol.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "bella"
+  }
+}

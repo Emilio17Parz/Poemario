@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Niño que llora pidiendo comida,\nmano tendida en el callejón,\ndura y cruel situación,\nhambre y miseria.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

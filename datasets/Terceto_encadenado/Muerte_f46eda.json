@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Calló tu voz y el mundo es mudo,\nfalta la nota de tu canción,\ncon un ambiente pesado y rudo.\n\nReina el silencio en la habitación,\ny la palabra se queda presa,\nen la garganta de la emoción.\n\nQue nunca cesa.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

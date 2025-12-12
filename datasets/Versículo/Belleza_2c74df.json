@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dicen que los ojos son el espejo del alma, pero también son las ventanas por donde entra la belleza del mundo.\nUna mirada limpia puede transformar lo feo en hermoso, porque la belleza no está en la cosa, sino en quien la mira con amor.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

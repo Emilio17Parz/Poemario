@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La paz que me inunda sin un final (a),\nsin miedo a la sombra que quiere caer (b),\nmi alma se cubre con dulce fanal (a),\nla fuerza que impulsa mi noble querer (b),\ntu amor es la forma de al fin soñar (b),\ny la fe que me ayuda a saber vencer (c),\nla vida es un canto que es ya inmortal (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, la esencia de amar (c'),\nes la forma de al fin sanar (c'),\nla fuerza que me da la paz (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

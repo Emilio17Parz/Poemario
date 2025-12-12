@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La aurora tiñe el cielo de un fulgor ardiente,\nLa voz de un nuevo tiempo llama al valor,\nUn antiguo linaje, un puro honor,\nY el alma audaz se alista, diligente.\n\nInicia el largo viaje por el monte,\nCon espada al cinto, el corazón guerrero,\nEnfrentando al destino más severo,\nCruzando un mar de sombras en el horizonte.\n\nHechiceros y dragones su paso cortarán,\nMas no habrá cobardía en su fiero mirar,\nSu férrea voluntad no ha de quebrar.\n\nLos cantos de la gloria le esperarán,\nCon la victoria, su estirpe ha de honrar,\n¡Oh, qué sublime hazaña al fin obrar!",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

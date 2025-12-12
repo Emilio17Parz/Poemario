@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Donde hubo rosa y clavel,\ncrece la espina y el cardo,\nllevo un recuerdo, un dardo,\nde aquel aroma a miel.\n\nSeco está el vergel,\ny yo me resguardo,\ndel sol gallardo,\nque quema la piel.\n\nParaíso marchitado,\ntriste y olvidado.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El recuerdo se va (7a),\nla luz sin final (5b),\nla vida que no da (7c),\nsin un fanal (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Recuerdo"
+  }
+}

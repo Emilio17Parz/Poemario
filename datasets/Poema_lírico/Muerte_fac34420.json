@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es el último adiós,\nel viaje a lo desconocido,\ndonde todo lo vivido,\nse queda entre nosotros dos.\nVolvemos a ser de Dios,\nlo que siempre hemos sido.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

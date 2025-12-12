@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Después de la tormenta y el rayo,\ndespués de la pelea y el grito,\ndespués de este dolor infinito,\ny de sufrir el último desmayo.\n\nLlega la calma cruel de mayo,\ndonde ya nada importa ni un hito,\ndonde el amor se queda proscrito,\ny yo, indiferente, me callo.\n\nNo queda odio, ni queda amor,\nsolo una nada blanca y quieta,\nsin alegría y sin dolor.\n\nHe llegado a la triste meta,\nde no sentir ningún sabor,\nni siquiera el de ser poeta.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "nada"
+  }
+}

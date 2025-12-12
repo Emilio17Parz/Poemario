@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llegó a la isla desierta,\núnico superviviente,\nlejos de toda gente,\ncon el alma abierta.\nAprendió a hacer fuego,\ny a pescar en el mar,\na vivir y a esperar,\nsin ningún apego.\nDescubrió en la soledad,\nsu propia verdad.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

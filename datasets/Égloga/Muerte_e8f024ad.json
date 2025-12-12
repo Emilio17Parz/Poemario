@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Las ninfas visten de negro,\ny el agua no quiere correr,\nporque al atardecer,\nmurió el pastor alegro.\nYa no me integro,\nal gozo del ser,\nsolo al padecer,\ndel luto integro.\nHasta los lobos aúllan,\nde pena y de espanto,\npor este quebranto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luto"
+  }
+}

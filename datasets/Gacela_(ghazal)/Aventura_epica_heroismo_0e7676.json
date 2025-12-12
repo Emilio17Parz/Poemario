@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos la gran leyenda,\nvive en los labios la gran leyenda.\n\nHéroes antiguos que vuelven hoy,\ngracias al canto de la leyenda.\n\nVerdad y mito se funden ya,\nen la memoria de la leyenda.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

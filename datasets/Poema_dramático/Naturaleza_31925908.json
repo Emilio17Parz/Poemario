@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "MARINERO: ¡Viento traidor, no rompas mi vela!\nVIENTO: Yo soplo donde me place, mortal.\nMARINERO: ¡Llévame a puerto, lejos del mal!\nVIENTO: Mi fuerza es salvaje y se rebela.\nSujétate fuerte o vuela conmigo,\nque soy a la vez tu juez y tu amigo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "viento"
+  }
+}

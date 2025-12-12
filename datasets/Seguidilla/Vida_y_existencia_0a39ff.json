@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tu vida es un libro (7a),\nque vas a escribir (5b),\nsin un solo quiebro (7c),\nsin sufrir (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Libro"
+  }
+}

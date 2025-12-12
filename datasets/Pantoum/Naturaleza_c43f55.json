@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bajo el azul vive el color,\nciudad de piedra y coral,\nrefugio del pez y su amor,\nun ecosistema vital.\n\nCiudad de piedra y coral,\njardín oculto y salado,\nun ecosistema vital,\npor el océano guardado.\n\nJardín oculto y salado,\nrefugio del pez y su amor,\npor el océano guardado,\nbajo el azul vive el color.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "coral"
+  }
+}

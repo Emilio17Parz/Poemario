@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No busques el aplauso vano\nni la pasajera gloria,\nque se esfuma como el humo\nen la humana memoria.\nBusca hacer el bien callado,\ncambiar la triste historia,\ny tendrás en el olimpo\nla corona promisoria.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

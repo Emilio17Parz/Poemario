@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La ceniza es el rastro\ndel fuego que fui ayer.\nMi único astro\npara poder ver.\n\nEl viento me lleva\nsin rumbo ni fin,\nla única prueba\nde un triste motín.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

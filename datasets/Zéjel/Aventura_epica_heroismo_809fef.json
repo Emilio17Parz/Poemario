@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El camino tiene valor,\nsin ningún temor.\n\nLa senda ya me llamó,\nla vida me probó,\ny el alma se me salvó,\nsin ningún temor.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

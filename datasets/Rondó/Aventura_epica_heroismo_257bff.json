@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nace el héroe sin temor,\ncon la espada en la mano.\nCruza el monte y el llano,\nbuscando el gran honor.\n\nLucha con gran valor,\ncontra el tirano.\nNace el héroe sin temor,\ncon la espada en la mano.\n\nSiente el calor,\ndel sol verano.\nNo es en vano,\nsu resplandor.\nNace el héroe sin temor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

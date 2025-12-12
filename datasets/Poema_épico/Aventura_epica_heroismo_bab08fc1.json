@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El caballo de madera,\nentró en la ciudad,\ncon falsa amistad,\ny gente guerrera.\nAbrió la frontera,\na la oscuridad,\ny la libertad,\nfue pasajera.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "asedio"
+  }
+}

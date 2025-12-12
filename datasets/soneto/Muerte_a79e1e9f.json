@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Detrás de ti camina paso a paso,\ndesde el primer aliento que tomaste,\nla sombra que jamás abandonaste\ny que te espera al fin de tu ocaso.\n\nIgnorarla procuras, por si acaso,\npero ella cobra todo lo que gaste\nel tiempo que en la tierra te quedaste,\ncerrando el ciclo con fatal retraso.\n\nLa muerte no es ajena, es compañera,\nes la otra cara de la monedita,\nla oscuridad que a la luz espera.\n\nCuando la fuerza vital se debilita,\nella te cubre con su paz entera\ny el último suspiro te quita.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

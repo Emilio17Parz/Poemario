@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te doy mi vida, te doy mi ser,\ntodo lo pongo a tus pies rendido,\nporque el amor es haber nacido\npara entregarse y para querer.\n\nGloria al momento de la entrega,\ndonde se pierde la voluntad,\ny se conquista la libertad\nen el cariño que no se niega.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "todo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Perdido estoy buscando en el laberinto,\nla salida secreta del laberinto.\n\nGiro a la izquierda y topo con la pared,\nme guía solamente mi instinto en el laberinto.\n\nEs la vida este cruce de mil caminos,\ny yo sigo vagando en el laberinto.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verso rimado,\nCon sentimiento,\nBien expresado.\nVerso rimado,\nY amado,\nAl viento.\nVerso rimado,\nCon sentimiento.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "verso"
+  }
+}

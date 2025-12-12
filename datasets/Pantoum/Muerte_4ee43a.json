@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Baja el cajón al hoyo,\nla tierra cae encima,\nse acaba todo apoyo,\nse llega a la cima.\n\nLa tierra cae encima,\nsonido sordo y grave,\nse llega a la cima,\nel cuerpo ya no cabe.\n\nSonido sordo y grave,\nse acaba todo apoyo,\nel cuerpo ya no cabe,\nbaja el cajón al hoyo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "hoyo"
+  }
+}

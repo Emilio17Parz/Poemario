@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Gusto sutil\nbuscar lo que es bello\nplacer del ojo.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "estética"
+  }
+}

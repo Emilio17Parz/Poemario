@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¿Qué es la gloria sino humo?\nUn nombre repetido por bocas ajenas,\nestatuas que el tiempo derribará.\nEl héroe busca la hazaña,\nno el aplauso.\nLa verdadera gloria es silenciosa:\nsaber que hiciste lo correcto\ncuando nadie miraba.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

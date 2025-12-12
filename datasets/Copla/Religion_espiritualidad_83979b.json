@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La esperanza es un puente fiel (a),\nque el alma sostiene ya (b),\nla vida es un trago de miel (c),\nla fuerza que me da (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Esperanza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sola me quedo,\ny tengo miedo.\n\nNadie me habla,\nsobre la tabla,\nla noche endiabla,\ny no puedo.\nSola me quedo,\ny tengo miedo.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Admiro la pura forma\nque esculpe el viento en la roca dura,\nperfecta hermosura\nque rompe la norma.\nEl alma conforma\nsu propia estructura,\ny ante tal gracia se transforma.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "forma"
+  }
+}

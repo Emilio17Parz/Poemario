@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mar insondable,\ntumba de marineros,\nsal y silencio.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "sal"
+  }
+}

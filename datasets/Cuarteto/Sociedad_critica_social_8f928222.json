@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La envidia es un veneno\nque mata la amistad,\ny rompe la bondad\nde todo lo que es bueno.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "mal"
+  }
+}

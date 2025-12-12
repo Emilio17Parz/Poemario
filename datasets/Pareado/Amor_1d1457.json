@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La calma me inunda, sin temor ni guerra (A),\ndespués que tu amor a mi alma se aferra (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Calma"
+  }
+}

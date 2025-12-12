@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La locura no es mala,\nes la paz del ser.\nLa suave escala\npara poder ver.\n\nMe quita la razón,\nme da la verdad,\nla única opción\nsin ninguna edad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "locura"
+  }
+}

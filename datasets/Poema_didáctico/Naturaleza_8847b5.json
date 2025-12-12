@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El depredador y la presa,\nmantienen la balanza,\nla naturaleza no cesa,\nen su eterna danza.\nSi rompes un eslabón,\ncae toda la creación.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Equilibrio"
+  }
+}

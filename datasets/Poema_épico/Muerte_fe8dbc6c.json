@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Murió con la espada en la mano,\nrodeado de enemigos muertos,\nsus ojos quedaron abiertos,\ncon el gesto soberano.\nLa gloria del ser humano,\nque cumple sus desaciertos,\ny deja los campos cubiertos,\nde sangre en el verano.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

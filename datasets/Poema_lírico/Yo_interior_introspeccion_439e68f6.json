@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En la quietud de un alma pensativa,\nCuando el mundo exterior se calla al fin,\nDesciendo a sendas de la vida esquiva,\nAl claro oscuro de mi propio confín.\n\nUn eco suave, un hálito fugaz,\nDespierta esencias de un ayer lejano,\nY mi conciencia, en su sereno solaz,\nDesvela velos con temblor de mano.\n\nUn laberinto de cristal y bruma,\nQue un eco antiguo resguarda con veto,\nGuarda el murmullo de una tierna espuma,\nMi más profundo y tácito secreto.\n\nSoy río y roca, sombra y resplandor,\nUn universo en constante devenir,\nMirando espejos de mi propio interior,\nSin comprender del todo mi sentir.\n\nLa búsqueda no cesa, el viaje dura,\nPor las profundas simas del pensar,\nMi esencia misma, misterio que perdura,\nUn alma abierta que se atreve a soñar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

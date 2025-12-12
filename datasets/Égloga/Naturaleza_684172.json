@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cuelga la manzana roja,\ndel árbol cargado y lleno,\nregalo dulce y bueno,\nque la rama desaloja.\n\nLa tierra no se enoja,\nal darnos su producción,\nsino que es bendición,\nque en nuestra mano se aloja.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "fruto"
+  }
+}

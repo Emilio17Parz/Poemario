@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL NAVEGANTE]\nYa no hay velas, el timón está roto. Estamos a merced de la ballena y del cielo.\nLa nave es un ataúd flotante, pero yo no grito. Yo observo el horizonte.\nLa fe no está en el puerto, está en la aceptación de este momento final.\nSi Dios existe, que venga. O si no, que el mar sepa que morimos luchando.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "nave"
+  }
+}

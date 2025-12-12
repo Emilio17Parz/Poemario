@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La lanza se ha quebrado,\npero no mi voluntad.\nEl cuerpo ha sangrado\nen la cruel realidad.\n\nLuchar no es ganar,\nes atreverse a caer,\nla única forma\npara poder ser.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "lanza"
+  }
+}

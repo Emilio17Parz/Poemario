@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Preparo mi equipaje,\npara el viaje final,\nsin billete ni pasaje.\n\nEs el peaje,\nfundamental,\npreparo mi equipaje.\n\nSin el traje,\nde lo mortal,\nsin billete ni pasaje.\n\nCon coraje,\ny natural,\npreparo mi equipaje.\n\nSin chantaje,\nni vendaval,\nsin billete ni pasaje.\n\nBuen viaje,\nal más allá,\npreparo mi equipaje,\nsin billete ni pasaje.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

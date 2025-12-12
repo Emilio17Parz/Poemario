@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos polvo y nada más,\nque el viento se llevará,\nsin mirar nunca atrás.\n\nNo volverás,\nni volverá,\nsomos polvo y nada más.\n\nLo que verás,\nse acabará,\nsin mirar nunca atrás.\n\nDonde estarás,\nse perderá,\nsomos polvo y nada más.\n\nTu paz tendrás,\ny bastará,\nsin mirar nunca atrás.\n\nDescansarás,\ny callará,\nsomos polvo y nada más,\nsin mirar nunca atrás.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

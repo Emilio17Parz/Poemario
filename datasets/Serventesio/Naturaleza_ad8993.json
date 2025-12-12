@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar bate con fuerza en la orilla,\ncon su espuma de blanco resplandor,\nes del mundo la gran maravilla,\nque nos llena de paz y de temor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "mar"
+  }
+}

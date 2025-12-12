@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me dijiste adiós en la puerta,\nRompiendo mi pobre ilusión,\nDejando mi alma desierta.\nMe dijiste adiós en la puerta,\nLa herida se queda abierta,\nPerdiendo toda razón.\nMe dijiste adiós en la puerta,\nRompiendo mi pobre ilusión.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

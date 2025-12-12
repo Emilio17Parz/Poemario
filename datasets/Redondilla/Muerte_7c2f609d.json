@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El ser que fue, su luz apaga,\nreposa ya en la fría tumba,\ndonde la eternidad nos zumba,\nninguna pena ya nos plaga.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

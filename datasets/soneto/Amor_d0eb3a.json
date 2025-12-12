@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dos astros se detienen en tu cara,\nreflejo de un abismo cristalino,\ndonde se pierde el rastro del camino\ny el tiempo en su carrera se separa.\n\nNo hay joya que a tu brillo se equipara,\nni luz que tenga un fuego tan divino,\neres el dulce y mágico destino\nque el cielo para mí siempre prepara.\n\nSi cierras esos ojos, todo muere,\nse apaga el universo en un instante,\ny el corazón herido se requiere.\n\nPero al abrirlos, surge fulgurante\nla vida que mi ser tanto prefiere,\nvolviéndose mi mundo fascinante.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

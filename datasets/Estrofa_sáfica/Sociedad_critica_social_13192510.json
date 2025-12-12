@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mano extendida que limosna pide,\nrostro curtido por el sol y el frío,\nvergüenza viva de la ciudad rica\ny el hastío.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

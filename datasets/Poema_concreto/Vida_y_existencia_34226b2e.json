@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": " T I E M P O \n  \\       /  \n   \\ tic /   \n    \\tac/    \n     \\ /     \n      .      ",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hay un hilo invisible\nque me ata a tu muñeca.\nSe estira cuando te alejas,\npero nunca se rompe.\nPuedo sentir tus tirones\nal otro lado de la ciudad,\ny sé, sin duda alguna,\nque siempre encontraré el camino\nde vuelta a tus manos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "hilo"
+  }
+}

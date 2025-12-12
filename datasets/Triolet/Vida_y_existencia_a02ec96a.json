@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco la luz de la verdad,\nen medio de la oscuridad,\nlejos de la falsedad.\nBusco la luz de la verdad,\ncon total sinceridad,\ny buena voluntad.\nBusco la luz de la verdad,\nen medio de la oscuridad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El valle se extiende, un verde manto sin par (A),\ncon flores silvestres de gran color (B),\nel aire es de vida, que sabe sanar (A).\n\nLa tierra que ofrece su puro fulgor (B),\nla calma que inunda mi fiel corazón (C),\nla esencia del gran amor (B).\n\nPor él mi alma vive, mi ser tiene razón (C),\nel eterno canto de la libertad (D),\nla única y dulce lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Valle"
+  }
+}

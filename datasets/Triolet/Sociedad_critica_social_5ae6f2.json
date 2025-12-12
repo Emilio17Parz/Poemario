@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sudor en la frente,\nPor el pan diario,\nDe tanta gente.\nSudor en la frente,\nBajo el sol ardiente,\nEn el calvario.\nSudor en la frente,\nPor el pan diario.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sudor"
+  }
+}

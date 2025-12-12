@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Prometen el oro\ny luego no dan,\nson los políticos\nque siempre van.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "política"
+  }
+}

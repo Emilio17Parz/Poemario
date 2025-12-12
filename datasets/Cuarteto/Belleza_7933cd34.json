@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza, un suspiro del espacio,\nQue el corazón atesora en su palacio.\nEn cada obra de sublime arte,\nEncuentra el alma su mejor baluarte.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

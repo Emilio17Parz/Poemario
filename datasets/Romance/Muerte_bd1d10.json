@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Vela se apaga lento,\nme deja sin un ser,\ny mi alma es un lamento,\nsin un solo gran poder.\n\nYo te busco en la noche,\ny no encuentro ya tu ser,\nmi alma ya se reproche,\nsin un solo gran poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Vela"
+  }
+}

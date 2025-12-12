@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus ojos, clara luz,\nque al alma mía dan la dulce calma;\nsi en ellos hallo al fin mi propia alma,\ncargando con mi cruz,\nya no siento dolor ni desconsuelo,\nsino un trozo de cielo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

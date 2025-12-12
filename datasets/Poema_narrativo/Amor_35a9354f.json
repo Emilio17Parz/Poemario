@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tomó su guitarra bajo la luna,\ny cantó bajo la ventana cerrada,\nuna canción triste y apasionada,\nesperando una señal, alguna.\nLa luz se encendió tras la cortina,\nuna sombra se vio perfilar,\nél cantó más fuerte para enamorar,\na la dueña de su alma peregrina.\nCayó una rosa desde la altura,\npremio a su canto y su locura.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "serenata"
+  }
+}

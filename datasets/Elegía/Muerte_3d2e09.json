@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sueño que yaces sin un final,\nel cuerpo que duerme sin despertar.\nTu calma es eterna, el golpe fatal,\nel alma sin poder amar.\nEl reposo es frío, la vida se fue,\nla pena que el tiempo ve.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

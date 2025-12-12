@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sombra que nubla el sol de la certeza,\npregunta eterna que no tiene respuesta,\nuna cuesta,\nque subimos con poca fortaleza.\n¿Quiénes somos y a dónde nos marchamos?\n¿Por qué amamos?\nMisterio que el silencio nos devuelve,\ny no resuelve.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pregunta"
+  }
+}

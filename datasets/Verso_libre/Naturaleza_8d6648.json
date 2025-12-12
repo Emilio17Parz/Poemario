@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se apaga el interruptor del sol\ny se encienden las luciérnagas del cosmos.\nLa noche no es negra,\nes azul profundo,\nllena de ruidos secretos\ny de sueños que escapan por la ventana.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "noche"
+  }
+}

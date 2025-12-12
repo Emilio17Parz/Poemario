@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Esperó en la estación, bajo el humo y el hierro,\nViendo partir el tren, con su alma en el entierro.\nÉl iba en la ventana, con la cara de yeso,\nDejando el equipaje más pesado, el beso.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "tren"
+  }
+}

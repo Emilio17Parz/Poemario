@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuerpo que escribe en el viento,\ngesto que se vuelve arte,\npuro y libre movimiento\nque nos lleva a otra parte.\nGiro, salto y caída,\nequilibrio y pasión,\nla carne cobra vida\nen perfecta comunión.\nCelebración del espacio,\nritmo hecho visual,\nun efímero palacio\nde belleza corporal.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "danza"
+  }
+}

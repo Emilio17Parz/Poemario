@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si te ofendí, perdona mi torpeza,\nno quise herir tu corazón amado,\nquiero volver a estar a tu costado,\nsin más rencores.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "V alorar el presente,\nI ntentar mejorar,\nV encer a la corriente,\nI r siempre a ganar,\nR eír eternamente.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "vivir"
+  }
+}

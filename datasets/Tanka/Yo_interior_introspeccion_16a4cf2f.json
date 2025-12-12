@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Alma se asoma,\nen el reflejo azul\ncruza el espejo.\nLo que siento es real\nmi yo profundo al fin.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

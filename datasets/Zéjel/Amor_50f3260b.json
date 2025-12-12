@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde mi corazón,\ncon esta gran pasión.\n\nFuego que no se apaga,\ndulce y tierna llaga,\nque mi pecho indaga,\nsin pedir la razón.\n\nArde mi corazón,\ncon esta gran pasión.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

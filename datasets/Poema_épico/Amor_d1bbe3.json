@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Rechacé la corona de laurel y oro,\npor la corona de flores que tejiste,\nese fue mi triunfo, mi mayor tesoro,\nel reino más grande que jamás existe.\nEmperador soy de tu piel y tu risa,\nlo demás es polvo que lleva la brisa.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Corona"
+  }
+}

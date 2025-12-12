@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El frío manto que la vida cesa,\ndejando el cuerpo en su quietud expresa,\nnos lleva al fin, cual río caudaloso.\n\nEl velo oscuro, el viaje doloroso,\nel último aliento, un adiós penoso,\ndonde la luz se apaga y todo calla.\n\nTras el umbral, sin voz que ya no halla,\nque al alma errante con su paz avalla,\nsolo el silencio y la profunda sombra.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

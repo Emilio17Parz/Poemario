@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Torrente que saltas con ímpetu fiero,\ncantando tu himno al mundo entero!\nEspuma blanca que al aire se lanza,\nsímbolo eterno de la esperanza.\n\n¡Gloria a la fuerza del agua en caída,\nque es movimiento y fuente de vida!\nTu ruido constante es música santa,\nque la belleza salvaje levanta.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "cascada"
+  }
+}

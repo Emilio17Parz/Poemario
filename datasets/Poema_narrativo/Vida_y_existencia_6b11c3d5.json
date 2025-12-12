@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Salió sin rumbo fijo,\ncon la mochila al hombro,\nbuscando el asombro,\ny lo que el destino dijo.\nConoció mil ciudades,\ny gentes de todo color,\nprobó el vino y el dolor,\ny muchas verdades.\nEncontró que el viaje,\nera el único equipaje.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "búsqueda"
+  }
+}

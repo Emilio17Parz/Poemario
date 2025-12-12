@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La calle está llena\nde pies sin dolor.\nLa suave cadena\nsin ningún color.\n\nMarchamos sin rumbo,\nsin voz ni razón,\nla vida que se derrumba\nsin ninguna opción.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "marcha"
+  }
+}

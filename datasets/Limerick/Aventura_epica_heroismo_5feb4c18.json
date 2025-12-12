@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fueron a la guerra santa,\ncon dolor de la garganta,\ngritaron tan poco,\nque pareció un moco,\ny huyeron bajo la manta.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Batalla"
+  }
+}

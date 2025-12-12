@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Humo en el aire,\nrío de agua negra,\nmuere la tierra.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "polución"
+  }
+}

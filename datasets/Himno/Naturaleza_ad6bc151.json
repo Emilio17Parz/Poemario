@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viajero eterno de plata líquida,\nque bajas cantando hacia la mar,\nnada te puede nunca parar,\nen tu carrera clara y nítida.\n\n¡Gloria al río que da la vida!\nSangre azul de la tierra entera,\ncorre brillante por la pradera,\nhasta la meta prometida.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "corriente"
+  }
+}

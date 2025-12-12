@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No hace falta que hables; tu presencia es una lámpara encendida que desplaza todas las sombras de la habitación.\nEstar contigo es habitar un domingo perpetuo, una tarde de paz donde nada falta y nada sobra.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "presencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco calma,\npara el alma.\n\nEn silencio,\nque presencio,\nme agencio,\nuna palma.\n\nBusco calma,\npara el alma.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "calma"
+  }
+}

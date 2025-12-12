@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mezcla de aceite, tierra y de color,\nque sobre la tela blanca despierta,\nabriendo una ventana, una puerta,\na un mundo de belleza y de dolor.\n\nEl pincel obedece al creador,\ntrazando la línea firme o incierta,\ndejando la emoción al descubierto,\ncon un lenguaje mudo y superior.\n\nRetratos que nos miran desde ayer,\npaisajes que jamás se marchitarán,\ny sueños que podemos ver y creer.\n\nLos siglos y los tiempos pasarán,\nmas la pintura volverá a nacer,\ny sus colores siempre brillarán.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

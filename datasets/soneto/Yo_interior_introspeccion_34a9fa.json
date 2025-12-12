@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi mente es un laberinto,\nde pasillos y de puertas,\ncon ideas muertas,\ny distinto.\n\nEl instinto,\ndesiertas,\ny ciertas,\nque pinto.\n\nBusco el hilo de Ariadna,\npara poder salir,\nde la aduana.\n\nY vivir,\nla mañana,\nalir.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pasillos"
+  }
+}

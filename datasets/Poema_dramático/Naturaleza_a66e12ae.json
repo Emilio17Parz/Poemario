@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "RÍO: ¡Apártate, piedra, déjame pasar!\nPIEDRA: Aquí me plantaron, no me voy a mudar.\nRÍO: Te rodearé entonces, te puliré.\nPIEDRA: Haz lo que quieras, yo aguantaré.\nRÍO: Con el tiempo serás arena fina.\nPIEDRA: Y tú serás mar en la neblina.\nAmbos cambiamos, esa es la ley.\nRÍO: Yo fluyo libre, como un rey.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "camino"
+  }
+}

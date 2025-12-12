@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Fui a una fiesta el sábado,\ny terminé muy acabado.\nMe duele todo,\nhasta el codo,\nestoy desarticulado.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "fiesta"
+  }
+}

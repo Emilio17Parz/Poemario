@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Desterrado fui de la tierra natal,\npero encontré patria en tu abrazo,\nun territorio sin ley y sin mal,\ndonde no existe ni el tiempo ni el plazo.\nSi esto es exilio, que cierren la puerta,\npues mi libertad en ti despierta.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Exilio"
+  }
+}

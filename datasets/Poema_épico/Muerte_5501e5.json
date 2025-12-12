@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Palabras cortadas con cincel duro,\n'Aquí yace un hombre de bien y honor',\nmensaje breve, solemne y puro,\npara el viajero y el soñador.\nLa última voz que queda en la tierra,\ncuando la boca la muerte cierra.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Epitafio"
+  }
+}

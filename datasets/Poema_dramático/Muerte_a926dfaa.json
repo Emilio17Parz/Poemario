@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "MORIBUNDO: ¿Es este el fin? Se apaga la luz.\nLA MUERTE: Es solo el comienzo de otro viaje.\nMORIBUNDO: No llevo maleta, ni llevo equipaje.\nLA MUERTE: Solo te llevas tu propia cruz.\nDame la mano, no tengas temor,\nse acaba el tiempo y también el dolor.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "fin"
+  }
+}

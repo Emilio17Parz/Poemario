@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos sabios,\nhistorias de un gigante.\nEn todos los labios,\nsu nombre resonante.\n\nHistorias de un gigante,\nque salvó la ciudad.\nSu nombre resonante,\npor toda la eternidad.\n\nQue salvó la ciudad,\ncuentan los viejos sabios.\nPor toda la eternidad,\nen todos los labios.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

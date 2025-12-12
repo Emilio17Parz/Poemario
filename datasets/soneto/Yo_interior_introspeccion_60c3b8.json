@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco mi propia verdad,\nno la que otros me dieron,\nni la que impusieron,\ncon autoridad.\n\nQuiero la claridad,\nque mis ojos vieron,\nlo que mis manos asieron,\ncon honestidad.\n\nSer fiel a uno mismo,\nes la única ley,\ncontra el abismo.\n\nNo seguir al rey,\nni al catecismo,\nsi no es de mi grey.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

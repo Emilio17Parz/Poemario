@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Anoche soñé contigo\ny no quería despertar,\nporque en mis sueños, mi vida,\ntú me volvías a amar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

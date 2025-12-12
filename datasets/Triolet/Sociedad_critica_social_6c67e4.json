@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El golpe duele,\nEn la dignidad,\nY a sangre huele.\nEl golpe duele,\nQue nos consuele,\nLa libertad.\nEl golpe duele,\nEn la dignidad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "golpe"
+  }
+}

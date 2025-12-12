@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Eres apenas sombra\nque se desliza por el pensamiento,\ncausando sufrimiento\ncuando mi voz te nombra.\nEl alma se asombra\nde ver que lo que siento\nes polvo que cubre nuestra alfombra.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

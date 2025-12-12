@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Estaba marcado,\nque fueras el héroe de la historia;\nla victoria,\nal lado.\nNo puedes huir de lo que eres,\nsi no quieres.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "destino"
+  }
+}

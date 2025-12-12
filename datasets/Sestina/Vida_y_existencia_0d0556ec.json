@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es constante lucha,\ncontra el viento y la marea,\npara mantenerse en pie.\nAunque a veces pierda la fe,\nvuelvo a levantar la frente,\ny sigo mirando al sol.\n\nMirando al sol,\nsigo la lucha,\nvaliente.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

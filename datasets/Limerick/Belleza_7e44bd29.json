@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una belleza con gracia sin par,\nQue a todo ojo sabía encantar.\nMi musa, al mirarla,\nQuise adorarla,\nSu luz mi espíritu supo elevar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "musa"
+  }
+}

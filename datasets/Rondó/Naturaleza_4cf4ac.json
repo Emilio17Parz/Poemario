@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae el rayo atroz,\nrompiendo la calma,\ntocando el alma,\ncon luz veloz.\nUn grito feroz,\nque no empalma.\nCae el rayo.\n\nEl cielo se enfada,\nllora con rabia,\nsu vieja labia,\ndesatada.\nLa tierra mojada,\nes siempre sabia.\nCae el rayo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "rayo"
+  }
+}

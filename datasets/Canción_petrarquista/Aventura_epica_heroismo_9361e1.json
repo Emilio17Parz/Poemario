@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos sabios\nhistorias de gigantes y de hadas;\ncosas pasadas\nque en sus labios\ncobran la vida de la realidad;\nla verdad\nse mezcla con el mito,\nen este eterno y mágico rito.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

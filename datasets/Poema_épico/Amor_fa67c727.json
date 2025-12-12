@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Penélope teje en la sala vacía,\nesperando al rey que surca el mar,\nveinte años no bastan para olvidar,\nla promesa de amor que los unía.\nRechaza a los nobles con valentía,\nsu corazón solo sabe esperar,\naquel barco que ha de regresar,\ncon la luz de una nueva y gran día.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "lealtad"
+  }
+}

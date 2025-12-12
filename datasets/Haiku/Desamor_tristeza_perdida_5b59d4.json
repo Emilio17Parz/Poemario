@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hielo en el alma\nse congeló la risa\neterna nieve.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

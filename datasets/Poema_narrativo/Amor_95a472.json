@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La noche era un manto de terciopelo azul,\nY ellos se contaron lo que guardaban bajo el tul.\nEl miedo se durmió, la duda ya no existe,\nSolo la suave luz que el alma resiste.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "noche"
+  }
+}

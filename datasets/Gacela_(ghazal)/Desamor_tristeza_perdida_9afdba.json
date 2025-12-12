@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Busco la paz en el mar del olvido,\npero tu recuerdo vence al olvido.\n\nTodo lo nuestro se ha destruido,\ny aun así no encuentro el olvido.\n\nSigue tu nombre en mi pecho latido,\nrebelde memoria que niega el olvido.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Agua cayendo,\ny rompiendo.\n\nSalto mortal,\ntan natural,\ny caudal,\ncorriendo.\nAgua cayendo,\ny rompiendo.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "cascada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pico nevado,\ntocando las estrellas\nen soledad.\nVigilas desde arriba\nel valle que descansa.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

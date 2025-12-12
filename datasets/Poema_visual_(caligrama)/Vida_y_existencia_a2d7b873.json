@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "|------|\n| Paso |\n|  a   |\n| Ser  |\n|------|",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

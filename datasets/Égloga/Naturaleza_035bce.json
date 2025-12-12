@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cuando la noche tiende su manto,\nse encienden mil ojos de plata,\nuna belleza que desata,\nmi admiración y mi canto.\n\nEstrellas que miráis mi llanto,\no mi dicha en el pastoreo,\nen vuestra luz yo siempre leo,\nel misterio del mundo santo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

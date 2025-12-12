@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Abril florido, testigo del amor más bello,\nhoy tu recuerdo me causa dolor.\nLas flores caen, roto está aquel sello,\nno queda sino el lamento y el temor.\nLa primavera se ha vuelto agonía,\npor la partida de tu dulce día.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Abril"
+  }
+}

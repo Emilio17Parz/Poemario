@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla el acero bajo el sol ardiente,\ncompañera fiel en la batalla,\nque no falla,\ndefendiendo al justo y al inocente.\nBrazo fuerte que empuña la verdad,\nbondad,\ncon el valor de un corazón de león,\ny pasión.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "espada"
+  }
+}

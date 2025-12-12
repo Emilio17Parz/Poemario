@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Te quejas de las cadenas,\nque te causan penas.\nSon la hipoteca y el coche,\ny salir por la noche.\nNadie te obligó a comprar,\nlo que no puedes pagar.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

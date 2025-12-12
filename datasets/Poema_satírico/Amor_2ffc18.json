@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amar a quien ni te conoce,\nidealizando su ser,\nsin que la piel se roce,\nni se pueda corromper.\nEs cómodo y muy barato,\namar solo en el retrato.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Platónico"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Estructura desnuda,\nlo que queda después de la ilusión;\nsin corazón,\nla imagen cruda.\nHuesos que sostuvieron la existencia,\ny la conciencia.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "esqueleto"
+  }
+}

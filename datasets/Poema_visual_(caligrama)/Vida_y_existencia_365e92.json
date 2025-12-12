@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Curva de duda\npunto de abajo\npor qué estoy\nen este mundo\nquién soy yo\nmisterio grande\nsin respuesta.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "duda"
+  }
+}

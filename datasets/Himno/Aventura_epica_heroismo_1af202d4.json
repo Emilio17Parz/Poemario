@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "¡Oh, Aventura, llama que en el alma arde,\nAntorcha sagrada que la noche escarde!\nA ti, Heroísmo, estandarte del bravo,\nQue del destino el gran rumbo ha grabado.\n\nSe alza el clamor, la trompeta resuena,\nY el corazón a la gesta se entrena.\nUn **viaje** sagrado, promesa de gloria,\nQue inscribe sus hechos en la eterna memoria.\n\nPor cumbres heladas, por desiertos ardientes,\nEn mares furiosos o bosques latentes,\nEl héroe no teme la fiera emboscada,\nSu temple es acero, su fe, inquebrantada.\n\nNo es vana la lucha, no es ciego el destino,\nUn don de los dioses marca su camino.\nPor causas sublimes, por mundos que esperan,\nSus actos heroicos jamás perecerán.\n\nLa sombra ha caído, el bien ha vencido,\nUn nuevo amanecer se ha ya cernido.\nLa gloria le ciñe su corona inmortal,\nLeyenda que canta el valor ancestral.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

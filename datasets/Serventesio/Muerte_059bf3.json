@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo tiene su fin en esta vida,\nla muerte nos espera al final,\nes la meta segura y conocida,\nde nuestro caminar temporal.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "final"
+  }
+}

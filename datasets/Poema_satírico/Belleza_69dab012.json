@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Belleza, ese altar de cera y de afeite,\nDictado tirano de un canon falaz,\nQue al alma condena, y al cuerpo somete\nA un juego de espejos, sin tregua ni paz.\n\nSe busca en el tajo, en la aguja sutil,\nEn pócimas caras de incierta eficacia,\nEl rostro sin pliegues, el porte gentil,\nUn molde de arcilla, de efímera gracia.\n\n¡Qué importa si el seso se muestra vacío,\nSi el gesto es de hiel, o el espíritu ruin!\nSi la *forma* es esbelta, el contorno, un idilio,\nSe gana la ovación, se evita el confín\nDel juicio que mira más allá del velo,\nY escarba en la esencia la oculta verdad.\n\nEl rubor postizo, el rímel del cielo,\nPrometen la dicha, la eterna bondad;\nMas bajo la capa de brillo fugaz,\nSe esconde la prisa, la angustia, el temor\nDe ver cómo el tiempo, con paso tenaz,\nDevora la máscara, el falso esplendor.\n\nQue cese la farsa, el culto insensato\nA un ídolo hueco, de barro y cristal;\nPues la luz verdadera, el genuino arrebato,\nNo vive en la efigie, sino en el caudal\nDe un alma que brilla por propia sustancia,\nSin *forma* que engañe, sin vana elegancia.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "forma"
+  }
+}

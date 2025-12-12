@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Acero noble de luz y de gloria,\nque defendiste la causa del bien,\nsin someterte a ninguno rehén,\nmarcando el rumbo de la vieja historia.\nQueda tu brillo en nuestra memoria,\nsímbolo eterno de fuerza y sostén.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

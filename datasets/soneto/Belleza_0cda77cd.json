@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lenguaje universal que no se escribe,\nque entra por el oído al sentimiento,\ny mueve con su rítmico argumento\nla fibra que en el alma se percibe.\n\nLa melodía vuela y se recibe\ncomo un divino y dulce sacramento,\ncalmando el dolor y el sufrimiento\nde quien en la tristeza se suscribe.\n\nSonidos que dibujan emociones,\nque hacen llorar o reír sin causa,\ny rompen las mentales prisiones.\n\nLa música no admite tregua o pausa,\nes reina de las bellas invenciones,\ny siempre nuestra dicha encausa.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "música"
+  }
+}

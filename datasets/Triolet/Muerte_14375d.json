@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El alma sube al cielo,\nBuscando la paz,\nDejando el suelo.\nEl alma sube al cielo,\nEn un vuelo,\nTenaz.\nEl alma sube al cielo,\nBuscando la paz.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

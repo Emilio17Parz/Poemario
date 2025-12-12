@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es muy largo el camino\nque nos toca recorrer,\nbuscando nuestro destino\nhasta el anochecer.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus manos recorren mi espalda cansada,\ny borran el peso de la jornada,\nson como dos aves de vuelo sutil,\nque traen la calma del mes de abril.\nCon cada caricia me siento sanar,\ny todo lo malo se empieza a olvidar,\nno dejes de hacerme sentir tu calor,\nque es la medicina de mi dolor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "caricia"
+  }
+}

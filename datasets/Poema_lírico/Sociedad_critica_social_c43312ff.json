@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Llora la gente,\nbajo el yugo,\ndel verdugo,\ninclemente.\nNadie siente,\nsu jugo.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Recuerdo los momentos que vivimos,\nque llenan de dolor mi triste día,\npor todo lo que un tiempo compartimos.\n\nAquella vieja y dulce melodía,\nque ahora suena rota y desafina,\ncubriendo de pesar mi travesía.\n\nLa pena me domina.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "nostalgia"
+  }
+}

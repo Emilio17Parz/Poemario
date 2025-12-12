@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Salva mi alma\nde la maldad,\ndame la calma.\nSalva mi alma,\nbajo la palma\nde la verdad.\nSalva mi alma\nde la maldad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "alma"
+  }
+}

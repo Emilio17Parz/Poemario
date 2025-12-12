@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ya descansaste del dolor terreno,\nduerme tranquilo sin sufrir espanto,\nlejos del ruido y del pesar amargo\ndel llanto.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "paz"
+  }
+}

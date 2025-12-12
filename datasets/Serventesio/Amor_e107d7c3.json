@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tus labios encuentro dulce miel,\nun remedio para mi gran dolor,\ny al sentir el contacto de tu piel,\nme consumo en el fuego de tu amor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "miel"
+  }
+}

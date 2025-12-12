@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pequeño bulto de pluma,\nque ya no surca el viento,\nse acabó tu movimiento,\ny tu canto en la bruma.\n\nLa tierra ligera te suma,\na su eterno sedimento,\nsin gloria ni monumento,\nsolo el olvido que abruma.\n\nAlas quietas para siempre,\nque el frío suelo siembre.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "pájaro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "c\n a\n  y\n   e\n    n\n     d\n      o\n\n   en ti",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "caída"
+  }
+}

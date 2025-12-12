@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Salicio:\n¡Alarma, pastores, que viene el lobo!,\nbajando fiero por la cañada,\ncon la mirada ensangrentada,\ny el diente listo para el robo.\n\nTomad la lanza y el palo,\nque hay que salvar al cordero,\ny demostrar que el ganadero,\nno teme al bicho malo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "lobo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Nota sonora,\nQue llega al alma,\nY enamora.\nNota sonora,\nA la hora,\nDe calma.\nNota sonora,\nQue llega al alma.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "nota"
+  }
+}

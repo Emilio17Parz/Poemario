@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Voy a conquista,\nde la gran lista.\n\nTierra lejana,\ntan soberana,\ny tan humana,\na la vista.\n\nVoy a conquista,\nde la gran lista.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El barco hundido,\nse queda,\nentre la seda,\ndel mar.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "hundido"
+  }
+}

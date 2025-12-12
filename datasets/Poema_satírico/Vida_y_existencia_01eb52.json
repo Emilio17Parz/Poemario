@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ser conocido por nada,\nsalir en la televisión,\nvida prefabricada,\nsin ton ni son.\nÍdolos de barro,\nque no valen un jarro.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Famoso"
+  }
+}

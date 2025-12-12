@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla la espada de acero\nen la mano del guerrero,\nque defiende con esmero\nsu reino verdadero.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "acero"
+  }
+}

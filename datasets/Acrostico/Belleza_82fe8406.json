@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "A lma que se expresa,\nR ompiendo la rutina,\nT razo que nos besa,\nE scencia cristalina.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "arte"
+  }
+}

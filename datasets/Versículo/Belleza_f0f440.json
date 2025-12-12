@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hay voces que son como terciopelo o agua clara, sonidos que acarician el oído y calman la mente agitada.\nLa belleza de la voz humana reside en su capacidad para transmitir la emoción desnuda, vibrando en el aire.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "voz"
+  }
+}

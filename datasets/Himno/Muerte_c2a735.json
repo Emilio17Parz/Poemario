@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Terror ancestral ante lo ignoto,\nque deja el corazón roto.\n¿Qué habrá después del último paso?,\n¿la luz divina o el negro ocaso?\n\n¡Venced al miedo con fe y con valor,\npues es la muerte el paso mayor!\nPuerta obligada de la existencia,\nque requiere de toda paciencia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

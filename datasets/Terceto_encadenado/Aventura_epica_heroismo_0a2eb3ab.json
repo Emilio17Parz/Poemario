@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "En el confín del mundo, el sol se oculta,\nUna leyenda antigua, un viejo arcano,\nMientras la sombra de la noche abulta.\n\nUn juramento escrito en el verano,\nImpulsa al héroe a tierras sin final,\nCon el acero firme en propia mano.\n\nEnfrenta bestias de poder letal,\nPor valles y montañas su voz truena,\nAnte el embate de un destino fatal.\n\nNinguna duda su alma encadena,\nSu fuerza nace de un ideal profundo,\nY su valiente *honor* su ser ordena.\n\nPor cada amigo que cayó en el mundo,\nPor la justicia y un futuro en paz,\nEl golpe asesta, certero y rotundo.\n\nNo hay miedo que su espíritu deshaga,\nAlza la espada, cual fulgor dorado,\nNi muro que su audacia no propaga.\n\nCon el deber cumplido, el mal domado,\nEl héroe vuelve al fin de su jornada.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "honor"
+  }
+}

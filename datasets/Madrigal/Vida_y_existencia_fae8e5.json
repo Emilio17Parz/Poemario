@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Perdidos en las vueltas,\nde un mundo que confunde la razón;\nsin corazón,\npenas sueltas.\nBuscamos la salida con anhelo,\nbajo el cielo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

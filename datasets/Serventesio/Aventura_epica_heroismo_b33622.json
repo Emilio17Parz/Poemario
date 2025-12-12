@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La gloria se alcanza con el noble y leal sudor (A),\nel nombre que brilla, sin un final (B),\nno hay más riqueza, no hay más fulgor (A),\nque el triunfo que es ya inmortal (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Gloria"
+  }
+}

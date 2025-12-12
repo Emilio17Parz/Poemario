@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos nada, somos polvo\nen el viento del desierto,\nes un destino muy cierto\nque en mi mente revuelvo.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Comienza el largo y peligroso viaje,\nhacia tierras de mito y de leyenda,\ncon la esperanza como equipaje.\n\nSiguiendo una difícil y ardua senda,\ncruzando mares y altas montañas,\npara que el mundo su valor entienda.\n\nY cante sus gloriosas hazañas.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

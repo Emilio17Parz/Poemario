@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cabalga el caballero,\ncon armadura de plata,\ny lanza en ristre.\nAunque el mundo esté triste,\nél lleva la justicia,\nen la punta de su acero.\n\nDe su acero,\nel caballero,\ny su albricia.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

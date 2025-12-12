@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo halló en la mina,\nentre el carbón,\nun pedazo de don,\nde luz cristalina.\nLo pulió con esmero,\nhasta hacerlo brillar,\ny poder deslumbrar,\nal mundo entero.\nEra luz atrapada,\nen piedra helada.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

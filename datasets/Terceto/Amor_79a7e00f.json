@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No hacen falta palabras si me miras,\npues tu silencio dice que me amas,\ny en el aire tu esencia siempre giras.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "paz"
+  }
+}

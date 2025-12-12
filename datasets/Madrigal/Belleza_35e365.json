@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dos luceros claros,\nque alumbran con su brillo mi camino;\nregalo divino,\ntan raros.\nEn ellos veo la paz reflejada,\ny la alborada.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza no muere,\nes la cruel verdad.\nLa vida que me hiere\nsin ninguna edad.\n\nMe da la tristeza,\ny también la fe,\nla dulce certeza\nsin ningún por qué.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "eterna"
+  }
+}

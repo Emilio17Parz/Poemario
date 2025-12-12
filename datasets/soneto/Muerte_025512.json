@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Qué habrá después de la luz final?\n¿Un coro de ángeles o la nada?\n¿Una pradera verde y sagrada?\n¿O un abismo negro y sideral?\n\nEs la pregunta fundamental,\nque la humanidad tiene clavada,\nuna frontera nunca cruzada,\npor ningún ser vivo y terrenal.\n\nLa fe nos pinta un reino de gloria,\nla ciencia nos habla de apagar,\ny cerrar el libro de la historia.\n\nQuizás sea volver a empezar,\no perderse en la gran memoria,\ndel universo y su respirar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "más_allá"
+  }
+}

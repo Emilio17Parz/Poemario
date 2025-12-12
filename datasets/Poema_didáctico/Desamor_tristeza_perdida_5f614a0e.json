@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Es necesario llorar la pérdida,\npara que el alma no quede herida.\nNo reprimas el llanto ni el dolor,\npues son del duelo el sanador.\nCada lágrima limpia el ayer,\ny prepara el nuevo amanecer.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

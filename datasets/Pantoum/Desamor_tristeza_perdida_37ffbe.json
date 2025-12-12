@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cae la nieve en el patio,\ncubriendo de blanco el ayer,\nmurió nuestro hermoso idilio,\nya no hay nada que temer.\n\nCubriendo de blanco el ayer,\nse hiela la sangre en las venas,\nya no hay nada que temer,\nni pagar las propias penas.\n\nSe hiela la sangre en las venas,\nmurió nuestro hermoso idilio,\nni pagar las propias penas,\ncae la nieve en el patio.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

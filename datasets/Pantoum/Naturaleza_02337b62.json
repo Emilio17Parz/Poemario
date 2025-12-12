@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde musgo cubre la piedra fría,\nUn río cristalino fluye sin cesar,\nLa cumbre de la montaña toca el día,\nEl viento susurra un dulce bienestar.\n\nUn río cristalino fluye sin cesar,\nEntre los pinos altos canta el gorrión,\nEl viento susurra un dulce bienestar,\nLa luz del sol derrama su bendición.\n\nEntre los pinos altos canta el gorrión,\nLas flores silvestres pintan el edén,\nLa luz del sol derrama su bendición,\nUn eco ancestral resuena más allá.\n\nLas flores silvestres pintan el edén,\nEl verde musgo cubre la piedra fría,\nUn eco ancestral resuena más allá,\nLa cumbre de la montaña toca el día.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde manto que la tierra viste,\nY el río manso que serpentea lento,\nLa brisa que en el roble se resiste,\nSon voces del sagrado firmamento.\n\nLa flor que abre su cáliz al sol puro,\nEl trino del jilguero en la enramada,\nEl cielo azul, promesa de futuro,\nLa vasta soledad, jamás cansada.\n\nY allá, en el horizonte que se aleja,\nY la serena **montaña** erguida,\nUn mudo centinela que nos deja\nLa huella de una fuerza que da vida.\n\n¡Oh, naturaleza, musa sin igual,\nEterna inspiración, don celestial!",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

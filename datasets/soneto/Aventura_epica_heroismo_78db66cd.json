@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Con paso firme el héroe alzó su espada,\nUn eco antiguo en su valor latía,\nPor senda incierta que al destino guía,\nBuscando gloria en la misión sagrada.\n\nCruzó montañas, la llanura helada,\nVenció a las sombras que la noche envía,\nSin miedo alguno que su fe ceñía,\nSu corazón jamás se vio en la nada.\n\nLlegó el momento de la gran batalla,\nEl estandarte ondea en el fragor,\nContra legiones de infernal perfil.\n\nNi un solo instante su coraje falla,\nDefiende al mundo con supremo ardor,\nUn héroe eterno, indomable y gentil.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

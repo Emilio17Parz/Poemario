@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es confuso laberinto,\ndonde es fácil perder la razón;\nusa de brújula el corazón,\ny la prudencia como instinto.\nNo te angusties si te hallas perdido,\ntodo error tiene un sentido.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

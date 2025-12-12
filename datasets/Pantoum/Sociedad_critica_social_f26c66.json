@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Atrapados en la red,\nmirando la pantalla,\nmuertos de sed,\nperdiendo la batalla.\n\nMirando la pantalla,\nconexión artificial,\nperdiendo la batalla,\ncontacto social.\n\nConexión artificial,\natrapados en la red,\ncontacto social,\nmuertos de sed.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "red"
+  }
+}

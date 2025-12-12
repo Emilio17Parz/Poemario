@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Entró Teseo en la oscura gruta,\nllevando el hilo de Ariadna en la mano.\nBuscaba al monstruo en la ruta,\npara librar al pueblo humano.\nCada pasillo era una disputa,\nentre el miedo y el valor soberano.\nLlegó al centro y mató a la bestia,\nsalió siguiendo el cordel distinto,\nvenciendo así la cruel molestia,\nde aquel imposible laberinto.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

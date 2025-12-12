@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Jardín de piedras quietas,\ncruces en hilera.\nCumplidas las metas,\nfinal de carrera.\n\nCruces en hilera,\nsilencio sagrado.\nFinal de carrera,\ncuerpo cansado.\n\nSilencio sagrado,\ncumplidas las metas.\nCuerpo cansado,\njardín de piedras quietas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

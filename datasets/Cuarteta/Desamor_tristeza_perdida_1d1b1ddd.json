@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No te deseo ningún mal\naunque me hiciste sufrir,\nes el destino final\nver nuestro amor morir.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "mal"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En los mapas antiguos escribían 'aquí hay monstruos' para señalar los límites de lo conocido y lo seguro.\nPero el verdadero monstruo no tiene garras ni colmillos, vive dentro de nosotros y se alimenta de nuestro odio y nuestra ignorancia.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "monstruo"
+  }
+}

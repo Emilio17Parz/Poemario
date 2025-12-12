@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La pena de un niño que llora,\nsu hambre que el mundo ignora.\nHay pan sin parar,\nsin saber compartir,\nla vida que ya no se adora.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Hambre"
+  }
+}

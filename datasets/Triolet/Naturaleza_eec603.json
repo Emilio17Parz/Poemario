@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nace el nuevo día,\ncon luz de esperanza.\nLa alegría,\nnace el nuevo día.\nLa melodía,\nde la alabanza.\nNace el nuevo día,\ncon luz de esperanza.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

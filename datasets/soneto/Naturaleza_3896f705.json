@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde manto que la tierra viste,\nCon voz de paz el ancho mar clama,\nEl ruiseñor su dulce canto derrama,\nY el sol poniente de pasión se reviste.\n\nLa brisa etérea que mi rostro asiste,\nLa tierra fértil que la vida ama,\nY cada flor que su perfume exclama,\nUn paraíso que en el alma existe.\n\nMas cuando el sol su resplandor se lleva,\nY el velo oscuro cubre el vasto suelo,\nLa luna asoma, plácida y serena,\n\nUn dulce brillo que desciende del cielo,\nQue al corazón su mansedumbre eleva,\nY con su magia mi existencia llena.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "luna"
+  }
+}

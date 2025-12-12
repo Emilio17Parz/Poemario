@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Casa de Dios de piedra y silencio,\nrefugio para el alma peregrina,\nque camina,\nbuscando el misterio que reverencio.\nEntre tus muros hallo la calma,\npara mi alma,\nlejos del ruido vano de la calle,\ny del valle.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

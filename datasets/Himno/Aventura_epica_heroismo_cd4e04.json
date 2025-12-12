@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Largo retorno por mares extraños,\nluchando con monstruos y viles engaños!\nLa patria lejana espera el regreso,\ndel héroe que vuelve con su noble peso.\n\n¡Gloria a la astucia que vence a la fuerza,\ny hace que el hado su rumbo retuerza!\nCantar el viaje de vuelta al hogar,\nes la gran gesta que hemos de loar.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

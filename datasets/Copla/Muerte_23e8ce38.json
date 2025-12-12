@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es un sueño largo\ndel que no se despierta,\nes cruzar para siempre\nla última y negra puerta.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "dormir"
+  }
+}

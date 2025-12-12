@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte llega con paso callado,\ncomo una sombra que cubre la luz,\ny deja el cuerpo quieto y helado.\n\nCargamos todos con la misma cruz,\nde ser mortales y haber acabado,\nbajo el peso del negro capuz.\n\nYa sepultado.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

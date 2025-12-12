@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Caminó mil leguas,\nhacia el santuario,\ncon su rosario,\ny sin treguas.\nLe dolían los pies,\ny el sol lo quemaba,\npero él rezaba,\nuna y otra vez.\nLlegó ante el altar,\ny se puso a llorar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "fe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llega la vejez,\ncon sabiduría,\ny la nitidez,\nde cada día.\n\nCon sabiduría,\nmiramos atrás,\nde cada día,\nqueriendo más.\n\nMiramos atrás,\nllega la vejez,\nqueriendo más,\ny la nitidez.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

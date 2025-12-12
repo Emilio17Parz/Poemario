@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Descansa en el fondo del mar,\nel navío que surcó olas,\nahora a solas,\nsin navegar.\n\nHogar,\nde caracolas,\ny amapolas,\ndel lugar.\n\nMadera que se deshace,\ndonde yace.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "barco"
+  }
+}

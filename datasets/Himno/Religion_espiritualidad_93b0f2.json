@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Roca inmutable en mar de tormenta,\ncerteza del alma que nos alimenta!\nCreer sin haber visto es tu gran don,\nluz que ilumina la humana razón.\n\n¡Salve, oh fe, escudo sagrado,\nque nos mantienes al cielo ligado!\nPor ti se mueven los montes lejanos,\ny obran milagros las humildes manos.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "fe"
+  }
+}

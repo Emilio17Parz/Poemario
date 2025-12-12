@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Puente de palabras,\nhacia el cielo,\ncon anhelo,\nte abres.\nDiálogo santo,\nque calma el llanto.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "oración"
+  }
+}

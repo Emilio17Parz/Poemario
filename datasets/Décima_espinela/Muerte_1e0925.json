@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Espero que haya un lugar,\nmás allá de las estrellas,\ndonde curen las querellas,\ny se pueda descansar.\nUn sitio para amar,\nsin la sombra del final,\nun paraíso ideal,\ndonde el alma se libere,\ny ya nunca más muera,\nni sufra ningún mal.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

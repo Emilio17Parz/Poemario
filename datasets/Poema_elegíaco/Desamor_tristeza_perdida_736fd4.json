@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi alma es un lamento que la noche no quiere escuchar,\nun grito silencioso que se niega a naufragar.\nLlevo la pena a cuestas, la condena sin fin,\npor un amor que era fuego y ahora es solo hollín.\n\nEl tiempo no me cura, solo me enseña a sufrir,\ny mi única tarea es seguir existiendo sin ti.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "lamento"
+  }
+}

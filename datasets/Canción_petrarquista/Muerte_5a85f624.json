@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llorad, amantes, pues murió el Amor,\ny se rompió el arco y la saeta,\npues la dama perfecta\nha dejado este mundo de dolor.\nYa no hay belleza que se le compare,\nni quien la repare,\nel molde se ha quebrado\ny el mundo queda pobre y desolado.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

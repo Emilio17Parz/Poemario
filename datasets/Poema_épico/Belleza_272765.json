@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Plata pulida que dice verdad,\nduplica el mundo y su apariencia,\nmuestra la cruel realidad,\no la vanidosa complacencia.\nPuerta al doble, al otro yo,\nque el artesano construyó.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

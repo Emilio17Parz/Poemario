@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El eco del valor, gran clamor,\nContra la sombra de un gigante,\nAlza el héroe su estandarte,\nDemostrando nobleza y honor,\nPues su espíritu es luchador.\n\nCon promesa constante,\nSu temple no conoce el temor.\nEl eco del valor.\n\nSiente la fuerza del amor,\nPor sendas de un viaje incesante,\nSu gesta es siempre radiante,\nJamás conocerá el dolor.\nEl eco del valor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "honor"
+  }
+}

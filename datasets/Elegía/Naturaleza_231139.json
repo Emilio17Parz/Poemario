@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Árbol que yaces sin sombra ni flor,\ntu rama se rompe, sin un sostén.\nTu cuerpo es leña, sin un gran dolor,\nel alma sin un gran bien.\nTu forma es el fin, la dura verdad,\nla pena que el tiempo da la caridad.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Árbol"
+  }
+}

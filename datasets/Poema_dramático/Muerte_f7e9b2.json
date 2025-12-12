@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[EL FANTASMA]\nRegreso a esta casa porque mi alma está incompleta. Me falta una palabra.\nBusco el rincón donde la dejé. ¿Dónde está el anillo que me quitó la vida?\nOs veo, vivos, y os envidio vuestro dolor, vuestra carne. El ser es un tormento.\nEl infierno no está abajo; el infierno es ser un eco sin cuerpo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

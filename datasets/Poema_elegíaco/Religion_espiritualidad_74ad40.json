@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Temo el momento en que el cielo me juzgue por mi error fatal sin fe,\ny el peso de mis actos me condene sin saber el qué.\nLa balanza es cruel, la justicia no es ciega, sino justa y fiel,\nla vida sin la calma, con sabor amargo a hiel.\n\nLloro por el perdón que mi alma no podrá obtener jamás sin luz ni voz,\ny mi destino es el castigo de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "juicio"
+  }
+}

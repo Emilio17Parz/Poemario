@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fue cruel tu traición,\ncon mentiras tejidas,\nrompió la relación,\ny dejó mil heridas.\n\nCon mentiras tejidas,\nme engañaste de frente,\ny dejó mil heridas,\nun dolor permanente.\n\nMe engañaste de frente,\nfue cruel tu traición,\nun dolor permanente,\nrompió la relación.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "traición"
+  }
+}

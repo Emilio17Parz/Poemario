@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Malditas sean las armas,\nque traen solo luto y falsas alarmas.\nLos hombres se destruyen\ny la paz y el amor huyen.\nNegocio de la muerte,\nque cambia para mal nuestra suerte.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

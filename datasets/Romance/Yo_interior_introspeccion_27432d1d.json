@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me carcome la gran duda\nde si he vivido correcto,\nsi elegí bien el camino\no si todo fue un defecto.\nLa certeza se me escapa,\nes un esquivo insecto,\ny quedo solo pensando\nen el final y el efecto.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "duda"
+  }
+}

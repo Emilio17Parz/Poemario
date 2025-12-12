@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Perdona nuestras ofensas\ncomo nosotros también,\nperdonamos al que nos hiere\ny no nos desea bien.\nEl perdón limpia la mancha\ny nos sube a un edén,\ndonde reina la armonía\npor los siglos, amén.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

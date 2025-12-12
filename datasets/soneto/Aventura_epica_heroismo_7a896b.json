@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Estaba escrito en las viejas runas,\nque un elegido vendría a salvar,\ncapaz de los cielos y el mar cruzar\ny vencer a las sombras y hambrunas.\n\nNo cree en profecías ni en fortunas,\npero algo le impulsa a caminar,\na dejar su aldea y su hogar\ny enfrentar las noches sin lunas.\n\nEs el peso del destino o el azar,\nlo que guía sus pasos inciertos\nhacia el peligroso lugar.\n\nEntre los vivos y los muertos,\ntendrá su valor que demostrar\nen los áridos desiertos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "runas"
+  }
+}

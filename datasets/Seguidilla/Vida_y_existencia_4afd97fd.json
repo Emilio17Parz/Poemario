@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Las canas aparecen\ncon la experiencia,\ntestigos silenciosos\nde la existencia.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

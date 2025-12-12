@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pena muy honda,\nque me ronda.\n\nDolor agudo,\nque es testarudo,\ny yo no dudo,\nque se esconda.\nPena muy honda,\nque me ronda.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "pena"
+  }
+}

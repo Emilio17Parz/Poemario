@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El camino estrecho de la verdad,\nse sigue con paso firme y con fe,\nsin miedo al error ni a la adversidad,\nsolo por la promesa del 'sé'.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Camino"
+  }
+}

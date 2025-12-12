@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Belleza no es solo el contorno pulido,\nla superficie lisa, el color exacto.\nEs el murmullo del viento\nentre los juncos en un atardecer que se desvanece,\nel gris perla de las nubes antes de la lluvia,\nla promesa de frescor en el aire cargado.\n\nEs la grieta en la vasija antigua,\nla cicatriz que cuenta una historia de resistencia,\nel rastro de una lágrima seca en una mejilla.\nNo siempre habita en una **forma** perfecta,\nidealizada por el ojo que mide, que compara.\nA veces reside en el desorden,\nen el caos vibrante de una explosión de estrellas,\no en la asimetría de una hoja mordida por el tiempo.\n\nEs la comprensión silenciosa entre dos almas,\nla resonancia de un poema olvidado,\nel coraje de levantarse\ndespués de que todo se ha desmoronado.\nBelleza es el eco,\nla sombra proyectada por un árbol solitario,\nel conocimiento de lo efímero,\nla quietud que precede al amanecer.\n\nEs la generosidad sin esperar nada,\nel amor que se da sin pedir retorno,\nel destello de verdad en una mirada cansada.\nEs el latido del mundo,\nincesante, vulnerable,\nque nos recuerda la preciosidad de existir\nen este instante fugaz.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "forma"
+  }
+}

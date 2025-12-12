@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La luz de tu mirada enciende el alma,\nUn eco en el silencio que me calma.\nAnhelo tu presencia, dulce y serena,\nEn esta historia que el destino ordena.\n\nEl mundo se detiene al verte cerca,\nUn eco en el silencio que me calma.\nNuestras manos se unen, sin que parezca,\nEn esta historia que el destino ordena.\n\nPromesas de un amor que nunca cesa,\nUn sentimiento hondo que el alma expresa.\nNuestras manos se unen, sin que parezca,\nCon un lazo que anhelo sea **eterno**.\n\nPromesas de un amor que nunca cesa,\nAnhelo tu presencia, dulce y serena,\nUn sentimiento hondo que el alma expresa,\nLa luz de tu mirada enciende el alma.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

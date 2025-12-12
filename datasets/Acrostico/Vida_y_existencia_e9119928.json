@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Viaje breve lleno de colores,\nIlusión que dura un momento,\nDando alegrías y dolores,\nAntes de perder el aliento.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "vida"
+  }
+}

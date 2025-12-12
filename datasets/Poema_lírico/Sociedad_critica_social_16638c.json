@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La ciudad no es de piedra,\nes un monstruo cruel.\nLa vida que se queda\nsin ningún papel.\n\nMe traga y me escupe,\nme obliga a existir,\nla única cúspide\npara poder huir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La mano de la Parca, sin dudar,\ntocó tu frente con hielo mortal.\nNo hubo grito, ni tiempo de rezar,\nsolo un silencio grave y total.\n\nAhora la sombra cubre tu figura,\ncon una calma de hermosura.\nHas vencido a la fiebre y al dolor,\ny tu frente brilla con mejor fulgor,\nsin la carga del mundo en tu conciencia.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "parca"
+  }
+}

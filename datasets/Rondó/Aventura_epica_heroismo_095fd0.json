@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cruza el mar,\nel navío,\ncon brío,\nal andar.\nEl cantar,\ndel río.\nCruza el mar.\n\nVelas blancas,\nal viento,\nel aliento,\nde las bancas.\nLas palancas,\ndel cuento.\nCruza el mar.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "mar"
+  }
+}

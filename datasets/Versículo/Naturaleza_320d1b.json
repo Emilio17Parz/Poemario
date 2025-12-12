@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La primavera es la risa verde de la vida que rompe la costra del invierno y reclama su trono.\nTodo brota, todo canta, todo ama; es la resurrección anual que nos promete que la muerte no es el final.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

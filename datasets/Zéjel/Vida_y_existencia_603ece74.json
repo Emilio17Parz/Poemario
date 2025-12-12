@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es juego,\nde mucho fuego.\n\nA veces ganas,\nlas mañanas,\ntan tempranas,\ny quedas ciego.\n\nVivir es juego,\nde mucho fuego.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "juego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siempre soy uno,\ny ninguno,\nmás,\njamás,\noportuno.\n\nEl ayuno,\ny el vacuno,\ndetrás,\nSiempre soy uno.\n\nEl compás,\ny la paz,\nde juno,\ny neptuno,\ncapaz,\nSiempre soy uno.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "uno"
+  }
+}

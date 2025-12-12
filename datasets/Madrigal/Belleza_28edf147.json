@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuando el sol dora la faz del día,\ny en cada rosa su fulgor se posa,\nuna hermosura etérea el alma guía.\n\nTu ser, espejo de la luz gloriosa,\nse vuelve fuente, inspiración que aviva,\nmi dulce musa, visión prodigiosa.\n\nLa gracia pura que tu esencia activa,\nen cada verso mi sentir reaviva.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "musa"
+  }
+}

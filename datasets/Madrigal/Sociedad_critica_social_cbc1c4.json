@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Selva de hormigón,\ndonde la prisa mata la mirada;\ntan cansada,\nla razón.\nLuces de neón que ocultan estrellas,\ny cosas bellas.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

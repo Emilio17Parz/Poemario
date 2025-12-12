@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nuestro silencio es un idioma\ndonde las palabras sobran ya.\nEs la música que calma,\nla paz que el mundo no da.\n\nEn la quietud de la tarde,\nmi mano busca tu mano fiel,\ny el alma se sabe amada\nsin necesidad de papel.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

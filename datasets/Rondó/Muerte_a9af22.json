@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vas hacia la luz blanca,\ndejando el cuerpo atrás.\nYa no volverás,\nla puerta se atranca.\n\nNadie arranca,\nlo que das.\nVas hacia la luz blanca,\ndejando el cuerpo atrás.\n\nNo se estanca,\ntu paz.\nEres capaz,\nen la banca.\nVas hacia la luz blanca.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "luz"
+  }
+}

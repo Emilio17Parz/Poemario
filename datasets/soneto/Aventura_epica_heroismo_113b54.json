@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fuego que arde en las venas,\ncuando todo está perdido,\ny el cuerpo está herido,\nrompiendo las cadenas.\n\nNo escucha las penas,\nni el lamento dolido,\npues tiene decidido,\nvencer a las hienas.\n\nEl coraje es motor,\nque empuja contra el viento,\ny apaga el temor.\n\nEs el firme cimiento,\ndel héroe y su valor,\nen todo momento.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "coraje"
+  }
+}

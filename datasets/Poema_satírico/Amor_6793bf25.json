@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te quiero con gran pasión,\ny a tu cuerpo doy loas,\npero entre todas las boas,\ntu madre es la mayor constricción.\nViene sin invitación,\ncritica hasta las anchoas,\ny suelta veneno en canoas,\nen nuestra habitación.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "suegra"
+  }
+}

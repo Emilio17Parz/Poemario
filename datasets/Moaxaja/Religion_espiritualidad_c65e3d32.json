@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Habla el profeta,\nla verdad neta.\n\nDice la ley,\npara la grey,\ny para el rey,\ny el poeta.\n\nHabla el profeta,\nla verdad neta.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "profeta"
+  }
+}

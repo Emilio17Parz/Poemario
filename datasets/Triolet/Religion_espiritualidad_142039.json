@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ángel guarda,\nmi camino.\nNo se tarda,\nángel guarda.\nEl destino,\nresguarda.\nÁngel guarda,\nmi camino.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

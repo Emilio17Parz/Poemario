@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sienta en el trono real,\nun peso capital,\nla corona de oro,\nque no es un tesoro,\nsino un cargo vital.\n\nEl juicio final,\ny el bien general,\ndel reino sonoro,\nSienta en el trono.\n\nEs el punto central,\ndel poder terrenal,\nque guarda el decoro,\ny dirige el coro,\ncontra todo mal,\nSienta en el trono.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "trono"
+  }
+}

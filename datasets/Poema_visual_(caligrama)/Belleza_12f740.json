@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cristal frío\nforma única\nblanco puro\ncae del cielo\nhielo bello\ngeometría\ndivina.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

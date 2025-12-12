@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu risa, dulce sol,\nTu amor, mi corazón,\nSiempre junto a ti.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

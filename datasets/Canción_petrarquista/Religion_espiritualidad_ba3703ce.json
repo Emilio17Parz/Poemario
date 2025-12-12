@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Alma devota que al cielo aspiras,\ndeja la carga del cuerpo mortal,\ny el bien terrenal,\ny mira la gloria a la que te tiras.\nDespliega las alas del deseo,\nhacia el empíreo,\ndonde el Rey te espera,\npara darte la vida verdadera.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "alma"
+  }
+}

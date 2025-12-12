@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo la sombra del olmo añoso,\nduermen los dos pastores abrazados,\ndejando los rebaños olvidados,\nen este mediodía caluroso.\n\nSueñan con un futuro venturoso,\ndonde no existen lobos ni tormentas,\nsolo caricias lentas y contentas,\nen un idilio eterno y hermoso.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "siesta"
+  }
+}

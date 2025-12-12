@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mueve la energía,\nAbre lo oculto.\nGran sabiduría,\nOculta en el bulto.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "MAGO"
+  }
+}

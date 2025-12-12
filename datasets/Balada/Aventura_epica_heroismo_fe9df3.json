@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Monstruo de escamas y aliento de llama,\nque en la montaña su cueva reclama,\nguarda tesoros de tiempos antiguos,\ncon sus ojazos de fuego y ambiguos.\nEl caballero se acerca valiente,\npara enfrentar a la bestia viviente,\ny en un combate de vida o muerte,\nprueba su fuerza y su buena suerte.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

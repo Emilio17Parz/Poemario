@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Rezo a\nti Señor\ncon amor\nti Señor\nrezo a",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

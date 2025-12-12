@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visto de un color negro\nporque la pena me invade,\nno río ni me alegro\nmientras el dolor taladre.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "negro"
+  }
+}

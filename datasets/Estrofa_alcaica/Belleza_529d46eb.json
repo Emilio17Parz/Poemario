@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja y me inspira con tu aliento suave,\ndiosa del arte y la canción sonora,\ntienes la dulce llave\nque mi talento atesora.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "musa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Camino entre los troncos de este bosque,\ndonde la luz se filtra con temor,\nsin que la hiedra mis pies enrosque.\n\nEscucho el canto lleno de primor,\nde un ave que saluda a la mañana,\nlibrándome de todo mi dolor.\n\nBajo esta verde y natural campana.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

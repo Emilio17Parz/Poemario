@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Huyen de ti porque lloras,\nsiempre la misma canción,\nles robas todas las horas,\ncon tu eterna decepción.\nCambia de disco, colega,\nque tu tristeza nos pega.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Amigos"
+  }
+}

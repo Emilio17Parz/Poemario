@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Camina con seguridad,\nqueriéndote mucho,\nesa es la verdad,\nno seas cartucho.\nLa confianza atrae,\ny el miedo distrae.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Actitud"
+  }
+}

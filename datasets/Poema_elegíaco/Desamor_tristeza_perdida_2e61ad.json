@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fuimos dos dioses tontos que creímos en el pacto, ciego y lento,\npero el sueño se ha roto con el golpe cruel del cruel viento.\nEl fracaso es la cicatriz que la vida me deja al partir,\npor un amor que era luz y ahora es solo sufrir.\n\nNo hay lección en esta pena, solo el final del telón,\nla triste anatomía de mi roto corazón.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "fracaso"
+  }
+}

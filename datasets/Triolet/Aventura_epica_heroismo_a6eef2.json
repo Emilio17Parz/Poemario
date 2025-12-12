@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Daga por la espalda,\nGolpe de traición,\nQue el honor no respalda.\nDaga por la espalda,\nSin llevar la gualda,\nEn el corazón.\nDaga por la espalda,\nGolpe de traición.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "daga"
+  }
+}

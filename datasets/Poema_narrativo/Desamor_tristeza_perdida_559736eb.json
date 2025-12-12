@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cenaron frente a frente callados,\nsolo el ruido de los cubiertos,\nlos sentimientos estaban muertos,\nlos corazones cerrados.\nNadie se atrevía a decir,\nque el amor se había acabado,\nque el tiempo estaba agotado,\ny era hora de partir.\nAl final, él se levantó,\ny la puerta se cerró.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

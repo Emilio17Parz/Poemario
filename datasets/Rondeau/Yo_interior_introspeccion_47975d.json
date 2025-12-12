@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi tiempo,\npasatiempo.\nSe va,\ny no está,\ncontratiempo.\n\nEl templo,\ndel ejemplo.\nEl ya,\nmi tiempo.\n\nEl destemplo,\ny el contemplo.\nQuizá,\nvendrá,\nsin destiempo,\nmi tiempo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

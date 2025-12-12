@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quedaron colgadas las promesas,\nlos viajes que nunca pudimos hacer,\nlos hijos que no logramos ver,\ny las palabras en las sobremesas.\nLa muerte rompió con sus manos tiesas\nel futuro que íbamos a tejer,\ny ahora me toca a mí padecer\nlas ilusiones que pesan y estresas.\n¿De qué sirvió jurar eternidad,\nsi el tiempo es un juez tan severo?\nHoy lloro ante la cruda verdad.\nTodo proyecto fue pasajero,\ny solo queda la soledad\ncomo único y fiel compañero.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "promesas"
+  }
+}

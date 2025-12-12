@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te doy mi fe, palabra de granito,\nque no ha de quebrantarse con el viento,\nni cederá ante el paso del tormento\naunque el dolor se vuelva un infinito.\n\nAquí, delante de este cielo, escribo\ncon sangre y con verdad el juramento,\nde ser tu escudo, tu mejor sustento,\nmientras me quede un soplo y esté vivo.\n\nNo habrá marea que borre la huella\nde lo que juntos vamos construyendo,\nbajo la luz de aquella misma estrella.\n\nY si los años vamos consumiendo,\nverás que mi promesa es la centella\nque sigue en la penumbra reluciendo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

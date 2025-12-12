@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[LA ABUELA]\nNo intentes luchar contra lo que el cielo ha unido. Vi tu destino en sus ojos.\nLas cuerdas de la vida se trenzan de formas misteriosas. Acéptalo.\nTu camino es su camino, y aunque parezca duro, es la única verdad.\nYa no hay vuelta atrás, mi niña, el amor ha decidido por ti.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "destino"
+  }
+}

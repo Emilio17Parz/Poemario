@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si un beso de tu boca\npudiera yo robar al mismo viento,\nla dicha que provoca\nborraría al instante mi lamento.\nDulce néctar que guardas con recelo,\npromesa de mi cielo,\ndame solo un instante de tu aliento,\ny muere mi tormento.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "boca"
+  }
+}

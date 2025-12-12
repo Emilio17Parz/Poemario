@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El oráculo dijo: 'Tu vida está trazada',\nMas él tomó otro rumbo, sin dar la mirada.\nEl destino se ríe del que intenta cambiar,\nPero el hombre es libre si se atreve a soñar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "destino"
+  }
+}

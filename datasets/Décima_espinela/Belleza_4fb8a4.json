@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La luz del día,\nviste las cosas,\nde mariposas,\ny de alegría.\nLa fantasía,\nse vuelve cierta,\ncon la puerta,\nde la claridad,\ny la verdad,\ndescubierta.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "luz"
+  }
+}

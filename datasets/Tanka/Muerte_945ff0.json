@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Signo en el suelo\nmarcando el lugar santo\ndel descansar.\nBajo la tierra duerme\nquien fue vida y amor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de arena infinito,\nun paisaje bendito,\ndonde el sol quema,\ny el agua es el tema,\nde un antiguo rito.\n\nEs un lugar no escrito,\nsilencioso y bonito,\nque plantea el dilema,\nMar de arena.\n\nSe escucha el grito,\ndel viento inaudito,\nque mueve el sistema,\nde la duna suprema,\ny borra el hito,\nMar de arena.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "arena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Como las olas del mar,\nte quiero siempre besar,\ncon un vaivén infinito,\nque parece estar escrito,\nen el agua y el azar.\n\nNadie nos puede parar,\nni el horizonte cerrar,\nes un amor tan bonito,\nComo las olas.\n\nJuntos podemos estar,\ny la vida navegar,\nescuchando el suave grito,\nde nuestro propio rito,\nque vuelve a comenzar,\nComo las olas.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "olas"
+  }
+}

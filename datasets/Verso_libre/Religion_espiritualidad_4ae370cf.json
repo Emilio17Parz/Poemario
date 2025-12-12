@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi fe está hecha de dudas.\nNo creo en certezas de piedra,\nsino en la pregunta constante.\n¿Estás ahí? ¿Me escuchas?\nEn esa incertidumbre,\nen ese buscar a tientas,\nes donde encuentro lo sagrado,\nno en la respuesta, sino en la búsqueda.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "duda"
+  }
+}

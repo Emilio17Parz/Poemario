@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Montaña de fuego,\nno es un juego.\n\nLava ardiente,\nque baja caliente,\npor la pendiente,\nluego.\nMontaña de fuego,\nno es un juego.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "volcán"
+  }
+}

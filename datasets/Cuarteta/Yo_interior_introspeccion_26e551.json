@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El yo gigante,\nquiere mandar,\ny destacar,\nal instante.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "yo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu dulce amor me abriga (7a),\nde frío y de mal (5b),\nel alma ya no hostiga (7c),\nsin un solo fanal (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Abrigo"
+  }
+}

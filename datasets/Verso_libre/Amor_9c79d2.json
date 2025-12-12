@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hay un mapa entre nosotros,\nlleno de líneas y fronteras.\nPero cierro los ojos\ny el mapa se pliega,\nlos kilómetros se arrugan,\ny tu respiración está aquí,\nal otro lado del teléfono.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

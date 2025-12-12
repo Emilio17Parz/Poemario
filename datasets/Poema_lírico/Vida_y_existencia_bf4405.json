@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El dolor es la prueba\nde que aún estoy vivo.\nLa única cueva\ndonde el ser es cautivo.\n\nMe hiere y me grita,\nme rompe y me sana,\nla pasión bendita\nsin ninguna rana.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

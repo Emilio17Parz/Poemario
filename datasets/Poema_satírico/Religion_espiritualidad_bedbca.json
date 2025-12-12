@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Jardín de arena y piedra,\nque no puedes pisar,\nla paciencia es hiedra,\nque te quiere ahorcar.\nTan tranquilo y quieto,\nque pareces un seto.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Zen"
+  }
+}

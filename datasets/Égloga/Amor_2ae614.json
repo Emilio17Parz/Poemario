@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cae la tarde y el sol se esconde,\npero tú brillas más que la estrella,\neres de todas la más bella,\ny mi amor a tu amor responde.\n\nNo preguntes el cómo ni el dónde,\nsolo déjate amar en la brisa,\ncon esa dulce y tierna sonrisa,\nque a mi espíritu corresponde.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

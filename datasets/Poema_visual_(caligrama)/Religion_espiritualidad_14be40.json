@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Peldaños de luz\nsuben alto\nentre nubes\nhacia el reino\ncamino recto\nde virtud\nascensión.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

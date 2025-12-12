@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Juventud div,\nque camina.\nSe va,\ny no está,\nfina.\n\nLa mina,\nse termina.\nEl acá,\njuventud div.\n\nLa harina,\ny la tina.\nEl allá,\nquizá,\nadivina,\njuventud div.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Encendemos velas y cantamos mantras no porque Dios necesite luz o música, sino porque nosotros necesitamos recordar.\nEl ritual es el ancla que sujeta nuestra mente distraída a la verdad profunda de nuestra existencia.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "ritual"
+  }
+}

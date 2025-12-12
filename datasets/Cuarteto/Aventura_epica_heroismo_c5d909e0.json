@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vale más tener honor\nque riquezas y poder,\ny cumplir con el deber\nsin sentir el temor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "lealtad"
+  }
+}

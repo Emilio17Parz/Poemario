@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La hiel de tu partida me ha envenenado el pan y la sal,\ny el mundo es un sabor amargo, un castigo fatal.\nYa no hay dulzura, la risa es un eco que se fue,\nsolo esta amargura constante que me niega la fe.\n\nQuiero el olvido total, la anestesia sin forma ya,\nque el tiempo me disuelva y que el dolor se vaya.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "amargura"
+  }
+}

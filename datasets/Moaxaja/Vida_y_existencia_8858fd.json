@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo se mueve,\ny nada llueve.\n\nEl río pasa,\nnada se atrasa,\nni en la casa,\ncuando es breve.\nTodo se mueve,\ny nada llueve.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La senda heroica, un viaje a lo ignoto,\nEl desafío quema, con ímpetu feroz,\nLa gloria eterna, un canto al valor.\n\nNingún miedo quiebra su noble voto,\nContra la sombra que acecha veloz,\nLa senda heroica, un viaje a lo ignoto.\n\nSu alma se forja, de un temple devoto,\nPor cada golpe, un nuevo vigor,\nLa gloria eterna, un canto al valor.\n\nLos reinos lejanos, un mundo remoto,\nSu espada destella, con fiero ardor,\nLa senda heroica, un viaje a lo ignoto.\n\nNo habrá destino que quede insólito,\nLuchar sin tregua, con fiero fragor,\nLa gloria eterna, un canto al valor.\n\nPor cada hazaña, un alma en el roto,\nTriunfa el espíritu, con gran esplendor,\nLa senda heroica, un viaje a lo ignoto,\nLa gloria eterna, un canto al valor.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aprende que el amor no es carrera,\nsino un cultivo de lenta espera.\nComo el jardinero riega su flor,\nasí se nutre el verdadero amor:\ncon tiempo, cuidado y dedicación,\nno con la prisa de la pasión.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "paciencia"
+  }
+}

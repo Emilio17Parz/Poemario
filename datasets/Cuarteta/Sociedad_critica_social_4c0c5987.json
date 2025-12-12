@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Queremos la libertad\nde pensar y de vivir,\ncon toda la voluntad\nde un nuevo porvenir.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

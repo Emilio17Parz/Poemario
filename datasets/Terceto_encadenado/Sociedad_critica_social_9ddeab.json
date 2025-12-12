@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Matan por la tierra,\nsin razón ninguna,\nen la triste guerra.\n\nBajo la luna,\nlloran las madres,\nsobre la cuna.\n\nDe sus padres.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

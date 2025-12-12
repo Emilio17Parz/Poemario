@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Eneas huyó de la Troya quemada,\ncargando a su padre y guiando a su gente.\nSurcó el Mediterráneo inclemente,\nbuscando la tierra profetizada.\nSufrió tempestades y dioses airados,\nperdió compañeros y aliados.\nPero fundó la estirpe romana,\nfruto de su viaje y su fe soberana.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

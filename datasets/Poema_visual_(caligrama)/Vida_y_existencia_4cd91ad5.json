@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "   Nacer\n M       V\n o       i\n r       v\n i       i\n   r...r",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "círculo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rimas que tocan el alma,\ny dicen lo que yo siento,\nllevadas por el viento.\n\nMe devuelven la calma,\ny expresan mi verdad,\nque en el papel se empalma.\n\nCon mucha claridad.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "verso"
+  }
+}

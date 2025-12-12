@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi fe es segura y cierta,\nun faro en la oscuridad,\nque mantiene siempre abierta.\n\nLa puerta de la verdad,\npara el que quiere creer,\ncon total sinceridad.\n\nY tu rostro poder ver.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "cierta"
+  }
+}

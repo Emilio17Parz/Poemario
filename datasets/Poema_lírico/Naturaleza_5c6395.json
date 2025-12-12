@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río corre lento,\nsin prisa ni razón.\nEs el suave aliento\ndel mi corazón.\n\nFluye sin descanso,\nhacia el azul final,\nla vida es el manso\nviaje al mal.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "río"
+  }
+}

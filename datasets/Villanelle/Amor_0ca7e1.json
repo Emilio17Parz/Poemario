@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi alma y la tuya son una sola,\nfundidas en el fuego del amor,\ncomo la espuma sobre la ola.\n\nYa no me importa si el mundo mola,\no si nos causa algún dolor,\nmi alma y la tuya son una sola.\n\nBajo la luz o la farola,\ntienen el mismo y dulce color,\ncomo la espuma sobre la ola.\n\nNadie las rompe ni las controla,\npues tienen su propio valor,\nmi alma y la tuya son una sola.\n\nEs la verdad que me consola,\ny me llena de resplandor,\ncomo la espuma sobre la ola.\n\nEn esta vida que se desola,\nhemos hallado el mejor sabor,\nmi alma y la tuya son una sola,\ncomo la espuma sobre la ola.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "alma"
+  }
+}

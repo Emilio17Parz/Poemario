@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pisas fuerte el suelo,\nAvanzas con valor.\nSigues con anhelo,\nOcultando el dolor.\nSubes hacia el cielo.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "PASOS"
+  }
+}

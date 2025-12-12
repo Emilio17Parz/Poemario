@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco mi identidad,\nquién soy realmente,\nbajo la máscara.\nRompo la cáscara,\npara ver la esencia,\nque vive en el centro.\n\nEn el centro,\nmi identidad,\ny su presencia.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

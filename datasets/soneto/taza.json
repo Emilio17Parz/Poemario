@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "taza",
   "poema": {
     "texto": "\\n en la taza quedo los restos de cafe que algun dia te di\\nde cafe\\ncada\\nfin",

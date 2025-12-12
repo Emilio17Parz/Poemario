@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Quien busca siempre la pura verdad,\nencuentra luz en la oscuridad.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

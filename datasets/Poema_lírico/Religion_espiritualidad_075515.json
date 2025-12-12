@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La gracia es el agua\nque lava el error.\nLa suave plaga\nsin ningún dolor.\n\nMe limpia la vida,\nme quita el pesar,\nla dulce herida\npara poder amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "gracia"
+  }
+}

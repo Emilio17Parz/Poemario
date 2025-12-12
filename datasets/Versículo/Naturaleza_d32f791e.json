@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Alzaré mis ojos a los montes; ¿de dónde vendrá mi socorro? Mi socorro viene del Señor, que hizo los cielos y la tierra.\nLos montes saltaron como carneros, los collados como corderitos, ante la presencia del Señor de toda la tierra.\nAntes que naciesen los montes y formases la tierra y el mundo, desde el siglo y hasta el siglo, tú eres Dios.\nFundaste la tierra sobre sus cimientos; no será jamás removida, y las altas cumbres son el estrado de tus pies.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "montes"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dejó la carne y el vino, y el pan de la mesa,\nBuscando en el vacío la gran belleza.\nEl ayuno era la vía para limpiar la mente,\nPara que el espíritu se haga más potente.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "ayuno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi palabra es un ancla\nque no se rompe ya.\nEs la luz blanca\nque el alma me da.\n\nJuramento de sangre,\nde honor y valor,\nel único hambre\nsin ningún dolor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "juramento"
+  }
+}

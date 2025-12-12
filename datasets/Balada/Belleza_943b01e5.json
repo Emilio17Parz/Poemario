@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras bellas que riman bien,\ncuentan historias de amor y sal,\nson el tesoro y son el sien,\ndel pensamiento cabal.\nPoesía dulce y leal,\nmedicina para el mal.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ruge la tormenta en mi ser,\nllueve dolor y desengaño,\ny no sé cómo protegerme.\n\nSiento mi mundo caer,\ncon cada golpe y cada daño,\nruge la tormenta en mi ser.\n\nNo puedo ya comprender,\npor qué me siento tan extraño,\ny no sé cómo protegerme.\n\nEmpiezo a desaparecer,\nen este oscuro y triste baño,\nruge la tormenta en mi ser.\n\nNadie me quiere socorrer,\nen este mísero peldaño,\ny no sé cómo protegerme.\n\nSolo me queda padecer,\nel paso lento de este año,\nruge la tormenta en mi ser,\ny no sé cómo protegerme.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

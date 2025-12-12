@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Es la certeza de la ardiente fe\nla que sostiene al corazón cansado,\ny aunque el futuro no nos sea dado\ncreo en la luz que todavía no se ve.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "fe"
+  }
+}

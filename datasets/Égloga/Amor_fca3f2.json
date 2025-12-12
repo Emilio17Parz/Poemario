@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te traigo, Filis, flores de la sierra,\nbañadas en rocío de mañana.\nNo hay joya en la ciudad ni cortesana\nque iguale lo que brota de esta tierra.\nMi amor sencillo, que jamás aterra,\nse postra ante tu luz tan soberana.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flores"
+  }
+}

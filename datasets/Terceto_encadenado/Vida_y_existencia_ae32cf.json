@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El alma que vuela, libre sin un final (A),\nrompiendo las jaulas, sin más prisión (B),\nla vida es un sueño, el don total (A).\n\nLa fuerza que impulsa mi fiel razón (B),\nel alma que vuela, sin un error (C),\nla esencia del puro valor (B).\n\nNo hay más que buscar, no hay más fulgor (C),\nque en él hallar la paz (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

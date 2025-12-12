@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Discursos de oropel,\nque son solo palabras de papel.\nPromesas incumplidas,\nesperanzas perdidas.\nEl pueblo escucha atento,\npero se lleva la verdad el viento.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

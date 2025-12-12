@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hacia lo ignoto partió la galera,\ncruzando mares de espuma y de sal,\nbuscando un mundo nuevo e ideal,\ncon la esperanza por fiel compañera.\nLargo es el viaje y la dulce espera,\nde la aventura sin par y triunfal.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

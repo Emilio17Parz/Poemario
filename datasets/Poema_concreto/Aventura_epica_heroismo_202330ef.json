@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "V\n             A L\n            O R\n           C O R A J E\n          A V E N T U R A\n         É P I C A\n        H E R O Í S M O\n       L U C H A N T E\n      G L O R I A\n     H O N O R\n    F U E R Z A\n   D E S T I N O\n  V I C T O R I A\n L E Y E N D A\nA L M A\nR O B L E\n  F I L O\n Í G N E O\n  S A N G R E\n   Y   S U D O R\n    D E L   H É R O E\n     E T E R N O",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "honor"
+  }
+}

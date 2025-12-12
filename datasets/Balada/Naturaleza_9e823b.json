@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Puntos de luz en el firmamento,\nque nos recuerdan la inmensidad,\nsois el eterno y mudo portento,\nde la divina y gran verdad.\nGuías de barcos y de viajeros,\njoyas clavadas en el capuz,\nsois los lejanos y mil luceros,\nque nos regalan su antigua luz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

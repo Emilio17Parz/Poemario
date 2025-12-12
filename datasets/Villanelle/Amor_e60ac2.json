@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu piel es suave como el terciopelo,\ncuando mis dedos rozan tu faz,\ny me levantas hasta el cielo.\n\nMe quitas todo desconsuelo,\ny me regalas una gran paz,\ntu piel es suave como el terciopelo.\n\nEs el momento de mi desvelo,\ndonde se cae el antifaz,\ny me levantas hasta el cielo.\n\nSiento que rompo el frío hielo,\ncon un calor que es muy audaz,\ntu piel es suave como el terciopelo.\n\nVivo prendido en tu pelo,\nen un abrazo fuerte y tenaz,\ny me levantas hasta el cielo.\n\nNo tengo miedo ni recelo,\nporque tu amor es muy capaz,\ntu piel es suave como el terciopelo,\ny me levantas hasta el cielo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "caricia"
+  }
+}

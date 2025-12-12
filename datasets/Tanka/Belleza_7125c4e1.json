@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Flor en la rama,\nbelleza que nos calma.\nSol de la aurora,\nen su gran esplendor\nel alma se eleva.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

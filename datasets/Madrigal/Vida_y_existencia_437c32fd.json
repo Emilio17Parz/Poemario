@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca la dicha en todo,\nencuentra de reír siempre algún modo.\nLa vida es un regalo,\nno veas solo lo malo.\nCelebra el sol y el aire,\ny vive con gracia y con donaire.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "alegría"
+  }
+}

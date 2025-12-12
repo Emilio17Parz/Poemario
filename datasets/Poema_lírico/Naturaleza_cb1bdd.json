@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La brisa es un susurro\nque me habla al oído.\nEs el duro conjuro\ndel amor que ha sido.\n\nMe peina la cara\ny me obliga a vivir,\nla única vara\npara poder seguir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "brisa"
+  }
+}

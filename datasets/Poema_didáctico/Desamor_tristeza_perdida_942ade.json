@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La tristeza es nube pasajera,\nno dejes que haga nido,\naunque llueva la vida entera,\nbusca el sol escondido.\nNo te enamores de tu pena,\nrompe esa dulce cadena.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Melancolía"
+  }
+}

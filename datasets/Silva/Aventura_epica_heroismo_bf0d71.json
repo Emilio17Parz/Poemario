@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Filo agudo,\nque defiende,\ny se enciende,\ncon escudo.\nNo es mudo,\nel acero,\nque prefiero,\nsin el nudo.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "espada"
+  }
+}

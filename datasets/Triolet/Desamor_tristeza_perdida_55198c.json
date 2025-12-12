@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fue mi culpa y mi error,\nEl haberte amado tanto,\nCausándome este dolor.\nFue mi culpa y mi error,\nPerdí todo mi valor,\nY me cubro con el llanto.\nFue mi culpa y mi error,\nEl haberte amado tanto.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "error"
+  }
+}

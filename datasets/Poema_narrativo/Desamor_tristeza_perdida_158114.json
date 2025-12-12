@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El fuego se extinguió, no quedó más que polvo,\nEl amor se hizo ceniza, sin ningún revolvo.\nElla barrió el recuerdo y lo echó por el balcón,\nPero el viento lo trajo de vuelta a la habitación.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

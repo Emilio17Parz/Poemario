@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Más vale honra sin barcos,\nque barcos sin honra alguna,\npues la fortuna es hambruna,\nsi se pierde en los charcos.\n\nNo entres en sucios marcos,\nni busques ventaja oportuna,\nque la conciencia es la cuna,\nde los hombres patriarcas.\n\nEl honor es cristal fino,\nque si se rompe no pega,\nmanchando todo el camino.\n\nQuien con honor navega,\nllega a buen destino,\ny el respeto le llega.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "honor"
+  }
+}

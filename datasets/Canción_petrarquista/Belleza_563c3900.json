@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No es el oro, ni perlas, ni diamante,\nlo que hace bella a la mujer que adoro,\nsino el decoro\ny la luz de su vista radiante.\nEs la virtud que en su alma reside,\nla que decide\nmi eterna prisión,\ny la que cautiva mi corazón.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "oro"
+  }
+}

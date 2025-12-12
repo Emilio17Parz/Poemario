@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El adiós sin palabras, el golpe fatal,\nque rompe mi vida, que quiebra mi ser,\nno hay más regreso, no hay más fanal,\nla muerte que viene a vencer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

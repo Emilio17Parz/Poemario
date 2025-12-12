@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Talla la caña el pastor,\npara hacer una flauta,\nque cante nota pauta,\nde su dulce dolor.\nEl sonido encantador,\nvuela de forma cauta,\ny el aire en la pauta,\nse llena de amor.\nNo hay belleza igual,\nque el canto natural,\nen el valle real.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flauta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Valle de amenidad,\ndonde el arroyo corre cristalino;\nverde camino\nde libertad;\nlos montes a lo lejos se levantan,\ny las aves cantan;\ntodo es perfecto cuadro,\ndonde la paz y el bien yo taladro.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

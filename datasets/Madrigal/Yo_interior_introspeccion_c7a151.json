@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Interrogante que no se calla,\n¿por qué existo y cuál es mi fin?\nen el confín,\nde mi mente se libra la batalla.\nBuscar respuestas es el camino,\nel destino,\nde quien no se conforma con ver,\nsino entender.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pregunta"
+  }
+}

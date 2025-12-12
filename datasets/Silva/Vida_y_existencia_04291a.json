@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Luz que brilla,\nal final,\ndel canal,\ny la orilla.\nMaravilla,\nque nos da,\nlo que está,\nen la silla.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

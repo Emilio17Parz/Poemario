@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te ofrezco mi lealtad,\ncomo prueba de todo lo que siento,\nes la pura verdad,\nque lleva el pensamiento,\nmás allá del fugaz y breve viento.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "lealtad"
+  }
+}

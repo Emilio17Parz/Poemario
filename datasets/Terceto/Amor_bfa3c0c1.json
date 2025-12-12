@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El corazón enciende llama pura,\nque en cada pulso el tiempo transfigura,\ny el eco de este amor se vuelve eterna jura.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

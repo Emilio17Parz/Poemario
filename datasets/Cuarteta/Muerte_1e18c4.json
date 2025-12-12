@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo pasa,\ny nos lleva,\nes la brasa,\nque se eleva.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "lleva"
+  }
+}

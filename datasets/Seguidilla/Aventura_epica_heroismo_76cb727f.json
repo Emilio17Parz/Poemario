@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un sendero lejano\nnos llama ya,\ncon valor en el alma,\nsin mirar atrás.\n\nLa marea furiosa\nruge sin par,\ny mi noble espada\nme ha de guiar.\n\nEl dragón en su cueva,\nfiero guardián,\ncon furia nos espera\nen su frío afán.\n\nEl honor es la brújula,\nguía eternal,\nla victoria nos aguarda\nal final.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "espada"
+  }
+}

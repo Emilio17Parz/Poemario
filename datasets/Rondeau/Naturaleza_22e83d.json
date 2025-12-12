@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Campo de oro brillante,\nque se mece constante,\ncon el aire estival,\nun mar cereal,\nque alimenta al gigante.\n\nEs la prueba flagrante,\nde la tierra abundante,\ny su don natural,\nCampo de oro.\n\nTrabajo del caminante,\ny del habitante,\nque cuida el trigal,\ncomo un ritual,\nimportante,\nCampo de oro.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "trigo"
+  }
+}

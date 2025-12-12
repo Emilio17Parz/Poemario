@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bienaventurados de aquí en adelante los muertos que mueren en el Señor. Sí, dice el Espíritu, descansarán de sus trabajos.\nEn paz me acostaré, y asimismo dormiré; porque solo tú, Señor, me haces vivir confiado.\nAllí los impíos dejan de perturbar, y allí descansan de sus fuerzas los agotados; reposan los prisioneros, no oyen la voz del capataz.\nEntrará en la paz; descansarán en sus lechos todos los que andan en su rectitud, esperando el despertar glorioso.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "descanso"
+  }
+}

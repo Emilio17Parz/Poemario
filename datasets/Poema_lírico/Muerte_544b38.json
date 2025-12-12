@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La paz no está en el templo,\nestá bajo la tierra.\nEs el dulce ejemplo\ndel fin de la guerra.\n\nEl cuerpo se rinde,\nel alma se va,\nel mundo se escinde\ny la calma está.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "paz"
+  }
+}

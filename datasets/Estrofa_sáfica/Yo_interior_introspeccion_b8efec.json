@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro al espejo y busco mi ser,\n¿quién es el rostro que me devuelve?\nduda que nunca se resuelve,\nbúsqueda eterna.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "quién_soy"
+  }
+}

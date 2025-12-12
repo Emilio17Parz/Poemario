@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Los gritos fueron truenos, las palabras rayo,\nEl fin de la pareja llegó en pleno mayo.\nLa tormenta estalló, el amor se inundó,\nY tras el aguacero, ya nada quedó.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mas a Dios gracias, que nos da la victoria por medio de nuestro Señor Jesucristo; por tanto, estad firmes y constantes.\nEn todas estas cosas somos más que vencedores por medio de aquel que nos amó; ni la muerte, ni la vida, nos podrá separar.\nCantad al Señor cántico nuevo, porque ha hecho maravillas; su diestra lo ha salvado, y su santo brazo.\nEl que venciere heredará todas las cosas, y yo seré su Dios, y él será mi hijo; y le daré la estrella de la mañana.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

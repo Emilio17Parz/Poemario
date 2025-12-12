@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soy libre de tu yugo y tus cadenas,\npero no siento gozo al despertar,\ntengo el alma cargada de mil penas,\ny solo ganas tengo de llorar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

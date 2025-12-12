@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sigo la huella del santo,\nque vivió con humildad,\ny sirvió a sus hermanos.\nCon las obras de sus manos,\ndio testimonio de fe,\ny alcanzó la santidad.\n\nLa santidad,\ndel santo,\nque yo soñé.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "santo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Marcado está en el destino,\nque sigas tú mi camino.\n\nDesde que te vi llegar,\nno he dejado de soñar,\nni te puedo olvidar,\ncon un amor tan divino.\n\nMarcado está en el destino,\nque sigas tú mi camino.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "destino"
+  }
+}

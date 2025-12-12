@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Al pensar,\nme pongo a orar.\n\nReflexiono,\ny perdono,\nlo que entono,\nal callar.\n\nAl pensar,\nme pongo a orar.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "pensar"
+  }
+}

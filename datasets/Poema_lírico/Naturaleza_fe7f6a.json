@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El alba es el inicio\nde un día sin fin.\nEs el sacrificio\nde un triste patín.\n\nMe da la esperanza\ny el nuevo color,\nla única alianza\nsin ningún dolor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "alba"
+  }
+}

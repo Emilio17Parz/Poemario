@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Recuerda que morirás,\nsusurra el romano,\nno mires atrás,\nni vivas en vano.\nAprovecha el día,\ncon sabiduría.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Memento_Mori"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro al espejo y no reconozco,\nal rostro tosco que veo lejos,\ny que me devuelve un gesto hosco.\n\nEntre sombras y reflejos,\nbusco la luz que no conozco,\nme miro al espejo y no reconozco.\n\nSon los años y sus consejos,\nque me han vuelto un poco tosco,\nal rostro tosco que veo lejos.\n\nPerdido en los aparejos,\nde un tiempo que se hizo fosco,\nme miro al espejo y no reconozco.\n\nSin encontrar los viejos,\nsueños en los que me enrosco,\nal rostro tosco que veo lejos.\n\nEn estos tristes espejos,\nde mi identidad me despojo,\nme miro al espejo y no reconozco,\nal rostro tosco que veo lejos.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "quién_soy"
+  }
+}

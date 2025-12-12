@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te has convertido en sombra fugitiva,\nque se desliza por el corredor,\nun espectro cargado de dolor,\nque mantiene mi pena siempre viva.\n\nBusco la luz, mas me es esquiva,\nsolo encuentro tiniebla y temor,\nal ver que se murió el dulce amor,\ny voy sin rumbo, y a la deriva.\n\nLa oscuridad se traga mi esperanza,\nme envuelve en su manto de crespón,\nrompiendo la balanza y la alianza.\n\nQueda en penumbra mi corazón,\nsin fe, sin luz y sin confianza,\nperdido en esta negra habitación.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siempre me asalta la terrible duda,\nsobre el sentido de mi caminar,\ny aunque pretendo la respuesta hallar,\nla realidad permanece muda.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "duda"
+  }
+}

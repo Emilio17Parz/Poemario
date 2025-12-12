@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "YO: Me quito la máscara feliz.\nOTRO: ¿Quién eres con ese matiz?\nYO: Soy el que llora y tiene miedo.\nOTRO: Ponte la máscara, te lo pido.\nYO: ¿No quieres ver mi verdad?\nOTRO: Prefiero tu falsa bondad.\nYO: Entonces estaré solo siempre.\nOTRO: Es el precio de estar entre gente.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "YO: Déjame avanzar, Sombra oscura.\nMIEDO: Soy tu protección, tu armadura.\nYO: Me paralizas, me impides ser.\nMIEDO: Te evito caer y perder.\nYO: Quiero arriesgarme, quiero vivir.\nMIEDO: Podrías sufrir y morir.\nYO: Prefiero morir a no intentar.\nMIEDO: Entonces te tendré que soltar.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

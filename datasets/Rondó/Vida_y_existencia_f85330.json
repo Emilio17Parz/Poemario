@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cometo el fallo,\ny aprendo,\ncomprendo,\ny callo.\nNo me hallo,\nni vendo.\nCometo el fallo.\n\nEs humano,\nequivocarse,\ny levantarse,\ntemprano.\nDe la mano,\ny amarse.\nCometo el fallo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "fallo"
+  }
+}

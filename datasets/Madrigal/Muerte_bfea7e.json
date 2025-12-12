@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ya no queda la voz, ni el brillo aquel,\nsolo el puñado de polvo y ceniza.\nEl tiempo es un ladrón que, cruel,\nel recuerdo con prisa desliza.\n\nPero en la tierra que cubrió tu hueso,\ncrece una flor sin peso,\nsímbolo de que el ciclo no se acaba.\nLa vida vuelve donde fue clavada\nla semilla que el tiempo no mata.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Juntar palabras cual collar de perlas,\nritmo y medida que al oído agrada,\nes la tarea del que busca siempre\nla alborada.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

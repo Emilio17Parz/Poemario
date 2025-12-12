@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando el amor en dulce paz se asienta,\nY el corazón un eco fiel le da,\nNingún dolor ni pena lo ahuyenta,\nLa pura esencia que de Dios nos va.\n\nMas hay un fuego que la calma vence,\nUna llamada que del alma brota,\nDonde la entrega al ser amado acaece,\nY la razón en su vaivén se agota.\n\nEs la vibrante y honda **pasión** que arde,\nUn huracán que agita el corazón,\nQue el alma entera su dulzor no guarde,\nY el mundo externo pierde su razón.\n\nAsí mi amor, profundo e incansable,\nSerá por siempre un lazo inquebrantable.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

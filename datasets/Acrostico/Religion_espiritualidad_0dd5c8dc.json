@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "R ogando con fervor,\nE ntrego mi pesar,\nZ ona de puro amor,\nO rando en el altar.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

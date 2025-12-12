@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En el silencio de dos que se aman, se dicen las verdades que el lenguaje no puede abarcar.\nEs un silencio lleno, denso, vibrante, como el aire antes de la tormenta o la paz después de la batalla.\nNo necesitamos hablar para sabernos, basta con estar, con sentir la presencia del otro como un peso dulce.\nQue callen las voces del mundo, para que podamos escuchar el latido único de nuestro amor.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

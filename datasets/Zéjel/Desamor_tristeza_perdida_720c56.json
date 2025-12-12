@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento vacío,\nme muero de frío.\n\nNada me llena,\nes mi condena,\nuna pena,\nsin brío.\nSiento vacío,\nme muero de frío.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

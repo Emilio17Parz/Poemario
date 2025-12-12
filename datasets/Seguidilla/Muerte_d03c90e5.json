@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida que corre,\nun suspiro apenas,\nel tiempo no socorre,\nllenas de cadenas.\n\nSeremos al fin polvo,\nen la tierra fría,\nsin mirar el orbe,\nsin melancolía.\n\nNo hay llanto que frene\nsu paso fatal,\nel alma se viene,\nun velo astral.\n\nTodo lo que fue\nse vuelve un rumor,\nsin saber por qué,\nni sentir dolor.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

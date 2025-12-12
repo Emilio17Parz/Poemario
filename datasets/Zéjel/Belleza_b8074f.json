@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verso rimado,\nbien recitado.\n\nPalabra bella,\ncomo una estrella,\ndeja huella,\nen el lado.\nVerso rimado,\nbien recitado.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

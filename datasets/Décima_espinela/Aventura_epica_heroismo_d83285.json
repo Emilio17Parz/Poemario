@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fiel compañera de acero,\nforjada en fuego y dolor,\nsímbolo de mi honor,\ny de mi golpe certero.\nEn la lucha yo espero,\nque no falles jamás,\ny que siempre me darás,\nla victoria merecida,\nen esta dura partida,\nque no vuelve atrás.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Plata en el pelo, calma en la mirada,\npasos más lentos, sabia la conciencia,\nllega el final con mucha paciencia,\ntarde serena.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

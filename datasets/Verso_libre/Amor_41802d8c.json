@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Más allá de la carne,\ndonde las palabras no llegan,\nte encuentro.\nEs un diálogo silencioso,\nuna vibración que cruza el abismo\npara unir mi alma con la tuya.\nSomos dos luces en la oscuridad,\nreconociéndose en el infinito.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "alma"
+  }
+}

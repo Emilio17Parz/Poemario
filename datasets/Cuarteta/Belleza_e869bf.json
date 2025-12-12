@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En el silencio está la gran belleza,\nde la paz que acalla todo rumor,\nes la ausencia de toda pereza,\nel dulce secreto del Creador.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

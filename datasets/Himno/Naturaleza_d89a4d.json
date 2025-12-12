@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Solemne final de la jornada,\ncon luz de púrpura y oro bañada!\nEl sol se retira a su lecho de mar,\ne invita a las almas a descansar.\n\n¡Salve, ocaso de paz y sosiego,\nque apagas del día el intenso fuego!\nMomento sagrado de la reflexión,\nantes que llegue la noche en su acción.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

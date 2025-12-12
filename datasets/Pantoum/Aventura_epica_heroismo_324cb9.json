@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Empuña la espada vieja,\nherencia de su padre,\njamás se queja,\naunque el mal ladre.\n\nHerencia de su padre,\nacero templado y fiel,\naunque el mal ladre,\ndulce como la hiel.\n\nAcero templado y fiel,\nempuña la espada vieja,\ndulce como la hiel,\njamás se queja.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espada"
+  }
+}

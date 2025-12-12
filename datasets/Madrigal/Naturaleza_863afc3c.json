@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde manto cubre la montaña,\nEl arroyo canta su canción,\nLa luz del sol el prado baña,\nDespertando en cada corazón,\nDonde el alma encuentra paz al fin.\n\nEntre flores de matiz tan puro,\nAbejas danzan con gentil rumor,\nEl ave trina su canto seguro,\nDe vida plena y de tierno amor,\nDonde el alma encuentra paz al fin.\n\nProfundo es el silencio del bosque,\nDonde los árboles se alzan con poder,\nUn santuario de verde y sin tosco,\nNos invita a meditar y a comprender,\nDonde el alma encuentra paz al fin.\n\nEl cielo azul, inmensa cúpula,\nRespira el aire fresco al ascender,\nCada hoja es una diminuta púpula,\nMirando al sol que vuelve a nacer,\nDonde el alma encuentra paz al fin.\n\nAsí la tierra, madre bondadosa,\nNos muestra siempre su eterno fulgor,\nCon su belleza tan maravillosa,\nNos colma el espíritu de amor,\nDonde el alma encuentra paz al fin.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

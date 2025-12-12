@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Me espera en la orilla la negra barca,\nel barquero silente me tiende la mano,\nhe soltado la espada y el yelmo de acero,\nhe dejado mis tierras a mis herederos,\nes hora de cruzar el río de niebla,\nhacia el descanso del guerrero viejo.\n\nSoy un cuerpo cansado, un trasto viejo,\nque sube despacio a la frágil barca,\nperdiéndose lento en la densa niebla,\nsintiendo el frío de una extraña mano,\nya no me importan los viles herederos,\nni el brillo y el filo del buen acero.\n\nCuánto he luchado con fuego y acero,\ndesde joven muchacho hasta hombre viejo,\npara dar un reino a mis herederos,\ny terminar solo en esta barca,\nsin nadie que tome mi arrugada mano,\nenvuelto en silencio y capas de niebla.\n\nSe disipa un poco la eterna niebla,\nveo a los caídos por mi acero,\nme saludan desde la orilla con mano,\nveo a mi padre, también ya viejo,\nremando a mi lado en su propia barca,\nlejos de intrigas de mis herederos.\n\nQue se maten por todo mis herederos,\nyo busco la paz que oculta la niebla,\nme dejo llevar por el agua y la barca,\nya no pesa el alma como el acero,\ndejo la piel de este mundo viejo,\ny toco la orilla con mi propia mano.\n\nMe recibe la muerte y tomo su mano,\nla gloria es polvo para herederos,\nel mundo de vivos es un cuento viejo,\nya crucé el río, la frontera, la niebla,\nya no necesito escudo ni acero,\nse pierde en la sombra la vacía barca.\n\nAdiós a la barca y a la fuerte mano,\nadiós al acero y a los herederos,\nadentro la niebla, descansa el viejo.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "barca"
+  }
+}

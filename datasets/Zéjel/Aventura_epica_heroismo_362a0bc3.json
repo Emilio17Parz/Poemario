@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No busco vana gloria,\nsolo quedar en la historia.\n\nServir con valor,\ncon mucho honor,\ny sin el error,\nde mente ilusoria.\n\nNo busco vana gloria,\nsolo quedar en la historia.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

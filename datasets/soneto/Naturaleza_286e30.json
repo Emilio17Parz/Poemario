@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Efímeras joyas del jardín,\nde pétalos suaves y fragantes,\nvestidas de colores brillantes,\nanunciando que el frío tuvo fin.\n\nDesde la rosa hasta el jazmín,\nson obras de arte, elegantes,\nque duran solo unos instantes\npero alegran nuestro confín.\n\nNos hablan de belleza y pureza,\nde la fragilidad de la vida,\ny de la natural riqueza.\n\nAunque su forma sea perdida,\nqueda su aroma y su gentileza\nen la memoria agradecida.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "petalos"
+  }
+}

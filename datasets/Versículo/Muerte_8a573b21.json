@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega sin preguntar, un velo que se posa,\napagando la luz, la risa que vibraba.\nUn gesto final, un aliento que no vuelve,\ny el cuerpo, antes templo, ahora frágil barca.\n\nSe extiende el vacío, un eco sin respuesta,\ndonde la voz amada se disuelve en el aire.\nEl mundo sigue girando, cruel e indiferente,\nmientras el alma busca una señal, un rastro.\n\nPero aquí, en el resquicio, donde el tiempo se dobla,\nflorece un jardín íntimo, tenaz y persistente.\nEs la memoria, un faro contra la niebla ciega,\nla que se niega al olvido, al silencio absoluto.\n\nEn ella habitan rostros, murmullos y promesas,\nel tacto de una mano, el brillo de una mirada.\nDolorosa verdad, consuelo que se abraza,\nla inmortalidad tenue que el amor ha salvado.\n\nAsí la muerte no es fin, sino umbral que se cruza,\nmientras la memoria teje su hilo irrompible.\nUn puente sobre el abismo, una luz en la sombra,\npara que aquello que fue, jamás sea ceniza.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

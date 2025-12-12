@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "A mánceder cada día a tu lado,\nM irando el brillo de tus ojos,\nO yendo tu voz que me calma,\nR efugiado en tu dulce abrazo.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "amor"
+  }
+}

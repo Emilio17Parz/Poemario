@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La danza,\nes vida.\nSe lanza,\nla danza.\nQuerida,\nbonanza.\nLa danza,\nes vida.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "danza"
+  }
+}

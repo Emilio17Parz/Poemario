@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La sencillez es la cumbre del arte y es real (A),\nel trazo sin doble, sin artificio cruel (B),\nes la verdad que se siente, el bien total (A),\nla forma de la dulce miel (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Sencillez"
+  }
+}

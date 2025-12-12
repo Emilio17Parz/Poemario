@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nos cubre finalmente el gran silencio,\ncuando se apaga el fuego de la voz,\ny el misterio profundo yo presencio.\n\nEl tiempo con su guadaña veloz,\ncortó el hilo sutil de la existencia,\ndejando su sentencia tan atroz.\n\nY queda solo la divina esencia.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

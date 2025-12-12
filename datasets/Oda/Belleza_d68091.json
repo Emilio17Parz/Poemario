@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Vuelo de un ave, de rumbo sin par,\nla vida que busca su propia verdad.\nLa fuerza que el viento le ayuda a anclar,\nel alma que busca libertad.\n¡Oh, impulso libre, de dulce fulgor,\nme das la fe y el amor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

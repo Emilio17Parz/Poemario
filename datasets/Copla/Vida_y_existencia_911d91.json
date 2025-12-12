@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Un amigo bueno\nvale un capital,\nes en la desgracia\napoyo leal.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "amistad"
+  }
+}

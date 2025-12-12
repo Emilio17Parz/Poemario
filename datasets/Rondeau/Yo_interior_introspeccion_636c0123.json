@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Frente al espejo,\nyo me aconsejo,\ny me miro,\ny suspiro,\nal verme viejo.\n\nEs el reflejo,\ndel cortejo,\ndel retiro,\nfrente al espejo.\n\nNo me quejo,\nni me alejo,\ndel giro,\nque admiro,\ncon gran complejo,\nfrente al espejo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

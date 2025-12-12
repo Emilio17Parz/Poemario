@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Es el amor, la brisa que despierta el olivar dormido.\nEs el amor, el rumor de la sangre que pulsa en el instante.\nEs el amor, la paciencia que germina en la espera silenciosa.\nEs el amor, el consuelo en la grieta del alma, luz que sana.\nEs el amor, promesa de amanecer tras la noche más honda.\nY es en su esencia, en su verdad que desnuda y abraza,\ndonde florece el **beso**, cálido umbral, pacto sagrado,\nsello de dos almas que se encuentran y se saben.\nEs el amor, el hilo invisible que teje los destinos.\nEs el amor, y en su latir, el universo entero se inclina.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "beso"
+  }
+}

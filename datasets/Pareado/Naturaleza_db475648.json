@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia del cielo,\nmojando todo el suelo.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

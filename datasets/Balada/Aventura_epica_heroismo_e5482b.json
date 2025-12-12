@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Barco que parte hacia lo desconocido,\ndejando atrás el puerto querido,\ncruza los mares de la soledad,\nbuscando tierra y libertad.\nNoches de estrellas y días de sol,\nsiguiendo el rumbo de su farol,\nel viajero sueña con llegar,\ny nuevas tierras poder pisar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

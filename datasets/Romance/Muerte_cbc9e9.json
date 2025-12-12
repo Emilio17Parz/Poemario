@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Más triste que la muerte misma\nes el olvido que llega,\nborrando nombres y rostros\ncomo el agua que anega.\nNadie recuerda al que yace\nbajo la hierba que ciega,\ny su memoria se pierde\nen la eterna refriega.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

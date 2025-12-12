@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tocas con suavidad,\nEres terciopelo.\nRosas de verdad,\nSuaves como el cielo.\nAmas la bondad.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "TERSA"
+  }
+}

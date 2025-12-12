@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pasó la nube negra\nque nos trajo la discordia,\ny vuelve a brillar el sol\ncon su luz de misericordia.\nPerdóname las palabras\ndichas con tanta estulticia,\nque el amor vuelve a su cauce\ncon renovada delicia.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

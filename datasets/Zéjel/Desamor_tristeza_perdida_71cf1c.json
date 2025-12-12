@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Falso fue todo,\nsalió del lodo.\n\nMe prometiste,\ny mentiste,\nme rompiste,\nde mal modo.\nFalso fue todo,\nsalió del lodo.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "engaño"
+  }
+}

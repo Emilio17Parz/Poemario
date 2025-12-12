@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Senda larga\nque se curva\nentre piedras\ny flores\nsube y baja\nsin saber\nel final.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del cielo con tu lira de oro,\ndicta los versos al poeta insomne,\nhaz que la rima con belleza fluya\ny asombre.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "musa"
+  }
+}

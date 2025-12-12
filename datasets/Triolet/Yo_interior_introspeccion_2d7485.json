@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me siento uno,\nCon el universo,\nTan oportuno.\nMe siento uno,\nSin ayuno,\nEn este verso.\nMe siento uno,\nCon el universo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "uno"
+  }
+}

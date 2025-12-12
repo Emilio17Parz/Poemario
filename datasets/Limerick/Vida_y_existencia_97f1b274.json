@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, un gran laberinto es,\ndonde el alma busca su solaz.\nCon giros y pasos,\nlibrando los lazos,\nal final hallaremos la paz.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rompo cadenas que me ataban fuerte,\nsoy libre al fin de tu dominio cruel,\naunque el sabor me sepa a amarga hiel,\nvuelo sin ti.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

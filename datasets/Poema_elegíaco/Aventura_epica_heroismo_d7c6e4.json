@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Quise gritar la orden, pero la voz no salió ya sin fe ni razón,\nla vida sin la calma, sin ninguna opción.\nEl ejército se rindió, mi nombre es la burla sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la voz que mi alma no pudo soltar jamás sin luz ni paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "grito"
+  }
+}

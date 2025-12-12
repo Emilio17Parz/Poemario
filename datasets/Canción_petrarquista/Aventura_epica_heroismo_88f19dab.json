@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El vasto mar clama una nueva empresa,\nPor riscos que el dragón con fuego azota,\nDonde el valor del alma nunca rota,\nYace el germen de una historia presa.\n\nLa espada fiel, sobre la tierra espesa,\nEl viento gime, la tempestad nos dota\nDe fuerzas, pues la senda no denota\nCobarde huida, sino ardua proeza.\n\nMas cuando el último gigante caiga,\nY el estandarte de la luz se alce,\nQue el orbe nuestro nombre entonces trace.\n\nSerá la dulce música que traiga\nLa voz del tiempo, y el vivir realce\nLa eterna y pura gloria que nos nace.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

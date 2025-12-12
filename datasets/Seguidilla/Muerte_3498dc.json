@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida se termina,\ncomo un suspiro,\ny al final del camino,\nyo te miro.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "suspiro"
+  }
+}

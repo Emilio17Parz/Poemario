@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Canta el arroyo entre las piedras,\nuna canción antigua y pura,\nque borra toda la amargura,\ny desenreda las negras hiedras.\n\nAgua que fluyes y no te arredras,\nllevando vida al valle sediento,\neres la voz y el pensamiento,\nde la tierra en que te empiedras.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "arroyo"
+  }
+}

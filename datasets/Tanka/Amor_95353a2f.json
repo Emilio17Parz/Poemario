@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cierro los ojos\npara poder mirarte\nen mi interior.\nAllí siempre me amas\nsin miedos ni dolor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

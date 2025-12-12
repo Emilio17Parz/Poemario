@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Gris del luto, color de la pena,\nque cubre la vida sin un gran sol.\nLa pena persiste, la cruel cadena,\npor el ser que ya no tiene un rol.\n¡Oh, sombra sombría, de eterno pesar,\nme impides el tiempo anclar!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Gris"
+  }
+}

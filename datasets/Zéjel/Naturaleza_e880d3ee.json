@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna llena,\nquita la pena.\n\nLuz de la noche,\nblanco derroche,\nsin un reproche,\ntan serena.\n\nLa luna llena,\nquita la pena.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "luna"
+  }
+}

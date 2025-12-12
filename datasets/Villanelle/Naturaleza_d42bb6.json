@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo ruge con ira,\ny el rayo rompe la calma,\nmientras el mundo gira.\n\nTodo se retira,\nante el miedo del alma,\nel cielo ruge con ira.\n\nLa lluvia respira,\nsobre la palma,\nmientras el mundo gira.\n\nNadie la mira,\nni la ensalma,\nel cielo ruge con ira.\n\nEs una mentira,\nque nos desalma,\nmientras el mundo gira.\n\nLa paz expira,\ny nadie la empalma,\nel cielo ruge con ira,\nmientras el mundo gira.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

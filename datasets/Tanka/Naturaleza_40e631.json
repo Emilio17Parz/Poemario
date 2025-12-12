@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Tronco robusto\nraíz en la tierra\nbrazos al sol.\nNos das tu sombra fresca\ny el aire que respiro.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

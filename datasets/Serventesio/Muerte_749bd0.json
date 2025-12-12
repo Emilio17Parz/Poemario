@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La noche es eterna, sin luz ni estrella fugaz (A),\nel negro que cubre todo fulgor (B),\nel descanso es pleno, la dulce paz (A),\nla esencia del puro amor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Eterna"
+  }
+}

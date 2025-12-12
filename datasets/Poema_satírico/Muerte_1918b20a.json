@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí yace un buen hombre,\ndice la piedra fría,\npero todos sabían,\nque era un bicho sin nombre.\nNo hay muerto que no asombre,\npor su gran valía,\nla muerte cambia la vía,\ny al villano da renombre.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "epitafio"
+  }
+}

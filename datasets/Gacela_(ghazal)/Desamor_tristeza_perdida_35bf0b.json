@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Grita en la casa un cruel silencio,\nllena el espacio el cruel silencio.\n\nAntes había risas, hoy presencio,\nla tiranía del cruel silencio.\n\nNadie responde y me convenzo,\nque el fin de todo es el cruel silencio.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

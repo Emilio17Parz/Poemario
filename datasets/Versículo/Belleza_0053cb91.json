@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El canto azul que el alma anhela,\nla flor que nace en el baldío gris,\nesencia pura que nos revela\nun eco antiguo, un dulce matiz.\n\nEl mar profundo, el pico alto y frío,\nel ruiseñor que en la tarde trina,\nnos hablan de un poder, un misterio pío,\nque en cada cosa bella se ilumina.\n\nLa línea exacta, el trazo sin error,\nla proporción que el universo abraza,\nen cada curva, en cada fulgor,\nla *forma* misma que el espíritu traza.\n\nAsí perdura, más allá del mirar,\nen el asombro que nos hace ser,\nun gozo eterno que al fin va a encontrar\nsu propia luz, su inmenso renacer.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "forma"
+  }
+}

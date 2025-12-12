@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mientras tiramos el pan,\nmillones mueren con afán,\nde conseguir un grano de arroz,\ncon una súplica en su voz.\nEs el escándalo mundial,\nque en este siglo digital,\nhaya quien muera de inanición,\nsin que haya una solución.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Contemplo tu cara,\nobra maestra,\nque Dios nos muestra,\nlimpia y clara.\nNada se compara,\na tu diestra.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

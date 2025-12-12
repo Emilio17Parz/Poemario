@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar ya no tiene fin,\nmi alma es un trajín.\n\nLa ola ya me ganó,\nla pena ya se me fue,\nel mundo ya no está mal,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "mar"
+  }
+}

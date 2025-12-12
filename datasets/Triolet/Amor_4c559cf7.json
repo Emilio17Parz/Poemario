@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mirada me ilumina\ncon su brillo celestial,\nes la luz que me fascina.\nTu mirada me ilumina,\nmi camino determina\nde una forma especial.\nTu mirada me ilumina\ncon su brillo celestial.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

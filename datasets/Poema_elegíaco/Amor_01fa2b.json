@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El río de la memoria corre sin detenerse,\npero solo trae el lodo de lo que ya fue.\nTe busco en el reflejo, pero te niegas a verme,\nla imagen de tu amor se ha roto con mi fe.\n\nMi vida es el puente que conduce a tu tumba,\ndonde la flor más bella se marchita sin sol.\nQue el tiempo nos olvide antes que sucumba,\nmi corazón herido sin un solo farol.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

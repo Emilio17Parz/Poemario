@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Solo cenizas quedan de un amor sin luz (A),\nel fuego se extingue con gran dolor (B),\nmi alma no quiere ya cargar la cruz (A).\n\nLa pena es eterna, sin un fulgor (B),\nla herida se abre, no quiere cerrar (C),\nla ausencia de todo valor (B).\n\nNo hay más que llorar, no hay más que sanar (C),\nsin el dulce bálsamo de tu querer (D),\nla forma de no volver a amar (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Ceniza"
+  }
+}

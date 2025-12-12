@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Misterio en el bosque,\nQue nadie conoce,\nAunque se embosque.\nMisterio en el bosque,\nQue el miedo enrosque,\nY el viento roce.\nMisterio en el bosque,\nQue nadie conoce.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

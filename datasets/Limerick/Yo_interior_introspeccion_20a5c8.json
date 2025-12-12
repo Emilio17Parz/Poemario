@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El sueño que nace en mi ser,\nme ayuda a la sombra vencer.\nEs meta y es luz,\nsin una gran cruz,\nel alma que quiere ya ser.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

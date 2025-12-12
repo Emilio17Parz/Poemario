@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos, alrededor del fuego, historias de tiempos donde los dioses caminaban entre los mortales y la magia era tan real como el pan.\nNosotros somos los hijos de esas sombras, buscando desesperadamente una chispa de aquella grandeza en la ceniza de nuestros días.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Diamante en la oscuridad,\nque brilla lejos de aquí,\ncon gran solemnidad.\n\nYo siempre te vi,\ncomo una joya prendida,\nque ilumina mi ti.\n\nEn la vida.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "estrella"
+  }
+}

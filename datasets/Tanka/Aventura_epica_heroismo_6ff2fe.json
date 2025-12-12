@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mar infinito\nbarco que surca olas\nviento a favor.\nLa costa queda lejos\ny la aventura llama.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "travesía"
+  }
+}

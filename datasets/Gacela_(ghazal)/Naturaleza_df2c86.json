@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Flota en el aire la blanca nube,\nviajera errante la blanca nube.\n\nCambia de forma jugando con luz,\nsueño de algodón la blanca nube.\n\nA veces llora y moja la tierra,\nmadre del agua la grisácea nube.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "nube"
+  }
+}

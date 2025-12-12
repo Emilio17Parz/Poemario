@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hicimos un cálido nido,\ncon ramas de amor y de olvido.\nLa pena no entra,\nla dicha se centra,\nen nuestro hogar bien cosido.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Nido"
+  }
+}

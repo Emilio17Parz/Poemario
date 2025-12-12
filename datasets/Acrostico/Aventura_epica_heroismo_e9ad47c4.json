@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "M agia de la leyenda,\nI magen del ayer,\nT ras la antigua senda,\nO culto al parecer.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "mito"
+  }
+}

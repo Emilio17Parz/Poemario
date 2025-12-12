@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se viste el campo de vivo color,\ncuando la flor en el valle despierta,\ny se disipa el antiguo dolor,\ndejando el alma feliz y abierta.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "color"
+  }
+}

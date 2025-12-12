@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El rico contaba el oro en la mesa de roble,\nEl pobre miraba el hueco con el alma noble.\nEl papel era el dios, la única verdad,\nLa moneda es la cárcel de la sociedad.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "dinero"
+  }
+}

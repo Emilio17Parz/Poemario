@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Como oveja que pierde al pastor,\nasí vago yo por la llanura,\nbalando mi triste desventura,\ny el peso inmenso de mi dolor.\n\nPerdí la guía, perdí el amor,\ny ahora soy presa del lobo fiero,\nque es el olvido, cruel carnicero,\nque me devora con gran furor.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "oveja"
+  }
+}

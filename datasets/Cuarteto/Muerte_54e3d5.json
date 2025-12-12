@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj se detiene, no hay más tiempo ya,\nla arena se escurre sin un final,\nla hora se para, la vida se va,\nel juicio supremo, el mal fatal.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Reloj"
+  }
+}

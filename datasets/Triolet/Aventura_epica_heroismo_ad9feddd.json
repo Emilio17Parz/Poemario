@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por la gran gesta palpita su corazón.\nUn desafío aguarda al vencedor.\nLucha incansable, valiente su acción.\nPor la gran gesta palpita su corazón.\nDe frente reta al temible dragón.\nUn desafío aguarda al vencedor.\nProeza épica, gloriosa ascensión.\nPor la gran gesta palpita su corazón.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

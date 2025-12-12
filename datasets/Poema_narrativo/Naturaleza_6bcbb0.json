@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La ola nació lejos, en el fondo azul,\nCreció con fuerza y vino bajo el cielo tul.\nRompió contra la arena con un grito de espuma,\nVolviendo a ser agua, sin sombra ni bruma.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "ola"
+  }
+}

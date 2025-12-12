@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El ahora es lo que cuenta,\nel pasado ya se fue.\nLa vida se presenta,\ncomo un acto de fe.\n\nEl pasado ya se fue,\nfuturo es ilusión.\nComo un acto de fe,\nlatiendo en la canción.\n\nFuturo es ilusión,\nla vida se presenta.\nLatiendo en la canción,\nel ahora es lo que cuenta.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "instante"
+  }
+}

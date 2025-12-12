@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se dejó barba de hipster,\npara parecer un míster.\nComió sopa,\nmanchó la ropa,\ny pareció un gran hámster.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "barba"
+  }
+}

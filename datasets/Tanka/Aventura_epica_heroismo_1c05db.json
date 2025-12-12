@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuento de viejos\nsobre héroes antiguos\nmagia y verdad.\nSe canta junto al fuego\npara no olvidar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

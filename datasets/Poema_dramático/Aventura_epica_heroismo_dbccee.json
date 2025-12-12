@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL MONARCA]\nLa corona pesa como el plomo, y no por el oro, sino por las cabezas que la exigen.\nSer rey no es gozar. Es tomar decisiones crueles, es ser el único que carga el miedo.\nMi pueblo me odia. Mis enemigos me acechan. Mi familia me traiciona.\nEl trono es la celda más alta y más fría. Y no puedo dimitir de este dolor.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "corona"
+  }
+}

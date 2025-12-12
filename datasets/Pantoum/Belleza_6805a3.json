@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Violeta, naranja y rojo,\nfiesta en el horizonte,\nun hermoso antojo,\ndetrás del monte.\n\nFiesta en el horizonte,\nel cielo se despide,\ndetrás del monte,\nla noche decide.\n\nEl cielo se despide,\nvioleta, naranja y rojo,\nla noche decide,\nun hermoso antojo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

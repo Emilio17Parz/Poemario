@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Naturaleza",
   "poema": {
     "texto": "Había un señor de París\ncon afición a los mars.\nBailaba tango y flamenco\ny también algo de Naturaleza\n¡qué artista el de París!",

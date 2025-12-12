@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Luché con mi demonio,\nen la noche oscura,\nuna batalla dura,\nsin testimonio.\nBusqué el matrimonio,\ncon mi alma pura,\ny hallé la cura,\ndel manicomio.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "demonio"
+  }
+}

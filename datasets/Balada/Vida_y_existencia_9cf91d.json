@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Río que fluye y nunca regresa,\nllevándose todo hacia el mar,\nes la corriente que nos apresa,\ny no nos deja de arrastrar.\nAprovechemos cada momento,\npues el presente es lo real,\nantes que sople el último viento,\ny llegue el punto final.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

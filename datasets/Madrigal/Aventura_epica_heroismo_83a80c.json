@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dar la vida para salvar a otros,\nel acto más noble y más valiente,\nlatente,\nen el corazón de algunos de nosotros.\nEl héroe no busca su propio bien,\nni a quién,\nsolo sabe que debe proteger,\ny vencer.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "vida"
+  }
+}

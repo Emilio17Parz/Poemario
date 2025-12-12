@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "¿Qué es este andar que el tiempo nos concede?\nUn laberinto oscuro y abismal.\n¿Un breve soplo que a la nada cede?\nO el eco eterno de un clamor vital.\n\nEl sol nos guía, la penumbra acosa,\nBuscando un rumbo en la vasta inmensidad.\nCada latido, una verdad nerviosa,\nQue forja el alma con su cruel verdad.\n\n¿Mas qué valor tiene el vivir, si es vano?\n¿Si la verdad nos escapa entre la palma?\nUn vasto y tenue **sueño** soberano,\nQue al despertar nos desgarra el alma.\n\nY así vagamos, sin saber la meta,\nLa vida un verso, el ser, un alma inquieta.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

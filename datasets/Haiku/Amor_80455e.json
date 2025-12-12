@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Senda de dos,\npasos en el sendero,\nrumbo al destino.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "senda"
+  }
+}

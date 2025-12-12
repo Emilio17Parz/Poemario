@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Los árboles rezan con ramas al cielo,\ncubriendo la tierra con su verde velo.\n\nEl musgo es alfombra de suave terciopelo,\ndonde duerme el duende sin ningún desvelo.\n\nTemplo de la vida, refugio y consuelo,\nel bosque respira en su eterno anhelo.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

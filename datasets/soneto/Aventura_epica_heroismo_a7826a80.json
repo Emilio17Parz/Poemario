@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Llegar y plantar la bandera,\nclamar como propio el terreno,\nsin ver que el lugar es ajeno\ny tiene su historia primera.\n\nLa épica a veces es fiera,\ny trae consigo el veneno\nde un dominio que no es bueno,\naunque la crónica lo exagera.\n\nGanar nuevas tierras y gentes,\nexpandir el reino y la ley,\ncruzando los mares y puentes.\n\nServir al mandato del rey,\ncon actos que son evidentes,\naunque a veces se pierda la grey.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

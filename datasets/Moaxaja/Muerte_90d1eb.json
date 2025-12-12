@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cruzar el río,\ncon el frío.\n\nBarquero espera,\nen la ribera,\ntan austera,\nel mío.\nCruzar el río,\ncon el frío.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

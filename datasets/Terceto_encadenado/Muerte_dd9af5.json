@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El gran viaje sin regreso al puerto fiel (A),\nuna vela al viento que no volverá ya (B),\nel alma se va, el camino incierto (A).\n\nLa vida se extingue, sin un final (B),\nel cuerpo se cansa, sin poder más (C),\nla ausencia de todo bien total (B).\n\nNo hay más que llorar, no hay más paz (C),\nla sombra me cubre, sin piedad (D),\nla eterna y dura lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

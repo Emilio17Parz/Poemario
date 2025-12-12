@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi mente vuela y vuela\ncomo pájaro sin nido,\nbuscando alguna razón\na todo lo sucedido.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "mente"
+  }
+}

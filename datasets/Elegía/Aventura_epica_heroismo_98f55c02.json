@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Duermes en el fondo del mar oscuro,\nesqueleto de madera y velas,\ndonde tejen los peces sus telas,\nlejos del puerto y del aire puro.\nFuiste el rey del océano duro,\nrompiendo olas y carabelas,\nhoy eres tumba y solo revelas,\nel fin de un viaje inseguro.\nLloro por tu casco destrozado,\npor los marinos que te siguieron,\ny por el tesoro no encontrado.\nLas aguas profundas te cubrieron,\ny tu nombre ha sido borrado,\nde los mapas que te conocieron.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "barco"
+  }
+}

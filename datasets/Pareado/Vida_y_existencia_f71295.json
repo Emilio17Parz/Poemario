@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tú eliges el rumbo, la senda y la fe que es real (A),\nel bien o el mal, el golpe fatal (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Elegir"
+  }
+}

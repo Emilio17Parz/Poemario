@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí yace el cuerpo que el mundo olvidó ya,\nbajo la suave tierra que nunca se va.\nEl descanso es el premio del largo dolor,\nel fin de la pena, el último fulgor.\n\nEl silencio es la calma, la única paz,\nla vida que no quiere ser capaz.\nDuerme, cuerpo cansado, tu guerra acabó,\nla tumba es el reino que el tiempo te dio.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "reposo"
+  }
+}

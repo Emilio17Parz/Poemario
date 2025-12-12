@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "   Un círculo\n  de  amor\n eterno  sin\n  fin  ni\n   principio",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "anillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un suspiro breve se escapa de mi ser (A),\npor la dulce imagen de tu existir (A),\nla única forma de querer vencer (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Suspiro"
+  }
+}

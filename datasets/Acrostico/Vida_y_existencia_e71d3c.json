@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Miras hacia adelante,\nEsperando llegar.\nTienes que ser constante,\nAlcanza tu lugar.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "META"
+  }
+}

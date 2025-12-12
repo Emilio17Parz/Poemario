@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Brota del ojo el agua cristalina\nque lava la mejilla en su descenso,\ny libera el dolor, vasto e inmenso,\nque en el pecho oprimido se empecina.\n\nEs la lluvia del alma que germina\nen el campo del duelo tan intenso,\nun idioma sin voz, mudo y propenso\na contar la tragedia que domina.\n\nLloro por lo que fue y ya no existe,\npor la palabra dicha y la callada,\npor este corazón que se resiste.\n\nCada lágrima es una estocada,\npero al final, aunque el mirar se viste\nde gris, el alma queda liberada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

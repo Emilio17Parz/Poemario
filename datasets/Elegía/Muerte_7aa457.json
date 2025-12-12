@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Hora que anuncias el fin sin parar,\nel tiempo que el alma ya no puede vencer.\nTu voz es la sombra, sin poder anclar,\nel alma sin un gran poder.\nTu tic tac es pena, la calma es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Hora"
+  }
+}

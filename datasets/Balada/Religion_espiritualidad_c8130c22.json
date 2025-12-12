@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Voy caminando hacia Santiago,\ncon mi bastón y mi fe,\npagando culpas, haciendo pago,\nde lo que mal yo obré.\nSanto Apostol, yo llegaré,\ny mis pecados purgaré.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "peregrino"
+  }
+}

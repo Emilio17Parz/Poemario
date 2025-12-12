@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, vastedad silente, ¿dónde tu canto?\n¿Dónde la voz que el árbol sostenía?\nEl aire, hoy denso, envuelto en un quebranto,\nYa no me trae el soplo de la alegría.\nLa flor, efímera gema, mustia y vana,\nNo alza su copa al sol, ya sin fulgor,\nY el verde antaño pródigo en la sabana\nSe desvanece en gris, en el dolor.\n\nEl río, antaño espejo de la aurora,\nCon un murmullo lúgubre transcurre,\nLlevando en sus corrientes lo que añora:\nLa vida que se fue, que no resurge.\nEl pájaro, que otrora pobló el ramaje,\nSu melodía calla, triste y hondo,\nY el cielo, que era lienzo del paisaje,\nRefleja un manto pálido en el fondo.\n\nMas, firme aún, la **montaña** venerable,\nCentinela de piedra, al tiempo ajena,\nEleva su perfil inalterable,\nGuardando el eco de una edad serena.\nSus cumbres, cicatrices de lo eterno,\nContemplan el despojo, la erosión,\nEl paso lento de este crudo invierno\nQue ha helado la savia del corazón.\n\nUn lamento callado, la tierra exhala,\nPor el fulgor perdido, la pureza.\nLa huella nuestra, inclemente, no se iguala\nA su paciente y vasta fortaleza.\nY en cada ocaso que la luz declina,\nSe adivina el adiós, lento y profundo,\nA la belleza pura, cristalina,\nQue poco a poco se evapora del mundo.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

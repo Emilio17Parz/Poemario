@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "MUJER: (Ante la lápida) Aquí me tienes, sola y vacía.\nHablándole a una piedra fría.\n¿Me escuchas, amor, allá donde estés?\n¿O es todo silencio después?\nNadie me contesta, solo el viento.\nEs insoportable este tormento.\nLlévame contigo, no quiero estar,\nen este mundo sin poderte amar.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

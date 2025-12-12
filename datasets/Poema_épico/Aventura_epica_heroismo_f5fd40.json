@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No es el oro lo que buscamos,\nsino la gloria de la búsqueda,\nlos peligros que superamos,\nen esta senda húmeda.\nEl verdadero botín es el ser,\nque en el viaje lograste ver.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Tesoro"
+  }
+}

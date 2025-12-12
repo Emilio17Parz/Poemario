@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Roma cayó por el vicio,\ny la corrupción,\nperdió la razón,\ny el sacrificio.\nFue el precipicio,\nde su gran nación,\nla destrucción,\nde su oficio.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "imperio"
+  }
+}

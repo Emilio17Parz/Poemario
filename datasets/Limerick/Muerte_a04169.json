@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajó al infierno caliente,\ny vio a muchísima gente.\nHabía políticos,\ny también críticos,\nen un ambiente pestilente.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "infierno"
+  }
+}

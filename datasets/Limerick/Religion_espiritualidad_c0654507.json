@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Gritaron \"¡Milagro!\" en la aldea,\nla estatua movió la correa,\nera un ratón,\nen el pantalón,\ndel santo que allí se pasea.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Milagro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "AMANTE 1: ¿Y si el tiempo nos borra de la historia?\nAMANTE 2: Entonces escribiremos en el viento.\nAMANTE 1: ¿Y si la muerte rompe el juramento?\nAMANTE 2: Mi amor será eterno en tu memoria.\nNi la tumba fría, ni el paso de los años,\npodrán con nosotros, ni con desengaños.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

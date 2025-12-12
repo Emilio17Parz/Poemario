@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lo que ayer fue fuego y vida,\nhoy es polvo gris y leve,\nque el viento suave mueve\nen su danza despedida.\nLa forma ha sido destruida,\nya no hay sangre que se eleve,\nni tiempo que se renueve,\nsolo materia perdida.\nTe esparzo en el mar inmenso,\npara que vuelvas a la sal,\nen este acto suspenso.\nEs el retorno final,\nel humo blanco de incienso,\ndel drama terrenal.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

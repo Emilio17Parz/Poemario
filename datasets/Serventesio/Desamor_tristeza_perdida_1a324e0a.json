@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La casa se ha quedado en el vacío,\nsin tu voz resonando en la sala,\ny siento el penetrante y duro frío,\nque a mi pecho doliente apuñala.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

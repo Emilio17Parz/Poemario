@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Duele no verte más,\nUn vacío profundo.\nEn donde quiera estás,\nLejos de este mundo.\nOlvido tú me das.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "DUELO"
+  }
+}

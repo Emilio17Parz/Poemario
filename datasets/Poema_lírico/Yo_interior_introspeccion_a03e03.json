@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Despierto y no sé quién soy,\nla forma se va ya.\nEl ayer es el hoy\nque el alma me da.\n\nBusco mi rostro,\nmi nombre y mi fe,\nmi único astro\nsin ningún por qué.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "despertar"
+  }
+}

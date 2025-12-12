@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "TESEO: Los muros son altos, no veo el final.\nARIADNA: Sujeta este hilo, no lo dejes ir.\nTESEO: Tengo miedo de no poder salir,\nde perderme en este juego fatal.\nARIADNA: El laberinto está en tu cabeza,\nsigue el amor y tendrás fortaleza.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

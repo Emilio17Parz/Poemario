@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Buscaba la eternidad,\ncon cremas de vanidad.\nSe estiró tanto la piel,\nque parecía de papel.\nMurió joven y terso,\npero feo como este verso.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

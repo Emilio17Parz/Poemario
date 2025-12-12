@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Luché con mi sombra,\ntoda la noche,\nsin un reproche,\nen la alfombra.\nEl monstruo era yo,\ncon mis miedos,\ny mis enredos,\nque me dio.\nLo abracé fuerte,\ny cambió mi suerte.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "demonio"
+  }
+}

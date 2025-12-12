@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La cadena no es de hierro, es el silencio que el alma me ata sin fe, cruel y sin razón fiel,\nla vida sin la calma, con sabor amargo a hiel.\nEl miedo es el yugo que el pueblo soporta ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la voz que mi boca no pudo alzar jamás sin voz ni paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "cadena"
+  }
+}

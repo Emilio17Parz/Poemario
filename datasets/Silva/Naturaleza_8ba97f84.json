@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ondea el trigo de oro,\nbajo la brisa suave de la tarde,\npreciado tesoro,\nque nunca hace alarde,\naunque el sol del verano le arde.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "trigo"
+  }
+}

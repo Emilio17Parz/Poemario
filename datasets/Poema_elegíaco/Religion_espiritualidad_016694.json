@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El destino me ha atado a este error sin poder huir, sin fe ni razón,\ny mi vida es el castigo sin ninguna opción.\nLuché contra el plan, pero la rueda giró, cruel y fiel sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la libertad que mi alma no pudo tener jamás al final sin luz,\ny mi ser es la esclava de una triste cruz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "destino"
+  }
+}

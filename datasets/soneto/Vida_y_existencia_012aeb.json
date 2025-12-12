@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Estamos escritos en las estrellas,\no somos dueños de nuestro timón?\nBuscamos siempre una explicación,\na las dichas y a las querellas.\n\nSeguimos de los padres las huellas,\ncargando con su vieja tradición,\npero late una nueva ambición,\nde romper las cadenas aquellas.\n\nEl destino se teje a diario,\ncon hilos de azar y voluntad,\nen este inmenso y gran escenario.\n\nNo es una fija fatalidad,\nsino un libro extraordinario,\nlleno de magia y realidad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "destino"
+  }
+}

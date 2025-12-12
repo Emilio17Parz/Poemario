@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Un pueblo culto es libre,\nlee y cuestiona,\nque tu mente vibre,\ny razona.\nLa ignorancia es cadena,\nque da mucha pena.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Educación"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Nada permanece, todo se va,\ncomo el agua que corre hacia el océano,\ntan lejano,\nla vida nunca se detendrá.\nFluir con el momento es la clave,\nla nave,\nque nos lleva seguros por el mar,\nal hogar.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "fluir"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Estalla el mundo en fiesta de color,\ncuando el sol ilumina la pradera,\nquitando la grisura y el dolor.\n\nLlega triunfante la primavera,\nvistiendo de matices el paisaje,\nde una manera dulce y ligera.\n\nEn este hermoso y natural viaje.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "color"
+  }
+}

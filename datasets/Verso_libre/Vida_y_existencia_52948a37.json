@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nadie se baña dos veces en el mismo río, porque las aguas pasan y el hombre cambia.\nFluimos constantemente, somos proceso, devenir, cambio perpetuo sin forma fija.\nNo intentes aferrarte a la orilla, suéltate y déjate llevar por la corriente de la existencia.\nEl río sabe hacia dónde va, confía en su curso y llegarás al mar de la plenitud.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "río"
+  }
+}

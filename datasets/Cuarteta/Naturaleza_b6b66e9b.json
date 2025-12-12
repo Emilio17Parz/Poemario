@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol nos da su brillo,\ncalienta la tierra fría,\ncon un gesto muy sencillo\nnos regala un nuevo día.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

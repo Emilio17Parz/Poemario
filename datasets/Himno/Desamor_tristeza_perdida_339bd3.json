@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Yace en el suelo, con alas quebradas,\nla que sostuvo mis horas cansadas.\nLlorad por la Esperanza que ha fallecido,\nyace inerte en el campo del olvido.\n\nYa no hay mañana, solo hay ayer,\nya no hay motivo para creer.\nCanto su réquiem con voz de lamento,\npues se la ha llevado el frío del viento.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

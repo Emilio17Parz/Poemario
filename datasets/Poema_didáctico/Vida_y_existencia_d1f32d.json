@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nada que valga es gratis,\ntodo pide sudor,\nno uses parches ni gratis,\nbusca el valor.\nEl premio ganado,\nes el más saboreado.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Esfuerzo"
+  }
+}

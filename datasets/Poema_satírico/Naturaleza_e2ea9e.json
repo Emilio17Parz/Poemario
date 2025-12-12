@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El narcisista del sonido,\nrepite lo que dices,\naunque no tenga sentido,\nni tenga raíces.\nHablar con la montaña,\nes una maña extraña.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Eco"
+  }
+}

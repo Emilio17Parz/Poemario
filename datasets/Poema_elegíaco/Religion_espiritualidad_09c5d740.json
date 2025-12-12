@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La luz de la gracia,\nse ha ido de mi pecho,\ndejándome deshecho,\nen la desgracia.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "luz"
+  }
+}

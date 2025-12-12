@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Diste la espalda sin mirar mi rostro,\nfría la tarde se quedó sin vida,\ny en el silencio retumbó tu paso,\ncruel despedida.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

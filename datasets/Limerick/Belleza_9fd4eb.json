@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Preguntó al espejo, ¿quién es,\nla más bella del revés?\nEl espejo calló,\ny se rompió,\ndel susto y del estrés.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

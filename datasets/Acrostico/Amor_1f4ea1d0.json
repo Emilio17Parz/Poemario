@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "**A**liento que nace en la mirada, profundo y leal,\n**M**undo que se dibuja en cada instante, especial.\n**O**ro puro de afecto, promesa que no tiene final,\n**R**esplandece tu esencia en el más cálido **abrazo** que me das.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

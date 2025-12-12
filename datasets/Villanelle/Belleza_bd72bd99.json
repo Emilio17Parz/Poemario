@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Queda la vida viva en el arte,\nplasmando el sueño y la realidad,\nque el genio con el mundo comparte.\n\nNunca la muerte logra que aparte,\nla belleza de la humanidad,\nqueda la vida viva en el arte.\n\nEn cada lienzo y en cada parte,\nhay un destello de eternidad,\nque el genio con el mundo comparte.\n\nEs la bandera y el estandarte,\nde nuestra fina sensibilidad,\nqueda la vida viva en el arte.\n\nAunque el destino las cosas carte,\nla obra vence a la tempestad,\nque el genio con el mundo comparte.\n\nNo hay olvido que la descarte,\npues brilla con intensidad,\nqueda la vida viva en el arte,\nque el genio con el mundo comparte.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "arte"
+  }
+}

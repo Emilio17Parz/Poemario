@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Brilla en mi alma tu luz celestial,\ncomo un faro en la noche cerrada,\nque guía el paso de mi alma cansada,\nlejos del miedo y del oscuro mal.\nEs un regalo de amor esencial,\nesta divina y sagrada alborada.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "luz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En la pantalla grande,\nque se expande,\nla historia,\nnotoria,\nque mande.\n\nQue ande,\ny se ablande,\nla memoria,\nEn la pantalla.\n\nLa trayectoria,\ny la gloria,\ndelande,\nque demande,\nla euforia,\nEn la pantalla.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "pantalla"
+  }
+}

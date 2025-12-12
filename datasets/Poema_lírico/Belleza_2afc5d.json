@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tu rostro es la calma,\nla única verdad.\nLa vida que el alma\nme da sin piedad.\n\nMe obliga a mirar,\nme obliga a sentir,\nla única forma\npara poder huir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

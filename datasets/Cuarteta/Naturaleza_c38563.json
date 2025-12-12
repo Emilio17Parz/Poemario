@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol de la tarde tiñe el trigal,\nde oro encendido y de fuego suave,\nes la promesa de un nuevo fanal,\nla paz que el alma en su centro cabe.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Sol"
+  }
+}

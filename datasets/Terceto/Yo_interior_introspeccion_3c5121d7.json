@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Un viaje sin mapa, al hondo ser,\ndonde el alma desnuda se revela,\nbuscando el eco que me hace volver.\n\nPor la senda secreta que me cela,\nhallazgo de mi esencia más profunda,\nla luz que entre las sombras se desvela.\n\nY en ese abismo donde el tiempo inunda,\nsurge la vieja y pertinaz **duda**,\nque mi propia verdad a veces confunda.\n\n¿Soy quien creo, o la visión nula\nde un espejo empañado por lo ajeno?\nMi alma se pregunta, muda.\n\nBusco el eco sincero, el cauce pleno,\ndel río que me habita y no se nombra,\nmi propio laberinto, sereno.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "duda"
+  }
+}

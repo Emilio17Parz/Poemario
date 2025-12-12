@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Soltaste las armas, guerrero cansado,\ny el cuerpo se rindió sin luchar más.\nEl fin ha llegado, ha terminado,\nla dura batalla que tú verás.\n\nNo hay más frentes, ni más enemigos,\nsolo la paz de los viejos abrigos.\nEl campo de batalla queda atrás,\ny el alma ya disfruta de la paz,\nque el mundo no supo nunca darle.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

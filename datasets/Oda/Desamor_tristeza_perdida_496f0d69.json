@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Papel que se vuelve fuego,\ntinta que se hace humo,\nlas promesas que escribiste\nhoy en ceniza resumo.\nArden las palabras dulces,\nchilla la hoja al morir,\ny veo en la llama naranja\nlo que no tiene porvenir.\nFuego purificador,\nborra la prueba de ayer,\nque no quede rastro alguno\nde este maldito querer.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "carta_quemada"
+  }
+}

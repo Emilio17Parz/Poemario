@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan que hubo gigantes,\nque la magia corría como ríos.\nSon historias para dormir,\npara olvidar que somos pequeños\ny que nuestra única magia\nes la terquedad de seguir respirando.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Siento el viento antiguo que me llama,\nDesde cumbres donde el águila se posa,\nUna chispa en mi alma se derrama,\nLa senda ignota, hermosa y peligrosa.\n\nCruzo valles de sombra y de rocío,\nCon la espada al cinto y la mirada al frente,\nCada paso es un pacto, un desafío,\nContra el miedo que el alma, a veces, siente.\n\nNo busco tesoros ni corona vana,\nMas la fuerza que forja el corazón,\nEn cada aurora que mi ser emana,\nLa voz silente de mi propia razón.\n\nY al final del camino, ante la prueba,\nDonde el destino teje su tapiz,\nMi espíritu alzado, el alma nueva,\nHallará su **gloria**, su raíz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

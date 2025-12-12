@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La sombra que crece gigante,\nel monstruo debajo la cama,\nla voz que al peligro llama\ny pone el corazón tremante.\n\nParaliza al caminante,\napaga del valor la llama,\ny teje su oscura trama\nen el porvenir distante.\n\nEl miedo es guardián y carcelero,\nnos salva del riesgo real,\npero es un tirano severo.\n\nVencerlo es el paso vital,\nmirarlo con ojo sincero\ny ver que no es tan letal.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El acero brilla en la aurora, un canto nuevo surge,\nEl héroe parte, el destino le llama sin piedad;\nUn grito de batalla en el viento que se urge,\nPor sendas ignotas camina la humanidad.\n\nEl héroe parte, el destino le llama sin piedad,\nEl corazón audaz no conoce el miedo, no huye;\nPor sendas ignotas camina la humanidad,\nLa sombra del dragón acecha, su furia ruge.\n\nEl corazón audaz no conoce el miedo, no huye,\nBuscando la ansiada victoria, la eterna gloria;\nLa sombra del dragón acecha, su furia ruge,\nTejida en sangre y gesta, la antigua historia.\n\nBuscando la ansiada victoria, la eterna gloria,\nEl acero brilla en la aurora, un canto nuevo surge;\nTejida en sangre y gesta, la antigua historia,\nUn grito de batalla en el viento que se urge.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

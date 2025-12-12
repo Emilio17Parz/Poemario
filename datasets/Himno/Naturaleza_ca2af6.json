@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Lágrimas dulces que el cielo derrama,\nrespuesta bendita a quien agua reclama.\n¡Gloria a la Lluvia que lava el dolor!,\ny pinta los campos de verde color.\n\nMúsica rítmica sobre el tejado,\nregalo divino al suelo agrietado.\nBebed, raíces, el don celestial,\nque trae la vida y vence al mal.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

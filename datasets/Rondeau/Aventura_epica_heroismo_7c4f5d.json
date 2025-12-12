@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Gana la batalla,\nque estalla,\nen el campo,\ndel lampo,\ny la malla.\n\nLa muralla,\ny la toalla,\ndel trampo,\nGana la batalla.\n\nSin escampo,\nni ampo,\nque calla,\ny halla,\nla falla,\nGana la batalla.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

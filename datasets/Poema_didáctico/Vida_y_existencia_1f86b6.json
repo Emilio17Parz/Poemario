@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Da gracias por lo que tienes,\ny tendrás más,\nsi la queja mantienes,\nperdiendo vas.\nLa gratitud abre puertas,\ny deja almas despiertas.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Gratitud"
+  }
+}

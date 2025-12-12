@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vacía está la choza y el lecho,\nfrío el hogar sin tu fuego.\nAl cielo elevo mi ruego\ncon un dolor en el pecho.\nLa muerte, con su derecho,\nme ha dejado ciego.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "choza"
+  }
+}

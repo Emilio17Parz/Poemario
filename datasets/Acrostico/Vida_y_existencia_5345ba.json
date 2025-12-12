@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Rompe la seriedad,\nEnseña tu alegría.\nIlumina la edad,\nRíe todo el día.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "REIR"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El misterio de ser, la eterna pregunta,\nsin una respuesta, sin un final,\nla vida es un enigma, la luz adjunta,\nla forma más pura y real.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Misterio"
+  }
+}

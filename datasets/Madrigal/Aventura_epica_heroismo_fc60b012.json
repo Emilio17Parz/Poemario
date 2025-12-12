@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No teme a la muerte,\nconfía en su brazo y en su suerte.\nDefiende al inocente\ncon ánimo valiente.\nEs luz en la tiniebla,\nque despeja del mal toda la niebla.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

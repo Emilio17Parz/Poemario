@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Piratas en el barco\nvan gritando,\nel oro de los reyes\nsaqueando.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "marino"
+  }
+}

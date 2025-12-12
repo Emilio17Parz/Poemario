@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Almas que se encontraron,\ny en un abrazo eterno se juraron\namor que al tiempo vence\ny en pasión se condense.\nYa no somos tú y yo,\nsino un solo sentir que amaneció.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "alma"
+  }
+}

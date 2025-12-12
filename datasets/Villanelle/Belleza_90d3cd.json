@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza real vive por dentro,\nno se marchita con el paso lento,\ny es de la vida el verdadero centro.\n\nEs la bondad que en el alma encuentro,\nlejos del vano y falso lucimiento,\nla belleza real vive por dentro.\n\nNo busca aplauso ni busca encuentro,\ncon la fama que lleva el viento,\ny es de la vida el verdadero centro.\n\nBrilla en la sombra y en el epicentro,\ndel corazón y su buen sentimiento,\nla belleza real vive por dentro.\n\nEs la luz pura del conocimiento,\nque nos aleja del resentimiento,\ny es de la vida el verdadero centro.\n\nQuien la posee tiene el sustento,\nde la dicha y del contentamiento,\nla belleza real vive por dentro,\ny es de la vida el verdadero centro.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "interior"
+  }
+}

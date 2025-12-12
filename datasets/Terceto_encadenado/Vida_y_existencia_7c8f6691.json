@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llena tu vida de risa,\ny olvida la preocupación,\nque el tiempo tiene prisa.\n\nY se acaba la función,\nantes de que te des cuenta,\nperdiendo la ocasión.\n\nDe vivir lo que alimenta.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "risa"
+  }
+}

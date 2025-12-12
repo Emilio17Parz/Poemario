@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un río que fluye sin par,\ncon fuerza, con calma, con gran fulgor,\nno luches contra ella, déjala ir y amar,\nla esencia de nuestro valor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Fluir"
+  }
+}

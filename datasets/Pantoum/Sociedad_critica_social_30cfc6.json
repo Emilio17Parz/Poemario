@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Gota de amargo sudor,\ncae sobre el cemento,\nsin ningún valor,\npara el avariento.\n\nCae sobre el cemento,\nconstruyendo el palacio,\npara el avariento,\nque pide espacio.\n\nConstruyendo el palacio,\ngota de amargo sudor,\nque pide espacio,\nsin ningún valor.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sudor"
+  }
+}

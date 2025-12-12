@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En tu mirada, el bosque se desvela,\nCon cada rama, un verso que me anhela.\nTu piel de luna, suave cual rocío,\nDespierta en mí el amor, dulce extravío.\n\nEl río canta al verte sonreír,\nY el viento danza si te veo venir.\nLas flores abren pétalos de aliento,\nReflejo fiel de nuestro sentimiento.\n\nTu voz, el trino de un pájaro en la aurora,\nQue mi alma inquieta con su canto adora.\nEl sol te besa al cruzar el sendero,\nY yo te sigo, amor, viajero.\n\nBajo este **cielo** azul, inmenso y puro,\nPromesas nacen, un amor seguro.\nTu mano en la mía, sendero y calma,\nLa esencia misma que alimenta el alma.\n\nNo hay sol que brille más que tu querer,\nNi sombra que opaque nuestro amanecer.\nSomos la tierra, el aire y la pasión,\nUnidos siempre en esta dulce unión.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

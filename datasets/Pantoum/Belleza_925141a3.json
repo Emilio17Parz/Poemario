@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Me inspira la dulce musa,\ncon su voz de melodía,\ny mi pluma no rehúsa,\nescribir la poesía.\n\nCon su voz de melodía,\nme dicta versos de amor,\nescribir la poesía,\nborrando todo dolor.\n\nMe dicta versos de amor,\nme inspira la dulce musa,\nborrando todo dolor,\ny mi pluma no rehúsa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "musa"
+  }
+}

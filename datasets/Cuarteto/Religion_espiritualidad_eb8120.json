@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La sombra que nos tienta,\ncon mentiras y placer,\nqueriendo vernos caer,\nen la furia violenta.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "diablo"
+  }
+}

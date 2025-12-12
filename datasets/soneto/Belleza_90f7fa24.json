@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La dulce voz de la hermosura llama,\nUn eco eterno que el espíritu guía.\nEn cada pétalo una viva flama,\nQue el alma inerme con su luz confía.\n\nNo en mármol frío, ni en dorado altar,\nMas en el alba que a la tierra besa,\nO en el murmullo de la brisa al pasar,\nHabita el alma de su etérea empresa.\n\nNo mano mortal puede su esencia asir,\nEn un noble gesto, un alma sincera,\nSu eterno don nos hace sonreír,\nY su **brillo** de amor la luz genera.\n\nAsí, la belleza, un don que se nos da,\nLa luz que el alma al mundo mostrará.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

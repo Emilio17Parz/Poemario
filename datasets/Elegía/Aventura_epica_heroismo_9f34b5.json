@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cayó la corona de oro,\nel trono está vacío,\nfrío,\ny sin tesoro.\n\nLloro,\nel río,\nsombrío,\ndel coro.\n\nImperio que fue y no es,\na mis pies.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "reino"
+  }
+}

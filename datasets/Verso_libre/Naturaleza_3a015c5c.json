@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El océano respira con el ritmo lento de un dios dormido, subiendo y bajando su pecho de agua infinita.\nSus profundidades guardan secretos que la luz del sol nunca ha tocado, criaturas de sueño y pesadilla.\nLa ola que rompe en la playa trae noticias de tierras lejanas, sabores de sal y de algas milenarias.\nEs el principio y el fin, la madre húmeda de la que todos venimos y a la que todos regresaremos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "océano"
+  }
+}

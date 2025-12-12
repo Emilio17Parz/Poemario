@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La palabra adiós se clavó,\ncomo puñal en el costado,\ndejando el pecho helado,\ny la esperanza mató.\nTodo lo nuestro acabó,\ny quedé desamparado.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

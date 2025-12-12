@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde en mi pecho un incesante fuego,\nuna llama que crece sin medida,\ny a tus brazos de amante yo me entrego,\npara darte por siempre mi vida.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Llamada divina que al hombre levanta,\ny el miedo a la muerte de su alma espanta!\nCumplir el deber es la meta final,\nvenciendo al obstáculo y al vendaval.\n\n¡Loor a quien sigue su estrella polar,\nsin que nada pueda su paso parar!\nLa vida se entrega por un ideal,\nmás alto y puro que el bien material.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "misión"
+  }
+}

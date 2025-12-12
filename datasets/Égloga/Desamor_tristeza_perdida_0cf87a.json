@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miro al fondo del pozo hondo,\ny veo mi rostro demacrado,\ntriste, solo y desesperado,\ny en mis propias lágrimas me hundo.\n\nNo hay agua fresca en este mundo,\nque calme la sed de ser amado,\nsoy un espectro, un olvidado,\nen un dolor vasto y rotundo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "pozo"
+  }
+}

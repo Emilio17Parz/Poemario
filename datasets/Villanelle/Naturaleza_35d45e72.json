@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro rey de fuego dorado,\ndas la vida a la tierra entera,\ny mantienes al mundo abrigado.\n\nPor tu calor somos amado,\nen la feliz primavera,\nastro rey de fuego dorado.\n\nHas visto todo el pasado,\ndesde tu altura primera,\ny mantienes al mundo abrigado.\n\nTu ciclo nunca es cambiado,\nsiempre fiel a tu carrera,\nastro rey de fuego dorado.\n\nCuando te vas al otro lado,\nla noche oscura nos espera,\ny mantienes al mundo abrigado.\n\nSin ti todo estaría helado,\nmuerto en la fría esfera,\nastro rey de fuego dorado,\ny mantienes al mundo abrigado.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sol"
+  }
+}

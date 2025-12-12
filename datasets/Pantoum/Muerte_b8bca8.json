@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego consume el cuerpo,\nqueda la urna gris.\nFuera del tiempo,\nlejos de París.\n\nQueda la urna gris,\npolvo de lo vivido.\nLejos de París,\ntodo se ha ido.\n\nPolvo de lo vivido,\nfuera del tiempo.\nTodo se ha ido,\nfuego consume el cuerpo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

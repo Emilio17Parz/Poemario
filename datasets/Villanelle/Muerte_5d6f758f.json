@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Decir adiós es morir un poco,\ncuando se parte para no volver,\ny el corazón se siente loco.\n\nQueda el espacio vacío y hueco,\nque no se puede ya llenar,\ndecir adiós es morir un poco.\n\nEs un dolor que yo no toco,\npero que me hace estremecer,\ny el corazón se siente loco.\n\nLa muerte llega y apaga el foco,\nde lo que fuimos en el ayer,\ndecir adiós es morir un poco.\n\nTodo recuerdo se vuelve floco,\nal ver la vida deshacer,\ny el corazón se siente loco.\n\nLloro en silencio y me sofoco,\nante el misterio del caer,\ndecir adiós es morir un poco,\ny el corazón se siente loco.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "despedida"
+  }
+}

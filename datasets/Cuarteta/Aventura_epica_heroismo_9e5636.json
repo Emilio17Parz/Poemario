@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan la historia,\nde un guerrero audaz,\nque buscaba la paz,\ny halló la gloria.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

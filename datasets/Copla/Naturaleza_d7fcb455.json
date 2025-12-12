@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Arriba en la sierra alta\ncanta la perdiz su canto,\ny yo canto aquí abajo\npara espantar mi quebranto.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "monte"
+  }
+}

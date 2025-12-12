@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Barco sin timón ni vela,\narrastrado por la ola,\nla cola,\nde tela.\n\nLa espuela,\nsola,\nla bola,\nque huela.\n\nApatía que me domina,\nruina.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "voluntad"
+  }
+}

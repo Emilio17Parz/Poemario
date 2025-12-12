@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Un prado florecía al sol,\nJunto al río, con su caracol.\nUna rana saltó,\nUn insecto voló,\nY el viento traía su arrebol.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "río"
+  }
+}

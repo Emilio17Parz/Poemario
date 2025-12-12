@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Espada da\npoder fiel\nal rey\npoder fiel\nespada da",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "espada"
+  }
+}

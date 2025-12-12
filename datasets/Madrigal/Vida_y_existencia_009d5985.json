@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminante sin mapa,\nla vida es aventura que te atrapa.\nSe hace senda al andar,\nsin poder regresar.\nCada paso es historia,\ngrabada para siempre en la memoria.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "camino"
+  }
+}

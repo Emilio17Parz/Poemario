@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La firmeza es el ancla, la fuerza interior,\nque no se doblega, que sabe luchar,\nno teme al peligro, ni al fuerte dolor,\nla calma que viene a sanar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Firmeza"
+  }
+}

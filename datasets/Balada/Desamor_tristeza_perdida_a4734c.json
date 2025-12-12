@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La casa es inmensa y el silencio grita,\nla pena en mi pecho tranquila habita,\nno hay risas ni voces, solo el reloj,\nmarcando las horas con triste enojo.\nLa soledad es mi única amiga,\nque come conmigo y me da la miga,\nde un pan amargo de resignación,\nen esta vacía y fría prisión.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

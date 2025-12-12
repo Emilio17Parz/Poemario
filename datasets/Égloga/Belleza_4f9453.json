@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza no muere, se transforma,\nrenace en otra flor.\nCambia el color,\npero no la norma.\nEl alma se conforma\ncon su valor.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flor"
+  }
+}

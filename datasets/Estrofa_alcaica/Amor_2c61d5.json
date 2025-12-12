@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contígo la **fé** que **mi** alma **nó** quiere perder (11)\nLa **dúl**ce pro**mé**sa que **sán**a mi hiel (11)\n**Ál**ma que **bró**ta sin **po**der (9)\n**Dúl**ce mi**él** (4).",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "Fe"
+  }
+}

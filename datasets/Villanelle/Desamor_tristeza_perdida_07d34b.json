@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cometí el error de quererte,\nmás que a mi propia libertad,\ny ahora pago con perderte.\n\nFue mi condena y mi muerte,\ncreer en tu falsa bondad,\ncometí el error de quererte.\n\nNo tuve la buena suerte,\nde ver la cruda realidad,\ny ahora pago con perderte.\n\nMe siento débil e inerte,\nante tanta maldad,\ncometí el error de quererte.\n\nTrato de hacerme el fuerte,\npero me hunde la soledad,\ny ahora pago con perderte.\n\nNo sé cómo no pude verte,\ntal cual eras en verdad,\ncometí el error de quererte,\ny ahora pago con perderte.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "error"
+  }
+}

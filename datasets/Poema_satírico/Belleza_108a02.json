@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El pelo se muda,\na la espalda y oreja,\nla frente desnuda,\nse queda vieja.\nEnsaimada en el coco,\npara tapar un poco.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Calvicie"
+  }
+}

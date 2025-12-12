@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No hay pincel que iguale el atardecer,\nni escultor que talle la montaña,\nla naturaleza con su maña\nnos hace estremecer.\n\nEs bello ver nacer,\nla flor que se baña,\nen rocío y telaraña,\nal amanecer.\n\nLa armonía perfecta,\nde formas y luces,\nque nos conecta.\n\nY nos induces,\na la recta,\nque conduces.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pincel"
+  }
+}

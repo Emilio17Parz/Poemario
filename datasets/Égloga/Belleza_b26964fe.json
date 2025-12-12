@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Desde este alto cerro,\nmiro el valle extendido,\nun tapiz colorido,\ndonde no cabe yerro.\nEl río como hierro,\nplateado y fundido,\ny el bosque tupido,\nen su verde encierro.\n¡Qué hermosa es la tierra!,\nque el horizonte cierra,\ny la paz encierra.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "vista"
+  }
+}

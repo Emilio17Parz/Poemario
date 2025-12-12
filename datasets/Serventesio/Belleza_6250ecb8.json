@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene la estrella un hermoso brillo,\nque nos orienta en la oscuridad,\nmás que la plata o el oro amarillo,\nbrilla su luz con gran intensidad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

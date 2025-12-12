@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Es la luz que no vemos, la fe,\nla certeza del alma, la fe.\n\nMueve montes y calma la mar,\npoderosa y sencilla, la fe.\n\nCuando todo parece perdido,\nnos sostiene de pie la fe.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "fe"
+  }
+}

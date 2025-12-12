@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar bate sus tambores,\ncontra el muro del cantil,\nlevantando espuma blanca\ncomo encaje de marfil.\nVerde, azul y gris oscuro,\ncambia su traje sutil,\nmientras los barcos lejanos\nparecen de juguete vil.\nInmenso desierto de agua,\ntumba de gente gentil,\nguardas en tu fondo oscuro\nmil historias de perfil.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "ola"
+  }
+}

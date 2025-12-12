@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna de plata,\nilumina la noche misteriosa,\ny su luz desata,\nla magia preciosa,\nde una velada silenciosa.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "plata"
+  }
+}

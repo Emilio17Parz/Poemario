@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hay una belleza que no se ve con los ojos, sino con el corazón: la belleza interior.\nLa bondad, la generosidad, la valentía, la honestidad, son joyas que brillan más.\nLa belleza física se marchita con el tiempo, pero la belleza del alma crece.\nBusca esa belleza imperecedera en ti y en los demás, y serás rico siempre.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "interior"
+  }
+}

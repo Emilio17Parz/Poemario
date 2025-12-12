@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Somos dos antorchas que se consumen en el mismo fuego, alimentando la hoguera con nuestra propia piel.\nNo buscamos salvarnos del incendio, sino arder juntos hasta que solo quede la esencia pura de la ceniza.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

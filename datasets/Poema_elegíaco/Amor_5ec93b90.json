@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La palabra jamás golpea mi mente,\nno volveré a ver tu rostro querido,\ntodo ha quedado en el olvido,\ncomo agua que se lleva la corriente.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "jamás"
+  }
+}

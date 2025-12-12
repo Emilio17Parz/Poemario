@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Calor de tu piel, de tu abrazo ferviente,\nfuego sagrado que templa mi ser.\nManantial dulce, eterno y viviente,\nla fuerza que me hace creer.\n¡Oh, llama viva, que alumbra mi vida,\npasión sin sombra y sin herida!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Calor"
+  }
+}

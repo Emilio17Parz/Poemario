@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuego de amor que quema la piel,\ndulce y amargo como la miel,\nque se desata en el corazón,\nsin pedir nunca la razón,\nsobre un lecho de oropel.\n\nEres mi torre y mi cuartel,\nmi confidente y amigo fiel,\ncausa de mi gran pasión,\nFuego de amor.\n\nNunca serás un amor cruel,\nsino la tinta y el papel,\ndonde escribo mi canción,\ncon absoluta devoción,\nbajo el brillo del dintel,\nFuego de amor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

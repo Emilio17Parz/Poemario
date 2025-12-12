@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Leo tus palabras,\ncon mucha emoción,\nson la salvación,\nque hace que te abras.\nNunca macabras,\nson tus letras bellas,\nque dejan huellas,\nen mi alma con sus mil obras.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "carta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza, con gracia sin par,\nNos cautiva al simple mirar.\nSu etérea forma\nVence a la norma,\n¡Qué don para el alma sanar!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "forma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego que quema y vuelve ceniza,\nla vanidad de la carne humana,\ny en el viento se volatiliza.\n\nLa muerte llega y nos avisa,\nque la existencia es muy vana,\nfuego que quema y vuelve ceniza.\n\nNo queda nada, ni la sonrisa,\nni la esperanza de la mañana,\ny en el viento se volatiliza.\n\nEs el destino que se improvisa,\ncon una fuerza soberana,\nfuego que quema y vuelve ceniza.\n\nPolvo grisáceo que se pisa,\nen la memoria lejana,\ny en el viento se volatiliza.\n\nTodo termina en esta premisa,\nde la materia mundana,\nfuego que quema y vuelve ceniza,\ny en el viento se volatiliza.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

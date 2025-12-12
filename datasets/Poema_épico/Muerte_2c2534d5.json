@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El rey Arturo no ha muerto,\nsolo duerme en Avalón,\nesperando la ocasión,\nde volver al mundo abierto.\nCuando el peligro sea cierto,\ny la tierra pierda el son,\nsacará su espadón,\ny nos guiará al puerto.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Perdí cinco kilos ya,\ndesde que no estás aquí,\nno es por lo que sufrí,\nes que cocinas muy mal.\nTu guiso era fatal,\ny tu postre, ¡ay de mí!,\nla tristeza me la comí,\npero el hambre se me va.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "dieta"
+  }
+}

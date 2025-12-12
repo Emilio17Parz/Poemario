@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quise gritar tu nombre, pero la voz no salió,\nla pena me apretaba, el alma me dolió.\nEl grito se quedó en el fondo del silencio,\nel único sonido que mi ser reverencio.\n\nLa garganta es la celda de mi propio pesar,\ny la libertad es la voz que no puedo dar.\nMi vida es el silencio de un amor sin final,\nla única verdad del signo vital.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "grito"
+  }
+}

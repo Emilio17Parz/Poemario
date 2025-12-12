@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El hambre grita,\nsin ser oída,\nnecesita,\nla comida.\n\nSin ser oída,\npor el rico,\nla comida,\nque suplico.\n\nPor el rico,\nel hambre grita,\nque suplico,\nnecesita.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

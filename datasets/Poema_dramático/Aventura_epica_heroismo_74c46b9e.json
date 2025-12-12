@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "DRAGÓN: ¿Quién osa entrar en mi guarida?\nHÉROE: Vengo a quitarte tu vil vida.\nDRAGÓN: Soy fuego antiguo, escama y garra.\nHÉROE: Mi espada es justa y te desgarra.\nDRAGÓN: Te quemaré como a una hoja seca.\nHÉROE: Tu maldad hoy aquí peca.\n(Luchan con estruendo)\nHÉROE: ¡Toma esto, bestia del infierno!\nDRAGÓN: (Muriendo) El oro... es tuyo... invierno...",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

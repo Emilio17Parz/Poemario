@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llega la noche ya,\ny el sol se va,\ndejando el lucero,\nque brilla primero,\ny paz nos da.\n\nEl mundo está,\ndonde estará,\ncon su sendero,\nLlega la noche.\n\nNadie sabrá,\nlo que vendrá,\npero yo espero,\nal compañero,\nque volverá,\nLlega la noche.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "noche"
+  }
+}

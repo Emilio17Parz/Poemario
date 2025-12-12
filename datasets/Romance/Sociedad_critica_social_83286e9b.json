@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se echó a la mar en la patera,\nbuscando un futuro mejor,\ndejando atrás su tierra\ny su dolor.\nCruzó las olas gigantes,\ncon temor,\ny llegó a la playa extraña\nsin color.\nAhora vive escondido,\ncon sudor,\ntrabajando por monedas\nsin valor.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "barca"
+  }
+}

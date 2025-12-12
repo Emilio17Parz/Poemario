@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Senda que marcas el paso del hombre,\nbuscando dejar en la tierra su nombre!\nA veces de rosas, a veces de espinas,\npor cumbres nevadas o verdes colinas.\n\n¡Honor al camino que enseña a andar,\ny que nos invita a nunca parar!\nLa meta es lejana, mas el paso es cierto,\nsi el alma mantiene su ojo despierto.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "camino"
+  }
+}

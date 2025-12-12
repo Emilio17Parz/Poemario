@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Más vale la honra que la propia vida,\npalabra dada es ley sagrada,\ny la espada,\nsolo se desenvaina por la herida.\nCaballero noble de armadura,\npura,\nque sirve a su dama y a su señor,\ncon honor.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

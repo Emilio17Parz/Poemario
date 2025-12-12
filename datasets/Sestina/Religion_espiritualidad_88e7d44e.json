@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Se eleva mi pobre alma,\nhacia la esfera celeste,\nlejos de la carne impura.\nBusca la eterna hermosura,\ny la paz que no termina,\nen la casa del Señor.\n\nCasa del Señor,\ndonde el alma,\nse ilumina.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "alma"
+  }
+}

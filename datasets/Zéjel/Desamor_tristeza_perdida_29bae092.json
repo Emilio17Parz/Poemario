@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Es el final,\nde nuestro mal.\n\nSe acabó el cuento,\ny el sufrimiento,\nque lleva el viento,\nde forma letal.\n\nEs el final,\nde nuestro mal.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "final"
+  }
+}

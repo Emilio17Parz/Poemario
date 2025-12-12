@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Armadura que brilla al sol,\ncaballo blanco y fiel,\ndefensor del farol\nde la justicia y la miel.\nCódigo de honor sagrado,\npalabra que no se rompe,\nsoldado enamorado\nque al mal interrumpe.\nFigura de otro tiempo,\nde nobleza y lealtad,\nque cabalgas al viento\ncon gran dignidad.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

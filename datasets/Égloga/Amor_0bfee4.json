@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Junto a la fuente de piedra fría,\ndonde las aves vienen a beber,\nte vi por vez primera, mujer,\ny cambiaste la noche en día.\n\nDesde entonces mi alma porfía,\npor volver a ese instante sagrado,\ndonde quedé de ti enamorado,\ncon la más pura y gran alegría.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "fuente"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Quién teje los destinos\nde la persona?\n¿Acaso es el azar\nquien nos corona?",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "destino"
+  }
+}

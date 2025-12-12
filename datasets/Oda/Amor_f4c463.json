@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Risa gozosa, melodía brillante,\nel eco firme de tu felicidad.\nCon tu sonido mi alma es gigante,\ndisipas toda la adversidad.\n¡Oh, alegría sonora y cristalina,\ntu dulce música nunca declina!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

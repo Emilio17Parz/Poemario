@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lloraba un tipo en el bar,\nquería sus penas ahogar,\nmas eran tan bellas,\nsus tristes botellas,\nque al final se puso a cantar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Llanto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nadie escapa del final marcado,\ntodos marchamos hacia el abismo cierto,\nsea el camino sagrado\no atravesando el gran desierto.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "destino"
+  }
+}

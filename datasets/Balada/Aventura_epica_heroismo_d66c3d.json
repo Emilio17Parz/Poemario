@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Desafiar las olas gigantes,\nes la aventura de los navegantes,\nque no se asustan del temporal,\nni de la fuerza del vendaval.\nEl mar es tumba y es camino,\nes el comienzo y es el destino,\nde los que buscan el horizonte,\nmás allá del valle y del monte.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Joya viviente que el aire mece,\ncon tus colores de fantasía,\ndando alegría al mediodía,\nmientras la flor te reconoce.\n\nTu vuelo frágil nos enternece,\nmancha de luz en el aire gris,\nhaciendo el mundo más feliz,\nhasta que el sol desaparece.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "mariposa"
+  }
+}

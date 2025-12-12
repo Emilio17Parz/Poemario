@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canta el ave,\nsu canción,\ncon mucha,\nemoción.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "ave"
+  }
+}

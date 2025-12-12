@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza en todo se despliega,\nInspiración de mi alma, mi musa.\nQue con su luz el mundo ciega,\nLa belleza en todo se despliega.\nSin ella el arte se niega,\nY el corazón se rehúsa,\nLa belleza en todo se despliega,\nInspiración de mi alma, mi musa.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "musa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me persigue tu sombra por la calle,\nse refleja en los vidrios y espejos,\nla veo en los rostros de los viejos\ny en cada pequeño y gris detalle.\n\nNo hay lugar donde mi mente acalle\nestos recuerdos que no son lejos,\nque me dan sus amargos consejos\ny hacen que mi voluntad desmaye.\n\nEstoy preso de un tiempo pasado,\nencadenado a lo que ya murió,\nviviendo en un mundo desolado.\n\nTu fantasma mi alegría robó,\ny me dejó triste y apartado,\ndonde la luz del sol se escondió.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "vidrios"
+  }
+}

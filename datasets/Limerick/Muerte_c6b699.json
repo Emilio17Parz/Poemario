@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La hora final ya sonó,\ny el alma al fin se posó.\nEl tiempo paró,\nla vida voló,\nla paz que el destino me dio.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Hora"
+  }
+}

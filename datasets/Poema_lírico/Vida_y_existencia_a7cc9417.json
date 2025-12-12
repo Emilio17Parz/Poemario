@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "¿Qué somos sino un soplo, un fugaz destello,\nen la vasta negrura del tiempo que avanza?\nUn latido que vibra, un eco que es bello,\nentre la cuna y la última añoranza.\n\nAndamos el **camino** sin mapa o brújula,\nbajo soles ardientes, lunas de cristales.\nCada paso es un verso, una suerte de fábula,\nque tejen las almas, por rumbos vitales.\n\nLa rosa se abre y, mustia, luego se deshoja,\nel agua del río jamás retrocede.\nEn cada alegría, una sombra se aloja,\ny el alma, sedienta, a la luz obedece.\n\nBuscamos la esencia en lo que nos rodea,\nun sentido profundo a este efímero don.\nLa verdad no está fuera; es la propia idea\ndel ser que se busca en su mismo corazón.\n\nY así, entre la bruma y el claro fulgor,\nteje el alma su trama, su sutil existencia.\nUn eterno presente de pena y de amor,\nque se disuelve en aire, pura trascendencia.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña es el dios\nque me mira sereno.\nEs el único arroz\nsin ningún veneno.\n\nMe obliga a subir\ncon valor y fe,\nla única forma\npara poder ver.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

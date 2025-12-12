@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Como la rosa que en mayo florece,\nabres tu alma a la luz del amor,\ny mi cariño por ti siempre crece.\n\nTodo lo malo desaparece,\ncuando me das tu fragancia y calor,\ncomo la rosa que en mayo florece.\n\nMi pensamiento se te ofrece,\nsin condiciones y sin el temor,\ny mi cariño por ti siempre crece.\n\nSi el día gris de pronto oscurece,\ntú eres el faro de gran resplandor,\ncomo la rosa que en mayo florece.\n\nNadie en el mundo quizá lo merece,\npero te entrego mi vida, mi flor,\ny mi cariño por ti siempre crece.\n\nEl sentimiento jamás envejece,\nsi se cultiva con tanto fervor,\ncomo la rosa que en mayo florece,\ny mi cariño por ti siempre crece.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

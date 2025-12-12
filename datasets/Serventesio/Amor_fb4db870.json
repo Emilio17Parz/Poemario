@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tengo un ansia que crece cada día,\nde tenerte a mi lado en el lecho,\nde llenarme de tu algarabía,\ny sentirte latir en mi pecho.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "ansia"
+  }
+}

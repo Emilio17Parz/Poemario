@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Los muebles son testigos\ndel amor que se fue.\nCada silla es un castigo\npor lo que no tuve fe.\n\nEl aire pesa mucho,\ntiene forma de nada,\nmi vida es la sombra\nde una luz apagada.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

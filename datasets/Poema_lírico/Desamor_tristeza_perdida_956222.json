@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llevo el dolor como un plomo\nen el centro del pecho.\nNo es pena, es el colmo\nde un sueño deshecho.\n\nMe dobla la espalda,\nme quita la voz,\nla vida es la pena\nde este amargo arroz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "pena"
+  }
+}

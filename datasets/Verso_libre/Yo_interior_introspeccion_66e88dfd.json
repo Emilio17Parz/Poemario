@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Estoy perdido en mí mismo.\nDoblo una esquina y encuentro un recuerdo.\nDoblo otra y encuentro un deseo.\nEs un laberinto de espejos.\nBusco la salida,\npero tal vez no haya que salir,\nsino aprender a vivir\nen el centro del misterio.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

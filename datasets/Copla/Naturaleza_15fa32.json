@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna es de plata y fiel (a),\nque vela el sueño cruel (b),\nmi vida es un trago de miel (c),\nsin un solo laurel (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

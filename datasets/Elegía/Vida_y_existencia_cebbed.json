@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se callaron las canciones,\nla música de la existencia,\nsolo queda la paciencia,\ny las desilusiones.\n\nSin emociones,\nni clemencia,\nen la ausencia,\nde pasiones.\n\nVida muda y callada,\ntriste y desolada.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

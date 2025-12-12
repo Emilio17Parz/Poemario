@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Se sentó en la ventana, buscando la paz,\nCerrando los oídos a la voz de Satán.\nEl silencio era un templo de cristal y de fe,\nDonde el alma se encuentra con el que cree.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

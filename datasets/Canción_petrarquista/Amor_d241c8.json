@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Esa blanca mano\nque sostiene el hilo de mi suerte,\npuede darme muerte\no vida en el verano;\nsi se cierra me quita la esperanza,\nmas si me alcanza,\ncon caricia suave,\nme abre del paraíso la gran llave.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "mano"
+  }
+}

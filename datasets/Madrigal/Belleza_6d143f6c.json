@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En el lienzo del arte,\ndejas la vida en cada muda parte,\ny el tiempo se detiene\ncuando el pincel viene.\nTu genio comparte\nla luz que te sostiene,\ny que la muerte nunca aparte.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ojos claros y bellos,\nque ilumináis mi vida con destellos,\nsi me miráis, yo vivo,\nde vuestra luz cautivo.\nNo dejéis de mirarme,\nque es vuestra luz la forma de salvarme.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

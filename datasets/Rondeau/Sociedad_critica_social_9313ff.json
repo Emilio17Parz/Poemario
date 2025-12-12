@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La pobreza,\ncon tristeza.\nSe ve,\ny se fue,\nla riqueza.\n\nLa dureza,\nde la mesa.\nLa fe,\nla pobreza.\n\nLa cabeza,\ny la pieza.\nEl té,\nque tomé,\nsin certeza,\nla pobreza.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

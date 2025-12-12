@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soy como el río,\nque siempre cambia,\nsiento el frío,\nque intercambia.\n\nQue siempre cambia,\nfluye mi esencia,\nque intercambia,\nla experiencia.\n\nFluye mi esencia,\nsoy como el río,\nla experiencia,\nsiento el frío.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "río"
+  }
+}

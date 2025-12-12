@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La verdad huyó al desierto,\nno vive ya en el palacio.\nBusca su espacio\na cielo abierto.\nEs lo cierto\ny no despacio.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

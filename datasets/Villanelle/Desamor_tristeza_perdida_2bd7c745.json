@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Mi corazón sangra este adiós tan cruel,\nYa no hay consuelo para mi penar,\nY en cada ausencia se consume el olvido.\n\nLa promesa rota, amargo sabor a hiel,\nUn alma rota que no sabe dónde estar,\nMi corazón sangra este adiós tan cruel.\n\nEl tiempo pasa sin ser ya mi fiel\nCompañero, solo sé de lamentar,\nY en cada ausencia se consume el olvido.\n\nLa soledad, mi velo, mi carcel,\nNo queda un sueño por el que luchar,\nMi corazón sangra este adiós tan cruel.\n\n¿Qué queda si se ha ido mi joya, mi laurel?\nTan solo ruinas al dejar de amar,\nY en cada ausencia se consume el olvido.\n\nEs un tormento vivir sin tu perfil,\nSin tu mirada, sin tu voz, sin tu lugar.\nMi corazón sangra este adiós tan cruel,\nY en cada ausencia se consume el olvido.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

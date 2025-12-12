@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El cuerpo fue una casa que el alma dejó vacía,\nSin luz en la ventana, sin vida ni guía.\nSolo una envoltura de carne sin calor,\nEsperando el regreso al polvo, al dolor.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "cuerpo"
+  }
+}

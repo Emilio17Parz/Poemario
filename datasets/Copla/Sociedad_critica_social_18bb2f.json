@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La protesta es el grito fiel (a),\nel puño que se alza ya (b),\nla vida es un trago de hiel (c),\nla fuerza que me da (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Protesta"
+  }
+}

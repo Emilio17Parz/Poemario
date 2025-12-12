@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro lo azul del cielo,\ny alzo mi libre vuelo.\n\nDonde el sol resplandece,\ny la nube aparece,\ntodo allí florece,\nlejos del duro suelo.\n\nMiro lo azul del cielo,\ny alzo mi libre vuelo.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

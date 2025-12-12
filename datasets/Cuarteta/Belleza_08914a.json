@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El ritmo perfecto, la dulce cadencia,\ndel cuerpo que baila, del verso al hablar,\nes la armonía de toda existencia,\nla forma más pura de amar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Ritmo"
+  }
+}

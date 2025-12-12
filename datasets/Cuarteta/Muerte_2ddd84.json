@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El descanso final de la fatiga,\nla mente ya libre, sin pensar más,\nsin sueños, sin penas, sin hostiga,\nel alma al fin encuentra la paz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Descanso"
+  }
+}

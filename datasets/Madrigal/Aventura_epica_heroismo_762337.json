@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Corazón valiente,\nque enfrenta al peligro sin dudar;\npor salvar,\na la gente.\nSu nombre se graba en la leyenda,\ncomo ofrenda.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

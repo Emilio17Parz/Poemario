@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El barco se ha perdido,\nentre las olas gigantes,\ny yo he sobrevivido.\n\nLejos de mis amantes,\nfloto en la madera,\ncon ojos delirantes.\n\nA la espera.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

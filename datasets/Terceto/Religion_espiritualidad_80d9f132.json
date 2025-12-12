@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi espíritu busca la luz divina,\npara salir de la prisión carnal,\ny ver la gloria que se adivina.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "luz"
+  }
+}

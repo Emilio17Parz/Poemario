@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "He roto todas tus cartas\nen pedazos muy pequeños,\npara que el viento se lleve\ntodos nuestros viejos sueños.\nNo quiero leer mentiras\nni recuerdos halagüeños,\nquiero limpiar mi memoria\nde tus falsos desempeños.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "carta"
+  }
+}

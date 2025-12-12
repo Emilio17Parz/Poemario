@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nLa luz me guía sin un solo fin (E1: fin)\nMi vida es la senda que quiero ya ver (E2: ver)\nLa verdad me inunda sin una razón (E3: razón)\nEl gozo me cubre sin un gran dolor (E4: dolor)\nLa fuerza me impulsa a volver a vencer (E5: vencer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nLa senda que quiero sin poder vencer (E2, E5)\nEl dolor me da la razón (E4, E3)\nSin un error, sin un fin (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

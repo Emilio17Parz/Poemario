@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La tumba está vacía,\nla muerte ha sido vencida.\nHay nueva vida\nllena de alegría.\nCante la serranía\nla noticia agradecida.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

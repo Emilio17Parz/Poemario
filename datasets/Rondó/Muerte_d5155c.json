@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Busco la luz,\nmás allá,\ndonde está,\nla cruz.\nEl andaluz,\nque se va.\nBusco la luz.\n\nEsperanza de vida,\ntras la muerte,\ntener suerte,\nen la partida.\nLa herida,\nmás fuerte.\nBusco la luz.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "luz"
+  }
+}

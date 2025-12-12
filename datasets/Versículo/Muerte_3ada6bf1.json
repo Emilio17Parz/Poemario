@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Después del tumulto de la vida, desciende el gran silencio.\nYa no hay voces, ni llantos, ni risas, solo la paz inquebrantable.\nEs el silencio de las piedras y de las estrellas apagadas.\nEn ese silencio profundo, todas las preguntas encuentran su respuesta.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

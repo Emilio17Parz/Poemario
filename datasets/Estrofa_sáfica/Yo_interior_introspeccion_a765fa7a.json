@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Álbum de fotos que la mente guarda,\ndías felices y dolor antiguo,\ntodo se mezcla en el presente extraño\ny ambiguo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "recuerdos"
+  }
+}

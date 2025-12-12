@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Contemplo la obra de arte y mi espíritu se eleva hacia las regiones de lo sublime.\nEl pincel del artista ha capturado la luz, el cincel ha liberado la forma de la piedra.\nLa belleza salvará al mundo, dijo el poeta, porque despierta en nosotros lo divino.\nEn la armonía de las formas y los colores, veo la huella del Creador de todo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "[EL SOSPECHOSO]\n(Al detective)\nSí, miento. Miento para sobrevivir. ¿Cree que la verdad es tan simple?\nLa verdad es un arma, y yo no la tengo. Ella me enseñó a mentir.\nMe dijo que me amaba, y luego se fue. Desde entonces, toda palabra es veneno.\nSi miento, es porque el mundo me obligó a ser falso.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

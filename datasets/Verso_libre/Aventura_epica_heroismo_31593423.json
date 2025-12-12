@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Así nace la leyenda, de boca en boca, creciendo con cada narración junto al fuego.\nEl hombre se convierte en mito, sus actos se agigantan, se vuelven mágicos.\nPero detrás de la leyenda hubo un ser humano que tuvo miedo, que dudó, que sangró.\nRecordad al hombre, no solo al mito, porque su humanidad es su verdadera grandeza.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

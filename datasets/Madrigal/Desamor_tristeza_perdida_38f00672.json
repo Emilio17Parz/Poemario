@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Compañera constante,\nsoledad que me abrazas al instante.\nYa no escucho su risa,\nse fue con mucha prisa.\nSolo el silencio habla\ny a mi naufragio quita toda tabla.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo mi alma vuela (7a),\nrompiendo la jaula (5b),\nla pena ya no hiela (7c),\nbajo dulce paula (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

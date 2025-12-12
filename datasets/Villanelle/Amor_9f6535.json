@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu risa es música para mi oído,\nque espanta la tristeza y el temor,\ny me devuelve el tiempo perdido.\n\nTodo lo malo queda en el olvido,\ncuando escucho tu gozo y tu color,\ntu risa es música para mi oído.\n\nMe siento vivo y renacido,\nal ver tu rostro lleno de esplendor,\ny me devuelve el tiempo perdido.\n\nEs el sonido más agradecido,\nque me regala el dulce Creador,\ntu risa es música para mi oído.\n\nPor ese gesto quedo convencido,\nde que la vida es un don mayor,\ny me devuelve el tiempo perdido.\n\nSoy el amante más favorecido,\npor disfrutar de tu buen humor,\ntu risa es música para mi oído,\ny me devuelve el tiempo perdido.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "risa"
+  }
+}

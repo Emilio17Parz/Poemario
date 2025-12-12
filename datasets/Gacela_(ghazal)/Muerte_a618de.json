@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Busco en la muerte la eterna paz,\nlejos del mundo la eterna paz.\n\nYa no hay dolor ni lucha ni guerra,\nsolo el descanso y la eterna paz.\n\nDuerme el guerrero su sueño profundo,\nen los brazos de la eterna paz.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Duele el espacio que no llenás,\nsilla vacía frente a mi ser.\nTe busco siempre y no estás más,\nsolo me queda retroceder.\n\nSilla vacía frente a mi ser,\neco que grita tu nombre en vano.\nSolo me queda retroceder,\nsoltar por fin tu fría mano.\n\nEco que grita tu nombre en vano,\nte busco siempre y no estás más.\nSoltar por fin tu fría mano,\nduele el espacio que no llenás.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

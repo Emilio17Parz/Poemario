@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Diálogo interno sin testigos vanos,\nencuentro puro con mi propio yo,\nlejos de los humanos\nque el destino me dio.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

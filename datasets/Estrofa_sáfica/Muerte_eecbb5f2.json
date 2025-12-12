@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vuelve la carne al primitivo polvo,\nyo en la tierra madre me disuelvo,\nal gran origen finalmente vuelvo,\nciclo cerrado.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

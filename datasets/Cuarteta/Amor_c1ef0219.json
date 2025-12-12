@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quiero estar siempre a tu lado,\ncaminando sin temor,\nsentirme por ti amado\ny entregarte mi calor.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "lado"
+  }
+}

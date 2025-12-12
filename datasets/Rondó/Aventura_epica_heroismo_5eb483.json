@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busco el tesoro oculto,\nen la isla lejana.\nCada mañana,\nrindo mi culto.\n\nSin insulto,\nni desgana.\nBusco el tesoro oculto,\nen la isla lejana.\n\nEs bulto,\nque se gana.\nLa hermana,\ndel tumulto.\nBusco el tesoro oculto.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

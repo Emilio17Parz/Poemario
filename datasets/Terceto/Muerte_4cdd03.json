@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El recuerdo se queda, una luz sutil (A),\nque brilla un instante y se va a perder (A),\nla calma que trae abril (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Recuerdo"
+  }
+}

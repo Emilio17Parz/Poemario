@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El Señor es mi pastor; nada me faltará. En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará.\nConfortará mi alma; me guiará por sendas de justicia por amor de su nombre, y enjugará Dios toda lágrima de los ojos de ellos.\nYa no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron.\nBienaventurados los que lloran, porque ellos recibirán consolación; el Señor sana a los quebrantados de corazón y venda sus heridas.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "consuelo"
+  }
+}

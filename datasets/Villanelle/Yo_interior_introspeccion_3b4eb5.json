@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Somos lo que recordamos,\nla suma de los días,\ny de lo que amamos.\n\nDonde estamos,\ny las vías,\nsomos lo que recordamos.\n\nLo que damos,\ny alegrías,\ny de lo que amamos.\n\nLo que pensamos,\ny poesías,\nsomos lo que recordamos.\n\nLo que soñamos,\ny guías,\ny de lo que amamos.\n\nLo que buscamos,\ny melodías,\nsomos lo que recordamos,\ny de lo que amamos.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

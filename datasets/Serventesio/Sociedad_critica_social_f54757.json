@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La ley no es justa,\npara el pequeño,\neso disgusta,\ny quita el sueño.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

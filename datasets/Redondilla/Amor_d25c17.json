@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus manos al tocar,\nme dan seguridad,\ny gran felicidad,\nque no puedo explicar.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "manos"
+  }
+}

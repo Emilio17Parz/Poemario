@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No teme al monstruo ni a la oscuridad,\nporque su escudo es la nobleza pura,\ny su espada la inmensa lealtad.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "valor"
+  }
+}

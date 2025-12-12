@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Golpe cobarde que viene de atrás,\nde quien se decía amigo y hermano,\nvil mano,\nque rompe el juramento de la paz.\nDuele más que la herida del acero,\nel fuero,\nde haber confiado en quien mintió,\ny fingió.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "daga"
+  }
+}

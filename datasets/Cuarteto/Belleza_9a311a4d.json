@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es un don que el mundo revela,\nUn soplo de dulzura que el alma atesora,\nSe ve en la flor, el mar, la estrella que vela,\nY en la obra de **arte**, su ser más aflora.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

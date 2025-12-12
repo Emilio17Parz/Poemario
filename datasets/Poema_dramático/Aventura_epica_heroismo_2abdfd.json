@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL CAMPEÓN]\n(Ante el dragón)\nNo te temo, bestia. Eres solo carne, fuego y mentira. Yo soy voluntad.\nHe venido a buscarte, a medir mi insignificancia contra tu inmensidad.\nMe matarás, quizás. Pero tu nombre será recordado por mi desafío.\nNo lucho por el rey. Lucho por el derecho a morir como un hombre libre.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "desafío"
+  }
+}

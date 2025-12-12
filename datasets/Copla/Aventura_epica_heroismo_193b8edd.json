@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Con la espada en la cintura\ny el valor en el sombrero,\nse va marchando a la guerra\nel valiente caballero.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "espada"
+  }
+}

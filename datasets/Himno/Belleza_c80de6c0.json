@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Salve, oh musa, deidad inspiradora,\nque bajas del monte con tu canción,\ny enciendes la llama de la pasión,\nen la mente que crea y que adora.\nMadre del verso y de la armonía,\nfuente de luz y de poesía.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "musa"
+  }
+}

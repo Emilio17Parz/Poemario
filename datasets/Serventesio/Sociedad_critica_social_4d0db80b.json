@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El poder corrompe todo,\ny ciega la razón,\nvolviendo el corazón,\nun oscuro lodo.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "mando"
+  }
+}

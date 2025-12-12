@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piel tersa y mirada viva,\ntesoro que dura poco,\nenergía activa,\nque vuelve loco.\n\nTesoro que dura poco,\nla flor en su plenitud,\nque vuelve loco,\nla dulce juventud.\n\nLa flor en su plenitud,\npiel tersa y mirada viva,\nla dulce juventud,\nenergía activa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

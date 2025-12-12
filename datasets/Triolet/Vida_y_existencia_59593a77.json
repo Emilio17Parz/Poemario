@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es solamente un sueño,\ndonde nadie es el dueño,\nponemos mucho empeño.\nLa vida es solamente un sueño,\na veces dulce, a veces ceño,\npequeño y risueño.\nLa vida es solamente un sueño,\ndonde nadie es el dueño.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

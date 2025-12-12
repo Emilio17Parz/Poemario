@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mágica voz que al oído canta,\nUniendo palabras con pasión,\nSusurro divino que levanta,\nAl poeta y a su corazón.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "musa"
+  }
+}

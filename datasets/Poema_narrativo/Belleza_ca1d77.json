@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El labio se curvó en un gesto de calma,\nLa sonrisa fue el sol que le llegó al alma.\nBorrando la tristeza, rompiendo el cristal,\nLa sonrisa es el arma, el signo vital.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

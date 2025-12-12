@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No lloréis más, zagales,\nque él pisa prados divinos,\nde eternos caminos,\nlejos de nuestros males.\nAllí no hay vendavales,\nni lobos dañinos,\nsolo cantos finos,\ny luces inmortales.\nÉl nos mira y espera,\nen la alta montaña,\nde la eterna primavera.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

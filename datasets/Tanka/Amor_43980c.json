@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Más que la vida\ndurará este lazo\nfuerte y real.\nNi la muerte separa\nlo que el alma ha unido.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

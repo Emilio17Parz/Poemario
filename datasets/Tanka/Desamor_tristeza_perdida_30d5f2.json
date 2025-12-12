@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Como arena al mar,\nasí se fue tu promesa,\nentre mis dedos ya.\nEl viento lo lleva lejos,\nsin dejarme ni el recuerdo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

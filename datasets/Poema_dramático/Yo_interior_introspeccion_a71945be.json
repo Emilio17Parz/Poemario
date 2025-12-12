@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "CONFESOR: Dime tu pecado, hijo mío.\nPENITENTE: Hay un secreto que no puedo hablar.\nCONFESOR: Sácalo fuera para sanar.\nPENITENTE: Es un veneno, es un río frío.\nSi lo digo, dejaré de ser yo,\nporque en ese secreto vivo yo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

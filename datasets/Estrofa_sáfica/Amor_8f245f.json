@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pasan los años, cae la belleza,\npero mi amor se mantiene constante,\nsiempre seré tu fiel y buen amante,\nhasta la muerte.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

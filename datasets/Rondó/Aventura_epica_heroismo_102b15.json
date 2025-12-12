@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Poder de la magia,\nque todo transforma.\nRompe la norma,\ny contagia.\n\nSe presagia,\nla forma.\nPoder de la magia,\nque todo transforma.\n\nLa hemorragia,\nse adorma.\nReforma,\nque plagia.\nPoder de la magia.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "magia"
+  }
+}

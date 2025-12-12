@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cargar la cruz siguiendo el camino,\npeso de la culpa y de la redención,\nla pasión,\nque transforma el agua en el buen vino.\nSímbolo de amor y sacrificio,\nel oficio,\nde dar la vida por los demás,\ny la paz.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "peso"
+  }
+}

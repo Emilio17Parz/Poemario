@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La curva de una cadera,\nla línea del horizonte,\nla geometría de un cristal.\nLa belleza busca la forma,\nel equilibrio perfecto.\nEs el orden oculto en el caos,\nla armonía que descansa la mirada.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "forma"
+  }
+}

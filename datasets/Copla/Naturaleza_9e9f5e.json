@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La roca es firme y leal (a),\nsu piel de tiempo y de fe (b),\nla eterna y dulce fanal (c),\nel noble y eterno 'yo sé' (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Roca"
+  }
+}

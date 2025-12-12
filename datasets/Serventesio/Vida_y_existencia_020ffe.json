@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La alegría es la medicina,\nque cura el alma de su mal,\nes una luz que nos ilumina,\ny nos aleja del final.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "alegría"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "   Cielo\n     ^\n     |\n     |\n    Fe",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "camino"
+  }
+}

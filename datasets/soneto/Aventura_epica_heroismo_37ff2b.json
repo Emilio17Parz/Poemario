@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan trompetas, retumba el tambor,\nel campo espera la sangre caliente,\nchocan aceros de forma inclemente\ny el aire se llena de gran clamor.\n\nNo hay piedad, ni tregua, ni amor,\nsolo la muerte que avanza imponente,\nllevándose almas de forma urgente\ny sembrando en todos el terror.\n\nCae el valiente y cae el cobarde,\nigualados en el barro rojo,\nmientras la tarde en el cielo arde.\n\nEs la guerra un cruel y vil despojo,\nque aunque de honor y de patria alarde,\ndeja a la humanidad en el rastrojo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tambor"
+  }
+}

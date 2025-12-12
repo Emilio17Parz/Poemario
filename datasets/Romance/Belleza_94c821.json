@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras que son diamantes\ngarzadas en el papel,\nrimas que besan el alma\ncon dulzura de la miel.\nLa poesía es la belleza\ndicha con ritmo fiel,\nque nos cuenta los secretos\nde la torre de Babel.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sonó el trueno en el cielo,\ncausando un gran revuelo.\nEl perro corrió,\ny se escondió,\ndebajo del terciopelo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "trueno"
+  }
+}

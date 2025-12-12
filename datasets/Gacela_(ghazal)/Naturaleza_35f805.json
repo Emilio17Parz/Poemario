@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompe la sombra el claro amanecer,\nnace la esperanza en el amanecer.\n\nEl horizonte se tiñe de rojo,\nsaluda al mundo el nuevo amanecer.\n\nCada mañana es un nuevo comienzo,\nregalo divino del fiel amanecer.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

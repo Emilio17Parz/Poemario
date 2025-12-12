@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "'Te acompaño en el sentimiento',\nfrase hecha y vacía,\nse la lleva el viento,\nal terminar el día.\nNo saben qué decir,\ny prefieren huir.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Pésame"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mirada en flor, gozo sutil.\nLa forma pura, del alma brota su anhelo.\nEs la belleza, verdad eterna que el ser siente y ve.\nSu anhelo brota, del alma pura, la forma.\nSutil gozo, en flor, la mirada.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "forma"
+  }
+}

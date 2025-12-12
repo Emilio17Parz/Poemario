@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te fuiste sin decir nada\ncon el alba y el rocío,\ndejando mi cama yerta\ny mi corazón vacío.\nNo hay carta sobre la mesa\nni consuelo para el frío,\nsolo el adiós silencioso\nde este amor que no es mío.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

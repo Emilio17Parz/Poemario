@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Surco la mar,\nsin descansar,\nen el barco,\ncomo un arco,\nal pasar.\n\nSin pensar,\nni dudar,\nel charco,\nSurco la mar.\n\nAl llegar,\ny amarrar,\ndel marco,\ny el parco,\ndel lugar,\nSurco la mar.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "mar"
+  }
+}

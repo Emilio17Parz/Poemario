@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vivo en la sombra oscura,\nSin tu luz alrededor,\nEs una gran amargura.\nVivo en la sombra oscura,\nPerdiendo la cordura,\nY sintiendo el terror.\nVivo en la sombra oscura,\nSin tu luz alrededor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

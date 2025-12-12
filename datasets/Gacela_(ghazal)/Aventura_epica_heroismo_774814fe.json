@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo viaje por el mar bravío,\nbuscando tierras que no son mías.\n\nContra la tormenta y el hastío,\nsigo mi rumbo con desafío.\n\nAventura del alma y del navío,\nhacia el horizonte y su vacío.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "barco"
+  }
+}

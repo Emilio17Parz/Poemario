@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Para el muerto no hay mañana,\nni tarde, ni noche oscura,\nsolo una eterna negrura,\no una luz temprana.\n\nSe rompió la porcelana,\ndel tiempo que medimos,\ny los días que vivimos,\nsuenan ya como campana.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

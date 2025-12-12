@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un viejo, al fin, dejó de existir,\nCon un suspiro de \"¡ya no hay que sufrir!\"\n\"¡Qué aburrida la paz!\"\nMurmuró, fugaz,\nEn la quieta eternidad por venir.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

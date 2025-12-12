@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miramos las ruinas de lo que construimos, un montón de cenizas grises donde antes hubo un fuego vivo.\nSopla el viento y se lleva los restos de nuestras promesas, esparciéndolas en la nada como polvo sucio.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

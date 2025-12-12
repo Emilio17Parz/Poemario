@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La gloria no da de comer\nni quita las penas mías,\nprefiero vivir tranquilo\naunque no tenga valías.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

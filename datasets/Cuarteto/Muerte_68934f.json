@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Calló tu voz y el mundo es mudo,\nfalta la nota de tu canción,\nreina el silencio en la habitación,\ncon un ambiente pesado y rudo.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

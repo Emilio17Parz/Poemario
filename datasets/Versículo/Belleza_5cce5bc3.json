@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte es el intento desesperado del hombre por tocar la inmortalidad.\nCongelar el instante, atrapar la belleza, dar forma a lo invisible.\nEn cada obra maestra late el corazón de un creador que desafió al tiempo.\nEl arte nos salva de la vulgaridad y nos eleva hacia lo sublime.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "arte"
+  }
+}

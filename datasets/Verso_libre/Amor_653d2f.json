@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Encajar en tu pecho\nes volver a casa sin haber partido.\nEs cerrar un círculo perfecto\ndonde el frío del mundo\nqueda suspendido afuera,\nmientras adentro\nsolo existe el ritmo de tu sangre.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

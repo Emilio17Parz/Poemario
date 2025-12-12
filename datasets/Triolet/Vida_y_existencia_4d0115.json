@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El hilo de la vida,\nSe teje sin cesar,\nEn la partida.\nEl hilo de la vida,\nEs la medida,\nDe nuestro andar.\nEl hilo de la vida,\nSe teje sin cesar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "hilo"
+  }
+}

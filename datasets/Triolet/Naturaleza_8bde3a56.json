@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llega la noche quieta\ncubriendo la tierra,\ncomo una meta.\nLlega la noche quieta,\nel alma respeta\nlo que ella encierra.\nLlega la noche quieta\ncubriendo la tierra.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "noche"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se escapa un suspiro de mi pecho,\nvolando hacia donde tú estás,\nes el mensajero de mi paz,\nque busca refugio en tu lecho.\nEn este aire de amor deshecho,\nte nombro y no te vas jamás.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "suspiro"
+  }
+}

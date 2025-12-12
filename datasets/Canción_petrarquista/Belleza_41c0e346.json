@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es flor de un solo día,\nque nace, brilla y luego se marchita,\nmas la que habita\nen el alma, esa no varía.\nBuscad la luz que no se desvanece,\nla que crece\ncon el paso lento,\ny no la que se lleva el rudo viento.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "efímera"
+  }
+}

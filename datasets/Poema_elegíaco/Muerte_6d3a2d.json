@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj se detuvo, la arena cayó ya,\nla vida sin la calma que el tiempo no da.\nLa hora final es el fin de la fe,\nla sombra constante sin saber el qué.\n\nNo tengo el camino, no tengo el valor,\nla vida sin la calma, el cruel fulgor.\nMi tiempo es el recuerdo de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "arena"
+  }
+}

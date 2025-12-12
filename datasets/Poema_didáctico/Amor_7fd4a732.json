@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aprende que la pasión es fuego vivo,\nque calienta el hogar si se controla,\nmas si la dejas libre y corre sola,\nse vuelve un incendio destructivo.\nNo ames con la furia del momento,\nama con la calma del entendimiento.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

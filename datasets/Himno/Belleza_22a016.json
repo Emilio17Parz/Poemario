@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Lenguaje etéreo de los serafines,\nque no conoces fronteras ni fines!\nTu ritmo penetra en el corazón,\ny doma la fiera de la pasión.\n\n¡Salve, oh música, dulce consuelo,\nque nos elevas del suelo al cielo!\nArmonía pura que el aire llenas,\ny nos alivias de todas las penas.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "música"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Guarda el cofre sagrado de la memoria,\nlo vivido y amado, la memoria.\n\nEl olvido es la muerte del ser,\nla vida persiste en la memoria.\n\nSomos cuentos que alguien recuerda,\nexistimos gracias a la memoria.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

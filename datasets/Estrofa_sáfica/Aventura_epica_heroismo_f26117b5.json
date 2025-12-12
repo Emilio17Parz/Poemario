@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Bronce pulido que el golpe detiene,\nmuro portátil que la vida salva,\nbrilla al sol cuando la batalla empieza\nen el alba.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "escudo"
+  }
+}

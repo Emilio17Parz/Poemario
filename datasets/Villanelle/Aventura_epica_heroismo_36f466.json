@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escalo la pared de roca,\nhacia el cielo azul,\nque mi mano casi toca.\n\nLa altura me provoca,\nun vértigo de tul,\nescalo la pared de roca.\n\nMi aliento se sofoca,\nbajo el sol y el abedul,\nque mi mano casi toca.\n\nLa cima me convoca,\ncon su luz de baúl,\nescalo la pared de roca.\n\nMi fuerza se enfoca,\nen subir al gandul,\nque mi mano casi toca.\n\nLa vista desemboca,\nen un mundo azul,\nescalo la pared de roca,\nque mi mano casi toca.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

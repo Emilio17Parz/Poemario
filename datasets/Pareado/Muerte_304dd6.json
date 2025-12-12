@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El gran viaje sin regreso al puerto que es fiel (A),\nel alma se va, el trago de amarga hiel (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

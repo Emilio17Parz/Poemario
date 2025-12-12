@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Crece en la sangre mi ardiente deseo,\ny vivo esperando mi ardiente deseo.\n\nEs hambre y es sed, es mi único trofeo,\ntenerte en mis brazos, mi ardiente deseo.\n\nNo calman las aguas el fuego que veo,\nsi no te consumo, mi ardiente deseo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi camino es solo de mí,\nlo ando sin un solo sí.\nCon fe en el final,\nsin nada de mal,\nel alma sin rastro de ají.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Camino"
+  }
+}

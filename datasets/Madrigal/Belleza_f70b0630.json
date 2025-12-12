@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza se va,\ncomo la rosa que marchita está.\nDisfruta su momento,\nsu luz y su contento.\nPues el tiempo cruel\nborra los trazos sobre el fiel papel.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "efímera"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "o\n o\n  o\n   o\n    o\n     o\n      o\n       lago",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

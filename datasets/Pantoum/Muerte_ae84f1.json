@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos polvo y nada más,\nal polvo regresaremos.\nNo mirarás atrás,\ncuando al fin marchemos.\n\nAl polvo regresaremos,\nley de la naturaleza.\nCuando al fin marchemos,\nborrando la belleza.\n\nLey de la naturaleza,\nno mirarás atrás.\nBorrando la belleza,\nsomos polvo y nada más.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

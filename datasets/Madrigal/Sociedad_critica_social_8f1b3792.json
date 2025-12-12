@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mano que pide pan,\nmientras otros derrochan con afán.\nVergüenza de la gente\nque mira indiferente.\nEl hambre no perdona,\ny la justicia a los pobres abandona.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

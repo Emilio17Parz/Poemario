@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Salve, Esperanza, verde bandera,\nque nunca dejas de ondear,\nenseñándonos a confiar,\nen una eterna primavera.\n\nMientras hay vida, tú permaneces,\ndando consuelo al que ha sufrido,\nlevantando al que ha caído,\ny en el dolor tú siempre creces.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

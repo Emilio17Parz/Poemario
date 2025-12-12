@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde susurra al viento una canción serena,\nBajo el sol que tiñe el cielo de matices de oro,\nY la montaña inmóvil, testigo de la escena.\n\nEl río labra su senda, sin prisa ni condena,\nMientras el bosque guarda su antiguo tesoro,\nEl verde susurra al viento una canción serena.\n\nLa flor más humilde, en su fragancia plena,\nOfrece su dulzura al viajero inodoro,\nY la montaña inmóvil, testigo de la escena.\n\nLa vida que surge, de raíz o de vena,\nCon cada nuevo brote, un vibrante decoro,\nEl verde susurra al viento una canción serena.\n\nNinguna prisa turba esta paz que nos llena,\nDe un éxtasis profundo, un eterno socorro,\nY la montaña inmóvil, testigo de la escena.\n\nEn esta danza eterna, que el alma encadena,\nLa tierra y el cielo, en un dulce coro,\nEl verde susurra al viento una canción serena,\nY la montaña inmóvil, testigo de la escena.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

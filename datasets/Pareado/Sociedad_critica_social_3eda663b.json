@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Quiero ser libre y volar,\nsin cadenas que atar.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

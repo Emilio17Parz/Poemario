@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Asombro ante el mundo y su grandeza,\nante el misterio y la belleza!\nOjos que miran como por vez primera,\nla luz del sol y la pradera.\n\n¡Gloria al sentir de la admiración,\nque llena de gozo el corazón!\nVivir despierto ante el esplendor,\nes el tributo al Creador.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "maravilla"
+  }
+}

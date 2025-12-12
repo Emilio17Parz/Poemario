@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reina absoluto el pálido silencio,\nque con temor presencio.\nYa no hay ruido ni voz,\nsolo el corte veloz,\nde la parca que llega,\ny todo lo siega.\nQuietud en el ambiente,\nde la muerte presente.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

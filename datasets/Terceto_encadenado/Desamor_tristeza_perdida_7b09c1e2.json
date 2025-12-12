@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento un peso gigante por la pena,\nque me ahoga y me quita el aliento,\nes una dura y trágica condena.\n\nVivir con este eterno sufrimiento,\nrecordando los días que vivimos,\ny que se llevó rápido el viento.\n\nYa no somos aquellos que fuimos.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "pena"
+  }
+}

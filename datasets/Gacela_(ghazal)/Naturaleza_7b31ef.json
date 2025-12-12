@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de arena es el vasto desierto,\nreino del sol es el vasto desierto.\n\nDunas que cambian con el viento,\nsilencio eterno en el vasto desierto.\n\nLa vida resiste en lo más hostil,\nflor en la arena del vasto desierto.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

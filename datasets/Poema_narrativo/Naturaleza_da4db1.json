@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viejo roble echó raíz hace trescientos años,\nVio pasar las eras, sin sufrir grandes daños.\nSoportó los inviernos y el sol más ardiente,\nY dio sombra a un viajero cansado y doliente.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

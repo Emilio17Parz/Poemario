@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Espíritu libre que vas y vienes,\nsin que nadie pueda encadenarte,\nllevas la vida a cualquier parte,\ny el mundo entero tú lo sostienes.\n\n¡Sopla, oh viento, con gran poder!\nLimpia los cielos, mueve el molino,\ntú eres el aliento divino,\nque hace a la tierra estremecer.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "aire"
+  }
+}

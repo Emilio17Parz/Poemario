@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco mi propia identidad,\nlejos de toda la falsedad,\npara vivir en la claridad,\nser verdadero.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

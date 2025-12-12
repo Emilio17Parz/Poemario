@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "El alma mira en su confín callado,\nDonde la verdad hila un suave arrullo,\nUn mundo íntimo, apenas revelado.\n\nDonde la verdad hila un suave arrullo,\nYace en penumbras un antiguo secreto,\nReflejo mudo de mi propio murmullo.\n\nYace en penumbras un antiguo secreto,\nQue a solas mi conciencia desentierra,\nUn hondo abismo que hoy por fin acepto.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

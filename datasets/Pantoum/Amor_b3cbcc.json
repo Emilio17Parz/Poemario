@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Giramos juntos en este vals,\npasos que siguen el mismo son,\nno existe duda, no existe un fals,\nsolo el latir de un corazón.\n\nPasos que siguen el mismo son,\nllevas mi cuerpo hacia el destino,\nsolo el latir de un corazón,\nen este dulce y largo camino.\n\nLlevas mi cuerpo hacia el destino,\nno existe duda, no existe un fals,\nen este dulce y largo camino,\ngiramos juntos en este vals.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "vals"
+  }
+}

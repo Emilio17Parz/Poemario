@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Colmena de cemento y soledad,\ndonde el vecino es un extraño,\nse vende el alma y la verdad,\npor subir un solo peldaño.\nRuido de máquinas, silencio humano,\nel progreso nos tiende la mano.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Ciudad"
+  }
+}

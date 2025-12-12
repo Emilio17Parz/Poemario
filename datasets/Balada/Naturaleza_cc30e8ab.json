@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viento viajero que vas y vienes,\nllevando polen y hojas secas,\nno tienes forma, ni te detienes,\ny en las ventanas a veces pecas.\nCuentas historias en bibliotecas,\nde nubes grises y ramas huecas.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "viento"
+  }
+}

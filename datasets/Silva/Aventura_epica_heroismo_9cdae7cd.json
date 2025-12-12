@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lealtad al rey y ley,\nes la norma del noble caballero,\nque cuida la grey,\ncon acero,\ny corazón valiente y sincero.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "lealtad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rocío que caes con forma de pena,\nel líquido breve que ya no está.\nTu brillo es sombra, la cruel cadena,\nel alma que nunca me da.\nTu lágrima es triste, la vida se fue,\nel alma sin un solo sé.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Rocío"
+  }
+}

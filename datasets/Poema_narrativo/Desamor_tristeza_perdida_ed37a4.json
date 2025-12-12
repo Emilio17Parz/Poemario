@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quiso quemar la foto y borrar el recuerdo,\nCaminando sin rumbo, perdiendo el acuerdo.\nPero el olvido es lento, se arrastra como un caracol,\nY el alma sigue atada a la ausencia del sol.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

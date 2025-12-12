@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dados que ruedan en tapete verde,\njuega el destino con la vida nuestra,\ncaos y orden en danza eterna\nse nos muestra.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "azar"
+  }
+}

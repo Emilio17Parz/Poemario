@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El largo viaje,\nsin peaje,\ncomienza ya,\ny se va,\nel carruaje.\n\nBuen paisaje,\ny blindaje,\nse da,\nEl largo viaje.\n\nCon equipaje,\ny coraje,\nse está,\ny vendrá,\nel mensaje,\nEl largo viaje.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

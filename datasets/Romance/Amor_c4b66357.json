@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oh, musa de mis sueños, luz de mi existir,\nTu nombre en cada verso grabo sin dudar,\nUn eco de tu risa me hace sonreír,\nLa paz que solo encuentro al poderte mirar.\n\nEn tus ojos profundos hallo mi verdad,\nUn mundo sin fronteras que quiero explorar,\nMi alma se estremece con tu dulce bondad,\nY en cada latido te vuelvo a amar.\n\nNo hay sombra que me apague, ni noche sin fulgor,\nPues dentro de mi pecho un sentimiento arde,\nUn **fuego** que consume con pasión y amor,\nQue nunca se extingue, ni cuando es ya muy tarde.\n\nQue brillen las estrellas, que cante el ruiseñor,\nMi vida está tejida a tu eterna presencia,\nSerás mi melodía, mi único calor,\nLa más bella y pura de toda mi existencia.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

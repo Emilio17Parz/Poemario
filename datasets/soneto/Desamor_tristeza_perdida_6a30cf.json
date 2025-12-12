@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Contemplo las ruinas de lo que fuimos,\nun palacio de amor desmoronado,\ndonde el viento susurra el pasado\ny las promesas que no cumplimos.\n\nEntre escombros y polvo nos perdimos,\nel fuego del hogar está apagado,\ny aquel jardín que habíamos sembrado\nes ahora un yermo donde sufrimos.\n\n¿Qué fuerza derrumbó nuestros pilares?\n¿Fue el tiempo, la mentira o el olvido\nlo que trajo tan grandes pesares?\n\nHoy camino solo y dolorido,\nbuscando entre los tristes lugares\nel eco de un amor que se ha ido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ruinas"
+  }
+}

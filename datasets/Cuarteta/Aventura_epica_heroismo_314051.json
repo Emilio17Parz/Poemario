@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En el campo de honor,\nse decide la suerte,\nentre vida y muerte,\ncon sangre y sudor.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "honor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Se ha extinguido la sagrada luz,\nque guiaba mis pasos al altar,\nahora solo queda el tropezar,\nbajo el peso de una humana cruz.\nNoche del alma, triste y prolongada,\ndonde la fe se encuentra abandonada.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "luz"
+  }
+}

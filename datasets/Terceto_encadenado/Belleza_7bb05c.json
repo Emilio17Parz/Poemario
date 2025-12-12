@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La luna de plata llena,\nse mira en el mar profundo,\nborrando toda la pena.\n\nReina de todo el mundo,\ncon su luz blanca y pura,\nen un ciclo fecundo.\n\nDe hermosura.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "luna"
+  }
+}

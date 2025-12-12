@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Beowulf luchó,\ncontra Grendel la bestia,\nquitando la molestia,\nque al rey asustó.\nSu brazo arrancó,\nen la regia siestia,\ny ganó la apuesta,\nque prometió.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "monstruo"
+  }
+}

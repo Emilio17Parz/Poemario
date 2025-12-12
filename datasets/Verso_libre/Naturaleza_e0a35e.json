@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La tierra tiene fiebre.\nUna herida abierta en la montaña\npor donde sangra fuego.\nDestrucción y creación al mismo tiempo,\nla lava borra el paisaje\npara crear suelo nuevo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "volcán"
+  }
+}

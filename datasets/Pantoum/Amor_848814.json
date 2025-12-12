@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un roce de labios suave,\nque sella nuestro destino.\nNo existe ninguna llave,\nque cierre este camino.\n\nQue sella nuestro destino,\nla gloria en un instante.\nQue cierre este camino,\npasión de un amante.\n\nLa gloria en un instante,\nno existe ninguna llave.\nPasión de un amante,\nun roce de labios suave.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "beso"
+  }
+}

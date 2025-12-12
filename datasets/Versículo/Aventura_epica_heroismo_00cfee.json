@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Diez años de guerra y diez años de mar embravecido me separan del humo de mi hogar y del rostro de mi amada.\nLa odisea no es la aventura, es el doloroso y largo regreso a uno mismo después de haber sido zarandeado por los dioses.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

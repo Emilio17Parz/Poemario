@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hueco en el pecho,\nfalta de sentido.\nTodo deshecho,\nlo que he vivido.\n\nFalta de sentido,\nbusco llenar.\nLo que he vivido,\ny sanar.\n\nBusco llenar,\ntodo deshecho.\nY sanar,\nhueco en el pecho.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

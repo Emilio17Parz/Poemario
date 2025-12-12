@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Un cura en su misa mayor,\nhablaba con mucho fervor,\nse le cayó el vino,\nsobre un peregrino,\ny perdió todo su honor.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Cura"
+  }
+}

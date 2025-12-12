@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "En sombras donde el sol no osa entrar,\nUn sendero la vida ha de pisar,\nPor cada alma sin voz, sin preguntar,\nAquel viaje que no tiene un tornar.\n\nLa Muerte, una figura sin pesar,\nCon velo oscuro y paso singular,\nNo busca prisa, no sabe tardar,\nSolo su aliento helado ha de robar.\n\nEscucha el alma, su último latir,\nUn hilo tenue a punto de partir,\nSe aferra al aire, sin poder vivir,\nY luego cede, no puede resistir.\n\nUn soplo queda, un murmullo sutil,\nUn cuerpo inerte, un corazón gentil,\nLa vela extinta, el sueño más febril,\nYace la tierra, un lecho de marfil.\n\nNo hay rey que escape, ni pobre que resista,\nSu mano fría que en la sombra alista\nEl lecho oscuro, la final conquista,\nBorra del mundo toda luz que exista.\n\nAsí la vida encuentra siempre su **fin**,\nUn telón cae, cesa el violín,\nDe polvo fuimos, volvemos al confín,\nLa última puerta, el postrer festín.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "fin"
+  }
+}

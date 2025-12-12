@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Solo tengo ojos para ti,\nen medio de la gente.\nDesde que te sentí,\nestás en mi mente.\n\nEn medio de la gente,\nno busco a nadie más.\nEstás en mi mente,\ny no te irás.\n\nNo busco a nadie más,\ndesde que te sentí.\nY no te irás,\nsolo tengo ojos para ti.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "fidelidad"
+  }
+}

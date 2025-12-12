@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Salió de su casa con la alborada,\ncon una mochila y un par de botas.\nNo tenía meta ni ruta marcada,\nsolo seguir las señales remotas.\nLlegó a una encrucijada cerrada,\ndonde las sendas parecían rotas.\nEligió la vía menos pisada,\nentre zarzas y bosque de pino,\ny allí encontró su vida soñada,\nal final de aquel difícil camino.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "camino"
+  }
+}

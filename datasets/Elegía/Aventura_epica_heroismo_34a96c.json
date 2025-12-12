@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Oxidada en la vitrina,\nhoja que cortó el viento,\nsin movimiento,\nni rutina.\n\nTermina,\nel cuento,\nsangriento,\ny declina.\n\nAcero que duerme ya,\nno volverá.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aquí yace el amor que juramos,\nen un ataúd blanco y frío,\nahogado en el caudal de este río,\nde lágrimas que ambos lloramos.\n\nFlores marchitas le colocamos,\nfrutos de nuestro propio hastío,\ny rezamos con poco brío,\npor los sueños que destrozamos.\n\nRequiescat in pace, sentimiento,\nque descanses por fin del dolor,\ny te lleves lejos el tormento.\n\nFue hermoso, fue grande el ardor,\nmas hoy se lo lleva el viento,\nel cadáver de nuestro amor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "muerte_amor"
+  }
+}

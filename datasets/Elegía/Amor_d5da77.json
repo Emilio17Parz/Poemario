@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aquí termina la historia sagrada,\nse cierra el libro, se apaga el candil,\nfuimos un sueño, bello y sutil,\nque hoy se disuelve en la nada.\n\nQueda el alma sola y cansada,\nen este paisaje hostil y viril,\nllorando la muerte de nuestro abril,\ny viendo la dicha despedazada.\n\nDescansa en paz, amor de mi vida,\nque yo llevaré por siempre tu herida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "final"
+  }
+}

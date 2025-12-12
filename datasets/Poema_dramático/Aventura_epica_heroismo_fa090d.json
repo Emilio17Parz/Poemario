@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL GUERRERO VIEJO]\n(Sosteniendo la puerta)\nMi cuerpo es viejo, pero mi voluntad es de acero. No pasaréis. ¡No!\nHe vivido demasiado. Mi turno ya pasó. Ahora es el de la nueva guardia.\nMi vida es el precio para que vosotros ganéis una hora de ventaja.\nVe, hijo mío. Huye. Y si me recuerdas, no llores. Solo ven a buscar mi espada.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sacrificio"
+  }
+}

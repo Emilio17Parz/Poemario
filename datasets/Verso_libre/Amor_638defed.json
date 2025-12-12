@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No hay lógica en este incendio\nque devora las horas y los nombres.\nEs una urgencia de piel,\nun hambre antigua que despierta\ncuando tus manos rozan mi geografía.\nArdemos sin preguntar por qué,\nsimplemente porque el fuego\nes la única respuesta posible\na esta pasión desmedida.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

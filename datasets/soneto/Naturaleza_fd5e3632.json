@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Golpea el cristal la gota insistente,\ntambor de agua que al mundo adormece,\ny el gris del cielo lento se oscurece\nlavando la ciudad y a su gente.\n\nEs llanto de la nube, penitente,\nque sobre el campo seco se ofrece,\ny la semilla oculta agradece\nel beso de la vida, transparente.\n\nMe gusta el olor a tierra mojada,\nel sonido constante del caer,\ny la calma que deja la jornada.\n\nLa lluvia es un sutil renacer,\nuna pausa en la vida acelerada,\nque invita a contemplar y a comprender.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

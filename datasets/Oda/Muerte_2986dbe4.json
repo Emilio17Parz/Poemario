@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo gris y volátil,\nresiduo del fuego vivo,\nlo que queda de la forma\nen su estado fugitivo.\nRegreso a lo elemental,\na la química primera,\nsin nombre, sin rostro, sin yo,\nmezclado con la pradera.\nHumilde y final estado,\nlección de humillación,\nque nos dice que somos nada\nmás que una breve canción.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

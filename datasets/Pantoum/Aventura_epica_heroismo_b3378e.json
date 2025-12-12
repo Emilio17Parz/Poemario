@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nombre inmortalizado,\nen cantos y versos.\nHéroe aclamado,\nen los universos.\n\nEn cantos y versos,\ntriunfo sobre el mal.\nEn los universos,\nseñal vital.\n\nTriunfo sobre el mal,\nhéroe aclamado.\nSeñal vital,\nnombre inmortalizado.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

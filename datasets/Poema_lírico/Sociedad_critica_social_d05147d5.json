@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Alzo mi voz pidiendo equidad,\npara el que sufre la cruel opresión,\nque se termine la vil corrupción,\ny resplandezca por fin la verdad.\nQue reine siempre la fraternidad,\ny la justicia en nuestra nación.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

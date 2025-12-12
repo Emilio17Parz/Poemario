@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Se escapa la vida,\nminuto a minuto.\nCuro la herida,\ntermino el luto.\n\nMinuto a minuto,\nvaloro el instante.\nTermino el luto,\nsigo adelante.\n\nValoro el instante,\nse escapa la vida.\nSigo adelante,\ncuro la herida.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

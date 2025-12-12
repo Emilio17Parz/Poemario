@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La libertad del alma, el gran poder,\nde elegir el bien, de amar sin cesar,\nno hay cadena que pueda ya vencer,\nal ser que decide en la fe estar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Libertad"
+  }
+}

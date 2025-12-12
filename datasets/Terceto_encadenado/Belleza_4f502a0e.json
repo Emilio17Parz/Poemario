@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es un don que nos abraza,\nUn eco eterno que el corazón siente,\nY en cada luz del día se engarza.\n\nSu influjo tierno el ser lo presiente,\nSe manifiesta en cada viva **forma**,\nY su verdad el alma no miente.\n\nDe cada curva pura que se asoma,\nEn el color, el trazo, la armonía,\nSu esencia pura siempre nos colma.\n\nNos envuelve en sublime melodía,\nUn regalo al espíritu ofrecido,\nMás allá de la efímera porfía.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "forma"
+  }
+}

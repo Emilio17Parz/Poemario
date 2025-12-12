@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me he exiliado del mundo donde tu risa estaba,\nla vida sin tu luz era una cosa brava.\nSoy un errante solo, sin patria ni sol,\nmi corazón es el nido de un triste farol.\n\nTe busco en la noche, te lloro en la pared,\nla soledad es la prueba de mi amarga sed.\nMi destierro es el precio de un amor sin fin,\nla vida sin la paz de un dulce patín.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "destierro"
+  }
+}

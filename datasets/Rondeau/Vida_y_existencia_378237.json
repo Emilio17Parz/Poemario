@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sigue el sendero,\nverdadero,\nque marcas,\nsin parcas,\nligero.\n\nEl primero,\ny sincero,\nen las barcas,\nSigue el sendero.\n\nLas charcas,\ny las marcas,\ndel viajero,\nentero,\ny aventurero,\nSigue el sendero.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sendero"
+  }
+}

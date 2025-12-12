@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La Cena estaba servida,\ncon silencios y con hiel,\nmi alma se sentía herida,\npor la sombra de tu piel.\n\nY aunque el vino era amargo,\ny la noche ya se fue,\nsigo esperando un encargo,\ny que vuelvas a tenerme fe.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Cena"
+  }
+}

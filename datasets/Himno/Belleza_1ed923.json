@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dama invisible que guías la mano,\ny haces divino lo que es humano.\n¡Honor a la Musa, fuente del arte!,\nque en cada obra tienes tu parte.\n\nSusurras al oído del gran creador,\nllenando su pecho de sacro fervor.\nSin ti el papel se queda vacío,\ny el instrumento, mudo y frío.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "musa"
+  }
+}

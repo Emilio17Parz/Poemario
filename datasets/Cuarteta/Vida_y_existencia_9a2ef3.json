@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Baila esta vida como un gran baile,\nsin miedo a caer, sin temor al mal,\nque tu espíritu vuele, que no desfalle,\nla danza de un ser que es inmortal.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

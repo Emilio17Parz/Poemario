@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Alas de la mente,\nque vuelan alto,\ndan el salto,\nal continente.\nSin ti no soy,\nni sé a dónde voy.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

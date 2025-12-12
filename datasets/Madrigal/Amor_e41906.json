@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ardor que nos consume,\nhoguera que en la piel deja su marca;\nel deseo que abarca\ny el aire que presume.\nQuemarnos juntos es la gloria misma,\nal borde del abisma.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

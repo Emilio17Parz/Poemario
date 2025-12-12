@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "YO: ¿Qué pasará mañana? Dime.\nFUTURO: Es un secreto que te oprime.\nYO: ¿Tendré amor, salud, dinero?\nFUTURO: Quizás sí, o quizás cero.\nYO: Me angustia no saber nada.\nFUTURO: La vida es una jugada.\nConfía en el paso que das.\nEl mañana no existe jamás.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "ansiedad"
+  }
+}

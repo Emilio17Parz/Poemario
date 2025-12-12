@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hogar de santos,\nlas nubes son el suelo,\ngozo sin fin.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

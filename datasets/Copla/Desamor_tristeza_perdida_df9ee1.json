@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La herida se abre sin fin (a),\nla pena que sabe sangrar (b),\nmi vida es un triste jazmín (c),\nsin la fuerza de amar (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Herida"
+  }
+}

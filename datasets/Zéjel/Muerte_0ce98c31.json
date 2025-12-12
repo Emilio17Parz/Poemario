@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llevo el duelo,\nsin consuelo.\n\nLloro tu ausencia,\ncon impaciencia,\nen la conciencia,\nmirando al suelo.\n\nLlevo el duelo,\nsin consuelo.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

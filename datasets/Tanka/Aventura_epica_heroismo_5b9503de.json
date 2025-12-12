@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Ruta incierta va,\nMontañas, mares, cruzando,\nHéroe valiente,\nSu espada forja el destino,\nCosechando eterna gloria.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol nos da su calor,\nBrillando en el cielo azul,\nCon un inmenso fulgor.\nEl sol nos da su calor,\nPintando con gran color,\nSin velo y sin tul.\nEl sol nos da su calor,\nBrillando en el cielo azul.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "luz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La gracia nos levanta,\ndel fango del pecado,\ny el alma canta,\nal ser perdonado.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "gracia"
+  }
+}

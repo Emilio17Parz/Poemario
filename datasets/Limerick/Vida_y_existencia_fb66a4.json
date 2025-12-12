@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El valor que tiene mi ser,\nes fuerza que puedo vencer.\nEl miedo se va,\nsin un solo ¡ah!,\nla vida que puedo tener.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Valor"
+  }
+}

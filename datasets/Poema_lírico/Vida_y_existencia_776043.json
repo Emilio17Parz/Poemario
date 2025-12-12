@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La luz de la vida\nno es santa ni pura.\nEs la herida\nde la dura amargura.\n\nMe obliga a ver todo,\nel bien y el mal,\nel barro y el lodo\ndel signo vital.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "luz"
+  }
+}

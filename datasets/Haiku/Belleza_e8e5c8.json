@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Monte y río\ncuadro de la natura\ngoce al mirar.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

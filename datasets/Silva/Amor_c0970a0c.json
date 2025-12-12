@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, llama eterna,\nque enciende el alma en su vivir profundo;\nno hay fuerza que la venza,\nni tormenta en el mundo\nque su fulgor, un instante, confunda.\n\nNace en el hondo pecho,\ndonde el pulso febril marca su lecho;\nun sentimiento puro,\nque el tiempo no doblega\nni el más oscuro desengaño ciego.\n\nEs brisa que acaricia,\nel sol que el alma ilumina con su calma,\nestrella que nos guía\nen la noche más fría,\nla dulce promesa que la vida ensalma.\n\nY en cada latido,\nen este corazón que nunca olvida,\nse aloja su sentido,\nla verdad encendida,\nla razón de la más noble de las vidas.\n\nMurmura el viento nombres ya lejanos,\nmas el amor persiste\nen sus fuegos cercanos,\naunque a veces se aliste\na un viaje incierto entre desierto y olvido.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

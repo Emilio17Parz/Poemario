@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Creer en lo invisible,\nes la fuerza que mueve la montaña;\nluz que nos baña,\ntan apacible.\nLa fe sostiene cuando todo cae,\ny nos atrae.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "fe"
+  }
+}

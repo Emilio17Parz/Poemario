@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque es un manto verde,\nQue cubre todo el lugar,\nDonde la vista se pierde.\nEl bosque es un manto verde,\nQue el hombre recuerde,\nDebemos conservar.\nEl bosque es un manto verde,\nQue cubre todo el lugar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "verde"
+  }
+}

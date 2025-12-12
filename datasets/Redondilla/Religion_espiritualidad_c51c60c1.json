@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Elevo mi voz a Dios\nen la noche tan oscura,\nbuscando la paz pura\nlejos de un mundo atroz.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "dios"
+  }
+}

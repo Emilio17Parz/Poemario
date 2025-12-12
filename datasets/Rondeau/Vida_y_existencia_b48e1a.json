@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La oportunidad,\nde verdad.\nSe presenta,\ny se intenta,\ncon voluntad.\n\nLa edad,\ny la ciudad.\nNo cuenta,\nla oportunidad.\n\nLibertad,\ny bondad.\nSe inventa,\ny se aumenta,\nla cantidad,\nla oportunidad.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "oportunidad"
+  }
+}

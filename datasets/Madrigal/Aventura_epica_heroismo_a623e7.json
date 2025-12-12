@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Oscuridad húmeda y cadenas,\ndonde el tiempo se arrastra muy lento,\ntormento,\nde pagar con la vida las condenas.\nLa luz del sol es solo un recuerdo,\nyo pierdo,\nla esperanza de volver a ver,\nel amanecer.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mazmorra"
+  }
+}

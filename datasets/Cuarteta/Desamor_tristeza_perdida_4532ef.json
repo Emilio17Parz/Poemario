@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dijiste adiós sin mirar atrás,\nrompiendo el puente que nos unió,\ny mi vida ya no vale más,\nla luz del mañana se apagó.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

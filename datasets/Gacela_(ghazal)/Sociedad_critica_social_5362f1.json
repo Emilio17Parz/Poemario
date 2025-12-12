@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Gobierna a las masas el oscuro miedo,\narma potente es el oscuro miedo.\n\nCierran las puertas y bajan la voz,\nporque domina el oscuro miedo.\n\nQuien tiene miedo no puede ser libre,\ncárcel del alma es el oscuro miedo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ya no me quedan palabras de aliento,\nsolo el silencio de tu despedida,\ny el eco triste de mi sufrimiento.\n\nSe lo llevó todo el frío viento,\ndejando el alma sola y herida,\nya no me quedan palabras de aliento.\n\nFue tu traición un duro momento,\nque me quitó la paz y la vida,\ny el eco triste de mi sufrimiento.\n\nVivo atrapado en este lamento,\nsin encontrar ninguna salida,\nya no me quedan palabras de aliento.\n\nTodo el amor se volvió un cuento,\nuna promesa falsa y perdida,\ny el eco triste de mi sufrimiento.\n\nMe voy marchando con paso lento,\ncon la esperanza ya fallecida,\nya no me quedan palabras de aliento,\ny el eco triste de mi sufrimiento.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

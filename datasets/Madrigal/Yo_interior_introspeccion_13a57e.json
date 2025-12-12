@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Voz que nunca se calla,\nreproche del error cometido;\nsi he perdido,\nla batalla.\nEl juez interno es duro y no perdona,\nni abandona.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

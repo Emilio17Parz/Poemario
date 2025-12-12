@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es muy triste tener que irse\nde este mundo terrenal,\ny dejar de sonreírse\nante el juicio final.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "irse"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¡Salve, oh Muerte, puerto final!\nDescanso del alma peregrina,\nluz que al final se determina,\ntras el cansancio terrenal.\n\nNo te tememos, sombra serena,\npues abres la puerta a la verdad,\nliberando en la eternidad,\nal prisionero de su cadena.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "final"
+  }
+}

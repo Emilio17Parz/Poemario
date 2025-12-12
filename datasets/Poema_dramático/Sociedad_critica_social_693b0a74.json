@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "DICTADOR: El pueblo me ama, me aplauden.\nCONSEJERO: Señor, es miedo, no se defrauden.\nDICTADOR: Yo les di orden y carreteras.\nCONSEJERO: Y llenó las cárceles y las perreras.\nDICTADOR: Soy el padre de la nación.\nCONSEJERO: Hay una revuelta en el callejón.\nDICTADOR: ¡Aplástalos! ¡Que corra la sangre!\nCONSEJERO: El hambre ya no teme al enjambre.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "poder"
+  }
+}

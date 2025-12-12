@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tienes una duda existencial,\ntan profunda y especial.\n¿Ser o no ser? esa es la cuestión.\nNo, tu duda es qué jamón,\nponerle al bocadillo,\nfilósofo de pasillo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "duda"
+  }
+}

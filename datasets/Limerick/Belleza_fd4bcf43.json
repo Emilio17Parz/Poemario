@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una dama de gran belleza sin par,\nmi alma empezó a soñar y a volar.\nFue mi musa gentil,\nun dulce perfil,\nque mi arte logró iluminar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "musa"
+  }
+}

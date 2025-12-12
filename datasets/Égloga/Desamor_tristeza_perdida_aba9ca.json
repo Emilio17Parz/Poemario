@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ya no canta la flauta melodiosa,\ncuelga del ramo, muda y olvidada.\nSin la luz de tu vista, mi amada,\nla música es cosa dolorosa.\nReina el silencio en la selva frondosa,\ncual tumba de esperanza terminada.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flauta"
+  }
+}

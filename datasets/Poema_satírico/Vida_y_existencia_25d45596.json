@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Trabajo como un burro,\npara ganar el pan,\ny mi jefe me mira,\ncon cara de caimán.\nEspero el viernes,\ncomo agua de mayo,\npara gastar lo poco,\nque gano en el ensayo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

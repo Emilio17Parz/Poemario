@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La rosa se cría en el campo\nsin que nadie la riegue,\ncon el agua del rocío\nque del cielo le llegue.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

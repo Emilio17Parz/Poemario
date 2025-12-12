@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "ALMA\n        PURO\n        VALOR\n\n        CORAZÓN\n        FIRME\n\n       HONOR\n   BATALLA FEROZ\n       GLORIA\n\n       LA LUCHA\n        INCANSABLE\n         AVENTURA\n          ÉPICA\n           EL HÉROE\n            ASCENDE\n             SIEMPRE\n              AL\n               TRIUNFO\n                FINAL\n\n                 CUMBRE",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

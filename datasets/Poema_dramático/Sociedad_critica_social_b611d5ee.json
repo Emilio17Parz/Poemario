@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "NIÑO: Señor, ¿me limpia los zapatos?\nSEÑOR: Quita, niño, no quiero tratos.\nNIÑO: Tengo hambre, no he comido hoy.\nSEÑOR: Es culpa de adonde voy.\nNIÑO: Solo unas monedas, por favor.\nSEÑOR: Busca a tus padres, ten valor.\nNIÑO: No tengo padres, vivo en la acera.\nSEÑOR: Qué triste es la vida, qué fiera.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "zapatos"
+  }
+}

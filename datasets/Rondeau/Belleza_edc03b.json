@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suave la tela cae,\nque atrae,\nla mirada,\nenamorada,\nque trae.\n\nQue distrae,\ny sustrae,\nla nada,\nSuave la tela.\n\nDiseñada,\ny cortada,\nque decae,\ny recae,\namada,\nSuave la tela.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tela"
+  }
+}

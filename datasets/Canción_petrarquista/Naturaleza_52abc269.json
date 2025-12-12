@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viste la primavera sus colores,\ny el mundo se renueva en alegría,\nmas la esperanza mía\nse seca entre las hierbas y las flores.\nPorque aquel sol que daba vida al prado\nse ha puesto y me ha dejado\nen noche sempiterna,\ndonde no habita luz ni fuerza tierna.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

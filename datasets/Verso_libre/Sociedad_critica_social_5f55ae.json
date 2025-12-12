@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La silla es adictiva.\nQuien se sienta en ella\nolvida cómo se ve el mundo desde abajo.\nEl poder ciega,\naisla,\ny convierte a los hombres en estatuas.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "poder"
+  }
+}

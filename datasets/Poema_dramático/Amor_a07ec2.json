@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL SACERDOTE]\n(Ante los novios)\nUníos, no solo en la carne, sino en la eternidad del espíritu.\nDe hoy en adelante, vuestras penas serán una y vuestras alegrías, el doble.\nQue ningún mortal se atreva a separar lo que el destino ha sellado.\nEl amor es la única ley que debéis obedecer.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "boda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Piden mil papeles,\ncon sellos y rieles.\nVuelva mañana,\ncon la hermana,\ny dos pasteles.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "burocracia"
+  }
+}

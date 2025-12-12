@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tiembla el hombre ante el fin,\nporque ignora el destino,\nsi habrá luz en el camino,\no tinieblas en el confín.\nSuena triste el violín,\nde la marcha funeral,\ny el miedo visceral,\nse apodera de la mente,\nal ver que de repente,\nllega el momento fatal.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

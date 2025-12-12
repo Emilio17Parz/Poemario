@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El Héroe ya sin batalla, (A)\nse ha quedado sin valor, (B)\nmi vida sin fulgor (B)\nen el alma ya sin malla. (A)\nMi corazón ya no estalla, (A)\npor tu cruel falsedad, (C)\ny mi dulce claridad (C)\nya no existe en mi vivir, (D)\nsolo quiero ya morir, (D)\ny encontrar la paz de un hada. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Héroe"
+  }
+}

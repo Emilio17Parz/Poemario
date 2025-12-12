@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se cerró el telón de esta gran obra,\nla tuya, que en la memoria vivirá.\nNada muere, aunque el tiempo la cubra,\nsino que el recuerdo la revivirá.\n\nEl escenario queda en penumbra,\ncon la tristeza que se vislumbra.\nPero el aplauso es eterno y suave,\npara el actor que tuvo la clave,\nde hacer de su vida un buen drama.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "telón"
+  }
+}

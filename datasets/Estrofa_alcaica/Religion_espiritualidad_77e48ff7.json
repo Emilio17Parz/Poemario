@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mira los cielos y verás a Dios,\nfuente de vida y de la creación,\nel que escucha nuestro ruego,\ncon infinita compasión.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "dios"
+  }
+}

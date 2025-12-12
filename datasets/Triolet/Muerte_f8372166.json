@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo se acaba\npara el mortal,\ncomo lava.\nEl tiempo se acaba,\nnadie lo alababa\nen su final.\nEl tiempo se acaba\npara el mortal.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

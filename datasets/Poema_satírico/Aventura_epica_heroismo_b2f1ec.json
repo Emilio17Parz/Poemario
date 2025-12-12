@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Siempre un granjero joven,\nque no sabe nada,\nlos dioses se mueven,\nen esta jugada.\n¿Por qué no un experto,\nen lugar del inexperto?",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Elegido"
+  }
+}

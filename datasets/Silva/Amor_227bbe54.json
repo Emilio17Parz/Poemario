@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Celebramos la unión,\nde dos almas que buscan el camino,\ncon una gran pasión,\ny un lazo cristalino,\nque ha trazado con fuerza el destino.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "unión"
+  }
+}

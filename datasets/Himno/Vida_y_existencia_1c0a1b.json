@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Estrella que brillas en noche cerrada,\npromesa de luz en la madrugada!\nSostén del caído, consuelo del triste,\nla única fuerza que al mal resiste.\n\n¡Salve, esperanza, virtud teologal,\nque libras al hombre del golpe fatal!\nMientras haya vida, tu llama perdura,\ny vence a la muerte y a la sepultura.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

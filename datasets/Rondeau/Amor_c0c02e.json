@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No es un sueño lo que veo,\nes mi más grande deseo,\nconvertido en realidad,\ncon total sinceridad,\ny en el que siempre creo.\n\nEs el amor que poseo,\ny con el que me recreo,\nlejos de la soledad,\nNo es un sueño.\n\nContigo yo me paseo,\ny el futuro deletreo,\ncon mucha felicidad,\ny gran afinidad,\nen este dulce torneo,\nNo es un sueño.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Somos polvo de estrella,\ny agua de mar,\nla misma centella,\nnos hace brillar.\nTodos somos uno,\nen este oportuno.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Conexión"
+  }
+}

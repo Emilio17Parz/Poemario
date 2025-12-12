@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "CAMINANTE 1: Hay dos senderos, ¿cuál he de tomar?\nCAMINANTE 2: El de la derecha es llano y seguro.\nCAMINANTE 1: Prefiero el izquierdo, rocoso y oscuro.\nCAMINANTE 2: Te puedes caer y te puedes matar.\nCAMINANTE 1: Prefiero el riesgo de hacer mi camino,\na seguir la huella de otro destino.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "camino"
+  }
+}

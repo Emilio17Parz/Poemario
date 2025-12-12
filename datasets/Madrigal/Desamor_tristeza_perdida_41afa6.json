@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El agua de mis ojos\ncorre sin fin lavando la mejilla;\nsolo queda la arcilla\nde mis despojos.\nLlorar es el consuelo que me queda,\nen esta vereda.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¡Salve, oh Muerte, señora del fin,\nque igualas al rey y al pobre flautín!\nNadie escapa de tu abrazo frío,\nni el monte alto ni el caudaloso río.\n\nLlegas callada y apagas la luz,\ncargas al hombre con su última cruz.\nPuerta cerrada o umbral de la gloria,\ntú pones el punto final a la historia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

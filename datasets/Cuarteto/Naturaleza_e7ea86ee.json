@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Un viento suave besa la arboleda,\nMeciendo olas de espuma sobre el mar,\nLa montaña, gigante que no ceda,\nContempla el sol que vuelve a brillar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelve el guerrero a su hogar,\ntras muchos años de pelear,\ncon cicatrices en la piel,\npero a su patria siempre fiel.\nLloran los ojos al ver la casa,\ny la emoción su pecho arrasa,\nal abrazar a los que dejó,\ny al suelo que nunca olvidó.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

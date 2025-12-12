@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Bombas que caen sobre la ciudad,\nmuerte y escombros, llanto y terror,\nfruto del odio y del desamor,\npaz destrozada.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

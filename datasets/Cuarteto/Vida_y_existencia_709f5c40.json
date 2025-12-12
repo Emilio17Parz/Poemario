@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es la existencia un agitado sueño,\nuna ilusión que la razón inventa,\ny el ser humano, en su labor, intenta\nde su destino ser el único dueño.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

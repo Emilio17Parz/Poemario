@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Son pesadas las cadenas\nque nos pone el capital,\npero más pesa la pena\nde este mundo desigual.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Plantó un árbol el anciano,\nsabiendo que no comería,\nsu fruto en ningún día,\nmas lo hizo con su mano.\nPara el futuro humano,\ndejó su sabiduría,\nla vida no es vacía,\nsi se siembra en el llano.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "legado"
+  }
+}

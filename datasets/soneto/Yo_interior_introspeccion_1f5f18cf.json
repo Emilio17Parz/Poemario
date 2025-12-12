@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Profundo el viaje al centro del vivir,\ndonde la esencia oculta se revela,\ny el alma, en su crisálida de vela,\nprocura su verdad reconocer.\n\nEl eco de un silencio al percibir,\nla voz callada que al sentido apela,\nun mapa sin fronteras que desvela\nquién soy, qué fui, qué habré de devenir.\n\nLa mente, espejo frágil, cristalino,\nen mil reflejos mi figura traza,\nun laberinto donde el ser descansa.\n\nBusca el rastro perdido del destino,\nmientras la luz interior que abraza\nla soledad profunda en que me lanza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mente"
+  }
+}

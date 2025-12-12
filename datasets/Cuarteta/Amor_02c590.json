@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te vi primero en un fugaz sueño,\ny luego en la vida, hecha realidad,\ntu amor es mi único y real dueño,\nel motor de mi vitalidad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

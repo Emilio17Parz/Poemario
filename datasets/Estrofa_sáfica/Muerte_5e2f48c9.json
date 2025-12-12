@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Abre la puerta de la eternidad,\ndeja la carne y la vanidad,\nbusca la luz de la gran verdad,\nalma libera.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La promesa es un viento\nque no vuelve jamás.\nEl último lamento\nsin nunca tener paz.\n\nNos venden el cielo,\ny nos dan el dolor,\nmi único velo\nsin ningún fulgor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

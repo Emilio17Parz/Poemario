@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Palacios de mármol frío,\nfrente a chabolas de lata,\nun contraste sombrío,\nque lentamente mata.\nEs un triste río,\nque fluye con tristeza,\nmostrando el vacío,\nde la cruel pobreza.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

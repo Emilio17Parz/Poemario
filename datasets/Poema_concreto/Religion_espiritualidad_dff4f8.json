@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "   L U Z\n  C I E L O\n D I O S D I O S\n  C I E L O\n   L U Z",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

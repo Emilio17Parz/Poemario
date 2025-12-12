@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se alza la cumbre blanca hacia lo alto,\ntocando el firmamento con su dedo,\nun reino de silencio y de gran miedo,\ndonde el abismo espera dar el salto.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

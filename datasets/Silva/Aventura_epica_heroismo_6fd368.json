@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El coraje es la fuerza, la llama que arde (11),\nque rompe la sombra, que vence al mal (11).\nLa vida es un sueño, que ya no tarde (11),\nla eterna y dulce verdad total (11).\nLa ausencia de todo alarde (7).",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "Coraje Vivo"
+  }
+}

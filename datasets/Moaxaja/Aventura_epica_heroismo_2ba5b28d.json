@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo viaje,\ncon coraje.\n\nMar y tierra,\npaz y guerra,\nque se aferra,\nal equipaje.\nCon coraje.\n\nJarcha:\nVuelve pronto, mi señor,\nque me muero de dolor.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

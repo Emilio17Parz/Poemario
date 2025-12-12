@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo eres y en polvo te tornas,\nley inmutable de la creación,\ncae el cuerpo en la disolución,\ny a la tierra madre retornas.\n\nHonra a la ceniza sagrada,\nque fue morada del soplo divino,\ncumplido está ya su destino,\nen la materia transfigurada.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

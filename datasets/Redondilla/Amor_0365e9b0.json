@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si te veo con extraño\nme consume la ansiedad,\npierdo la tranquilidad\ny me causo mi propio daño.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "duda"
+  }
+}

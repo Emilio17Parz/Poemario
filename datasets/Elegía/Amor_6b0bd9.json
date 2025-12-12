@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se secaron las rosas que plantamos,\nel jardín es un yermo de espina y dolor,\nya no tiene vida, ni tiene color,\nel sagrado suelo que los dos pisamos.\n\nLas flores murieron cuando nos dejamos,\nllevándose el brillo y el dulce olor,\ny llora la tierra sin su agricultor,\nrecordando el tiempo en que nos amamos.\n\nJardín de tristeza, campo santo y frío,\nespejo del alma y del dolor mío.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Abril, mes dulce, testigo del inicio,\ncuando el amor se vistió de verdor.\nTu brisa trae un suave regocijo,\nel eco firme de mi gran fervor.\n¡Oh, mes florido de promesa cierta,\ndonde la dicha se muestra abierta!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Abril"
+  }
+}

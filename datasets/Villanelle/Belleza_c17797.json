@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "De la piedra renace la figura,\ncon el golpe maestro del cincel,\nmostrando su perfecta arquitectura.\n\nInmóvil vive en su gran hermosura,\nsobre el frío y artístico riel,\nde la piedra renace la figura.\n\nEl mármol pierde su naturaleza dura,\npara volverse suave como piel,\nmostrando su perfecta arquitectura.\n\nEs el milagro de la escultura,\nque atrapa el tiempo en un carrusel,\nde la piedra renace la figura.\n\nSin palabra, sin voz y sin cultura,\nnos habla de lo amargo y de la miel,\nmostrando su perfecta arquitectura.\n\nEterna forma que el arte asegura,\ncomo un testigo mudo y siempre fiel,\nde la piedra renace la figura,\nmostrando su perfecta arquitectura.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

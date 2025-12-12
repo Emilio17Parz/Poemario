@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos historias pasadas,\nde héroes y dioses y su gran poder,\nmagia que nunca vamos a ver,\nmito sagrado.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

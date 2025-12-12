@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida fluye, sin barrera u orilla,\nen cada aliento que se da y se va;\nel ser existe, cual fugaz semilla,\nque en un momento nace y crecerá.\n\nSentir el pulso que a la carne late,\nmirar la sombra que el vivir dejó;\nsaber que el goce o que el dolor combate,\nes el sendero que el espíritu forjó.\n\nMas el tiempo corre, veloz, sin retorno,\nborra los rasgos de lo que fue ayer;\ncambia el paisaje que rodea el contorno,\ny nos advierte de lo que ha de ser.\n\nNo importa cuándo la existencia acabe,\nni cuántos años el destino dé;\nvivir el ahora, antes que todo cabe,\ny en cada instante hallar la propia fe.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

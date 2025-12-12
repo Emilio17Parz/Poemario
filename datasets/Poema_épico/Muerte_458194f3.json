@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ante el trono de Osiris,\nel corazón es pesado,\ncontra la pluma del hado,\nen el reino del iris.\nSi pesa más que la crisis,\nserá el monstruo alimentado,\nmas si es justo y sagrado,\nvivirá en la parálisis.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "juicio"
+  }
+}

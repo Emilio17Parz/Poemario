@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El viento trae tu nombre\ny lo canta en mi oído,\nun susurro que vuelve\nlo que creí perdido.\n\nTu amor es el aire\nque me obliga a respirar,\nla única certeza\npara poder amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

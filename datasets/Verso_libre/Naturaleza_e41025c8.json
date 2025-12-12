@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Una hoja cae en otoño.\nSu viaje es una danza lenta,\nun último vals con el aire\nantes de tocar el suelo.\nDe verde a oro, de oro a marrón.\nNo es muerte, es transformación.\nSerá tierra, será raíz,\nserá el bosque de nuevo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "hoja"
+  }
+}

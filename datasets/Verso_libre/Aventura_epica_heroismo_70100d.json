@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Salir es fácil,\nlo difícil es no mirar atrás.\nEl viaje te cambia la piel,\nte llena los zapatos de polvo extraño\ny te vacía los bolsillos de certezas.\nAl volver, la casa es la misma,\npero tú ya no cabes en ella.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

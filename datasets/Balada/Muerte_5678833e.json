@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra fría, silente y gris,\nun hálito que el mundo enfrió,\nllegó sin previo matiz,\ny el tiempo al fin se desvaneció.\n\nDejó la risa, el dulce afán,\nla voz que un día fue canción,\npartió sin vuelta, sin ademán,\ndejando solo desolación.\n\nEl cuerpo yace en la quietud,\nla tierra, madre, lo abrazó,\ncesó la vieja inquietud,\nel alma, ¿adónde se elevó?\n\n¿Qué hay más allá del triste adiós?\n¿Un sueño oscuro, sin final?\n¿O nos espera el verbo de Dios,\nen la **eternidad** real?\n\nNo hay vuelta atrás, no hay marcha atrás,\nla barca cruza el hondo mar,\nel eco triste del compás,\nnos lleva a un nuevo lugar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

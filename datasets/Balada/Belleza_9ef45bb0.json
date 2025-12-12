@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mármol blanco que cobra vida,\nbañado por el sol del sur,\nforma perfecta y esculpida,\nsin defecto ni albur.\nBelleza quieta, sin murmur,\neterna en su glamour.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "estatua"
+  }
+}

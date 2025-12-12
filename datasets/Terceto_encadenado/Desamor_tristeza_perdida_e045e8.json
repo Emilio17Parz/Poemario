@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El espejo me muestra un rostro sin luz (A),\nsin brillo, sin alma, sin mirar (B),\nla ausencia del peso de la cruz (A).\n\nMi vida no sabe ya más que llorar (B),\nla pena me inunda con gran dolor (C),\nsin la fuerza para sanar (B).\n\nNo hay más consuelo, no hay más fulgor (C),\nla sombra me cubre, sin piedad (D),\nla ausencia del puro amor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

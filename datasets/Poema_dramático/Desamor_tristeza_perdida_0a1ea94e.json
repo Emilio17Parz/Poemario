@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "AMANTE: ¡Abre la puerta! ¡Sé que estás dentro!\nAMADA: (Desde dentro) ¡Vete! ¡Ya no eres mi centro!\nAMANTE: Te traigo flores y mi corazón.\nAMADA: Llegas tarde, perdí la ilusión.\nAMANTE: No me iré hasta que hables conmigo.\nAMADA: Entonces serás del frío testigo.\n(Silencio largo)\nAMANTE: Está bien... me marcho al olvido.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

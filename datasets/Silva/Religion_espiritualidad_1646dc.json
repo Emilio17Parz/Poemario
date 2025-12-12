@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dar al pobre,\nes amar,\ny sanar,\nlo salobre.\nQue no sobre,\nla riqueza,\ncon pereza,\nni cobre.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "caridad"
+  }
+}

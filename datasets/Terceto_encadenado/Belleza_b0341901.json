@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mundo es un arcoíris,\ncuando sale el sol brillante,\nun espectáculo gigante.\n\nPara alegrar el iris,\ncon tonos de ilusión,\nque pintan como Osiris.\n\nLa bella creación.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "luz"
+  }
+}

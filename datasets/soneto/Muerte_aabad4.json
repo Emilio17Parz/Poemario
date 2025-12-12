@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ciudad de mármol y de ciprés,\ndonde reinan los que ya se fueron,\naquellos que amaron y vivieron,\ny hoy duermen bajo el suelo, a los pies.\n\nAquí se acaba todo el estrés,\nlos sueños que nunca florecieron,\ny las palabras que se perdieron,\nen un silencio de solidez.\n\nPaseo entre tumbas y apellidos,\nleyendo fechas de ayer y hoy,\npensando en los tiempos ya idos.\n\nYo también hacia este sitio voy,\na unirme al club de los dormidos,\npues solo un viajero efímero soy.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Las sendas del mito, por el destino hiladas,\nNos unieron bajo un cielo de temor;\nEn las brumas de antiguas, batallas olvidadas,\nBuscando una estrella, buscando un fulgor.\n\nTu espada, un relámpago contra la noche fría,\nTu voz, un consuelo en la feroz tempestad;\nCada gesto tuyo, en mi ser se inscribía,\nUna fuerza serena, pura lealtad.\n\nAtravesamos valles donde el mal residía,\nCumbres heladas y mares sin fin;\nY en cada peligro, mi alma comprendía,\nQue nuestro **honor** nos unía, más allá del confín.\n\nNo fue solo el valor, que en tu mirada ardía,\nNi el eco glorioso de tu heroico avanzar;\nFue el alma que en la mía su refugio hallaría,\nEl fuego sagrado que nos hizo soñar.\n\nAsí, entre batallas y alientos de dragón,\nFloreció un amor invicto, eterno y profundo;\nMás fuerte que el acero, más que cualquier razón,\nEl nuestro es el poema que rescata al mundo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "honor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viajero invisible,\nque mueves la rama,\ny avivas la llama,\ncon fuerza terrible.\nNadie te ve,\npero tienes fe.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "viento"
+  }
+}

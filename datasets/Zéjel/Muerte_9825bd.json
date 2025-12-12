@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se apaga la luz,\ncomo una cruz.\n\nLa vela muere,\nya no hiere,\nni quiere,\nla de luz.\nSe apaga la luz,\ncomo una cruz.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "vela"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Diosa con alas que otorgas el triunfo,\ntras el esfuerzo y el largo periplo.\n¡Gloria a la Victoria, dulce final!,\nque pones al héroe en el pedestal.\n\nOndean banderas, suenan clarines,\nse acaban las penas y los confines.\nCelebremos el logro con gran alegría,\npues ha llegado el radiante día.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

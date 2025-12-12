@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me duele respirar si no estás cerca,\nel aire se hace denso y muy pesado,\ny el alma en la tristeza se aporca.\n\nMe siento como un barco abandonado,\nque busca el faro de tu luz divina,\nen este mar oscuro y agitado.\n\nQue mi vida domina.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

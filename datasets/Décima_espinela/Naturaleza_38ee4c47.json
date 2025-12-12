@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre cantando el río\nbajando de la montaña,\ncon su transparente maña\ny su eterno poderío.\nNo conoce el extravío\npues busca siempre la mar,\ny no deja de viajar\nentre piedras y recodos,\nregalando vida a todos\nsin pararse a descansar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "río"
+  }
+}

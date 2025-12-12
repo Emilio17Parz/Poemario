@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "SÍSIFO: Otra vez arriba, piedra pesada.\nPIEDRA: Soy tu castigo y tu jornada.\nSÍSIFO: Mis manos sangran, mi espalda duele.\nPIEDRA: No hay dios que te consuele.\nSÍSIFO: ¿Cuándo acabará este tormento?\nPIEDRA: Cuando se acabe el firmamento.\nSÍSIFO: Entonces empujaré con orgullo.\nHaciendo de este destino el mío.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

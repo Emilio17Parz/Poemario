@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Andante caballero,\nque tienes la justicia por sendero.\nTu dama es tu guía,\ntu espada tu alegría.\nDesfaciendo entuertos,\naunque camines por valles de muertos.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

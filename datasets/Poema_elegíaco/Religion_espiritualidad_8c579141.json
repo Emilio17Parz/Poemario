@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi labio mudo ya no encuentra rezo,\nla duda ha congelado mi garganta,\nya no hay plegaria que se levanta,\nni gracia divina con la que empiezo.\nLloro el silencio de la divinidad,\nen esta hora de la soledad.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se tiñe el cielo de rojo y grana,\ny el sol se acuesta en el ancho mar,\nse acaba el ruido de la mañana,\ny llega el tiempo de descansar.\nLa calma envuelve todo el paisaje,\ny las primeras estrellas ven,\ncómo termina el diario viaje,\nen el nocturno y plácido andén.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

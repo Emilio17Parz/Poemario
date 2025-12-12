@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El destino nos unió,\npara nunca separarnos.\nEl cielo nos eligió,\nel destino nos unió.\nEl amor floreció,\npara siempre amarnos.\nEl destino nos unió,\npara nunca separarnos.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "destino"
+  }
+}

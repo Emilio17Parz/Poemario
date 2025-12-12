@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Detiene el golpe mortal,\nmadera y metal fuerte,\nmuro personal,\ncontra la muerte.\n\nMadera y metal fuerte,\nabollado por la lanza,\ncontra la muerte,\núltima esperanza.\n\nAbollado por la lanza,\ndetiene el golpe mortal,\núltima esperanza,\nmuro personal.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "escudo"
+  }
+}

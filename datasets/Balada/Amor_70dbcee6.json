@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cierro los ojos para recordar,\nel roce suave de tu boca en mí,\nun paraíso que pude tocar,\ny que en mis sueños vuelvo a vivir.\nNada en el mundo se puede igualar,\na ese momento de dulce embeleso,\ncuando pudiste mi vida marcar,\ncon la promesa de tu eterno beso.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "beso"
+  }
+}

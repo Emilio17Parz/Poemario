@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es sueño,\ny pequeño,\nes el mundo,\ntan profundo,\ny risueño.\n\nPon empeño,\nla vida es sueño.\n\nSoy el dueño,\ndel leño,\nvagabundo,\ny rotundo,\ndel diseño.\nLa vida es sueño.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

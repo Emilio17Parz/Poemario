@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se alza la cumbre tocando el cielo,\nvigía eterno de la llanura,\ncubierta siempre por blanco velo.\n\nEs el gigante que causa celo,\ncon su imponente y gran estatura,\nse alza la cumbre tocando el cielo.\n\nNo le afecta el calor ni el hielo,\nni del tiempo la desventura,\ncubierta siempre por blanco velo.\n\nOfrece al hombre su gran consuelo,\ny la promesa de la altura,\nse alza la cumbre tocando el cielo.\n\nEn su silencio levanto el vuelo,\nhacia la paz que es noble y pura,\ncubierta siempre por blanco velo.\n\nEs el monarca de nuestro suelo,\nque reina con gran arquitectura,\nse alza la cumbre tocando el cielo,\ncubierta siempre por blanco velo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

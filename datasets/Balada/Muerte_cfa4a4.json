@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dicen que el alma que no descansa,\nvaga de noche por el lugar,\nbuscando algo con esperanza,\nque le permita al fin volar.\nArrastra penas y viejas culpas,\ncomo cadenas de hierro y hiel,\npidiendo a gritos vanas disculpas,\nen su tormento amargo y cruel.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

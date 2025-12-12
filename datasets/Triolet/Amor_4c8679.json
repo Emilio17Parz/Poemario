@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Caminos que juntos andamos,\nSin miedo a lo que vendrá,\nPorque los dos nos amamos.\nCaminos que juntos andamos,\nLos sueños que fabricamos,\nEl futuro nos dará.\nCaminos que juntos andamos,\nSin miedo a lo que vendrá.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "juntos"
+  }
+}

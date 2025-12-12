@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Talla la forma,\nen la roca,\nque toca,\nla norma.\nSe conforma,\nla boca.\nTalla la forma.\n\nEstatua fría,\npero viva,\nque cautiva,\nla guía.\nLa osadía,\naltiva.\nTalla la forma.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "forma"
+  }
+}

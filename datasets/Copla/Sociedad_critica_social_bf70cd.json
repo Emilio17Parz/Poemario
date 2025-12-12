@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El pueblo dormido ya (a),\nespera la aurora fiel (b),\nla vida que al fin se da (c),\nel trago de amarga hiel (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Pueblo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Del reino parte, un juramento en su alma,\nDesafía la sombra, el dragón ancestral,\nNo teme el fragor, ni la furiosa palma,\nPor la **gloria** eterna, rompe el muro inmortal.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

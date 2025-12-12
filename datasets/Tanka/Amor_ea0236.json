@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sombra que muerde\ncuando miras a otro\nmiedo a perder.\nQuiero ser tu refugio\ntu único pensamiento.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "celos"
+  }
+}

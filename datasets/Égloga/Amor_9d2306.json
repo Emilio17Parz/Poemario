@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Damon:\n¿A dónde vas, hermosa pastora,\ncon ese cántaro de barro frío?\nDeja que yo lo llene en el río,\nmientras tu risa mi alma decora.\n\nFilis:\nVoy a buscar el agua cristalina,\npero si tú me ayudas, buen pastor,\nte daré a cambio un beso de amor,\nque es la paga más dulce y divina.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi alma en la cárcel fiel (a),\nsin la llave que abre el final (b),\nla vida es un trago de hiel (c),\nel golpe que es ya mortal (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Prisión"
+  }
+}

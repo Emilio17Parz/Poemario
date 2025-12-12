@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El lobo corría por la nieve,\nsiguiendo el rastro del ciervo,\nbajo la mirada del cuervo,\ncon un paso rápido y leve.\nEl hambre apretaba su vientre,\nla manada esperaba detrás,\nno podía fallar jamás,\nen aquel bosque silvestre.\nSaltó y la presa cayó,\ny la vida en el bosque siguió.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

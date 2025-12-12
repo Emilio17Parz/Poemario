@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra fría que a la vida ciñe,\nEl velo oscuro que el final promete,\nSilencio eterno que la voz dirime,\nEl rastro mudo que el andar remete.\n\nNo hay fuerza humana que su paso frene,\nUn soplo helado que disuelve el ser,\nEl tiempo corre, mas la muerte viene,\nEn su abismo insondable sin volver.\n\nLa carne es polvo, el soplo ya no alienta,\nEl mundo gira, indiferente y cruel,\nMas en la **memoria** el ser se asienta,\nComo un fulgor que traspasa el umbral.\n\nAsí la vida, en su fugaz momento,\nDeja en la mente su perenne aliento.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El coraje es la llama fiel (a),\nque rompe toda la sombra (b),\nla vida es un trago de miel (c),\nla fuerza que el alma nombra (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Coraje"
+  }
+}

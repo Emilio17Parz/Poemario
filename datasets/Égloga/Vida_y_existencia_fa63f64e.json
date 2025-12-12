@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dichoso aquel que se aleja,\ndel mundanal ruido,\ny vive en el campo escondido,\nsin envidia y sin queja.\nSu casa es humilde y vieja,\npero su sueño es placido,\ny come lo producido,\npor su labor y su oveja.\nNo busca el oro ni el mando,\nsino vivir amando,\ny la naturaleza observando.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "paz"
+  }
+}

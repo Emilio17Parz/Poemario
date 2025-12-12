@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La esencia es el alma, el ser que es ya inmortal (A),\nque vive en la carne, el golpe fatal (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Esencia"
+  }
+}

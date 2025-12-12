@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cada lágrima que cae (a),\nme rompe el rostro en dolor (b),\nla vida se va y trae (c),\nla ausencia de tu fulgor (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Lágrima"
+  }
+}

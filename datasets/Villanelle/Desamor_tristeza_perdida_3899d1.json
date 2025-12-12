@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sangra la herida que me dejaste,\ny no hay remedio para el dolor,\ndel corazón que destrozaste.\n\nTodo lo bueno te llevaste,\ndejando solo el sinsabor,\nsangra la herida que me dejaste.\n\nCon tus mentiras me mataste,\nmatando también el amor,\ndel corazón que destrozaste.\n\nEn un desierto me tiraste,\nsin agua y sin ningún color,\nsangra la herida que me dejaste.\n\nMi vida entera marchitaste,\ncomo se seca una flor,\ndel corazón que destrozaste.\n\nNunca jamás te importaste,\nde mi cariño y mi valor,\nsangra la herida que me dejaste,\ndel corazón que destrozaste.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "herida"
+  }
+}

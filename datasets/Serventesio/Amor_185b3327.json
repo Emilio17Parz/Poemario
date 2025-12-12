@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi corazón, un devorador ruego,\nPor ti suspira en la mañana umbría,\nAlimentado por tu ardiente fuego,\nQue con su luz mi senda clara guía.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

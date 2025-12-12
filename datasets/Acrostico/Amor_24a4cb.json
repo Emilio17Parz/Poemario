@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Llegas como el sol,\nUniendo nuestros lazos.\nZafiro y arrebol.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "LUZ"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra final me da (a),\nel golpe que es ya mortal (b),\nla vida que al fin se va (c),\nsin un noble fanal (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Del caos nace la estrella brillante,\nel desorden precede a la creación,\nla explosión,\nque da forma al universo gigante.\nNo temas la tormenta ni el ruido,\nel sentido,\nsurgirá de la sombra y la confusión,\ncon unión.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "orden"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El velo gris que al fin la vida cubre,\nla pausa muda en el pulso vital,\nun sueño hondo que al tiempo le descubre\nla eternidad de un viaje sideral.\n\nSe apaga el sol en ojos que no miran,\nse calla el canto que el alma tejió,\nlas frágiles cenizas que suspiran\npor lo que fue y nunca más volvió.\n\nMas no es el fin del eco que persiste,\nni el polvo solo el rastro que se da;\nun hálito sutil que no resiste\nla noche, en cada estrella brillará.\n\nPorque en el alma, templo que no olvida,\nla **memoria** en hilos de oro teje\nla voz ausente, la pasión vivida,\nel amor fiel que el tiempo no hereje.\n\nAsí la muerte, sombra que devora,\nno borra el trazo que se supo amar,\npues vive en cada lágrima que llora\ny en cada sueño que ha de despertar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

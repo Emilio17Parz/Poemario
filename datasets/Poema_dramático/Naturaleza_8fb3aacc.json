@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "POETA: ¿Por qué corres, río, con tanta prisa?\nRÍO: Porque la mar me espera impaciente.\nPOETA: ¿No te cansa tu eterna corriente?\nRÍO: Mi descanso es la ola y la brisa.\nDéjame pasar, que llevo la vida,\na la inmensidad azul prometida.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "río"
+  }
+}

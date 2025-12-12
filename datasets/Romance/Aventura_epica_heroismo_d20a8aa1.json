@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cruzaron la mar océana,\nlos barcos de madera,\nbuscando las Indias nuevas\nde forma certera.\nEncontraron un mundo,\nde selva y palmera,\ny gentes desconocidas\nen la ribera.\nFue gesta de gran valor,\ny sangre fiera,\nque cambió el mapa del mundo\nde forma entera.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Acepto mi sombra.\nMis celos, mi pereza, mi ira.\nNo son errores, son partes de mí.\nSi las niego, crecen.\nSi las abrazo, se calman.\nSoy luz y soy oscuridad,\nun eclipse constante\nque busca el equilibrio.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

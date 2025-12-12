@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vives en mi memoria,\naunque tu cuerpo ya no esté presente,\ncontando la historia,\nde amor latente,\nque brillará por siempre en mi mente.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

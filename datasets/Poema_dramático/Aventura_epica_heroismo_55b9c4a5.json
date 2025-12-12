@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "ULISES: ¡Atadme al mástil! ¡No me soltéis!\nTRIPULACIÓN: (Con cera en oídos) Remad, no miréis.\nSIRENAS: Ven, Ulises, sabemos tu nombre.\nULISES: ¡Soltadme! ¡Quiero ir! ¡Soy un hombre!\nSIRENAS: Aquí hay placer y sabiduría.\nULISES: (Gritando) ¡Desatadme, maldita sea mi guía!\nTRIPULACIÓN: Seguimos remando, el peligro pasa.\nULISES: (Llorando) Su canto me quema, me arrasa.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "canto"
+  }
+}

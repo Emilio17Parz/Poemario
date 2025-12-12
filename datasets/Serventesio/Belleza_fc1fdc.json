@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La naturaleza es la madre de toda belleza (A),\nsu forma es perfecta, su luz es real (B),\nsin sombra, sin pena, sin pereza (A),\nla eterna y dulce verdad total (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Naturaleza"
+  }
+}

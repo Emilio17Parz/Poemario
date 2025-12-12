@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento en el encinar,\nmoviendo las copas gigantes,\ncomo si fueran caminantes,\nque no paran de bailar.\n\nTrae aromas de otro lugar,\ny se lleva las hojas secas,\nlimpiando las bibliotecas,\ndel campo y del pinar.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "viento"
+  }
+}

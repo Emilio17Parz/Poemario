@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Madre fecunda de mil colores,\nque nos regalas tus frutos y flores!\nMontes y valles, ríos y mares,\nson los altares de tus cantares.\n\n¡Loor a la tierra y a su hermosura,\nobra maestra de la arquitectura!\nCuidemos su manto de verde y azul,\nque nos protege con suave tul.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

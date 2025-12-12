@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "He navegado por el mapa de tus ojos como un antiguo cartógrafo que descubre un océano de luz sin orillas.\nY en la profundidad de tu iris he encontrado el silencio exacto donde mi alma decide quedarse a vivir.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

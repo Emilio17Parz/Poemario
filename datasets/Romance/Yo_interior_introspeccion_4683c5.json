@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siento un hueco en el alma\nque nada puede llenar,\nni el amor ni el dinero\nni el mucho viajar.\nEs el vacío del ser\nque busca su lugar,\nen un universo inmenso\nque no sabe hablar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

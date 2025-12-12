@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Juego de luces, sombra y color,\nque en la mirada despierta emoción,\nplasman el mundo y la imaginación,\ncuadro perfecto.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

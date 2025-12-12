@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La carta que me escribiste\nla he tirado al fuego,\npa' no ver las mentiras\nde tu falso juego.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "papel"
+  }
+}

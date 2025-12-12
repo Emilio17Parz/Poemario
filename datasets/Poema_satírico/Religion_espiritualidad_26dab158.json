@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Pasa el cestillo,\ncon gran devoción,\ny todos buscan,\nla menor fracción.\nMonedas de cobre,\nsuenan al caer,\npara el cielo ganar,\ncon poco perder.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "limosna"
+  }
+}

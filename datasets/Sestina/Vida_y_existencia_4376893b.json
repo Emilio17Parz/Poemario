@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye y todo cambia,\nnada permanece igual,\nen el río del existir.\nMorir para renacer,\nes la ley del universo,\nque nos transforma sin fin.\n\nTransforma sin fin,\ntodo cambia,\ny se hace verso.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

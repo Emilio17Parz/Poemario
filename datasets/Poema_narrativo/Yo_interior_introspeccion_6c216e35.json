@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Estaba Hamlet en la muralla,\ncon una calavera en la mano.\nLa pregunta que no se calla,\nsobre el destino del humano.\n¿Ser o no ser? Esa es la valla,\nque separa al cuerdo del insano.\nPensó en la vida y en la muerte,\nsin encontrar ninguna ayuda,\ny dejó que decidiera la suerte,\natrapado en su eterna duda.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "duda"
+  }
+}

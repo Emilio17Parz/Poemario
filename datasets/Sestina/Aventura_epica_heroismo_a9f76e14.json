@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Empuña el héroe su fiel espada,\ndefendiendo la causa del honor,\nsin mostrar ante el miedo temor,\nen la difícil y cruel jornada,\nluchando por la justa libertad,\ny por la paz de la humanidad.",
+    "tipo": "Sestina (Estrofa I)",
+    "palabra_clave_ingresada": "espada"
+  }
+}

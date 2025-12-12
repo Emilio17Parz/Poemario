@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fue casual el momento,\nen que te conocí,\ny desde que te vi,\ncalmaste mi lamento.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

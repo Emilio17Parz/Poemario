@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En la balanza,\npongo todo,\nde algún modo,\nla esperanza.\nLa danza,\ndel codo.\nEn la balanza.\n\nBien y mal,\nen tensión,\nla lección,\nvital.\nEl final,\nde la acción.\nEn la balanza.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "balanza"
+  }
+}

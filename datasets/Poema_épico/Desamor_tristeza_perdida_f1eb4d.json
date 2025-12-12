@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La reina ha partido, el trono está solo,\nel rey enloquece mirando el mar,\ngira la tierra de polo a polo,\npero él no deja de esperar.\nImperios caen por un abandono,\ny el polvo cubre su manto y su tono.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Abandono"
+  }
+}

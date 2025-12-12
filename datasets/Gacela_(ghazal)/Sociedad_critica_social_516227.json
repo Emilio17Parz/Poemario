@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Devora a sus hijos la gris ciudad,\njaula de cemento, la gris ciudad.\n\nCorren con prisa sin saber adónde,\nperdidos todos en la gris ciudad.\n\nLuces que ciegan y ocultan el sol,\nmonstruo brillante, la gris ciudad.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

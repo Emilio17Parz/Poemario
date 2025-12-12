@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volvemos a ser solo polvo,\nen la tierra me disuelvo,\ny al origen vuelvo.\nVolvemos a ser solo polvo,\nel misterio resuelvo,\ny en el aire me envuelvo.\nVolvemos a ser solo polvo,\nen la tierra me disuelvo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

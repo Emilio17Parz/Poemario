@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rosa temprana,\nen la ventana.\n\nHuele a jardín,\nsin tener fin,\ncomo un flautín,\nde la mañana.\nRosa temprana,\nen la ventana.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "flor"
+  }
+}

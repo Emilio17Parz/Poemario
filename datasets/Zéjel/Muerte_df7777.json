@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el final,\nes natural.\n\nSe acaba la vida,\nya está perdida,\nla partida,\nfatál.\nLlega el final,\nes natural.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "final"
+  }
+}

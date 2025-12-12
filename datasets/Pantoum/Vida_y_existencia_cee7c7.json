@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Preguntas sin respuesta,\nllenen la cabeza.\nSubiendo la cuesta,\ncon gran pereza.\n\nLlenen la cabeza,\n¿por qué estamos acá?\nCon gran pereza,\nel tiempo se va.\n\n¿Por qué estamos acá?,\nsubiendo la cuesta.\nEl tiempo se va,\npreguntas sin respuesta.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "duda"
+  }
+}

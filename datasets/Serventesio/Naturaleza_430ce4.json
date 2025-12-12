@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La flor se abre al sol, con noble y dulce color (A),\nla vida que brota, el don sin igual (B),\nsu forma es perfecta, su aroma es de amor (A),\nla eterna y dulce verdad total (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

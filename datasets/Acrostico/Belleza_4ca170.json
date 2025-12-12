@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Figuras perfectas,\nObras de escultor.\nRostros que proyectas,\nManos de creador.\nArte que conectas.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "FORMA"
+  }
+}

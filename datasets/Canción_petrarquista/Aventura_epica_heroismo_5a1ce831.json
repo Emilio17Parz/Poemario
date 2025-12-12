@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Es la virtud la única aventura\nque dignifica al hombre en su camino,\ny el destino\nse rinde ante su fuerza y su altura.\nNo busques el aplauso del vulgo,\nsino el yugo\nde la ley moral,\nque te hará vencer a todo rival.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "virtud"
+  }
+}

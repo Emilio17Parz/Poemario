@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Contemplo el valle florido,\npintura de la natura,\nun sueño vivido,\nde gran hermosura.\n\nPintura de la natura,\ncolores que no tienen fin,\nde gran hermosura,\ninmenso jardín.\n\nColores que no tienen fin,\ncontemplo el valle florido,\ninmenso jardín,\nun sueño vivido.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

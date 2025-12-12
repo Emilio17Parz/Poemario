@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "C ubres la tierra entera,\nI nmenso manto azul,\nE speranza verdadera,\nL uz que pasa el tul,\nO rigen de la espera.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

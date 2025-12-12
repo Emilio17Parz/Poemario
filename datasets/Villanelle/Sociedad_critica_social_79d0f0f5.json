@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele la tripa vacía,\ndel que no tiene pan,\ncada noche y día.\n\nEs la triste agonía,\ndel pobre y su afán,\nduele la tripa vacía.\n\nFalta la energía,\ny el mazapán,\ncada noche y día.\n\nLa economía,\nno tiene plan,\nduele la tripa vacía.\n\nQué ironía,\nlos que mucho dan,\ncada noche y día.\n\nNadie se fía,\ndel capitán,\nduele la tripa vacía,\ncada noche y día.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

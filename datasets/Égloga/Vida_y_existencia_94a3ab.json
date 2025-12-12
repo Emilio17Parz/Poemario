@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Libre nací como el viento fuerte,\nsin amo, sin reja y sin dueño.\nEste es mi más grande empeño\nhasta la hora de mi muerte.\nPrefiero la mala suerte\na vivir en servil sueño.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "viento"
+  }
+}

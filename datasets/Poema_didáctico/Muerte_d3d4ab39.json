@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aprende del silencio de los muertos,\nque ya no disputan por vanidad;\nallí se iguala toda calidad,\ny se terminan los caminos tuertos.\nNo gastes voz en grito y discusión,\nbusca en la paz tu propia perfección.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

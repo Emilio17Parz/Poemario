@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Un grito de alegría se perdió en la montaña,\nEl eco lo devolvió como si lo regaña.\nEl sonido era doble, el gozo, mortal,\nLa belleza es la copia del sonido final.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "eco"
+  }
+}

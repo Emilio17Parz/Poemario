@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Seda es tu piel,\nUniendo caricia.\nAmor como miel,\nVerdadera delicia.\nEres siempre fiel.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "SUAVE"
+  }
+}

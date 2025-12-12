@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Duerme el sueño,\nque no despierta.\nSin empeño,\nduerme el sueño.\nYa no es dueño,\nde la puerta.\nDuerme el sueño,\nque no despierta.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

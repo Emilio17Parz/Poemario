@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "H ombre de fiel palabra,\nO rgullo de su clan,\nN ada la puerta abra,\nO sado como un plan,\nR espeto que se labra.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "honor"
+  }
+}

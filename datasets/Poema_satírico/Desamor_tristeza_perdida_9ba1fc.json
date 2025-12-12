@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Bebiendo para olvidar el nombre,\ncantando canciones de despecho,\nculpando a todo hombre,\npor el daño que me ha hecho.\nMañana vendrá la resaca,\ny la dignidad en la petaca.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Tusa"
+  }
+}

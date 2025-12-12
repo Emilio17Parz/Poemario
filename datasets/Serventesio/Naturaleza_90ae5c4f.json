@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro la comba del inmenso cielo,\nlleno de estrellas y de claridad,\ny alzo mi espíritu en un alto vuelo,\nbuscando un poco de felicidad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

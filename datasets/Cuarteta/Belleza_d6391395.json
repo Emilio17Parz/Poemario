@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene un mágico brillo\nla estrella en la altura,\nmás que el oro amarillo\ny su falsa hermosura.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

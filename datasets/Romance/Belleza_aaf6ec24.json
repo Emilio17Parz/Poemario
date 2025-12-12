@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Queda la vida guardada\nen las obras del gran arte,\npedazos de eternidad\nque el genio quiere comparte.\nEsculpe, pinta y escribe,\ncon pasión en cada parte,\npara vencer a la muerte\ny que el olvido se aparte.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "arte"
+  }
+}

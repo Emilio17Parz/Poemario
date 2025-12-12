@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Blanco y desnudo, el fiel esqueleto,\nlo que perdura, el fiel esqueleto.\n\nSin piel ni carne, sonrisa macabra,\nmuestra la verdad, el fiel esqueleto.\n\nSostuvo la vida y ahora descansa,\narmazón vacío, el fiel esqueleto.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "esqueleto"
+  }
+}

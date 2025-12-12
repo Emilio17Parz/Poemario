@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Risa de niño,\npureza sin mancha\nque resplandece.\nLa belleza más grande\nes la simplicidad.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "inocencia"
+  }
+}

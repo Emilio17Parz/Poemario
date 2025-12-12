@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "AMINTA: ¿Crees que tejemos nuestro destino\no son los astros quienes nos guían?\nCLORIS: Las estrellas mudas nada decían\ncuando elegí este sendero alpino.\nEl destino se forja con la voluntad,\nno con el miedo a la fatalidad.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "destino"
+  }
+}

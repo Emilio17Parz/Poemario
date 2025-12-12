@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "He trazado un mapa en tu espalda\nunir lunares como constelaciones\nde un cielo que solo yo habito.\nNo busco tesoros enterrados,\nni ciudades perdidas,\nsolo la certeza de tu piel\nbajo la yema de mis dedos,\nterritorio conquistado\nsin batallas ni banderas.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

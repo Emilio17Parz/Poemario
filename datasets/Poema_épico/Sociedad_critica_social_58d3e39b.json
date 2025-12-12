@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La Peste Negra llegó,\nmatando al rico y pobre,\npor unas monedas de cobre,\nel mundo cambió.\nLa muerte igualó,\nlo que el hombre encubre,\ny en el mes de octubre,\ntodo terminó.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "peste"
+  }
+}

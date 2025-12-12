@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tengo miedo de la noche\ncuando me quedo a solas,\nporque vienen los recuerdos\ncomo si fueran olas.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "noche"
+  }
+}

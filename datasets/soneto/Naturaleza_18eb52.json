@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se viste el bosque de oro y de grana,\ncaen las hojas en danza suicida,\ny se prepara la tierra dormida,\nal ver que el sol se aleja mañana.\n\nHay una nostalgia en la ventana,\nuna tristeza dulce y contenida,\nla tarde es corta, gris y deslucida,\ny el viento su lamento nos devana.\n\nEs el tiempo de la recolección,\nde guardar el calor para el frío,\ny de buscar la propia introspección.\n\nEl mundo pierde su verde brío,\nmas gana en paz y en meditación,\nal ver desnudo al árbol y al río.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

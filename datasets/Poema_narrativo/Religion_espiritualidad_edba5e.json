@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El ciego no veía, y le tocó la mano,\nSintió un fuego suave, que se hizo humano.\nAbrió los ojos lento, y vio el mundo al fin,\nEl milagro es la prueba de un dulce festín.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "milagro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un niño con arco y flecha,\na una dama dejó maltrecha,\nle dio en el corazón,\nperdió la razón,\ny ahora la boda se fecha.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Cupido"
+  }
+}

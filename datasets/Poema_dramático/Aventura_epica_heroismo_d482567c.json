@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "GOLIAT: ¿Me envían un niño con un palo?\nDAVID: Vengo en nombre de Dios, el regalo.\nGOLIAT: Te daré a comer a las aves.\nDAVID: Tú confías en espadas y llaves.\nYo confío en la fuerza del cielo.\n(Lanza la piedra)\nGOLIAT: (Cae) ¡Ah! ¡Me ciega un velo!\nDAVID: El gigante ha caído, Israel es libre.\nQue la gloria de Dios siempre vibre.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

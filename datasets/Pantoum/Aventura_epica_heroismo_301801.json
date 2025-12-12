@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan tambores de guerra,\nacero contra el escudo.\nTiembla la misma tierra,\nante el combate crudo.\n\nAcero contra el escudo,\ngritos de furia y dolor.\nAnte el combate crudo,\nse prueba el gran valor.\n\nGritos de furia y dolor,\ntiembla la misma tierra.\nSe prueba el gran valor,\nsuenan tambores de guerra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

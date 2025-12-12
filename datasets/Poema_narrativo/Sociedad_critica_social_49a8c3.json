@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El político habló con la cara de cera,\nPrometiendo un futuro que nunca llega.\nEl pueblo lo escuchaba, con ciega lealtad,\nLa mentira es la base de la sociedad.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Miro mi propia imagen,\nbuscando quién soy yo,\nfuera del margen,\nque el mundo me dio.\n\nBuscando quién soy yo,\nmás allá de la piel,\nque el mundo me dio,\nsabor a hiel y miel.\n\nMás allá de la piel,\nmiro mi propia imagen,\nsabor a hiel y miel,\nfuera del margen.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "imagen"
+  }
+}

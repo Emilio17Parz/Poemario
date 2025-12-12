@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La gesta del ser que es de bien,\nsu historia sin un solo vaivén.\nSe cuenta con fe,\nsin un solo sé,\nel alma sin un solo quien.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Gesta"
+  }
+}

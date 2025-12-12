@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Páginas llenas\nde hazañas y de nombres\necos de ayer.\nSomos parte del cuento\nque se escribe al vivir.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "historia"
+  }
+}

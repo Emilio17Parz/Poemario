@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El **rít**mo **és** la **clá**ve **sin** un error (11)\nLa **dúl**ce ca**dén**cia con **grán** fulgor (11)\n**Ál**ma que **vúé**la **sin** dolor (9)\n**Pú**ro a**mór** (4).",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "Ritmo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminamos sin saber el fin,\nbuscando luz en la densa niebla.\nCruzamos el vasto y gran jardín,\ndonde el alma sola se despuebla.\n\nBuscando luz en la densa niebla,\nhallamos piedras y mil flores.\nDonde el alma sola se despuebla,\nentre las risas y los dolores.\n\nHallamos piedras y mil flores,\ncruzamos el vasto y gran jardín.\nEntre las risas y los dolores,\ncaminamos sin saber el fin.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "camino"
+  }
+}

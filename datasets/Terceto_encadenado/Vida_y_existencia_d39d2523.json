@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gira la inmensa esfera,\nen el espacio infinito,\ny el hombre en su espera.\n\nLanza su fuerte grito,\nbuscando una respuesta,\na este gran mito.\n\nQue la vida le presta.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "esfera"
+  }
+}

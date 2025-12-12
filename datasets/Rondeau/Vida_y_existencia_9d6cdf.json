@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La memoria,\nes la historia.\nDe lo vivido,\ny lo querido,\ncon gloria.\n\nLa euforia,\ny la victoria.\nNo se ha ido,\nla memoria.\n\nTrayectoria,\nperentoria.\nEl sentido,\ndel latido,\nnotoria,\nla memoria.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

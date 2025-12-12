@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la piel con fuego incontenible\nal roce de tus dedos en mi espalda,\ny el mundo entero pierde su guirnalda\nante este instinto ciego y tan terrible.\n\nEs una fuerza atroz, casi inaudible,\nque rompe la razón y la respalda,\ntejiendo con deseo la esmeralda\nde un sentimiento puro e invencible.\n\nQuémame lento con tu boca ardiente,\nhazme cenizas en tu lecho frío,\npara nacer de nuevo en la corriente.\n\nQue sea nuestro abrazo un desafío,\ny en el volcán de este placer latente\nse funda el alma tuya con la mía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

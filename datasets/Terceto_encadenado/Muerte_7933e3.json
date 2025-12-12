@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nos despedimos en la orilla fría,\ntú cruzas el río hacia lo ignoto,\ny se termina nuestra compañía.\n\nYo me quedo con el pecho roto,\nllorando tu ausencia día tras día,\nmirando tu recuerdo en una foto.\n\nCon melancolía.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

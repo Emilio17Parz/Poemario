@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No mueren del todo aquellos\nque guardamos en la mente,\nviven en la risa eco,\nen la frase recurrente.\nMonumento inmaterial,\nconstruido con amor,\nque vence a la tumba fría\ny al olvido destructor.\nCelebro vuestra memoria,\nfantasmas de luz y guía,\nque me acompañan andando\nen mi propia travesía.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

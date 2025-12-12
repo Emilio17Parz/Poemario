@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Despierto y te contemplo en la almohada,\nel sol entra despacio por la reja,\nsobre tu faz tranquila y adorada.\n\nNinguna sombra de dolor nos deja,\nsolo la luz del día que comienza,\ny la noche callada que se aleja.\n\nSin pizca de vergüenza.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

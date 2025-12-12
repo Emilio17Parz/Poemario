@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "A veces siento que mi existencia es un laberinto de espejos donde me busco y solo encuentro reflejos distorsionados.\nLa salida no está al final del pasillo, sino en el centro mismo, donde debo sentarme a esperar que caigan los muros.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

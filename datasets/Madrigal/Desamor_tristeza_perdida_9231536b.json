@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El amor se fue, cual sueño breve,\ndejando un vacío en mi interior.\nMi corazón, que aún por ti duele,\nse ahoga en este amargo dolor.\nTu recuerdo, cual pesada nieve,\ncubre mi alma de gélido temblor.\nY tu ausencia es la cruel sombra que eleve\nsu velo oscuro sobre mi clamor.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

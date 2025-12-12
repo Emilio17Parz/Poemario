@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En la quietud hallo tu presencia,\nuna marea suave, dulce calma,\nsin tu amor, mi pobre existencia,\nno encuentra el ritmo de su alma.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Calma"
+  }
+}

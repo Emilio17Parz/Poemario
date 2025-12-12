@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La moda pasa, el estilo queda,\nes tu firma personal,\naunque vayas de seda,\no de percal.\nSé fiel a tu esencia,\nesa es la ciencia.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Estilo"
+  }
+}

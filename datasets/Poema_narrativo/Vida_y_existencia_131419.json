@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se levantó a las seis, con el mismo dolor,\nComió el mismo pan, sin un solo color.\nLa rutina era el río que arrastra su mente,\nLa existencia es el bucle eternamente latente.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "rutina"
+  }
+}

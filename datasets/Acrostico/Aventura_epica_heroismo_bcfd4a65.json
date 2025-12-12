@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Banderas al viento ondeando,\nAvanzan los hombres valientes,\nTemblor de la tierra pisando,\nArmas y gritos estridentes.\nLucha feroz va comenzando,\nLa muerte muestra sus dientes,\nAl final la paz esperando.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

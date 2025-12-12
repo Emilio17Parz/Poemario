@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El miedo de perderte me devora,\nal ver que alguien te mira con deseo,\ny siento que mi dicha se evapora.\n\nEs un fantasma gris y muy feo,\nque nubla la confianza y la razón,\ny me hace tambalear en lo que creo.\n\nEn esta relación.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "celos"
+  }
+}

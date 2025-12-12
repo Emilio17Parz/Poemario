@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "SOLDADO A: ¿Por qué luchamos? ¿Lo sabes tú?\nSOLDADO B: Por la patria, dicen, y por la virtud.\nSOLDADO A: Yo solo veo barro y muertos.\nSOLDADO B: Son los mandatos, aunque sean tuertos.\nSOLDADO A: El enemigo tiene mi misma cara.\nSOLDADO B: Dispara antes que él dispara.\nSOLDADO A: Quiero ir a casa, quiero la paz.\nSOLDADO B: Aquí la paz lleva antifaz.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llegó a un cruce de caminos,\nuno era ancho y llano,\nel otro estrecho y lejano,\nentre zarzas y espinos.\nLa gente iba por el primero,\nbuscando la facilidad,\npero él buscó la verdad,\ny tomó el sendero fiero.\nFue duro llegar a la cima,\npero el paisaje le anima.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "decisión"
+  }
+}

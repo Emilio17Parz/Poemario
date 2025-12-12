@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Beso de miel que en mi boca se posa,\nfruto prohibido de pasión ardiente,\ndejas mi ser perdido en la locura,\ndulce veneno.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "beso"
+  }
+}

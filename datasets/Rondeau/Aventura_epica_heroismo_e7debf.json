@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La batalla,\nque no calla.\nSangre y fuego,\nen el juego,\nque estalla.\n\nLa muralla,\ny la valla.\nEl ruego,\nla batalla.\n\nLa toalla,\ny la malla.\nEl ciego,\ndel ego,\nfallá,\nla batalla.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

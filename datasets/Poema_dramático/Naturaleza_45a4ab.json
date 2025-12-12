@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "[LA NIÑA]\n(Viendo la ventisca)\nCae tan suave, tan blanca, cubriendo la maldad de la tierra.\nPero debajo de ese velo de pureza, el frío me quema la piel.\nLa nieve es una mentira hermosa que promete paz, y solo trae la muerte lenta.\nNo quiero dormir. Si cierro los ojos, el invierno me llevará con él.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

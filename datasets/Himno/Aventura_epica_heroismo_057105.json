@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Suenen trompetas de triunfo y de gloria,\nha sido escrita la gran victoria!\nEl mal ha caído, la luz prevalece,\ny la esperanza de nuevo florece.\n\n¡Honor al que lucha sin ver la derrota,\ny cuya fe nunca se ve rota!\nLa palma de triunfo corona su sien,\npor haber servido a la causa del bien.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

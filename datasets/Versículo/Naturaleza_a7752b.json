@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cuando el sol cierra su ojo de fuego, la noche despliega su manto de terciopelo tachonado de diamantes.\nEs el tiempo del misterio, cuando el mundo sueña y las estrellas nos miran desde la distancia de los siglos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "noche"
+  }
+}

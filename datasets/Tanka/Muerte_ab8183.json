@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viene callada\nla sombra que nos lleva\nsin preguntar.\nNos cubre con su manto\ny apaga nuestra luz.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

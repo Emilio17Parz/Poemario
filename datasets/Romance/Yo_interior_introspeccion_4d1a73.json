@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro en el espejo\ny no sé a quién estoy viendo,\nsi al niño que fui ayer\no al viejo que voy siendo.\nBusco mi rostro real\nen el tiempo que va huyendo,\ny solo encuentro preguntas\nque me van consumiendo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

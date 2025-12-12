@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La voz se eleva y rompe el aire,\ncon notas de cristal y miel,\ncon mucha gracia y con donaire.\n\nNo hay tristeza ni hay desaire,\nque resista a ese cascabel,\nla voz se eleva y rompe el aire.\n\nEs un remedio y un sotaire,\nque nos cura la amarga hiel,\ncon mucha gracia y con donaire.\n\nComo en un mágico baile,\nsube al cielo por el riel,\nla voz se eleva y rompe el aire.\n\nEs el más bello y dulce fraile,\nque nos predica en el vergel,\ncon mucha gracia y con donaire.\n\nQue nunca nadie la acalle,\nni le ponga freno ni piel,\nla voz se eleva y rompe el aire,\ncon mucha gracia y con donaire.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "canto"
+  }
+}

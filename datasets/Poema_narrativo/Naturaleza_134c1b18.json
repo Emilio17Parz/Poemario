@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las aves sintieron el frío,\ny alzaron el vuelo al sur,\ncruzando el cielo azur,\nsobre el bosque y el río.\nVolaron miles de millas,\nsin mapa y sin descansar,\nsobre la tierra y el mar,\nbuscando las maravillas.\nLlegaron al calor del sol,\ncumpliendo su eterno rol.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

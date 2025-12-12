@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dejo mis bienes como herencia,\ncosas materiales de herencia.\n\nNada me llevo al otro lado,\notros pelean por la herencia.\n\nLo que fui en vida se queda aquí,\nsolo el amor es la verdadera herencia.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

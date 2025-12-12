@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "NARCISO: Miro en la fuente mi propio reflejo,\n¿quién es aquel que me mira asustado?\nECO: Es tu interior, por ti olvidado,\nque hoy se revela en el agua, perplejo.\nEl espejo no miente, aunque duela ver,\nlas grietas que llevas en tu propio ser.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

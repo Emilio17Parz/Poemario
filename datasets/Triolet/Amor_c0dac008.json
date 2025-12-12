@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me quema esta gran pasión,\nte quiero con toda el alma,\npierdo la paz y la razón.\nMe quema esta gran pasión,\neres mi única ilusión,\nme robas la dulce calma.\nMe quema esta gran pasión,\nte quiero con toda el alma.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

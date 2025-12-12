@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En la cueva profunda duerme el mal,\nescamas de fuego y aliento atroz,\nesperando oír del héroe la voz\npara librar el combate final.\n\nGuarda el tesoro en su pedestal,\noro maldito que brilla feroz,\npero el acero, rápido y veloz,\nbusca su pecho de forma letal.\n\nEs la lucha de la luz y la sombra,\ndel valor contra la bestia antigua,\nque al mundo entero asusta y asombra.\n\nLa leyenda su victoria averigua,\ny sobre la sangre que el suelo alfombra,\nla paz del reino se atestigua.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cueva"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Palabra tan sagrada,\nque muchas veces es pisoteada.\nCadenas invisibles,\nhacen los sueños imposibles.\nRomper los eslabones\nes la tarea de los corazones.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

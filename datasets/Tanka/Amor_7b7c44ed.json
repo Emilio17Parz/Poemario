@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Lejos estás,\npero te siento cerca\nen mi latido.\nEl viento trae tu voz\npara calmar mi ser.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

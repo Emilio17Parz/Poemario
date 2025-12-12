@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "He escrito mil cartas en mi mente, borrándolas antes de que la tinta pudiera tocar el papel.\nNo existen palabras suficientes en ningún idioma para explicar el hueco exacto que dejaste al irte.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "carta"
+  }
+}

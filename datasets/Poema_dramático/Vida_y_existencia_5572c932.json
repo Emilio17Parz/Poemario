@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "DESESPERADO: Todo está oscuro, no hay salida.\nESPERANZA: Yo soy la chispa de la vida.\nDESESPERADO: He perdido todo, estoy hundido.\nESPERANZA: Mientras respires, nada es perdido.\nDESESPERADO: ¿Por qué me mientes? El mundo es cruel.\nESPERANZA: Porque la mañana trae miel.\nLevántate y anda, toma mi mano.\nEl dolor de hoy será un bien lejano.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "luz"
+  }
+}

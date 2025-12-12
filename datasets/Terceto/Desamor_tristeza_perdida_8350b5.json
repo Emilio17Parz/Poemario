@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La daga de tu engaño fue certera,\nmatando la confianza de raíz,\ndejando el alma como una fiera.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "traición"
+  }
+}

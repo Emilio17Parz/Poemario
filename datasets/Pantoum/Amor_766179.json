@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mirada es la luz que me despierta,\nun faro brillante en mi oscuridad,\ndejas la puerta de mi alma abierta,\ntrayendo contigo la felicidad.\n\nUn faro brillante en mi oscuridad,\nguiando mis pasos hacia tu orilla,\ntrayendo contigo la felicidad,\nun amor puro que siempre brilla.\n\nGuiando mis pasos hacia tu orilla,\ndejas la puerta de mi alma abierta,\nun amor puro que siempre brilla,\ntu mirada es la luz que me despierta.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "luz"
+  }
+}

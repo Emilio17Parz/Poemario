@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde un sagrado fuego\nen el centro del pecho que te ama,\ny mi voz te reclama\ncon un humilde ruego.\nA tu querer me entrego,\nporque eres tú la llama\nque me deja, por verte, siempre ciego.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

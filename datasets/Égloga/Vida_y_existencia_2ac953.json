@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo muda, nada permanece,\nel río nunca es el mismo río.\nCambia el calor por el frío,\ny la flor desaparece.\nQuien al cambio se ofrece\nvive sin desvarío.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rio"
+  }
+}

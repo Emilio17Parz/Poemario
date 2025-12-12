@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[EL OBSERVADOR]\n(Ante un rayo de sol)\nEs tan pura que duele. No puedo mirarla de frente. Me recuerda a ti.\nLa luz es la única forma de la belleza sin mentira. Sin sombra.\nSi la miro, me ciega, pero si la pierdo, muero de frío. Es el dilema.\nLa perfección es un castigo que nos obliga a amar lo que no podemos poseer.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "luz"
+  }
+}

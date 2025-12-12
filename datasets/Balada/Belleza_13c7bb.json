@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Curva que alegra el rostro más triste,\ny que de luz y de gracia se viste,\npuerta que abre la comunicación,\ny llega directa hasta el corazón.\nUna sonrisa desarma la guerra,\ny trae la paz a la sufrida tierra,\nes la belleza más simple y real,\nque nos regala un bien especial.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

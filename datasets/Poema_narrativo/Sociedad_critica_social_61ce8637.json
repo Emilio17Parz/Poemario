@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El niño miraba el escaparate,\nlleno de dulces y de juguetes.\nSentía el frío como un combate,\ncon sus zapatos y sus calcetes.\nPasó un señor con un magnate,\nhablando de barcos y banquetes.\nNadie miró al pequeño allí,\ncon su hambre y su tristeza,\ny el mundo siguió girando así,\nignorando su pobreza.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra de la muerte, fría y sin piedad,\nArrastra el alma a un reino de quietud,\nDonde se apaga toda vanidad.\n\nSe pierde el rastro, la fuerza o juventud,\nMas queda un eco dulce, la memoria,\nGrabado en quienes sienten la inquietud.\n\nDe evocar un pasado, una victoria,\nQue el tiempo no devora en su fervor,\nRenace un gesto, una fugaz historia.\n\nQue el tiempo no devora en su fervor,\nMas la partida es senda de amargura,\nY el corazón se rinde a su dolor.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

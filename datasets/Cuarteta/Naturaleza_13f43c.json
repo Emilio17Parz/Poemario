@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La flor se abre,\nen primavera,\nque nos labre,\nla espera.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

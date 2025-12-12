@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La Gloria fue una quimera, (A)\nme arrastra sin la razón, (B)\nmi alma ya sin perdón, (B)\nmi ser ya se desespera. (A)\nMi corazón ya sin cera, (A)\nde tristeza y gran pesar, (C)\nno puedo ya más amar, (C)\npor el daño que me ha dado, (D)\nmi destino se ha nublado, (D)\nno sé dónde ir o estar. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Gloria"
+  }
+}

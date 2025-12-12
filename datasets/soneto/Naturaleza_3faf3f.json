@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Manto blanco que cubre la herida\nde la tierra cansada y parda,\nla nieve cae, lenta y tarda,\ndejando la forma definida.\n\nSilencio blanco, paz extendida,\nque bajo su frío resguarda\nla semilla que ansiosa aguarda\nla vuelta de la luz y la vida.\n\nTodo se vuelve puro y cristal,\nun mundo de sueño y algodón,\nlejos del ruido y del mal.\n\nEs del invierno el corazón,\nfrío, hermoso y letal,\nque invita a la introspección.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "blanco"
+  }
+}

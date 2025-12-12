@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "'Voy a cambiar, seré nuevo',\nte cortas el pelo y vas al gym,\npero sigues siendo el huevo,\nque no encuentra su fin.\nLa mona aunque se vista de seda,\nmona y triste se queda.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Cambio"
+  }
+}

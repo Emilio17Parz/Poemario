@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Desde la cima, el mundo respira un verde profundo,\nla piel de la tierra, tejida con musgo y con rocío.\nLos ríos, venas líquidas, cantan su ancestral camino\nentre piedras pulidas y ecos de milenios dormidos.\n\nSiento el pulso del bosque, la savia que asciende\npor troncos que el tiempo ha esculpido en paciencia,\ny el susurro del viento, una voz sin palabras,\nque mece las copas, narrando secretas existencias.\n\nEl águila traza círculos de libertad en el azul inmenso,\ndebajo, la liebre huye, un latido fugaz sobre la hierba.\nCada hoja, un microuniverso, un tapiz de luz y sombra,\ndonde la vida se aferra, se transforma, se renueva.\n\nY cuando el sol se retira, tiñendo de oro los perfiles,\naparece ella, la *luna*, testigo callada de la noche,\nderramando su plata sobre el follaje y las aguas,\nrevelando la calma profunda, la esencia de lo inmarcesible.\n\nSí, la naturaleza, un templo sin muros, un altar de asombro,\ndonde el alma encuentra su paz, su espejo, su rumbo.\nEn cada partícula, el misterio, la danza perpetua,\nel eterno abrazo entre lo efímero y lo infinito.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "luna"
+  }
+}

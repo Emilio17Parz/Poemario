@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Oh, Belleza, ¿dónde tu luz se ha desvanecido,\nla que antaño el mundo en éxtasis ha vivido?\nEl tiempo cruel, con su guadaña impasible,\nha segado el esplendor, lo inasible.\n\nTu imagen se grabó en la mente de la gente,\nen cada flor que se abre, en el sol poniente.\nTu huella, la perfecta *forma* que el arte persigue,\nen cada línea de la vida, aún nos sigue.\n\nPero el óxido del olvido corroe lo que fue prístino,\ny la hermosura se desliza, un sueño repentino.\nLas horas, implacables, marchitan el rocío,\ndejando un vacío, un lamento sombrío.\n\n¿Fuiste acaso un destello, un suspiro fugaz,\nuna promesa breve, que ya nunca será capaz?\nO tu esencia, ¿reside en la mirada que te añora,\nun eco del deleite que el corazón ahora implora?\n\nNo has muerto, Belleza, solo has mudado tu velo,\npermaneces en el alma, bajo un etéreo cielo.\nEn cada lágrima que fluye, en cada verso escrito,\ntu recuerdo persiste, un faro bendito.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "forma"
+  }
+}

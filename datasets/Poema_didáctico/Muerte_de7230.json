@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llorar es limpiar el alma,\nno te guardes el llanto,\nbusca la calma,\ntras el quebranto.\nEl dolor es el precio,\ndel amor sin desprecio.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Duelo"
+  }
+}

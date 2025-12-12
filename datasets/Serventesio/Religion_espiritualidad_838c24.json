@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La fe es el ancla, la mano que agarra sin dudar (A),\nen medio del fango, de la tempestad (B),\nla dulce cuerda que sabe sanar (A),\nla clave de la verdad (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Fe"
+  }
+}

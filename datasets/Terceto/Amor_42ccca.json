@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El gozo de amarte es un dulce fulgor (A),\nque llena mi alma de gran paz (A),\nla esencia de todo valor (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Gozo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena la nota,\nperfecta,\nque conecta,\ny flota.\nNo se agota,\nrecta.\nSuena la nota.\n\nMelodía,\nque enamora,\na la hora,\ndel día.\nSinfonía,\nque implora.\nSuena la nota.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "nota"
+  }
+}

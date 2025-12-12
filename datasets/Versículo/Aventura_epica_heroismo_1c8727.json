@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mis manos tiemblan y mi corazón golpea como un pájaro atrapado, pero mis pies siguen avanzando hacia el peligro.\nLa valentía no es la ausencia de miedo, es la decisión de que hay algo más importante que el propio temor.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "valiente"
+  }
+}

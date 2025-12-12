@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "sombra fiel",
   "poema": {
     "texto": "Sigue mi sombra\\ncada pisada\\nnunca me deja\\naunque me oculte",

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pedazos en el suelo,\ncristal que fue un espejo.\nMirando hacia el cielo,\nme siento tan viejo.\n\nCristal que fue un espejo,\nreflejo de lo que amé.\nMe siento tan viejo,\ny la fe que derramé.\n\nReflejo de lo que amé,\nmirando hacia el cielo.\nY la fe que derramé,\npedazos en el suelo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "roto"
+  }
+}

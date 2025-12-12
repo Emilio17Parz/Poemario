@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Reconozco mi falta y mi pecado,\nque me aleja de tu santa presencia,\ny me deja el corazón manchado.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

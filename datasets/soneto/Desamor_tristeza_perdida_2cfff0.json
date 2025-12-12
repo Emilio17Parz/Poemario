@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi barco se estrelló en tus rocas,\nseducido por cantos de sirena,\ny ahora yace encallado en la arena\ncon las velas rotas y locas.\n\nFueron tus promesas, tan pocas,\nlas que causaron esta pena,\nllevándome a la condena\nque con tu desdén provocas.\n\nSoy náufrago en isla desierta,\nmirando el horizonte vacío,\ncon el alma triste y muerta.\n\nSiento el hambre y el frío,\ny veo que la puerta\nse cerró para el navío.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "barco"
+  }
+}

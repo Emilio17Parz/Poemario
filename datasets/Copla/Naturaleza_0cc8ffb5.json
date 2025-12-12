@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río lleva sus aguas\ncantando hacia la mar,\ncomo la vida del hombre\nque no puede descansar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "río"
+  }
+}

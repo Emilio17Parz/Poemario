@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La entrega total me da (a),\nel alma se rinde ya (b),\nla vida que al fin se va (c),\nla fuerza que me da (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Entrega"
+  }
+}

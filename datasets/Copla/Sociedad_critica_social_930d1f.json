@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La promesa es falsa y cruel (a),\nel líder que miente ya (b),\nla vida es un trago de hiel (c),\nla sombra que nunca está (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Promesa"
+  }
+}

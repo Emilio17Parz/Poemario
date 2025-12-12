@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Surge siempre la pregunta,\n¿cuál es la gran verdad?,\nla mente que se adjunta,\na la inmensa soledad.\n\n¿Cuál es la gran verdad?,\nmisterio que nadie explica,\na la inmensa soledad,\nque en el alma repica.\n\nMisterio que nadie explica,\nsurge siempre la pregunta,\nque en el alma repica,\nla mente que se adjunta.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "pregunta"
+  }
+}

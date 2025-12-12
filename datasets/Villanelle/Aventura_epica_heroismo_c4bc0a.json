@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Llego a la tierra nueva,\npara plantar mi cruz,\ny que mi nombre se eleva.\n\nLa historia me lleva,\nhacia la gran luz,\nllego a la tierra nueva.\n\nLa fama me prueba,\ncon su tragaluz,\ny que mi nombre se eleva.\n\nEl mundo se renueva,\ncon mi arcabuz,\nllego a la tierra nueva.\n\nNadie me relevó,\nde este andaluz,\ny que mi nombre se eleva.\n\nLa gloria se abreva,\nen mi testuz,\nllego a la tierra nueva,\ny que mi nombre se eleva.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El camposanto duerme, bajo el pasto crecido,\nCon cruces de madera y un nombre perdido.\nCada tumba es un libro que nadie abre jamás,\nDonde el silencio grita: 'No volverás'.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

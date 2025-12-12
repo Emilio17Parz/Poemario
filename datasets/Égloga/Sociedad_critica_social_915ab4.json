@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¿Dónde está la justicia humana?\nEl rico oprime al pobre.\nPor un cobre\nvende a su hermana.\nJusticia vana\nque no sobre.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rico"
+  }
+}

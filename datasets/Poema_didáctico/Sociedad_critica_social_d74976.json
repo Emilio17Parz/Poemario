@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "No creas todo lo que ves,\nverifica la fuente,\npiensa al revés,\ny sé prudente.\nLa verdad se esconde,\ny nadie sabe dónde.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Medios"
+  }
+}

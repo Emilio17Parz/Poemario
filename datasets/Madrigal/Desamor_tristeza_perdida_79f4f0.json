@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quisiera que mi pobre memoria,\nborrase cada rastro de tu paso,\ny en este triste ocaso,\npusiera fin a nuestra amarga historia.\nPero el recuerdo es terco y persistente,\nse clava en mi mente,\nnegándome la paz y la victoria,\nde la desmemoria.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

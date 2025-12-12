@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No midas al hombre por su tumba,\nni por el mármol que la cubre hoy;\npues rico o pobre, al hoyo voy,\ny todo imperio al final se derrumba.\nLa verdadera herencia que dejamos,\nes el amor que en vida brindamos.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

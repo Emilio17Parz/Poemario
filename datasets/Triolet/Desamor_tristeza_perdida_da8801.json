@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu sombra apagó mi luz,\nMe dejaste en oscuridad,\nCargando esta pesada cruz.\nTu sombra apagó mi luz,\nMe cubriste con el capuz,\nDe tu cruel frialdad.\nTu sombra apagó mi luz,\nMe dejaste en oscuridad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "luz"
+  }
+}

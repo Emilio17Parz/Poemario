@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El eco de gestas pasadas resuena ya,\nen la cumbre ancestral donde el viento canta;\nun alma indomable, valiente, se levanta,\ncontra la oscuridad que al mundo amenaza.\n\nUn **viaje** sin tregua el héroe inició,\nsu noble estandarte jamás se inclinó,\ncon fe en su corazón y espada forjó,\ntodo obstáculo firme y feroz venció.\n\n*¡Oh, mi alma, no te rindas jamás!*\n*Que el honor te espera, y mucho más.*\n\nEn sendas perdidas gigantes halló,\ny fieras serpientes con saña enfrentó,\nla sangre en la tierra su nombre grabó,\nsu yelmo abollado su fuerza mostró.\n\n*¡Oh, mi alma, no te rindas jamás!*\n*Que el honor te espera, y mucho más.*\n\nAl fin del camino el mal acechó,\nla prueba suprema su temple forjó,\ncon grito de guerra al tirano afrontó,\ny el yugo opresor para siempre rompió.\n\n*¡Oh, mi alma, no te rindas jamás!*\n*Que el honor te espera, y mucho más.*",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

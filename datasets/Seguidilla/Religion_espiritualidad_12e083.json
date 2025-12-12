@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El cielo promete,\npaz y amor,\nlejos del,\ndolor.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "promete"
+  }
+}

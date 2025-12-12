@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se abre la puerta a la eternidad,\ndonde el reloj detiene su andanza,\ny brilla solo la claridad.\n\nDejamos la humana vanidad,\nperdiendo el miedo y la desconfianza,\nse abre la puerta a la eternidad.\n\nEs el reino de la verdad,\ndonde termina toda venganza,\ny brilla solo la claridad.\n\nEntramos en la inmensidad,\nsin equipaje y sin balanza,\nse abre la puerta a la eternidad.\n\nLejos de la fatalidad,\nen una nueva y gran alianza,\ny brilla solo la claridad.\n\nEs la suprema realidad,\nla última y final esperanza,\nse abre la puerta a la eternidad,\ny brilla solo la claridad.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "ESCULTOR: Eres fría piedra, pero te amo.\nESTATUA: (Silencio)\nESCULTOR: ¡Diosa Venus, oye mi reclamo!\nDale vida a esta forma perfecta.\nESTATUA: (Se mueve) Siento calor... una línea recta.\nESCULTOR: ¡Galatea! ¡Vives! ¡Respiras!\nESTATUA: Tus manos me han hecho, y tú me miras.\nSoy tuya, creador, ámame ahora.\nESCULTOR: ¡Bendita sea esta bella hora!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "estatua"
+  }
+}

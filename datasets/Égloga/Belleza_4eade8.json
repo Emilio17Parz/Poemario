@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Aunque el arte humano imita,\nla naturaleza gana.\nLa belleza profana\nnunca se acredita\ncomo la flor bendita\nde la mañana.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "arte"
+  }
+}

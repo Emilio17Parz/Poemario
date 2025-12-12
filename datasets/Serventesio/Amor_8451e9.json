@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pasarán las edades y los años,\npero mi amor por ti no morirá,\nvenceremos los miedos y los daños,\ny nuestra luz por siempre brillará.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

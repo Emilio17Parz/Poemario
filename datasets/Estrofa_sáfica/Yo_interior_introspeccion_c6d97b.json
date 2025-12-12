@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Ando buscando mi propio hogar,\nun sitio donde poder estar,\ny mi cansancio poder posar,\nmeta lejana.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "búsqueda"
+  }
+}

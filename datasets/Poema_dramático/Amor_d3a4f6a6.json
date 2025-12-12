@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "CURA: ¿Aceptáis a este hombre por esposo?\nNOVIA: (Temblando) El futuro se ve tenebroso...\nNOVIO: ¿Qué dices, amada? ¡Di que sí!\nNOVIA: No puedo mentir estando aquí.\nHay otro nombre grabado en mi pecho.\nNOVIO: ¡Me has dejado el corazón deshecho!\n(La novia corre hacia la puerta)\nNOVIA: ¡Perdón! ¡El amor no se fuerza!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "duda"
+  }
+}

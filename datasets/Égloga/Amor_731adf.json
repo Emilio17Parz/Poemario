@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mírala cómo duerme en el trigal,\najena al ruido, en paz con la brisa.\nSu sueño es para mí como una misa,\nun acto sacro, puro y natural.\nGuardad silencio, coro forestal,\nque el cielo en su descanso se divisa.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "trigal"
+  }
+}

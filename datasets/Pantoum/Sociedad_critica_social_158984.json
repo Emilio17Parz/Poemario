@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Ocultan la gran verdad,\ndetrás del titular,\nla sociedad,\nse deja llevar.\n\nDetrás del titular,\nmentira disfrazada,\nse deja llevar,\nla mente cansada.\n\nMentira disfrazada,\nocultan la gran verdad,\nla mente cansada,\nla sociedad.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

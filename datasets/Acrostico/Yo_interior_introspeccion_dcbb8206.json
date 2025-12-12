@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "A dentro está la paz,\nL ejos del ruido vano,\nM irando tras la faz,\nA lcanzo lo humano.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "alma"
+  }
+}

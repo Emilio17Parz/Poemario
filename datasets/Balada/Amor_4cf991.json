@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fue bajo la luna de plata y de tul,\ndonde me entregaste tu boca azul,\nun beso tan suave, tan lleno de paz,\nque el mundo giraba con otro compás.\nSe paró el tiempo en aquel rincón,\ny latieron juntos en una canción,\ndos almas que hallaron su dulce verdad,\nen la inmensa gloria de la intimidad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "beso"
+  }
+}

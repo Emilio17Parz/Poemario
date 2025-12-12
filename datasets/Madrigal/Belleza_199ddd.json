@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sueños proyectados,\nimágenes que narran una historia;\nen la memoria,\ngrabados.\nLa magia de la luz en movimiento,\nes el cimiento.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "cine"
+  }
+}

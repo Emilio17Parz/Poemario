@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mi vecino taladra,\nla pared a las siete,\ncomo si buscara,\nun gran tesoro o filete.\nLe deseo que el cuadro,\nse le caiga en el pie,\ny que su ruido cese,\nde una buena vez.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "vecino"
+  }
+}

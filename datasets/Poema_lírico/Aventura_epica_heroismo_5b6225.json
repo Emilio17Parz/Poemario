@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi caballo no habla,\npero siente mi miedo cruel.\nSu fuerza me habla\ncon sabor a miel.\n\nEs mi fiel amigo,\nmi único motor,\nel único castigo\nsin ningún amor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

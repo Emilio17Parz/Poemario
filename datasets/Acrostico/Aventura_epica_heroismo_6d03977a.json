@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Alza el estandarte, la gesta comienza hoy,\nViaje de honor donde la audacia doy.\nElevan los sueños, más allá del umbral,\nNobles hazañas en lucha crucial.\nTrepan montañas, sortean vasto mar,\nUn pacto sagrado que deben honrar.\nRelatos antiguos su sino ya tejían,\nAlmas intrépidas que al peligro desafían.\n\nEspadas y escudos, prestos a la contienda,\nPor sendas secretas la fortuna se encienda.\nInfinita fuerza del espíritu audaz,\nContra la sombra que acecha fugaz.\nAbismos profundos, desiertos sin piedad,\nHalla el camino quien busca la verdad.\n\nEnfrenta el coraje bestias de terror,\nRuge el temible, ancestral dragón.\nOndea su furia, escamas de metal,\nIlumina el héroe su temple inmortal.\nSímbolo eterno de fuerza y proeza,\nMuestra su alma con pura entereza.\nObra cumplida, regresa a su hogar.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

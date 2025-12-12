@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna ejerce su atracción,\nsobre los mares con precisión.\nSube la marea y baja después,\nen un ritmo eterno, ya lo ves.\nEs la danza del agua y el astro,\nque deja en la arena su rastro.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "mareas"
+  }
+}

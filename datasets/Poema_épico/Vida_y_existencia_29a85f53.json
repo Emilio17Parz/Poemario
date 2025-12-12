@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Teseo entra al laberinto,\ncon el hilo de Ariadna,\nenfrentando la guadaña,\ndel Minotauro distinto.\nLa vida es un recinto,\nde duda y de telaraña,\ndonde la fe acompaña,\nal instinto.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

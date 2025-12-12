@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No crece el árbol en un solo día,\nni el amor madura sin esperar,\nla paciencia es la sabia guía,\nque enseña a saber perdonar.\nSoportar las fallas, limar la arista,\nes la labor del buen alquimista.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Paciencia"
+  }
+}

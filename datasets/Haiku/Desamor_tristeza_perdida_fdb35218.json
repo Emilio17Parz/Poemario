@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Amor se fue ya,\nAlma en pena, desolada.\nSolo hay soledad.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

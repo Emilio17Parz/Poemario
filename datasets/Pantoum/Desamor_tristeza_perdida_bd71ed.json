@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se aleja el tren de la estación,\nllevándose mi última ilusión,\nqueda el humo y la neblina,\nuna herida que no culmina.\n\nLlevándose mi última ilusión,\nrompiendo mi calma en pedazos,\nuna herida que no culmina,\nsoñando con tus abrazos.\n\nRompiendo mi calma en pedazos,\nqueda el humo y la neblina,\nsoñando con tus abrazos,\nse aleja el tren de la estación.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tren"
+  }
+}

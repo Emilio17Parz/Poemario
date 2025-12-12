@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se cuenta la leyenda\ndel guerrero,\nque fue de la justicia\nel primero.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

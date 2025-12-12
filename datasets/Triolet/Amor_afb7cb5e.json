@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo vivo un sueño\ndel que no quiero despertar,\nporque me siento tu dueño.\nContigo vivo un sueño,\nle pongo todo mi empeño\npara poderte adorar.\nContigo vivo un sueño\ndel que no quiero despertar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

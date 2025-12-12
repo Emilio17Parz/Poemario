@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Eres fantasma\nque ronda por la casa\nsin cuerpo ya.\nTe busco en las esquinas\ny solo encuentro polvo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

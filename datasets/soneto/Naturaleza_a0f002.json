@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mundo pequeño a nuestros pies,\nla hormiga carga su peso inmenso,\nel trabajo duro e intenso\nque no mira el revés ni el envés.\n\nLa abeja en su panal, como ves,\ncrea la miel con un arte propenso,\ny la araña teje en suspenso\nsu red de muerte y de interés.\n\nSon piezas del gran engranaje,\ninvisibles pero esenciales,\nen este terrestre viaje.\n\nSin sus labores vitales,\ncaería todo el andamiaje\nde los reinos naturales.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "hormiga"
+  }
+}

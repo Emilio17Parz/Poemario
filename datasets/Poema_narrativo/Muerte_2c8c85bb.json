@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llegó a la orilla del río,\ndonde el barquero esperaba,\nla niebla todo tapaba,\ny hacía mucho frío.\nPagó con una moneda,\ny subió a la barca de madera,\nrumbo a la otra ribera,\ndonde la memoria se queda.\nCruzaron el agua quieta,\nhacia la final meta.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "barca"
+  }
+}

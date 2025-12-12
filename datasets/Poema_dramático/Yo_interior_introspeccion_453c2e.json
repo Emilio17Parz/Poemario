@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "[EL JOVEN]\nMe pregunto: ¿quién soy yo? ¿La suma de las expectativas de mis padres?\n¿El eco de la risa de mis amigos? ¿La sombra de mi amante?\nNo tengo forma. Soy un camaleón que cambia según la luz que me da el mundo.\nMi vida es una búsqueda desesperada por un rostro que no puedo encontrar.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dulce canto,\nque resuena,\nque llena,\nel manto.\nEl encanto,\nque ordena.\nDulce canto.\n\nMelodía,\nde la voz,\ntan atroz,\nla alegría.\nLa osadía,\nveloz.\nDulce canto.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "canto"
+  }
+}

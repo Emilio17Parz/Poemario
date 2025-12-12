@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Damos vueltas y más vueltas\nen este gran laberinto,\nbuscando cual es la puerta\no el pasadizo distinto.\nConfundimos la salida\ncon el muro y el plinto,\ny perdemos el ovillo\npor seguir falso instinto.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

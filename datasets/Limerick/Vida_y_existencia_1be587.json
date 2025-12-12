@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La fe en el dulce mañana,\nes fuerza que mi alma se gana.\nNo hay miedo ni error,\nsolo un gran fulgor,\nla vida que al fin se amansa.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Mañana"
+  }
+}

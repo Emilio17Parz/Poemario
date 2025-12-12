@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Pregunto y no hallo respuesta,\nsubo la empinada cuesta,\nde la duda existencial,\nque es un abismo total.\n¿Por qué estoy aquí y ahora?\n¿Qué es lo que mi alma añora?\nSon preguntas sin final,\nen el viaje personal.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "duda"
+  }
+}

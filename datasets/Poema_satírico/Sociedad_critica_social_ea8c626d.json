@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Programas de gritos,\ny gente inculta,\nque a la inteligencia,\nla insulta.\nNos tienen pegados,\na la pantalla,\nviendo basura,\nque nunca calla.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "tele"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La niebla me cubre, no veo el final (A),\nperdido en la bruma de mi razón (A),\nsin luz, sin rumbo, sin un fanal (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Niebla"
+  }
+}

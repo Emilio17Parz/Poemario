@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rueda en mi cara una amarga lágrima,\nespejo del alma es la amarga lágrima.\n\nLluvia salada que el dolor anima,\nno cesa de caer la amarga lágrima.\n\nMar de tristeza que me lastima,\nse ahoga mi risa en la amarga lágrima.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

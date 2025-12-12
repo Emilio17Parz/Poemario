@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me acompaña la gran soledad,\nen la noche vacía y callada,\nes la única y cruel verdad,\nde una historia que fue terminada.\n\nEn la noche vacía y callada,\nescucho el eco de tu voz,\nde una historia que fue terminada,\npor un golpe del tiempo feroz.\n\nEscucho el eco de tu voz,\nme acompaña la gran soledad,\npor un golpe del tiempo feroz,\nes la única y cruel verdad.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

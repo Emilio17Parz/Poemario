@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Entro en el templo de piedra fría,\nhuele a incienso y a devoción,\nbusco consuelo para la vida mía,\ny para mi pobre corazón.\nAquí encuentro la comunión,\ncon el misterio de la creación.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "templo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo que danza, ligero y sutil,\nque rompe el espacio con gracia y poder,\nes la vida que fluye, el don gentil,\nla fuerza que impulsa el querer.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

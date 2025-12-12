@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las hormigas trabajan unidas,\npor el bien del hormiguero,\nunen sus vidas,\nsin afán de dinero.\nLa unión hace la fuerza,\naunque el ego se retuerza.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Colaboración"
+  }
+}

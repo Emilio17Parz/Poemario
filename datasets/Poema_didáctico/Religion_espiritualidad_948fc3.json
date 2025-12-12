@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dios es amor puro,\nno juez castigador,\nel cimiento seguro,\ndel creador.\nSi amas, conoces,\nsi odias, desconoces.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Amor"
+  }
+}

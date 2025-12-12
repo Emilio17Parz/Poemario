@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Busco borrar tu rostro de mi mente,\npero el recuerdo vuelve persistente,\ncomo una sombra fría y latente,\nno te he olvidado.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

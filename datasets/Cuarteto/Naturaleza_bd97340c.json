@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se levanta imponente a la altura\nel monte de piedra y granito,\ntocando el azul infinito\ncon su magica y gran estructura.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "altura"
+  }
+}

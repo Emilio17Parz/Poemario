@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aquel Silencio me mata, (A)\nme castiga sin piedad, (B)\nmi vida sin claridad (B)\nya no tiene ya una data. (A)\nMi alma triste se dilata, (A)\nde la esperanza sin luz, (C)\ncargando una triste cruz, (C)\nde un destino ya fatal, (D)\nno tengo ya un gran mal, (D)\nni una sola gran virtud. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

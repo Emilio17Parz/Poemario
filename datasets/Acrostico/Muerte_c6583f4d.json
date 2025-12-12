@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "N ada perturba el sueño,\nO scura eternidad,\nC errando con empeño,\nH allando la verdad,\nE n el último peldaño.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "noche"
+  }
+}

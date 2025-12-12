@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Camino solo entre la multitud,\nrodeado de gente y de ruido,\npero me siento solo y perdido\nen esta inmensa y gris latitud.\n\nHe perdido la fuerza y la virtud,\ndesde que tu amor se ha ido,\ny soy como un árbol caído\nsin savia, sin hojas y sin salud.\n\nLa soledad es mi compañera,\nse sienta a mi mesa y en mi cama,\ny me habla de forma lastimera.\n\nMe recuerda cuánto se te ama,\ny que esperar es una quimera\npues ya se apagó nuestra llama.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "multitud"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Qué sola se queda la casa\ncuando se apaga el candil,\ny qué sola está mi alma\nen este mes de abril.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "casa"
+  }
+}

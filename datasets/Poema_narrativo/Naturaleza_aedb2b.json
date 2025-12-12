@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña gigante, de roca y de hielo,\nGuardaba un secreto bajo el blanco velo.\nLa subió un explorador, buscando la cumbre,\nDonde el hombre es pequeño y la vida es lumbre.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

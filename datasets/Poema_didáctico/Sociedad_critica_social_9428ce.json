@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cumple las normas básicas,\nrespeta la fila,\nno seas clásicas,\nmala mochila.\nConvivir es ceder,\ny comprender.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Civismo"
+  }
+}

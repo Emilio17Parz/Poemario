@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El tiempo de mi alma\nno tiene reloj.\nEs la suave calma\nsin son ni boj.\n\nVa lento y profundo,\nsin prisa ni mal,\nla vida del mundo\nsin signo vital.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canto a la obra del Creador,\nal verde valle, al monte alto,\nal río azul y a su gran salto,\ntodo rebosa de esplendor.\n\nNo hay pincel que pueda igualar,\nlos mil matices de la flor,\nni la potencia ni el color,\ndel sol hundiéndose en el mar.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

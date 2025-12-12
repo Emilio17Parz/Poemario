@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mi rostro es de marfil sin un error (a),\nsin vida, sin sangre, con gran dolor (b),\nmi alma se queda sin un fulgor (a),\nsin la luz de un noble valor (b),\nla vida es un golpe amargo y fatal (b),\ny la fe se pierde sin un querer (c),\nla ausencia me come sin una razón (b),\n**Mi vida se cubre de puro dolor** (C).\n\nPríncipe, la hiel me da (c'),\nes la sombra que siempre está (c'),\nla fuerza que nunca se va (b),\n**Mi vida se cubre de puro dolor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Marfil"
+  }
+}

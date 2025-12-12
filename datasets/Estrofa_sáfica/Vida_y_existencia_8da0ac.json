@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Romper los lazos que nos atan fuerte,\nser como el ave que su vuelo emprende,\ny que su propio ser y fe defiende,\naire sagrado.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te vas porque tú quieres,\nno porque yo te eche,\nque te vaya bien la vida\ny el camino aproveche.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "irse"
+  }
+}

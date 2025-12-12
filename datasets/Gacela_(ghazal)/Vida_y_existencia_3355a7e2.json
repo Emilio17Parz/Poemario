@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye y cambia, nada es igual,\ncomo el agua del río en su canal.\n\nLo que hoy es principio será final,\ny lo que es dulce se volverá sal.\n\nAcepta el cambio como natural,\npues es la ley del mundo terrenal.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "río"
+  }
+}

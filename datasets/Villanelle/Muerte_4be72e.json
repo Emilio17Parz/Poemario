@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nadie recuerda tu nombre,\nel tiempo todo lo borra,\naunque te sientas muy hombre.\n\nQue no te asombre,\nque nadie corra,\nnadie recuerda tu nombre.\n\nNo hay quien te nombre,\nni quien te socorra,\naunque te sientas muy hombre.\n\nEs la costumbre,\nde la mazmorra,\nnadie recuerda tu nombre.\n\nEn la cumbre,\nde la camorra,\naunque te sientas muy hombre.\n\nQueda la lumbre,\nque se aforra,\nnadie recuerda tu nombre,\naunque te sientas muy hombre.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

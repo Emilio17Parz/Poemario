@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La soledad me mira con ojos de sal,\nla vida sin la calma, el cruel puñal.\nEl espejo me miente, me obliga a estar,\nla sombra constante sin poder amar.\n\nMe aísla el silencio, me rompe la paz,\nla vida sin la calma, sin ser capaz.\nMi alma es el eco de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ella dobló sus rodillas en el suelo de piedra,\nContando las penas que la vida engendra.\nRezaba en voz baja, pidiendo un favor,\nLa oración es el puente, el suave rumor.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "oración"
+  }
+}

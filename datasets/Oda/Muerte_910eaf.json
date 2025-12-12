@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lo que dejamos,\nno es lo material,\nsino lo especial,\nque amamos.\nEl amor dado,\nes el legado.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

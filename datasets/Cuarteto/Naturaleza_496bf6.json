@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La lluvia cae mansa y persistente,\nlavando el polvo gris de la ciudad,\ntrayendo su frescura y su bondad,\nal campo seco y al jardín ardiente.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos el sentido,\nde estar en este lugar,\na veces nos hemos perdido,\nsin saber dónde llegar.\n\nDe estar en este lugar,\nun propósito oculto,\nsin saber dónde llegar,\nentre tanto tumulto.\n\nUn propósito oculto,\nbuscamos el sentido,\nentre tanto tumulto,\na veces nos hemos perdido.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

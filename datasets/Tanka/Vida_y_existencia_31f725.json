@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El débil corazón,\nlucha contra su sino,\ncon gran valentía.\nEs la máquina de vida,\nque no debe detenerse.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Corazón"
+  }
+}

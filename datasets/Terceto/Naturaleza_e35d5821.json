@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde tapiz que la montaña teje,\nla luz del alba besa el campo frío,\nel viento fresco su secreto deja.\n\nEn cada hoja el sol busca su río,\nsusurra el bosque, historia sin barreras,\nun murmullo que no tiene hastío.\n\nEntre raíces, musgos y praderas,\nla vida fluye, un don que siempre está,\nregalo eterno de las primaveras.\n\nQue al corazón en su silencio da,\nla paz inmensa que por siempre irá.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "río"
+  }
+}

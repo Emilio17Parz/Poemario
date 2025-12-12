@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Árbol de vida, madero sagrado,\ndonde el pecado fue al fin perdonado!\nSímbolo eterno de redención,\ny de la más grande y pura pasión.\n\n¡Adorad la cruz, victoria final,\nque vence a la muerte y vence al mal!\nGuía del cristiano en su caminar,\nhasta la gloria poder alcanzar.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El dolor curte,\nmaestro de la vida,\nnos hace fuertes.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "maestro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viene la muerte callada y suave,\ncomo el sueño tras la labor.\nNo le tengas, pastor, pavor,\nque ella tiene la llave\npara que el alma lave\nsu pena y su dolor.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "llave"
+  }
+}

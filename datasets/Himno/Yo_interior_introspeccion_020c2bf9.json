@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo el secreto en mi interior,\ncomo un tesoro bajo la piel,\nfiel a mi alma y siempre fiel,\na mi silencio y a mi valor.\nCámara oculta de mi identidad,\ndonde reside mi verdad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

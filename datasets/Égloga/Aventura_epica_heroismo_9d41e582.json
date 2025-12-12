@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Rugió el cielo con ira,\ny el río se desbordó,\nla cabaña tembló,\ncomo una lira.\nTodo gira,\nel agua arrasó,\ny el pastor luchó,\ncontra la pira.\nSalvamos la vida,\nen la estampida,\npor la salida.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "supervivencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Por la noche soy rey.\nVuelo, mato, amo.\nEl inconsciente rompe las cadenas\nde la lógica\ny me devuelve la libertad salvaje.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

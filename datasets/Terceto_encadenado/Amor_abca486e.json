@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Unidos por la fuerza del destino,\ncruzamos el umbral de lo impensado,\nabriendo juntos un mejor camino.\n\nLo que el pasado había malogrado,\nhoy nace nuevo bajo tu mirada,\ndejando el sufrimiento en el costado.\n\nEn esta nueva y dulce madrugada.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se debe cumplir la ley\npara todos por igual,\nya sea siervo o rey\nen el juicio final.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "ley"
+  }
+}

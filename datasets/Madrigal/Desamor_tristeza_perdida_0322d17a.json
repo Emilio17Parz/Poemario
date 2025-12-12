@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se rompió la cadena,\ndejando libertad llena de pena.\nSe terminó la historia\nquedando en la memoria.\nDos caminos distintos,\nborrando del amor los laberintos.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "final"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quisiera que tu nombre se borrara,\nde la piedra de mi memoria triste,\nantes que el sufrimiento me parara.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "mente"
+  }
+}

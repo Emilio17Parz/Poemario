@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Polvo grisáceo que el viento levanta,\nresto del fuego que ya no canta.\nLo que fue hoguera de luz y calor,\nhoy es residuo de un viejo amor.\n\n¡Honor a la ceniza, fin de todo,\nque vuelve al suelo y se hace lodo!\nSímbolo triste de la vanidad,\ny de la muerta felicidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dulce es el fuego que el pecho me abrasa,\ny dulce la herida que el alma siente,\ncuando Amor se hace presente\ny por mis venas con su fuerza pasa.\nBendito sea el día y el momento\nen que entregué mi libre pensamiento\na la señora mía,\ncausa de mi dolor y mi alegría.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

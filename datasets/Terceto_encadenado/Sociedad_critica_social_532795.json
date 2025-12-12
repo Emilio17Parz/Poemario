@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sobra la comida,\nen la mesa llena,\nde la gente de vida.\n\nEs una pena,\nver al hambriento,\nque se enajena.\n\nSin alimento.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

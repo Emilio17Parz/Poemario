@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¡Oh ciega humanidad, oh mente vana!,\nque en la belleza frágil confiamos,\ny torres levantamos\nque el viento derriba en la mañana.\nUn soplo bastó para apagarla,\ny no pude salvarla,\nde la ley rigurosa\nque convierte en polvo a la mariposa.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "fragilidad"
+  }
+}

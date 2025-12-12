@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visten de negro las damas\npor el caballero muerto,\nque cayó en la gran batalla\ndejando el campo desierto.\nLloran su valor perdido\ny su corazón abierto,\nmientras la tierra lo acoge\nen su frío y duro puerto.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "luto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dice mi nombre con dulzura,\ny se disipa la amargura,\nsuena a música celestial,\nun tono suave y especial,\nque me promete la ventura.\n\nEs el remedio y la cura,\nde mi locura y mi cordura,\nrompiendo el muro de cristal,\nDice mi nombre.\n\nNo existe duda ni fisura,\nen esa nota tan pura,\nes un lazo fundamental,\nun sentimiento original,\nque me llena de ternura,\nDice mi nombre.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

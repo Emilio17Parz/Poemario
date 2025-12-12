@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te traigo un lazo de seda\ncomprado en la feria nueva,\npara que ates tu cabello\ncuando el viento se lo lleva.\nAcéptalo como prenda\nde quien a amarte se atreva,\ny deja que mi cariño\nen tu pecho se conmueva.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "regalo"
+  }
+}

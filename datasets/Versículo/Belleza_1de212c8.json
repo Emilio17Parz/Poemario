@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuán grandes son tus obras, oh Señor, muy profundos son tus pensamientos; el hombre necio no sabe, y el insensato no entiende esto.\nHas hecho hermosas todas las cosas en su tiempo; pusiste el mar y la tierra seca, y formaste el espíritu del hombre dentro de él.\nTe alabaré; porque formidables, maravillosas son tus obras; estoy maravillado, y mi alma lo sabe muy bien.\nLa hermosura de los ancianos es su vejez; y la gloria de los jóvenes es su fuerza; pero la obra de tus manos es perfecta.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "obras"
+  }
+}

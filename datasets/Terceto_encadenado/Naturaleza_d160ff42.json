@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Brilla la luna blanca de plata,\niluminando el oscuro sendero,\nuna luz que en la noche desata.\n\nEl sueño del cansado viajero,\nque la mira colgada en lo alto,\ncomo un mágico y gran lucero.\n\nDando al mundo su brillo de esmalte.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "plata"
+  }
+}

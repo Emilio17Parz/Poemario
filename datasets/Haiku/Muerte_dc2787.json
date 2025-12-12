@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Frío final,\nla nieve cubre todo,\nduerme la vida.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "frio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El alma pasó,\npor la noche,\nsin un coche,\ny lloró.\nNo veía nada,\nsolo dolor,\ny temor,\nen la almohada.\nPero amaneció,\ny floreció.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "alma"
+  }
+}

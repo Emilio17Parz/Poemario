@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Zumbaba el mosquito cruel,\nbuscando un poco de piel.\nLe di un manotazo,\ncon gran porrazo,\ny manché todo el papel.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "mosquito"
+  }
+}

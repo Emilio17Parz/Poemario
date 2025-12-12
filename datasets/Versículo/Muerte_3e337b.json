@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es la sombra fiel que camina a nuestro lado desde el nacimiento, esperando pacientemente su turno.\nNo es una enemiga, sino la hermana oscura de la vida, la que nos cubre con su manto para que podamos dormir.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

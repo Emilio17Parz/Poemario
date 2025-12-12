@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hay una luz inextinguible en el centro de mi ser, una llama que no quema y que no proyecta sombra.\nEs mi brújula en la noche oscura, la prueba de que llevo una chispa de lo divino en mi barro mortal.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "luz"
+  }
+}

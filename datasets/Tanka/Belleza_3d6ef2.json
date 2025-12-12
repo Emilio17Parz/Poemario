@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verso que rima\nritmo del sentimiento\nvoz de cristal.\nPalabras que se engarzan\ncomo joyas brillantes.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

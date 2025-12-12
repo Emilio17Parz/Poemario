@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es sueño y nada más,\nuna ilusión que se desvanece,\ny despertar tú no podrás.\n\nTodo lo que haces y lo que das,\nen la neblina desaparece,\nla vida es sueño y nada más.\n\nCorres y luchas y vas,\npero el final siempre aparece,\ny despertar tú no podrás.\n\nEs una obra con disfraz,\nque al espectador estremece,\nla vida es sueño y nada más.\n\nBuscas la gloria y la paz,\npero la sombra siempre crece,\ny despertar tú no podrás.\n\nDuerme tranquilo y verás,\nque la verdad no pertenece,\nla vida es sueño y nada más,\ny despertar tú no podrás.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

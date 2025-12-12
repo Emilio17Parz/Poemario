@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Yo escribo mi propia historia,\ncon cada paso que doy.\nDonde voy\nes mi gloria.\nMemoria\nde hoy.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "historia"
+  }
+}

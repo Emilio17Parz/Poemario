@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Está roto el cristal de la ilusión,\npedazos que cortan al tocar,\nya no volveré a soñar,\ncon la misma pasión.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "roto"
+  }
+}

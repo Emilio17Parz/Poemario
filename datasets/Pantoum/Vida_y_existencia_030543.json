@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Saber de dónde venimos,\npara saber dónde ir.\nLos frutos que recogimos,\nayudan a construir.\n\nPara saber dónde ir,\nmirar la tierra y el padre.\nAyudan a construir,\nel lazo con nuestra madre.\n\nMirar la tierra y el padre,\nlos frutos que recogimos.\nEl lazo con nuestra madre,\nsaber de dónde venimos.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "raíz"
+  }
+}

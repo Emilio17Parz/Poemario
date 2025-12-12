@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Peso que dobla la cerviz cansada,\nyerros pasados que el perdón no encuentran,\ncon la vista bajada\nmis demonios se adentran.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

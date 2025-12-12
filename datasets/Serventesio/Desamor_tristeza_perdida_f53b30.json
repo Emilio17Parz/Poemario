@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El eco de tu risa me persigue sin par (A),\nen la noche oscura, en mi soledad (B),\nla vida es un fantasma que sabe penar (A),\nla ausencia de la verdad (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Eco"
+  }
+}

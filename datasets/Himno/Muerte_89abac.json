@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¡Reino absoluto del gran silencio,\ndonde ya nadie pronuncia sentencia!\nCallan las voces de amor y de ira,\nsolo la paz en el aire respira.\n\n¡Honor al descanso que no tiene voz,\nque para la rueda del tiempo veloz!\nEn tu mudez se esconde el secreto,\ndel universo y su plan completo.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

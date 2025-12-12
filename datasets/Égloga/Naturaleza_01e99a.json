@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mira qué verde se extiende el prado,\nbajo la luz del sol mañanero,\nes el tapiz del mundo entero,\ncon mil flores de luz bordado.\n\nAquí descansa el ganado,\ny el alma encuentra su paz,\nlejos del ruido y el disfraz,\ndel mundo urbano y complicado.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "prado"
+  }
+}

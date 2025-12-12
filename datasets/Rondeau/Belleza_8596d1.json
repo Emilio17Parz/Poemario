@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Queda la foto fija,\nuna sortija,\ndel tiempo,\na destiempo,\nque elija.\n\nLa vasija,\ny la hija,\ndel contratiempo,\nQueda la foto.\n\nSin pasatiempo,\nni templo,\nla lija,\nque exija,\nel ejemplo,\nQueda la foto.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "foto"
+  }
+}

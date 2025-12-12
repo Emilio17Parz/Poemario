@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cierran los ojos a la luz del mundo,\nquedan los vivos con el alma rota,\nmientras la vida se nos va despacio,\ngota a gota.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "despedida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Reina del manto de terciopelo,\nbordado de astros y de luceros,\nguía de sueños y viajeros,\nque traes la calma y el consuelo.\n\n¡Salve, oh noche de paz inmensa!\nBajo tu amparo todo reposa,\neres la madre misteriosa,\nque el descanso nos recompensa.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

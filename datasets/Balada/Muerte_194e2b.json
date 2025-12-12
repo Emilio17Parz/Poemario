@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viste de negro la viuda triste,\nllorando al hombre que tanto amó,\nse fue la dicha que un día viste,\ny la alegría se terminó.\nLleva la pena como un vestido,\nque la separa de los demás,\nviviendo en un tiempo perdido,\nque no regresa nunca jamás.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "luto"
+  }
+}

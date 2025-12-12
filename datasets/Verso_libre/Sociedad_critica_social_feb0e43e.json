@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Levantan muros de hormigón\ny muros de papel.\nDividen a los hombres por el color,\npor el dios al que rezan,\npor el dinero en el bolsillo.\nPero el viento salta los muros,\ny los pájaros, y las canciones.\nLa libertad no entiende de fronteras.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "muro"
+  }
+}

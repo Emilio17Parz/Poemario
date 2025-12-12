@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza, un fulgor que el alma anhela,\ncual eco suave que en el aire infunde,\nla luz primera que al mirar revela.\n\nCual eco suave que en el aire infunde,\ny que el sentir del corazón conmueve,\nel arte mismo en su esplendor difunde.\n\nY que el sentir del corazón conmueve,\nde la sutil presencia que hoy me inspira,\nla dulce forma que su ser promueve.\n\nDe la sutil presencia que hoy me inspira,\nmi eterna musa en cada verso amada,\nque el tiempo mismo con su don transpira.\n\nMi eterna musa en cada verso amada,\nsu luz perenne que el dolor deshace,\nen cada sombra su verdad callada.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "musa"
+  }
+}

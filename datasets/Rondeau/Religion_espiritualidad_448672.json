@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Santa piedra,\ncon la hiedra,\ndel lugar,\npara orar,\nque medra.\n\nNadie apiedra,\nla cátedra,\ndel altar,\nSanta piedra.\n\nEl hogar,\ny el mar,\nque empiedra,\ny arredra,\nel malestar,\nSanta piedra.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

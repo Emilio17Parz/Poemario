@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Halla la calma,\nen el alma,\ncallada,\ny amada,\ncon palma.\n\nLa ensalma,\ny empalma,\nla nada,\nHalla la calma.\n\nLa mirada,\ny la entrada,\nque salma,\ny desalma,\nsagrada,\nHalla la calma.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "calma"
+  }
+}

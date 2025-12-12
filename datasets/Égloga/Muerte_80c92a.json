@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vi pasar la sombra alargada,\nsobre el valle al atardecer,\ny supe que iba a perder,\na mi compañera amada.\n\nLa parca viene callada,\nrobando el aire y el color,\ndejando solo el dolor,\nen la morada sagrada.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

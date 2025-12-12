@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Firme como el monte ante el vendaval,\nasí es nuestro amor, fuerte y leal.\n¡Honor a la fuerza que sabe esperar!,\ny que las tormentas logra superar.\n\nDía tras día, sin pausa ni fin,\ncultivamos juntos este gran jardín.\nLa constancia es la llave de la eternidad,\nel triunfo supremo de nuestra verdad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "constancia"
+  }
+}

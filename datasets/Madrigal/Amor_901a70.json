@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Esa sonrisa tuya,\nque ilumina la noche más oscura,\nhace que el miedo huya,\ny me llena de paz y de ternura.\nNo la escondas jamás, mi bien amado,\nque vivo enamorado,\nde ese gesto que el alma me consuela,\ny al cielo vuela.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "luz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Luz que embellece.\nSueño que eleva.\nPura es la forma.\nArte es belleza pura, sí.\nPura es la forma.\nSueño que eleva.\nLuz que embellece.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "arte"
+  }
+}

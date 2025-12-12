@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Más fuerte que el brazo es la mente,\nque no se rinde ante el mal.\nVoluntad tal\nes excelente.\nEs la fuente\ndel caudal.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "mente"
+  }
+}

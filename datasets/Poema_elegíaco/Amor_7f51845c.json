@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fue un adiós sin pañuelos ni promesas,\nun corte seco en la trama de la vida,\ndejando mi esperanza malherida,\ny llenas de polvo nuestras mesas.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

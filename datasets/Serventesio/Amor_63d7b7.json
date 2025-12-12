@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres mi ancla en la fuerte tormenta atroz (A),\nla roca firme que no cede jamás (B),\nla dulce palabra, la única voz (A),\nque al fin me da la paz (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Ancla"
+  }
+}

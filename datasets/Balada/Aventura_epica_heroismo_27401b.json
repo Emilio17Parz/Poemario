@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Su juramento es ley sin un error (a),\nla palabra me inunda con gran valor (b),\nmi alma se cubre de puro fulgor (a),\nsin miedo a la sombra que quiere caer (b),\nla esencia más pura de noble amor (b),\ny la fe que me ayuda a seguir sin temor (c),\nla vida es un canto sin un error (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, el alma se va (c'),\nes la sombra que nunca se da (c'),\nla fuerza que al fin se está (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Juramento"
+  }
+}

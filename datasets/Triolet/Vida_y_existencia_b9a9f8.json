@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Siempre tengo la pregunta,\nDe qué pasará mañana,\nQue a mi alma se adjunta.\nSiempre tengo la pregunta,\nQue se junta,\nEn la ventana.\nSiempre tengo la pregunta,\nDe qué pasará mañana.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "pregunta"
+  }
+}

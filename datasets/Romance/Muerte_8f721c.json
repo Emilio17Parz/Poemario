@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Leí su nombre en el diario\ncon un borde negro y frío,\ny sentí que se rompía\nalgo en el pecho mío.\nSe fue el amigo del alma\ncon quien compartí el estío,\ny ahora me queda su ausencia\ncomo un inmenso vacío.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "esquela"
+  }
+}

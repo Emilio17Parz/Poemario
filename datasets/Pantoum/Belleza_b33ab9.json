@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cascada de pelo oscuro,\ncayendo por la espalda,\nun marco seguro,\nque al rostro respalda.\n\nCayendo por la espalda,\nbrillo de noche cerrada,\nque al rostro respalda,\nbelleza soñada.\n\nBrillo de noche cerrada,\ncascada de pelo oscuro,\nbelleza soñada,\nun marco seguro.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cabello"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Por la calle de la fuente\ncaminaba mi morena,\ncon la flor en el cabello\ny en los ojos luna llena.\nYo la miré fijamente,\nella me miró con pena,\ny en el cruce de los ojos\nse rompió mi gran cadena.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

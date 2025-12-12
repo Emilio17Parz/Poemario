@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rayo fuerte,\nque ilumina,\ny domina,\nla suerte.\nLa muerte,\nparece cerca,\nen la alberca,\nque vierte.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

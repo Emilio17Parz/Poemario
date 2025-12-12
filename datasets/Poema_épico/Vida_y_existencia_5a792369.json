@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ulises busca su Ítaca,\ntras diez años de errar,\nqueriendo al fin llegar,\na su tierra y su hamaca.\nLa vida es lucha que ataca,\ny nos obliga a navegar,\nsuperando el vendaval,\nhasta que la muerte aplaca.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

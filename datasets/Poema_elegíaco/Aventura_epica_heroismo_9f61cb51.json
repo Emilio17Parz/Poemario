@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ha muerto el caballero y el honor,\nya la palabra dada nada vale,\nla traición y el engaño sobresale,\ncausando al hombre noble gran dolor.\nLloro por la virtud que ha fallecido,\nen un mundo cobarde y corrompido.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "honor"
+  }
+}

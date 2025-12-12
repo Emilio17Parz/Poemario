@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La **ba**tá**lla rú**ge **sin** un error (11)\nEl **á**cero **bríl**la con **grán** fulgor (11)\n**Fúér**za que **és** un **ful**gor (9)\n**Grán** va**lór** (4).",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "Batalla"
+  }
+}

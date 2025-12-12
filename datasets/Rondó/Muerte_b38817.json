@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Suena el llanto,\nde los que quedan,\nque no puedan,\nsufrir tanto.\nNegro manto,\nque enredan.\nSuena el llanto.\n\nLágrimas caen,\nal suelo inerte,\npor la muerte,\nque atraen.\nSe distraen,\ncon la suerte.\nSuena el llanto.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

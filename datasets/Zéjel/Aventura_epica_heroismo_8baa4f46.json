@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vamos al mar,\na navegar.\n\nEn el barco,\ncomo en un arco,\nsobre el charco,\nal pasar.\n\nVamos al mar,\na navegar.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "mar"
+  }
+}

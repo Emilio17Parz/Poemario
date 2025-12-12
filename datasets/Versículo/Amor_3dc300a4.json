@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu presencia es como la lluvia tardía que riega la tierra sedienta, como el rocío que desciende sobre los montes de Sión.\nEn tu rostro veo la claridad del amanecer y en tus ojos se esconde el misterio de las profundidades del mar.\nNo te apartes de mí, porque sin ti soy como nave sin timón en medio de la tormenta, zarandeada por el viento.\nQuédate, porque se hace tarde y el día ha declinado; entra y cena conmigo, y yo contigo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "presencia"
+  }
+}

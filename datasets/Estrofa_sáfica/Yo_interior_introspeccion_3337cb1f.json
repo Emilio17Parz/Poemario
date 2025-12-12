@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "La mente se adentra, silencio que habita,\nun íntimo espejo que oculta un secreto,\nla voz del silencio que todo me dice,\nprofunda quietud.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla el metal,\nen la batalla,\nnada se calla,\nante el mal.\nGolpe letal,\nque estalla.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

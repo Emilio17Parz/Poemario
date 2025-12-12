@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Romper cadenas,\nvolar muy alto,\ndar el gran salto,\nlejos de penas.\nManos llenas,\nde asalto.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

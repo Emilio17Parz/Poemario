@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La palabra adiós cayó entre nosotros como una guillotina, cortando de un tajo el futuro que habíamos imaginado.\nQuedó flotando en el aire un silencio espeso, el sonido sordo de una puerta que se cierra para no abrirse más.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

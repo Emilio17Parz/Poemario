@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La casa se encuentra fría\ndesde que te fuiste ayer,\ny no logro comprender\nesta inmensa lejanía.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

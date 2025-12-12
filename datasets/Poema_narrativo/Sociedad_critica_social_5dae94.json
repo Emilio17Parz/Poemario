@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vio la injusticia y quiso decir 'No',\nPero la voz se hizo pena, y el silencio lo cubrió.\nEl silencio es la ayuda que al tirano das,\nEl miedo que el esclavo no puede jamás.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

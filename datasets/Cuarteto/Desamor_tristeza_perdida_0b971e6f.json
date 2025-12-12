@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Busco refugio en el tenaz olvido,\npara borrar la imagen de tu cara,\nmas la memoria, que es avara y rara,\ntrae de vuelta lo que se ha perdido.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

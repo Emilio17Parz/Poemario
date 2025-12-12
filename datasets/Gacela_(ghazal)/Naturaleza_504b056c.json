@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En el monte se alza el silencio, al sol besar, con su dulce amor.\nY el río susurra su verso, al mar llegar, con su dulce amor.\n\nLas flores abren sus cálices, en campos sin fin,\nEl viento les trae un secreto, al acariciar, con su dulce amor.\n\nEl roble viejo y sabio, su sombra da al andar,\nY en cada hoja que danza, al despertar, con su dulce amor.\n\nCuando la blanca **luna** se asoma, en la noche fugaz,\nSu luz nos envuelve en sueños, al contemplar, con su dulce amor.\n\nOh poeta, busca el sentido, en la brisa y en el volar,\nQue en cada criatura vive, un puro palpitar, con su dulce amor.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "luna"
+  }
+}

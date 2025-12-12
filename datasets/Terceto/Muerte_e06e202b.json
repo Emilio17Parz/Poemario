@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se abre el paso hacia la eternidad,\ndonde el tiempo no cuenta sus segundos,\ny brilla la absoluta claridad.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sin ti la vida no va,\nmi alma ya no está.\n\nMe falta tu dulce voz,\nsin nadie que me dé pos,\nla pena me es atroz,\nmi alma ya no está.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cambiar,\nes bueno.\nAmar,\ncambiar.\nSereno,\nal estar.\nCambiar,\nes bueno.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

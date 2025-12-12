@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¡Luz de mis ojos, sol de mi vida!\nCanto tu gracia y tu resplandor,\neres la fuente del puro amor,\ndonde mi sed se encuentra acogida.\n\nBrille tu rostro sobre la tierra,\npara que el mundo pueda admirar,\nlo que mi pecho quiere adorar,\ny que a mi ser completo se aferra.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luz"
+  }
+}

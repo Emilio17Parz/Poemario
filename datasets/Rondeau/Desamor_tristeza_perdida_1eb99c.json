@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La soledad es mi dueña,\nque conmigo se ensaña.\nMe abraza en la habitación,\nrobando la ilusión,\ncomo una araña pequeña.\n\nYa nadie me enseña,\nni la paz se diseña.\nSolo tengo en el rincón,\nla soledad.\n\nElla nunca desdéña,\nla madera y la leña.\nQuema el corazón,\nsin ninguna razón,\ny en mi alma se empeña,\nla soledad.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ríe la tierra entera,\nvestida de mil flores y colores;\nlos ruiseñores\nen la ribera\ncantan al sol que vuelve victorioso;\ntiempo dichoso,\ndonde el amor renace,\ny todo mal y pena se deshace.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

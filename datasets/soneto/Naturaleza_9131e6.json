@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entro en el templo de la fronda espesa,\ndonde el silencio teje su mantón,\ny se respira en cada rincón,\nla paz antigua que en el aire pesa.\n\nAquí la vida su labor empieza,\nlejos del ruido y de la confusión,\nbajo la verde y fresca protección,\nde la arboleda que ante el sol se besa.\n\nRaíces hondas beben de la tierra,\nsecretos viejos que el suelo guardó,\nmientras el ave a su rama se aferra.\n\nTodo el conflicto aquí se disipó,\nno existe el odio, ni existe la guerra,\nsolo el susurro que el viento dejó.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

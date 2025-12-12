@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "[LA MADRE SOLA]\n(Golpeando el reloj)\n¡Deja de sonar! ¡Deja de contar mi miseria! Cada tic-tac es una hora sin él.\nMe prometiste que el tiempo curaría, pero el tiempo es mi enemigo.\nMe recuerda que él sigue vivo y que yo sigo sola, contando los minutos\nhasta que el olvido decida borrarme de esta historia.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un anhelo de gloria en el camino,\ndonde el sino forjara nuestra estirpe,\ncuando el hondo llamado el pecho inflama,\naudaz el viaje.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

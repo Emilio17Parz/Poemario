@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[EL VIAJERO]\n(Ante el cañón)\nEs demasiado. Demasiado color, demasiada inmensidad. Me siento pequeño, vil.\nEsta Naturaleza me humilla con su perfección inmutable. Es un dios de piedra.\nQuiero llorar de rabia y de gozo. ¿Por qué el hombre es tan feo y el mundo tan puro?\nLa belleza es una cura, pero también un espejo que me recuerda mi propia nada.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

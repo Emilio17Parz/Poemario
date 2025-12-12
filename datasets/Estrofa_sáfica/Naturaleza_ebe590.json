@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de la arena, dunas infinitas,\nsol implacable, sed y soledad,\nreino del fuego y la inmensidad,\ntierra desnuda.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

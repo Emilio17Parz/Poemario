@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Belleza, don fugaz\nque el alma persigue y el ojo admira,\nen cada flor que suspira,\nen la vasta quietud del mar.\n\nSe esconde en el color, en la medida,\nen un silencio denso y sin final,\no en la voz que, herida,\ncanta su pena, universal.\n\nEl arte la busca en su trazo,\nescultor, con cincel, la moldea,\nmientras el verso, en su regazo,\nun eco eterno de ella crea.\n\nNo solo es forma, ni dulce engaño,\nes un fulgor que al mundo inunda,\nun destello que sin daño\nen la noche más profunda.\n\nEs el brillo de una estrella lejana,\nel de la lágrima clara,\no la promesa de la mañana.\n\nEn el gesto noble y sincero,\nen la verdad que el alma desvela,\nhabita un fuego altanero,\nuna luz que nunca congela.\n\nAsí la belleza, etérea y terrena,\nse revela en mil modos sin fin,\nplenitud que nos llena,\nsin principio ni fin.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

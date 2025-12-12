@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río corre,\ny no se aburre.\nBaja al mar,\nsin descansar,\nni que se borre.\n\nNadie socorre,\nlo que transcurre.\nSuele cantar,\nel río corre.\n\nEl agua escurre,\ny se susurre.\nAl pasar,\ny al mojar,\nla vieja torre,\nel río corre.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "río"
+  }
+}

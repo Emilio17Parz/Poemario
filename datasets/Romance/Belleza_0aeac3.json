@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No hay cuadro más colorido\nque el cielo al despertar,\ncuando el sol rompe la noche\ny empieza a colorear.\nNaranjas, rojos y lilas\nse ponen a brillar,\nen la fiesta de la luz\nque nos viene a visitar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

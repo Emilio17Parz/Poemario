@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La suerte gira,\ncomo una rueda.\nNadie la mira,\nla suerte gira.\nSi se queda,\no se retira.\nLa suerte gira,\ncomo una rueda.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

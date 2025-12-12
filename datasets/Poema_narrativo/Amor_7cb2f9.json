@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Una noche de espanto, la torre se encendió,\nEl dragón la llevaba, y nadie más corrió.\nPero él subió sin miedo por la pared de piedra,\nPara salvar a su amor, sin que el valor se pierda.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "rescate"
+  }
+}

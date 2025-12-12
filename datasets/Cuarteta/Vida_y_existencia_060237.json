@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El dolor es parte, un oscuro don,\nque enseña el valor de la calma y paz,\nes el precio de cada lección,\nla sombra que siempre dejas atrás.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Dolor"
+  }
+}

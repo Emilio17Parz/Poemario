@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nadie puede ver su rostro,\npero todos sentimos su mano.\nEmpuja, acaricia, golpea, arrastra.\nEs el aliento del mundo,\nel espíritu invisible que mueve las cosas.\nEl viento no tiene hogar,\nvive en el viaje constante.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "viento"
+  }
+}

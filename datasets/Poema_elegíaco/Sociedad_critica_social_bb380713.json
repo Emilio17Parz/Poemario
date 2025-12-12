@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Entre las ruinas,\ndel pueblo quemado,\ntodo ha acabado,\ncon las espinas.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ruinas"
+  }
+}

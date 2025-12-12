@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Narras tu gran batalla,\ncomo si fueras canalla.\nFue una bronca en el bar,\npor no querer pagar.\nNo eres héroe de guerra,\neres borracho en tierra.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te encuentro en el país de la quimera,\ndonde las leyes físicas no mandan,\ndonde los corazones se desbandan\ny vive una perpetua primavera.\n\nAllí no existe duda ni frontera,\nlas almas libremente siempre andan,\ny frutos de pasión se nos ablandan\nen esa realidad tan verdadera.\n\nDespierto y se me escapa tu figura,\nla niebla del olvido te rodea,\ndejándome con esta amargura.\n\nMas vuelvo a dormir para que vea,\ntu rostro de magnífica hermosura,\ny el sueño de tenerte se posea.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

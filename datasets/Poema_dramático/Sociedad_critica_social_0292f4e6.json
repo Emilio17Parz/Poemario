@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "POLICÍA: ¡Disuélvanse! ¡Es una orden!\nLÍDER: ¡No nos iremos hasta que acuerden!\nPOLICÍA: Usaremos la fuerza si es preciso.\nLÍDER: Nuestra fuerza es el compromiso.\nPOLICÍA: Carguen contra ellos, sin piedad.\nLÍDER: ¡Resistid! ¡Por la dignidad!\n(Gritos y golpes)\nLÍDER: Podéis golpearnos, podéis herir.\nPero la voz no va a morir.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "voz"
+  }
+}

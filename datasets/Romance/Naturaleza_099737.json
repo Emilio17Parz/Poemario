@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Todo se ha vuelto de armiño\nha nevado en la ciudad,\nel ruido se ha amortiguado\ncon gran solemnidad.\nLos niños juegan contentos\ncon total felicidad,\nmientras el blanco lo cubre\ncon su fría claridad.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En sueños yo soy el rey,\nen sueños yo tengo alas,\npero despierto y me encuentro\nen estas cuatro salas.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "volar"
+  }
+}

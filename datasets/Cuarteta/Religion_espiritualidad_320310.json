@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La fe es el ancla, la mano que agarra,\nen medio del fango, de la tempestad,\nes la dulce cuerda que nunca se garra,\nla fuerza que impulsa la voluntad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Fe"
+  }
+}

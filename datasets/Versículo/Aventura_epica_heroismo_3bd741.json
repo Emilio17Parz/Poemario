@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No elegí este camino, fui llamado por una voz que resonó más fuerte que el trueno en la noche de mi alma.\nLa misión es una carga sagrada que dobla mis hombros pero endereza mi espíritu, guiándome hacia un final que no puedo ver.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "misión"
+  }
+}

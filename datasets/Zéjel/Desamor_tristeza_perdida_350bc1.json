@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi pecho ya está vacío,\npadeciendo mucho frío.\n\nNo hay amor ni hay verdad,\nsin ninguna caridad,\nsolo la soledad,\npadeciendo mucho frío.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos hijos de la tierra,\npolvo de estrellas lejanas,\nunidas las vidas humanas,\nen paz y no en la guerra.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

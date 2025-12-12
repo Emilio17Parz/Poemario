@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Última cosa que queda en la caja\nde Pandora, tras los males,\nremedio de los mortales\ncuando la suerte se baja.\n\nLuz que en la noche trabaja,\ncurando los vendavales,\ny haciendo que los eriales\nden trigo y den paja.\n\nSin esperanza no hay vida,\nsolo una lenta agonía,\nuna herida no cosida.\n\nElla es la estrella guía,\nque nos promete la salida\nhacia el nuevo día.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "Pandora"
+  }
+}

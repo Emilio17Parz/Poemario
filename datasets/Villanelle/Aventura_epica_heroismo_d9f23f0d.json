@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Defiende siempre su limpio honor,\nmás que la vida y la riqueza,\nsin ceder nunca ante el temor.\n\nActúa con brío y con valor,\ny con hidalga gentileza,\ndefiende siempre su limpio honor.\n\nEs su tesoro y su esplendor,\nsímbolo de su fortaleza,\nsin ceder nunca ante el temor.\n\nAnte el tirano y el opresor,\nalza la frente con fiereza,\ndefiende siempre su limpio honor.\n\nNo mancha su alma con el error,\nni con la vil bajeza,\nsin ceder nunca ante el temor.\n\nEs un caballero y señor,\nde la cabeza a la pieza,\ndefiende siempre su limpio honor,\nsin ceder nunca ante el temor.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "honor"
+  }
+}

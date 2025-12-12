@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un héroe valiente, de gran pundonor,\nMarchó a la aventura, cual gran luchador.\nCon su fiel espada,\nNo temió a nada,\nVenció al malvado, con gran valor.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "espada"
+  }
+}

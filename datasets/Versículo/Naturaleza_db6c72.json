@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna es la amante cambiante de la noche, que crece y mengua arrastrando tras de sí las mareas del mundo.\nFaro pálido de los insomnes y los poetas, nos mira con su cara de cráteres desde el silencio del espacio.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "luna"
+  }
+}

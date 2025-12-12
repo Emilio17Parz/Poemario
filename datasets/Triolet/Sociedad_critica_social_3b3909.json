@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El mando corrompe,\nA quien lo posee,\nY todo rompe.\nEl mando corrompe,\nNadie interrumpe,\nLo que él cree.\nEl mando corrompe,\nA quien lo posee.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mando"
+  }
+}

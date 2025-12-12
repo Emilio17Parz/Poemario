@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reina en la sala un pesado silencio,\nya no se escuchan las voces de ayer,\ny con temor este paso presencio,\nviendo la noche sobre el mundo caer.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

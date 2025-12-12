@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "[EL EMPLEADO]\n(En el metro, a las 7 a.m.)\nOtra vez el mismo tren. El mismo rostro cansado. El mismo destino.\nLa vida no es una aventura, es este bucle cruel, esta repetición sin fin.\nSoy una rueda dentada en una máquina que no me necesita. Un número.\nSolo espero que, al morir, el universo me dé la sorpresa de un día distinto.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "rutina"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna nos mira,\ny nos inspira,\ncon su luz de plata,\nque se desata,\ny gira y gira.\n\nNadie respira,\nni se retira,\nde la caminata,\nLa luna nos mira.\n\nNo es mentira,\nque ella tira,\nde la marea grata,\ncon su sonata,\nque no expira,\nLa luna nos mira.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "luna"
+  }
+}

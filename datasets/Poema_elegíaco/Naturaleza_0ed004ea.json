@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llegó el invierno con su manto,\ncubriendo de blanco la muerte,\ncambió de la tierra la suerte,\ntrayendo frío y espanto.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

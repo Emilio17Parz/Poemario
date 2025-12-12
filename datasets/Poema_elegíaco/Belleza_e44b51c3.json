@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Marchita está la flor,\nque adornaba tu pelo,\ncaída en el suelo,\nsin vida y sin olor.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "marchita"
+  }
+}

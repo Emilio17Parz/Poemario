@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "**A**udaz la empresa que el destino forja,\n**V**alientes cruzan umbrales, sin temor alguno.\n**E**pícas sagas donde el alma se despoja,\n**N**aciendo héroes bajo el sol o la luna.\n**T**esoros de coraje en cada latido,\n**U**mbríos senderos, al filo de la espada.\n**R**elatos de triunfo que el tiempo ha tejido,\n**A**spirando a la **gloria**, en la liza ganada.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

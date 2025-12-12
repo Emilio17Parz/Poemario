@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento un dolor,\nque no se quita,\nque debilita,\nmi valor.\nPerdí el color,\ny la cita.\nSiento un dolor.\n\nEs una espina,\nclavada dentro,\nen el centro,\nde la rutina.\nMala medicina,\nla que encuentro.\nSiento un dolor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

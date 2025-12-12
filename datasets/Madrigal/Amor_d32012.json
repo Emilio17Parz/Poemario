@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo la luna llena,\nte juré amor eterno y verdadero,\nrompiendo la cadena,\nde ser un solitario pasajero.\nTestigo fue la noche de mi ruego,\nde mi dulce juego,\nque la luna nos guarde en su memoria,\nnuestra historia.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "noche"
+  }
+}

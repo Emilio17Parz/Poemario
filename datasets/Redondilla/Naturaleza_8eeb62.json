@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Calor y cigarras,\ncantan su canción,\nen esta estación,\nsin usar guitarras.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "verano"
+  }
+}

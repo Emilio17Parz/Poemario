@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Palma con palma\ndedos unidos\nhacia el cielo\nplegaria sube\nalma pide\nconsuelo y paz\na Dios.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "oración"
+  }
+}

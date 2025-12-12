@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Agua salta y cae,\nblanca espuma al fin.\nFuerza que atrae,\nen este jardín.\n\nBlanca espuma al fin,\nruido ensordecedor.\nEn este jardín,\nfresco alrededor.\n\nRuido ensordecedor,\nfuerza que atrae.\nFresco alrededor,\nagua salta y cae.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cascada"
+  }
+}

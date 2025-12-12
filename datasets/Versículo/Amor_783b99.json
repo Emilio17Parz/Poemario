@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bendita sea la liturgia de nuestros días comunes, el café compartido y el silencio cómodo de la mañana.\nEn lo ordinario de nuestra vida juntos he descubierto el milagro extraordinario de no querer estar en otro lugar.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "rutina"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa en paz,\ntras el disfraz.\n\nCierra los ojos,\nsin los enojos,\nni los abrojos,\ntan tenaz.\n\nDescansa en paz,\ntras el disfraz.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sangra el cielo en el atardecer,\nlienzo de fuego el atardecer.\n\nMuere el día con gloria y color,\ndespedida real del atardecer.\n\nLa noche espera tras el telón,\nde la belleza del atardecer.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

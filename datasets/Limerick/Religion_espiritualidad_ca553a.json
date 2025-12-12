@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dormía en la misa de doce,\nhaciendo un terrible goce.\nEl cura tosió,\ny él despertó,\ndando una tremenda coz.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

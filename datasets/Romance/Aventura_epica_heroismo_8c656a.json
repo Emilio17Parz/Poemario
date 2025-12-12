@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tarzán gritaba en la selva\nsaltando de liana en liana,\nrey de los monos y fieras\nen la jungla africana.\nProtegía a los animales\nde la codicia humana,\nviviendo libre y salvaje\ncon su fuerza soberana.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "selva"
+  }
+}

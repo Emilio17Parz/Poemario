@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Suenan las zampoñas a lo lejos,\nanuncian que mi amada ya se acerca.\nEl agua cristalina de la alberca\nrefleja de sus ojos los espejos.\nNo quiero del palacio los cortejos,\nsino su risa, que mi vida cerca.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "zampoñas"
+  }
+}

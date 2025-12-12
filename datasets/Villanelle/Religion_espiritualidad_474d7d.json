@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La muerte ha vencido,\nCristo vive hoy,\nlo prometido.\n\nRenacido,\nyo soy,\nla muerte ha vencido.\n\nEl sentido,\ndonde voy,\nlo prometido.\n\nEl latido,\ndel doy,\nla muerte ha vencido.\n\nEl sonido,\ndel estoy,\nlo prometido.\n\nEl vestido,\ndel convoy,\nla muerte ha vencido,\nlo prometido.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "resurrección"
+  }
+}

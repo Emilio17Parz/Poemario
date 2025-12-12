@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "RICO: ¿Por qué me miras con esos ojos?\nMENDIGO: Porque tengo hambre y tú tienes todo.\nRICO: Trabaja y sal de ese sucio lodo.\nMENDIGO: Me dan las sobras y los despojos.\nLa pobreza no es falta de afán,\nes que tú te quedas con todo el pan.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

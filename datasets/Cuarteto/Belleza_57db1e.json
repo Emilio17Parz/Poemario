@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sonidos que nos elevan,\na un mundo de sensación,\ntocando el corazón,\ny que las penas se llevan.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "música"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "A veces la mente vuela,\nlejos de la cordura,\ny rompe la atadura,\nque la sociedad cela.\n\nEs una extraña espuela,\nque clava su puntura,\ny muestra la hermosura,\nque la razón congela.\n\n¿Quién dice qué es lo sano?\n¿El que vive dormido,\no el que sueña en vano?\n\nQuizás el perdido,\nes el más humano,\ny el más sentido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "locura"
+  }
+}

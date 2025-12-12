@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Ven, dulce calma, posa tu mano,\nsobre la frente atormentada,\nque la tormenta sea callada,\ny el pensamiento sea sano.\n\nGloria al sosiego del espíritu,\nque no se altera con el ruido,\ny permanece siempre unido,\na su centro con ímpetu.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vagamos por un gran laberinto,\nguiados solo por el instinto.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

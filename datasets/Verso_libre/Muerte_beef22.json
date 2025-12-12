@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ya no duele.\nYa no hay miedo, ni deuda, ni hambre.\nLa muerte es la paz perfecta,\nel sueño sin pesadillas,\nel mar en calma absoluta.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cristal que devuelve la imagen,\nsincero, cruel y directo,\nmostrando el fallo y el defecto,\nsin que tus ruegos lo bajen.\n\nAunque los años te ultrajen,\nél muestra el paso correcto,\ndel tiempo y su gris trayecto,\nsin que las verdades se relajen.\n\nPero el espejo no ve,\nlo que guardas en el pecho,\nni tu amor, ni tu fe.\n\nSolo refleja el techo,\nla piel, el ojo y el pie,\npero no lo que has hecho.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

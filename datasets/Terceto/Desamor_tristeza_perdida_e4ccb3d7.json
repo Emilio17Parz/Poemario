@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mis ojos son dos fuentes de amargura,\nque vierten su caudal sobre la almohada,\nllorando por tu falta de ternura.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "mar"
+  }
+}

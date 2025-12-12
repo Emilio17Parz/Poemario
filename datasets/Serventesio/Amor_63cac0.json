@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi amor es promesa que nunca se va a romper (A),\nla fe que no miente, el don sin par (B),\nsin ti no hay futuro, sin ti no hay querer (A),\nla fuerza que sabe sanar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Promesa"
+  }
+}

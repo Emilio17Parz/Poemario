@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El camaleón cambia de color,\npara sobrevivir,\nno es ser un traidor,\nes saber vivir.\nAdáptate al entorno,\nsin perder tu contorno.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Adaptación"
+  }
+}

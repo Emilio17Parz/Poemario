@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Honor sagrado,\njamás manchado,\npor la traición,\nni la ambición,\ndel renegado.\n\nHa demostrado,\nser el soldado,\nde la legión,\nhonor sagrado.\n\nSiempre a mi lado,\nha caminado,\ncon decisión,\ny devoción,\nel bien amado,\nhonor sagrado.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "honor"
+  }
+}

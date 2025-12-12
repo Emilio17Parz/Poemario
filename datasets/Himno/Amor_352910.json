@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Roca inmutable en medio de la duda,\nla fidelidad firme nos ayuda.\nPromesa que no rompe el fuerte viento,\ncimiento eterno de este sentimiento.\n\n¡Honor a la lealtad que persevera,\ny siempre espera en la dulce ribera!\nVirtud suprema de los nobles pechos,\nque guardan puros los sagrados lechos.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "fidelidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Voy buscando en la memoria\nun camino hacia el olvido,\nborrar el tacto suave\nde lo que fue y ha sido.\nPero el recuerdo es un perro\nque me sigue malherido,\ny aunque trato de echarlo,\nsigue fiel y agradecido.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque susurra, verde y sereno,\nUn aire ancestral danza en la ribera,\nEl río en su curso, dulce y ameno,\nLa vida despierta con luz verdadera.\n\nUn aire ancestral danza en la ribera,\nLos pájaros cantan sin fin, con esmero,\nLa vida despierta con luz verdadera,\nBajo el sol que tiñe de oro el sendero.\n\nLos pájaros cantan sin fin, con esmero,\nLa noche se acerca, tierna y profunda,\nBajo el sol que tiñe de oro el sendero,\nLa luna plateada en el cielo abunda.\n\nLa noche se acerca, tierna y profunda,\nEl río en su curso, dulce y ameno,\nLa luna plateada en el cielo abunda,\nEl bosque susurra, verde y sereno.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "luna"
+  }
+}

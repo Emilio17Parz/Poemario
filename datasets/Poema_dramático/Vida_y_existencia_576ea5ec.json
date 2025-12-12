@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "MENDIGO: ¿Por qué a él le das oro y a mí nada?\nFORTUNA: Mi rueda gira desenfrenada.\nMENDIGO: ¿No hay justicia en tu reparto?\nFORTUNA: Yo solo giro, y parto y parto.\nHoy eres pobre, mañana rey.\nEsa es mi única y ciega ley.\nNo busques razones, no las hay.\nSolo el azar y el eterno ay.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "rueda"
+  }
+}

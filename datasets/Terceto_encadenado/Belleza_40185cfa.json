@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El hombre busca eternidad en arte,\nplasmando lo que siente y lo que ve,\ny su visión con todos comparte.\n\nEl cuadro, la escultura, lo que fue,\nqueda inmortalizado en la materia,\nguardando la belleza y la fe.\n\nLejos de la tristeza y la miseria.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "arte"
+  }
+}

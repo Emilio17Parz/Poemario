@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La niebla me cubre, no veo mi rumbo fiel (A),\nperdido en la bruma, sin un gran nivel (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Niebla"
+  }
+}

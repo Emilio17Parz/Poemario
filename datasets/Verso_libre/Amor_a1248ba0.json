@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "He pronunciado tu nombre frente al mar, y las olas lo han repetido hasta convertirlo en espuma y sal.\nHe escrito tu nombre en la corteza de los árboles ancianos, para que crezca con ellos hacia el cielo.\nNo hay sonido más dulce ni palabra más terrible, pues contiene en sus sílabas todo mi destino.\nEres el nombre de todas las cosas bellas, la definición exacta de lo que mi corazón anhela.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "nombres"
+  }
+}

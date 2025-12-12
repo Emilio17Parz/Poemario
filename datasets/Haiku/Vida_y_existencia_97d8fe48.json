@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Aquí y ahora,\nel único tesoro,\nlo demás huye.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "instante"
+  }
+}

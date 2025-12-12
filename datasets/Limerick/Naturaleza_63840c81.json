@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna en el cielo asomó,\nUn lobo a la noche aulló.\nEl río corrió,\nLa rama danzó,\nY el verde paisaje vibró.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "luna"
+  }
+}

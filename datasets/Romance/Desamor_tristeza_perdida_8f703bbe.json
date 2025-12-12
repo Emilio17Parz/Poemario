@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Silba el tren en la estación,\ncon un grito de metal,\ny tú subes al vagón\ncon un gesto muy formal.\nNo hubo besos ni abrazos,\nen este adiós final,\nsolo miradas perdidas\ny un silencio sepulcral.\nSe aleja la máquina negra,\npor la vía principal,\ny me deja en el andén\ncon mi pena capital.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "andén"
+  }
+}

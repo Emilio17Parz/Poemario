@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La noche es eterna, sin luna ni un sol que brilla (A),\nel negro que cubre hasta la última orilla (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Eterna"
+  }
+}

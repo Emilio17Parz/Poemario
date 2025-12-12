@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la llama de la gran pasión,\nquema mi pecho con su intensidad,\nfuego vivo que no muere,\nrompe los muros de la soledad.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

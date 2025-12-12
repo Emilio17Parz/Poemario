@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dragón guarda el tesoro en la cueva oscura, exhalando fuego y humo por la boca.\nEs el miedo antiguo, la bestia que debemos vencer para alcanzar la madurez.\nNo con la fuerza bruta, sino con el coraje y la inteligencia se derrota al monstruo.\nClavo mi lanza en su corazón y libero la luz que tenía prisionera.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

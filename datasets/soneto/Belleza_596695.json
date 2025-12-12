@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No está en la piel ni en la figura,\nni en el ojo claro o el pelo,\nes un brillo que rompe el velo,\ny muestra una noble altura.\n\nBondad, coraje y ternura,\nque dan al espíritu vuelo,\ny ofrecen al otro consuelo,\ncon una intención siempre pura.\n\nLa belleza física perece,\nse arruga y se vuelve ceniza,\npero la interior florece.\n\nCon una eterna sonrisa,\nque el tiempo jamás oscurece,\ny que el alma inmortaliza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "interior"
+  }
+}

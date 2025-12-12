@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Breve es el tiempo aquí,\neterna la vida allá.\nLo que el alma nos da\nno tiene fin en sí.\nVivo pensando en ti,\nmi Dios, Jehová.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El sol se muere en el occidente,\nsímbolo claro de nuestro fin.\nSilencio en el prado y el jardín,\nse apaga la vida de repente.\nMas queda el alma, luciente,\nsonando cual bello violín.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "occidente"
+  }
+}

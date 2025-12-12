@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Después de la batalla, el gran silencio,\nasí es mi vida desde que te fuiste,\nningún clarín, ni voz que presencio,\nsolo el eco de lo que dijiste.\nEl ruido del mundo es vano rumor,\nante el sepulcro de nuestro amor.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

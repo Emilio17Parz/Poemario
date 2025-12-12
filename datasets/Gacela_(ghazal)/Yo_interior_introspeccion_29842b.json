@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Pesa en la espalda la vieja culpa,\nno se me quita la vieja culpa.\n\nErrores pasados que vuelven hoy,\nfantasmas vivos de la vieja culpa.\n\nPerdonarme yo es lo más difícil,\npara borrar la vieja culpa.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, cual llama ardiente, nos viene a marcar,\nUn destino que ansiamos alcanzar,\nEs un noble y feliz sentimiento,\nQue conforta en cada momento,\nY nos guía sin duda al soñar.\n\nPuede el alma por siempre amar,\nDesterrando cualquier lamento,\nEl amor, cual llama ardiente.\n\nEs el fuego que nunca ha de cesar,\nEs el vínculo, un gran portento,\nQue nos lleva a otro bello lugar,\nA la dicha que sabe brillar,\nEl vivir de cada fragmento,\nLo que el cielo nos quiere otorgar,\nEl amor, cual llama ardiente.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

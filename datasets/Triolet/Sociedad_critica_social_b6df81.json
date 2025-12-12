@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La rueda gira,\nSin compasión,\nNadie respira.\nLa rueda gira,\nTodo es mentira,\nEn esta función.\nLa rueda gira,\nSin compasión.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "rueda"
+  }
+}

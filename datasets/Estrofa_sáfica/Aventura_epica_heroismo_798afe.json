@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Rompe la nave contra el arrecife,\ngritos de ahogo en la tempestad,\nsolo la muerte y la soledad,\ntriste destino.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No escondas la marca de la herida,\nes el mapa de tu propia vida.\nLa cicatriz muestra que sanaste,\nque luchaste y que continuaste.\nLlévala con orgullo y honor,\ncomo medalla de tu valor.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "cicatriz"
+  }
+}

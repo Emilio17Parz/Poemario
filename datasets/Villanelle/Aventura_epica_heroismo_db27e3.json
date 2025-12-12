@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Arena infinita,\ny sol abrasador,\nque me debilita.\n\nEl agua me incita,\ncon su frescor,\narena infinita.\n\nNadie me visita,\nen este dolor,\nque me debilita.\n\nMi alma grita,\ncon pavor,\narena infinita.\n\nSe marchita,\nla flor,\nque me debilita.\n\nSe agita,\nel calor,\narena infinita,\nque me debilita.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

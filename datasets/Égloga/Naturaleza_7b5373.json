@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El ciervo bebe en la clara fuente,\nla liebre corre por el matorral.\nTodo animal en su natural\nvive libre, feliz e inocente.\nEl hombre a veces, imprudente,\nrompe este equilibrio ancestral.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ciervo"
+  }
+}

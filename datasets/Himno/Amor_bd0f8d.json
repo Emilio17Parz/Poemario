@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Palabra sagrada que une dos vidas,\ncurando del tiempo las viejas heridas.\n¡Honor al juramento de amor eterno!,\nque vence al verano y al crudo invierno.\n\nYo te prometo mi ser y mi aliento,\nseré tu refugio y tu firme sustento.\nQue el cielo sea testigo de esta verdad,\nque sella por siempre nuestra voluntad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

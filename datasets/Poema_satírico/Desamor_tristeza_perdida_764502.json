@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Al menos el perro me quiere,\npiensas con consolación,\nmientras el alma se muere,\npor falta de relación.\nEl amor incondicional,\nde un ser irracional.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Perro"
+  }
+}

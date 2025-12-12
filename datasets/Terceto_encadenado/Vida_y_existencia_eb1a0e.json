@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hay una causa en todo mi existir (A),\nuna razón oculta, un gran porqué (B),\nla vida es la senda para seguir (A).\n\nLa fuerza que ayuda a mi alma a crecer (B),\nel alma que vuela, sin un final (C),\nla forma de no volver a caer (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en ella hallar la paz (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Causa"
+  }
+}

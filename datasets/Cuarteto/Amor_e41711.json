@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Recibo tus palabras en papel,\ny siento que me tocas con los dedos,\nse van las ansiedades y los miedos,\nleyendo tu mensaje siempre fiel.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "carta"
+  }
+}

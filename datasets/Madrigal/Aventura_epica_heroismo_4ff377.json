@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Estruendo de hierros y gritos fieros,\nel campo se tiñe de rojo sangre,\nla hambruna,\nde la muerte busca a sus guerreros.\nGloria amarga que cuesta tantas vidas,\nperdidas,\nen el juego cruel de la ambición,\ny la traición.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

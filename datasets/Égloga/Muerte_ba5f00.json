@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El invierno de la vida ha llegado,\nla nieve cubre el cabello cano.\nSe enfría el pulso de la mano\ny el corazón está cansado.\nPronto seré sepultado\nen el silencio del llano.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

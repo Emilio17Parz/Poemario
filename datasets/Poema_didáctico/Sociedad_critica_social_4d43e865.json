@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El grito es útil para despertar,\npero el diálogo construye puentes;\nno ganan los tonos más potentes,\nsino el que sabe bien razonar.\nUsa la palabra, no la agresión,\npara defender tu posición.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "grito"
+  }
+}

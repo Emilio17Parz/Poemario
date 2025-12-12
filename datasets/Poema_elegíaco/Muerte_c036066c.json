@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí descansa quien amé,\nbajo esta losa de piedra,\ndonde trepa la hiedra,\ny donde mi llanto dejé.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

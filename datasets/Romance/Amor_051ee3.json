@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juré por la cruz del cielo\nque nunca te dejaría,\ny aunque pasen mil inviernos\nmantendré la pleitesía.\nEres dueña de mi suerte\ny de toda mi alegría,\ny seré tu fiel amante\nhasta que se acabe el día.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

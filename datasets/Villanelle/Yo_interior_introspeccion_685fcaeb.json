@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Mi alma en su quietud me llama a ver,\nProfundo espejo de la realidad,\nY la verdad se muestra sin disfraz.\n\nA cada pensamiento he de volver,\nEn el rincón secreto de mi edad,\nMi alma en su quietud me llama a ver.\n\nCuando la sombra intenta enmudecer,\nY asalta con su frío la ciudad,\nY la verdad se muestra sin disfraz.\n\nAllí donde la duda hace crecer,\nUn muro de vacía oscuridad,\nMi alma en su quietud me llama a ver.\n\nNo importa lo que el mundo quiera ser,\nSi encuentro en mí la paz y claridad,\nY la verdad se muestra sin disfraz.\n\nCon cada aliento aprendo a florecer,\nMás allá de lo efímero o la vanidad,\nMi alma en su quietud me llama a ver,\nY la verdad se muestra sin disfraz.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "duda"
+  }
+}

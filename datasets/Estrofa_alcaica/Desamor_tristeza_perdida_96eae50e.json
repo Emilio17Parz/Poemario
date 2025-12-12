@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Alzas un muro de indiferencia y piedra,\nno oyes los gritos de quien te amó sincero,\ncrece espinosa la hiedra\ndonde plantamos nuestro romero.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "muro"
+  }
+}

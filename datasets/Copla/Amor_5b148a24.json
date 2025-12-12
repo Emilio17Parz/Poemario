@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te quiero más que a mis ojos,\nmás que a mi propia vida,\nporque sin ti, compañera,\nla tengo medio perdida.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "cariño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Temor al fin,\nen el jardín.\n\nDesconocido,\nlo perdido,\ny el ruido,\ndel flautín.\nTemor al fin,\nen el jardín.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

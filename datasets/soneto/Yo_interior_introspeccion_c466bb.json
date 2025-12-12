@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fuego que quema y empuja,\nmotor de la voluntad,\nque busca la realidad,\ndonde la dicha burbuja.\n\nA veces es trampa y bruja,\nque vende felicidad,\ny deja soledad,\ncual seca y vieja aguja.\n\n¿Qué es lo que quiero de veras?\n¿Es mío o es prestado?\n¿Son verdades o quimeras?\n\nEl deseo analizado,\nabre nuevas fronteras,\nal ser liberado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Que suba mi rezo como incienso perfumado ante tu presencia.\nNo son palabras vacías, es el grito del alma que busca su origen.\nEn la soledad de la noche, el rezo es el puente que une la tierra y el cielo.\nEscucha, Señor, la voz de mi súplica y dame tu paz.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

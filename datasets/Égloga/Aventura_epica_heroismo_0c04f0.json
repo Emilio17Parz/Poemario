@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Juré proteger este valle,\ncon mi vida y mi bastón,\ny no habrá león,\nque mi promesa acalle.\n\nAunque el miedo estalle,\nyo estaré vigilante,\ncomo un fiel amante,\nen cada calle.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Manto de paz en el ruido del mundo,\ndonde se halla el saber profundo!\nMaestro callado que todo lo enseña,\ny que del espíritu se adueña.\n\n¡Loor al silencio que cura y restaura,\ny que al pensamiento le da su aura!\nEn tu quietud se escucha la voz,\nque nos libra del tiempo veloz.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

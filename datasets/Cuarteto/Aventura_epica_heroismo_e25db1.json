@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No lucha por reyes, sino por la verdad,\npor el bien del pueblo, por la libertad,\nsu alma es noble, su gran caridad,\nla fuerza de la voluntad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Reyes"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Una llama ardiente que el tiempo no quiebra (A),\nel amor que siento con gran fulgor (B),\nla dulce esperanza que el alma celebra (A).\n\nMi vida sin ti no tiene valor (B),\nla música pura que al fin se alzó (C),\nel eterno canto de puro amor (B).\n\nPor ti mi alma vive, mi ser se gozó (C),\nla forma más noble de amar sin final (D),\nla vida que el destino me dio (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Llama"
+  }
+}

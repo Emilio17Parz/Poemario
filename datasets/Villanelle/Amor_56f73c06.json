@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo el amparo de la luna llena,\njuramos juntos amor inmortal,\nrompiendo al fin la pesada cadena.\n\nYa no hay tristeza ni existe la pena,\nsolo este gozo que es tan natural,\nbajo el amparo de la luna llena.\n\nTu voz suave mi mente serena,\ncomo el sonido de un manantial,\nrompiendo al fin la pesada cadena.\n\nEres la sangre que va por mi vena,\nla cura santa de todo mi mal,\nbajo el amparo de la luna llena.\n\nEsta pasión que a los dos nos enajena,\nes el principio y es el final,\nrompiendo al fin la pesada cadena.\n\nBrilla la noche en la playa y arena,\ntestigo mudo de nuestro ritual,\nbajo el amparo de la luna llena,\nrompiendo al fin la pesada cadena.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "luna"
+  }
+}

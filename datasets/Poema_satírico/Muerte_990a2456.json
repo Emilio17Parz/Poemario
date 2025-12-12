@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "### De la Muerte, Cuestión de Trámite\n\nA esa llamada sin cortesía,\nQue al más pintado viene a buscar,\nLa muerte, con su monótona porfía,\nNo tiene prisa, mas te va a llevar.\n\nQué inútil es la pomposa herencia,\nEl oro que en vida se amasó,\nSi al último aliento y con paciencia,\nEl gran igualador llegó.\n\nNi el culto al cuerpo, el gimnasio ardiente,\nLa dieta estricta, el yoga zen,\nTe salvan del instante sorprendente,\nCuando tu espíritu dice \"amén\".\n\nCon dramas fútiles, ritos paganos,\nSe viste de luto el personal,\nOlvidando que entre humanos,\nEs un trámite, algo trivial.\n\nNo importa si eres pobre o sultán,\nSi fuiste genio o simple peón,\nAl cabo de un breve afán,\nUn mismo, rotundo, definitivo fin.\n\nY así se cierra el libro, sin premura,\nUna comedia de triste final,\nDonde la gran y única censura\nEs ser mortal, y nada más.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "fin"
+  }
+}

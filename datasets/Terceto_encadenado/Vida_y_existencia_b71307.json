@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El esfuerzo da su recompensa,\nla obra hecha con la mano,\ny su valor es inmensa.\n\nHace digno al ser humano,\nque se gana el pan con sudor,\nen el campo o en el llano.\n\nCon mucho honor.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

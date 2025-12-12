@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo eres y en polvo te has convertido,\nla vanidad del mundo se deshace,\ndonde el cuerpo yace,\ntodo queda en el olvido.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

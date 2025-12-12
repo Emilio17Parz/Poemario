@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[EL ORADOR]\n(En la tribuna)\nSilencio. Os tengo. Mi voz no es mía, es el trueno de la verdad que queréis oír.\nVeo el miedo en vuestros ojos, la esperanza en vuestra boca. Sois arcilla.\nCon un cambio de tono, os hago reír o llorar, os llevo a la guerra o a la paz.\nLa belleza de la voz es el poder absoluto. Y yo soy su esclavo, y su dueño.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "voz"
+  }
+}

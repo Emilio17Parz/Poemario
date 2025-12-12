@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Ley inmutable de todo lo creado,\nque nada se quede por siempre estancado!\nEl río que fluye no es nunca el mismo,\nsaliendo a la luz desde el hondo abismo.\n\n¡Salve, oh cambio, renovación pura,\nque traes al mundo nueva hermosura!\nMorir para luego volver a nacer,\nes la gran tarea de todo el ser.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

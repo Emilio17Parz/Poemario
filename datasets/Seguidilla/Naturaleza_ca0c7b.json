@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento ligero,\nentre las ramas,\ny aviva de la hoguera,\nlas llamas.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "ligero"
+  }
+}

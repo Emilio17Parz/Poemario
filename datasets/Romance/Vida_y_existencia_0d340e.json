@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Guardo en el cofre del alma\nlos recuerdos del ayer,\nlas caras de los que amé\ny no volveré a ver.\nLa memoria es el refugio\ndonde puedo renacer,\nreviviendo los momentos\nque me hicieron florecer.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

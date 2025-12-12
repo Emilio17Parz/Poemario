@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Quién traza mi destino?\n¿Soy yo quien hace el polvo del camino?\n¿O está escrito en la estrella\nmi suerte y mi querella?\nCamino en el misterio,\nbuscando de mi ser el propio imperio.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "destino"
+  }
+}

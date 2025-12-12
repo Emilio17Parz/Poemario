@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dicen que es paz, final de la lucha,\nel descanso eterno, sin más dolor,\nla voz que del fondo se escucha,\nel último eco de nuestro candor.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

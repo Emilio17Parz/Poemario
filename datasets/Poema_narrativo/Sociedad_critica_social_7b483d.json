@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La radio dijo un nombre, el suyo al final,\nQue había sido robado, sin remedio fatal.\nElla lloró su suerte, creyendo el error,\nLa noticia es el veneno que mata el valor.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "noticia"
+  }
+}

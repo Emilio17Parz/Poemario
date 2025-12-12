@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurra el viento cruzando el bosque,\nmoviendo ramas con su suave mano,\nantes que el sol en la tarde se enrosque,\nsobre el perfil del horizonte lejano.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

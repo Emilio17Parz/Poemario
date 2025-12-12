@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dudo de todo y de nada\nen mi eterna confusión,\nno sé cuál es el camino\nni cuál es la razón.\nLa duda es mi compañera\nen esta prisión,\nque me obliga a pensar\nsin hallar solución.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "duda"
+  }
+}

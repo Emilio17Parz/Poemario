@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "SOL\n                LUZ\n               CIELO\n              AZUL\n             VIENTO\n            NUBES\n           MONTES\n          BOSQUE\n         VERDOR\n        FLORES\n       RÍO\n      TIERRA\n     ARENA\n    ESPUMA\n   OLAS\n  MAR",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "mar"
+  }
+}

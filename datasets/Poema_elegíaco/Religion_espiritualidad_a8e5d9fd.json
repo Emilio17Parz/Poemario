@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Se ha quebrado mi fe,\ncomo caña en la tormenta,\nmi espíritu lamenta,\nlo que ya no ve.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "fe"
+  }
+}

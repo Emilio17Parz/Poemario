@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Planto este árbol que no veré,\npara que otros gocen su sombra.\nMi nombre nadie lo nombra,\npero en sus ramas estaré.\nAsí en la tierra dejaré\nuna huella que no asombra.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "arbol"
+  }
+}

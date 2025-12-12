@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Renunciar al mundo no es huir al desierto, es vivir en el mercado sin que el mercado viva en ti.\nEs poseer las cosas sin ser poseído por ellas, sabiendo que el verdadero tesoro no se puede guardar en una caja.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "renuncia"
+  }
+}

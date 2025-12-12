@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Niebla espesa que todo lo borra,\nhaciendo que el nombre del hombre corra\nhacia la nada y la oscuridad,\nsegunda muerte, cruel realidad.\n\n¡Ay del olvido que traga la historia,\ny deja vacía nuestra memoria!\nSolo el amor puede hacer resistencia,\na tu implacable y dura sentencia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

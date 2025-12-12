@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Llama sagrada que nos orienta,\nUniendo la tierra con el cielo,\nZafando el alma de la tormenta.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "luz"
+  }
+}

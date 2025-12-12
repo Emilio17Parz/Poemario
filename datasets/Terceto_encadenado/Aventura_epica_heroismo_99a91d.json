@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Navego por el océano,\ncon el viento en la vela,\nlejos del mundo profano.\n\nEl agua deja su estela,\ny la sal curte la piel,\nmientras la noche vuela.\n\nSobre el riel.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "mar"
+  }
+}

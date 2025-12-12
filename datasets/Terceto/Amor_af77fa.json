@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi vida es promesa de eterno querer (A),\nla fe que te ofrezco, sin un final (A),\nla fuerza que ayuda a vencer (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Promesa"
+  }
+}

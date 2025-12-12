@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mala suerte,\ntrae la muerte.\n\nNadie escapa,\nde su capa,\nque nos atrapa,\ny es muy fuerte.\n\nMala suerte,\ntrae la muerte.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

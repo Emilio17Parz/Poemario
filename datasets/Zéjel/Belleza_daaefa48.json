@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene brillo,\nel amarillo.\n\nDe la joya,\nque no abolla,\ny se apoya,\nen el anillo.\n\nTiene brillo,\nel amarillo.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

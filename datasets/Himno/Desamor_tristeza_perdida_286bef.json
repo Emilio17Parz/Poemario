@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llegó el invierno con su mano helada,\nmató la flor en la tierra sembrada.\nViento del norte que hiela la sangre,\ny hace que el alma de pena se angre.\n\n¡Salve, estación de la blanca muerte,\nque has cambiado mi dichosa suerte!\nTodo es escarcha y todo es frialdad,\nreino absoluto de la soledad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

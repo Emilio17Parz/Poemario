@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tic tac que marca nuestro destino,\nImparable río que no vuelve,\nEs el juez de todo lo divino.\nMientras la vida se disuelve,\nPasa fugaz por el camino,\nOcultando lo que nos envuelve.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Del viejo hogar partió, sin miedo alguno,\nPor sendas ásperas de un mundo ignoto,\nSu fiel espada brilló, cortando sombras,\nGloria alcanzó.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "espada"
+  }
+}

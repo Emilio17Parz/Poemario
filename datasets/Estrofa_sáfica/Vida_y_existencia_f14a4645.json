@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Cuando la vida, misterio que pasa,\nel tiempo, un río que nunca regresa,\nnos da la chispa de breve existencia,\nfrágil regalo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

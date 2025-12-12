@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se ha partido mi vida en dos mitades,\nuna se fue contigo a la tumba oscura,\nla otra se queda en esta amargura,\nllena de soledad y de tempestades.\nCamino entre sombras y realidades,\nbuscando en vano tu noble figura,\npero solo encuentro la sepultura\ndonde duermen tus santas bondades.\nEsposo mío, compañero leal,\n¿cómo vivir sin tu guía y sustento?\nTodo me parece gris y fatal.\nElevo al cielo mi triste lamento,\npidiendo que llegue mi hora final\npara reunirme contigo en el viento.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "viudez"
+  }
+}

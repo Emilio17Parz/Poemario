@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Llegó un hombre malherido,\nde tierras de guerra y mal,\ny le dimos en el portal,\nrefugio y vestido.\n\nNos contó lo vivido,\nhazañas de gran valor,\ny sentimos el honor,\nde haberle socorrido.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "extranjero"
+  }
+}

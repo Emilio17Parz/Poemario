@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando la sombra al fin despliega su velo,\nY el pulso débil ya no encuentra el compás,\nEl alma libre, desprendida del suelo,\nEmprende el viaje, para nunca jamás.\n\nLa luz se apaga en el umbral profundo,\nUn hueco frío ocupa el sitio vital,\nY un eco leve se despide del mundo,\nDejando un hueco de dolor sin igual.\n\nNi voz, ni risa, ni el lamento sincero,\nSolo la ausencia que lo tiñe de gris.\nUn vasto, eterno, penetrante silencio,\nQue calla el eco de lo que fue feliz.\n\nEs el fin del suspiro, la paz prometida,\nLa orilla ignota, el último umbral.\nLa vida en pausa, la memoria encendida,\nUn sueño ajeno, un descanso final.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

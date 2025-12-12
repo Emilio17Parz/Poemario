@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Para qué estamos aquí,\ncuidando de este ganado?\n¿Cuál es el fin deseado,\ndesde el día en que nací?\n\nQuizás solo sea así,\nvivir y amar lo creado,\ny dejar un buen legado,\nantes de irme de ti.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

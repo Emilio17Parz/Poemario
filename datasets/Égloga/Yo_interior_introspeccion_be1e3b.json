@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Agradezco el aire,\ny el pan en la mesa,\nnada me pesa,\nen el desaire.\n\nDonaire,\nde vivir,\ny sentir,\nel baile.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "gratitud"
+  }
+}

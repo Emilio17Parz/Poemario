@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos hermanos\nde barro y de estrellas\nmismo dolor.\nBuscamos ser felices\nen este mundo azul.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "humanidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te confieso en la carta lo que siento,\ncon palabras de tinta y de papel,\nte envío en ella todo mi aliento,\ny mi amor que es tan dulce como miel.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "carta"
+  }
+}

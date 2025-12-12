@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Breve es la flor de la juventud,\npronto se seca y se deshace.\nTodo lo que en tierra nace\nvuelve a ella en quietud.\nEs la triste virtud\nde lo que aquí yace.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

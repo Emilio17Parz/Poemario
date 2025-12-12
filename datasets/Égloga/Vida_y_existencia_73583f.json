@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Libre es el águila real,\nque vuela sobre la cumbre,\nlejos de la pesadumbre,\ny del yugo terrenal.\n\nAsí quiero yo, igual,\nvivir sin amo ni dueño,\ncumpliendo mi propio sueño,\nen mi espacio natural.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

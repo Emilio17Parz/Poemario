@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Partir hacia lo lejano,\nsin saber si volveré,\ncon la brújula y la fe,\nen la palma de mi mano.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

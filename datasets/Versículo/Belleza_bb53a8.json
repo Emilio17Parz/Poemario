@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Contempla la flor del campo que no se afana ni hila, y sin embargo, ni Salomón con toda su gloria se vistió como ella.\nSu belleza es un regalo gratuito, un estallido de color que existe solo para celebrar el milagro de estar viva.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "flor"
+  }
+}

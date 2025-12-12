@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tras la tormenta busco la calma,\npuerto seguro es la dulce calma.\n\nRespiro profundo y dejo pasar,\nlas nubes negras, llega la calma.\n\nEl lago tranquilo refleja el sol,\nasí es mi mente cuando hay calma.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "calma"
+  }
+}

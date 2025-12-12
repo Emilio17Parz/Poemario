@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pantalones rotos,\ny zapatos feos,\ncuestan un dineral,\nestos nuevos deseos.\nLa moda es un chiste,\nque nos hace pagar,\npor parecer pobres,\ny mal vestir.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "moda"
+  }
+}

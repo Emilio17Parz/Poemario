@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Habla bajito, que el bosque escucha,\ny los árboles guardan secretos,\nde los amores y los afectos,\npor los que el corazón tanto lucha.\n\nTu voz suave es como una ducha,\nde agua fresca en día de estío,\ny yo te entrego el albedrío,\nde esta alma que te quiere mucha.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

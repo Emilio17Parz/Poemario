@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante de granito,\nque tocas con tu cima las estrellas;\nborrando antiguas huellas\ncon tu hito.\nDesde lo alto el mundo se hace breve,\nbajo la nieve.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

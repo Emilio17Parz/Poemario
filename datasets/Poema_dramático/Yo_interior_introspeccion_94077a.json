@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "[EL CULPABLE]\nNo hay dios que me pueda perdonar, porque la culpa vive en mí. Es mi sombra.\nLa llevo como una piedra en el estómago. Me obliga a no sonreír jamás.\nSoy un actor que finge ser libre. Pero cada paso es un grillete que suena.\nLa única liberación es la confesión. Pero si confieso, pierdo el poco mundo que me queda.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

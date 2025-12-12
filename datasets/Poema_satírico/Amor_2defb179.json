@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ese niño regordete y ciego,\nque dispara flechas al azar,\ndebería aprender a apuntar,\nantes de jugar con fuego.\nMe unió con un ser tan lego,\nque confunde amar con roncar,\ny ahora no puedo escapar,\nde este románticoiego.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "cupido"
+  }
+}

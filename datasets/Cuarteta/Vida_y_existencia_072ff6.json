@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos viajeros en un breve tren,\nque pasa rápido por la estación,\ndejando atrás todo el bien y el mal que hay en él,\nsin tener una explicación.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Viajero"
+  }
+}

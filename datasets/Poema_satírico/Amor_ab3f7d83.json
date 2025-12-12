@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dices que te enamoró mi alma,\nmi intelecto y mi dulce calma.\nPero veo tus ojos bajar,\na zonas que no voy a nombrar.\nDeja tranquila mi espiritualidad,\ny admite tu carnalidad.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "alma"
+  }
+}

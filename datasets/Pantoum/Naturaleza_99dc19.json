@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bendita agua que cae del cielo,\nsacia la sed de la raíz.\nRompe del campo el duro suelo,\npintando todo con matiz.\n\nSacia la sed de la raíz,\nhuele a tierra mojada y fresca.\nPintando todo con matiz,\npara que el fruto crezca.\n\nHuele a tierra mojada y fresca,\nrompe del campo el duro suelo.\nPara que el fruto crezca,\nbendita agua que cae del cielo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quiero borrarte de mi pensamiento,\nechar tu nombre al fondo del mar,\npara acabar con este tormento.\n\nBusco la calma en cada momento,\npero no logro dejar de llorar,\nquiero borrarte de mi pensamiento.\n\nEs el recuerdo un cruel instrumento,\nque no me deja nunca olvidar,\npara acabar con este tormento.\n\nFalta la fuerza y falta el sustento,\npara volver a poder empezar,\nquiero borrarte de mi pensamiento.\n\nSiento en el pecho un gran desaliento,\nver que no vuelves a regresar,\npara acabar con este tormento.\n\nSoy una sombra sin movimiento,\npresa del tiempo y su caminar,\nquiero borrarte de mi pensamiento,\npara acabar con este tormento.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

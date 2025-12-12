@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me toco el corazón y no lo siento,\nse ha vuelto un agujero negro y frío,\ndonde habita el silencio y el vacío,\ny sopla un huracán de sufrimiento.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

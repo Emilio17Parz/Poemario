@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando la nieve cubra nuestra frente\ny los pasos se tornen vacilantes,\nseremos dos ancianos caminantes\nque cruzan de la vida el postrer puente.\n\nPero mi amor será tan diferente,\nmás fuerte que en los años delirantes,\nmás puro que en los días de amantes,\nsereno, profundo y permanente.\n\nVeré en tus arrugas la historia nuestra,\ncada surco un recuerdo compartido,\nque el tiempo con orgullo nos muestra.\n\nNo habrá temor al tiempo ya perdido,\npues la mano que toma la vuestra\njamás la dejará en el olvido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

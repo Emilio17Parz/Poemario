@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No quiero joyas ni oro,\nni collares de coral,\nsolo quiero tu hermosura\nque no tiene rival.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "oro"
+  }
+}

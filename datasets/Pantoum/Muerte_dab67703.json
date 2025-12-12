@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nos envuelve el gran silencio,\ncuando el alma emprende el viaje,\nel misterio yo presencio,\nsin maletas ni equipaje.\n\nCuando el alma emprende el viaje,\nhacia el reino de la nada,\nsin maletas ni equipaje,\ntermina nuestra jornada.\n\nHacia el reino de la nada,\nnos envuelve el gran silencio,\ntermina nuestra jornada,\nel misterio yo presencio.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

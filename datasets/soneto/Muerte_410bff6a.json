@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Muerte, destino oscuro e inevitable,\nque silenciosa el hálito disuelves,\nmientras la prisa del vivir envuelves\nen un sudario frágil e inmutable.\n\nNo hay voz que te detenga, ser implacable,\nque con tu hoz las horas nos remueves,\ny en el abismo oscuro nos conmueves,\noh dueña de un reposo inescrutable.\n\n¿Qué ocultas tras tu velo, fin sereno?\nLa carne, polvo, vuelve a la morada\nque el tiempo insensible ha condensado.\n\nY en la fría **tumba**, nuestro cuerpo lleno\nde olvido, yace en paz, sin ser notada\nla ausencia que deja el alma a un lado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

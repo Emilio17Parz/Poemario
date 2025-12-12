@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres mi estrella más clara (a),\nque brilla sin un error (b),\nmi alma ya te declara (c),\nel más grande y puro amor (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Estrella"
+  }
+}

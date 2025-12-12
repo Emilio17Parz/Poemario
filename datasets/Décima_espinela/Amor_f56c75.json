@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aunque estés lejos de aquí,\nmi alma contigo vuela,\ny mi corazón se consuela,\npensando siempre en ti.\nLa distancia que medí,\nse acorta con el deseo,\ny aunque ahora no te veo,\nte siento en cada latido,\ncomo el tesoro querido,\ndel cual soy dueño y reo.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

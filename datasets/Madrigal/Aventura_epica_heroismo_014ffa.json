@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Espalda contra espalda en la pelea,\nconfianza ciega en el compañero,\nsincero,\nque no te falla aunque el mundo caiga.\nLa amistad se prueba en el peligro,\nyo emigro,\ndel miedo si tú estás junto a mí,\nasí.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "amigo"
+  }
+}

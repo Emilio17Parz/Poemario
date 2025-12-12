@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "C allando el exterior,\nA lma que se sosiega,\nL umbre en el interior,\nM irada que se entrega,\nA l silencio mayor.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "calma"
+  }
+}

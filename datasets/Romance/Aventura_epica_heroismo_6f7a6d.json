@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se retaron al amanecer\nlos dos mejores espadas,\npor el honor de una dama\ny unas palabras cruzadas.\nBrillaron los filos fríos\nen estocadas lanzadas,\nhasta que uno cayó muerto\ncon las ropas manchadas.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

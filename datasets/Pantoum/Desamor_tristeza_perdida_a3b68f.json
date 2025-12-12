@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El reloj marca tiempo perdido,\ntic-tac que golpea la sien.\nTodo el esfuerzo no ha valido,\npara que todo saliera bien.\n\nTic-tac que golpea la sien,\nminutos lentos de decepción.\nPara que todo saliera bien,\npuse mi alma y mi razón.\n\nMinutos lentos de decepción,\ntodo el esfuerzo no ha valido.\nPuse mi alma y mi razón,\nel reloj marca tiempo perdido.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

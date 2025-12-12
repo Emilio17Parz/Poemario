@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Bajo el castillo profundo,\nhumedad y cadenas,\nolvidado del mundo,\npagando las penas.\n\nHumedad y cadenas,\nratas y soledad,\npagando las penas,\nen la oscuridad.\n\nRatas y soledad,\nbajo el castillo profundo,\nen la oscuridad,\nolvidado del mundo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mazmorra"
+  }
+}

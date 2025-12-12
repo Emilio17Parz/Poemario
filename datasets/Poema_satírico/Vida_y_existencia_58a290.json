@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Celebrar que te mueres,\nun poco más cada año,\nsoplar velas si quieres,\nen este dulce engaño.\nComer tarta y reír,\npara no echarse a huir.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Cumpleaños"
+  }
+}

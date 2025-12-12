@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Callaron todas las voces,\nante el paso del cortejo,\nsolo se oye el consejo,\nde los vientos veloces.\nYa no existen los roces,\nni las luchas de ayer,\ntodo vuelve a caer,\nen un silencio profundo,\nque separa este mundo,\ndel que vamos a ver.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

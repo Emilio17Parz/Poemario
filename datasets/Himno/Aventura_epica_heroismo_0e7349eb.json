@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Marchad guerreros, paso adelante,\ncon la armadura y la espada fiel,\nhaced que tiemble el enemigo cruel,\ncon vuestra fuerza de gigante.\n\nNo hay retirada, solo la gloria,\no la muerte honrosa en la lid,\nseguid la huella del adalid,\npara escribir la nueva historia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "espada"
+  }
+}

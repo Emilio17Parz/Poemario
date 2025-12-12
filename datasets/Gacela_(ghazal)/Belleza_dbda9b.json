@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Gira el cuerpo en la etérea danza,\nvuelo sin alas, la etérea danza.\n\nRitmo que marca el latir de la vida,\npoema en gesto es la etérea danza.\n\nRompe cadenas y vence al peso,\nlibertad pura es la etérea danza.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "danza"
+  }
+}

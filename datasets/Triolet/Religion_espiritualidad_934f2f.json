@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El diablo,\ntienta.\nSi hablo,\nel diablo.\nSe sienta,\nen el establo.\nEl diablo,\ntienta.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "diablo"
+  }
+}

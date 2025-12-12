@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En ti florece mi eterno abril de vida,\ncon aroma a rosa, con dulce jazmín,\nla pena se aleja, la herida es cosida,\nel alma despierta sin fin.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Abril"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La montaña me llama sin un error (R1)\nMi alma se cubre sin un final (b)\nMi vida se llena de un noble y puro fulgor (R2)\n\nEl tiempo se para sin un temor (a)\nNo hay más que buscar, no hay más que el valor (b)\nLa montaña me llama sin un error (R1)\n\nLa esencia más pura de un noble amor (a)\nMi corazón ya no quiere más caer (b)\nMi vida se llena de un noble y puro fulgor (R2)\n\nMi vida es la senda de la gran razón (a)\nContigo yo quiero al fin vencer (b)\nLa montaña me llama sin un error (R1)\n\nEl alma te sigue sin un trajín (a)\nMi vida se vuelve un dulce jazmín (b)\nMi vida se llena de un noble y puro fulgor (R2)\n\nMi vida es un canto sin un mal (a)\nContigo mi alma es un dulce fanal (b)\nLa montaña me llama sin un error (R1)\nMi vida se llena de un noble y puro fulgor (R2)",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

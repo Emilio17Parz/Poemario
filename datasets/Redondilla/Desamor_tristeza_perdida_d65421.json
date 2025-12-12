@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor",
+  "poema": {
+    "texto": "El veneno no es mortal, (A)\nme castiga sin la razón, (B)\nmi alma ya sin perdón, (B)\nme causa ya un gran mal. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Veneno"
+  }
+}

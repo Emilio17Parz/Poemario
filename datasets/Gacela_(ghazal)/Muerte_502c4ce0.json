@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visten de negro las viudas llorosas,\nsobre las tumbas ponen las rosas.\n\nEl dolor se clava como mariposas,\nde alas oscuras y silenciosas.\n\nLa muerte se lleva las cosas hermosas,\ndejando las almas tristes y ansiosas.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "negro"
+  }
+}

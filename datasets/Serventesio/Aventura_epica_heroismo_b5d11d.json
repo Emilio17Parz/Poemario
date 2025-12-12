@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El canto del bardo, la historia que se va a narrar (A),\nla vida del héroe, su gran valor (B),\nla voz de la gloria que sabe volar (A),\nla esencia del puro amor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Canto"
+  }
+}

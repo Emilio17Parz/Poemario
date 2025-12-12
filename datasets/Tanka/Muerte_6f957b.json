@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Morir dos veces\ncuando nadie te nombra\nes el final.\nLucho contra la nada\nescribiendo tu nombre.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

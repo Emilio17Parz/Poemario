@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Hija de la alta rama,\nOndeas con la brisa.\nJuegas sobre la grama,\nAntes de irte deprisa.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "HOJA"
+  }
+}

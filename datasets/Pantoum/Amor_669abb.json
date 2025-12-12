@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Más allá de la muerte,\nseguiré a tu lado.\nEsa es mi suerte,\nhaberte encontrado.\n\nSeguiré a tu lado,\nen otra dimensión.\nHaberte encontrado,\nmi gran bendición.\n\nEn otra dimensión,\nmás allá de la muerte.\nMi gran bendición,\nesa es mi suerte.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

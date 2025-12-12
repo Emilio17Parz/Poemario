@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el río hacia la mar,\nllevando piedras y vida,\nnunca se puede parar,\nsu eterna y larga huida.\n\nLlevando piedras y vida,\ncanta el agua su canción,\nsu eterna y larga huida,\ncon fuerza y con emoción.\n\nCanta el agua su canción,\nnunca se puede parar,\ncon fuerza y con emoción,\ncorre el río hacia la mar.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "caudal"
+  }
+}

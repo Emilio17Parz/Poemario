@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Como ola en la playa,\nllegas a mi orilla,\ndejando la semilla,\ndonde el mar desmaya.\nQue nadie se vaya,\nni ponga zancadilla.\nComo ola.\n\nVaivén incesante,\nde espuma y de sal,\namor natural,\nfuerte y constante.\nEres mi amante,\nmi bien capital.\nComo ola.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "ola"
+  }
+}

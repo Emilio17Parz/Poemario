@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El león ruge, ¿quién no temerá? Habla el Señor Dios, ¿quién no profetizará? Fuerte es como el león entre las bestias.\nLibréme de la boca del león, y me has oído desde los cuernos de los búfalos; mi alma está entre leones.\nHuye el impío sin que nadie lo persiga; mas el justo está confiado como un león; su rugido estremece la tierra.\nHe aquí que el León de la tribu de Judá, la raíz de David, ha vencido para abrir el libro y desatar sus siete sellos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "león"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Terciopelo fragante y colorido,\nque se abre al beso del sol naciente,\nsonriente,\naunque su tiempo sea reducido.\nEn cada pétalo guarda un secreto,\ncompleto,\nde la belleza simple y natural,\nsin igual.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pétalo"
+  }
+}

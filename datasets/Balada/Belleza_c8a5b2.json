@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo en el mundo tiene su medida,\nsu proporción y su justa cabida,\ncuando las partes se unen en paz,\nla belleza muestra su hermosa faz.\nEs la armonía del caos vencido,\nel equilibrio por fin conseguido,\nque da descanso a nuestra mirada,\ny hace la vida más ordenada.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

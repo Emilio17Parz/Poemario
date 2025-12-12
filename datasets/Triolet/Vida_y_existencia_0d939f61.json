@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivo el hoy\ncon alegría,\nes lo que soy.\nVivo el hoy,\na donde voy\ncada día.\nVivo el hoy\ncon alegría.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "hoy"
+  }
+}

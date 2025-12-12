@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Somos las ruinas de una ciudad,\nmuros caídos, templo quebrado.\nFue destruida la lealtad,\npor el descuido del pasado.\n\nMuros caídos, templo quebrado,\nhierba que crece sobre el dolor.\nPor el descuido del pasado,\nmurió la flor, murió el amor.\n\nHierba que crece sobre el dolor,\nfue destruida la lealtad.\nMurió la flor, murió el amor,\nsomos las ruinas de una ciudad.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ruinas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pasarán años y milenios,\ny seguiré junto a tu lado.\nSomos dos astros, somos genios,\nde un universo enamorado.\n\nY seguiré junto a tu lado,\naunque la tierra deje de girar.\nDe un universo enamorado,\nnadie nos puede separar.\n\nAunque la tierra deje de girar,\npasarán años y milenios.\nNadie nos puede separar,\nsomos dos astros, somos genios.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tristán e Isolda bebieron el vino,\nla pócima mágica de la pasión,\ny quedaron atados en el corazón,\npor un trágico y cruel destino.\nSu amor fue más fuerte que el rey y el camino,\nmás fuerte que la vida y la razón,\ny en la muerte hallaron la unión,\nde un lazo sagrado y divino.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

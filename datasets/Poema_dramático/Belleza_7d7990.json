@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[EL FILÓSOFO]\nMe dicen que el universo es caos, guerra, dolor. Pero yo veo el orden.\nLa armonía no es la paz, es la perfecta tensión entre dos fuerzas opuestas.\nEl sol y la sombra. La risa y el llanto. Todo es necesario para el acorde.\nLa belleza es la matemática de la existencia. Y es implacable en su ley.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

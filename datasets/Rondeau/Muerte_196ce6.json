@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La noche oscura llega,\ny todo lo anega.\nSe apaga la vela,\ny el alma vuela,\nsin ninguna pega.\n\nLa vida se niega,\ny se doblega.\nNadie revela,\nla noche oscura.\n\nEl fin se juega,\ny se entrega.\nLa estela,\nque hiela,\nla vista ciega,\nla noche oscura.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "noche"
+  }
+}

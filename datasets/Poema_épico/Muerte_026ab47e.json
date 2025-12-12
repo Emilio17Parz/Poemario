@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llegó el jinete del caballo pálido,\nal campo donde la batalla ardía.\nSe oscureció la luz del mediodía,\ny el brazo del héroe se volvió inválido.\nNadie escapa al filo de su guadaña,\nni en la llanura ni en la montaña.\nEs el decreto del absoluto fin,\nque suena más fuerte que cualquier clarín.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "fin"
+  }
+}

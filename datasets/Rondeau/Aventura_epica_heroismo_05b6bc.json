@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El héroe va,\ny vencerá.\nCon espada,\nplateada,\nestá.\n\nNo se irá,\nni huirá.\nLa jornada,\nel héroe va.\n\nEl papá,\ny mamá.\nLa amada,\nencantada,\nverá,\nel héroe va.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

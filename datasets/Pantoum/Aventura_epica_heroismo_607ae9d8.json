@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El llamado del hado, aventura sin fin,\nPor sendas ignotas, el héroe cabalga.\nEl llamado del hado, aventura sin fin,\nCon pasos firmes, su gesta se alza.\n\nPor sendas ignotas, el héroe cabalga,\nBajo cielos hostiles, su valor es la guía.\nCon pasos firmes, su gesta se alza,\nLa fe inquebrantable que nunca desmaya.\n\nBajo cielos hostiles, su valor es la guía,\nLa <b>espada</b> en su puño, un fuego sagrado.\nLa fe inquebrantable que nunca desmaya,\nDesafiando al abismo, su espíritu osado.\n\nLa <b>espada</b> en su puño, un fuego sagrado,\nEl llamado del hado, aventura sin fin,\nDesafiando al abismo, su espíritu osado,\nPor sendas ignotas, el héroe cabalga.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espada"
+  }
+}

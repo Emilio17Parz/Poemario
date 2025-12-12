@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El hálito final, suspiro helado,\nApaga el sol que fue del corazón,\nY deja un hueco inmenso, desolado.\n\nMas no es el fin de toda la razón,\nPues tu esencia no muere, persistente,\nPerdura en cada dulce evocación.\n\nTu voz, tu risa, tu mirada ausente,\nSe aferran a mi alma sin desmayo,\nY en mi memoria brillan, vivamente.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

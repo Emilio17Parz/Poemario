@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Lloro la fuga del veloz tiempo,\nque se llevó mi juventud florida,\ndejando atrás la fuerza de la vida,\ncomo un fugaz y breve pasatiempo.\nLas horas caen como hojas secas,\ny quedan las miradas grises y huecas.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Pesa el acero en la mano,\nfrío y letal.\nLa espada no juzga,\nsolo corta.\nEs la herramienta del guerrero,\ndefensora o verdugo,\ndepende del corazón\nque late tras la empuñadura.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "espada"
+  }
+}

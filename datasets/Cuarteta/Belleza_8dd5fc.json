@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La voz cristalina del dulce canto,\nes la belleza que no tiene par,\nque quita el dolor, que rompe el espanto,\nla calma que viene a sanar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Voz"
+  }
+}

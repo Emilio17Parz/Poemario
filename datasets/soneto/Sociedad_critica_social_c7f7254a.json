@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Señora de ojos vendados,\nque portas balanza y espada,\n¿por qué tu sentencia sagrada\nse inclina a los lados pagados?\n\nA veces los desamparados\nesperan tu voz aclamada,\ny encuentran la puerta cerrada\nmientras ríen los malvados.\n\nJusticia, debieras ser ciega,\nigual para el rico y el pobre,\npero el interés te doblega.\n\nOjalá tu virtud se recobre,\ny des a quien lucha y brega\nla paz que tu fallo le sobre.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "frío temprano",
   "poema": {
     "texto": "Muerde el frío\\nmis manos quietas\\ntiembla la escarcha\\nsobre la noche",

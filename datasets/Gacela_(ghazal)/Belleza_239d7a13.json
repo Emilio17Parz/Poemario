@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La vida es breve, eterno queda el arte,\ny el alma del artista vive en su arte.\n\nPintura, poesía, mármol y voz,\ntodo lo vence el tiempo, menos el arte.\n\nBuscamos la belleza para salvarnos,\ny la encontramos siempre dentro del arte.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Yace olvidado en la pequeña tumba\nquien fue gigante en su vital jornada,\ny hoy su grandeza no nos dice nada\npues ante el polvo el honor se derrumba.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hay un inmenso y tétrico vacío,\ndonde antes florecían las promesas,\nahora son cenizas en las mesas,\ny en mi interior un implacable frío.\nLloro por la ilusión que se marchó,\ny por el hombre que en mí se murió.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

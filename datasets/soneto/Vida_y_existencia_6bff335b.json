@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El soplo inicial, el misterio que el alma crea,\nun laberinto gris, la senda sin final,\ndonde la duda eterna al corazón golpea,\nen este andar confuso, ¿qué será lo real?\n\nLos días pasan lentos, veloces, sin cesar,\nun tenue hilo teje el ser, la esencia pura,\nmas cada paso incierto, ¿dónde irá a parar?\nbajo la luz que gasta nuestra frágil figura.\n\n¿Hay, pues, un rumbo fijo, una escrita verdad,\nque rige nuestra vida, con poder inmutable?\n¿O somos solo el eco de una vasta orfandad,\nbuscando en cada encuentro algo perdurable?\n\nQuizá el destino es la elección, el rito,\nel arte de vivir, lo que de mí he escrito.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "destino"
+  }
+}

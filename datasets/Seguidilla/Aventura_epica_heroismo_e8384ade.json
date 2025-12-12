@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La ruta me llama\ncon fe y ardor,\nmi alma no duda,\ncon su valor.\n\nEl mal se levanta,\ncon vil furor,\ndel cinto mi espada\nsalta al honor.\n\nMis pasos audaces\nsiembran amor,\nla gloria se teje\nde mi sudor.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un espada resplandece en la aurora mística.\nUn viaje ancestral, el destino clama ya.\nEl valor de un alma, promesa fantástica.\nPor senderos sombríos, la gesta ascenderá.\n\nUn viaje ancestral, el destino clama ya.\nEl corazón del héroe no teme la oscuridad.\nPor senderos sombríos, la gesta ascenderá.\nSu espíritu noble defiende la verdad.\n\nEl corazón del héroe no teme la oscuridad.\nCon cada paso forja su inmortal honor.\nSu espíritu noble defiende la verdad.\nLas leyendas antiguas su nombre cantarán.\n\nCon cada paso forja su inmortal honor.\nUn espada resplandece en la aurora mística.\nLas leyendas antiguas su nombre cantarán.\nEl valor de un alma, promesa fantástica.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "honor"
+  }
+}

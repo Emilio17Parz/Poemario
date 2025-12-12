@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Plantar el estandarte en tierra nueva,\nreclamar el mundo para el imperio,\nel misterio,\nde lo desconocido que nos lleva.\nOrgullo y codicia mueven los pasos,\nfracasos,\ny glorias se mezclan en la misión,\nde la nación.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

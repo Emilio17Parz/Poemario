@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Perdona mis errores,\nmis culpas, mis pecados y temores.\nLímpiame con tu gracia,\nque mi sed siempre sacia.\nRenuevo mi promesa\nde servirte con alma y con franqueza.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

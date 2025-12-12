@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la flor más bella del jardín,\nroja pasión que mi vivir adorna,\ntodo mi ser a tu querer retorna,\nrosa divina.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "flor"
+  }
+}

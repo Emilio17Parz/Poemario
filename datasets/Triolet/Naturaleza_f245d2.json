@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol brilla en lo alto,\ndando luz y calor.\nSin sobresalto,\nel sol brilla en lo alto.\nYo doy un salto,\nviendo su color.\nEl sol brilla en lo alto,\ndando luz y calor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Aparece una cara,\nen la tostada quemada,\nla gente se para,\ny queda maravillada.\nPareidolia sagrada,\npara la fe desesperada.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Milagro"
+  }
+}

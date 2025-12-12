@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tememos aquello que no sabemos,\nla oscuridad que no conocemos.\nMas la muerte puede ser descanso,\nun río tranquilo, un sueño manso.\nPerder el miedo es ganar la vida,\ny disfrutarla sin medida.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

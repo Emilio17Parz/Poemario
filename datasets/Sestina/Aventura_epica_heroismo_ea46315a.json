@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Alcanzan la victoria,\ntras la dura contienda,\ny ondean la bandera.\nYa la paz espera,\na los que regresan,\ncubiertos de gloria.\n\nDe gloria,\nla victoria,\nque besan.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fui un fuego muy alto,\ny ahora soy solo ceniza.\nEl amor fue un asalto\nque el tiempo no divisa.\n\nQuedan restos grises\nde la pasión que ardió,\nmi alma no cicatriza\nsin el fuego que dio.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

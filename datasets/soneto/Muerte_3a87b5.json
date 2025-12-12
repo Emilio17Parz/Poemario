@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La verdadera muerte es el olvido,\ncuando nadie visita la fosa,\nni pone una flor o una rosa,\nni recuerda lo sucedido.\n\nSer un nombre desconocido,\nuna fecha ya borrosa,\nen una lápida mohosa\nque el tiempo ha carcomido.\n\nLucho contra esa segunda muerte,\nescribiendo versos y canciones,\npara cambiar mi suerte.\n\nQue vivan mis emociones\nmás allá de mi cuerpo inerte,\nen futuras generaciones.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "lápida"
+  }
+}

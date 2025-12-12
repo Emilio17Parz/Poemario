@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Cofre sagrado de lo que ha vivido,\nrescatando al ser del oscuro olvido!\nGuardas los rostros, las voces, los hechos,\nen los escondidos y hondos pechos.\n\n¡Gloria a la memoria, raíz del presente,\nque mantienes viva la llama en la mente!\nSin ti no somos más que polvo y viento,\nperdidos sin rumbo ni fundamento.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

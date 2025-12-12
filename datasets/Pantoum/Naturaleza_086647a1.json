@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Caen las hojas doradas,\nel viento las lleva,\npor sendas pisadas,\nque el tiempo renueva.\n\nEl viento las lleva,\nlejos del árbol,\nque el tiempo renueva,\ncon frío de mármol.\n\nLejos del árbol,\ncaen las hojas doradas,\ncon frío de mármol,\npor sendas pisadas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

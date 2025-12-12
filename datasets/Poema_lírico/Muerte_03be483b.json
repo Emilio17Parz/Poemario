@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo se envuelve en un manto de paz,\ncuando la muerte nos viene a buscar,\nya no hay palabras que puedan hablar,\nsolo el silencio profundo y veraz.\nCae del rostro el humano disfraz,\ny el alma empieza por fin a volar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

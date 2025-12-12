@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Es mi mente un cuarto oscuro\nlleno de ecos y ruido,\ndonde guardo lo que temo\ny lo que ya he perdido.\nA veces quiero callarla,\ndejarla en el olvido,\npero ella sigue tejiendo\nsu tapiz descolorido.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "mente"
+  }
+}

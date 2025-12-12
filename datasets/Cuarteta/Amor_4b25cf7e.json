@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres luz de mi alma\ny sosiego de mi ser,\ntú me das la dulce calma\nque yo quiero poseer.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "alma"
+  }
+}

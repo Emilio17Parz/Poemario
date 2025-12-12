@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se extingue la última luz,\nentra la oscuridad total,\ncargamos con la cruz,\ndel destino fatal.\n\nEntra la oscuridad total,\nlos ojos ya no ven,\ndel destino fatal,\nnadie sabe el quién.\n\nLos ojos ya no ven,\ncargamos con la cruz,\nnadie sabe el quién,\nse extingue la última luz.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "luz"
+  }
+}

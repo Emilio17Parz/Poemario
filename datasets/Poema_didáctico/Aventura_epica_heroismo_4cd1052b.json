@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El honor es tu armadura,\nmantenla limpia y pura.\nCumple siempre tu palabra,\naunque el abismo se abra.\nVale más morir honrado,\nque vivir avergonzado.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "honor"
+  }
+}

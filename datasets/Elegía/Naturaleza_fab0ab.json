@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Estrella que ocultas tu luz sin fin,\nel faro que el alma no puede ver.\nTu brillo es sombra, sin un solo ín,\nel alma sin un gran poder.\nTu chispa se va, la calma es cruel,\nla pena que el tiempo ve la hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Estrella"
+  }
+}

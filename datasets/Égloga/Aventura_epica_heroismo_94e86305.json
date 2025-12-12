@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "SOLDADO: Busqué la gloria en cien batallas,\ny solo hallé polvo y sangre en el suelo.\nPASTOR: Aquí la gloria es mirar al cielo,\nsin armaduras ni férreas mallas.\nLa paz del campo vale más que el oro,\nese es, amigo, el mayor tesoro.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El artista talló,\nen mármol blanco,\nun cuerpo franco,\nque lo enamoró.\nEra tan perfecta,\nque pidió a la diosa,\ndarle vida hermosa,\nde forma directa.\nLa estatua respiró,\ny a él besó.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

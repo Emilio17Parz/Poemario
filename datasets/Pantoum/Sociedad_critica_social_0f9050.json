@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Luces de neón ciegan,\nruido de motor.\nLas almas navegan,\nsin ningún amor.\n\nRuido de motor,\nprisa en la acera.\nSin ningún amor,\nvida pasajera.\n\nPrisa en la acera,\nlas almas navegan.\nVida pasajera,\nluces de neón ciegan.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

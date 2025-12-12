@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Un místico que buscó la luz,\nHalló en su alma la paz de Jesús.\nCon fe singular,\nLogró vislumbrar,\nUn gozo que alivia la cruz.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "luz"
+  }
+}

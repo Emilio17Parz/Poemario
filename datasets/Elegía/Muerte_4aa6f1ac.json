@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Adiós, pequeño amigo de pelo y lealtad,\nque sin hablar dijiste tanto,\nhoy mi casa se viste de llanto\ny se llena de fría soledad.\nYa no escucharé tu paso en la ciudad,\nni tu ladrido que era un canto,\nte cubre ahora el negro manto\nde la eterna y quieta oscuridad.\nFuiste puro amor sin condición,\nun ángel de cuatro patas,\nque alegraba mi corazón.\nHoy las penas se desatan,\ny en esta triste canción,\nmis lágrimas te rescatan.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "mascota"
+  }
+}

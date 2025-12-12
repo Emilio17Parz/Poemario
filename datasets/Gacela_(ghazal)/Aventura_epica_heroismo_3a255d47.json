@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cruza el viajero la arena ardiente,\nbuscando el agua de la fuente.\n\nEl sol castiga su alta frente,\ny el espejismo le miente.\n\nPrueba de fuego para el valiente,\nque sobrevive al sol naciente.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "sed"
+  }
+}

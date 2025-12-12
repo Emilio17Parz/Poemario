@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dejaste un gran vacío\nen la estancia callada de mi vida,\nuna abierta herida\nque tiembla con el frío.\nYa no eres amor mío,\ny en esta despedida\nse secó la corriente de mi río.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

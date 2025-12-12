@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te prometo la lealtad del sol que sale cada mañana, sin falta, sin excusa, venciendo a la noche.\nTe prometo la paciencia de la piedra que espera ser tallada para revelar la escultura que lleva dentro.\nNo con palabras que el viento dispersa, sino con actos que se asientan como cimientos profundos.\nMi amor será tu casa, tu refugio, la muralla que te proteja cuando el mundo se vuelva hostil.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

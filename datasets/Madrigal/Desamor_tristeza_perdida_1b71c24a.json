@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Qué larga es la jornada\nsin ver la luz de tu dulce mirada.\nTu ausencia me devora,\npasa lenta la hora.\nRegresa, te lo ruego,\no moriré quemado en este fuego.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando el alma se rinde a tu presencia,\nY la vida en tus ojos se dibuja,\nUna caricia dulce que me empuja\nHacia el abismo de tu pura esencia.\n\nEs el sol que disipa la inclemencia,\nUn faro en la tormenta que no ceja,\nPromesa eterna que mi ser coteja,\nLa única verdad, sin reticencia.\n\nTu voz es melodía que me calma,\nUn eco eterno que mi ser encierra,\nDonde el amor derrama toda su luz.\n\nY en ti mi **corazón** halla su alma,\nUn paraíso fiel sobre la tierra,\nMi redención, mi propia y dulce cruz.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

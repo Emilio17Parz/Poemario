@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras que tejen la magia,\ndel ritmo y de la rima,\ncurando la hemorragia.\n\nEl alma se contagia,\nde lo que se estima,\npalabras que tejen la magia.\n\nNadie presagia,\nla fuerza que anima,\ncurando la hemorragia.\n\nDulce pelagia,\nque nos sublima,\npalabras que tejen la magia.\n\nNo hay artilagia,\nque nos oprima,\ncurando la hemorragia.\n\nSanta adagia,\nque llega a la cima,\npalabras que tejen la magia,\ncurando la hemorragia.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

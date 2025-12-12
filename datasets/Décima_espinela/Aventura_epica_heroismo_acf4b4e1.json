@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Despliego el mapa viejo\nbuscando tierras nuevas,\ndonde el viento te llevas\ny el sol deja su reflejo.\nSigo el sabio consejo\nde la estrella polar,\ny me lanzo a caminar\npor rutas desconocidas,\nviviendo mil vidas\nsin querer regresar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

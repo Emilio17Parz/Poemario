@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un grito antiguo en el viento resonó.\nLa espada al cinto, el héroe despertó.\nUn sendero ignoto, el destino marcó.\nEl viejo mundo en su sueño se ahogó.\n\nLa espada al cinto, el héroe despertó,\nCon alma de fuego, el miedo enfrentó.\nEl viejo mundo en su sueño se ahogó,\nLa gloria eterna su alma buscó.\n\nCon alma de fuego, el miedo enfrentó.\nPor valles sombríos su sombra viajó.\nLa gloria eterna su alma buscó,\nUn eco valiente su nombre forjó.\n\nPor valles sombríos su sombra viajó,\nUn sendero ignoto, el destino marcó.\nUn eco valiente su nombre forjó,\nUn grito antiguo en el viento resonó.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espada"
+  }
+}

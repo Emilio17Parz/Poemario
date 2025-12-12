@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No fue el puñal de acero el que mató\nla confianza que en ti depositaba,\nfue la mentira vil que se ocultaba\ntras el beso que falsa me entregó.\n\nEl mundo de cristal se quebró,\ny la verdad desnuda se mostraba:\ntu corazón a otro ya amaba\nmientras mi fe contigo caminó.\n\nLa traición tiene gusto a hiel amarga,\ny deja cicatriz que no se borra,\nuna pena pesada, lenta y larga.\n\nOjalá que el destino te socorra,\npues llevas en tu espalda negra carga,\ny no habrá quien del culpa te descorra.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "traición"
+  }
+}

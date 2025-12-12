@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Muere la flor,\nseca y marchita.\nSin color,\nmuere la flor.\nEl dolor,\nnos visita.\nMuere la flor,\nseca y marchita.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "flor"
+  }
+}

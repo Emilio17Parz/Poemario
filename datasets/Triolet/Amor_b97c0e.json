@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus ojos son mi claro cielo,\nDonde quiero siempre volar,\nQuitándome todo el desvelo.\nTus ojos son mi claro cielo,\nMi único y gran anhelo,\nEs en ellos descansar.\nTus ojos son mi claro cielo,\nDonde quiero siempre volar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "volar"
+  }
+}

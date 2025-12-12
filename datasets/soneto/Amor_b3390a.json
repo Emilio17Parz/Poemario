@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú dictas cada verso que yo escribo,\ntú pones la cadencia y la rima,\neres quien a mi pluma desanima\no le da el fuego para estar vivo.\n\nDe tu belleza soy el gran cautivo,\ny escalo de la poesía la cima\ncuando tu inspiración se me aproxima\ncon un poder intenso y decisivo.\n\nNo existirían sonetos ni canciones\nsi tu luz no alumbrara mi papel,\nllenando de color los rincones.\n\nEres el arte, el lienzo y el pincel,\nla dueña de mis pobres ilusiones,\ny el sabor de la más dulce miel.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pluma"
+  }
+}

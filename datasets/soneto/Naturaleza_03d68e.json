@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante azul que abrazas la ribera,\nespejo donde el cielo se contempla,\ntu fuerza inmensa el ánimo nos templa\ny tu canción eterna nos espera.\n\nRuges con furia, bestia y fiera,\no duermes calmo cuando el viento amaina,\nguardando en tu profunda y negra vaina\nsecretos de una edad que ya no fuera.\n\nTe miro y siento mi pequeñez humana,\nante tu vasto y líquido horizonte\nque se pierde en la bruma lejana.\n\nEres la sangre del mundo, el gran foronte,\nque limpia la miseria y la desgana,\ny besa con espuma el pie del monte.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "azul"
+  }
+}

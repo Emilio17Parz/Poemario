@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde es el valle que se abre,\nEl sol dorado alumbra ya.\nAlta y serena la montaña,\nDonde el viento siempre va.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

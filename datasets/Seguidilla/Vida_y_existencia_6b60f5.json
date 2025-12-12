@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El grito de vida (7a),\nque rompe la paz (5b),\nmi alma ya no es herida (7c),\nque viene tenaz (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

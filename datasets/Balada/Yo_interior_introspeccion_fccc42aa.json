@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "A veces siento que enloquezco,\nen este mundo tan atroz,\nque poco a poco perezco,\nbajo el peso de la voz.\nUna voz que es feroz,\ny me persigue veloz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "locura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caer y volver a levantarse,\nde las cenizas como el fénix,\ncurando la herida y el hélix,\nsin dejarse nunca quebrarse.\n\nLa vida permite reinventarse,\nbuscando nuevos arcoíris,\ndejando atrás las crisis,\ny volviendo a ilusionarse.\n\nCada día es un nacimiento,\nuna hoja blanca por llenar,\ncon tinta de nuevo aliento.\n\nOlvidar lo malo y sanar,\nsoltar el viejo sufrimiento,\ny volver a empezar a andar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "renacer"
+  }
+}

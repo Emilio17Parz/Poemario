@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La risa es medicina,\nPara el alma triste,\nQue se avecina.\nLa risa es medicina,\nQue ilumina,\nLo que viste.\nLa risa es medicina,\nPara el alma triste.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "risa"
+  }
+}

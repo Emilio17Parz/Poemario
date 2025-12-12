@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Resuenan mis pasos a solas,\nen la calle oscura y mojada,\ncomo se rompen las olas,\nmi alma se siente pesada.\n\nEn la calle oscura y mojada,\nbusco tu rostro y no está,\nmi alma se siente pesada,\npregunto dónde andará.\n\nBusco tu rostro y no está,\ncomo se rompen las olas,\npregunto dónde andará,\nresuenan mis pasos a solas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "pasos"
+  }
+}

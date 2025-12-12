@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Es la leyenda,\nque se comprenda,\ndel pasado,\nrecordado,\ncomo ofenda.\n\nSin la venda,\nes la leyenda.\n\nQue se atienda,\ny defienda,\nlo amado,\ny soñado,\nen la senda.\nEs la leyenda.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

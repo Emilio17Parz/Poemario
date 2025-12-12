@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Libro santo,\nque nos lee,\ny se cree,\ncon el canto.\nCura el llanto,\ncon su voz,\nque es veloz,\ny es encanto.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "biblia"
+  }
+}

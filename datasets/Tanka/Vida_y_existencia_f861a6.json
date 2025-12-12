@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Romper cadenas\nvolar sin ataduras\nser uno mismo.\nEl aire fresco entra\nen el pulmón abierto.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

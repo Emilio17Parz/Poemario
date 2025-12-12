@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Busco paz\nen el fin\ndescansar\nen el fin\nbusco paz",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "paz"
+  }
+}

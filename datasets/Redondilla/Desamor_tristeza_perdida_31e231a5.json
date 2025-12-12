@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me engañaste sin piedad\ncon mentiras y traición,\nrompiendo mi corazón\ny toda mi felicidad.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

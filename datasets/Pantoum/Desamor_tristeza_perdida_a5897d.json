@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La niebla cubre nuestro sendero,\nya no distingo a dónde vas.\nFui para ti un pasajero,\ny tú un recuerdo que dejas atrás.\n\nYa no distingo a dónde vas,\ntodo se vuelve difuso y gris.\nY tú un recuerdo que dejas atrás,\nborrando el mapa de mi país.\n\nTodo se vuelve difuso y gris,\nfui para ti un pasajero.\nBorrando el mapa de mi país,\nla niebla cubre nuestro sendero.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "niebla"
+  }
+}

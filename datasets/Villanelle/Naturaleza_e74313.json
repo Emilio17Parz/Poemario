@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurran los árboles su canción,\nbajo la luz de la luna llena,\nguardando secretos en su interior.\n\nEs un refugio de paz y de unión,\ndonde el alma se siente serena,\nsusurran los árboles su canción.\n\nLejos del ruido y de la confusión,\nla vida salvaje corre sin pena,\nguardando secretos en su interior.\n\nCada hoja vibra con emoción,\ny el viento suave las desordena,\nsusurran los árboles su canción.\n\nEs la más pura y verde oración,\nque la naturaleza estrena,\nguardando secretos en su interior.\n\nEn esta mágica y gran mansión,\nla belleza eterna se almacena,\nsusurran los árboles su canción,\nguardando secretos en su interior.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

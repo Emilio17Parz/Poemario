@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dura y fría,\na veces no queremos\nverla de frente.\nPero solo la verdad\nnos hará libres hoy.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

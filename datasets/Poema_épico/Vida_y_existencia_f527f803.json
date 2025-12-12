@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscó el caballero el Grial sagrado,\nque contenía la pura verdad.\nCruzó los desiertos de la soledad,\ny enfrentó al dragón del miedo pasado.\nAl final halló la copa vacía,\ny una voz que desde el cielo decía:\n'La verdad no es premio, es la propia búsqueda,\nla luz que en tu alma siempre se queda'.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

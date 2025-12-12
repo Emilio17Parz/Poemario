@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde manto,\nde árboles mil,\nen abril,\ncausa encanto.\nOigo el canto,\ndel pájaro,\nque amparo,\nen mi llanto.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

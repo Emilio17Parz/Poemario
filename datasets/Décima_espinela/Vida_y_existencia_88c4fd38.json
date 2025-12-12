@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La dicha no es permanente,\nes un pájaro fugaz,\nun momento de gran paz\nque se siente de repente.\nHay que tener en la mente\nque se va como el rocío,\npero llena el vacío\ncon su luz y su calor,\ndejando un dulce sabor\nen medio del gran hastío.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "instante"
+  }
+}

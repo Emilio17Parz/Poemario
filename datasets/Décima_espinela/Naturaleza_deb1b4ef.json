@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque un verde manto,\nla senda, flor silvestre,\nel ruiseñor campestre,\nme embriaga con su canto,\ndespierta un nuevo encanto.\n\nLos pájaros cantores,\nentonan sus amores,\ncuando la luna, pura,\ndespierta su figura,\ncon mágicos fulgores.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "luna"
+  }
+}

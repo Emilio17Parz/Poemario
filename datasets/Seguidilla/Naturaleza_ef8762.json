@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ruge la tormenta,\ncon gran pavor,\ny nos llena a todos,\nde temor.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "pavor"
+  }
+}

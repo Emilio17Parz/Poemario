@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Ante la oscura sombra, se despierta el ardor,\nY en cada paso incierto, se forja el valor.\n\nCruzando reinos míticos, sin rastro de temor,\nEnfrento al gran dragón, prueba de mi valor.\n\nLos acantilados gritan, un ancestral clamor,\nMas mi espíritu no cede, muestra su valor.\n\nPor mis hermanos caídos, por un mundo mejor,\nCada herida es un pacto, renueva el valor.\n\nLa espada es mi amiga, mi escudo un fulgor,\nEn la batalla eterna, se alza el valor.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Escucha el trino del ruiseñor,\ny el gorjeo de la calandria,\nno hay música en Alejandría,\nque tenga tan dulce valor.\n\nCantan al día y al creador,\ncon libertad y sin medida,\ncelebrando la propia vida,\ncon su pluma y su color.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "aves"
+  }
+}

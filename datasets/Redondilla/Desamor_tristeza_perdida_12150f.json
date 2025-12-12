@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La casa está vacía,\nsin tu risa y tu voz,\nes un silencio atroz,\nque mata mi alegría.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

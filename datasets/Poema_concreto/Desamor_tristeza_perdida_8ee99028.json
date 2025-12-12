@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "A      D      I      Ó      S\n  d      i      o      s\n    i      o      s\n      o      s\n        s",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

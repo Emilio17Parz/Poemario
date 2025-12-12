@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El pueblo vistió el negro, por un mes y un día,\nLa tristeza era el aire que se respiraba allí.\nLa viuda no comía, el huérfano no hablaba,\nEl luto era la tinta con que el alma se grababa.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "luto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "L\n U\n  Z\n   B\n    R\n     I\n      L\n       L\n        O",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "luz"
+  }
+}

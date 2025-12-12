@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El lago es el espejo\nque me da la verdad.\nMi único reflejo\nsin ninguna edad.\n\nMe mira y me juzga\ncon su calma azul,\nla única soga\nsin ningún tul.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "lago"
+  }
+}

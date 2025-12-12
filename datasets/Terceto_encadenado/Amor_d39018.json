@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me pierdo en el abismo de tus ojos,\ndonde la luz del sol se queda presa,\ncurando mis antiguos y hondos enojos.\n\nEs una dulce y mágica promesa,\nque me llena de paz y de consuelo,\ny en mi alma enamorada siempre pesa.\n\nElevándome al cielo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

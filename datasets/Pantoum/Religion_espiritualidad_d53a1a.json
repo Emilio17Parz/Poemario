@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Silencio en la piedra,\nmorada de lo sagrado,\ndonde crece la hiedra,\nen el muro olvidado.\n\nMorada de lo sagrado,\nrefugio del peregrino,\nen el muro olvidado,\nencuentra su destino.\n\nRefugio del peregrino,\nsilencio en la piedra,\nencuentra su destino,\ndonde crece la hiedra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

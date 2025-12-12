@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo mi espíritu vuela sin dolor (A),\nlibre de las jaulas, sin más prisión (A),\nel eterno y dulce fulgor (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sol sobre la piel,\nel viento fresco corre\nentre densa hoja;\nun murmullo antiguo\nnaturaleza en paz.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "viento"
+  }
+}

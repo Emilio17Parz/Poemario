@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El valor clama en su interior,\nLa espada brilla con fulgor,\nFrente a un destino desigual,\nCon un coraje magistral,\nBuscando gloria y el honor.\n\nNo hay fuerza que cause temor,\nQue impida al fiero luchador,\nEl valor clama en su interior.\n\nTras la batalla, sin rencor,\nResuena el eco vencedor,\nDel triunfo noble y colosal,\nDe un gesto heroico, sin igual,\nDe espíritu siempre mayor,\nCreciendo en fuerza y puro amor,\nEl valor clama en su interior.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

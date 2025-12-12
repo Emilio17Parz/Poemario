@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar rompe bravo sobre la roca fiel (A),\nsu voz es un canto, un trago de miel (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

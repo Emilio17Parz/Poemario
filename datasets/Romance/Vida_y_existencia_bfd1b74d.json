@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminante, no hay camino,\nse hace camino al andar,\npisando el polvo del suelo\nsin miedo a tropezar.\nCada paso es una historia,\nque vamos a dibujar,\nen el mapa de la vida\nque nos toca cruzar.\nHay piedras y hay flores,\nhay sombras y hay solar,\npero hay que seguir andando\nhasta el final llegar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

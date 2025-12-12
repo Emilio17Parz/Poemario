@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Belleza no es la perfección tallada en mármol frío,\nni el eco de un nombre pronunciado por la fama.\nEs el pliegue inesperado en la esquina de un labio al sonreír,\nel asombro que detiene el paso ante una gota de rocío\nsuspendida, frágil, en la punta de una telaraña al alba.\n\nEs la quietud de una tarde de domingo,\ncuando el tiempo se diluye en un suspiro,\no la furia desatada de una tormenta de verano,\ncada relámpago un pulso, un corazón salvaje latiendo.\nEs la huella que deja el viento en la arena, efímera y profunda.\n\nNo reside en la ausencia de imperfección,\nsino en la verdad cruda y palpable de lo que es,\nen la cicatriz que cuenta una historia silente,\nen la voz que se quiebra un instante antes de hallar consuelo.\nEs el susurro del olvido, la memoria que se aferra.\n\nY en cada instante,\nen cada fibra de este instante que respiramos,\nhay un **color** que la define, un matiz que la revela:\nel ocre de la tierra mojada por la primera lluvia,\nel azul profundo de la melancolía en un océano de dudas,\nel verde esperanza que brota en el asfalto.\nEl rojo vibrante de la vida que se resiste a morir.\n\nBelleza es el eco de una carcajada antigua en una casa vacía,\nla sabiduría silenciosa de un árbol centenario,\nla promesa inquebrantable de cada amanecer,\nla aceptación de que todo lo que fluye, es.\nEs el lienzo invisible donde se pinta el alma,\ncon los matices infinitos de existir.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "color"
+  }
+}

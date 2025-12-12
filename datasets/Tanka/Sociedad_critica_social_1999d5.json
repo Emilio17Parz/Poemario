@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Ruinas en la calle,\nde una casa que cayó,\npor el gran olvido.\nLa sociedad no se cuida,\ny todo se viene abajo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Ruinas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Despegó el cohete,\nhacia la luna,\ncomo ninguna,\njuguete.\nPisó el polvo gris,\nel astronauta,\ncon paso de pauta,\nen ese país.\nMiró la Tierra,\nque en luz se encierra.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

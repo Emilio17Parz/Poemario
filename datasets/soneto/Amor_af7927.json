@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Más allá de la muerte y de la vida,\nmás allá del final de las edades,\nvenciendo las oscuras tempestades,\nmi alma a la tuya va unida.\n\nNo habrá jamás final ni despedida,\nni triunfo de las frías soledades,\npues reinan las eternas verdades\nen esta cicatriz nunca cerrada.\n\nEl tiempo se deshace como arena\nante la fuerza de este gran querer,\nque rompe cada lazo y cada cadena.\n\nSiempre te volveré a reconocer,\npues eres tú mi sangre y mi condena,\nmi eterno y absoluto renacer.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Blanca luz en la oscuridad,\nReflejo de un astro lejano,\nIluminando la realidad,\nLlevando la guía al humano,\nLuz de total sinceridad,\nOro del cielo soberano.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

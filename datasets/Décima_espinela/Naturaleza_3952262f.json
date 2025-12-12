@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se alza la gran montaña\ntocando las nubes blancas,\ncon sus laderas y ancas\ny su silueta extraña.\nEl sol sus picos baña\ncon un brillo de cristal,\nes un reino natural\nde piedra y de silencio,\ndonde yo reverencio\nsu fuerza colosal.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "cumbre"
+  }
+}

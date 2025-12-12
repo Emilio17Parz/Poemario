@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la losa de piedra fría\nduerme quien tuvo sueños y vida,\nla herida ya está zurcida\npor la tierra que lo cubría.\n\nNadie perturba su estadía,\nen esta casa reducida,\ndonde la vanidad perdida\nno tiene lugar ni valía.\n\nCrecen las flores sobre el nombre,\nborrando letras con su raíz,\ny así desaparece el hombre.\n\nQueda solo el matiz\nde lo que fue y su renombre,\ny la marca de la cicatriz.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "losa"
+  }
+}

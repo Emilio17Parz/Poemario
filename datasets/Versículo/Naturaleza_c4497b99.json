@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Alabada sea la gloria del Líbano, la excelencia del Carmelo y de Sarón; ellos verán la gloria del Señor.\nComo el cedro en el Líbano crecerá; plantados en la casa del Señor, en los atrios de nuestro Dios florecerán.\nPorque he aquí que el invierno ha pasado, se ha mudado, la lluvia se fue; se han mostrado las flores en la tierra.\nLos árboles del campo darán su fruto, y la tierra dará su fruto, y estarán seguros en su tierra.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

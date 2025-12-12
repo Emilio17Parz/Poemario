@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Elevo mi voz al silencio,\npidiendo consuelo y guía,\nque calme esta angustia mía,\ny el mal que a veces presencio.\n\nEn la plegaria sentencio,\nmi amor y mi nula valía,\nbuscando la sabiduría,\nque en este mundo evidencio.\n\nHablar con lo divino a solas,\nabrir el secreto interior,\ncomo se abren las corolas.\n\nSentir el abrazo mayor,\nque calma las furiosas olas,\ny nos llena de paz y amor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "oración"
+  }
+}

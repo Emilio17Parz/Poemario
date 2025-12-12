@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se congeló el verano en tu mirada,\ny donde hubo calor, ahora hay hielo,\nun muro de cristal que llega al cielo\ny deja mi ilusión petrificada.\n\nYa no vale la frase enamorada,\nni el intento de alzar de nuevo el vuelo,\npues choco contra el suelo y el recelo\nde tu alma que se muestra clausurada.\n\nEsa frialdad duele más que el fuego,\nporque niega la vida que tuvimos\ny convierte el amor en tonto juego.\n\nExtraño los abrazos que nos dimos,\npero ante este glaciar, ciego y labriego,\nacepto que los dos ya no existimos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "frialdad"
+  }
+}

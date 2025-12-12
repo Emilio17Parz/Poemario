@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La justicia es igual,\npara el pobre y el real.\nEso dicen los jueces,\nmientras comen nueces.\nSi tienes buen abogado,\nsaldrás inmaculado.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

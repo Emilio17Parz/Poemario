@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El alma vuela ligera,\nhacia el reino celestial,\nlejos del mundo mortal,\ny de la vida pasajera.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Miro las estrellas brillar,\nlámparas de tu morada.\nAllí mi alma, cansada,\nespera un día llegar.\nDejaré de peregrinar\npara ser tu amada.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

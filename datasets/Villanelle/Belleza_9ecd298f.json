@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Reina del jardín perfumada,\nvistes de rojo pasión,\npor todos eres amada.\n\nAunque tu vida es contada,\ncause gran admiración,\nreina del jardín perfumada.\n\nTu belleza es delicada,\npero tienes la espina en acción,\npor todos eres amada.\n\nAl amanecer rociada,\neres pura perfección,\nreina del jardín perfumada.\n\nSímbolo de la enamorada,\ny de la dulce ilusión,\npor todos eres amada.\n\nFlor divina y sagrada,\nde la naturaleza el don,\nreina del jardín perfumada,\npor todos eres amada.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

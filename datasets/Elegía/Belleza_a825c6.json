@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se fue la dama que inspiraba,\ncon su susurro y su canto,\ndejando un gris manto,\ndonde la rima acababa.\n\nMi pluma triste trababa,\nsu verso en el llanto,\nperdiendo el encanto,\nque ella siempre me daba.\n\nSilencio en el papel,\nsin su boca de miel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "musa"
+  }
+}

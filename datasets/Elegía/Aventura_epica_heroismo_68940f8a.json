@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¿Qué fue del brillo de las medallas?\n¿Del aplauso y la admiración?\nTodo se fue con la estación,\ny quedaron vacías las vallas.\nEl tiempo gana todas las batallas,\ny convierte al héroe en canción,\ntriste y lejana en la oración,\nmientras tú, viejo guerrero, callas.\nLa fama es humo que se disipa,\nun sueño breve que al despertar,\ndeja un sabor a vieja pipa.\nNo hay monumento que pueda durar,\nla muerte todo lo destripa,\ny nos enseña a olvidar.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

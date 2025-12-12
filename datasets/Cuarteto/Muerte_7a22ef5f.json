@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El fin sombrío que la vida agota\ny en su silencio el tiempo desvanece,\nno borrará la voz, ni aquella nota\nque por siempre en la memoria florece.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

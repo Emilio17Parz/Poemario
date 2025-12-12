@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escalo la cima alta,\ncon paso decidido,\nnada me ha detenido,\nni el aire me falta.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "cima"
+  }
+}

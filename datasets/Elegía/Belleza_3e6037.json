@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Seda que yaces sin forma ni tacto,\nla tela que el cuerpo no quiere ya sentir.\nTu textura es sombra, sin un gran pacto,\nel alma sin poder huir.\nTu forma es triste, la verdad se va,\nel alma que sufre sin un ya.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Seda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Reluce el oro\nal sol poniente,\nes un tesoro.\nReluce el oro,\nyo lo adoro,\ntan ardiente.\nReluce el oro\nal sol poniente.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "oro"
+  }
+}

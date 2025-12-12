@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "H ombre de gran valor,\nE nfrenta el mal atroz,\nR ompiendo el temor,\nO brando muy veloz,\nE jemplo de honor.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "heroe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hay un hambre voraz en mi mirada\ncuando te veo andar por el pasillo,\ny siento que me clavan un cuchillo\nde dulce ansiedad en la madrugada.\n\nQuiero beber tu esencia derramada,\nromper el protocolo tan sencillo,\ny deshacer el nudo y el ovillo\nde esta pasión que tengo represada.\n\nVen a mis brazos sin temor alguno,\ndeja que el cuerpo dicte su sentencia,\ny seamos en la noche solo uno.\n\nOlvida la moral y la prudencia,\nque en este lecho, bajo el sol de junio,\nsolo gobierna el tacto y la impaciencia.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

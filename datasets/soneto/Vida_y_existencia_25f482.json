@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es luchar contra la corriente,\nremar con fuerza hacia la orilla,\nno doblar jamás la rodilla\nante el destino cruel e inclemente.\n\nEs levantarse con fiera mente\ncuando la derrota nos humilla,\ny plantar la nueva semilla\nen el surco de la tierra ardiente.\n\nGuerrero soy de la luz y el día,\ncon mi espada de fe y voluntad,\ncombato a la melancolía.\n\nBusco mi propia libertad,\nlejos de la cobardía,\ncon honor y con verdad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Montaña que yaces con dura entereza,\nhoy tu cumbre se rompe sin más.\nTu altura es sombra, la cruel tristeza,\nla vida que nunca me das.\nTu piedra es pena, el alma sin fe,\nla pena que el tiempo ve.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

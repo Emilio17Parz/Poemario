@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "noche tranquila",
   "poema": {
     "texto": "Calla la sombra\\nsobre la casa\\nduermen los muros\\nsueñala luna",

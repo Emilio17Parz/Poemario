@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mármol que finge movimiento y vida,\nfría belleza que el cincel libera,\nforma que no se olvida\ny la eternidad espera.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

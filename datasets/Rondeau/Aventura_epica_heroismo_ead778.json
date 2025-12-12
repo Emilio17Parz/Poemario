@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vieja leyenda,\nque se aprenda.\nDel gigante,\ncaminante,\nen la senda.\n\nQue se entienda,\ny se atienda.\nElante,\nvieja leyenda.\n\nLa prenda,\ny la venda.\nEl instante,\ndel amante,\nque se ofrenda,\nvieja leyenda.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

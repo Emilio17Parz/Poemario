@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "'Te amaré para siempre', juran,\ny dura lo que dura el mes,\nlas promesas no perduran,\nse olvidan a la de tres.\nLa eternidad es muy larga,\ny aguantarte es una carga.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Eterno"
+  }
+}

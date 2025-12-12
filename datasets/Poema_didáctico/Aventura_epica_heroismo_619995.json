@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "A veces hay que perder,\npara que otros ganen,\nsaber ceder,\npara que sanen.\nEl sacrificio noble,\nte hace un roble.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Sacrificio"
+  }
+}

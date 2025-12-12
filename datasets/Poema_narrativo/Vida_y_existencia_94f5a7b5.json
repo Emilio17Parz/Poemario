@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El niño corría veloz,\npersiguiendo una pelota,\nel viejo con paso de gota,\nmiraba y alzaba la voz.\n'Corre hijo, que el tiempo vuela',\nle dijo con voz cansada,\n'la vida es una jornada,\nque pasa como una estela'.\nEl niño siguió jugando,\ny el viejo se fue pensando.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "ciclo"
+  }
+}

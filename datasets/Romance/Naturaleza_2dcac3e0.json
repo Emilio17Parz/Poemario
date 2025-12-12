@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bajo el susurro tierno de la fuente,\ndonde el musgo teje un verde lecho,\ntu presencia ilumina mi presente,\ny calma el alma en su afán maltrecho.\n\nTus ojos son la calma del estanque,\ntu voz, el trino dulce del jilguero,\ntu risa el viento que me da un remanso,\namor que en cada flor hallo sincero.\n\nRecuerdo aquel sendero entre la bruma,\nla mano tuya que mi pulso guía,\nla vida entera que contigo suma\nbelleza y paz a cada nuevo día.\n\nY cuando el sol se rinde en lontananza,\ntiñendo el cielo de un azul profundo,\ntu rostro alumbra como la **luna** avanza,\nla estrella pura que ilumina mi mundo.\n\nAsí, entre el bosque antiguo y la ribera,\nmi amor por ti florece sin medida,\npromesa eterna que el corazón venera,\nla savia misma que me da la vida.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "luna"
+  }
+}

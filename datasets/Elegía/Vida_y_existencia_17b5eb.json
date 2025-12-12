@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Camino de vida, de lodo y dolor,\nla senda que el alma no quiere seguir.\nCada paso es pena, sin un fulgor,\nel alma sin poder huir.\nLa ruta es la sombra, el ser esencial,\nel tiempo es un mal, fatal.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Camino"
+  }
+}

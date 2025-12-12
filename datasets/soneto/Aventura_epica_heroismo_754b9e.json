@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Y así termina la gran odisea,\ncon el héroe mirando al mar,\nsabiendo que pudo lograr\nlo que su alma desea.\n\nAunque el cuerpo le renquea,\ny tiene ganas de llorar,\nha conseguido salvar\nla luz que la gente vea.\n\nReposa su espada al fin,\ny cierra los ojos cansados,\nen el verde jardín.\n\nLos días pasados,\ntocan el violín,\nde tiempos amados.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

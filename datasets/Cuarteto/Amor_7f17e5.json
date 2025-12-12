@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se enciende con tu tacto el fuego vivo,\nla llama que devora la cordura,\nperdiendo la noción y la mesura,\nquedando de tu cuerpo siempre cautivo.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

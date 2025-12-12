@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mi rostro es de marfil, blanco y sereno,\nya sin vida, sin sangre, sin calor,\nha terminado todo lo ajeno,\nal alma y su eterno resplandor.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Marfil"
+  }
+}

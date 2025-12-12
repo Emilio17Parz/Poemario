@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cayó el telón de la obra gigante,\nse apagaron las luces del gran escenario,\nel actor se despoja de su semblante,\ny entra desnudo en el osario.\nFin de la historia, punto final,\nregreso al origen, al polvo natal.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Final"
+  }
+}

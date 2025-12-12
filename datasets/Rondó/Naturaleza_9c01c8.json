@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompen las olas en la arena,\ncon su compás infinito.\nEs de la tierra el grito,\nque se lleva toda pena.\n\nLa marea siempre llena,\nsu espacio bendito.\nRompen las olas en la arena,\ncon su compás infinito.\n\nEspuma blanca y serena,\nborrando lo escrito.\nUn paisaje bonito,\nque la sal enajena.\nRompen las olas en la arena.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "mar"
+  }
+}

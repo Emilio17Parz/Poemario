@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo somos,\nen los lomos.\n\nFuego quema,\nes el lema,\ny el tema,\nde átomos.\nPolvo somos,\nen los lomos.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El pasado ya fue,\nno vivas allí,\nten fe,\nen lo de aquí.\nSuelta el lastre,\nantes del desastre.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Pasado"
+  }
+}

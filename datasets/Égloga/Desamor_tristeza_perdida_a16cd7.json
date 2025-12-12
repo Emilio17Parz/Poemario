@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pregunto al campo y el campo calla,\npregunto al ave y no me responde,\n¿dónde se mete, decidme dónde,\nla ingrata que en mi pecho batalla?\n\nEl silencio es una muralla,\nque me separa de la verdad,\ny me deja en la soledad,\nque cual espada me apuñala.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

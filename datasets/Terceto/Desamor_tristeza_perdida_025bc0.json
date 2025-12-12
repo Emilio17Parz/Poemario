@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi alma naufraga en el mar de la pena cruel (A),\nsin puerto seguro, sin un fanal (A),\nla vida es un trago de amarga hiel (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Naufragio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brillo de joya,\nLuz que deslumbra,\nEn la tramoya.\nBrillo de joya,\nQue apoya,\nLa penumbra.\nBrillo de joya,\nLuz que deslumbra.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se levanta hacia la altura\nel monte de piedra y gris,\nmostrando su gran figura\ncon un precioso matiz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "altura"
+  }
+}

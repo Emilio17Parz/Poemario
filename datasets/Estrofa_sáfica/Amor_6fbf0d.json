@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Verte dormir al despuntar el día,\nes el regalo que la vida ofrece,\ntodo mi amor en este instante crece,\nluz de mañana.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

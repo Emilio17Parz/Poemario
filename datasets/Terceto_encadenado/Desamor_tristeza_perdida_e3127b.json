@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cada lágrima es un río que inunda sin fin (A),\nque quiebra mi rostro con gran dolor (B),\nel recuerdo amargo de un dulce jazmín (A).\n\nLa vida se apaga, sin un fulgor (B),\nel cuerpo se cansa, sin poder más (C),\nla ausencia de todo valor (B).\n\nNo hay más consuelo, no hay más paz (C),\nque el llanto que viene sin un final (D),\nla sombra que viene tenaz (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Lágrima"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte rompe el reloj y detiene la arena; para el que se va, se abre el eterno ahora sin ayer ni mañana.\nPara los que quedamos, el tiempo se estira doloroso y lento, marcando la ausencia en cada tic-tac.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

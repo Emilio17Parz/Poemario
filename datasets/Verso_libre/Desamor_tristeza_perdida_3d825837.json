@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soplo sobre lo que fuimos\ny solo vuela ceniza gris.\nEl fuego fue tan alto\nque no dejó nada sólido,\nni una brasa, ni un tronco.\nSolo este polvo sucio\nque se me pega a los dedos\ny me mancha los días.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

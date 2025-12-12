@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuerpo que vuela\ndibujando figuras\nen el espacio.\nMovimiento perfecto\nque expresa la emoción.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "danza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ángel de la guarda mía,\ndulce compañía fiel,\nno me dejes solo nunca\nni de noche ni con miel.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "guarda"
+  }
+}

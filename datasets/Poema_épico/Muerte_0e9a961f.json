@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Levantaron pirámides hacia el sol,\nqueriendo burlar a la muerte en la tumba.\nPero el tiempo pasa y todo derrumba,\napagando del faraón el farol.\nAquí yacen grandes conquistadores,\nahora alimento de las flores.\nLa tierra reclama lo que le fue dado,\nen este recinto sagrado y callado.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

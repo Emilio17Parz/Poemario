@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me pierdo en tu mirar,\nprofundo como el mar,\nno me quiero salvar,\nde tu dulce atrapar.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro la comba azul del alto cielo,\ndonde las nubes alzan su vuelo.\nLienzo de maravilla,\ndonde el astro brilla,\ny la luna de plata,\nsu luz desata.\nTecho del mundo entero,\nsendero verdadero.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

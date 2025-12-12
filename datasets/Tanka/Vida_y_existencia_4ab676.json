@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es el arte\nde caer y levantarse,\ncon más fe cada vez.\nNo rendirse ante la sombra,\nes la gran filosofía.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Vivir"
+  }
+}

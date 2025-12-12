@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "E s acero templado,\nS ímbolo de poder,\nP ara el rey amado,\nA yuda a defender,\nD estino señalado,\nA l enemigo vencer.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

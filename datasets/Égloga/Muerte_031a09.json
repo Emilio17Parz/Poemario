@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Pasa la guadaña en el trigo,\ncortando la espiga dorada,\nla vida es cosechada,\nsin distinción de amigo.\n\nLa muerte lleva consigo,\nel fruto de la estación,\ncumpliendo su misión,\nde ser final y castigo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "siega"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La juventud es la fe (a),\nel alma que quiere vencer (b),\nla vida sin un 'yo sé' (c),\nla forma de al fin crecer (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Juventud"
+  }
+}

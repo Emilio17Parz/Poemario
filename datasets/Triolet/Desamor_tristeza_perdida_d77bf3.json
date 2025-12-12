@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me abraza el frío silencio,\nLa casa se siente vacía,\nTu ausencia yo presencio.\nMe abraza el frío silencio,\nYa no tengo consorcio,\nSe fue toda la alegría.\nMe abraza el frío silencio,\nLa casa se siente vacía.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "frío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Reina de plata y nácar,\nque sales en la noche a destacar.\nTu luz baña el sendero\ndel triste caminero.\nTestigo silenciosa\nde la naturaleza misteriosa.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "luna"
+  }
+}

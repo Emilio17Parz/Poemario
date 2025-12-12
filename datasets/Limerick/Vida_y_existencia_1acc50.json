@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Como una flor que es fugaz,\nmi vida no tiene solaz.\nFlorece y se va,\nsin un solo ¡ah!,\nla vida que tiene su faz.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

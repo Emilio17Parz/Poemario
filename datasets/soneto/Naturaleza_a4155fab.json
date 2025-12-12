@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despierta el campo de su sueño frío,\nvestido de colores y fragancia,\ny rompe del invierno la distancia\ncon brotes de esperanza y de brío.\n\nRegresa la canción al claro río,\nla flor despliega toda su elegancia,\ny siente la natura la importancia\nde este ciclo vital, eterno y pío.\n\nTodo es vida, color y movimiento,\nel sol calienta más la piel humana,\ny se llena de amor el pensamiento.\n\nBienvenida la luz de la mañana,\nque trae primavera en su aliento\ny abre de par en par cada ventana.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

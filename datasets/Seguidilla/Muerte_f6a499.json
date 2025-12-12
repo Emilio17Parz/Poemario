@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La paz de la muerte (7a),\nme da la razón (5b),\nmi alma ya no fuerte (7c),\nsin condición (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

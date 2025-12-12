@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El río de la vida\ncorre hacia el mar de Dios,\nsin poder parar.\nLleva consigo la carga,\nde la breve existencia.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Río"
+  }
+}

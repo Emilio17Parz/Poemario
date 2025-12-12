@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cruz pesada, de dolor y afán,\nque carga mi hombro sin consuelo. \nEl peso ingrato de un amor van,\nsin rastro de luz en el cielo.\n¡Oh, símbolo duro de mi sufrimiento,\neres la voz de mi lamento!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Cruz"
+  }
+}

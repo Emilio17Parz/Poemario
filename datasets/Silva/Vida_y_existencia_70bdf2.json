@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo gira,\ny se mueve,\nnada llueve,\nni respira.\nLa mentira,\nes quedar,\nsin cambiar,\nen la pira.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

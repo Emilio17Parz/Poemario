@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El cuerpo es el templo, el dulce lugar,\ndonde el alma habita, sin cesar,\ncuidar la materia, saber amar,\nla forma más pura de reinar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Cuerpo"
+  }
+}

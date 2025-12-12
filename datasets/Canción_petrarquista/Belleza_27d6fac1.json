@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Las flores se inclinan cuando ella pasa,\ny el sol parece brillar con más fuerza,\nno hay quien tuerza\nla ley de amor que su mirar traza.\nNaturaleza en ella se ha esmerado,\ny ha creado\nel molde perfecto,\nlibre de cualquier mancha o defecto.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

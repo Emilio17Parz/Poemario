@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No lucha por el dinero,\nni por el poder fugaz,\nes un alma de acero,\nvaliente y capaz.\nSu objetivo primero,\nes quedar en la memoria,\ny ser el mensajero,\nde la eterna gloria.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo se puso negro y denso,\nel viento dobló los árboles altos,\nlos rayos dieron grandes saltos,\nen el horizonte inmenso.\nLa lluvia cayó como cortina,\ninundando calles y caminos,\ncambiando todos los destinos,\ncon su fuerza repentina.\nTras el caos salió el sol,\npintando un arcoíris tornasol.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "trueno"
+  }
+}

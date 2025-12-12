@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Voz melodiosa,\nCanta la diva,\nTan hermosa.\nVoz melodiosa,\nY preciosa,\nCautiva.\nVoz melodiosa,\nCanta la diva.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "voz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El tiempo no cura mi herida sin fin (A),\nel recuerdo se queda con gran dolor (B),\nla ausencia del dulce jazmín (A).\n\nLa vida se apaga, sin un fulgor (B),\nla mente no piensa, sin un final (C),\nla forma de no hallar el valor (B).\n\nMi vida es un drama, el golpe fatal (C),\nsin la fuerza que ayuda a sanar (D),\nla ausencia de todo bien total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla al sol la victoriosa espada,\nsímbolo fiel de fuerza y de justicia,\nque no conoce el miedo o la malicia\nen la feroz y sangrienta jornada.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "espada"
+  }
+}

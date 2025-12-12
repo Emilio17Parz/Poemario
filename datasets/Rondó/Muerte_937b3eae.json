@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sobre la tumba fría,\ncrecen flores de duelo,\nbajo el gris del cielo,\ny la melancolía.\n\nSe acabó la alegría,\ny el humano anhelo,\nen esta cercanía.\nSobre la tumba.\n\nQueda la tierra baldía,\ncubierta de hielo,\nsin ningún consuelo,\nni luz del día,\nsolo la sombra impía.\nSobre la tumba.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

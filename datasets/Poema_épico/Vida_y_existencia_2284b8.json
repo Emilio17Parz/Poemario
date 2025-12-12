@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Qué dejaremos al irnos de aquí?\n¿Un nombre en bronce o un árbol frutal?\n¿El eco de un 'yo' o el eco de un 'sí'?\n¿Una obra efímera o inmortal?\nConstruye hoy tu monumento,\ncon actos nobles, no con lamento.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Legado"
+  }
+}

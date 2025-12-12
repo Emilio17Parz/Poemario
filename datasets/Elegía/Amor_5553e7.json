@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ruedan las perlas de sal por la cara,\nregando el suelo de mi desconsuelo,\nmirando sin fe hacia el oscuro cielo,\npues no hay quien tu marcha repare.\n\nCada gota es un mar que separa,\nmi vida de tuya, rompiendo el vuelo,\ny en este llanto yo me congelo,\nsintiendo que el mundo se desampara.\n\nLágrima triste de amor perdido,\ntestigo del daño que he sufrido.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

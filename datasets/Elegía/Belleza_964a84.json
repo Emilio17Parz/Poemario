@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Risa que te fuiste sin un fulgor,\nla alegría que el alma no quiere ya sentir.\nTu sonido es sombra, sin un gran dolor,\nel alma sin poder huir.\nTu forma es triste, la verdad se va,\nel alma que sufre sin un ya.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La miseria es un golpe atroz (a),\nque el hombre no quiere ver (b),\nla vida sin una voz (c),\nla forma de no vencer (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Miseria"
+  }
+}

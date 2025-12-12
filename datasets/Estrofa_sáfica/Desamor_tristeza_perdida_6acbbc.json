@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ruedan las perlas de sal por mi cara,\nllanto que nace de la decepción,\nya no me queda ninguna ilusión,\nmar de tristeza.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

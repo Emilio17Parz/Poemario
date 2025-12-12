@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo tiene su fin,\nen este mundo,\ndesde el jardín,\nhasta lo profundo.\n\nEn este mundo,\nnada es eterno,\nhasta lo profundo,\nllega el invierno.\n\nNada es eterno,\ntodo tiene su fin,\nllega el invierno,\ndesde el jardín.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "final"
+  }
+}

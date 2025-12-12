@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visto de negro,\ny no me alegro,\npor tu partida,\ntan sentida,\ny el peligro.\n\nMe reintegro,\ny consagro,\nla vida,\nVisto de negro.\n\nEl milagro,\ndel suegro,\nperdida,\nherida,\nintegro,\nVisto de negro.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "negro"
+  }
+}

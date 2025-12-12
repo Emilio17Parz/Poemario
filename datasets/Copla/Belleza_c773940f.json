@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Qué carita más bonita,\nqué ojos más hechiceros,\nparecen dos aceitunas\nde los campos olivareros.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "linda"
+  }
+}

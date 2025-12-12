@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La herida de la guerra me duele, no quiere cerrar al final fiel y cruel,\nla vida sin la calma, con sabor amargo a hiel.\nEl cuerpo está roto, el dolor no se va ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la salud que mi cuerpo no puede tener jamás sin voz ni paz,\ny mi destino es el castigo de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "herida"
+  }
+}

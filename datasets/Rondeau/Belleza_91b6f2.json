@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Miran los ojos claros,\ntan raros,\nque ven,\nel edén,\ny los faros.\n\nLos caros,\ny avaros,\ndel tren,\nMiran los ojos.\n\nEl andén,\ny el sien,\ndescaros,\ny amparos,\ntambién,\nMiran los ojos.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

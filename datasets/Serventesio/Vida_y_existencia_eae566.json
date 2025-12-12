@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El reloj del tiempo no para jamás de sonar (A),\ncada hora es un paso, un breve fulgor (B),\nla vida es el arte de saber amar (A),\nla fuerza que impulsa el valor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Reloj"
+  }
+}

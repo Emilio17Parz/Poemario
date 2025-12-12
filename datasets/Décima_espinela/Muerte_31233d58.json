@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos polvo y ceniza\nque el viento se llevará,\ny nada de nos quedará\ncuando el tiempo se desliza.\nLa muerte nos avisa\nque todo es temporal,\nque el reino material\nse deshace en un instante,\ny el alma caminante\nbusca su luz final.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

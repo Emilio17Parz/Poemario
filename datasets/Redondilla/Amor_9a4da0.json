@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te escribo en el papel,\nlo que calla mi voz,\nun sentimiento atroz,\nque me hace serte fiel.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "carta"
+  }
+}

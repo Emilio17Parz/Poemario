@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Batalla cotidiana,\nlevantarse y seguir pese al dolor;\nbuscando el valor,\ncada mañana.\nLa vida es guerra que el alma sostiene,\ny se mantiene.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Comete el fallo,\ny no callo,\nel error,\ncon valor,\nque hallo.\n\nEl caballo,\ny el tallo,\ndel dolor,\nComete el fallo.\n\nEl color,\ny el amor,\ndel gallo,\ny el vasallo,\nmejor,\nComete el fallo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "fallo"
+  }
+}

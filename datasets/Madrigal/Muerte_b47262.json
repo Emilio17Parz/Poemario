@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acabó la arena,\nel reloj ha parado su conteo;\nya no hay deseo,\nni dicha ni pena.\nEl tiempo es un tirano que nos vence,\ny nos convence.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

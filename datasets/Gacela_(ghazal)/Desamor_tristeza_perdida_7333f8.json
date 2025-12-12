@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No tiene fin esta larga noche,\nllena de penas la larga noche.\n\nBusco la luz y no hay ni un broche,\nque cierre el manto de la larga noche.\n\nSueños quebrados en el derroche,\nde oscuridad de la larga noche.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "noche"
+  }
+}

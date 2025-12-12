@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla el acero de la fiel espada,\nlista a la lucha por el honor,\ndefendiendo la justicia,\nsin conocer el vil temor.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sudar la frente,\nes el calvario,\nde tanta gente.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

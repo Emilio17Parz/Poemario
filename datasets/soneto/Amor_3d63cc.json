@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te amo en el café de la mañana,\nen la rutina simple de los días,\nen las pequeñas y breves alegrías,\ny cuando abres la luz de la ventana.\n\nNo es un amor de historia soberana,\nni de epopeyas grandes y vacías,\nsino de compartir melancolías\ny la risa que brota y que nos sana.\n\nEs verte despertar y estar ahí,\nsaber que volverás por la tarde,\ny que tu abrazo espera para mí.\n\nUn fuego que tranquilo siempre arde,\nque me hace agradecer que te vi,\ny que de amarte nunca haré alarde.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cafe"
+  }
+}

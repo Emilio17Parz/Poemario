@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El hueso es la verdad\ndel hombre sin disfraz.\nLa simple realidad\nsin nunca tener paz.\n\nFrío y blanco trofeo\nde la vida que fue,\nel único deseo\npara tener fe.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "hueso"
+  }
+}

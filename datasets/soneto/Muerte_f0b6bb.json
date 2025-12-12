@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Acuérdate hombre que polvo eres,\ny al polvo has de volver un día,\nterminará tu vana porfía,\ntus ambiciones y tus placeres.\n\nSe acabarán todos los deberes,\nla lucha, la angustia y la alegría,\ny la carne que hoy es energía,\nserá alimento de otros seres.\n\nEs la sentencia del creador,\nla ley física de la materia,\nque nos trata con todo rigor.\n\nNo vale riqueza ni miseria,\nante el destino devastador,\nde volver a la tierra seria.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

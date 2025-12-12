@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor eterno te prometí,\ndesde el primer día que te vi,\ncon una fe ciega y profunda,\nque en mi corazón se inunda,\ny que solo late para ti.\n\nTodo mi mundo yo te di,\ny nunca de amarte desistí,\npues esta pasión es fecunda,\namor eterno.\n\nAunque la muerte venga aquí,\ny yo tenga que partir de allí,\nmi alma en la tuya se funda,\nsin que el miedo la confunda,\npues siempre será, ya lo sentí,\namor eterno.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuento las horas lentas,\npara volverte a ver.\nPasiones violentas,\nal amanecer.\n\nPara volverte a ver,\nmiro el reloj girar.\nAl amanecer,\nte podré abrazar.\n\nMiro el reloj girar,\npasiones violentas.\nTe podré abrazar,\ncuento las horas lentas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espera"
+  }
+}

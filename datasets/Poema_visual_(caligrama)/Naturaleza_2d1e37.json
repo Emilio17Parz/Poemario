@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Espiral lenta\ncasa a cuestas\ngira que gira\nhacia el centro\nconcha dura\nbabosa huella\npaciencia viva.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "caracol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vacío,\nlleno.\nEl lío,\nvacío.\nEl seno,\ndel frío.\nVacío,\nlleno.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

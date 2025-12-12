@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Partir hacia lo ignoto,\ncon el mapa rasgado y el barco roto.\nEl alma aventurera\nno tiene frontera.\nDescubrir lo escondido,\naunque el camino sea dolorido.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

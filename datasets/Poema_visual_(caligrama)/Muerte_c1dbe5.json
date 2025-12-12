@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Silueta negra\nen el suelo\nse alarga hoy\nse funde con\nla oscuridad\nnoche eterna\nfin de luz.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

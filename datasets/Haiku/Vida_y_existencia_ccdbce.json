@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caer y alzarse,\nes la ley de la vida,\nnunca rendirse.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "ley"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Me visita la inspiradora musa,\ntrayendo versos de dulce primor,\ny mi pluma sus regalos usa,\npara cantar al divino amor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "musa"
+  }
+}

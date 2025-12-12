@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del cielo mi etérea musa,\nfuente de ideas, mi etérea musa.\n\nSin ella el verso se queda mudo,\nsoplo de vida es mi etérea musa.\n\nGuía la pluma del escritor,\ndama invisible, mi etérea musa.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "musa"
+  }
+}

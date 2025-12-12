@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Espartaco rompió,\nlas cadenas de Roma,\ncon fuerza y con broma,\ny al esclavo guió.\nSu ejército vio,\nla libertad que asoma,\npero en la loma,\nla muerte encontró.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

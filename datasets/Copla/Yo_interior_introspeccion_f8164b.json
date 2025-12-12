@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El reflejo es mi otro yo (a),\nla imagen que esconde atroz (b),\nla vida que al fin me dio (c),\nla última y fuerte voz (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Reflejo"
+  }
+}

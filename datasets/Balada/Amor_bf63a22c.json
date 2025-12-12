@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En la quietud de un ayer lejano,\ncuando la vida era un sendero incierto,\nmi corazón, antes un desierto vano,\nhalló en tus ojos su refugio cierto.\n\nJuramos entonces un amor sin fin,\nbajo la luna, testigo de promesas,\ny aunque el tiempo trajo espinas sin marfil,\nnuestras almas se hicieron más ilesas.\n\nMas vino un día, la tormenta fría,\nque quiso el temple de nuestra pasión,\nmas en tu mirada encontré la guía,\ny en nuestros pechos ardió un **fuego** de razón.\n\nEse calor que nunca se consume,\nhoguera eterna que ilumina el ser,\nes el lazo que nos une y nos resume,\nel dulce pacto que nos hace renacer.\n\nAsí la balada de nuestro andar,\nse escribe día a día, verso a verso fiel,\npues nuestro amor, cual estrella al brillar,\nes el tesoro de este humilde papel.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

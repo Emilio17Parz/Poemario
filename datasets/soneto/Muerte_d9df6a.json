@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visten de negro los corazones,\nellanto inunda la habitación,\nse ha roto la ilusión\ny sobran las explicaciones.\n\nSon tristes las consolaciones,\ncuando falta la razón\nde nuestra adoración,\ny mueren las pasiones.\n\nEl duelo es un camino lento,\nde aceptar la ausencia fría\ny vivir con el tormento.\n\nHasta que llegue el día\nen que calme el sentimiento\ny vuelva la alegría.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "negro"
+  }
+}

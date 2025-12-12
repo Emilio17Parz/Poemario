@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La piedra es la paciencia hecha materia, testigo mudo que ha visto pasar glaciares e imperios sin inmutarse.\nGuarda en su corazón duro la memoria geológica del planeta, una eternidad que podemos sostener en la mano.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

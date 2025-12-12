@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La tormenta rompió el timón,\ny las olas tragaron la nave,\ncomo si fuera un ave,\nen medio del ciclón.\nEl capitán se hundió con su barco,\nsin soltar la rueda,\nmientras la tripulación se queda,\nen el inmenso charco.\nEl mar se calmó después,\nsobre los cuerpos de los tres.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "mar"
+  }
+}

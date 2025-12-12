@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Despierta la tierra de su largo sueño,\ncon nuevo brío y con nuevo empeño!\nEstallan colores en cada pradera,\nha regresado la fiel primavera.\n\n¡Gloria a la estación del amor y la luz,\nque quita del campo la invernal cruz!\nCantan las aves un himno de gloria,\ncelebrando de la vida la victoria.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

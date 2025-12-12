@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Este amor es verdad,\nno conoce la mentira.\nMe das felicidad,\neste amor es verdad.\nLejos de la soledad,\nmi corazón respira.\nEste amor es verdad,\nno conoce la mentira.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

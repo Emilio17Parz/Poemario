@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí descansa quien luchó la vida,\nbajo esta piedra fría y grabada,\nuna historia breve y terminada,\nuna llama que fue desvanecida.\n\nLa letra en el granito, carcomida,\nrecuerda aquella fecha señalada\nen que inició la ruta de la nada,\ndejando el alma libre y desunida.\n\nLee, caminante, y no tengas miedo,\npues yo fui como tú, carne y deseo,\ny tú serás cual yo, polvo y enredo.\n\nEn este verso fúnebre te veo,\ny desde mi silencio te concedo\nla verdad que en la muerte yo poseo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "epitafio"
+  }
+}

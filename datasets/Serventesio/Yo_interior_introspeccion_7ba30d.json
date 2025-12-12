@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La noche es el tiempo del alma, la luz sin par (A),\ndonde la conciencia quiere descansar (B),\nel silencio es dulce, sin un final (A),\nla calma que viene a sanar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Noche"
+  }
+}

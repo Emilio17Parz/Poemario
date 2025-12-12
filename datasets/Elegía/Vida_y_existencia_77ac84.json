@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El pasado es un país extraño,\ndonde viven fantasmas queridos,\nmomentos que fueron vividos,\ny hoy causan nostalgia y daño.\n\nSubo peldaño a peldaño,\nla torre de los tiempos idos,\nbuscando los ecos perdidos,\nde aquel lejano y dulce año.\n\nAyer que te fuiste volando,\ny me dejaste aquí esperando.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

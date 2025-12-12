@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Vivir es un misterio que no ha de acabar,\nEn cada latido, un profundo perdón.\nEl alma busca el rastro, su propio lugar.\n\nSentir el aliento, la fuerza al brotar,\nLa luz de un anhelo, la viva razón.\nVivir es un misterio que no ha de acabar.\n\nMirar el sendero, la huella al pisar,\nLa incertidumbre que siembra la cuestión.\nEl alma busca el rastro, su propio lugar.\n\n¿Es este el viaje que debí transitar?\n¿O somos peones de alguna gran visión?\nVivir es un misterio que no ha de acabar.\n\nQuizás el destino nos va a guiar,\nMás allá del tiempo, sin explicación.\nEl alma busca el rastro, su propio lugar.\n\nNo importa el fin, la senda es el manjar,\nDe cada momento, de cada emoción,\nVivir es un misterio que no ha de acabar,\nEl alma busca el rastro, su propio lugar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "destino"
+  }
+}

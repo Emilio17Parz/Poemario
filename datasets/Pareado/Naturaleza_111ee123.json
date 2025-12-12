@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Con su murmullo el río me convida,\nA la belleza pura de la vida.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "río"
+  }
+}

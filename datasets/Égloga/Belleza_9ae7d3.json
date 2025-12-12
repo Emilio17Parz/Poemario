@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cristal líquido que corre,\ndiamantes bajo el sol.\nNo hay arrebol\nque el agua borre.\nDesde la torre\nse ve su farol.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cristal"
+  }
+}

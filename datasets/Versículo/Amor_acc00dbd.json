@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres huerto cerrado, hermana mía, esposa mía; fuente cerrada, fuente sellada a la que solo yo tengo acceso.\nTus renuevos son paraíso de granados, con frutos suaves, de alheña y de nardos, de azafrán, caña aromática y canela.\nLevántate, aquilón, y ven, austro; soplad en mi huerto, despréndanse sus aromas para que venga mi amado y coma de sus dulces frutos.\nYo he entrado en mi huerto y he recogido mi mirra y mis aromas; he comido mi panal y mi miel.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

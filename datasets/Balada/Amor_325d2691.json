@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo el manto de la luna clara,\nte juré mi amor junto a la fuente,\ny aunque el tiempo nos separe ahora,\ntu recuerdo vive en mi presente.\n¡Ay, luna, luna, testigo silente,\ndile que la amo eternamente!",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "luna"
+  }
+}

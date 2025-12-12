@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cruzaste en mi destino\ncomo luz de amanecer,\ny me hiciste renacer\nen el borde del camino.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "destino"
+  }
+}

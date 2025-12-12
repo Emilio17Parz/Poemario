@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro hacia arriba y veo el azul,\nlienzo infinito de nubes blancas.\nLas aves vuelan en filas francas\nrompiendo del aire el tul.\nEl sol reina como un baúl\nde oro sobre las barrancas.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "nubes"
+  }
+}

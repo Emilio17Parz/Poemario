@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cono abierto\nsonido sale\ngrito fuerte\nprotesta ya\nvoz del pueblo\nque se alza\npor justicia.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "protesta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tocó la piel de mármol, fría y sin calor,\nSintió la textura, un suave dolor.\nEl tacto es el sentido que despierta al ser,\nLa belleza que podemos ver y tener.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "tacto"
+  }
+}

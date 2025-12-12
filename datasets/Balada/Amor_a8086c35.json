@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te di una rosa roja y fragante,\nsímbolo de mi querer profundo,\npara que sepas que este amante\nte busca por todo el vasto mundo.\nCada minuto y cada segundo,\nen tu belleza yo me hundo.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

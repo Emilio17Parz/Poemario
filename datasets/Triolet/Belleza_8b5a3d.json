@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mármol tallado,\nForma perfecta,\nQue has creado.\nMármol tallado,\nAdmirado,\nDirecta.\nMármol tallado,\nForma perfecta.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mármol"
+  }
+}

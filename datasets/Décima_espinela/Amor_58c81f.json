@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres rosa del jardín,\nque perfuma mi existencia,\ncon tu mágica presencia,\nde principio hasta el fin.\nSuena dulce el violín,\ncuando te veo pasar,\ny no puedo dejar,\nde admirar tu belleza,\nque con gran delicadeza,\nme ha sabido enamorar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "flor"
+  }
+}

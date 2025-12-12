@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se abre el capullo al beso del rocío,\nmostrando sus colores y su olor,\nvenciendo al aire matinal y frío.\n\nEs una joya llena de valor,\nque adorna el prado con su gallardía,\nfruto perfecto del gran Creador.\n\nQue alegra nuestro día.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "flor"
+  }
+}

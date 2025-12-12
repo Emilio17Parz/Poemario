@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza pasa como un suspiro,\nse marchita la flor y cae la hoja,\ny yo su breve encanto admiro.\n\nEn este ciclo donde yo giro,\nel tiempo todo lo desaloja,\nla belleza pasa como un suspiro.\n\nAunque me duela y aunque deliro,\npor la juventud que se sonroja,\ny yo su breve encanto admiro.\n\nEs un fugaz y dulce retiro,\nque el destino cruel nos antoja,\nla belleza pasa como un suspiro.\n\nMe quedo quieto y la respiro,\nantes que la muerte la recoja,\ny yo su breve encanto admiro.\n\nPor eso canto y por eso miro,\nesta luz que en mis ojos se aloja,\nla belleza pasa como un suspiro,\ny yo su breve encanto admiro.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

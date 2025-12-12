@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi alma sin ti era un gran hueco,\ncon solo un amargo eco.\nLlegaste y la paz,\ntrajo su solaz,\ndonde antes había un borrego.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

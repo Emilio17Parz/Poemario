@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Muere el día,\nen el poniente,\nlentamente,\ncon agonía.\nLa melodía,\nde la luz,\ncarga su cruz,\ny se va,\nmas volverá,\ncon su andaluz.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

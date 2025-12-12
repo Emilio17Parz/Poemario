@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Salve, oh río, sangre del suelo!\nQue marchas triunfante buscando la mar,\nsin detenerte nunca a descansar,\nreflejando el brillo del alto cielo.\nFuente de vida, caudal de la historia,\nque llevas las aguas hacia la gloria.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando tu luz en mi sendero brota,\nEl alma, que dormía, pronto vela;\nY la memoria fiel te canta,\nDespierta un canto dulce y nuevo al viento.\n\nMas cuando llega el tierno anhelo puro,\nY tu mirada en mi interior reposa,\nBusco, con fervor, tu dulce boca,\nEl leve y hondo ardor de un solo beso.\n\nAsí mi vida en ti su rumbo halla,\nNo temo el tiempo, ni la vana ausencia;\nPorque tu ser me da la calma,\nPerenne dicha, eterna y clara esencia.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "beso"
+  }
+}

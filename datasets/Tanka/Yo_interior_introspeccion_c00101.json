@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Oigo una voz ya,\nque me habla desde adentro,\nla voz de mi guía.\nMe dice el camino cierto,\ncon dulzura y con firmeza.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Voz"
+  }
+}

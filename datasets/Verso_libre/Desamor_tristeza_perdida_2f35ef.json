@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La palabra adiós\nse quedó flotando en el pasillo,\npesada como una piedra.\nNadie la recogió.\nSigue ahí, tropezamos con ella\ncada vez que intentamos recordar\npor qué nos queríamos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

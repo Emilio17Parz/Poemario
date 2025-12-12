@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Tiempo de espigas y de grano,\nel sol dorado ya madura,\nla promesa de la hartura,\nfruto del esfuerzo humano.\n\nLa hoz brilla en la mano,\ncortando el trigo con valor,\nagradeciendo al creador,\nel regalo del verano.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cosecha"
+  }
+}

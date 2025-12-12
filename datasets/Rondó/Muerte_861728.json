@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visto la ropa,\nde color negro,\nno me alegro,\ncon la copa.\nLa tropa,\ndel suegro.\nVisto la ropa.\n\nSeñal de respeto,\npor el ausente,\nque se siente,\ncompleto.\nEl secreto,\npendiente.\nVisto la ropa.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "ropa"
+  }
+}

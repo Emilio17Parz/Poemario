@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu sombra me persigue\npor cada rincón,\ny el dolor prosigue.\nTu sombra me persigue,\nno hay quien mitigue\nesta desilusión.\nTu sombra me persigue\npor cada rincón.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

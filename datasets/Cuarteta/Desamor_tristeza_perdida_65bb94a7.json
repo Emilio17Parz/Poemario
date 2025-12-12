@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento un peso en el pecho,\nuna pena que me ahoga,\nviendo todo lo deshecho\nque con el llanto dialoga.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "pecho"
+  }
+}

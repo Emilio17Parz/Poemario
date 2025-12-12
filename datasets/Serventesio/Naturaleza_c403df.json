@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El campo es la vida, el aroma a tierra y a pan (A),\nel verde que cura la mente y el ser (B),\nlos surcos profundos que el tiempo le dan (A),\nla fuerza que ayuda a crecer (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Campo"
+  }
+}

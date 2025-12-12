@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "B uscando la miel de tu boca,\nE ntrego mi alma en silencio,\nS intiendo que el tiempo se para,\nO lvidando al mundo por ti.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "beso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos hijos de la tierra,\nunidas las vidas humanas,\nen paz y no en la guerra.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

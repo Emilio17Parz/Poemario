@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[EL CARPINTERO]\n(Clavando la tapa)\nUna caja simple, de seis caras, y adentro, todo el universo que fue un hombre.\nHe construido cien de estas prisiones de madera. Y en cada una, me entierro un poco.\nEl ataúd es el último traje, el más ajustado, el que ya no se quita.\nDuerme, hermano. En esta madera, tu vida por fin encontró su forma final.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "ataúd"
+  }
+}

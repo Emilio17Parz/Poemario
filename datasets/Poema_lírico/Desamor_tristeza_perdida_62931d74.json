@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ruedan las lágrimas por mi faz,\nrío salado de soledad,\nllevándose la felicidad,\ncon un impulso tenaz.\nYa no encuentro mi paz,\nen esta oscura ciudad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Es un don,\nla creación.\n\nTan perfecta,\ny directa,\nque conecta,\ncon pasión.\n\nEs un don,\nla creación.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "don"
+  }
+}

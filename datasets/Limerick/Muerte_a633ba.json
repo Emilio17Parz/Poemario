@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tiraron sus restos al mar,\nqueriéndolo liberar.\nEl viento sopló,\ny todo volvió,\na la cara del familiar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

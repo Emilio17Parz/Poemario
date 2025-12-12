@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Por su rostro se lanzaron mil navíos al mar,\nrompiendo la paz de los pueblos con furor,\nTroya ardió en llamas por un solo amor,\ny la sangre de héroes se vino a derramar.\nNo hubo muro alto que pudiera frenar,\nla pasión que causaba su inmenso resplandor,\npues Paris la amaba con tal gran ardor,\nque el mundo entero quiso desafiar.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Helena"
+  }
+}

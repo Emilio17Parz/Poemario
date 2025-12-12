@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Solo estoy yo,\ncon mi conciencia,\nel mundo huyó,\ncon impaciencia.\n\nCon mi conciencia,\nhablo bajito,\ncon impaciencia,\nun solo grito.\n\nHablo bajito,\nsolo estoy yo,\nun solo grito,\nel mundo huyó.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "yo"
+  }
+}

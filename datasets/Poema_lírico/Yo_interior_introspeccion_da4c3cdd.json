@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro mi rostro en el vidrio frío,\ny me pregunto quién es el que ve,\nsi es el que fui o el que seré,\nen este eterno y constante río.\nBusco en el fondo del ser mío,\nla identidad que un día soñé.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

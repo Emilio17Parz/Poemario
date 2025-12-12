@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Agua salada que sale sola,\npor un tonto que se marchó,\ndrama digno de una ola,\nque mi maquillaje manchó.\nLlorar adelgaza, dicen,\nmientras mis ojos escuecen.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Lágrimas"
+  }
+}

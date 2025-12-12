@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Solo con ver tu mirada,\ntengo el alma enamorada.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

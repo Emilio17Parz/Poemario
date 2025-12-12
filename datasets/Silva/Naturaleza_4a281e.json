@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuela alto,\nel pajarillo,\ncon su brillo,\ny su salto.\nSin asalto,\ncruza el viento,\ncon aliento,\nde cobalto.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "pájaro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Estalla el campo en vivo color,\nborrando las huellas del dolor.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "color"
+  }
+}

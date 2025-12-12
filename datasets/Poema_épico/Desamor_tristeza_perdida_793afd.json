@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Eras el sol de mi firmamento,\ny ahora la luna te oculta, cruel,\noscuridad, frío y lamento,\nbebiendo vinagre en vez de miel.\nEclipse perpetuo, noche sin fin,\nmarchita la rosa en mi jardín.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Eclipse"
+  }
+}

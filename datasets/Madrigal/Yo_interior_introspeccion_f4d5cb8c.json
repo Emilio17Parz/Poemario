@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Caminos se bifurcan,\ny las dudas mi mente siempre surcan.\n¿Qué senda he de tomar?\n¿Cuál he de abandonar?\nEl miedo a equivocarme\nme impide decidir y liberarme.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "duda"
+  }
+}

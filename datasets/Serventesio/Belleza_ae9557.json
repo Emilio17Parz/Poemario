@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La danza es el ritmo, el cuerpo sin par ni final (A),\nque rompe el espacio con gracia y poder (B),\nla vida que fluye, el don total (A),\nla fuerza que ayuda a crecer (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

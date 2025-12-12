@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El valor no es no tener miedo,\nsino avanzar en el ruedo.\nSentir el temor y actuar,\nes lo que te hace ganar.\nEl cobarde nunca empieza,\nel valiente usa cabeza.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "valor"
+  }
+}

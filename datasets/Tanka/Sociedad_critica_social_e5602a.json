@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Un grito en la noche,\nde la gente que se alza,\npidiendo ya un cambio.\nEl poder teme la fuerza,\nde la voz de la unión.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La gloria no se alcanza en blando lecho,\nsino con el sudor y la fatiga,\ny la enemiga\nfortuna venciendo con fuerte pecho.\nAlza la espada, noble caballero,\nsé el primero\nen la justa lid,\ny sigue la huella del Adalid.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

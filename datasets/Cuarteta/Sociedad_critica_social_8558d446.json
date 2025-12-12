@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se extiende la pobreza\npor las calles de la urbe,\ncon mucha crudeza\nsin que nadie se turbe.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sal del mapa conocido,\nexplora lo nuevo,\naunque estés perdido,\ny llueva de huevo.\nLa aventura empieza,\ndonde acaba la certeza.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Curiosidad"
+  }
+}

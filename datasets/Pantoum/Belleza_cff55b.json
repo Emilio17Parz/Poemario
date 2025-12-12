@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dura tan solo un momento,\nla flor que abre su broche.\nSe la lleva pronto el viento,\nantes que llegue la noche.\n\nLa flor que abre su broche,\nbelleza que muere y pasa.\nAntes que llegue la noche,\nla llama se vuelve brasa.\n\nBelleza que muere y pasa,\nse la lleva pronto el viento.\nLa llama se vuelve brasa,\ndura tan solo un momento.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

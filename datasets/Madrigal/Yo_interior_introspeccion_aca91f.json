@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Perdonarme a mí mismo es difícil,\naceptar que fallé y que soy humano,\ndar la mano,\nal niño herido en el día grís.\nLa culpa es una carga muy pesada,\nla entrada,\na la libertad es la compasión,\ny el perdón.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

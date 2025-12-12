@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me abraza la fría soledad,\nes mi única realidad,\nsin luz y sin claridad.\nMe abraza la fría soledad,\nlejos de la felicidad,\ny de tu falsa piedad.\nMe abraza la fría soledad,\nes mi única realidad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

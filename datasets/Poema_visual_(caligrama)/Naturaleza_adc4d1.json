@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Seis puntas\nhielo geométrico\nblanco y frío\núnico diseño\ncae despacio\nse funde luego\nagua será.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

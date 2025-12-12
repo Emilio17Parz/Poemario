@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Intento que tu rostro se me borre,\npero sigues en mi alma clavada,\ny el tiempo de tu ausencia ya no corre.\n\nEs una lucha triste y pesada,\ncontra la sombra de lo que vivimos,\nque deja mi esperanza aniquilada.\n\nLo mucho que perdimos.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

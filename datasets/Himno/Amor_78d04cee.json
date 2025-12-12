@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Salve, oh beso, sello del amor,\nsímbolo puro de la unión perfecta,\ndonde el alma libre se recolecta,\nlejos del mundo y de su dolor.\nCáliz de néctar que la vida ofrece,\ndonde el espíritu siempre florece.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "beso"
+  }
+}

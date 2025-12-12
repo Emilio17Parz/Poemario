@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi cuerpo es un templo,\ndonde el alma fiel reside,\nen paz y en amor.\nHay que cuidarlo con celo,\nes la morada divina.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Templo"
+  }
+}

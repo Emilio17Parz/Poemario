@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cruel palabra el adiós,\nque separó el destino de los dos.\nTe fuiste sin mirarme,\nsin querer consolarme.\nY queda aquí el vacío\nde este pobre y herido pecho mío.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

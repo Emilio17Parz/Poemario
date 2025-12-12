@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se citaron con las pistolas,\ncuando el sol despuntaba,\nel honor los llamaba,\nfrente a las amapolas.\nCaminaron diez pasos lentos,\nse volvieron al mismo tiempo,\nfue un fugaz contratiempo,\nllevado por los vientos.\nUno cayó en la hierba,\ny la muerte fue su sierva.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "honor"
+  }
+}

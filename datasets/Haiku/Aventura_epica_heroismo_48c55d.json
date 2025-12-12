@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelve a la casa,\ncon cicatrices viejas,\npaz en el alma.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "casa"
+  }
+}

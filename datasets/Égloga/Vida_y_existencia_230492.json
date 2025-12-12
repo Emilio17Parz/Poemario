@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tras el fuego, el bosque brota,\nmás verde y más fuerte,\nvenciendo a la propia muerte,\ncon una fuerza ignota.\n\nLa vida nunca se agota,\nsiempre busca la salida,\ncurando cualquier herida,\ncon su savia devota.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "renacer"
+  }
+}

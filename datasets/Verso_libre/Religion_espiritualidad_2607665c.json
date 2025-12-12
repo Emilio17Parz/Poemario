@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Lo llamamos con mil nombres,\nlo buscamos en templos y montañas.\nPero Dios está en el silencio,\nen la sonrisa del desconocido,\nen la hoja que cae.\nNo es un juez lejano,\nes el aliento que nos mantiene vivos,\nla chispa divina en el barro.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "dios"
+  }
+}

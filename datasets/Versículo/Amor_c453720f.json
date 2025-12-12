@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hay un fuego encendido en mis huesos que no me deja descansar, un ardor que clama por tu presencia en la vigilia y en el sueño.\nNo es la llama que destruye y reduce a cenizas, sino la zarza ardiente que alumbra el desierto sin consumirse jamás.\nAcércate a mí y quítate el calzado, porque el lugar que pisamos cuando nos amamos es tierra santa.\nNuestras almas se han fundido como el oro y la plata en el crisol, y ya no hay artífice que pueda separarlas.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

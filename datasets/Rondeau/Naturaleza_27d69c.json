@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En el bosque todo es vida,\nla naturaleza anida,\nentre ramas y verdor,\ncon su música y color,\ny la paz que nos convida.\n\nEs la tierra prometida,\nla belleza desmedida,\nsin angustia ni dolor,\nEn el bosque.\n\nCada hoja está prendida,\na la rama suspendida,\nregalando su frescor,\ny su aroma embriagador,\nuna esencia compartida,\nEn el bosque.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "verde"
+  }
+}

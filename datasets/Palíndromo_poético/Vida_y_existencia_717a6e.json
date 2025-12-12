@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vida es\namar hoy\nser feliz\namar hoy\nvida es",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "vida"
+  }
+}

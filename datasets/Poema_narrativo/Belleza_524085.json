@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La candela danzaba, con lenguas de oro y rojo,\nCalentando la noche, sin ningún antojo.\nEl fuego era la vida, el calor y el color,\nLa belleza que nace del duro dolor.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

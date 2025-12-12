@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se ha ido el alma bella a su morada,\ndejando el velo hermoso en tierra fría,\ny la clara alegría\nse tornó en niebla oscura y desolada.\nOh Muerte, que segaste la flor pura,\ntu victoria es dura,\nmas no mataste el brillo\nque hace del cielo su nuevo castillo.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "partida"
+  }
+}

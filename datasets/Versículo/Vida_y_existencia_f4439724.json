@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "En la urdimbre tenue del ser,\nun parpadeo, la existencia se enciende.\nMisterio que respira al amanecer,\nvoz callada que el universo extiende.\n\nEl *tiempo*, río que nunca se detiene,\nmoldea la forma, disuelve la memoria.\nCada latido, una verdad que deviene,\nfugaz, mas eterna en su trayectoria.\n\nYace el alma en la huella del camino,\nbuscando el eco de un sentido oculto.\nSomos el soplo de un destino divino,\nbreve floración, y el último indulto.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

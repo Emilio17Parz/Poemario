@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "La fe, cual faro, guía mi sendero,\ny eleva el alma a un plano superior,\ndonde la voz del tiempo pierde el rumor,\nmi humilde rezo, sincero y verdadero.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

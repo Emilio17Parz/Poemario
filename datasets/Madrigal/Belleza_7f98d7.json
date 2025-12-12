@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dormía la figura en la cantera,\nhasta que el cincel la despertó,\ny le dio,\nla vida eterna de una primavera.\nFría piedra que ahora tiene alma,\ny calma,\nobrero eterno de la perfección,\ny la pasión.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

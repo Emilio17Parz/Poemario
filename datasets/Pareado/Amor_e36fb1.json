@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No fue casualidad, sino el gran destino (A),\nque enlazó mi alma en tu noble camino (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla fuerte el levante,\nsopla el gran viento,\nllevándose las hojas\nen un momento.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "viento"
+  }
+}

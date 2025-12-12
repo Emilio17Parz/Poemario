@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Mi alma se desnuda,\nbusca su verdad,\nrevela el secreto,\nsin vanidad.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Entré en la vida cual laberinto,\nlleno de muros y de confusión,\nsiguiendo siempre mi instinto,\nbuscando el centro y la razón.\nEs complicado hallar la unión,\nentre la mente y el corazón.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

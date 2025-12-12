@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "En el baile de la muerte entran\nel papa, el rey y el labrador,\nel guerrero y el trovador,\ntodos en el centro se encuentran.\n\nLas vanidades se desconcentran,\ncae la máscara del actor,\ny ante el supremo Creador\nlas almas desnudas se adentran.\n\nNo valen oros ni blasones,\nni tierras, ni títulos vanos,\nsolo las buenas acciones.\n\nQuedamos como hermanos,\nsin clases ni divisiones,\npolvo en las divinas manos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "baile"
+  }
+}

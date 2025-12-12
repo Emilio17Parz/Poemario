@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mar de lágrimas, de un azul sombrío,\nel brillo se apaga sin un gran mal.\nLa ola es la pena, el lamento frío,\nel alma sin un gran cristal.\nTu inmensidad es dolor, la calma es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En el bosque no hay ruido,\nhay sonidos de vida,\nescucha el latido,\nde la tierra dormida.\nEn el silencio se aprende,\nlo que el grito no entiende.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

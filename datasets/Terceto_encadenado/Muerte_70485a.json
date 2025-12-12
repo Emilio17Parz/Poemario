@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El destino final, la sombra sin par (A),\nel camino al vacío, sin un error (B),\nla forma de no volver a amar (A).\n\nLa ausencia me come, sin un fulgor (B),\nel alma se pierde, sin un final (C),\nla forma de no hallar el valor (B).\n\nNo hay más que sufrir, no hay más que el mal (C),\nla sombra me cubre, sin piedad (D),\nla eterna y dura lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ciudad de mármol blanco y cipreses,\ndonde habitan los nombres del pasado,\ny duerme el rico junto al desgraciado,\nsin odios, sin amores y sin meses.\n\nAquí terminan todos los reveses,\nel grito del dolor es acallado,\ny el cuerpo que fue tanto idolatrado\nes polvo entre las flores y las preces.\n\nCamino entre las tumbas con respeto,\nleyendo fechas, vidas resumidas,\nen este silencioso y gran boceto.\n\nSon estas las moradas decididas,\ndonde se guarda el último secreto\nde todas las historias concluidas.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

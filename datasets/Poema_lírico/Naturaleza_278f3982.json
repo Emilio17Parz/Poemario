@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Oh, mar inmensa de espuma y de sal!\nTu voz profunda me habla de historia,\nguardas secretos en tu gran memoria,\ncon tu potencia que es elemental.\nEres principio y eres final,\nfuente de vida y eterna gloria.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "mar"
+  }
+}

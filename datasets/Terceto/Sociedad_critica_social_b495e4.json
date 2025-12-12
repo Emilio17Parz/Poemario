@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El hambre es un crimen, la herida sin fin (A),\nque sangra en el mundo sin compasión (A),\nel eterno y puro jazmín (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Hambre"
+  }
+}

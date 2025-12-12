@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde esplendor, dulce fulgor,\ndel campo abierto, brillando bajo el sol.\n\nLa montaña se alza con su rumor,\nsu roca antigua, dorada bajo el sol.\n\nEl canto del ave, su fiel clamor,\ndespierta el alba, sereno bajo el sol.\n\nFluye el cristalino **río**, con su rumor,\nun sendero de plata, que danza bajo el sol.\n\nCada pequeña flor, con su primor,\nabre sus pétalos tiernos bajo el sol.\n\nOlvida el alma triste su dolor,\ny sana en este abrazo, eterno bajo el sol.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "río"
+  }
+}

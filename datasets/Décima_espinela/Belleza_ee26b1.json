@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suenan las notas,\nen el aire puro,\nrompiendo el muro,\nde almas rotas.\nSon las gotas,\nde melodía,\nque dan alegría,\nal corazón,\ncon la canción,\nde cada día.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "música"
+  }
+}

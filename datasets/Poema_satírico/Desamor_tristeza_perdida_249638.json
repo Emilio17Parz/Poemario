@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Oh, pobre de mí, abandonado!,\nel mundo conspira en mi contra,\nsoy un ser desgraciado,\nque con la suerte se encuentra.\nDisfruta su propio duelo,\narrastrándose por el suelo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Victima"
+  }
+}

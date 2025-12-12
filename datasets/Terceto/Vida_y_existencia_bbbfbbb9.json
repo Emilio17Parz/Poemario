@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Un amigo es un lazo que sostiene,\ncuando el mundo parece derrumbarse,\ny el dolor a nuestro pecho viene.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "lazo"
+  }
+}

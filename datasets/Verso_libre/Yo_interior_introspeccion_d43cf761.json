@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me paro frente al vidrio\ny un extraño me devuelve la mirada.\nTiene mis ojos, pero más cansados.\nTiene mi boca, pero callada.\nEl espejo no miente,\npero tampoco dice toda la verdad.\nSolo muestra la cáscara\ndel universo que llevo dentro.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

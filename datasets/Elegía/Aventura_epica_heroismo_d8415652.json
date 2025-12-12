@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se acabaron los mapas y rutas,\nel horizonte se ha cerrado,\nmi barco está varado,\nen playas tristes y diminutas.\nLas aventuras son ahora grutas,\nde un pasado ya terminado,\nsoy un viajero cansado,\ncomiendo las últimas frutas.\nLamento que el mundo se achique,\nque no haya más tierras que ver,\nni misterio que me repique.\nMe toca ahora envejecer,\nsin que la emoción me salpique,\nviendo el sol decrecer.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

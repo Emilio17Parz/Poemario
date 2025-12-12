@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Di 'te quiero' hoy,\nno esperes a mañana,\nno sabes dónde voy,\nni cuándo suena la campana.\nQue no queden palabras,\ncuando las puertas abras.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Despedida"
+  }
+}

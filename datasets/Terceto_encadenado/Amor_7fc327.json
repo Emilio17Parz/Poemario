@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi corazón te es fiel, no miente jamás (A),\nes la promesa que quiero cumplir (B),\nla vida que sabe hallar la paz (A).\n\nSin ti no hay futuro, sin ti no hay vivir (B),\nla fuerza que impulsa mi ser y mi fe (C),\nel único rumbo para seguir (B).\n\nEres mi norte, el eterno 'sé' (C),\nla luz que me guía, el dulce amor (D),\nla vida que en ti quiere crecer (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Fidelidad"
+  }
+}

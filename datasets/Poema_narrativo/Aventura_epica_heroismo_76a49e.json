@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Rodeó el alto muro, con flechas y con fuego,\nEl castillo era un gigante, un duro juego.\nRompió el puente levadizo con fuerza y valor,\nTomando la fortaleza con honor y fulgor.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "castillo"
+  }
+}

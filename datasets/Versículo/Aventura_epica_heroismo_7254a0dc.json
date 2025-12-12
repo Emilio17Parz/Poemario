@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Esforzaos y cobrad ánimo; no temáis, ni tengáis miedo de ellos, porque el Señor tu Dios es el que va contigo.\nMira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque el Señor tu Dios estará contigo en dondequiera que vayas.\nEl da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas; los que esperan al Señor tendrán nuevas fuerzas.\nCorrerán, y no se cansarán; caminarán, y no se fatigarán; levantarán alas como las águilas, hacia la cumbre de la victoria.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "fuerza"
+  }
+}

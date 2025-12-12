@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Estalla el color,\nen el lienzo blanco,\ncomo un barranco,\nde puro amor.\nQuita el dolor,\ncon su tono franco.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "color"
+  }
+}

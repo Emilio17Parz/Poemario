@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brilla la joya,\ncon su luz.\nSin capuz,\nno se abolla.\n\nSe desarrolla,\nel andaluz.\nBrilla la joya,\ncon su luz.\n\nLa cebolla,\nen la cruz.\nTrasluz,\nque apoya.\nBrilla la joya.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "joya"
+  }
+}

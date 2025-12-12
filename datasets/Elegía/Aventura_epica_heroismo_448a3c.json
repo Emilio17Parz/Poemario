@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El miedo venció al coraje,\nhuimos como conejos,\nlejos,\ndel traje.\n\nPeaje,\ny espejos,\nviejos,\nsalvaje.\n\nVergüenza de la huida,\nherida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "valor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Borrón y cuenta nueva,\nporque el amor es más que un simple error;\nse va todo el temor\nque el viento lleva.\nVolver a comenzar con la mirada,\nde luz enamorada.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

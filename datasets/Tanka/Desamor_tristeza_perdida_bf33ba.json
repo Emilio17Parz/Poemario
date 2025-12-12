@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El largo silencio\nde la noche sin tu voz,\nme ahoga en dolor.\nBusco una estrella fugaz,\ny no sé qué más pedir.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

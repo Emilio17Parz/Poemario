@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No temas estar contigo a solas,\nno te ahogues en las tristes olas.\nLa soledad es oportunidad,\nde conocer tu propia verdad.\nReconstrúyete en el silencio,\ny hallarás tu propio palacio.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

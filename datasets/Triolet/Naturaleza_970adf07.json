@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla fuerte el invisible viento,\nllevando lejos el lamento,\nen constante movimiento.\nSopla fuerte el invisible viento,\nsin pausa y sin aliento,\nborrando el pensamiento.\nSopla fuerte el invisible viento,\nllevando lejos el lamento.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "viento"
+  }
+}

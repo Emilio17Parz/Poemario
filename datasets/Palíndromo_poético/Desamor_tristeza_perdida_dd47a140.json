@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Noche fría, el alma llora sin ti.\nTu risa, de ayer, mía, hoy un eco.\n¡Adiós!, la voz se ahoga, todo calla.\nSoledad que el corazón abraza y duele.\nCalla todo, se ahoga la voz, ¡Adiós!\nUn eco hoy, mía, de ayer tu risa.\nSin ti llora el alma, fría noche.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

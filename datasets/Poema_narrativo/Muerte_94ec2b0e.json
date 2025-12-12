@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Terminó la batalla en la llanura,\nquedaron los cuerpos sobre la hierba.\nYa no había gritos, ni la locura\nde la violencia que el odio conserva.\nBajó la noche con su vestidura,\ny la luna salió, pálida y sierva.\nUn pájaro voló sobre el acero,\nsin encontrar rama ni comienzo,\ny reinó en el campo entero\nun absoluto y mortal silencio.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El Santo que guía mi ser,\nme ayuda a la sombra vencer.\nSu ejemplo es la luz,\nsin una gran cruz,\nla vida que puedo tener.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Santo"
+  }
+}

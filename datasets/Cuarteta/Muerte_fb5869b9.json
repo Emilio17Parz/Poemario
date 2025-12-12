@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Muerte es la partida sin aviso,\nque el cuerpo en tierra fría dejará.\nMas el espíritu, cumplido el guiso,\na la eternidad su vuelo alzará.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

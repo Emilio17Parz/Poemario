@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un río sin par (a),\nque fluye con gran fulgor (b),\nla forma de al fin sanar (c),\nel eterno y noble valor (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Fluir"
+  }
+}

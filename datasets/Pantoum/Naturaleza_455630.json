@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el aire en la llanura,\nmoviendo el trigo dorado,\ncon una fuerza y premura,\nque deja todo peinado.\n\nMoviendo el trigo dorado,\nbaila la hierba al compás,\nque deja todo peinado,\ny no se detiene jamás.\n\nBaila la hierba al compás,\ncon una fuerza y premura,\ny no se detiene jamás,\nsopla el aire en la llanura.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "aire"
+  }
+}

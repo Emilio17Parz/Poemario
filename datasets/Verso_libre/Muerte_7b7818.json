@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El hueco que dejas\ntiene tu forma exacta.\nNadie puede llenarlo.\nEs un espacio negativo en el aire,\nuna silueta invisible\nque choca con mi día a día.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

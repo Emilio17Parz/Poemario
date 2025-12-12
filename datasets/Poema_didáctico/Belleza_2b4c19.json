@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte eleva el espíritu,\ncontémplalo con atención,\nlejos del ímpetu,\ny con el corazón.\nLa obra nos habla de lo eterno,\ny nos salva del invierno.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Arte"
+  }
+}

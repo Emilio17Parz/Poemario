@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mochila cargada de recuerdos,\nalgunos dulces, otros amargos,\ntan largos,\nque nos dejan a veces poco cuerdos.\nSoltar el lastre para avanzar,\ny volar,\nligeros hacia el nuevo día,\ncon alegría.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza nace,\ndel sentir más profundo,\ncon un dulce brillo\nque ilumina en el alma,\nnos da paz y consuelo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hoja brillante, filo de metal,\nfiel compañera del gran luchador,\ndefiende al justo con su valor,\narma sagrada.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por valles de sombras, sin temor,\nMarcha el héroe, valiente su andar,\nBuscando un destino, su fulgor,\nDonde la <b>gloria</b> ha de brillar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

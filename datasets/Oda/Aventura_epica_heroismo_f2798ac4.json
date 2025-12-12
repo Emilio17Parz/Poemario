@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Oh, espíritu audaz, de senda sin igual,\nQue al corazón del hombre a la gloria convoca,\nTe alzas de la quimera, del sueño ancestral,\nY en cada noble hazaña tu fuego desboca.\n\nPor cumbres ignotas y mares sin final,\nEl héroe se forja, su temple se agiganta,\nCon brújula de sueños, en lucha frontal,\nDesafía al abismo que en sombras se levanta.\n\nNo teme la noche, ni el hondo laberinto,\nEl filo del acero le da voz al coraje,\nAtraviesa el umbral de lo jamás distinto,\nForjando con su sangre el épico linaje.\n\nCuando el reto final, con aliento fatal,\nUn viejo *dragón* de escamas milenarias,\nSe alza en su camino, con furia espectral,\nEl alma del guerrero su temple no desmaya.\n\nAsí nace la gesta, leyenda inmortal,\nQue cruza los eones, del tiempo se liberta,\nEl eco del valor, un canto universal,\nQue el alma del futuro por siempre despierta.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

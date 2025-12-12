@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Construyó el Taj Mahal en su memoria,\nmármol blanco para el amor perdido,\nun monumento nunca antes visto,\npara honrar su belleza y su gloria.\nEl emperador llora su historia,\npor la esposa que al cielo ha partido,\ny deja en la piedra el latido,\nde una pasión perentoria.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

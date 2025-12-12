@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La legua que separa,\nnuestras dos vidas,\nes causa de mis penas,\ny de mis huidas.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "legua"
+  }
+}

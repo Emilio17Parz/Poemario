@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Su misión es salvar, proteger al débil,\nla causa del justo, sin preguntar,\nsu espíritu noble, su cuerpo hábil,\nla fuerza que sabe liberar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Misión"
+  }
+}

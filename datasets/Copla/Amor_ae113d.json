@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo encuentro la paz\nque al mundo le falta hoy,\npor eso te quiero tanto\ny todo mi ser te doy.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "paz"
+  }
+}

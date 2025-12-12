@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Historia que crece de boca en boca,\ny que el corazón del pueblo toca.\n¡Honor a la Leyenda, verdad soñada!,\nque nunca será del todo olvidada.\n\nHéroes y monstruos, magia y poder,\nlo que pudo ser y lo que fue ayer.\nVives en el alma de la tradición,\ndando sentido a nuestra unión.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

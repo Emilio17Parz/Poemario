@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivimos soñando un mundo mejor,\nlleno de paz y de libertad,\nlejos del odio y del rencor,\nbuscando siempre la verdad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

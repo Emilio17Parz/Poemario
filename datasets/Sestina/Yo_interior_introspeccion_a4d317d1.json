@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo en el alma un hondo secreto,\nque nadie nunca podrá saber,\nlo protejo al amanecer,\nmanteniéndolo siempre discreto,\npues es la carga de mi pasado,\nque llevo siempre a mi costado.",
+    "tipo": "Sestina (Estrofa I)",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

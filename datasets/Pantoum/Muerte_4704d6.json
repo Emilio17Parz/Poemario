@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tu nombre en el papel,\nbordeado de luto negro,\nun sabor a hiel,\nque ya no integro.\n\nBordeado de luto negro,\naviso para la gente,\nque ya no integro,\nque estás ausente.\n\nAviso para la gente,\nun sabor a hiel,\nque estás ausente,\ntu nombre en el papel.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "papel"
+  }
+}

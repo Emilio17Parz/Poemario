@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vuela mi inquieta mente,\nllevada por la corriente,\nde forma inconsciente.\nVuela mi inquieta mente,\ntan diferente,\ny tan potente.\nVuela mi inquieta mente,\nllevada por la corriente.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mente"
+  }
+}

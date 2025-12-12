@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Maldito reloj que no para!\nLadrón de mis mejores años,\nque me causas tantos daños\ny me marcas la cara.\nTu carrera es cruel y rara,\nllena de trucos y engaños,\nnos llevas como rebaños\nhacia la muerte clara.\nLloro los días perdidos,\nque se fueron sin volver,\nmomentos desvanecidos.\nNunca podré detener\ntus pasos decididos,\nni dejar de envejecer.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

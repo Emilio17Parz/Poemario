@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ya blanquea mi cabello,\ncon la nieve de los años,\npero conservo el destello.\n\nAl subir los peldaños,\nde la edad y la experiencia,\nsin sufrir los daños.\n\nDe la triste decadencia.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "años"
+  }
+}

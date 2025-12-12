@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Logra vencer a la muerte el arte,\ncon sus pinceles y su voz de oro,\nguardando vivo el inmortal tesoro\nque con el mundo el creador comparte.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[LA JOVEN]\n(Viendo una fotografía antigua de ella misma)\nQué ingenua eras. Qué estúpida fe en la inmortalidad de esa carne.\nEl tiempo te ha devorado, y ahora eres solo un recuerdo en papel sepia.\nNo me importa la ruina, me importa la traición de la promesa.\nLa belleza de la juventud es la broma cruel que el universo nos juega a todos.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

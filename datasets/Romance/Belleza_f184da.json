@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canta la diva en el palco\ncon voz de puro cristal,\ny el teatro se estremece\nante don tan especial.\nEs un sonido de ángeles\nque vence a todo mal,\ny nos lleva al paraíso\nde la escala musical.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "voz"
+  }
+}

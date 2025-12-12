@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Creer sin ver es el don,\nsaltar al gran vacío.\nSentir en el corazón,\ncalor en medio del frío.\n\nSaltar al gran vacío,\nfiarse de lo invisible.\nCalor en medio del frío,\nhacer real lo imposible.\n\nFiarse de lo invisible,\nsentir en el corazón.\nHacer real lo imposible,\ncreer sin ver es el don.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "fe"
+  }
+}

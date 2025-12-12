@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Huele a cera y a café,\nen la sala de la pena,\nla gente murmura bajo\nformando una cadena.\nLloran unos, otros callan,\nen la noche serena,\nrecordando al que se ha ido\nde esta vida terrena.\nMañana será el entierro,\nla despedida plena,\npero hoy se vela el cuerpo\ncon la tristeza ajena.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "café"
+  }
+}

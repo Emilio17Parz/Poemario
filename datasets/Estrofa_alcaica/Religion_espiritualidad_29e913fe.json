@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Piedras sagradas y columnas altas,\nhuele a misterio y a oración callada,\nperdonas nuestras faltas\nen la penumbra consagrada.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "templo"
+  }
+}

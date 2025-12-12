@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Más vale morir de pie\nque vivir sin el honor,\nmanchar el nombre heredado\nes el castigo peor.\nGuarda tu palabra limpia,\nse fiel a tu gran señor,\nque la gloria verdadera\nnace del noble interior.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "honor"
+  }
+}

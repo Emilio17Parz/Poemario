@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedra fría y grabada,\nmarca el lugar del sueño.\nUna vida terminada,\nya no tiene dueño.\n\nMarca el lugar del sueño,\nflores secas en el suelo.\nYa no tiene dueño,\nbajo el manto del cielo.\n\nFlores secas en el suelo,\nuna vida terminada.\nBajo el manto del cielo,\npiedra fría y grabada.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

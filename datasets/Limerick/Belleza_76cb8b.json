@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se tiñó el pelo de verde,\npara que el novio recuerde.\nÉl se espantó,\ny se marchó,\n\"¡Pareces una que muerde!\".",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "pelo"
+  }
+}

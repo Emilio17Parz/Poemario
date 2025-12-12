@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corre el tiempo veloz, sin detenerse,\nmarcando el ritmo de nuestra existencia,\ncon insistencia,\ninvitándonos siempre a no perderse.\nArena que se escapa entre los dedos,\nsin miedos,\nvive el instante que hoy se te regala,\ny te da ala.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

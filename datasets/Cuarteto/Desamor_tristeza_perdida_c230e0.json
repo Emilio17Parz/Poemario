@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La niebla me cubre, no veo el camino,\nperdido en la bruma de mi dolor,\nmi vida es un trágico y cruel destino,\nsin el dulce rayo de amor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Niebla"
+  }
+}

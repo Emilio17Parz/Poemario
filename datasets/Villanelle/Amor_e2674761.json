@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¿Qué es el amor sino un fuego sin fin?\nUn cálido abrazo que el alma recrea,\nDonde la pasión es un tierno sentir.\n\nLa luz que nos guía por cada confín,\nUn sueño que el tiempo jamás desvanezca,\n¿Qué es el amor sino un fuego sin fin?\n\nEl eco que vibra en nuestro jardín,\nLa fuerza invencible que todo lo adeca,\nDonde la pasión es un tierno sentir.\n\nPromesa de entrega sin un porqué o un \"sin\",\nLa flor que en el alma por siempre florezca,\n¿Qué es el amor sino un fuego sin fin?\n\nRefugio seguro que cura el trajín,\nLa senda dichosa que siempre nos meza,\nDonde la pasión es un tierno sentir.\n\nLa vida se llena de dulce festín,\nUn don que el destino con gracia merezca,\n¿Qué es el amor sino un fuego sin fin?\nDonde la pasión es un tierno sentir.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

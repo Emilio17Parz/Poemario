@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "___Silencio___Nadie___Habla___",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La arena es suave, el desierto que es ya inmortal (A),\nel sol lo castiga con gran fulgor (A),\nla eterna y dulce verdad total (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

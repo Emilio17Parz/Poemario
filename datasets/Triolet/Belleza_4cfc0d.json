@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Aroma de flores,\nEn el jardín,\nDe mil colores.\nAroma de flores,\nSin dolores,\nSin fin.\nAroma de flores,\nEn el jardín.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "aroma"
+  }
+}

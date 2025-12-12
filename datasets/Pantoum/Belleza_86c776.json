@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Metal que seduce la vista,\namarillo resplandor,\nel sueño del alquimista,\nsímbolo de valor.\n\nAmarillo resplandor,\ncorona de rey y reina,\nsímbolo de valor,\nque al mundo peina.\n\nCorona de rey y reina,\nmetal que seduce la vista,\nque al mundo peina,\nel sueño del alquimista.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "oro"
+  }
+}

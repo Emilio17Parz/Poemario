@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Los sueños son la única realidad donde la gravedad no tiene poder y podemos volar con las alas del deseo.\nNo despertar es la tentación constante, porque en el reino de lo onírico somos los reyes de todo lo que nos falta.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

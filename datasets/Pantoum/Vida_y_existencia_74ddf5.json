@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye como el río,\nnada permanece igual,\nentre el calor y el frío,\nes la ley universal.\n\nNada permanece igual,\nel agua nunca es la misma,\nes la ley universal,\nque nos rompe el prisma.\n\nEl agua nunca es la misma,\ntodo fluye como el río,\nque nos rompe el prisma,\nentre el calor y el frío.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "río"
+  }
+}

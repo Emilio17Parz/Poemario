@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Oh, dónde está el fulgor de aquella edad dorada,\nLa sangre que marcaba la senda del valor;\nEl eco de mil voces, la gloria conquistada,\nQue hoy cede a la quietud, a un lúgubre dolor.\n\nCruzaron los abismos, domaron tempestades,\nMiraron al Leviatán con ojos de acero,\nForjaron en la fragua de épicas verdades\nUn canto para el alma, un fiero derrotero.\n\nY yace la **espada** silente, su filo ya sin brillo,\nUn eco de batallas que nadie oye ya.\nNo hay mano que la empuñe, ni hercúleo caudillo\nQue alce su acero puro ante la oscuridad.\n\nEl manto del olvido cubre los blasones,\nLos yelmos enmohecen bajo un cielo gris.\nSe han marchado los ritos, las viejas oraciones,\nEl pulso de una era que tuvo su raíz.\n\nMas queda la memoria, cual faro en la penumbra,\nDel fuego que en sus pechos ardía sin cesar.\nY en cada corazón que a la aventura nombra,\nLa épica dormida, un día ha de despertar.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "espada"
+  }
+}

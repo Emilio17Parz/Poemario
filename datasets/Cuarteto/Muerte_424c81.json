@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El sello final que clausura el vivir,\nla calma que viene a borrar el dolor,\nno hay más preguntas, no hay más que decir,\nsolo el vacío sin fulgor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Sello"
+  }
+}

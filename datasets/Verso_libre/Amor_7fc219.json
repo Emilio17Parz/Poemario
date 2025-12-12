@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amo el café de la mañana contigo,\nla guerra por la sábana,\nel cepillo de dientes junto al mío.\nLa épica de lo cotidiano,\ndonde la verdadera batalla\nes mantener viva la chispa\nentre facturas y lunes.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "rutina"
+  }
+}

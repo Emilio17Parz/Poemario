@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Puerta que se abre una vez,\nhay que entrar veloz.\nDejar la timidez,\nalzar la voz.\n\nHay que entrar veloz,\nantes que se cierre.\nAlzar la voz,\naunque uno yerre.\n\nAntes que se cierre,\ndejar la timidez.\nAunque uno yerre,\npuerta que se abre una vez.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "oportunidad"
+  }
+}

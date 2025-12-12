@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vive en el Instagram,\nhaciendo un gran programa.\nSu vida es falsa,\ncomo una salsa,\nque se derrama.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "redes"
+  }
+}

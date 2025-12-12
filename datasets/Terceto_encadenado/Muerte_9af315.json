@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Siento tu paso por el corredor,\ncomo una sombra que no se va,\ncausando en mi pecho un gran temor.\n\nQuizás tu alma vagando está,\nbuscando algo que aquí dejó,\no despidiéndose desde el más allá.\n\nDe lo que amó.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

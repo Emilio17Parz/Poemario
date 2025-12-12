@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Florece nuestro amor como un jardín,\nlleno de rosas y de olor suave,\nque no conoce límite ni fin.\n\nSuena en el aire un dulce violín,\nque tiene de la dicha la gran clave,\nflorece nuestro amor como un jardín.\n\nYo soy tu siervo y tu paladín,\ntú eres la dueña que todo lo sabe,\nque no conoce límite ni fin.\n\nBajo la luz del sol y el jazmín,\ndejamos que el deseo se nos grabe,\nflorece nuestro amor como un jardín.\n\nLejos del ruido y del puercoespín,\nque con sus púas el dolor alabe,\nque no conoce límite ni fin.\n\nEn este hermoso y verde confín,\ndejamos que el destino nos acabe,\nflorece nuestro amor como un jardín,\nque no conoce límite ni fin.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

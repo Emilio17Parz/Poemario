@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se abre paso a la eternidad,\ndonde el tiempo ya no existe,\ncon total tranquilidad,\naunque el adiós sea triste.\n\nDonde el tiempo ya no existe,\nreina la paz infinita,\naunque el adiós sea triste,\nel alma allí resucita.\n\nReina la paz infinita,\nse abre paso a la eternidad,\nel alma allí resucita,\ncon total tranquilidad.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

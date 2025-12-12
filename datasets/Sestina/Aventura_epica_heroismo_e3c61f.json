@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sale el guerrero al campo de batalla,\ncon la espada en la mano y el escudo,\ndispuesto a defender su gran honor,\nsin miedo a la muerte ni al destino,\nguiado por la luz de la justicia,\ny el fuego que arde en su corazón.\n\nEs noble y bravo su corazón,\nque no teme el fragor de la batalla,\npersiguiendo siempre la justicia,\nprotegido por su fuerte escudo,\naceptando el reto del destino,\npara mantener limpio su honor.\n\nVale más que la vida su honor,\ny la fuerza de su corazón,\nque marca el rumbo de su destino,\nen medio de la cruel batalla,\ngolpeando el hierro contra el escudo,\ncomo instrumento de la justicia.\n\nLucha siempre por la justicia,\ndefendiendo su tierra y honor,\nsin esconderse tras el escudo,\npues le guía su corazón,\nen el caos de la batalla,\ncumpliendo su heroico destino.\n\nEstá escrito en su destino,\nser la mano de la justicia,\nvenciendo en la dura batalla,\ncoronado de gloria y honor,\ncon el valor de su corazón,\ny la firmeza de su escudo.\n\nRegresa con su roto escudo,\nhabiendo cumplido su destino,\ncon paz en el corazón,\npor haber servido a la justicia,\ny salvado su honor,\ntras la sangrienta batalla.\n\nBatalla por el honor,\nescudo de justicia,\ndestino del corazón.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

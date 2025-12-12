@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Caen las hojas doradas,\ncomo lágrimas del árbol,\ncubriendo el frío mármol\nde las tierras cansadas.\nLas luces son apagadas,\nviene el invierno cual árbol,\ny el sol se esconde tras el árbol\nde nubes grises y heladas.\nEs la muerte del color,\nel sueño de la semilla,\nel silencio del cantor.\nLa naturaleza se humilla,\nante el frío invasor,\ny duerme en la orilla.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

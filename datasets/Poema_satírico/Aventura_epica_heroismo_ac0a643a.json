@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "De su sillón de terciopelo, con bostezo sutil,\nUn Héroe se irguió, por un oráculo infantil.\nNo era la opresión del tirano, ni un dragón al acecho,\nSino el hastío de no ser el gran foco de atención.\nPromesas de fama, de estatuas y un blasón,\nLe hicieron trocar la siesta por la gran expedición.\n\nCruzó \"Montes Crueles\" (colinas de un jardín),\nY \"Ríos de Lava\" (un charco con cieno).\nLuchó con \"Bestias Feroces\" (un gato dormilón),\nY \"Brujas Malvadas\" (la vecina del balcón).\nSu espada, de madera, brillaba sin metal,\n¡Qué duro el camino, qué gesta tan astral!\n\nEl \"Rey Oscuro\", un tendero con mal humor,\nSe rindió al ver al Héroe con tremenda facha.\nLa \"Princesa Esclava\", que tejía con desdén,\nSolo quería el Wi-Fi, ¡qué trágico vaivén!\nCon un golpe de suerte, más que de habilidad,\nVenció el gran peligro, ¡qué trivialidad!\n\nY así, con la frente altiva y el pecho bien hinchado,\nRegresó a su pueblo, el \"Reino Liberado\".\nNadie lo esperaba, salvo un perro callejero,\nMas su ego clamaba: \"¡Soy el primer guerrero!\"\nPor esa proeza absurda, sin un ápice de verdad,\nSe alzó con la **gloria**... en su propia vanidad.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

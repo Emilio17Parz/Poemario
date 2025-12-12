@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol derrama luz sobre la sierra,\nUn río canta su canción serena,\nLa brisa juega, acaricia la tierra,\nY el bosque oculta su verdad amena.\n\nEl verde intenso cubre el campo y valle,\nImponente se alza la montaña fría,\nNo hay sendero que a su cumbre se halle,\nGuardando siglos de melancolía.\n\nUn águila en el cielo vuela lejos,\nEl aire puro que la vida trae,\nEntre riscos, mil viejos espejos,\nLa fuerza inmóvil que jamás decae.\n\nAsí la calma de este mundo eterno,\nNos muestra el alma de su ser interno.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

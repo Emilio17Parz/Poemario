@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo la sombra de este verde aliso,\nThirsis a su amada Cloris canta,\nmientras el sol en el cenit levanta\nel fuego que en sus pechos se improvisa.\n«Oh Cloris, dulce dueña de mi risa,\ntu amor es el arroyo que me imanta».",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "aliso"
+  }
+}

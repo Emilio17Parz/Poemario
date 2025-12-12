@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Él talló en una rama un círculo sencillo,\n'No es oro', dijo, 'es la fe y el dulce idilio'.\nElla aceptó el regalo, sin pensar en diamante,\nPorque el valor no estaba en lo brillante, sino en el amante.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "anillo"
+  }
+}

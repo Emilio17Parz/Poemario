@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Oh, Lidio, qué reposo el alma encuentra\nbajo este cielo azul, sereno y vasto!\nDo el céfiro, al rozar la verde almena\nde esta colina, es bálsamo al cansancio.\nMira el arroyo, que susurrando canta\nsu eterna melodía entre guijarros,\nmientras el sol, con su dorada manta,\nabriga el prado de matices claros.\n\nAsí es, Coridón, y el silencio ameno\nsolo lo rompe el trino del jilguero,\no el balar tierno del rebaño lleno\nde paz que ignora al tiempo traicionero.\nNo hay púrpura que iguale el tinte suave\nde la amapola humilde, ni fortuna\nque valga más que el nido de la ave\nque duerme ya bajo la misma luna.\n\nContempla cómo el *bosque*, en su mudez profunda,\nguarda secretos de ancestral memoria.\nAllí, la sombra es fresca, y el musgo inunda\nla roca gris con su verdosa historia.\nPor sus senderos, la paloma arrulla\nsu amor constante, sin temor ni queja,\ny el manso ciervo, cuando nadie bulla,\nbebe del manantial que el tiempo deja.\n\nEn cada hoja, en cada flor abierta,\nen el murmullo de la brisa leve,\nla sabia Madre Naturaleza oferta\nun don de vida que al mortal conmueve.\nAquí el alma se purga de lo vano,\nde la ambición que al corazón lo ciega;\ny se halla un eco, dulce y soberano,\nque paz sincera al espíritu sosiega.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

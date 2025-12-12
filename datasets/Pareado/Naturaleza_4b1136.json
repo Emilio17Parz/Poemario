@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La flor se abre al sol, con dulce color y gran fe (A),\nla vida que brota en el noble 'sé' (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

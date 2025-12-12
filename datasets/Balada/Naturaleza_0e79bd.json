@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro gigante que das la vida,\nrey de los cielos y del calor,\nsin ti la tierra estaría perdida,\nen la tiniebla y en el dolor.\nSales triunfante por el oriente,\ny te despides en el ocaso,\nsiendo el testigo más refulgente,\nde cada vida y de cada paso.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "sol"
+  }
+}

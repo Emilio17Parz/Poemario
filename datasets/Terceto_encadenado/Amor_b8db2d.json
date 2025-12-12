@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El éxtasis breve que tu cuerpo me da (A),\nel fuego sagrado de la pasión fiel (B),\nmi alma se inunda de un dulce 'ya' (A).\n\nLa vida es un trago de pura miel (B),\nque endulza mi alma sin un final (C),\nla ausencia de toda hiel (B).\n\nEl único y noble y gran fanal (C),\nque guía mi rumbo con fe y con luz (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Éxtasis"
+  }
+}

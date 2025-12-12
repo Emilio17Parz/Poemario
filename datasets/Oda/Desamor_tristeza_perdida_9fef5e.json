@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Oh, Adiós amargo, palabra de acero,\nque parte el alma con frío fulgor!\nSentencia dura del amor sincero,\ndeja un vacío, un inmenso dolor.\nGrito mudo que el viento no lleva,\ncondena triste que el alma releva.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

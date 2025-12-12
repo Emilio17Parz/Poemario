@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres el sol de mi vida\nque calienta mi existir,\ncuras toda mi herida.\nEres el sol de mi vida,\nmi esperanza renacida\nque me invita a sonreír.\nEres el sol de mi vida\nque calienta mi existir.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sol"
+  }
+}

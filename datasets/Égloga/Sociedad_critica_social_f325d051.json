@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "SILVANO: Oigo un grito que viene del valle,\nes el lamento del que sufre el yugo.\nELISO: Allí el hermano es del otro verdugo,\ny el hambre pasea por cada calle.\nDichoso el monte que no sabe de eso,\ny no conoce del odio el peso.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "grito"
+  }
+}

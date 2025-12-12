@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[LA REINA ASEDIADA]\nEl enemigo rompe las puertas, la ciudad arde. Mi consejero me pide huir.\nPero la verdadera fortaleza no es el muro, es este corazón que se niega a doblarse.\nMoriré en mi trono, con mi corona puesta. No les daré el gusto de la huida.\nSoy la última línea de defensa. La dignidad es mi arma más afilada.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "fortaleza"
+  }
+}

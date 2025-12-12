@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Va el caballero en su corcel,\ncon la armadura de metal,\njuró a su dama serle fiel,\ny vencer al monstruo fatal.\nEn la batalla campal,\nprobará su honor leal.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

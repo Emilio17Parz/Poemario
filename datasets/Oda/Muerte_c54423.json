@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ya no hay ruido,\nsolo la paz,\nsin antifaz,\ntodo se ha ido.\nCalma absoluta,\nen la gruta.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

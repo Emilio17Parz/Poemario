@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La forma perfecta,\ncurva o recta,\nes un placer,\npara el ser,\nque la detecta.\nLuz que proyecta.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "forma"
+  }
+}

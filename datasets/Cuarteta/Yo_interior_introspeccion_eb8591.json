@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi mente es un agua, quieta y serena,\nque refleja el cielo, la inmensidad,\nno hay más dolor, no hay más pena,\nsolo la fuerza y la gran verdad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Agua"
+  }
+}

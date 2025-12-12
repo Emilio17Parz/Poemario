@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El destino quiso,\nque nos encontráramos,\ny nos amáramos,\nen el paraíso.\nFue un compromiso,\nde las altas esferas,\nque de mil maneras,\nnos regaló este amor preciso.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se termina la historia que escribimos,\ny te digo adiós con el corazón,\nfueron bellos los días que vivimos,\npero hoy reina la desolación.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

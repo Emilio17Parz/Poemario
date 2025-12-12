@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Los días se arrastran como animales heridos, sangrando minutos lentos que no terminan de pasar.\nEl tiempo ha dejado de ser un río para convertirse en un pantano estancado donde me hundo poco a poco.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

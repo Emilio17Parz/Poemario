@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Voz del pasado que nunca se apaga,\ny que en los tiempos por siempre divaga!\nCuentan los sabios de héroes y dioses,\nque hoy revivimos con nuestras voces.\n\n¡Salve, leyenda, memoria sagrada,\nde una edad de oro ya terminada!\nInspiras al joven a ser como ayer,\nllenando su alma de fuerza y poder.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

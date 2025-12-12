@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu amor se volvió de hielo,\nfrío como el vendaval,\ny se oscureció mi cielo\ncon este golpe fatal.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

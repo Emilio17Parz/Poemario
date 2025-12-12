@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El valor lo inspira a seguir de pie,\nen la tempestad, en la noche cruel,\nsin miedo a la muerte, sin miedo al qué diré,\nsu alma es más fuerte que el carcel.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Valor"
+  }
+}

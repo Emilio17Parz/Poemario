@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lloran cera las velas,\niluminando el velorio,\nentre dolor y telas,\nun triste repertorio.\n\nIluminando el velorio,\nsombras bailan pared,\nun triste repertorio,\ncaímos en la red.\n\nSombras bailan pared,\nentre dolor y telas,\ncaímos en la red,\nlloran cera las velas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cera"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "De las flores del jardín\ntú eres la rosa más bella,\nporque brillas en mi vida\ncomo si fueras estrella.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "flor"
+  }
+}

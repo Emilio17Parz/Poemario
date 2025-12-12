@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelvo a mi hogar,\ntras la batalla,\npara descansar.\n\nVeo el lugar,\ndonde no hay valla,\nvuelvo a mi hogar.\n\nPuedo abrazar,\na quien no calla,\npara descansar.\n\nSin olvidar,\nla metralla,\nvuelvo a mi hogar.\n\nA recordar,\nen la playa,\npara descansar.\n\nSin pelear,\nni canalla,\nvuelvo a mi hogar,\npara descansar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

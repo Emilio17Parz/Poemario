@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa el cuerpo en la tumba,\nolvidando el dolor pasado,\nmientras el mundo retumba,\nél duerme ya sosegado.\n\nOlvidando el dolor pasado,\nbajo la tierra y la flor,\nél duerme ya sosegado,\nlejos de todo temor.\n\nBajo la tierra y la flor,\ndescansa el cuerpo en la tumba,\nlejos de todo temor,\nmientras el mundo retumba.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

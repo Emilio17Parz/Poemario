@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La ley que es un duro papel,\nque esconde la cruda hiel.\nLa injusticia es real,\nsin un gran cristal,\nel alma sin un gran riel.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Ley"
+  }
+}

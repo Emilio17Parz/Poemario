@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vivir en la memoria,\nes la forma de no morir del todo;\nde cualquier modo,\nes la victoria.\nSi alguien nos recuerda con amor,\nno hay dolor.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

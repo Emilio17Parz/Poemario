@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Calma,\nllega.\nEl alma,\ncalma.\nSe entrega,\nla palma.\nCalma,\nllega.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "calma"
+  }
+}

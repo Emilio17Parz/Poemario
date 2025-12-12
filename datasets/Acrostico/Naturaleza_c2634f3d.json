@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "V iajero sin equipaje,\nI nvisible y poderoso,\nE mpujas el oleaje,\nN avegas silencioso,\nT raes el nuevo mensaje,\nO scilando caprichoso.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Si en mi interior quiero ver,\nLa mente es claro cristal;\nReflejo de un mundo ideal,\nDonde me vuelvo a entender.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "mente"
+  }
+}

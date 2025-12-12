@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Alas que cortan el aire puro,\ntrino que alegra el amanecer,\nvuelas sin miedo, libre y seguro,\nviendo la tierra bajo tu ser.\nLlevas mensajes de un lado a otro,\nsin pasaportes ni condición,\neres del viento el mejor potro,\ny de la vida la gran canción.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "pájaro"
+  }
+}

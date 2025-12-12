@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Una noche de niebla, la puerta se abrió,\nY la sombra de un hombre en la sala se vio.\nBuscaba su anillo, o tal vez su perro,\nEl alma que no sabe dónde está su yerro.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

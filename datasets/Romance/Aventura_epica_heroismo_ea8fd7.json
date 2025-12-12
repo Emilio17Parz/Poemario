@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El Héroe ya no tiene nombre,\nse perdió sin valor,\ny mi alma ya se asombre,\nsin tu dulce fulgor.\n\nMe voy con el invierno,\nme voy sin un adiós,\ny mi vida es un infierno,\nsin un solo de vos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Héroe"
+  }
+}

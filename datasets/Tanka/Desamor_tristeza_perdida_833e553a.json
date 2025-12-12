@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Todo termina,\nlas flores se marchitan,\nel amor muere.\nSolo queda aceptar\nel ciclo del dolor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "final"
+  }
+}

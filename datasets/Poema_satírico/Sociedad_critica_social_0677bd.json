@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Te prestan el paraguas al sol,\ny te lo quitan si llueve,\ntienen el absoluto control,\nde lo que el dinero mueve.\nComisiones por respirar,\ny por tu dinero guardar.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Bancos"
+  }
+}

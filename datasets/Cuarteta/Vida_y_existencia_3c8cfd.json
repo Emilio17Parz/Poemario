@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se hace camino al andar,\nsin volver la vista atrás,\nlo que dejas, ya verás,\nno se puede rescatar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "camino"
+  }
+}

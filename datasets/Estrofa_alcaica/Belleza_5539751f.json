@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rasgos divinos de perfil sagrado,\nojos brillantes y la piel de nieve,\nhanme enamorado\nen un instante breve.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

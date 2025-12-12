@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Luz que atraviesa la tiniebla fría,\nmirada tuya, sol de mi alegría.\nVentana abierta al infinito cielo,\ndonde se acaba todo mi desvelo.\n\n¡Gloria a tus ojos, faros de mi ruta,\nque mi alma entera con fervor disputa!\nGuía celeste en el mar de la vida,\npor tu fulgor mi senda es bendecida.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

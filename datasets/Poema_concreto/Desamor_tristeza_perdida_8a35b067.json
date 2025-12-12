@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "d  o  l  o  r\n o  l  o  r  d\n  l  o  r  d  o\n   o  r  d  o  l\n    r  d  o  l  o",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "caos"
+  }
+}

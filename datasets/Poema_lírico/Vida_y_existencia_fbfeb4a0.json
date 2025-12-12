@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Fluimos como el río,\nhacia la mar inmensa,\nla corriente es intensa,\ny el cauce bravío.\nEn este desvarío,\nla vida se compensa.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "río"
+  }
+}

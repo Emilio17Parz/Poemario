@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nos despedimos en la orilla fría,\ny yo me quedo con el pecho roto,\nllorando tu ausencia día tras día.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

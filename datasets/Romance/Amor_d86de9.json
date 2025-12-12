@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la leña en el fuego\ny así arde mi deseo,\ncuando te tengo en mis brazos\ny en tus ojos me recreo.\nNo hay noche que sea larga\nni fantasma que sea feo,\nsi tengo tu piel cercana\ny tu amor es mi trofeo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

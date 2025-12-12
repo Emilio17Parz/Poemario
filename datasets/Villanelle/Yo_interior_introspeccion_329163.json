@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mis sueños me llevan lejos,\na un mundo de libertad,\ndonde no existen espejos.\n\nSin trucos y sin consejos,\nhallo mi verdad,\nmis sueños me llevan lejos.\n\nSon mis compañeros viejos,\nen la soledad,\ndonde no existen espejos.\n\nBrillan como reflejos,\nde la eternidad,\nmis sueños me llevan lejos.\n\nSin miedos y sin complejos,\nvivo la claridad,\ndonde no existen espejos.\n\nSigo sus aparejos,\ncon voluntad,\nmis sueños me llevan lejos,\ndonde no existen espejos.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Romperemos las cadenas,\nque oprimen al ciudadano,\ny el pueblo soberano.\n\nOlvidará sus penas,\nviviendo con derecho,\ny las manos llenas.\n\nDe un buen provecho.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

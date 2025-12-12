@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Reina del jardín,\nque vistes de color la primavera;\nde forma ligera,\nhasta tu fin.\nTu aroma embriaga el aire suave,\ncomo una nave.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Una sombra se quedó pegada a la pared,\nJusto donde él se sentaba, saciando su sed.\nElla evitó esa esquina, temiendo el reflejo,\nDe la ausencia que había dejado el complejo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

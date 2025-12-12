@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dicen que he perdido la razón,\nque hablo solo y miro a las estrellas,\nque persigo imposibles y huellas\ndesde que te entregué mi corazón.\n\nBendita sea esta dulce prisión,\ny estas cadenas que son tan bellas,\nque borran las antiguas querellas\ny me llenan de nueva ilusión.\n\nSi amar es estar loco, lo confieso,\nno quiero la cordura fría y gris,\nsi a cambio me regalas un beso.\n\nPrefiero ser feliz infeliz,\nque cuerdo sin tener el acceso\na la dicha que tú me predices.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "locura"
+  }
+}

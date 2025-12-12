@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El reloj del tiempo atroz (a),\nsigue su marcha cruel (b),\nla vida sin una voz (c),\nel trago de dulce miel (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Reloj"
+  }
+}

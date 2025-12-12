@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No necesito libros ni pluma,\npara leer versos de amor,\npues cada árbol y cada flor,\na mi intelecto belleza suma.\n\nLa niebla suave que se difuma,\nes el poema más delicado,\nque en este valle fue creado,\ny que mi espíritu se asuma.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

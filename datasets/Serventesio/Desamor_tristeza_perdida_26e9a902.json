@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quiero encontrar el bálsamo de olvido,\npara sanar esta herida mortal,\npor el amor que ya se ha perdido,\ny que me causa este tremendo mal.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Del corazón, un eco ancestral brota,\ncuando la aurora tiñe el mundo de hazaña.\nEl héroe, sin saberlo, su destino dota\nde un fuego eterno que la sombra apaña.\n\nY empieza el **viaje**, senda incierta y vasta,\npor cimas que el halcón apenas roza,\npor mares donde la tempestad arrastra,\npor bosques donde el miedo se despoza.\n\nNi dragón, ni abismo, ni el furor del hado\nsu voluntad doblegan, su alma de acero.\nCon cada paso audaz, el tiempo es labrado,\nen cada herida, un rayo más certero.\n\nAsí se forja el mito, la épica voz,\nque canta del valor, del sacrificio puro.\nUn faro entre la niebla, más allá de la hoz,\nla inmortal huella de un futuro.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

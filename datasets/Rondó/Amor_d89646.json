@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bailamos este vals,\ngirando sin parar,\nflotando sobre el mar,\nsin pasos fals.\nLejos de los rivales,\nque nos quieren separar.\nBailamos.\n\nUno, dos y tres,\nmarcando el compás,\ntú nunca te vas,\ny yo no tengo estrés.\nTodo es del revés,\npero tú me das paz.\nBailamos.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "vals"
+  }
+}

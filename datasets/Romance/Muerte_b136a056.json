@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se quedó sola en la silla,\nmirando el fuego apagado,\ncon el retrato en la mano\nde su esposo bien amado.\nEl luto le cubre el pelo,\ncomo un velo desolado,\ny la casa se le cae\npor el silencio pesado.\nNadie sabe lo que sufre,\nsu corazón destrozado,\nesperando el día triste\nde estar de nuevo a su lado.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cemento y humo gris\nen el cielo,\nla urbe nos devora\ncon anhelo.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

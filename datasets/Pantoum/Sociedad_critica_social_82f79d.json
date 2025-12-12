@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sobra el pan en la mesa,\nfalta en la casa vecina,\nla riqueza que pesa,\nla justicia se inclina.\n\nFalta en la casa vecina,\nhambre que no termina,\nla justicia se inclina,\nuna triste rutina.\n\nHambre que no termina,\nsobra el pan en la mesa,\nuna triste rutina,\nla riqueza que pesa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "pan"
+  }
+}

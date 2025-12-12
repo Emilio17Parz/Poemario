@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me llaman Silvio el pastor,\npero eso es solo un ruido,\nsoy más que el apellido,\ny que la labor.\nSoy miedo y amor,\nrecuerdo perdido,\ny sueño vivido,\ncon fervor.\nBusco mi esencia,\nen la existencia,\ny la conciencia.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

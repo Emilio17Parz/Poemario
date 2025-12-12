@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Todo renace, amor, en este prado,\nlas aves cantan, brota la semilla.\nTu mano calida en mi mano brilla\ncomo el tesoro más y mejor guardado.\nBendito sea el tiempo que a tu lado\nconvierte en oro la vulgar arcilla.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "prado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El final ya me llegó,\nla vida se me acabó.\n\nNo hay camino ni hay luz,\nsolo cargo con la cruz,\nla pena ya es atroz,\nla vida se me acabó.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "fin"
+  }
+}

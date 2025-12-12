@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Empezó con un gesto, una duda,\nuna pequeña grieta en el muro,\nque fue creciendo oscura y duro,\ndejando la estructura desnuda.\n\nLa confianza se tornó muda,\nel futuro se volvió oscuro,\ny aquel amor que juramos puro,\npidió a gritos urgente ayuda.\n\nSe derrumbó el castillo soñado,\npiedra sobre piedra cayó,\ndejando todo el campo arrasado.\n\nEl terremoto nos destruyó,\ny del edificio amado,\nsolo el polvo triste quedó.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "grieta"
+  }
+}

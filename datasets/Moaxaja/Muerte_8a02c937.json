@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos solo polvo,\ny al polvo yo vuelvo.\n\nCeniza ligera,\nque el viento espera,\nde esta manera,\nyo me disuelvo.\nY al polvo yo vuelvo.\n\nJarcha:\nPolvo somos, ya lo sé,\npero amarte yo querré.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

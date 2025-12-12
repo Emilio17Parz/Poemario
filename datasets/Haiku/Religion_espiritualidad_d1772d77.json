@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Luz en lo alto,\ncreador del universo,\npadre de amor.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "dios"
+  }
+}

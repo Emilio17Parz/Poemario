@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla con fuerza el invisible viento,\nlleva las hojas en su movimiento,\ntraes aromas de un feliz momento,\naire salvaje.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "viento"
+  }
+}

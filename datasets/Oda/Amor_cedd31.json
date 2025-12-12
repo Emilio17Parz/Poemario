@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¡Oh, Viaje de dos, sendero compartido,\nruta sin mapa, solo por la fe!\nCada paso, un tesoro querido,\nun nuevo amanecer que siempre se ve.\nAvanzar juntos, sin mirar atrás,\ndescubriendo el mundo y la eterna paz.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

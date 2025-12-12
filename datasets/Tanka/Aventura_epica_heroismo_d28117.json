@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La alta montaña,\nes el reto del valiente,\nsubir sin caer.\nCada paso es un avance,\nhacia la gloria final.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

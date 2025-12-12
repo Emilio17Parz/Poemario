@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Extraño el sabor de tu boca en la mía,\nel último beso que no nos dimos,\nlos sueños rotos que no compartimos,\ny la luz que muere al final del día.\n\nSe quedó colgada la melancolía,\nen aquellos labios que tanto quisimos,\ny ahora que lejos los dos nos perdimos,\nsolo queda el hielo y la agonía.\n\nBeso fantasma que busco en el viento,\ncausa y raíz de mi sufrimiento.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "beso"
+  }
+}

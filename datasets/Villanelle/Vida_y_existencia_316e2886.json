@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida entera es solo un sueño,\nuna ilusión que pronto acaba,\ndonde nadie es el gran dueño.\n\nPonemos fuerza y mucho empeño,\nen la tarea que se trababa,\nla vida entera es solo un sueño.\n\nDesde lo grande a lo pequeño,\ntodo el tiempo nos socavaba,\ndonde nadie es el gran dueño.\n\nA veces dulce, a veces ceño,\nla realidad se nos escapaba,\nla vida entera es solo un sueño.\n\nComo la bruma sobre el leño,\nque el fuego lento devoraba,\ndonde nadie es el gran dueño.\n\nEs un misterioso diseño,\nque la parca siempre segaba,\nla vida entera es solo un sueño,\ndonde nadie es el gran dueño.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

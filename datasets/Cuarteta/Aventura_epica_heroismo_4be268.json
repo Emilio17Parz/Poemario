@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Combate al dragón, al monstruo gigante,\ncon la pura fuerza de su corazón,\nes el guerrero, el ser constante,\nque busca la noble y gran lección.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Dragón"
+  }
+}

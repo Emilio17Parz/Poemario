@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Lloran las nubes grises sobre el tejado,\nlavando la tristeza del campo arado.\n\nEl agua bendice el suelo sagrado,\ny despierta la vida que estaba a un lado.\n\nMúsica rítmica del cielo nublado,\nregalo celeste, tesoro preciado.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

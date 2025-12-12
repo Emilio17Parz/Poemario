@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dejas en mi existencia\nun gran vacío,\ny mi pobre esperanza\nmuere de frío.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

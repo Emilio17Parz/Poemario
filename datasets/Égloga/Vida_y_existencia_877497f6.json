@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "ELISO: A veces pienso que la vida es sueño,\nuna ilusión que al alba se deshace.\nSILVANO: Y en ese soñar, el alma renace,\nbuscando en la tierra su propio dueño.\nDespertar temo y hallar la verdad,\nque todo fue humo en la oscuridad.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

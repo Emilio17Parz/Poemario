@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sigo tu sombra,\nque se alarga en la tarde,\ny luego se esfuma.\nSolo la pena se queda,\nen mi pecho acongojado.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

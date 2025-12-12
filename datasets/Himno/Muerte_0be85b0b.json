@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se ha detenido el reloj de arena,\nel último grano ya cayó,\nlo que la vida nos regaló,\nse devuelve ahora sin pena.\n\n¡Gloria al ciclo que se completa!\nPrincipio y fin se dan la mano,\nnada en el mundo ha sido en vano,\ncuando se alcanza la gran meta.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

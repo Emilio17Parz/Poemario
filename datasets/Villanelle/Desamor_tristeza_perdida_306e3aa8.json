@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se siente en el pecho un inmenso vacío,\nun hueco que nada puede llenar,\ny tiemblo de miedo y de mucho frío.\n\nSe ha seco el cauce de nuestro río,\nlas aguas dejaron ya de cantar,\nse siente en el pecho un inmenso vacío.\n\nPerdí el rumbo y el albedrío,\nno encuentro la forma de continuar,\ny tiemblo de miedo y de mucho frío.\n\nTodo es silencio y aire sombrío,\nno hay nadie que pueda consolar,\nse siente en el pecho un inmenso vacío.\n\nEs este dolor tan tuyo y tan mío,\nque acaba de todo desmoronar,\ny tiemblo de miedo y de mucho frío.\n\nEn este desierto yo desvarío,\nsin fuerzas para volver a amar,\nse siente en el pecho un inmenso vacío,\ny tiemblo de miedo y de mucho frío.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

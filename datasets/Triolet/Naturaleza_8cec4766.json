@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río corre veloz\nhacia la inmensa mar,\ncon su caudal atroz.\nEl río corre veloz,\nse oye su fuerte voz\nal pasar y cantar.\nEl río corre veloz\nhacia la inmensa mar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "río"
+  }
+}

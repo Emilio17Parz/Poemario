@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Qué queda del sendero que el tiempo ha barrido?\nSolo cenizas frías, un velo de olvido.\n\nNi el oro ni el poder, ni el ruego compungido,\nRetienen el aliento, un velo de olvido.\n\nLa flor de la existencia, un don tan querido,\nSe inclina y se marchita, un velo de olvido.\n\nYace en la tierra oscura el cuerpo ya rendido,\nSilencio eterno guarda, un velo de olvido.\n\nMas vive en la **memoria** lo que fue vivido,\nAunque el adiós nos cubra, un velo de olvido.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Falso rey que en el trono se sienta,\ny con soberbia se nos presenta!\nQuiere ser centro de la creación,\ny nos arrastra a la perdición.\n\n¡Domad al ego, bestia insaciable,\npara ser libres y ser amable!\nLa humildad vence su tiranía,\ny trae al alma la luz del día.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "ego"
+  }
+}

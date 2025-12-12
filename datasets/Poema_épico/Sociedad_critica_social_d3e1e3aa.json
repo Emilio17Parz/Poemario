@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Galileo miró,\na las estrellas,\ny vio las huellas,\nque Dios dejó.\nLa iglesia negó,\nsus cosas bellas,\npero en ellas,\nla verdad quedó.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

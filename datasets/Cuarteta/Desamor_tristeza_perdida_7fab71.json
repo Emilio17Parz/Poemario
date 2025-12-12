@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te fuiste cual hoja arrastrada al viento,\nsin dirección, sin una despedida,\nel alma sufre un largo tormento,\ncon esta horrible y mortal herida.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

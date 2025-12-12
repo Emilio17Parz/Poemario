@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hay un lenguaje sagrado en nuestros silencios, una conversación profunda que ocurre sin mover los labios.\nEn la quietud compartida, nuestras almas se entrelazan como raíces debajo de la tierra, fuertes y mudas.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompen las olas de la inmensa mar,\ncontra la roca de la costa gris,\nblanca espuma se levanta,\ncon un sonido muy feliz.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "mar"
+  }
+}

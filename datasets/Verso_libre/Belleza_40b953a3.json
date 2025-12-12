@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El amanecer pinta el cielo con colores que ningún pintor podría igualar jamás.\nEl rosa, el oro, el violeta se mezclan en el lienzo del horizonte, anunciando el día.\nEs el espectáculo diario de la belleza renovada, el milagro de la luz que vence.\nDetente un momento y admira, deja que la belleza del alba inunde tus ojos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

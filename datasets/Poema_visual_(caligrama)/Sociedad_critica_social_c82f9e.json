@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Círculo de oro\ncara del rey\ncruz del pobre\nrueda y rueda\ncompra vidas\nvende almas\ndios metal.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "dinero"
+  }
+}

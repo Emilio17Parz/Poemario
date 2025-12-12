@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "HOMBRE: Quiero ser libre, cortar mi hilo.\nPARCA: Cuidado, mi tijera tiene filo.\nHOMBRE: No quiero seguir tu guion escrito.\nPARCA: Tu rebeldía es un viejo rito.\nHOMBRE: Yo decido a quién amo y qué soy.\nPARCA: Vas hacia donde yo te doy.\nPero cree que eres libre si quieres.\nAsí son los hombres y las mujeres.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "hilo"
+  }
+}

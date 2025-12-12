@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "A veces pienso que todo es un sueño,\nuna ilusión que se esfuma al albor,\nun escenario de luz y color,\ndonde ninguno se siente el dueño.\nVivimos presos de un vano empeño,\nhasta que llega el despertar mayor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

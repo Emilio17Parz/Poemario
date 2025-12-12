@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene la estrella un brillo,\nque alumbra la oscuridad,\ncomo un faro sencillo,\nde pura serenidad.\n\nQue alumbra la oscuridad,\ncon su luz lejana y pura,\nde pura serenidad,\ny de eterna hermosura.\n\nCon su luz lejana y pura,\ntiene la estrella un brillo,\ny de eterna hermosura,\ncomo un faro sencillo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

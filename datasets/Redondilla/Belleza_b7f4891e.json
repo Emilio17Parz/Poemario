@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Plasma el pintor su arte\nen el lienzo colorado,\ndejando el mundo admirado\nen cada pequeña parte.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "arte"
+  }
+}

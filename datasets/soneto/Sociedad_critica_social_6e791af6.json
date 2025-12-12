@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Unos beben vino en la copa,\ny otros recogen las sobras,\nunos acumulan las obras,\ny otros no tienen ni ropa.\n\nLa brecha que al mundo galopa,\nlas diferencias macabras,\nque rompen las buenas palabras\ny hunden a la humana tropa.\n\nNo es falta de pan en la mesa,\nes falta de amor y reparto,\nla causa de tanta tristeza.\n\nDe tanta injusticia estoy harto,\nde ver cómo la pobreza\nes siempre el doloroso parto.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "desigualdad"
+  }
+}

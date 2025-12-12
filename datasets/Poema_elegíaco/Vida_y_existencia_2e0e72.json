@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El frío me consume, me obliga a temblar,\nla vida sin la calma, sin poder amar.\nEl ser es la agonía, la pena sin fin,\nla sombra constante de un triste motín.\n\nNo tengo calor, no tengo una voz,\nla vida sin la calma, de un triste arroz.\nMi cuerpo es el mármol de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "frío"
+  }
+}

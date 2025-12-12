@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco la luz,\nde la certeza,\ncargo mi cruz,\ncon entereza.\n\nDe la certeza,\nque me libera,\ncon entereza,\nde la espera.\n\nQue me libera,\nbusco la luz,\nde la espera,\ncargo mi cruz.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "luz"
+  }
+}

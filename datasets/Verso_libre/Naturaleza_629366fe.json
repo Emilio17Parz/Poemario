@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El desierto es el espejo de la sed.\nArena infinita bajo un sol tirano.\nAquí la vida es un milagro resistente,\nuna espina que guarda una gota de agua.\nLa belleza está en la desnudez,\nen la luz cruda que no perdona,\nen el silencio que grita\nla soledad del planeta.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

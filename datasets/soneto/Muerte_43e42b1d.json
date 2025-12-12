@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Parca avanza con su paso incierto,\nSin voz, sin prisa, con su velo oscuro,\nDestino trágico, cruel e inmaduro,\nAl fin de todo, un viaje sin concierto.\n\nEl corazón, que antaño fue despierto,\nSe rinde al soplo helado y tan seguro,\nDeja un vacío que se torna muro,\nDonde la vida se convierte en yerto.\n\nY llega entonces el temido silencio,\nQue borra el rastro de la voz ausente,\nUn manto frío que lo envuelve todo.\n\nTras el telón final, sin ya sustento,\nSolo la nada abraza a quien se siente\nParte del polvo, sin más otro modo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

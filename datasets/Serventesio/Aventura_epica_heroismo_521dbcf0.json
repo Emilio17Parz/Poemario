@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El guerrero levanta su espada,\npara luchar por su reino y honor,\nen la terrible y sangrienta jornada,\nsin demostrar el menor temor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "espada"
+  }
+}

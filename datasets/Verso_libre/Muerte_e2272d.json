@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tu voz se apagó,\npero el eco sigue rebotando\nen las paredes de mi vida.\nTe escucho en el silencio,\nun sonido fantasma\nque me consuela y me hiere.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "eco"
+  }
+}

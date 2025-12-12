@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde el fuego sagrado,\nde nuestra gran pasión,\nsiempre enamorado,\nde tu dulce canción.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "canción"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tener un propósito\nes como tener una brújula en el pecho.\nNo importa la niebla,\nni el cansancio.\nLa aguja siempre apunta al norte,\nempujándote a dar un paso más.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "misión"
+  }
+}

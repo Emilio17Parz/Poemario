@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La victoria es el premio, el gozo sin par,\nla gloria que cubre al noble ser,\nno hay más riqueza, no hay más lugar,\nque el triunfo que quiere vencer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Victoria"
+  }
+}

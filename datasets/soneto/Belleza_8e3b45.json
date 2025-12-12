@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo que se oculta y no se muestra,\nsugiere más que lo evidente,\nes la fuente,\nde la diestra.\n\nNuestra,\nmente,\npresente,\ny maestra.\n\nEl velo que cubre,\nla imagen sagrada,\ny descubre.\n\nLa entrada,\nque subre,\nla nada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "velo"
+  }
+}

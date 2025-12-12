@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Morir cada noche y despertar,\ndejar la piel vieja en el suelo,\nvolver a ser y a comenzar,\nalzando de nuevo el vuelo.\nFénix que surge de su ceniza,\ncon una nueva y fresca brisa.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Renacer"
+  }
+}

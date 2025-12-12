@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El lago quieto.\nLa mente como agua estancada\nque refleja las nubes.\nNo hay prisa,\nno hay meta,\nsolo estar.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "calma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me acuerdo de la letra,\nde la canción de moda,\npero no entra,\nla fecha de la boda.\nSelectiva y tonta,\nmi mente desmonta.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Memoria"
+  }
+}

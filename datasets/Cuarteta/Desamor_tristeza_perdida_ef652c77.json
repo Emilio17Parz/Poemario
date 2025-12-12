@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ya no busco tu mirada\npues prefiero el olvido,\nuna historia terminada\nque jamás tuvo sentido.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuimos aliento y volveremos polvo,\nley implacable de la humana suerte,\nnada nos salva del final oscuro\nde la muerte.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

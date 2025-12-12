@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "El alma desnuda se expone sin velo,\n¿Qué busca mi ser en la noche sin fin?\nY el eco interior me invita a escuchar.\n\nFrente a un viejo <b>espejo</b>, sin tiempo ni suelo,\nLos rumbos perdidos me quieren decir,\nEl alma desnuda se expone sin velo.\n\nUn hondo misterio, un vasto desvelo,\nLa sombra y la luz, un sentir por venir,\nY el eco interior me invita a escuchar.\n\nEn cada reflejo, un nuevo modelo,\nSecretos que el tiempo no pudo morir,\nEl alma desnuda se expone sin velo.\n\nAsciendo y desciendo, sin norte ni celo,\nUn viaje profundo de eterno existir,\nY el eco interior me invita a escuchar.\n\nMi esencia se expande más allá del cielo,\nUn pacto con todo lo que fui y por ir,\nEl alma desnuda se expone sin velo.\nY el eco interior me invita a escuchar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miro las fotos de días felices,\ny toco con dedo las cicatrices,\nqué hermoso fue todo antes del final,\nun sueño perfecto, un ideal.\nLa nostalgia duele más que el presente,\nporque me recuerda lo que está ausente,\ny vivo atrapado en el tiempo aquel,\ncomiendo del recuerdo su amarga miel.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "nostalgia"
+  }
+}

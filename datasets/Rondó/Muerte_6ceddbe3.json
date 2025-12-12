@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte llega con su frío dolor.\nY un vasto silencio nos va a callar.\nNo hay voz que pueda ya su paso frenar,\nDisuelve el alma, el último fulgor.\nLa muerte llega con su frío dolor.\n\nDeshace el sueño, al tiempo va a quebrar.\nLa muerte llega con su frío dolor.\nY un vasto silencio nos va a callar.\n\nNo queda brillo, ni un triste color.\nSu manto oscuro nos viene a abrazar,\nSin esperanza, sin poder hablar,\nSolo la ausencia, un cruel sinsabor.\nLa muerte llega con su frío dolor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No te angusties por mañana,\nocúpate de hoy,\nla mente sana,\ndice 'aquí estoy'.\nLa ansiedad sobra,\nen esta obra.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Futuro"
+  }
+}

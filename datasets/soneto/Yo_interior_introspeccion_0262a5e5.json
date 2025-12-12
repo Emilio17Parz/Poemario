@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Callar las voces de afuera,\npara oír el ruido de adentro,\nbajar hasta el propio centro\ndonde la verdad nos espera.\n\nNo es fácil cruzar la frontera,\nni hallar en el alma el encuentro,\npues surgen cual fiero espectro\nlas culpas de forma ligera.\n\nPero en el silencio se cura\nla mente que vive agitada,\ny se halla la paz más pura.\n\nEs la soledad habitada,\nla luz en la zona oscura,\nla voz de la conciencia amada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

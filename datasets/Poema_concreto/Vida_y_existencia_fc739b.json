@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "A B A B A B\n B C B C B C\n  C D C D C D",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

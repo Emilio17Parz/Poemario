@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sueño contigo cada noche,\nsin hacer ningún reproche.\nTe veo en mi fantasía,\nllenando de luz mi día,\ncon un magnífico broche.\n\nHaciendo de amor derroche,\nviajamos en este coche.\nCon tanta melancolía,\nsueño contigo.\n\nAntes que la vida trasnoche,\ny el tiempo su puerta abroche.\nSerás tú mi alegría,\nla dueña de mi poesía,\naunque la luna se asome,\nsueño contigo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

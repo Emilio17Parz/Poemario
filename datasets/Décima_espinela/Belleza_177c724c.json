@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena la dulce canción\ny el alma se pone a volar,\nes imposible no amar\ntan perfecta creación.\nToca el violín con pasión,\nllora la cuerda tensada,\ny en la noche callada\nla música nos envuelve,\ny la tristeza disuelve\ncon su nota sagrada.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "nota"
+  }
+}

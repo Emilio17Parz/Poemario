@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La gema de un brillo sin par,\nsu luz que me hace soñar.\nEs fuerza y poder,\nque puedo vencer,\nel alma que busca el mar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Gema"
+  }
+}

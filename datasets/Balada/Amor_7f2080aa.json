@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Suenan campanas en la capilla,\nvestida de blanco la novia va,\nes la muchacha más maravilla\nque mis ojos vieron y verán.\nLos juramentos se cumplirán,\ny nuestras almas se unirán.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "boda"
+  }
+}

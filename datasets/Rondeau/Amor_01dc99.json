@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres sol de mi mañana,\nque entra por la ventana,\ndespertando mi ilusión,\nllenando el corazón,\nde una alegría sana.\n\nEres la nota temprana,\nde una canción lejana,\nque suena con emoción,\nEres sol.\n\nTu luz hermosa y humana,\na mi sombra siempre gana,\ndándome la dirección,\ny la dulce bendición,\nde esta vida cotidiana,\nEres sol.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sol"
+  }
+}

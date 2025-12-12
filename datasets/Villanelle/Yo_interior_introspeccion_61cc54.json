@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En el silencio hallo respuestas,\nque el ruido me ocultaba,\ny se abren nuevas puertas.\n\nLas verdades ciertas,\nque yo buscaba,\nen el silencio hallo respuestas.\n\nEstaban cubiertas,\npor lo que hablaba,\ny se abren nuevas puertas.\n\nMentes abiertas,\nque la paz lavaba,\nen el silencio hallo respuestas.\n\nAlmas despiertas,\nque se encontraba,\ny se abren nuevas puertas.\n\nCosas inciertas,\nque terminaba,\nen el silencio hallo respuestas,\ny se abren nuevas puertas.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

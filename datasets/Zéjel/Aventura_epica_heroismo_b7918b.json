@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi espada no tiene fin,\nmi brazo es un trajín.\n\nLa batalla ya me ganó,\nla suerte me sonrió,\ny el miedo se me acabó,\nmi brazo es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "espada"
+  }
+}

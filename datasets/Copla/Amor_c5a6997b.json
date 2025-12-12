@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Morena de la piel fina,\ncanela de mi ilusión,\nme tienes robado el alma\ny parte del corazón.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "piropo"
+  }
+}

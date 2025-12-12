@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cargo con mis errores,\ncomo piedras en el saco,\nun peso opaco,\nde dolores.\n\nLos amores,\ny los fallos,\nson los callos,\nmayores.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

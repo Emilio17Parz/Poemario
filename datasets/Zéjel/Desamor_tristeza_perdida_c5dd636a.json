@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Busco la paz del olvido,\npues el amor se ha perdido.\n\nYa no queda la esperanza,\nni la vieja confianza,\nrompimos la balanza,\nde lo que habíamos sido.\n\nBusco la paz del olvido,\npues el amor se ha perdido.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

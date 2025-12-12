@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me duele en el alma decirte adiós,\ncerrar esta puerta con gran dolor,\nya no hay esperanza para los dos.\n\nSe apaga la luz que brilló en pos,\nde aquel sentimiento y aquel calor,\nme duele en el alma decirte adiós.\n\nQuedamos heridos y solos vos\ny yo, sin remedio ni defensor,\nya no hay esperanza para los dos.\n\nEl tiempo fue duro y muy veloz,\nmatando la dicha y matando el color,\nme duele en el alma decirte adiós.\n\nEs un sufrimiento agudo y atroz,\nperder la batalla del dulce amor,\nya no hay esperanza para los dos.\n\nLevanto mi triste y quebrada voz,\npara declarar este fin mayor,\nme duele en el alma decirte adiós,\nya no hay esperanza para los dos.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El final es el golpe que rompe la fe (A),\nla puerta al vacío, sin un final (B),\nla vida se extingue sin un 'yo sé' (A).\n\nEl golpe amargo, el mal fatal (B),\nque quiebra mi rostro con gran dolor (C),\nla ausencia de todo bien total (B).\n\nNo hay más que llorar, no hay más fulgor (C),\nla sombra me cubre, sin piedad (D),\nla forma de no hallar el amor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Final"
+  }
+}

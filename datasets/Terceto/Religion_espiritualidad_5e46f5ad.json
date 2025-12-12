@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "La fe levanta un puente hacia lo eterno,\ndonde el alma halla su ser, su espíritu,\nun eco sacro en el amor fraterno.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

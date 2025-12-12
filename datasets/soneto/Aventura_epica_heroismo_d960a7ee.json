@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un corazón valiente, sin temor, partió,\nDejando atrás la paz, el dulce hogar,\nPor un sendero oscuro que el destino abrió,\nCon ansia ardiente un mundo nuevo alcanzar.\n\nPor valles profundos, de sombras y peligros,\nDo el mal su voz levanta, feroz y cruel,\nLibró batallas con monstruos y con tigros,\nSu espada un rayo, su escudo siempre fiel.\n\nNo fue por riqueza o por vano honor,\nNi por la alta corona que a su frente espera,\nFue por librar un pueblo de su opresor,\nPor la justicia y su franca primavera.\n\nTras mil batallas, su valor jamás cesó,\nY al fin, la eterna **gloria** con él descansó.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

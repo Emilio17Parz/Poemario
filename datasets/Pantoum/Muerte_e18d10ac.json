@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra fría danza sin cesar,\nUn velo negro cubre el ancho ayer.\nEl tiempo cede al último aliento,\nEl alma busca el dulce no-lugar.\n\nUn velo negro cubre el ancho ayer,\nEl mundo se sume en hondo silencio.\nEl alma busca el dulce no-lugar,\nLa luz se apaga, no queda un fulgor.\n\nEl mundo se sume en hondo silencio,\nLas viejas voces se borran al fin.\nLa luz se apaga, no queda un fulgor,\nLa memoria se vuelve un fino velo.\n\nLas viejas voces se borran al fin,\nEl viaje oscuro ha de comenzar.\nLa memoria se vuelve un fino velo,\nLa sombra fría danza sin cesar.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

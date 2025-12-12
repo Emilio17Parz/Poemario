@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No reprimas lo que sientes,\nni a ti mismo te mientes.\nLa emoción es mensajera,\nno la eches a la hoguera.\nEscúchala y déjala ir,\nasí podrás fluir.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "emoción"
+  }
+}

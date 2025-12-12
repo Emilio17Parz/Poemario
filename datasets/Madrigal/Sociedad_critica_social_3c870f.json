@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Gritos y bocinas,\nque no dejan oír el pensamiento;\nni el viento,\nen las esquinas.\nEl silencio es lujo que se ha perdido,\ny se ha ido.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ruido"
+  }
+}

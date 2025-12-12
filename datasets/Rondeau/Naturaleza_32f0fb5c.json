@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viento que sopla fuerte,\ny cambia nuestra suerte,\nmoviendo las nubes,\nmientras tú subes,\nsin temer a la muerte.\n\nQuisiera conocerte,\ny poder verte,\ncuando en el monte ruges,\nviento que sopla.\n\nTu poder divierte,\ny a la vez inverte,\nlos árboles que crujes,\ny las hojas que empujes,\ncon ánimo inerte,\nviento que sopla.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "viento"
+  }
+}

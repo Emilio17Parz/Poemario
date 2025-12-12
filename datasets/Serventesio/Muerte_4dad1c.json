@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte trae la paz absoluta,\nel fin de la batalla y el dolor,\nes el final de la larga ruta,\ny el encuentro con el Creador.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "paz"
+  }
+}

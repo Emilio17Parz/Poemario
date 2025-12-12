@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Debo partir,\ny cumplir.\n\nEl rey manda,\nen su banda,\ny se anda,\nal ir.\nDebo partir,\ny cumplir.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "misión"
+  }
+}

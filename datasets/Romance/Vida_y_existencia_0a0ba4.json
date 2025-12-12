@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ríe mientras puedas, hombre,\nque la risa es sanación,\nborra las nubes del cielo\ny alegra el corazón.\nCelebra cada momento\ncon vino y con canción,\nque la vida son dos días\ny uno es la ilusión.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "alegría"
+  }
+}

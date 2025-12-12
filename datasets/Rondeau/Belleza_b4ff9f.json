@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La música suena,\ny quita la pena.\nMelodía,\nde alegría,\nque llena.\n\nEs buena,\nla faena.\nLa armonía,\nla música suena.\n\nLa arena,\ny la cena.\nLa vía,\ndel día,\nse ordena,\nla música suena.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "música"
+  }
+}

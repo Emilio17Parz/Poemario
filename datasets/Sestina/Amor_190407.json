@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nLa mirada tuya no tiene un final (E1: final)\nMi alma se entrega sin un error (E2: error)\nTu amor es la senda de gran razón (E3: razón)\nEl gozo que siento no tiene ya pena (E4: pena)\nLa vida contigo me lleva a crecer (E5: crecer)\nEl tiempo se para sin dolor (E6: dolor)\n\nTORNADA:\nSin un error yo quiero crecer (E2, E5)\nLa pena me da la razón (E4, E3)\nSin dolor, el dulce final (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Mirada"
+  }
+}

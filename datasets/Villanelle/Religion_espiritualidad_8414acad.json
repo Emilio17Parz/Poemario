@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El alma busca su hogar,\nmás allá de las estrellas,\ndonde pueda descansar.\n\nQuiere por fin volar,\nlejos de las querellas,\nel alma busca su hogar.\n\nNo se puede atar,\ncon cadenas ni huellas,\ndonde pueda descansar.\n\nAnhela retornar,\na las fuentes aquellas,\nel alma busca su hogar.\n\nDeja de llorar,\ny borra las mellas,\ndonde pueda descansar.\n\nLibre al despertar,\nde las cosas bellas,\nel alma busca su hogar,\ndonde pueda descansar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "alma"
+  }
+}

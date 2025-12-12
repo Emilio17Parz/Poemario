@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Del error se aprende más,\nque del éxito seguro,\naunque el golpe sea duro,\nnunca mires hacia atrás.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "error"
+  }
+}

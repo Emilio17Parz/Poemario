@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se muere la tarde en el horizonte,\nteñida de violeta y carmesí,\nla sombra cubre el valle y el monte.\n\nEl sol se despide lejos de aquí,\ndando paso a la noche estrellada,\nque trae el sueño para ti y para mí.\n\nEn la madrugada.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

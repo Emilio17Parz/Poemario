@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi alma es invierno, sin calor ni luz,\nel frío me abraza, sin piedad,\nla vida es un peso, una dura cruz,\nla eterna y cruel verdad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Invierno"
+  }
+}

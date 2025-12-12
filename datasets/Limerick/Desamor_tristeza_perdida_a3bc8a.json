@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento un frío en todo mi cuerpo,\nque es de tu cruel, largo entuerto.\nNo hay llama ni sol,\nsolo el dolor,\nen un alma sin un gran puerto.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

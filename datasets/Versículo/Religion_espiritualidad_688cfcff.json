@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La fe es la certeza de lo que no se ve, la convicción de lo esperado.\nEs caminar sobre las aguas turbulentas sin mirar el abismo bajo los pies.\nCuando la razón calla y la oscuridad avanza, la fe enciende su lámpara.\nBienaventurados los que creen sin haber visto, pues de ellos es la paz.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "fe"
+  }
+}

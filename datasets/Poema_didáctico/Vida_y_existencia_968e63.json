@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cuerpo sano, mente sana,\ncuida tu templo,\ncome manzana,\ny da el ejemplo.\nSin salud no hay nada,\nsolo vida parada.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Salud"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El miedo es sombra alargada,\nque se mete en la razón,\ny nos quita la valía\ndel corazón.\nTememos a lo que viene,\ncon aprensión,\ny creamos monstruos falsos\nde cartón.\nHay que encender la luz clara,\nde la acción,\ny ver que no hay enemigo\nen el rincón.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

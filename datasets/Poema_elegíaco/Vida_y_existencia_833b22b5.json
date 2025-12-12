@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Oh, vida, efímero aliento, nave sin puerto fijo,\nque surca el tiempo incierto, un frágil, leve hijo.\nDe polvo y de quimeras, tejiste nuestro ser,\nun breve despertar entre vastas eras,\npara luego volver a no ser, a fenecer.\n\nCaminos de luz y sombra, senderos de dolor,\nel corazón que asombra con su incesante ardor.\nBuscamos la verdad en cada sol poniente,\nla huella de un caudal que se torna presente,\nun eco de vivir, hermoso y sufriente.\n\nMas llega la quietud, la pausa sin reproche,\ncuando la juventud se esconde en la noche.\nY el dulce y final **sueño** nos acoge al fin,\ndespojados del dueño de nuestro peregrín,\nsilencio que apacigua el grito de la sed.\n\n¿Qué fue de aquel afán, del brillo en la mirada?\nUn eco que se va, una historia callada.\nLa existencia, un suspiro, un instante fugaz,\nun don que hoy respiro y mañana ya no habrá más.\nMas queda la memoria, la esencia que perdura,\nen cada trayectoria, en toda criatura,\nla vida es un poema que al final se despide,\ndejando su diadema, mientras la sombra incide.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

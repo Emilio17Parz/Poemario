@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No quiero ser un héroe\nde piedra en la plaza,\nquiero volver a mi casa\ny darte un abrazo.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "historia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Susurro tu nombre al viento,\nQue lleve mi voz hasta ti,\nEs mi único pensamiento.\nSusurro tu nombre al viento,\nCon todo mi sentimiento,\nDesde que te conocí.\nSusurro tu nombre al viento,\nQue lleve mi voz hasta ti.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "viento"
+  }
+}

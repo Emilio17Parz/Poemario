@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi Alma se va en el viento,\nde pena y de gran mal,\ny mi vida es un tormento,\nsin un golpe fatal.\n\nYo te miro y tú te ríes,\nde mi pena y de mi mal,\ny por eso no me iré,\ncon un golpe fatal.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

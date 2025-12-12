@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me duele recordar lo que tuvimos,\nlos paseos, las risas, el vino,\nel mapa de aquel bello camino,\nque juntos con amor recorrimos.\n\nFueron instantes que vivimos,\ncreyendo burlar al destino,\nmas todo fue fugaz y mezquino,\ny al abismo los dos caímos.\n\nLa nostalgia es un dulce veneno,\nque bebo cada noche al dormir,\nbuscando en el recuerdo un freno.\n\nPero solo consigo sufrir,\nal ver el paraíso ajeno,\nque ya nunca podré revivir.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "nostalgia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus manos conocen el camino\nque mi propia piel había olvidado.\nRecorren mi espalda\ncomo quien lee braille en la oscuridad,\ndescifrando cicatrices\ny reescribiéndolas como caricias.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "manos"
+  }
+}

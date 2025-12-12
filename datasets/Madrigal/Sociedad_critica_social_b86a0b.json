@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Selva de asfalto y de cemento,\ndonde el aire puro es un recuerdo,\ny me pierdo,\nen este gris y sucio aliento.\nRuido que apaga el canto de ave,\nno hay quien lave,\nla cara triste de la urbe fría,\nsin alegría.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "humo"
+  }
+}

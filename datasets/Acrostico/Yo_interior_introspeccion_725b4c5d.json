@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dificultad para elegir,\nUna verdad entre las sombras,\nDeteniendo el porvenir,\nAnte las cosas que no nombras.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "duda"
+  }
+}

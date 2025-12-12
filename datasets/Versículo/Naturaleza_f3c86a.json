@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El desierto es el lienzo dorado donde el sol pinta sus sombras, un mar de arena detenido en el tiempo.\nAquí el silencio es tan vasto que se puede escuchar el latido de la propia sangre golpeando en las sienes.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

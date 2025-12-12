@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pedazos de cristal,\nasí quedó mi ser tras tu partida;\nla esencia dividida\npor el puñal.\nTratar de unir las piezas es en vano,\ncon esta mano.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "roto"
+  }
+}

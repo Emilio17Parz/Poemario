@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida es una cuerda\nque el tiempo cortó ya.\nLa hora final, concuerda,\nes la única verdad.\n\nNo hay más mañana, solo\neste instante de luz,\nel único dolo\nsin ninguna cruz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "final"
+  }
+}

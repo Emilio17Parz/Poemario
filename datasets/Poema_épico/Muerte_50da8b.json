@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Pesan el corazón contra la pluma,\nAnubis vigila la fiel balanza,\nsi la culpa es densa como la bruma,\nse pierde del alma toda esperanza.\nTribunal divino, sentencia atroz,\ndonde no vale ni ruego ni voz.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Juicio"
+  }
+}

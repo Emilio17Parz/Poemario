@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Qué dejamos al irnos de aquí?\nUn par de objetos, ropa usada,\nquizás una cuenta ya saldada,\no el recuerdo de lo que viví.\n\nLo material se queda, lo vi,\nse reparte la cosa preciada,\npero la esencia del alma amada,\neso es lo que perdura en ti.\n\nLa herencia real es el amor,\nlas lecciones que dimos en vida,\ny el ejemplo de nuestro valor.\n\nTodo lo demás es causa perdida,\npolvo, ceniza y vano rumor,\nque se borra con la despedida.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

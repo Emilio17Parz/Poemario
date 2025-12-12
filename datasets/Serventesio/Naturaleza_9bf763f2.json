@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El manto verde que la tierra viste,\nCon el rumor de un agua que murmura,\nCuando el estío su color desviste,\nY el suave viento roza la espesura.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "viento"
+  }
+}

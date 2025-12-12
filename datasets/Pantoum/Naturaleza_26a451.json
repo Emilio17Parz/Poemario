@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompen las olas con furia,\ncontra la roca del cabo,\nsin juicio y sin lujuria,\ndesde el principio al cabo.\n\nContra la roca del cabo,\nla espuma salta blanca,\ndesde el principio al cabo,\nsu ritmo nunca se estanca.\n\nLa espuma salta blanca,\nsin juicio y sin lujuria,\nsu ritmo nunca se estanca,\nrompen las olas con furia.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "olas"
+  }
+}

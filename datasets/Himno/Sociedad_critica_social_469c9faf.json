@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Gloria a las manos que construyen,\nal sudor noble del jornalero,\nal esfuerzo del obrero,\nque las riquezas distribuyen.\n\nEl trabajo es honra y es pan,\nderecho santo de cada ser,\nfuente de vida y de poder,\nfruto del diario afán.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "manos"
+  }
+}

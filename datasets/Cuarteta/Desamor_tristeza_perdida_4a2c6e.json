@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu ausencia pesa,\nen mi vivir,\nes una presa,\nde mi sufrir.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "vivir"
+  }
+}

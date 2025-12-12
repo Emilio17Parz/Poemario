@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mientras haya un latido,\nno todo en esta vida está perdido.\nLa esperanza verdea\ny el alma se recrea.\nTras la noche cerrada,\nsiempre llega la clara madrugada.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

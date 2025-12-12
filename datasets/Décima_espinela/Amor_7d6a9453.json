@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, fulgor divino,\nes un sentir de verdad,\nfuente de felicidad,\nun regalo del destino.\n\nEs un viaje peregrino,\nque con dulzura nos cubre,\nque nuestro ser descubre,\nen pasión que se derrama,\ny nos une con el **alma**,\ny siempre al corazón sube.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "alma"
+  }
+}

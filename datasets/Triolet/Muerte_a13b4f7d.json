@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa en paz ya,\nse acabó el dolor,\nel alma se va.\nDescansa en paz ya,\nlejos del acá,\ncon el Creador.\nDescansa en paz ya,\nse acabó el dolor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "paz"
+  }
+}

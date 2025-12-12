@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Luces que brillan de noche\nreflejadas en el río,\nla ciudad es una joya\nque combate el frío.\nSus torres y sus palacios\nmuestran su poderío,\nen una estampa moderna\nde belleza y de brío.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Íbamos a ir a Cancún,\npero todo hizo pun.\nMe quedé en casa,\npasando la brasa,\ncomiendo bocata de atún.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "vacaciones"
+  }
+}

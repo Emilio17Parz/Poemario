@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El exilio es pena, la tierra perdida,\nel alma que vaga sin dirección,\nla vida que sufre, la herida atrevida,\nsin una sola explicación.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Exilio"
+  }
+}

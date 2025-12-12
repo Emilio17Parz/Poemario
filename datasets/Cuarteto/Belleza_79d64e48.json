@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene el lucero incomparable brillo,\nque nos orienta en la nocturna esfera,\ny su destello de luz persevera\nmás que el diamante o el oro amarillo.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

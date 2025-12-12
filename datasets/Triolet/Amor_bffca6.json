@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Toma mi mano ahora,\ny vamos juntos los dos.\nEl tiempo no se demora,\ntoma mi mano ahora.\nTu piel a mi piel enamora,\ngracias le doy a Dios.\nToma mi mano ahora,\ny vamos juntos los dos.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mano"
+  }
+}

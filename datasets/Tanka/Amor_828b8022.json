@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu dulce amor,\nMi alma se encendió.\nFuerte latir,\nFue el destino, mi bien,\nNos une sin fin ya.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "destino"
+  }
+}

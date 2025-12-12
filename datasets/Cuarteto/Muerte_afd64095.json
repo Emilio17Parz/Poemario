@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te llevo guardado en mi memoria\naunque ya no te encuentres aquí,\npues dejaste tu huella en mí\ny eres parte de mi propia historia.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

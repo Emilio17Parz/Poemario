@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la piedra descansa el viajero,\nlejos del ruido y la vana ambición,\nya terminó su vital misión,\ny duerme ahora el sueño postrero.\nSobre la tumba canta el jilguero,\nuna tonada de liberación.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

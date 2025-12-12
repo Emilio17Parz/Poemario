@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor es un susurro en la mañana,\nQue despierta mi espíritu dormido.\nUna luz que en mi senda me acompaña,\nUn eco dulce, nunca más perdido.\n\nQue despierta mi espíritu dormido,\nEn cada amanecer renace y crece.\nUn eco dulce, nunca más perdido,\nDonde el tiempo su curso desvanece.\n\nEn cada amanecer renace y crece,\nLa llama pura que ilumina mi alma.\nDonde el tiempo su curso desvanece,\nY el corazón encuentra paz y calma.\n\nLa llama pura que ilumina mi alma,\nUna luz que en mi senda me acompaña,\nY el corazón encuentra paz y calma,\nTu amor es un susurro en la mañana.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "alma"
+  }
+}

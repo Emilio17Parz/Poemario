@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En el jardín callado de mi alma,\nNació tu luz, un rayo sin igual,\nQue disipó la sombra más arcana,\nY vistió el aire de un soplo vital.\n\nTu voz, melódica brisa que me encanta,\nDespierta ecos que pensé dormidos,\nY en cada poro el corazón se agiganta,\nPor los senderos antes no vividos.\n\nMis pasos, antes ciegos, hoy encuentran\nLa senda clara que tu ser me dio.\nParece escrito en astros que se asientan,\nQue nuestro encuentro el tiempo programó.\n\nY sé que fue el **destino** el que te trajo,\nEstrella fija en mi errante cielo azul,\nUn hilo de oro que, sin truco ni atajo,\nMi ser anuda al tuyo, pura luz.\n\nQue cada día sea una melodía,\nCantada al alba con suave compás,\nTu amor, mi eterna, dulce compañía,\nEl faro que ilumina mi solaz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

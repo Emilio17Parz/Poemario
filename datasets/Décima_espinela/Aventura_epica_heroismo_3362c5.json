@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Subo la cuesta dura,\nhacia la cima blanca,\ndonde el aire se estanca,\ny reina la altura.\nEs una gran locura,\nquerer tocar el sol,\npero tengo el control,\nde mi paso y mi mente,\ny llegaré a la fuente,\ndel divino arrebol.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

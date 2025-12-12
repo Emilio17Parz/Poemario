@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se han fundido tu alma y mi alma,\nen un abrazo que no tiene fin,\nlejos del ruido de la ciudad.\nEncontramos la ansiada libertad,\nde ser uno solo en el sentimiento,\ny volar hacia el cielo azul.\n\nHacia el cielo azul,\ncon nuestra alma,\ntodo sentimiento.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "alma"
+  }
+}

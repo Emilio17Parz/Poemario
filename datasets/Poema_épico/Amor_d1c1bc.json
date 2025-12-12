@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Diez años de asedio aguantó la muralla,\npero yo caí en un solo segundo,\nante la luz que en tu rostro estalla,\nla fuerza más grande de todo el mundo.\nRindo mis armas, mi torre y mi fe,\nante la reina que siempre soñé.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Asedio"
+  }
+}

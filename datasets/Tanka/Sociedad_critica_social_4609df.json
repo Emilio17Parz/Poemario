@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Máquina avanza\naplastando lo verde\nritmo veloz.\nGanamos cosas nuevas\nperdemos el hogar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "progreso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El gran viaje sin un error (a),\nla vela se quiebra sin un final (b),\nmi alma se queda sin un fulgor (a),\nsin la luz de un noble fanal (b),\nla vida es un golpe amargo y fatal (b),\ny la fe se pierde sin un valor (c),\nla ausencia me come sin un mal (b),\n**Mi vida se cubre de puro dolor** (C).\n\nPríncipe, el alma se va (c'),\nes la sombra que nunca se da (c'),\nla fuerza que al fin se está (b),\n**Mi vida se cubre de puro dolor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte no es el final, sino una puerta que se abre hacia el misterio insondable del otro lado.\nCruzamos el umbral desnudos, sin equipaje, dejando atrás el peso de la memoria y el dolor.\n¿Qué luz o qué sombra nos espera? ¿Qué voz nos llamará por nuestro verdadero nombre?\nEs el paso necesario, el nacimiento inverso hacia una dimensión donde el tiempo no existe.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

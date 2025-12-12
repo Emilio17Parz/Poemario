@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vanidad de vanidades, dijo el Predicador; vanidad de vanidades, todo es vanidad. ¿Qué provecho tiene el hombre de todo su trabajo?\nGeneración va, y generación viene; mas la tierra siempre permanece. Sale el sol, y se pone el sol, y corre con prisa a su lugar.\nHe visto todas las obras que se hacen debajo del sol; y he aquí, todo ello es vanidad y aflicción de espíritu.\nEl fin de todo el discurso oído es este: Teme a Dios, y guarda sus mandamientos; porque esto es el todo del hombre.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "vanidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Madero de redención,\ndonde diste la vida,\npor nuestra salvación.\n\nCuras la humana herida,\ncon tu sangre derramada,\nque nunca será perdida.\n\nNi olvidada.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

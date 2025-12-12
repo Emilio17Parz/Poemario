@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento el hielo,\nsin tu consuelo.\n\nInvierno crudo,\nme quedo mudo,\ncon un nudo,\nbajo el cielo.\nSiento el hielo,\nsin tu consuelo.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "frío"
+  }
+}

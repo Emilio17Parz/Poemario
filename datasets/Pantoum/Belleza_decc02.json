@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Curva que todo endereza,\nluz en el rostro triste.\nBorra la pereza,\nlo mejor que viste.\n\nLuz en el rostro triste,\nalegría contagiosa.\nLo mejor que viste,\nuna vida rosa.\n\nAlegría contagiosa,\nborra la pereza.\nUna vida rosa,\ncurva que todo endereza.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

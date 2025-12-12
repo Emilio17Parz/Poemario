@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Río que fuiste de dulce murmullo,\nhoy tu caudal se ha ido sin más.\nEl agua es pena, sin un arrullo,\nla vida que nunca me das.\nEl cauce está seco, el alma sin fe,\nla pena que el tiempo ve.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Río"
+  }
+}

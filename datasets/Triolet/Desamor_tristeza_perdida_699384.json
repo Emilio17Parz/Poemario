@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Un grito en el silencio,\nQue nadie puede escuchar,\nEs todo lo que presencio.\nUn grito en el silencio,\nPor tu amor sentencio,\nQue no puedo olvidar.\nUn grito en el silencio,\nQue nadie puede escuchar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

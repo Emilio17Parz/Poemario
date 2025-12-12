@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Parte la nave al peligroso viaje,\nrumbo a los mares del confín lejano,\nguiada solo por la audaz mano\ny del marino el indómito coraje.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

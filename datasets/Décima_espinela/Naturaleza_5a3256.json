@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Salta el agua,\nal vacío,\ncon brío,\ny se fragua.\nEn su enagua,\nde espuma,\nse suma,\nel vapor,\ny el rumor,\nque abruma.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "cascada"
+  }
+}

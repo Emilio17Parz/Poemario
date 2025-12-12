@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Notas que tejen el aire,\narmonía celestial,\ncon elegante donaire,\nun goce total.\n\nArmonía celestial,\nllena el silencio gris,\nun goce total,\nme hace feliz.\n\nLlena el silencio gris,\nnotas que tejen el aire,\nme hace feliz,\ncon elegante donaire.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "música"
+  }
+}

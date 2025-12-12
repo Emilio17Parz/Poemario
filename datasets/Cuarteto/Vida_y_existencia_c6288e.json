@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El grito de vida, la voz sin igual,\nque rompe el silencio, que quiere sonar,\nes el nacimiento, el bien total,\nla fuerza que ayuda a amar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

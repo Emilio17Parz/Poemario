@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dragón echa fuego,\ncon gran furor,\nno atiende a ruego,\nni siente amor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

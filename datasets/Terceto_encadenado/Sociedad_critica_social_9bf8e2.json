@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¿Qué mundo dejamos,\na los que vendrán,\nsi no cuidamos?\n\nSe perderán,\nlos ríos y montes,\ny llorarán.\n\nLos horizontes.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Por salvar a su rebaño,\nse enfrentó a la riada,\ncon la mano alzada,\nsufriendo el daño.\nNo fue engaño,\nsu muerte sagrada,\nfue la ofrenda dada,\nen este año.\nHéroe sencillo,\nsin castillo,\nni brillo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "entrega"
+  }
+}

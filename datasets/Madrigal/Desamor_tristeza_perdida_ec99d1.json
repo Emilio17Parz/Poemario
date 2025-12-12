@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me pesa el corazón,\ncomo una piedra negra y abismal;\nes este el triste mal\nde la razón.\nLa pena se ha instalado aquí en mi pecho,\nen este lecho.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pena"
+  }
+}

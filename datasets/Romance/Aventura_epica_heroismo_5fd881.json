@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "San Jorge alzó su lanza\nfrente a la bestia de fuego,\nque guardaba a la princesa\nsin escuchar ningún ruego.\nLe clavó el hierro en el pecho\nen un valiente juego,\ny salvó al reino entero\nde aquel monstruo andariego.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

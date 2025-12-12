@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vida de un día,\nmuere la mariposa,\nbreve existir.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "breve"
+  }
+}

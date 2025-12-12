@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La tierra es de quien la labra,\ndijo el viejo sabio,\npero el agravio,\nes palabra.\n\nEl dueño la abra,\ncon llave de hierro,\ny yo me aterro,\nen mi macabra.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

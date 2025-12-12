@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No busques tu espejo en el ser amado,\npues el amor en la diferencia es hallado.\nComplementarse es la gran lección,\nunir dos mundos en una canción.\nAcepta el contraste y la variedad,\ny construirás una sólida unidad.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "diferencia"
+  }
+}

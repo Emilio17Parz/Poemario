@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La miel de tu boca es dulce (a),\nel sabor que quiero hallar (b),\nmi corazón no se tuerce (c),\nsi tú me enseñas a amar (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Dulce"
+  }
+}

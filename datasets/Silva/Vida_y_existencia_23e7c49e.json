@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Los años traen calma,\ny la sabiduría de vivir,\nllenando el alma,\nde un sentir,\nque ya no tiene miedo a morir.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "años"
+  }
+}

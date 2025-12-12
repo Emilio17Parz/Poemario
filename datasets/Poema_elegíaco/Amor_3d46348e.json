@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Una lágrima rueda por la historia,\nde nuestro amor que la muerte rompió,\nel destino cruel nos separó,\ny solo vivo en la triste memoria.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

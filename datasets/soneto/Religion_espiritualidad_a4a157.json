@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Caí en la trampa de la tentación,\ncomí la fruta prohibida,\ny sentí el alma herida\npor la culpa y la traición.\n\nPerdí tu gracia y tu bendición,\ny anduve en senda perdida,\ncon la conciencia remordida\nbuscando una solución.\n\nEl pecado es cadena pesada,\nque nos ata a la tierra,\ny nos deja la vista nublada.\n\nEs una interna guerra,\nque deja el alma cansada,\ny la puerta del cielo cierra.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "fruta"
+  }
+}

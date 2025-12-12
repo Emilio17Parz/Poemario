@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El ego es una prisión,\nque nos aísla del mundo,\ny ciega la razón.\n\nEs la perdición,\nde lo profundo,\nel ego es una prisión.\n\nSin compasión,\nni segundo,\ny ciega la razón.\n\nLa ambición,\ndel vagabundo,\nel ego es una prisión.\n\nLa ilusión,\ndel inmundo,\ny ciega la razón.\n\nLa obsesión,\ndel iracundo,\nel ego es una prisión,\ny ciega la razón.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ego"
+  }
+}

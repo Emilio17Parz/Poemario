@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me voy a tierras lejanas\npero te dejo mi alma,\nguárdala en tu corazón\npara que te dé la calma.\nVolveré cuando la guerra\ndeje caer su cruel palma,\ny te amaré nuevamente\nbajo la luz de la palma.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "despedida"
+  }
+}

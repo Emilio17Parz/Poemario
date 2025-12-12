@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fui fuego muy alto, y ahora soy solo polvo,\nla vida sin tu luz es un amargo revolvo.\nEl viento me levanta, me lleva a la sal,\nla ceniza es la prueba de un amor fatal.\n\nNo queda la forma, solo el recuerdo gris,\nla vida que se va sin ninguna raíz.\nMi final es el aire, frío y sin razón,\nla triste agonía sin ninguna opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

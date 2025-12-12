@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pide limosna en la esquina\nel viejo de barba blanca,\nmientras pasan los señores\ncon su riqueza tan franca.\nNadie mira a sus ojos\nni a su mano que se estanca,\ny él sigue allí tiritando\nsobre su miseria manca.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

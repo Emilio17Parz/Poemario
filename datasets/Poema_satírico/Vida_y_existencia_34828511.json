@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Compré lotería,\nsoñando con yates,\npero sigo comiendo,\nfrijoles y tomates.\nLa suerte es de otros,\no del que la vende,\ny mi cartera triste,\nnunca se desprende.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

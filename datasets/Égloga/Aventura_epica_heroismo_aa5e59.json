@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan que en esa cueva oscura,\nvivía un gigante atroz,\nque con su tremenda voz,\ncausaba gran amargura.\n\nPero un pastor con bravura,\nlo venció con su honda,\ny limpió la redonda,\nde aquella criatura.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "gigante"
+  }
+}

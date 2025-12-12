@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En la noche oscura del alma,\ncuando todo parece perdido,\nsurge una chispa.\nNo es una luz que ciega,\nes una luz que calienta.\nLa esperanza de que no estamos solos,\nde que hay un orden\ndetrás del caos aparente.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "luz"
+  }
+}

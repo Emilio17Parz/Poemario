@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rompí mi flauta contra la roca,\npues ya no quiero música oír,\nsi ella no está para sonreír,\nla melodía se vuelve loca.\n\nLa nota alegre se desenfoca,\ny se convierte en triste lamento,\nque se lo lleva lejos el viento,\ny mi dolor profundo provoca.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flauta"
+  }
+}

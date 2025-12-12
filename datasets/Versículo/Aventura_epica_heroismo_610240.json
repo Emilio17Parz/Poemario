@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La bestia duerme sobre montañas de oro antiguo, respirando fuego y sueños de destrucción en la oscuridad de la caverna.\nEnfrentar al dragón es mirar a la muerte a la cara y descubrir que el tesoro que guarda es nuestra propia valentía olvidada.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

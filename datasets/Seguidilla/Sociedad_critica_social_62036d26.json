@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "El alma encarcelada\npor la razón,\nbusca la libertad\nsin compasión.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

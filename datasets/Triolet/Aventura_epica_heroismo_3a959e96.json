@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No busca la vana gloria,\nsolo quedar en la historia,\ncomo una victoria.\nNo busca la vana gloria,\nque es transitoria,\ny obligatoria.\nNo busca la vana gloria,\nsolo quedar en la historia.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

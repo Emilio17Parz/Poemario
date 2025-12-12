@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No estoy gordo, es ropa,\nque encoge al lavar,\notra copa,\nno me va a afectar.\nMentirse a uno mismo,\nes puro cinismo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Autoengaño"
+  }
+}

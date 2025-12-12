@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cantemos la gesta de la libertad,\nque rompe los muros de la prisión.\nEspartaco alzó su rebelión,\ncontra la romana autoridad.\nBolívar cruzó los Andes nevados,\npara liberar a los pueblos atados.\nLa libertad exige sangre y sudor,\npero es del hombre el mayor honor.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

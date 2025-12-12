@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dragón no es un monstruo,\nes mi propio miedo cruel.\nEl duro astro\ncon sabor a hiel.\n\nLo busco en la cueva,\nlo llamo sin voz,\nla única prueba\nde un triste arroz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "   For   \n      ma \nPer      \n   fecta ",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "forma"
+  }
+}

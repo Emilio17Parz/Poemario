@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Senda de piedras que el caminante pisa,\nbusca la meta que el horizonte esconde,\nmarchamos con gran prisa\nsin saber bien hacia dónde.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "camino"
+  }
+}

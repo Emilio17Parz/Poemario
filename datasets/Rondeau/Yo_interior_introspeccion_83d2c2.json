@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La máscara,\nes cáscara.\nQue cubre,\ny encubre,\nla jácara.\n\nLa pícara,\ny la ácara.\nEn octubre,\nla máscara.\n\nLa xícara,\ny la tácara.\nDescubre,\ny sufre,\nla lácara,\nla máscara.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

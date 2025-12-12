@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Pálida sombra al final nos convoca,\nCesa el aliento, se rompe la dicha;\nFría la losa que en la tumba oscura es,\nÚltima paz.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

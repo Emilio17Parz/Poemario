@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí somos todos iguales.\nEl rico y el pobre,\nel sabio y el necio.\nCalaveras blancas que sonríen igual,\ndespojadas de trajes y títulos,\nhermanas en el hueso.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "igualdad"
+  }
+}

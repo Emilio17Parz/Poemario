@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega la muerte callada\nsin pedir ningún permiso,\nrompiendo el compromiso\nde la vida regalada.\nDeja el alma desolada\ny el cuerpo frío y quieto,\nes el último decreto\nque todos hemos de oír,\ny nos toca partir\nhacia el lugar secreto.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "final"
+  }
+}

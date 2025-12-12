@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "labio\n     s\n      e\n     c\n    r\n   u\n  z\n a\nlabio",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "beso"
+  }
+}

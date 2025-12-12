@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El poder es una droga que embriaga a quien la prueba, haciéndole creer que es gigante y que los demás son hormigas.\nConstruyen tronos sobre espaldas ajenas, olvidando que cuando la base se mueva, la caída será desde muy alto.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "poder"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el agua del claro río,\nbuscando el abrazo del mar,\nhuyendo del monte y su frío,\nsin nunca poder descansar.\n\nBuscando el abrazo del mar,\nlleva vida por donde pasa,\nsin nunca poder descansar,\nsu corriente jamás se retrasa.\n\nLleva vida por donde pasa,\ncorre el agua del claro río,\nsu corriente jamás se retrasa,\nhuyendo del monte y su frío.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "río"
+  }
+}

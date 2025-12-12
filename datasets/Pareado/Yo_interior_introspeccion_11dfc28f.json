@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vuela lejana mi inquieta mente,\nllevada por una fuerte corriente.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "mente"
+  }
+}

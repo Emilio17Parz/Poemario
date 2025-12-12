@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras que se vuelven sentimiento,\ncon ritmo, rima y dulce melodía,\nllevadas por las alas del gran viento.\n\nExpresan el dolor y el sufrimiento,\no la más pura y loca alegría,\npalabras que se vuelven sentimiento.\n\nSon el refugio y el mejor sustento,\npara el alma que busca compañía,\nllevadas por las alas del gran viento.\n\nEn cada verso vive un juramento,\nde amor, de fe, de lucha o de osadía,\npalabras que se vuelven sentimiento.\n\nConstruyen un eterno monumento,\nA la belleza y a la fantasía,\nllevadas por las alas del gran viento.\n\nEs del lenguaje el máximo portento,\nque nos regala luz y poesía,\npalabras que se vuelven sentimiento,\nllevadas por las alas del gran viento.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

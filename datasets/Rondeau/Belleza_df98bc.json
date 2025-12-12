@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena la música hoy,\ndonde quiera que voy,\nnotas de amor,\ncon dulce sabor,\ny lo que soy.\n\nTodo lo que doy,\ny donde estoy,\nes un primor,\nSuena la música.\n\nEn el convoy,\ndel tiempo voy,\nsin temor,\nal dolor,\nde Eloy,\nSuena la música.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "música"
+  }
+}

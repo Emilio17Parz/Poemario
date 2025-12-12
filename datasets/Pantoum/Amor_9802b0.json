@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando despiertes estaré ahí,\nvelando el sueño que te rodea.\nTodo lo bueno que yo viví,\nes porque tú eres mi marea.\n\nVelando el sueño que te rodea,\nacariciando tu piel dormida.\nEs porque tú eres mi marea,\nque tiene rumbo mi propia vida.\n\nAcariciando tu piel dormida,\ntodo lo bueno que yo viví.\nQue tiene rumbo mi propia vida,\ncuando despiertes estaré ahí.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mañana"
+  }
+}

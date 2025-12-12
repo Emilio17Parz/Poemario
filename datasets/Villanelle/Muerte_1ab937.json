@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la piedra fría,\ndescansa tu cuerpo inerte,\nlejos de la alegría.\n\nSe acabó el día,\ny llegó la muerte,\nbajo la piedra fría.\n\nYa no hay vía,\npara quererte,\nlejos de la alegría.\n\nLa tierra impía,\nte hace fuerte,\nbajo la piedra fría.\n\nNadie diría,\ncuál fue tu suerte,\nlejos de la alegría.\n\nTu melodía,\nse vuelve inerte,\nbajo la piedra fría,\nlejos de la alegría.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

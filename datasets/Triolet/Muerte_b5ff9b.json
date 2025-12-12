@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Duermes para siempre,\nEn el sueño eterno,\nSin que nadie te siembre.\nDuermes para siempre,\nEste diciembre,\nDel invierno.\nDuermes para siempre,\nEn el sueño eterno.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "siempre"
+  }
+}

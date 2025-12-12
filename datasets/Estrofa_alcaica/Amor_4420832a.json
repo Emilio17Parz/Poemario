@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cantos de himeneo en el altar resuenan,\nvisten de blanco la ilusión primera,\ny las campanas atruenan\nla nueva vida que nos espera.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "boda"
+  }
+}

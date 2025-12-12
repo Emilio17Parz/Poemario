@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es una puerta\nque no tiene retorno.\nLa senda ya es tuerta\nsin ningún adorno.\n\nLa cruzas sin llave,\nsin ropa ni adiós,\nel alma ya sabe\nque no hay más voz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

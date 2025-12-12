@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sombras y luces juegan en el bosque,\nmientras el sol en la tarde se enrosque.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

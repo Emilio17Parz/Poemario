@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tres días llevo sin verte\ny me parecen tres años,\nque el tiempo cuando no estás\ncausa terribles estragos.\nMiro la puerta cerrada\ny recuerdo tus halagos,\nesperando que regreses\na curar mis desamparos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

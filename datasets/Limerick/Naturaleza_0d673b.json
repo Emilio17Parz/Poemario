@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Una estrella que brilla en lo oscuro,\nes luz en el cielo más puro.\nNos guía a un puerto,\nsin rastro de entuerto,\nel mapa de un tiempo futuro.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Estrella"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fuego de la gesta, de ardiente fulgor,\nla llama que el alma quiere ya dar.\nEs pasión sin sombra, sin un gran dolor,\nel alma que busca el mar.\n¡Oh, llama viva, de dulce fulgor,\nme das la fe y el valor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Fuego"
+  }
+}

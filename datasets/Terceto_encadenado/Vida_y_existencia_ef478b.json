@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El reloj del tiempo sigue su marcha fiel (A),\ncada tic es vida, es un don sin par (B),\nla vida es un trago de dulce miel (A).\n\nNo pierdas el 'ahora', sin avisar (B),\nel alma que vuela, sin un error (C),\nla forma de al fin amar (B).\n\nNo hay más que buscar, no hay más fulgor (C),\nque en él hallar la paz (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Reloj"
+  }
+}

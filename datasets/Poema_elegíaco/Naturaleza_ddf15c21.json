@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol se oculta tras el monte,\ncomo un ojo que se cierra,\ntinieblas cubren la tierra,\nborrando el horizonte.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "sol"
+  }
+}

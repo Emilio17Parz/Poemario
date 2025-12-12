@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La felicidad es sencilla,\nno requiere gran maravilla.\nUn techo, pan y un amigo,\ny estar en paz con el ombligo.\nNo compliques el existir,\ncon el ansia de adquirir.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "sencillez"
+  }
+}

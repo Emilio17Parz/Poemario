@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dorian llegó a su habitación,\ny destapó el cuadro oculto.\nEsperaba ver su perfección,\ny recibir su propio culto.\nPero vio una aberración,\nque le causó un gran tumulto.\nEl rostro estaba deformado,\npor el vicio y el complejo,\ny supo que había mirado,\nel alma en su propio espejo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

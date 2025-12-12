@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Volver a casa al fin,\nes la única idea,\ndel cansado paladín.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

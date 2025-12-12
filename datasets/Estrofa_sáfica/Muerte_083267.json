@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tiembla el humano ante el gran final,\nmisterio oscuro que nadie sabe,\ncuando se cierra la última llave,\npaso terrible.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

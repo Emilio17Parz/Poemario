@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Guardo en el alma nuestro secreto,\nnadie lo sabe, nuestro secreto.\n\nMiradas que dicen el plan completo,\nsilencio cómplice de nuestro secreto.\n\nAmor escondido, puro y discreto,\nvivimos amando nuestro secreto.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

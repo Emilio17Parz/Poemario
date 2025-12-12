@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guante arrojado, mirada fiera,\nque incita a luchar a quienquiera.\n¡Salve, Desafío, prueba de fuego!,\ndonde no cabe la duda ni el ruego.\n\nNos haces más fuertes, nos haces crecer,\nal obligarnos a defender.\nAceptamos el reto con dignidad,\nprobando nuestra capacidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "desafío"
+  }
+}

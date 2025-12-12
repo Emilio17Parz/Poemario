@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro rey, padre de la cosecha y vida,\nviertes tu oro sobre el trigal maduro,\ntu luz jamás se olvida\ny nos protege del lado oscuro.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "sol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos la verdad desnuda,\nquitando los velos del miedo,\ndiciendo \"yo soy y yo puedo\",\nsin que nos asalte la duda.\n\nLa mentira a veces ayuda,\na cubrir el dolor con un dedo,\npero deja el espíritu quedo,\ny la conciencia tartamuda.\n\nLa verdad libera y eleva,\naunque duela como un puñal,\ny el alma a la luz nos lleva.\n\nEs el principio fundamental,\nque la dignidad nos renueva,\ny nos libra de todo mal.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

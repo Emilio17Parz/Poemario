@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompen las olas con gran furor,\nsobre la arena de la playa,\nllevan la sal y el frescor,\ndonde el horizonte desmaya.\nCantan su eterno dolor,\no su alegría al despertar,\nes el gigante de color,\nla misteriosa e inmensa mar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "mar"
+  }
+}

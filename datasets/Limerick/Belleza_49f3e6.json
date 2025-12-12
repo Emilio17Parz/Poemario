@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La risa que el alma me da,\nes dulce, sin pena ni sa.\nEs simple verdad,\nsin falsedad,\nla vida que siempre está.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

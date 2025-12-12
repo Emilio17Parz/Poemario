@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Escribió versos de amor,\ncon tinta de mucho color,\nmas tuvo una errata,\nrimó con \"patata\",\ny ella sintió gran horror.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Poema"
+  }
+}

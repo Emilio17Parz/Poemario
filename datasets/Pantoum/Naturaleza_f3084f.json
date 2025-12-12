@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mano invisible que todo mueve,\ncaricia suave o vendaval.\nTrae la lluvia, trae la nieve,\nfuerza que no tiene rival.\n\nCaricia suave o vendaval,\nsusurra cuentos en la ventana.\nFuerza que no tiene rival,\ndesde la noche a la mañana.\n\nSusurra cuentos en la ventana,\ntrae la lluvia, trae la nieve.\nDesde la noche a la mañana,\nmano invisible que todo mueve.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "viento"
+  }
+}

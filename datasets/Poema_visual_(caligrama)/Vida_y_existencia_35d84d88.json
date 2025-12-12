@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "   Ramas\n  de  sueños\n   Tronco\n    firme\n   Raíces",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurra el viento en las ramas,\ncanción antigua y sagrada,\nla hoja verde y dorada,\nenciende sus verdes llamas.\nNaturaleza, tú me amas,\nen la quietud de la enramada.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

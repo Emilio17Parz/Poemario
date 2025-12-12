@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Aquello que nos deja sin aliento,\npor su grandeza y majestad,\nque supera la realidad,\ny desborda el entendimiento.\n\nCausa temor y arrobamiento,\nante tal inmensidad,\nmostrando nuestra vacuidad,\nen este pequeño momento.\n\nEl mar en tormenta, la montaña,\nla noche estrellada y profunda,\nque al alma pequeña acompaña.\n\nUna sensación que nos inunda,\ny que jamás, jamás nos engaña,\npues en lo absoluto se funda.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sublime"
+  }
+}

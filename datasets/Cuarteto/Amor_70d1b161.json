@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tus labios encuentro dulce miel,\nun remedio que calma mi amargura,\nregalando a mi alma la ventura\nde sentir el contacto de tu piel.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "miel"
+  }
+}

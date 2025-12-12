@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras que riman con el sentimiento,\nllevadas por alas del suave viento,\nversos que dicen lo que el alma calla,\ny saltan los muros de cualquier muralla.\nLa poesía es la flor del lenguaje,\nque nos perfuma en este largo viaje,\ny nos consuela con su ritmo fiel,\ndulce y amargo como la hidromiel.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El pergamino gastado,\nmarca la ruta a seguir,\nhacia el sitio soñado.\n\nNo podemos desistir,\naunque el camino sea duro,\ny nos haga sufrir.\n\nEn lo oscuro.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

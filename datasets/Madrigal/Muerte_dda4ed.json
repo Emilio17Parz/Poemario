@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Emprender el camino,\nhacia la orilla que nadie conoce;\nsin goce ni roce,\ntan repentino.\nEl viaje final que todos hacemos,\ny tememos.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

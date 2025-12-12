@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Al fin llega la calma,\ntras la tormenta de la vida humana,\ny descansa el alma,\nen la mañana,\nque se abre brillante y soberana.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "calma"
+  }
+}

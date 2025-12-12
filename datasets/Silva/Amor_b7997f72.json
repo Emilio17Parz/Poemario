@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Marcado en el destino,\nestaba nuestro encuentro en el camino,\ncual cruce de dos ríos,\nvenciendo soledades y vacíos.\nFue la suerte o la vida,\nla que nos dio cabida,\npara seguir andando,\nsiempre amando.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "destino"
+  }
+}

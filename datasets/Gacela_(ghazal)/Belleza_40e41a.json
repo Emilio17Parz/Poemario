@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo se une en la gran armonía,\ncosmos perfecto en gran armonía.\n\nNada sobra y nada nos falta,\ncuando se vive en gran armonía.\n\nLa belleza nace del equilibrio,\ny de la paz de la gran armonía.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

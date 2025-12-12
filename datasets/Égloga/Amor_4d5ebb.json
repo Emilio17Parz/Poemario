@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nemoroso:\nCuando me miras, el campo florece,\ny el sol parece brillar más fuerte,\neres, pastora, mi buena suerte,\ny ante tus ojos mi mal perece.\n\nBelisa:\nSi mis ojos te dan lo que merece\ntu alma noble y tu pecho leal,\nmiraré siempre tu faz, tal cual,\nhasta que el día se oscurece.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

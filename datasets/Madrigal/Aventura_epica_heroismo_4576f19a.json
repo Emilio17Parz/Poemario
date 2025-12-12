@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Emprendes el largo viaje\nhacia tierras de extraño paisaje,\ncruzando el mar,\nsin descansar.\nCon poco equipaje,\ny gran coraje,\nsabrás tu destino alcanzar.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

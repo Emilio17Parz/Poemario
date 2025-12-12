@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volvemos a ser ceniza,\npolvo que el viento dispersa,\nsobre la tierra y el mar.\nDejamos de respirar,\ny la llama se extingue,\nquedando solo el carbón.\n\nSolo el carbón,\ny la ceniza,\nque se distingue.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

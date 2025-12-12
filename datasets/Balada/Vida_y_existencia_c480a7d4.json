@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es sueño, dijo el poeta,\ny los sueños, sueños son,\nperseguimos una meta,\ncon la fuerza de la ilusión.\nPero al final de la función,\ndespierta el hombre en su rincón.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Casa bonita,\ntan infinita.\n\nTecho y muro,\nbien seguro,\nlo juro,\nvisita.\nCasa bonita,\ntan infinita.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "arquitectura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amante debe ser amigo,\ncompañero de risas y llanto,\nen la tormenta, el mejor abrigo,\ny en la calma, el dulce encanto.\nLa pasión se apaga con la edad,\npero siempre queda la amistad.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Amistad"
+  }
+}

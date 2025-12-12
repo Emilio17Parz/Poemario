@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurra el bosque su canción,\nentre las hojas y el viento.\nEs un eterno movimiento,\nlleno de paz y emoción.\n\nVerde y profunda mansión,\ndonde respira el aliento.\nSusurra el bosque su canción,\nentre las hojas y el viento.\n\nSana mi preocupación,\ncada vez que yo lo siento.\nAleja el sufrimiento,\ncon su suave vibración.\nSusurra el bosque su canción.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

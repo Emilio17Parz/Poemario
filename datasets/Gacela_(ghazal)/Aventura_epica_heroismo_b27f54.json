@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla al sol la fiel espada,\nextensión del brazo, la fiel espada.\n\nDefiende al débil y corta el mal,\nhoja de justicia, la fiel espada.\n\nNunca se envaina sin el honor,\ncompañera eterna, la fiel espada.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pintura que yaces sin un gran color,\nel lienzo sin vida, sin un gran bien.\nTu forma es sombra, sin un fulgor,\nel alma sin un sostén.\nTu tela es triste, la verdad es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Pintura"
+  }
+}

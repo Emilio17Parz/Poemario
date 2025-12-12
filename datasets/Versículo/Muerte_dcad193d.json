@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Yo sé que mi Redentor vive, y al fin se levantará sobre el polvo; y después de deshecha esta mi piel, en mi carne he de ver a Dios.\nPorque si creemos que Jesús murió y resucitó, así también traerá Dios con Jesús a los que durmieron en él.\n¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria? Sorbida es la muerte en victoria.\nHe aquí, os digo un misterio: No todos dormiremos; pero todos seremos transformados, en un momento, en un abrir y cerrar de ojos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "resurrección"
+  }
+}

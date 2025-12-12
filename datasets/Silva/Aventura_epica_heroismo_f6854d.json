@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ir muy lejos,\na otras tierras,\nentre sierras,\ny espejos.\nLos consejos,\ndel camino,\nson destino,\nde viejos.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

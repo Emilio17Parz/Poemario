@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un año cumple el cariño\nque nació aquella mañana,\ncuando cruzamos las vidas\nal sonar de la campana.\nBrindemos con vino dulce\ny con alegría sana,\npor este lazo que une\ntu alma con la de mi hermana.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "aniversario"
+  }
+}

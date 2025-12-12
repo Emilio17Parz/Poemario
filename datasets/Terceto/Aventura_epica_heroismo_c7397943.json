@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La bestia escupe fuego y destrucción,\nsembrando el pánico en la aldea,\nhasta que llega el héroe y su acción.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

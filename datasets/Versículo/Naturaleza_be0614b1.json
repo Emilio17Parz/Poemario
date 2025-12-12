@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¿Quién encerró el mar con puertas, cuando se derramaba saliéndose de su seno, y le puse nubes por vestidura?\n¿Y establecí sobre él mi decreto, le puse puertas y cerrojo, y dije: Hasta aquí llegarás, y no pasarás adelante?\nAllí parará el orgullo de tus olas; ¿has entrado tú hasta las fuentes del mar, y has andado escudriñando el abismo?\nAlabado sea el Señor que domina la braveza del mar; cuando se levantan sus ondas, él las sosiega.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "mar"
+  }
+}

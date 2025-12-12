@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Siento tu paso en la sala,\ncomo una sombra que vaga,\ny el miedo se me instala.\n\nNadie te iguala,\nen esta saga,\nsiento tu paso en la sala.\n\nEs una bala,\nque nunca apaga,\ny el miedo se me instala.\n\nTu voz me tala,\ncomo una plaga,\nsiento tu paso en la sala.\n\nEs la antesala,\nde lo que estraga,\ny el miedo se me instala.\n\nTu luz exhala,\nlo que se traga,\nsiento tu paso en la sala,\ny el miedo se me instala.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

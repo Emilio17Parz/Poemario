@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dulce canto,\nme gusta tanto.\n\nSu melodía,\nde noche y día,\nes la alegría,\ndel santo.\n\nDulce canto,\nme gusta tanto.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "canto"
+  }
+}

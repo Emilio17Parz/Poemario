@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Querías herederos,\npequeños y tiernos,\npero son demonios,\ncon rabos y cuernos.\nTe gastan la plata,\nte quitan el sueño,\ny tú sigues siendo,\nsu esclavo y no dueño.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "hijos"
+  }
+}

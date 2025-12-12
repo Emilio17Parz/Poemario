@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "[EL VIGÍA]\nLa noche no es ausencia de luz, es la presencia de todos los fantasmas.\nEscucho el crujido de la madera, el gemido del lobo. Todo me observa.\nElla me obliga a enfrentar lo que el sol esconde: mi miedo, mi culpa.\nSi amanece, habré ganado una batalla. Pero la noche siempre vuelve a buscarme.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "noche"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[EL HOMBRE]\n(Viendo llegar su asesino)\nNo te culpo. Es el destino. La flecha tenía mi nombre desde mi nacimiento.\nMi vida fue un error, una nota falsa en una sinfonía. Y ahora se corrige.\nGracias por ser mi herramienta. El tiempo de la broma ha terminado.\nSolo te pido una cosa: no me mires. El horror no está en morir, está en tus ojos.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "destino"
+  }
+}

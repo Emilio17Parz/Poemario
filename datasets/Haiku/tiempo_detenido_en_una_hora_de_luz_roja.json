@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Tiempo detenido en una hora de luz roja\"",
   "poema": {
     "texto": "Tiempo parado en la hora roja,\nLuz detenida en el instante,\nSilencio de solsticio.",

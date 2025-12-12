@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quisiera detener el veloz tiempo,\ncuando estamos unidos los dos,\ny el mundo parece desaparecer.\nCongelar el minuto y el placer,\nde sentir tu piel junto a la mía,\ny vivir en un presente inmortal.\n\nUn presente inmortal,\nvenciendo al tiempo,\ncon alegría.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

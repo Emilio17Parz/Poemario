@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vaga el espectro por el castillo,\nuna sombra triste de lo que fue.\nPerdió su amor y perdió su fe,\ny ahora arrastra su largo grillo.\nFue dama de luz, hoy es oscuridad,\nvíctima de una cruel fatalidad.\nLa leyenda cuenta que aun la nombra,\nquien se atreve a entrar en su eterna sombra.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

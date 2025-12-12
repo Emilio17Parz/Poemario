@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me transformo cada día,\ncomo el río que avanza,\nmuere la esperanza,\ny nace la alegría.\n\nTravesía,\ndel ser,\nal ver,\nla guía.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "transformación"
+  }
+}

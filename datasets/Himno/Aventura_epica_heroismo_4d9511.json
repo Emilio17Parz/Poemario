@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Bestia de fuego, terror de la cima,\ncuya presencia el valor reanima!\nGuardas tesoros en cueva profunda,\ndonde la sombra y el miedo inunda.\n\n¡Temed al aliento que quema y abrasa,\ny que convierte en ceniza la casa!\nSolo el más puro podrá derrotar,\nal monstruo antiguo que sabe volar.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

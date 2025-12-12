@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pido tu perdón,\nde corazón.\n\nSi te he fallado,\nyo he pecado,\npero he amado,\ncon la razón.\nPido tu perdón,\nde corazón.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

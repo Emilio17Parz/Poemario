@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vistes el campo entero,\nEsperanza renacida.\nRíes en el sendero,\nDando color y vida,\nEn el mundo sincero.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "VERDE"
+  }
+}

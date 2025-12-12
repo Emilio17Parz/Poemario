@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sabor que el paladar no quiere ya sentir,\nla esencia de vida sin un gran bien.\nTu gusto es pena, sin poder huir,\nel alma sin un sostén.\nTu forma es triste, la verdad es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Sabor"
+  }
+}

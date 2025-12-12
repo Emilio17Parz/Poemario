@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llega la vejez,\ncon rapidez,\ny sabiduría,\nde cada día,\ny sencillez.\n\nSin timidez,\nes la madurez,\nde la alegría,\nLlega la vejez.\n\nLa niñez,\nde la vez,\nque reía,\ny vivía,\ncon fluidez,\nLlega la vejez.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

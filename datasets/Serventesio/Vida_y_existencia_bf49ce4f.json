@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vamos andando el difícil camino,\nllenando el alma de polvo y sudor,\nmientras nos guía el incierto destino,\nentre momentos de gozo y dolor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "camino"
+  }
+}

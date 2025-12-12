@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dicha que fuiste la gracia y el don,\nel gozo que el tiempo me quiso quitar.\nMi alma se ahoga sin una razón,\nel alma no puede sino lamentar.\nLa plenitud es un hueco vacío,\nsolo el lamento de un frío.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Dicha"
+  }
+}

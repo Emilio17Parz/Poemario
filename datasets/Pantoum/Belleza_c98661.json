@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El pincel traza la línea,\ncolores sobre el lienzo.\nUna imagen apolínea,\ndonde todo es comienzo.\n\nColores sobre el lienzo,\nreflejo del alma humana.\nDonde todo es comienzo,\nluz que entra en la ventana.\n\nReflejo del alma humana,\nuna imagen apolínea.\nLuz que entra en la ventana,\nel pincel traza la línea.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "arte"
+  }
+}

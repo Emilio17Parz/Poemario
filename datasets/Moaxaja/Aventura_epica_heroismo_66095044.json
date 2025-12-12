@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Saca la espada,\nen la jornada.\n\nDefiende al rey,\ny a su ley,\ncon la grey,\ntan asustada.\nEn la jornada.\n\nJarcha:\n¡Dale fuerte, caballero!\nQue tú eres el primero.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "espada"
+  }
+}

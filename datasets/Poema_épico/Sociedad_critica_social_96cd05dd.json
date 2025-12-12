@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La Revolución Francesa,\npidió pan y libertad,\nante la maldad,\nde la realeza.\nCortaron la cabeza,\nde la majestad,\npor la igualdad,\nen la mesa.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

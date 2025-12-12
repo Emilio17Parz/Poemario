@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La nieve es silencio fiel (a),\nla tierra que duerme ya (b),\nla vida es un trago de miel (c),\nsin la fuerza que me da (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Nieve"
+  }
+}

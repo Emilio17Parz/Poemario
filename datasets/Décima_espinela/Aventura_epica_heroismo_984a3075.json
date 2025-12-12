@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan tambores de guerra\nen el valle de la muerte,\nse decide la suerte\nde toda nuestra tierra.\nEl miedo nos aterra\npero el honor nos llama,\ny encendemos la llama\nde la lucha feroz,\nalzando nuestra voz\npor quien nos ama.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

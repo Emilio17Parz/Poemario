@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo es de azul, un lienzo sin fin,\ncon nubes de plata y de blanco tul,\nla morada de Dios, el dulce trajín,\nla calma que viene del azul.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Cielo"
+  }
+}

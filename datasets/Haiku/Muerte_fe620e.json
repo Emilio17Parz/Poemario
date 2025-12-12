@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cruzar el río,\nsin barca y sin remos,\nhacia la sombra.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "rio"
+  }
+}

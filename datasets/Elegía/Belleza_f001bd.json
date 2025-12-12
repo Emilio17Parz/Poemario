@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Telón caído y polvoriento,\nbutacas vacías y rojas,\ndonde mueren las hojas,\ndel libreto en el viento.\n\nUn fantasma lento,\nrecoge las congojas,\ny las despojas,\ndel sentimiento.\n\nDrama que nadie ve,\ndonde muere la fe.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "teatro"
+  }
+}

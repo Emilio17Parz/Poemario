@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La guerra sin un solo fin,\nla sangre que corre sin tin.\nLa pena es brutal,\nsin nada de mal,\nla vida que vive sin ín.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Guerra"
+  }
+}

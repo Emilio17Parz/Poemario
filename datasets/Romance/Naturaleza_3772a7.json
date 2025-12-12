@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entré en el bosque cerrado\ndonde la luz no penetra,\ndonde el silencio se escribe\ncon una invisible letra.\nHuele a musgo y a madera\ny el alma se compenetra,\ncon la vida milenaria\nque en cada tronco se centra.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

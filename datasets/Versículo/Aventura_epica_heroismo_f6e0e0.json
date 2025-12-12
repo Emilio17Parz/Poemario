@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Buscamos que nuestros nombres sean cantados cuando ya seamos polvo y ceniza bajo la tierra fría.\nPero la gloria es un eco caprichoso que a menudo olvida al justo y eleva al tirano en las páginas de la historia.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

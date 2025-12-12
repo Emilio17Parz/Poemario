@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Voz que susurra en el interior,\njuzgando el fallo y el error,\nno me deja vivir en paz,\ny me quita el antifaz.\nEs el testigo de mi acción,\nque me pide la redención,\ny me señala el buen camino,\nlejos del torpe desatino.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

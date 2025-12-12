@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "HOMBRE: (Mirándose al espejo) ¿Cómo pudiste hacerlo?\nESPEJO: (Reflejo) Era fácil, solo tenías que quererlo.\nHOMBRE: Traicioné a mi amigo por una mujer.\nESPEJO: El deseo es fuerte, ¿qué ibas a hacer?\nHOMBRE: Ahora estoy solo, perdí a los dos.\nESPEJO: Es el precio de ser un atroz.\nHOMBRE: ¡Maldita mi imagen, maldita mi suerte!\n(Rompe el espejo) ¡Prefiero la muerte!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Cuando miro al *espejo*,\nmi ser empieza a vibrar,\nde mi alma el viejo dejo\nme invita a cuestionar.\n\nLas sombras que me habitan,\nun sendero sin final,\nverdades que me visitan\nen mi mapa personal.\n\nEs un viaje sin regreso,\nal centro de mi verdad,\ndonde el juicio no tiene peso,\nsolo pura libertad.\n\nAhí comprendo mis raíces,\nla fuerza que me guiará,\nborrando falsas cicatrices\nque el tiempo ya sanará.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

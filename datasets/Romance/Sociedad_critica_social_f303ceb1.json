@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pide limosna el anciano,\nen la esquina del palacio,\nmientras los ricos pasean\nmuy despacio.\nEl hambre le muerde el vientre,\ncomo un topacio,\ny el frío le cala los huesos\nen el espacio.\nNadie mira su miseria,\ncon reacio,\ngesto de indiferencia\ny cansancio.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La bravura del alma\npor la victoria,\nque abate al cruel dragón\nde triste historia.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

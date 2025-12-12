@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No tengo certezas,\nsolo preguntas.\nLa duda es mi compañera fiel.\nCuestiono lo que veo,\nlo que siento, lo que soy.\nTal vez en la duda esté la sabiduría,\nporque quien cree saberlo todo\nya ha dejado de aprender.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "duda"
+  }
+}

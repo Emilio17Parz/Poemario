@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Deja tu huella,\ncomo una estrella.\nEn el suelo,\nbajo el cielo,\ntan bella.\n\nAquella,\ndoncea.\nSin recelo,\ndeja tu huella.\n\nLa botella,\nse sella.\nEl vuelo,\ndel abuelo,\nse estrella,\ndeja tu huella.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "huella"
+  }
+}

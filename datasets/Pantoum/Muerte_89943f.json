@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cae el telón de la vida,\nse apagan las luces ya,\nla obra está concluida,\ny el actor se va.\n\nSe apagan las luces ya,\nno hay aplausos ni gritos,\ny el actor se va,\nhacia los nuevos mitos.\n\nNo hay aplausos ni gritos,\nla obra está concluida,\nhacia los nuevos mitos,\ncae el telón de la vida.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "telón"
+  }
+}

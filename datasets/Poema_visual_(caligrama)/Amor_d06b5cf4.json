@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "      A      \n     rde     \n    Fuego    \n   Pasión    \n  En el alma ",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "alma"
+  }
+}

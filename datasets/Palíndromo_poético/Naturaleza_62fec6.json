@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bosque verde\nárbol alto\nsombra fresca\nárbol alto\nbosque verde",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

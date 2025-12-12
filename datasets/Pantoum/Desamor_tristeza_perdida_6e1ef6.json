@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ponemos punto final,\na la historia que escribimos,\nun desenlace normal,\npara lo que vivimos.\n\nA la historia que escribimos,\nle faltaron muchas páginas,\npara lo que vivimos,\nsobran todas las lágrimas.\n\nLe faltaron muchas páginas,\nun desenlace normal,\nsobran todas las lágrimas,\nponemos punto final.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "punto"
+  }
+}

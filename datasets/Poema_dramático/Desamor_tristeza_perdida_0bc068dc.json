@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "YO: ¡Hola! ¿Hay alguien ahí?\nECO: ...ahí... ahí...\nYO: Se han ido todos, me han dejado.\nECO: ...jados... jado...\nYO: Solo me queda hablar con la pared.\nECO: ...red... red...\nYO: Qué triste es vivir en el olvido.\nECO: ...vido... vido...",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "eco"
+  }
+}

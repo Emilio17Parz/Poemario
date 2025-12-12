@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La estrella ya tiene luz,\ny nos quita toda la cruz.\n\nEl cielo ya no está mal,\nsin pena ni puñal,\nel espíritu es lo real,\ny nos quita toda la cruz.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

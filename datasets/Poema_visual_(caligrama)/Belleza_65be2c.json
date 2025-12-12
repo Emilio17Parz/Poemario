@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuello largo\ncurva elegante\npluma blanca\nflota en lago\nmajestad\nsilenciosa\ngracia pura.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "gracia"
+  }
+}

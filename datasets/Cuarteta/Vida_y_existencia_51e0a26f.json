@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gira la inmensa bola\nen el espacio infinito,\ny el hombre se queda sola\nante un universo bendito.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "bola"
+  }
+}

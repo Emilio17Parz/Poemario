@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Zig zag\nluz quebrada\nfuego eléctrico\nrompe el cielo\nbaja a tierra\ntrueno después\nfuerza pura.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "rayo"
+  }
+}

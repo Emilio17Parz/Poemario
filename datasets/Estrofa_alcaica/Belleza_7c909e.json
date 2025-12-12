@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La **bel**lé**za és** un **súé**ño **que** se **re**aliza (11)\nLa **és**trella **que bríl**la **sin** un dolor (11)\n**Vi**da que **és** una **brí**sa (9)\n**Pú**ro a**mór** (4).",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

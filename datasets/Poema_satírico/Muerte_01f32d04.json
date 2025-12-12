@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tanto cuidar la piel,\ncon cremas y lociones,\npara que los glotones,\ngusanos den cuenta de él.\nNo importa si fuiste fiel,\na las inyecciones,\nterminas en raciones,\nde un banquete cruel.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "gusanos"
+  }
+}

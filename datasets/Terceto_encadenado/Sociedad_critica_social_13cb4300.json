@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El pueblo clama por una justicia,\nque sea ciega y trate por igual,\nlejos de la corrupción y codicia.\n\nQue castigue con fuerza todo mal,\ny proteja al débil y oprimido,\nen un abrazo social y legal.\n\nPara que nadie quede en el olvido.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Flor alada,\nque revolotea,\ny afea,\na la nada.\nEs amada,\npor su color,\ny primor,\nde hada.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "mariposa"
+  }
+}

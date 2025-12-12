@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Solo queda el hueso,\nBlanco y desnudo,\nSin el peso.\nSolo queda el hueso,\nEn el proceso,\nTestarudo.\nSolo queda el hueso,\nBlanco y desnudo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "hueso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ojos vacíos\nnariz hueca\ndientes ríen\nmueca eterna\nhueso blanco\nfin de todo\nmemento mori.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "calavera"
+  }
+}

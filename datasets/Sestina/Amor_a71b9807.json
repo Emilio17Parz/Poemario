@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres tú la radiante y clara luz,\nque ilumina mi senda perdida,\ny me aleja de la oscuridad.\nTraes contigo la felicidad,\nque pensé que jamás volvería,\ny ahora brilla en mi despertar.\n\nEn mi despertar,\neres la luz,\ny la alegría.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "luz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ya no se escuchan risas ni voz,\ntodo se vuelve quietud,\nel tiempo pasa muy veloz,\nrobando la juventud.\nQueda un misterio atroz,\nque yo con miedo presencio,\nes el abrazo feroz,\ndel absoluto y gran silencio.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

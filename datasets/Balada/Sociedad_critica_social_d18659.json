@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La dama ciega con la balanza,\na veces pierde la esperanza,\npues el dinero inclina el peso,\ny deja al pobre siempre preso.\nJusticia piden los inocentes,\nante los jueces indiferentes,\nque venden leyes al mejor postor,\ncausando rabia y mucho dolor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

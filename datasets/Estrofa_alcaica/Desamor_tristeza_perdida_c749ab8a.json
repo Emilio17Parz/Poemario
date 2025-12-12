@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fuego apagado, solo carbón y humo,\nrestos de un tiempo que fue feliz y breve,\nen la tristeza me sumo\nmientras el tiempo se va y se mueve.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

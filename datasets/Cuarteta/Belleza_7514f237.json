@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza que el ojo ve y no olvida,\nEs el aliento que a mi verso impulsa,\nUn eco eterno de la luz vivida,\nDel arte y la emoción, mi amada musa.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "musa"
+  }
+}

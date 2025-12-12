@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ya florecieron los almendros,\nya cantan las aves su canción,\ndejando atrás los fríos engendros,\ndel invierno y su desolación.\nLa primavera es la estación,\nque llena de vida el corazón.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

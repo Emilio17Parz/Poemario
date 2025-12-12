@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mueven la copa con el dedo,\ny gritan '¡se ha movido!',\nmuriéndose de miedo,\npor el espíritu fingido.\nSi el diablo tuviera que hablar,\nno usaría un juego de bar.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Ouija"
+  }
+}

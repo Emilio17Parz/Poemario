@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco el silencio en el rincón del alma,\nlejos del ruido que la vida impone,\ndonde mi ser con la quietud perfecta\nse compone.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "calma"
+  }
+}

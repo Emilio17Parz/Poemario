@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Don es\nla fe viva\nque das\nla fe viva\ndon es",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "don"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Iba camino a Damasco,\npersiguiendo a los fieles,\ncon hieles y mieles,\ny un gran chasco.\nUna luz lo cegó,\ny cayó del caballo,\ncomo cae un rayo,\ny una voz le habló.\nSe levantó cambiado,\nun apóstol sagrado.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "luz"
+  }
+}

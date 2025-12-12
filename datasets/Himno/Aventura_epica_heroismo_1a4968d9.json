@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Gloria al héroe que no se rinde!\nQue lucha fiero por la verdad,\nque sacrifica su libertad,\ny con su sangre la tierra linde.\n\nSu nombre queda en el estandarte,\nejemplo vivo de gran valor,\nno le detiene ningún temor,\ny de la historia ya forma parte.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "valor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra de la muerte es solo un velo,\nuna cortina que esconde el esplendor.\nTras ella no hay tiniebla, solo cielo,\ny la ausencia de todo temor.\n\nTu rostro ya no siente el frío, amado,\nhas dejado el dolor y el pecado.\nLa luz te ha cubierto en su regazo,\ny ya no hay más distancia ni más lazo\nque el que une tu alma a lo infinito.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sombras"
+  }
+}

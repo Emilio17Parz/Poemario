@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El mundo está al revés,\ny nadie lo endereza,\nse pierde la cabeza,\ny el orden se ve después.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "caos"
+  }
+}

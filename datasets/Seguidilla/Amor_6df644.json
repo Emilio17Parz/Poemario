@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres mi estrella fiel (7a),\nque alumbra sin fin (5b),\nmi vida es dulce miel (7c),\nel eterno jazmín (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Estrella"
+  }
+}

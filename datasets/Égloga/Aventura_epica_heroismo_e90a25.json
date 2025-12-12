@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Levantó la roca que cerraba\nla fuente de agua viva.\nFuerza altiva\nque no acababa.\nEl pueblo alababa\nsu iniciativa.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "roca"
+  }
+}

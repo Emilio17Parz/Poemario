@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El triste adiós que ayer me diste,\ndejó mi alma sola y triste,\nsin esperanza de volver,\na ver el sol amanecer,\nporque tú ya te fuiste.\n\nNo sé por qué no resiste,\nel corazón que tú heriste,\nsolo me queda el padecer,\nEl triste adiós.\n\nTodo de luto se viste,\ny la alegría no existe,\nse terminó el querer,\ny me tocó perder,\ncon la palabra que dijiste,\nEl triste adiós.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

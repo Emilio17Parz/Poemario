@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[LA REINA]\n¡Por el sol que nos mira y por la tierra que nos sostiene!\nJuro que, aunque los dioses exijan mi vida, mi lealtad es tuya.\nSi he de caer, que mi último pensamiento sea tu nombre,\ny mi última fuerza, la espada que te defiende.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "juramento"
+  }
+}

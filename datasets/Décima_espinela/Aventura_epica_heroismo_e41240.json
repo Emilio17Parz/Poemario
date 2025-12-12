@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Parto hacia lo desconocido,\nsin mapa y sin dirección,\nsolo con mi corazón,\ny un sueño decidido.\nDejo atrás lo vivido,\npara buscar mi verdad,\nen la inmensidad,\ndel mundo ancho y ajeno,\ndonde el aire es más bueno,\ny hay más libertad.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La eternidad no es tiempo, es nuestro amor,\nque vive en el alma sin fin ni dolor,\nes la esencia pura, el gran fulgor,\nla única y dulce razón.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Eternidad"
+  }
+}

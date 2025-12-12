@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ganó la medalla de oro,\ny la mordió como un loro.\nEra de chocolate,\nvaya disparate,\ny lloró a coro.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vuelven los ecos del tiempo pasado,\na recordarme lo que fui y perdí,\ny lo que en el camino he dejado.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

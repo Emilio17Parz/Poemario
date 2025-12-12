@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Siento el fuego arder,\ncuando rozas mi piel,\ndulce como la miel,\nal atardecer.\nNo me puedo contener,\neres mi cascabel.\nSiento el fuego.\n\nLlama que no se apaga,\nhoguera de ilusión,\nque quema la razón,\ny que me embriaga.\nCuras cualquier llaga,\nde mi corazón.\nSiento el fuego.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

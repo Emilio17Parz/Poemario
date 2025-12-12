@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El postrer aliento se disipa en velo,\nun frío manto cubre el corazón que fue,\nla vida cede, desprendida del cielo.\n\nYa no hay fulgor, ni el canto de un \"te veré\",\nsolo la ausencia, vasto y mudo abismo,\nque al tiempo arrastra cuanto amé.\n\nEl pulso calla, en un profundo sismo,\nla tierra llama con su abrazo final,\ny un hondo **silencio** habita en sí mismo.\n\nNo hay vuelta atrás, ni amparo terrenal,\nla luz se extingue, frágil, sin porqué,\nsolo el reposo, eterno y tan cabal.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El muro se alza, de concreto y dolor,\nseparando al hombre de su igual,\nes la barrera, el ciego error,\nque niega la esencia, la verdad total.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Muro"
+  }
+}

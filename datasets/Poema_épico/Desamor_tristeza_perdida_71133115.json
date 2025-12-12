@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El Cid cabalga hacia el destierro,\ndejando atrás su casa y su honor,\ncon lágrimas vivas y gran dolor,\ncerrando la puerta con el hierro.\nNadie le habla por miedo al encierro,\nel rey lo ha expulsado con rigor,\nmas él lleva en el pecho el valor,\nde volver a ganar su cerro.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "exilio"
+  }
+}

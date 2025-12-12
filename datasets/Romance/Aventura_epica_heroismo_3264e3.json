@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La Cima es un dulce sueño,\nque se fue sin valor,\ny mi alma ya sin dueño,\nsin un poco de fulgor.\n\nMe voy con el invierno,\nme voy sin un adiós,\ny mi vida es un infierno,\nsin un solo de vos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Cima"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "ÁRBOL: ¡Ay! ¿Qué es ese filo que muerde mi piel?\nLEÑADOR: Es el hacha de acero, duro y cruel.\nÁRBOL: Te di sombra y fruto, y aire puro.\nLEÑADOR: Necesito madera para mi muro.\nÁRBOL: Matas la vida que te sostiene.\nLEÑADOR: El progreso avanza y nada lo detiene.\n(Cae el árbol con gran estruendo)\nBOSQUE: (Coro) ¡Llorad hermanos, que el hombre no entiende!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "hacha"
+  }
+}

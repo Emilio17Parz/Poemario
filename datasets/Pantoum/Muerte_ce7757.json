@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mueca eterna de hueso blanco,\nreina sin carne ni piel.\nYa no se sienta en el banco,\nni bebe vino ni miel.\n\nReina sin carne ni piel,\nsímbolo crudo y sincero.\nNi bebe vino ni miel,\nfin del humilde y del fiero.\n\nSímbolo crudo y sincero,\nya no se sienta en el banco.\nFin del humilde y del fiero,\nmueca eterna de hueso blanco.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "calavera"
+  }
+}

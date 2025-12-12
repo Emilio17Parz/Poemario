@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miro la silla que está vacía,\ndonde solías sentarte a leer,\nse ha terminado la alegría,\nno queda nada que hacer.\n\nDonde solías sentarte a leer,\nahora reposa el polvo y nada,\nno queda nada que hacer,\ncon esta alma tan cansada.\n\nAhora reposa el polvo y nada,\nse ha terminado la alegría,\ncon esta alma tan cansada,\nmiro la silla que está vacía.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "silla"
+  }
+}

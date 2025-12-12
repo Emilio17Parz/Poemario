@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[LA PERFUMISTA]\n(Oliendo una flor rara)\nEs el alma de la tierra, condensada en un suspiro. Es el olvido del dolor.\nLa belleza no se ve, se respira. Es un gas invisible que te domina.\nHe creado cien fragancias, y todas mienten. Solo esta, pura y salvaje, dice la verdad.\nEl aroma es la única prueba de que el cielo existe en la materia.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "aroma"
+  }
+}

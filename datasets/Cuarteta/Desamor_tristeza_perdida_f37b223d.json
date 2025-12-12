@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Brotan ríos de mis ojos,\nlágrimas de soledad,\npagando con mis enojos\ntu falta de lealtad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

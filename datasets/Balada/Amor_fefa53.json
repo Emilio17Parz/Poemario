@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La verdad se esconde en tu rostro sin par (a),\nel alma se llena de pura fe (b),\nmi vida es la senda que quiero andar (a),\nsin sombra que cubra mi noble 'yo sé' (b),\ntu amor es la forma de al fin sanar (b),\ny la fuerza que impulsa mi noble querer (c),\nla calma que viene sin miedo al mar (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, la luz que me das (c'),\nes la sombra que viene tenaz (c'),\nla fuerza que me da la paz (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Verdad"
+  }
+}

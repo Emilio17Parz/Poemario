@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Puso dos platos sobre el mantel,\nllenó dos copas de vino rojo.\nEsperó que sonara el cascabel,\npero solo escuchó el viento y su enojo.\nLa cena se enfrió sobre el papel,\ny la esperanza se volvió despojo.\nNadie llamó a la puerta esa noche,\nella cenó frente a la silla vacía,\nsin llanto, sin grito y sin reproche,\nabrazada a su fiel soledad fría.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

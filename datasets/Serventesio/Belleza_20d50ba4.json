@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza que surge de la vida,\nSe filtra en cada instante sin cesar,\nPromesa sutil, jamás vencida,\nNos llama en un eterno despertar.\n\nEn flor que abre su pétalo al sol puro,\nEn mar que canta al golpe de la roca,\nDescansa un eco místico y seguro,\nQue al alma con su esencia nos convoca.\n\nEs don que el corazón siente y comparte,\nUn don sutil que no se puede hallar,\nY solo con la magia del buen arte,\nLogramos su mensaje eternizar.\n\nAsí, la chispa eterna se propaga,\nEn cada gesto, en cada amanecer,\nUna verdad que el tiempo no deshaga,\nInvitación perenne a florecer.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "arte"
+  }
+}

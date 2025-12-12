@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El tiempo fluye, río sin orillas,\nLa vida es senda de incierto andar,\nEntre las luces y las maravillas,\nNavega el alma en su eterno destino, sin cesar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "destino"
+  }
+}

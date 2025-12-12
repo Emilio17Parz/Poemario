@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bosque de sombras que fuiste misterio,\nhoy tus ramas caen sin piedad.\nTu verde es ceniza, sin un criterio,\nel alma que sufre la falsedad.\nEl pulmón se rompe, la vida se va,\nla pena que nunca se da.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Bosque"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque guarda sombras milenarias,\nrefugio de las bestias y amantes,\nlejos de las ciudades solitarias.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Haces lo correcto,\nObras con verdad.\nNoble en aspecto,\nOlvida maldad.\nRespeto perfecto.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "HONOR"
+  }
+}

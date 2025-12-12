@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ondean las banderas triunfadoras,\ntras la dura jornada de combate,\nmarcando en la historia nuevas horas.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

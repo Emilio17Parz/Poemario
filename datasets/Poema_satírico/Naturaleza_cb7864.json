@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Blanca y pura al caer,\nbarro gris a la hora,\nbonita para ver,\npero el tráfico empeora.\nResbalones y caídas,\nson sus bienvenidas.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Nieve"
+  }
+}

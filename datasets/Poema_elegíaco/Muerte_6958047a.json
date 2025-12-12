@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Oh, Muerte, sombra eterna, manto gris y pesado,\nque tejes el silencio con hilos de pesar.\nInvisible viajera de paso sosegado,\ntu aliento gélido nos viene a silenciar.\n\nSe apagan las miradas, se quiebran las palabras,\nla risa que vibraba, se esfuma sin volver.\nTu toque desvanece las voces más amadas,\ndejando un hueco frío difícil de coser.\n\n¡Qué frágil es la vida, cual flor que el cierzo quiebra!\nUn soplo, una quimera, un sueño al despertar.\nEn cada amanecer, tu sentencia se celebra,\nrecordando el ocaso que a todos ha de llegar.\n\nAl final del sendero, bajo el cielo dormido,\nespera silenciosa la oscura y fría **tumba**.\nTestigo de la pena, del llanto contenido,\núltimo hogar de polvo, donde el tiempo sucumba.\n\nMas en la honda ausencia, perdura la memoria,\nun eco de lo sido, de amor que no morirá.\nY aunque el alma en su luto teja amarga historia,\nla paz de la tierra al fin nos acogerá.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

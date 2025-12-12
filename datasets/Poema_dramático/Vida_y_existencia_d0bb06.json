@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "[LA ANCIANA]\n(Sosteniendo una foto)\nYa no sé quién soy, pero sí sé quién fui. La memoria es mi último reino.\nMe acuerdo de esa risa, de ese sol, de ese beso que me dio la vida.\nLa existencia es solo un puñado de recuerdos que se van disolviendo.\nCuando mi mente me traicione, por favor, léeme esto. Recuérdame quién era.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

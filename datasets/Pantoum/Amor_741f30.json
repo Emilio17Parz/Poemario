@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Escribo tu nombre en blanco papel,\nletras que gritan cuánto te quiero,\ndulce como la más pura miel,\neres mi norte y mi sendero.\n\nLetras que gritan cuánto te quiero,\ncruzan distancias para abrazarte,\neres mi norte y mi sendero,\nmi único oficio es siempre amarte.\n\nCruzan distancias para abrazarte,\ndulce como la más pura miel,\nmi único oficio es siempre amarte,\nescribo tu nombre en blanco papel.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "papel"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lenguaje del cielo que no necesita voz,\ndonde se encuentran el hombre y Dios.\n¡Salve, Música, ritmo del alma!,\nque traes la tormenta y también la calma.\n\nNotas que vuelan, acordes que vibran,\ncuerdas que el peso del mundo equilibran.\nSin ti el universo sería un error,\nun triste silencio sin ningún valor.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "música"
+  }
+}

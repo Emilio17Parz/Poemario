@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cubo de un litro y cuchara,\nterapia fría y azucarada,\nla dieta sale cara,\npor un alma desamparada.\nEl amor se va, la grasa se queda,\nen esta triste vereda.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Helado"
+  }
+}

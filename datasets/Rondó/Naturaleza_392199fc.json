@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna plateada, serena y callada,\nEn sueños la brisa susurra en la enramada.\nEl río murmura su cántico breve,\nPor valles y cumbres, la vida es sembrada.\nUn manto de bruma que al alba se eleve.\nLa luna plateada, serena y callada,\n\nLa esencia del bosque por siempre grabada,\nEl roble milenario que el tiempo no mueve,\nCon cada rocío la tierra es bañada.\nY el soplo del viento, que la vida renueve.\nLa luna plateada, serena y callada,\n\nLa savia que fluye, la calma lograda,\nEn cada latido, un misterio que llueve.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "luna"
+  }
+}

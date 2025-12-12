@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Pergamino viejo con líneas finas,\nque marca rutas a tierras lejanas,\ny mañanas,\nde aventuras y glorias divinas.\nLa 'X' señala el lugar secreto,\ncompleto,\ndonde aguarda el destino al viajero,\naventurero.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

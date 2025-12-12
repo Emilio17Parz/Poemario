@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Nada me llena\ndesde que tú te fuiste\nhueco profundo.\nEl mundo pierde brillo\ny se vuelve color gris.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

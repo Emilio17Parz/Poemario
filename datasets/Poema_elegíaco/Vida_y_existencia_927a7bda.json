@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Efímera es la existencia,\ncomo flor de un solo día,\nse marchita la alegría,\ny se pierde la conciencia.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

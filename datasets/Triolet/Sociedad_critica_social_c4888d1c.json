@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sufre el pobre\nla injusticia,\npor el cobre.\nSufre el pobre,\nlo que sobre,\nla codicia.\nSufre el pobre\nla injusticia.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

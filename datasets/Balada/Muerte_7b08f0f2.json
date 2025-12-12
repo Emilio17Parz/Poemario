@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dame la mano por vez postrera,\nque ya la luz se empieza a ir,\ncruzaré solo la frontera,\nhacia el misterio del morir.\nNo llores más por mi partir,\nque en tu recuerdo he de vivir.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "despedida"
+  }
+}

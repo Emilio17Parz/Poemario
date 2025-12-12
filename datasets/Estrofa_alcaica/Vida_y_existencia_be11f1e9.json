@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, un don extraño, fiel verdad,\nQue el alma busca siempre con dolor;\nEl camino se extiende sin final,\nUn rumbo incierto siempre a descubrir.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "camino"
+  }
+}

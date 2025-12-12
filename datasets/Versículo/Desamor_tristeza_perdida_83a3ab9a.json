@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El adiós resuena como un portazo en una catedral vacía.\nSe han roto los lazos y el aire se ha vuelto pesado y difícil de respirar.\nTe vas llevando contigo los colores del día y la promesa del mañana.\nQueda solo el eco de tus pasos alejándose hacia la niebla del olvido.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

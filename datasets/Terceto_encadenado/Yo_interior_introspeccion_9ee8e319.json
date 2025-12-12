@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me gusta la soledad,\npara poder hablar,\ny así encontrar.\n\nMi propia verdad,\nlejos de la gente,\ncon tranquilidad.\n\nY la paz en la mente.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

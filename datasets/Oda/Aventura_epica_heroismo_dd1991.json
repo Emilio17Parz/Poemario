@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Muro muy alto,\nque hay que saltar,\ny probar,\nel salto.\nPrueba del ser,\ny el valer.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "reto"
+  }
+}

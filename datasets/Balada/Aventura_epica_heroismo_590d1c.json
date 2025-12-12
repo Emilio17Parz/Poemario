@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escalar la cumbre nevada,\nes la conquista más deseada,\nver el mundo desde la altura,\ny respirar la brisa pura.\nEl riesgo acecha en cada paso,\npero no importa el posible fracaso,\npues llegar arriba es la gloria,\nque quedará en la memoria.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

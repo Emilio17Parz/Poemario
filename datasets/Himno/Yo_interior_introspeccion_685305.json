@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Llama que nunca se apaga del todo,\nque encuentra camino incluso en el lodo.\n¡Gloria a la Esperanza que vive dentro!,\ny que es del alma el firme centro.\n\nMañana será otro día, se dice,\npara que el corazón cicatrice.\nCantamos a la fe que nos sostiene,\ny que al futuro nos mantiene.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

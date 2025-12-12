@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Leo tus letras con los ojos llenos\nde lágrimas que borran la tinta,\ntu caligrafía, elegante y distinta,\nme trae recuerdos dulces y buenos.\nPero hoy son papeles ajenos,\nde una época que el dolor precinta,\ndonde la vida se veía variopinta,\ny no existían estos venenos.\nPalabras de amor que ya no resuenan,\npromesas escritas en el papel,\nque ahora mi triste alma envenenan.\nGuardo estas cartas como un laurel,\naunque sé que mis penas no frenan,\ny saben a triste y amarga hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "cartas"
+  }
+}

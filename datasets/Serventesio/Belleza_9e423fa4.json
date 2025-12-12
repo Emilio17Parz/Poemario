@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Admiro siempre la perfecta forma,\nque la natura nos sabe mostrar,\npues no se rige por ninguna norma,\ny nos invita a poder soñar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "forma"
+  }
+}

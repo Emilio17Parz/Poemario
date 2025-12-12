@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza está escondida\nen la cosa más pequeña,\nen la gota que se despeña\no en la hoja caída.\nNo hace falta gran medida\npara poder apreciar,\nsolo hay que saber mirar\ncon ojos de niño atento,\ny ver en cada momento\nlo que tiene que dar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "detalle"
+  }
+}

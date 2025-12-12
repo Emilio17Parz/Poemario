@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La naturaleza no tira nada,\ntodo se transforma y vuelve,\nla hoja seca y ajada,\nen tierra se disuelve.\nAprende a reutilizar,\ny deja de malgastar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Reciclaje"
+  }
+}

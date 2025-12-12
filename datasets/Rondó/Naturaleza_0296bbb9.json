@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol calienta,\ny alimenta,\na la flor,\ncon su color,\nque se presenta.\n\nNadie lamenta,\nel sol calienta.\n\nSe incrementa,\nla tormenta,\nde calor,\ny resplandor,\nque revienta.\nEl sol calienta.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "sol"
+  }
+}

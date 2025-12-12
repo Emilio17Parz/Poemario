@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mientras tiramos comida a la basura,\nun niño busca en el vertedero.\nLa balanza está rota.\nDemasiado peso en un lado,\ndemasiado vacío en el otro.\nEl hambre no es falta de pan,\nes falta de justicia.\nEs la vergüenza de nuestra abundancia.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

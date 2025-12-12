@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que el fuego te guíe atroz (a),\nla llama interior y fiel (b),\nla vida sin una voz (c),\nel trago de dulce miel (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Fuego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cayó el cordero en la sima oscura,\ny el pastor descendió atado.\nCon gran cuidado\ny mucha premura.\nFue una locura\ncon buen resultado.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sima"
+  }
+}

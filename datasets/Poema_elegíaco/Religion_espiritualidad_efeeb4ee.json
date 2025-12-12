@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Dónde te escondes, silencioso Dios?\nMientras tus hijos sufren y padecen,\ny las flores del bien se desvanecen,\ndándonos un amargo y largo adiós.\nLloro tu ausencia en este mundo impío,\ndonde el alma tirita de frío.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "dios"
+  }
+}

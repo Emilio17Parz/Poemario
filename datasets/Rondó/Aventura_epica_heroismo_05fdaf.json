@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuenta la leyenda,\nde un tiempo antiguo.\nNada ambiguo,\nen la senda.\n\nQue se entienda,\nlo contiguo.\nCuenta la leyenda,\nde un tiempo antiguo.\n\nSe ofrenda,\nel trigo.\nYo sigo,\nla prenda.\nCuenta la leyenda.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

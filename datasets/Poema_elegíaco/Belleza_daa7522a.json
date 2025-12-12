@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Aquel rostro divino,\nse ha llenado de arrugas,\nlas horas son verdugas,\ndel hermoso destino.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No fue casualidad,\nni simple azar fatal.\nNuestra unión ya estaba\nen el código vital.\n\nEl destino nos tejió\ncon hilo y con dolor,\npara ser uno mismo\nen el fuego del amor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un río (7a),\nque fluye sin par (5b),\nmi alma no tiene frío (7c),\nsin poder sanar (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Fluir"
+  }
+}

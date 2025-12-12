@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "[EL CANSADO]\nYa no tengo fuerzas para seguir, el mundo me ha vencido, me ha doblado.\nPero veo un pequeño punto de luz, una pequeña esperanza terca.\nNo es la promesa de un gran futuro. Es el simple deseo de un mañana tranquilo.\nMe aferro a ella. Es una cuerda fina, pero es lo único que me separa del abismo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

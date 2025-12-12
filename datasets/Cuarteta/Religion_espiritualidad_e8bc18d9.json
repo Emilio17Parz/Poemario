@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cargaste con el madero\npara salvarnos del mal,\nmostrando el amor sincero\nde manera divinal.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "madero"
+  }
+}

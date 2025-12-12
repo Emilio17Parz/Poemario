@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El traidor no es el enemigo,\nes el amigo fiel.\nEl único castigo\ncon sabor a hiel.\n\nMe vende y me ríe,\nme obliga a caer,\nla vida que vive\nsin poder ser.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "traidor"
+  }
+}

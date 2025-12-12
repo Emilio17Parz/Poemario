@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mancha oscura\na mis pies\nmi lado negro\nque oculto\nmiedo y mal\nparte de mí\ntambién.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

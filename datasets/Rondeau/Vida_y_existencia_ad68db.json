@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vive el ahora,\nsin demora,\ncada instante,\nimportante,\nque enamora.\n\nLa aurora,\nque dora,\nel semblante,\nVive el ahora.\n\nCaminante,\ny amante,\nque explora,\ny adora,\nla hora,\nVive el ahora.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "ahora"
+  }
+}

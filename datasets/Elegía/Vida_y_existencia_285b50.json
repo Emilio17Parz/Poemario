@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mañana que llegas sin un fulgor,\nla promesa que el alma no quiere ya ver.\nTu luz es sombra, sin un gran dolor,\nel alma sin un gran poder.\nTu forma es el fin, la dura verdad,\nel alma que sufre caridad.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Mañana"
+  }
+}

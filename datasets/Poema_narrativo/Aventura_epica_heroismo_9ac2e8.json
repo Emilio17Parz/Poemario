@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El rey lo echó del reino por un error fatal,\nLo mandó a la frontera, sin nadie y sin mal.\nEl desierto fue su casa, el silencio su pan,\nEl exilio es el inicio de un nuevo afán.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "exilio"
+  }
+}

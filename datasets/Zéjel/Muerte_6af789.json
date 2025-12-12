@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo es silencio,\ny no sentencio.\n\nCallan las voces,\nya no conoces,\nni reconoces,\nel precio.\nTodo es silencio,\ny no sentencio.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

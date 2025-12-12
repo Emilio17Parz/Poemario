@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hay una belleza dulce en la tristeza.\nLa lluvia en el cristal,\nla melodía melancólica,\nel rostro de una estatua que llora.\nNo es la alegría ruidosa,\nes la belleza profunda del sentir,\nde conectar con el dolor universal\ny encontrarlo humano.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

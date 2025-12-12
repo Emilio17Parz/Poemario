@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entro en la catedral umbrosa,\nde troncos altos y silencio,\ndonde lo sagrado presencio,\nen cada hoja y cada cosa.\n\nLa luz se filtra misteriosa,\nentre las ramas del pinar,\ninvitándome a meditar,\nen la vida maravillosa.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

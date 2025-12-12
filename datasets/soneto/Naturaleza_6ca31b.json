@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Naces humilde en la alta serranía,\ngota a gota juntando tu caudal,\npara emprender el viaje vital\nhacia la mar que es tu lejanía.\n\nCorres alegre, lleno de energía,\nsaltando piedras, cruzando el zarzal,\nllevando vida al mundo animal\ny regando la tierra con porfía.\n\nEres camino que siempre avanza,\nque nunca vuelve atrás ni se detiene,\nsímbolo de la eterna mudanza.\n\nEn tu corriente mi mirar se atiene,\ny aprendo de ti la esperanza\nde que al final la paz se obtiene.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "caudal"
+  }
+}

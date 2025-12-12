@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La grisura se disipa,\ncuando llega primavera,\ny la alegría participa,\nde manera verdadera.\nEl paisaje se anticipa,\nal verano y su calor,\ny el alma se emancipa,\nen un mundo de color.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "color"
+  }
+}

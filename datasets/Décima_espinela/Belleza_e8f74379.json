@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Desde la alta colina\nveo el valle sembrado,\nun tapiz bien bordado\npor la mano divina.\nLa neblina se declina\ny el sol empieza a brillar,\nes un gozo contemplar\ntanta belleza junta,\nque al espíritu apunta\ny lo hace despertar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "vista"
+  }
+}

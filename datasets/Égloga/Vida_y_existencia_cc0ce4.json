@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Es la vida sueño o realidad?\n¿Somos pastores o sombras de paso?\nA veces siento que en el ocaso\nse revela la verdad.\nVivimos en la oscuridad\nesperando llenar el vaso.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

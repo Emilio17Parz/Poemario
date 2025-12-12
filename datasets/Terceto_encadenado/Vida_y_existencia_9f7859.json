@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Por qué respiramos aire?\n¿Cuál es la meta final?\nQue nos causa el desaire.\n\nEs la pregunta vital,\nque busca una explicación,\nal misterio universal.\n\nDe la creación.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Soñé que me querías,\ny fui dichoso,\npero al despertar,\nfue doloroso.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "soñar"
+  }
+}

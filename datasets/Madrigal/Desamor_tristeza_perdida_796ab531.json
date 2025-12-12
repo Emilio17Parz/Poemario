@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Leo el papel gastado,\ntestigo de un amor ya terminado.\nPalabras que prometen\ny que ahora arremeten\ncontra mi fe perdida,\ndejando en mi esperanza una herida.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "carta"
+  }
+}

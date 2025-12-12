@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Si el eco de la gloria te convoca,\no la injusticia azota tu nación,\nescucha atento la verdad que broca\ndel manantial profundo del corazón.\n\nNo es la fuerza de un brazo lo que labra\nla leyenda inmortal, ni el férreo yelmo;\nes la virtud que en cada acción se labra,\nel coraje que vence al cruel sismo.\n\nCuando el dragón de sombras te desafíe,\ny el abismo entreabra su garganta,\nno es la espada que el miedo desconfíe,\nsino el alma que en la luz se agiganta.\n\nAprende que la senda es de constancia,\nde soportar la carga sin flaquear,\nde dar tu aliento sin pedir ganancia,\ny al caído la mano levantar.\n\nQue el **honor** sea el faro de tu guía,\nla brújula inquebrantable en tu pecho;\nno la fama que un día se vacía,\nsino el legado que con actos has hecho.\n\nEs el pacto sagrado con el ser,\nla palabra que nunca se doblega,\nel valor de saber permanecer\nfirme y leal, aunque la noche ciega.\n\nPues al final del viaje, la victoria\nno se mide en reinos conquistados,\nsino en la impecable trayectoria\nde ideales por el tiempo atesorados.\n\nAsí, valiente, emprende tu camino,\ncon la verdad por escudo y por lanza;\nque tu heroísmo forje un nuevo sino,\ny tu gloria en la memoria descanse.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "honor"
+  }
+}

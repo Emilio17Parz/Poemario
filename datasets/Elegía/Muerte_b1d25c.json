@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vela que apagas tu breve fulgor,\nla llama que el alma no quiere ya ver.\nTu luz se ha ido sin un gran dolor,\nel alma sin un gran poder.\nLa cera es sombra, la vida se fue,\nla pena que el tiempo ve.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Vela"
+  }
+}

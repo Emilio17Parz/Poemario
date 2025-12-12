@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja la musa divina,\na inspirar mi canción,\ny llena mi corazón.\n\nDe una luz cristalina,\nque guía mi pensamiento,\ny el verso determina.\n\nEn cada sentimiento.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "inspiración"
+  }
+}

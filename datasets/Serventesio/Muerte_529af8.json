@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vivirás siempre en mi pensamiento,\naunque te hayas ido de aquí,\nes el consuelo de mi lamento,\nsaber que sigues cerca de mí.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

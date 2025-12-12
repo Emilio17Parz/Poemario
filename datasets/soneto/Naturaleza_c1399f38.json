@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Catedral de esmeralda y de silencio,\ndonde el pino se eleva hacia la altura,\ny se respira paz y arquitectura\nque en mi cansado espíritu licencio.\n\nAquí la luz del sol yo diferencio\nfiltrada por la hoja en su espesura,\ny siento de la tierra la frescura\nque cura el malestar que presencio.\n\nEl musgo es alfombra de terciopelo,\nel arroyo murmura su canción,\ny el ave cruza rápido el cielo.\n\nEn este bosque encuentro mi razón,\nlejos del ruido y del humano celo,\nhallando en lo salvaje el corazón.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hoja de metal brillante,\ncompañera en la lid,\nde filo cortante.\n\nComo la del Cid,\nno falla en el golpe,\nni pide ardid.\n\nAunque galope.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "espada"
+  }
+}

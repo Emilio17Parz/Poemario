@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor,\nno es la llama que titila\nen el efímero encuentro.\n\nEs la raíz profunda\nque ancla el árbol\ncontra el vendaval del tiempo.\n\nEs el murmullo **eterno**\ndel río que ignora orillas,\nque fluye,\nsiempre hacia el mar prometido.\n\nEs la luz que persiste\ncuando las estrellas se apagan,\nel eco de un nombre\ngrabado en el silencio más hondo.\n\nNo una chispa,\nsino el fuego mismo\nque consume sin destruir,\nque purifica y renueva el alma.\n\nEs la verdad inmutable,\nel camino sin fin,\nla razón última\npor la que el espíritu suspira.\n\nEl amor es, simplemente,\nel hálito que lo sostiene todo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

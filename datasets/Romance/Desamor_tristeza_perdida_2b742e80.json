@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me pesa el aire en el pecho,\ntodo se siente vacío,\ndesde que faltan tus ojos\nmirando a los ojos míos.\nEs un pozo sin aforo,\nun invierno largo y frío,\ndonde eco de tu nombre\nes mi único navío.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llegó del norte con furia salvaje,\narrancando techos y derribando muros.\nNadie pudo frenar su coraje,\nni los conjuros más viejos y oscuros.\nCambió del valle todo el paisaje,\ndoblando los árboles más duros.\nPero al pasar la terrible tormenta,\ndejó semillas en cada asiento,\ny vida nueva, que se alimenta,\ndel paso destructor del viento.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "viento"
+  }
+}

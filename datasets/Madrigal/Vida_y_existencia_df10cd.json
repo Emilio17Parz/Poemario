@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dura y brillante como el diamante,\nla verdad a veces hiere y corta,\npero importa,\nmás que la mentira reconfortante.\nBusca la luz aunque te ciegue un poco,\nno seas loco,\nviviendo en la penumbra del engaño,\nque hace daño.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "luz"
+  }
+}

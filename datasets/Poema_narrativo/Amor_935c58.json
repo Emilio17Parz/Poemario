@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo la luz del faro, en el viejo malecón,\nEl marinero la vio, perdió allí la razón.\nElla tejía una red, él vendía la pesca,\nY en el olor a sal, nació una promesa fresca.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

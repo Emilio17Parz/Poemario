@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco el porqué de la vida,\nla razón de estar aquí,\nen esta tierra perdida.\n\nEs una duda y herida,\nque siempre vive en mí,\nbusco el porqué de la vida.\n\nNo encuentro la salida,\nni el mapa que perdí,\nen esta tierra perdida.\n\nLa respuesta es escondida,\ny nadie dice que sí,\nbusco el porqué de la vida.\n\nQuizás no haya medida,\nni plan para ti ni mí,\nen esta tierra perdida.\n\nSolo vivir la partida,\nhasta el momento que vi,\nbusco el porqué de la vida,\nen esta tierra perdida.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

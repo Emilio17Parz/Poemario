@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Danza la hoja seca con el viento,\nvistiendo el suelo de color dorado,\nen este melancólico momento.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "hojas"
+  }
+}

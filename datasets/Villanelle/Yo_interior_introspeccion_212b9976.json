@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vivo soñando despierto,\nun mundo ideal,\nque nunca es cierto.\n\nEn el desierto,\nreal,\nvivo soñando despierto.\n\nA cielo abierto,\nmortal,\nque nunca es cierto.\n\nEstoy cubierto,\nde sal,\nvivo soñando despierto.\n\nEs el puerto,\nfinal,\nque nunca es cierto.\n\nSoy el experto,\nleal,\nvivo soñando despierto,\nque nunca es cierto.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu cuerpo me da un gran calor,\nsin miedo, sin un solo error.\nEn el duro invierno,\nes fuego sin freno,\nsin rastro de frío o dolor.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Calor"
+  }
+}

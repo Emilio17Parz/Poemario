@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[LA MUERTE]\nMe teméis, estúpidos mortales. Me llamáis sombra, guadaña, castigo.\nPero yo soy la única promesa verdadera que la vida os hace: el silencio.\nHe visto a los reyes y a los mendigos rendirse con el mismo temblor.\nNo hay prisa. No hay error. Solo soy el fin de la comedia. Venid a mí. No duele.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

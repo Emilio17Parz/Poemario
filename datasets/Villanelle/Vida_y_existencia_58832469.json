@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida surge en un instante incierto,\nUn soplo frágil, un constante anhelo,\nMientras trazamos un eterno camino.\n\nUn don que nace del misterio abierto,\nBajo la sombra o el azul del cielo,\nLa vida surge en un instante incierto.\n\nPor cada paso, el corazón despierto,\nBuscando un eco o un postrer consuelo,\nMientras trazamos un eterno camino.\n\nNi el tiempo cruel, ni el porvenir desierto,\nDetiene el pulso, ni quita el velo,\nLa vida surge en un instante incierto.\n\nEl alma busca un saber por cierto,\nEntre la bruma o el más dulce celo,\nMientras trazamos un eterno camino.\n\nEl fin es siempre un destino no muerto,\nUn eco alado en el fugaz vuelo,\nLa vida surge en un instante incierto,\nMientras trazamos un eterno camino.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me diste un beso con tal emoción,\nque casi me sacas el pulmón.\nDicen que el amor es sutil y tierno,\npero tu boca es el mismo infierno.\nMás que un beso fue una ventosa,\n¡qué manera tan babosa!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "beso"
+  }
+}

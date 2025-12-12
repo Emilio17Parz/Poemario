@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "En la urbe de cristal, donde el progreso fulgura,\nEl autómata humano cumple su condena dura.\nCon el ojo en la pantalla, el alma en el bolsillo,\nAdora la marca, idolatra el brillo.\n\nSe proclama un edén de elección y de avances,\nMas son hilos invisibles los que rigen los lances.\nLa opinión prestada, el criterio ajeno,\nConvierte al pensante en un mero relleno.\n\nSe elevan los pendones de gloriosa nación,\nMientras la verdad se ahoga en su propia ficción.\nGritamos a voces \"¡Queremos **libertad**!\",\nPero atados al wifi, ¿qué es la realidad?\n\nEs libre el que consume, el que no hace preguntas,\nEl que abraza su jaula entre risas y puntas\nDe chismes triviales, de fama fugaz.\nUn gran simulacro, un eterno solaz.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

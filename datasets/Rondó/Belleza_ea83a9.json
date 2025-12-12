@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En la pantalla,\nse ve la vida,\nla salida,\nque no falla.\nNadie se calla,\nla huida.\nEn la pantalla.\n\nSueños de luz,\nen movimiento,\nsentimiento,\nandaluz.\nSin la cruz,\ndel viento.\nEn la pantalla.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "pantalla"
+  }
+}

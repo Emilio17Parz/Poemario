@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Qué soy debajo del nombre y piel?\n¿Un conjunto de gustos y datos?\n¿O una esencia dulce como miel,\nlejos de títulos y tratos?\nLa pregunta eterna sin respuesta,\nque a cada hombre siempre le cuesta.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Identidad"
+  }
+}

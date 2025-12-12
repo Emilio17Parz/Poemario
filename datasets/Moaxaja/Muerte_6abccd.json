@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Luz apagada,\nterminada.\n\nHumo sube,\na la nube,\nque yo tuve,\nguardada.\nLuz apagada,\nterminada.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "vela"
+  }
+}

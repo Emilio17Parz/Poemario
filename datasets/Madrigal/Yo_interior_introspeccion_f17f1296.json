@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Recuerdos que regresan,\ny en el presente con dolor me pesan.\nErrores cometidos,\ntiempos ya perdidos.\nQuisiera yo borrar\nlo que me hace sufrir y llorar.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

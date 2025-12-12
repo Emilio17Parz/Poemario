@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dulce triunfo logrado,\ntan duro y deseado,\ntras la larga batalla,\ndonde nadie se calla,\ny todo es arriesgado.\n\nEl pendón levantado,\nen el campo sagrado,\nque bajo el sol estalla,\nDulce triunfo.\n\nEl enemigo ha estado,\ny ha sido derrotado,\npor encima de la valla,\nla gloria no falla,\nal héroe cansado,\nDulce triunfo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "triunfo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus padres no quieren verme\nporque soy de cuna pobre,\npero mi amor es de oro\naunque mi bolsa sea cobre.\nSaltaré la tapia alta\naunque la guardia me sobre,\npara robarte un abrazo\nantes que el día me cobre.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "prohibido"
+  }
+}

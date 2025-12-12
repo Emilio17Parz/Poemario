@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miro al espejo,\ny no reconozco el rostro,\nestá lleno de pena.\nReflejo de la partida,\nde la herida que no cierra.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

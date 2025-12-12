@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, con su dulce fulgor,\nme eleva a un nuevo sentir,\nme invita siempre a vivir,\ndisipa cualquier temor,\nes el más puro candor.\n\nEn tu mirada me siento\nhallando un dulce momento,\nun profundo abrazo al alma,\nque me envuelve en dulce calma,\ny me da paz y aliento.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

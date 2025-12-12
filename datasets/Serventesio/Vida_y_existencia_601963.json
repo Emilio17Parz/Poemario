@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La juventud es primavera,\nllena de fuerza y de color,\nuna etapa dulce y primera,\nque se vive con gran ardor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

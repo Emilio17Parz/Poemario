@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mármol frío cobra vida,\ngolpe a golpe de cincel.\nForma perfecta y medida,\nsuave como la piel.\n\nGolpe a golpe de cincel,\nsurge la figura humana.\nSuave como la piel,\nbelleza que siempre emana.\n\nSurge la figura humana,\nforma perfecta y medida.\nBelleza que siempre emana,\nmármol frío cobra vida.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

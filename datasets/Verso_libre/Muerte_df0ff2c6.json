@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El barquero espera en la orilla.\nEl agua es negra y quieta.\nNo necesitas monedas de oro,\nsolo el peso de tu alma.\nCruzar al otro lado\nes dejar la carga del dolor,\nolvidar el miedo,\ny fundirse con la niebla.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "barca"
+  }
+}

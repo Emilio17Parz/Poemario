@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca el hombre la diáfana verdad,\nen la oscuridad.\nPregunta al cielo mudo,\ny en el mundo desnudo,\nintenta comprender,\nel propio ser.\nTesoro tan oculto,\nsin indulto.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

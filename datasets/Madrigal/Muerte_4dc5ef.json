@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Partir sin el regreso,\ncruzar la puerta de la eternidad;\nla única verdad,\ncon un gran peso.\nDecir adiós al mundo conocido,\ny a lo vivido.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

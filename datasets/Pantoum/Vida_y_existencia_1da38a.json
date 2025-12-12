@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca la risa franca,\nmotivo de vivir,\nla hoja que es blanca,\nlista para escribir.\n\nMotivo de vivir,\nun rayo de sol,\nlista para escribir,\ncon luz y arrebol.\n\nUn rayo de sol,\nbusca la risa franca,\ncon luz y arrebol,\nla hoja que es blanca.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "risa"
+  }
+}

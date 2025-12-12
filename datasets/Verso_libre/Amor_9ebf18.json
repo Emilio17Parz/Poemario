@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quizás no seamos para siempre,\nporque somos carne y hueso perecederos.\nPero este amor,\nmientras dura,\ntiene la vocación de la piedra,\nla terquedad de la montaña\nque se niega a moverse.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Polvo y piedra bajo la suela,\nsenda que al alma viajera consuela.\n¡Salve, Camino, maestro de andar!,\nque nos enseñas a nunca parar.\n\nNo importa la meta, sino el trayecto,\nel paso constante, firme y recto.\nGuíanos siempre hacia el horizonte,\ncruzando el valle y subiendo el monte.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "camino"
+  }
+}

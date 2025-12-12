@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Solo existe el aquí,\nmi vida está en ti.\n\nEl pasado ya se fue,\nel futuro no tiene fe,\nel presente es lo que es,\nmi vida está en ti.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "presente"
+  }
+}

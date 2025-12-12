@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante de granito,\nque tocas el azul del infinito.\nTu cumbre de nieve,\ndonde el viento se mueve,\nvigila el horizonte\ndesde la majestad del alto monte.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Selva de gris cemento,\ndonde se pierde el ser,\nllevado por el viento.\n\nTodo es movimiento,\ny correr y correr,\nselva de gris cemento.\n\nFalta el aliento,\nal atardecer,\nllevado por el viento.\n\nNo hay sentimiento,\nni amanecer,\nselva de gris cemento.\n\nVivo el momento,\nsin comprender,\nllevado por el viento.\n\nTriste lamento,\ndel padecer,\nselva de gris cemento,\nllevado por el viento.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

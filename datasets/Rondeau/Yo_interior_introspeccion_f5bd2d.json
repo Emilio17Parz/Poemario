@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Digo mi nombre,\nque asombre,\nal viento,\ny al tiempo,\ndel hombre.\n\nLa cumbre,\ny la lumbre,\ndel asiento,\nDigo mi nombre.\n\nEl cuento,\ny el intento,\nsin costumbre,\nni incertidumbre,\nque siento,\nDigo mi nombre.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

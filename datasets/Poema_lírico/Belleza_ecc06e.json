@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tu voz es la calma,\nla única paz.\nLa vida que el alma\nme da sin disfraz.\n\nMe obliga a escuchar,\nme obliga a sentir,\nla única forma\npara poder vivir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "voz"
+  }
+}

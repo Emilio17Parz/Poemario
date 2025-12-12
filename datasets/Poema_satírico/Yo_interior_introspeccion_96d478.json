@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Aquí y ahora, dicen,\npero pienso en la cena,\nque me visualicen,\nquitando la pena.\nRespiro y me aburro,\ncomo un simple burro.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Mindfulness"
+  }
+}

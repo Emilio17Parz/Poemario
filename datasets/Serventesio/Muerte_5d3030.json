@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La paz de la muerte, la calma final (A),\nel descanso eterno, sin más luchar (B),\nla vida es un paso, el bien total (A),\nla hora que sabe sanar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

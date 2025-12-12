@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Como lluvia de abril,\nrefrescas la aridez de mi desierto,\ncon un toque sutil,\nme haces sentir que estoy vivo y despierto.\nAgua clara que limpias mi dolor,\ncon tu amor,\nempápame de ti hasta los huesos,\ncon tus besos.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "agua"
+  }
+}

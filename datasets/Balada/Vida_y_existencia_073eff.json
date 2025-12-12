@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hilos secretos mueven la trama,\nde nuestra historia personal,\na veces prende la buena llama,\ny otras nos quema el vendaval.\n¿Somos los dueños de nuestra suerte\no marionetas del azar?\nEsa es la duda constante y fuerte,\nque nos obliga a meditar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "destino"
+  }
+}

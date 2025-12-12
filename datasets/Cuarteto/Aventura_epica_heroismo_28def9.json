@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Monstruo de escama y fuego,\nque guarda el tesoro antiguo,\nun enemigo ambiguo,\nque no atiende a ningún ruego.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

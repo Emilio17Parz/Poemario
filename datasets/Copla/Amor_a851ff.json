@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor es como el rocío (a),\nque en la mañana cae (b),\nmi alma no siente el frío (c),\ny por ti siempre se va (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Rocío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Creyó que iba a revivir,\ny dejó de sufrir.\nAbrió un ojo,\ny vio un rastrojo,\ny volvió a morir.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "resurrección"
+  }
+}

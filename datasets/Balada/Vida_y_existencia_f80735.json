@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivimos soñando un mundo nuevo,\ndonde se cumpla nuestro querer,\ny en ese sueño yo me elevo,\npara mi alma satisfacer.\nPero la vida nos despierta,\ncon su campana de realidad,\ny vemos la puerta abierta,\nde la difícil verdad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

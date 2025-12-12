@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pide limosna en la esquina,\nel niño de cara sucia,\nmientras la gente camina.\n\nLa indiferencia domina,\ncon su cruel astucia,\npide limosna en la esquina.\n\nSu vida se difumina,\nentre basura y minucia,\nmientras la gente camina.\n\nNadie le da medicina,\nni una caricia lucia,\npide limosna en la esquina.\n\nLa sociedad asesina,\nsu esperanza y fiducia,\nmientras la gente camina.\n\nTragedia que se avecina,\nsin justicia ni justicia,\npide limosna en la esquina,\nmientras la gente camina.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

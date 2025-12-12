@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La materia se transforma,\nel espíritu vuela,\ncambia la forma,\npero la vida cuela.\nSomos energía pura,\nmás allá de la sepultura.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Eternidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pronuncio en silencio tu dulce nombre,\ncomo un rezo sagrado en la noche,\nque calma la sed de mi corazón.\nEstás escrita en cada rincón,\nde mi mente que solo te busca,\ny en mi voz que te quiere llamar.\n\nTe quiere siempre llamar,\ngritando tu nombre,\nen cada rincón.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

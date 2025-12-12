@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La danza es el cuerpo\nque se rinde ya.\nLa vida sin cuerpo\nque el alma me da.\n\nMe obliga a mirar,\nme obliga a sentir,\nla única forma\npara poder huir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "danza"
+  }
+}

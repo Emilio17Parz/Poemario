@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Palabra empeñada,\nque vale más que la propia vida;\nno se olvida,\nla entrada.\nMorir con honor es vivir siempre,\nen diciembre.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "honor"
+  }
+}

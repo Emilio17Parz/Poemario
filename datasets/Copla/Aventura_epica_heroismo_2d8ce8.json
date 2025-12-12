@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Encontré un tesoro\nen el fondo del mar,\npero tu cariño\nvale mucho más.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

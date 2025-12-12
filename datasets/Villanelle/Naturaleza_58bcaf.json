@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna vela nuestro sueño,\ncon su cara de plata fría,\nponiendo en ello todo empeño.\n\nEs del cielo el único dueño,\ncuando se marcha el día,\nla luna vela nuestro sueño.\n\nCon un gesto risueño,\nnos regala su poesía,\nponiendo en ello todo empeño.\n\nAunque el mundo sea pequeño,\nsu luz nos da la guía,\nla luna vela nuestro sueño.\n\nNo frunce nunca el ceño,\nreina de la astronomía,\nponiendo en ello todo empeño.\n\nEn su brillo halagüeño,\nencontramos compañía,\nla luna vela nuestro sueño,\nponiendo en ello todo empeño.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "luna"
+  }
+}

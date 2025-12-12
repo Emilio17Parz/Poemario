@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Llegar a la meta,\nes el gran deseo,\nyo en eso creo,\ncomo un asceta.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "meta"
+  }
+}

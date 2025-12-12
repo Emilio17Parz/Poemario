@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Me mira la calavera,\ncon su sonrisa de hueso,\nrecordándome el peso,\nde la muerte que me espera.\nDe una forma certera,\ndice que fui como tú,\ny que bajo el cielo azul,\nterminarás igual,\nen el sueño terminal,\ndel ataúd y el baúl.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "calavera"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ser libre es la mayor riqueza,\nque el hombre puede tener,\nsu única fortaleza.\n\nRomper con la tristeza,\ny volver a nacer,\nser libre es la mayor riqueza.\n\nCon la cabeza,\nalta al ver,\nsu única fortaleza.\n\nSin la pereza,\ndel obedecer,\nser libre es la mayor riqueza.\n\nEs la belleza,\ndel propio querer,\nsu única fortaleza.\n\nCon entereza,\ny con poder,\nser libre es la mayor riqueza,\nsu única fortaleza.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

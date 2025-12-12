@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No sé quién soy,\nperdí mi nombre,\npobre hombre,\nque no sabe a dónde voy.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El silencio reina en el cementerio,\nsolo el viento se oye silbar,\nes el lugar del gran misterio,\ndonde venimos a terminar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

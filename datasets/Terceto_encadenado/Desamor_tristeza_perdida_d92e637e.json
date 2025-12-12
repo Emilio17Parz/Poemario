@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El eco de tu adiós hiere mi calma,\nun frío manto gris me va envolviendo,\ny ya no encuentro paz para mi alma.\n\nEl tiempo cruel nos fue desuniendo,\ndejando un hondo y persistente **vacío**,\nque en cada esquina me sigue persiguiendo.\n\nEste desierto amargo, solo mío,\nconsume sin piedad lo que fue nuestro,\nsin un amparo, sin un sol de estío.\n\nMi corazón, que hoy se siente diestro\nen el arte brutal de la amargura,\nno halla salida a este oscuro encuestro.\n\nLa vida es hoy apenas una fisura,\nque rompe de mi ser toda estructura.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

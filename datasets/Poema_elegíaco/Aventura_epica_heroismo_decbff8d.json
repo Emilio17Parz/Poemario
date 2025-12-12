@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El campo de honor,\nes campo de muerte,\nmaldita la suerte,\ndel luchador.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "campo"
+  }
+}

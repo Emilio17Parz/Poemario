@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando faltas el aire se hace denso,\ny me cuesta la vida respirar,\nes un dolor terrible y muy inmenso,\nque no puedo con nada consolar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

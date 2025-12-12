@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rey de mi pecho, dolor soberano,\nque me sujetas con tu férrea mano.\nClavas tu espina sin tener piedad,\nen la negrura de mi soledad.\n\n¡Loor al llanto que de mí brotara,\ny mi semblante triste demacrara!\nNo hay medicina para este veneno,\nque hace del día un lugar ajeno.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

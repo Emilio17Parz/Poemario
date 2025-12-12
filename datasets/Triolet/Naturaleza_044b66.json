@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento fuerte,\nmoviendo las ramas.\nCambia la suerte,\nsopla el viento fuerte.\nNo quiere verte,\nsi no lo amas.\nSopla el viento fuerte,\nmoviendo las ramas.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "viento"
+  }
+}

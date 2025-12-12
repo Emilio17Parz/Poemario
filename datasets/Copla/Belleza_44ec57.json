@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El aire que huele ya (a),\na tierra y a dulce flor (b),\nla vida que al fin se va (c),\nsin un solo fulgor (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Aire"
+  }
+}

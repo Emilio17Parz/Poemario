@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Vende crema y consejo,\nsin tener ni idea,\nmírate al espejo,\ny ve lo que sea.\nFamoso de red,\ncon mucha sed.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Influencer"
+  }
+}

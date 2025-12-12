@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Los hombres hacen la guerra,\npor codicia y por poder,\ny hacen desaparecer.\n\nLa paz sobre la tierra,\ndejando solo muerte,\nque a todos nos aterra.\n\nCon su mala suerte.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "paz"
+  }
+}

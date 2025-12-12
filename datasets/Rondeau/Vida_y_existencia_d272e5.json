@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La esperanza,\nnos alcanza.\nPara seguir,\ny vivir,\ncon confianza.\n\nLa balanza,\nde la alianza.\nSin morir,\nla esperanza.\n\nLa danza,\ny la andanza.\nAl sentir,\nel porvenir,\nde la enseñanza,\nla esperanza.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

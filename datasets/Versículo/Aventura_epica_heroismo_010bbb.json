@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "He dejado atrás el humo de mi aldea para caminar hacia el horizonte donde el cielo se funde con la tierra desconocida.\nEl viaje no es solo mover los pies, es despojarme de quien fui para convertirme en quien la carretera decida que debo ser.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

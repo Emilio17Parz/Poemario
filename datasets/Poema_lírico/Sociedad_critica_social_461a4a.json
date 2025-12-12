@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El consumo es la fe\nque nos obliga a amar.\nEl único por qué\npara poder volar.\n\nCompramos la vida,\ncompramos la paz,\nla dulce herida\nsin ser capaz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "consumo"
+  }
+}

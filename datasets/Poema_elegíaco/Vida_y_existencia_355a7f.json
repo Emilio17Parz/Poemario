@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco el sentido, y solo hallo un hueco,\nla vida sin la calma, el dulce eco.\nLa sed me consume, me obliga a buscar,\nla sombra constante sin poder amar.\n\nNo tengo la respuesta, no tengo la paz,\nla vida sin la calma, sin ser capaz.\nMi ser es el esclavo de una fe sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

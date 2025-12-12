@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sueño que me engañas con falsa alegría,\ndonde te encuentro en la noche sin fe.\nAl despertar, vuelve la cruel agonía,\npor el vacío que el día ya ve.\nTu dulce imagen es solo un tormento,\nel ser que vive en el triste lamento.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "flor temprana",
   "poema": {
     "texto": "Abre la flor\\nsu leve espuma\\ntiembla la vida\\nsobre su tallo",

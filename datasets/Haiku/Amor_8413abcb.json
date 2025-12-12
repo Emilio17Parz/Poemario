@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dulce es amar,\nArde en ti mi gran pasión,\nCorazón da paz.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

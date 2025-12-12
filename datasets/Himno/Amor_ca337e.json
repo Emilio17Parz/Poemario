@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nombre glorioso que en mis labios suena,\ncomo el cantar de la dulce sirena.\nSílaba santa que el temor disipa,\ny en mi memoria siempre participa.\n\n¡Alabado sea el nombre que yo amo,\nque en el silencio y en la luz proclamo!\nSea grabado en mármol y en la historia,\ncomo señal de triunfo y de victoria.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

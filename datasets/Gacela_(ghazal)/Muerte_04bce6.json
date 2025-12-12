@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Pasa el tiempo en el triste duelo,\nsana la herida del triste duelo.\n\nAceptar la pérdida es el camino,\npara salir del pozo del duelo.\n\nLa vida sigue para los que quedan,\ntras superar el amargo duelo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

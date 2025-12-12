@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Buscan el oro escondido,\nen la isla del pirata,\npor siglos perdido.\n\nEs el sueño prohibido,\nque a los hombres ata,\nbuscan el oro escondido.\n\nHan recorrido,\nla ruta de plata,\npor siglos perdido.\n\nHan sufrido,\nla fiebre ingrata,\nbuscan el oro escondido.\n\nY han muerto en el nido,\nde la serpiente chata,\npor siglos perdido.\n\nNadie ha podido,\nhallar la fogata,\nbuscan el oro escondido,\npor siglos perdido.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

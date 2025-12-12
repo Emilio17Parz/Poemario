@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gira ciega la rueda de la suerte,\nnadie compra el favor de la suerte.\n\nHoy estás en la cima del mundo,\ny mañana te olvida la suerte.\n\nNo confíes tu paz al azar,\nes voluble y traidora la suerte.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

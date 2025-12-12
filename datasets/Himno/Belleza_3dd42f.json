@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Madre de las formas, enemiga de la sombra,\nla primera palabra que el Génesis nombra.\n¡Salve, Luz clara, esencia visible!,\nque haces el mundo comprensible.\n\nBrillas en el astro y en la vela pequeña,\neres la guía, la marca y la seña.\nTe cantamos himnos al amanecer,\npues gracias a ti podemos ver.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luz"
+  }
+}

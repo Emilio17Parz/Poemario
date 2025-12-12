@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu ser es la miel, la más dulce y pura (A),\nque endulza mi vida, que calma la sed (B),\nno hay más riqueza, no hay más hermosura (A),\nque en tu amor caer en la red (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Miel"
+  }
+}

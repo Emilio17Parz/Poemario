@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega la hora de la siega,\nla guadaña corta el hilo,\nla muerte a todos llega,\ncon su afilado filo.\n\nLa guadaña corta el hilo,\nno distingue rey ni peón,\ncon su afilado filo,\nrompe el corazón.\n\nNo distingue rey ni peón,\nla muerte a todos llega,\nrompe el corazón,\nllega la hora de la siega.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "siega"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sábana blanca\nflota en aire\nojos oscuros\nsin pies toca\neco del ser\nmiedo y frío\nalma en pena.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

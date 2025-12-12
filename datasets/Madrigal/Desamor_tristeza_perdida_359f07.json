@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te vas y no regresas,\ndejando el alma rota y malherida;\nse escapa ya la vida\nentre promesas.\nAdiós a la ilusión que construimos,\ny a lo que fuimos.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

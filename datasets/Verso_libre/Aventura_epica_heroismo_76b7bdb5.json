@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El horizonte se mueve\ncuando me acerco.\nEsa es la trampa y el regalo.\nNunca llegaré,\npero el viaje me transforma.\nLa aventura no es la meta,\nes el camino bajo mis botas,\nel viento en la cara,\ny el miedo que venzo a cada paso.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "horizonte"
+  }
+}

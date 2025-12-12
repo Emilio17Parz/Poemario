@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "Se alza el coloso con su brillo vano,\nun eco sordo de moral caída,\nla esencia misma de una vida herida,\nun dulce engaño que nos tiende el plano.\n\nLa voz silente del que fue olvidado\nse quiebra entre el fragor de la indolencia,\nun cruel desprecio a toda transparencia,\nel ser humano por el hombre ahogado.\n\nYace en la sombra el grito de la pobreza,\nun niño hambriento que sin fe se arrastra,\nla dignidad en fango vil se gasta.\n\nY el oro ciego sin piedad malgasta\nla savia humana que la vida arrastra,\nen esta cruel y sorda entereza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

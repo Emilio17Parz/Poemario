@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Atrapado en el vital laberinto,\nlloro las puertas que no supe abrir,\nlos días que dejé sin escribir,\nguiado por un ciego y mal instinto.\nEs tarde para hallar la gran salida,\nqueda el pesar de la oportunidad perdida.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

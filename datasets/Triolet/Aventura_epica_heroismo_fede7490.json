@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Empuña su fiel espada,\nen la difícil jornada,\nde la lucha sagrada.\nEmpuña su fiel espada,\ncon la frente elevada,\ny el alma arriesgada.\nEmpuña su fiel espada,\nen la difícil jornada.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "espada"
+  }
+}

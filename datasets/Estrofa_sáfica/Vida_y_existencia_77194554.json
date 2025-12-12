@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vino dorado que embriaga pronto,\nfuerza y belleza que el reloj devora,\ngoza el momento de la piel tersa\nhoy y ahora.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

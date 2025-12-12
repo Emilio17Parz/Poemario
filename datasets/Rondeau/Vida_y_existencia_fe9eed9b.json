@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un sueño,\ndel que no soy dueño,\nuna breve ilusión,\nllena de pasión,\ny de empeño.\n\nA veces pequeño,\ny de mal diseño,\ncausa confusión,\nla vida es un sueño.\n\nCon gesto risueño,\no frunciendo el ceño,\nbusco la razón,\nde esta función,\nsin fruncir el ceño,\nla vida es un sueño.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

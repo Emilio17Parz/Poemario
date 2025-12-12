@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El Rocío se evapora,\nal sol de mi dolor,\ny mi alma ya se mejora,\nsin un poco de fulgor.\n\nSe fue con la mañana,\nme dejó sola allí,\ny mi vida es una macana,\nsin un dulce sí.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Rocío"
+  }
+}

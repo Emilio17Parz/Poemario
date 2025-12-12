@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Adán no calla con nada.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "dios"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurran las hojas del viejo bosque,\ncontando secretos de antigüedad,\nantes que el sol en el monte se enrosque.\n\nNo hay mano humana que aquí nos toque,\nreina la paz y la tranquilidad,\nsusurran las hojas del viejo bosque.\n\nEl verde musgo en la piedra se enfoque,\ncubriendo el suelo con suavidad,\nantes que el sol en el monte se enrosque.\n\nDeja que el viento el ramaje trastoque,\ncon su danza de libertad,\nsusurran las hojas del viejo bosque.\n\nEs un refugio, un firme bloque,\nde vida y de naturalidad,\nantes que el sol en el monte se enrosque.\n\nAquí la belleza nos provoque,\nuna profunda serenidad,\nsusurran las hojas del viejo bosque,\nantes que el sol en el monte se enrosque.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

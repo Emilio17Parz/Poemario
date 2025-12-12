@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Levantaste un gran muro,\npara no verme jamás,\nfue un golpe muy duro,\nque no olvido y te vas.\n\nPara no verme jamás,\ncerraste todas las puertas,\nque no olvido y te vas,\ndejando las almas muertas.\n\nCerraste todas las puertas,\nlevantaste un gran muro,\ndejando las almas muertas,\nfue un golpe muy duro.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "muro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento en el pecho un gran vacío,\ny tiemblo de miedo y de frío,\nporque ya no eres mío.\nSiento en el pecho un gran vacío,\nse secó el cauce del río,\nperdí todo mi brío.\nSiento en el pecho un gran vacío,\ny tiemblo de miedo y de frío.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

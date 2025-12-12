@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tierno el amor, que al alma siempre llega,\ncon tu figura mi ser se ilumina,\ny me seduce de tu voz la calma,\nDulce pasión.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

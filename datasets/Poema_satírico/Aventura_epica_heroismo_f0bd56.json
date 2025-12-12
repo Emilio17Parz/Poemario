@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sabe a jarabe,\ny es roja brillante,\ncurar no sabe,\npero es estimulante.\nBebida energética,\nde la era mítica.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Poción"
+  }
+}

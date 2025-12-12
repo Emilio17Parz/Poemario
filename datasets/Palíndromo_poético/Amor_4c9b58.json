@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Brilla el sol\nen tu cara\nmi amor\nen tu cara\nbrilla el sol",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "sol"
+  }
+}

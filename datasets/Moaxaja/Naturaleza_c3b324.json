@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro rey brilla,\nen la orilla.\n\nCalor y luz,\nquitas la cruz,\ny el capuz,\nde la semilla.\nAstro rey brilla,\nen la orilla.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "sol"
+  }
+}

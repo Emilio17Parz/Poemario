@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ver es\ncreer hoy\ntodo bien\ncreer hoy\nver es",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "ver"
+  }
+}

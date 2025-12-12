@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La eternidad no es tiempo,\nes la ausencia del reloj.\nEs el suave intento\nde un ser sin son ni boj.\n\nEs la paz sin nombre,\nla luz sin dolor,\nel final del hombre\nsin ningún fulgor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

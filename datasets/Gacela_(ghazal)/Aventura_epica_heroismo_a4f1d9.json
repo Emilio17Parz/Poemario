@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Domina los elementos el mago,\nsabio anciano es el viejo mago.\n\nCon su varita cambia el azar,\ndueño de arcanos, el viejo mago.\n\nGuarda secretos de la creación,\npoder oculto del viejo mago.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "mago"
+  }
+}

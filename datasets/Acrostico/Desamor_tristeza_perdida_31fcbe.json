@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Duele cada recuerdo,\nOprime el corazón.\nLento pierdo el acuerdo,\nOlvido la razón.\nRoto me quedo y muerdo.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "DOLOR"
+  }
+}

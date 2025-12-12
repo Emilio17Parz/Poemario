@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de arena sin orillas\ndonde el sol quema la piel,\nel desierto es un espejo\nde soledad y de hiel.\nSolo el cactus sobrevive\nfirme como un coronel,\nen este reino de fuego\nque sabe a seco papel.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

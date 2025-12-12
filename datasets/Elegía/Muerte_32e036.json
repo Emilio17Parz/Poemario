@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Puente que te has roto sin piedad,\nla senda que el alma no puede cruzar.\nEl paso es incierto, la cruel verdad,\nel alma sin poder anclar.\nTu estructura es sombra, el dolor total,\nel alma que sufre el gran mal.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Puente"
+  }
+}

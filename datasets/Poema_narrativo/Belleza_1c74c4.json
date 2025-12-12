@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La verdad se desnudó ante su ojo incrédulo,\nSimple y sin adornos, un suave módulo.\nNo era fea ni dura, sino pura y real,\nLa belleza más grande, el premio final.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

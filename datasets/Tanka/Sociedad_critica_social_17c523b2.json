@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Traje y corbata,\nroban con la sonrisa\ny con la ley.\nEl pueblo paga el precio\nde su gran ambición.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "corrupción"
+  }
+}

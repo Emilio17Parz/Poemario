@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Señora de la noche,\nque alumbras con tu plata el caminante;\ntan bella y distante,\nsin reproche.\nTu ciclo marca el tiempo de la marea,\ny nuestra tarea.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "luna"
+  }
+}

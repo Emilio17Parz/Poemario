@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reposa el cuerpo inerte en la tumba,\nabrazado a la tierra y la raíz,\nmientras el mundo gira y se derrumba.\n\nYa no busca ser triste ni feliz,\npues ha cruzado el último umbral,\ndejando atrás cualquier cicatriz.\n\nEn el sueño profundo y sepulcral.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

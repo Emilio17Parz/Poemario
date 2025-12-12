@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La música, dulce canción,\nque calma mi gran corazón.\nEs nota sin fin,\nsin rastro de tin,\nla fuerza sin gran aflicción.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Música"
+  }
+}

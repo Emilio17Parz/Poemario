@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Crujió la madera ante la ola,\nel cielo se unió con el mar,\ny nadie pudo el barco salvar\nen esa tormenta tan sola.\n\nQuedó la esperanza amapola\nflotando en el agua al azar,\ny el sueño de tanto viajar\nse hundió sin dejar estela.\n\nSobrevivir es la nueva gesta,\nluchar contra el sol y la sed,\nen una isla que no contesta.\n\nEl héroe atrapado en la red\nde una naturaleza dispuesta\na ser su prisión y pared.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

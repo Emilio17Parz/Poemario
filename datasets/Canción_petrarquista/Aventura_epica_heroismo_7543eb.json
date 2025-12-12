@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Andante caballero,\nque vas desfaciendo agravios y tuertos;\npor los desiertos\ny el sendero;\nla lanza en ristre y el escudo al brazo;\nen tu regazo\nllevas la fe jurada,\na vuestra dama siempre enamorada.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

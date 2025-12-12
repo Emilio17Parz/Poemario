@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me dejaste a la sombra, sin una palabra, sin luz ni razón,\nel abandono es la cárcel de mi roto corazón.\nEl aire pesa mucho, el silencio es mortal ya,\nla vida sin tu amor es el frío que está.\n\nSoy el náufrago solo en un mar sin orilla y sin paz,\ny la soledad me grita que nunca seré capaz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "abandono"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar gime contra la roca,\nun lamento de sal y espuma,\nperdido entre la bruma,\nque la orilla triste toca.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "mar"
+  }
+}

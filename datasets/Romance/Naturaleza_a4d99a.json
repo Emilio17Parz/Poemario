@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nació una rosa en la zarza\norgullosa de su olor,\nmostrando sus pétalos rojos\nal paso del labrador.\nPero su vida es muy breve\ncomo todo lo mejor,\ny mañana estará seca\nperdiendo todo el color.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "flor"
+  }
+}

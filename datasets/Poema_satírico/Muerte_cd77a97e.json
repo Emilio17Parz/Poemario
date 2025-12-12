@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¡Oh, Muerte! La gran niveladora, la dama imparcial,\nA la que los mortales con horror suelen mirar.\nConstruyen mausoleos de un mármol tan pulcro y sereno,\nCreyendo que el lujo al olvido ya ha vencido el terreno.\n\nCon dietas de moda y elixir de ambigua verdad,\nEl hombre se afana en buscar una eterna juventud.\nCual Fausto moderno, su alma a la ciencia entrega,\n¡Qué ingenuo! Si cree que al Cronos el paso se le niega.\n\nEl sabio que dicta con pose solemne su ley,\nEl magnate que amasa su imperio cual gran virrey,\nTodos prometen legados, eternas huellas dejar,\nMas viene la Parca y su guadaña no va a dudar.\n\nYace el pobre necio junto al genio inmortal,\nSin que valga título, poder o caudal.\nPor más que se alargue la farsa mundana con trajín,\nSolo la Muerte nos asegura un verdadero **fin**.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "fin"
+  }
+}

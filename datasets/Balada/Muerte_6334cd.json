@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viene con alas color de noche,\na recoger el último aliento,\nsin que le valga ningún reproche,\nni la súplica ni el lamento.\nToma tu mano con suavidad,\ny te conduce al otro lado,\ndonde se encuentra la verdad,\ndel destino que has labrado.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Aún queda gente,\nque quiere cambiar,\ny puede luchar,\nsiendo diferente.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "cambiar"
+  }
+}

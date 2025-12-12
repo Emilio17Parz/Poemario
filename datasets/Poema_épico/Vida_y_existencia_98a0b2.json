@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cruzar el umbral hacia la luz,\nprimer aliento, llanto triunfal,\ncargar desde niño con esa cruz,\nde ser mortal y ser temporal.\nEl milagro empieza en un segundo,\ny cambia la faz de todo el mundo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Nacer"
+  }
+}

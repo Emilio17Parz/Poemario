@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Sabio que lees en los astros la suerte,\ny tienes la llave de vida y de muerte!\nDominas el fuego, el aire y el mar,\ny haces los montes temblar y cambiar.\n\n¡Honor al arcano poder de la mente,\nque ves lo pasado y lo que está presente!\nGuía en la sombra y luz en la duda,\ntu magia antigua al héroe ayuda.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "mago"
+  }
+}

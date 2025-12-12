@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sudar la frente por un salario,\nque apenas cubre lo necesario,\nes la condena del obrero,\nque es el esclavo verdadero.\nHoras eternas sin descansar,\npara poder apenas estar,\nen este mundo de producción,\nque nos anula la ilusión.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

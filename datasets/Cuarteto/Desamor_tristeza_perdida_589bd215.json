@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rueda en silencio la salada lágrima,\nsurco de pena en la mejilla ajada,\npor esa historia que quedó truncada\ny que mi pobre corazón lastima.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

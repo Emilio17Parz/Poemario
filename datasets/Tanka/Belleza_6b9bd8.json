@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El ojo profundo,\nes un pozo de misterio,\ny gran claridad.\nVentana del alma dulce,\ndonde el amor se refleja.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Ojo"
+  }
+}

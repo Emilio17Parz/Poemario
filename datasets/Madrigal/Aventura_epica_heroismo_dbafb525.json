@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Cuando el llamado quiebra el alba pura,\nY el hado teje nueva desventura,\nEl héroe marcha, sin temor ni queja,\nSu audaz espíritu el camino deja.\n\nPor valles sombríos, montes de cristal,\nCombate fiero al monstruo inmortal.\nSu acero canta gestas valerosas,\nEn batallas cruentas, victoriosas.\n\nLa frente alta, jamás abatida,\nPor la justicia entrega cuerpo y vida.\nEl miedo rompe, la virtud exalta,\nNinguna sombra su paso detiene o salta.\n\nY cuando al fin la lid cesa y calma,\nEl reino entero aclama su alma.\nEn cada canto, cada antigua historia,\nResplandece eterna su radiante **gloria**.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

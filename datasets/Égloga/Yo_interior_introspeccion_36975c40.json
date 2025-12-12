@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "LISARDO: La duda me asalta cual lobo fiero,\nno sé quién soy ni a dónde me dirijo.\nALCINO: Mira a la estrella, punto fijo,\ny escucha el latido del pecho sincero.\nLa duda es niebla que el sol disipa,\ncuando la verdad del ser participa.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "duda"
+  }
+}

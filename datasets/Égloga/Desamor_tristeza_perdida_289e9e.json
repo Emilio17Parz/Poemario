@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Maldigo el hado que nos unió,\npara luego romper el lazo,\ndejándome solo en el ocaso,\nde un día que nunca amaneció.\n\nEl destino ciego tejió,\nuna trama de pena y llanto,\ny me cubrió con el manto,\nque la alegría oscureció.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "destino"
+  }
+}

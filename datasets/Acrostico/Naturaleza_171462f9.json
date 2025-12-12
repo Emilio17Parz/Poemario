@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "**N**ace la vida en cada rincón,\n**A**rboles altos, de sabia voz.\n**T**ierra fértil, que es un gran don,\n**U**mbríos valles, sin fin, sin toz.\n**R**íos que cantan su eterna canción,\n**A**ves que cruzan el azul **cielo**,\n**L**uz del sol, pura creación,\n**E**cos de vida, sin velo.\n**Z**éfiro dulce, caricia y anhelo,\n**A**lma del mundo, eterno desvelo.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

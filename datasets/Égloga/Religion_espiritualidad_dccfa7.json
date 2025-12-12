@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Corramos a Belén, pastores,\nque ha nacido el Rey del Cielo.\nDejemos el suelo\ny sus vanos amores.\nEntre pajas y olores\nestá nuestro consuelo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "Belen"
+  }
+}

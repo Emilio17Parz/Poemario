@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La herida que dejaste en mí,\nes profunda, sin rastro de ají.\nNo tiene una cura,\nes solo amargura,\nla vida es un triste 'por sí'.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Herida"
+  }
+}

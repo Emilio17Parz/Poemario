@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Rezo mi oración,\ncon voz callada.\nAlborada,\nde devoción.\n\nPido perdón,\ny paz soñada.\nRezo mi oración,\ncon voz callada.\n\nLa unión,\nsagrada.\nElevada,\nintención.\nRezo mi oración.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "oración"
+  }
+}

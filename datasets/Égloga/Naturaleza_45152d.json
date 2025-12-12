@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se tiñe de malva el horizonte,\nel día se rinde a la noche fría.\nTermina la faena y la porfía,\nse recogen los rebaños del monte.\nQue la paz del crepúsculo afronte\nla fatiga de la vida mía.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "horizonte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El trueno que ruge atroz (a),\nel rayo que quiebra el sol (b),\nla cólera de una voz (c),\nel eterno y dulce arrebol (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Trueno"
+  }
+}

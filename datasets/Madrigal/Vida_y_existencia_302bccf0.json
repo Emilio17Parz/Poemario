@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "¡Qué dulce nacer al aliento que llama!\nLa vida, un lienzo en blanco que se extiende,\ndonde la luz del alba se desprende\ny el alma joven, sin conocer la trama,\nse asoma al borde de su propia llama.\n\nLuego, el sendero se tuerce y se inflama,\nun intrincado y vasto **laberinto** sin final,\ndonde cada elección es un umbral,\ny el corazón, que busca lo que ama,\nse pierde y encuentra, en su ardua proclama.\n\nMas en cada recodo, en cada rama\nque el tiempo teje con su tenue hilo,\nhallamos un consuelo, un dulce asilo:\nque el ser es arte, es búsqueda que aclama\nla eternidad en lo que fue, y lo que se derrama.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

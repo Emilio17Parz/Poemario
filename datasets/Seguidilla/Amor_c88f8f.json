@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi vida es tu jardín (7a),\nde dulce verdor (5b),\nel eterno jazmín (7c),\nde puro fulgor (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Jardín"
+  }
+}

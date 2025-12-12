@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla en la mano la temida espada,\nlista al combate en la cruel jornada,\nha de vencer en la madrugada,\nacero fiel.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "espada"
+  }
+}

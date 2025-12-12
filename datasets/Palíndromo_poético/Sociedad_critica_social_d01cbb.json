@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Poder es\nquerer más\nsin fin\nquerer más\npoder es",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "poder"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No quiero guardar rencor,\npero duele el engaño.\nFue un gran error,\nno quiero guardar rencor.\nSe apaga el amor,\ncon el paso del año.\nNo quiero guardar rencor,\npero duele el engaño.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "rencor"
+  }
+}

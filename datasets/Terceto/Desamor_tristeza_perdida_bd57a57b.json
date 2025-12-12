@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No queda amor, tan solo queda el daño,\nla herida que supura con el tiempo,\ny el peso insoportable del engaño.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "odio"
+  }
+}

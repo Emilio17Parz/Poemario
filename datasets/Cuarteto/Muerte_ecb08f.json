@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No hay más adiós, solo el silencio ya,\nel alma se escapa, se va a volar,\nla vida se extingue, no vuelve más,\nla última forma de amar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Las ruinas de lo que fue (a),\nson el golpe de mi ser (b),\nsin la dulce fe (c),\nla forma de no crecer (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Ruinas"
+  }
+}

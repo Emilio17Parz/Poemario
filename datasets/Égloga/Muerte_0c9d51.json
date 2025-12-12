@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No llores más, pastor amigo,\nque ella vive en la memoria,\ny se ha convertido en historia,\nque siempre irá contigo.\n\nLa tierra le sirve de abrigo,\ny el cielo de techo azul,\nella duerme bajo el tul,\ndel campo y del trigo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "consuelo"
+  }
+}

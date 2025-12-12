@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Canto al valor,\ndel pecho fuerte,\nque vence a la muerte,\ny al terror.\nEs el honor,\nde su suerte.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "valor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Arden cuatro cirios en la estancia,\nvelando el cuerpo que ya no siente,\nun aire espeso, triste y caliente,\nlleno de flores y de fragancia.\n\nSe siente la terrible distancia,\nentre el vivo y el cuerpo presente,\nun abismo que se abre inclemente,\nmarcando su negra preponderancia.\n\nLa cera llora gotas de pena,\nla llama tiembla con el suspiro,\nde la familia que se encadena.\n\nEs el último y triste retiro,\nantes de volver a la arena,\ny yo con respeto lo miro.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "velas"
+  }
+}

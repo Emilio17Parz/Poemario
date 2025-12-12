@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor, un faro que me guía al fin,\nY el corazón no puede más que arder,\nMi alma en tu mirada halla su confín.\n\nSin ti, mi mundo pierde su jardín,\nNi sombra que me impida siempre ver,\nTu amor, un faro que me guía al fin.\n\nEn cada aliento, un dulce querubín,\nPor ti yo vivo, por ti quiero crecer,\nMi alma en tu mirada halla su confín.\n\nDejando atrás el rastro de un jazmín,\nTu esencia me embriaga con placer,\nTu amor, un faro que me guía al fin.\n\nAsí mi ser te busca, mi botín,\nPor ti, la vida vuelve a florecer,\nMi alma en tu mirada halla su confín.\n\nSeremos juntos, un eterno festín,\nTu amor, un faro que me guía al fin,\nNo quiero nunca este sentir perder,\nMi alma en tu mirada halla su confín.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "alma"
+  }
+}

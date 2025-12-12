@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hablo con mi soledad,\nen el silencio de casa,\ncon total sinceridad.\n\nEs mi única verdad,\nlo que me pasa,\nhablo con mi soledad.\n\nSin vanidad,\nni brasa,\ncon total sinceridad.\n\nLa realidad,\nse retrasa,\nhablo con mi soledad.\n\nFrialdad,\nque arrasa,\ncon total sinceridad.\n\nAmistad,\nescasa,\nhablo con mi soledad,\ncon total sinceridad.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

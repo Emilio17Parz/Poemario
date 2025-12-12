@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Es tu voz la canción que más adoro,\nmelodía que calma mi ansiedad,\nvale más que diamantes y que oro,\ny me trae la mayor felicidad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "voz"
+  }
+}

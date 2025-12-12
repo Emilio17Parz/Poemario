@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo se muda y cambia,\nnada permanece en un estado;\nlo que hoy es amado,\nmañana nos cambia;\nla rueda de la vida gira presta,\ny en esta gran fiesta,\nsomos breves actores,\ncambiando de disfraces y colores.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

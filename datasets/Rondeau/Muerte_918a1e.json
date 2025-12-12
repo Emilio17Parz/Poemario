@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vence al temor,\ndel dolor,\nfinal,\nmortal,\ny del horror.\n\nEl valor,\nmejor,\nque el mal,\nVence al temor.\n\nCon amor,\ny honor,\nleal,\nreal,\nseñor,\nVence al temor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "temor"
+  }
+}

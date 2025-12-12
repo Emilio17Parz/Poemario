@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Surge el brote de la rama,\nLa vida vuelve a nacer,\nLa naturaleza ama.\nSurge el brote de la rama,\nSe enciende la llama,\nAl amanecer.\nSurge el brote de la rama,\nLa vida vuelve a nacer.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "brote"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Caminan como garzas,\ncon cara de hambre,\nentre comparsas,\ny ropa de alambre.\nEsqueletos vestidos,\npor todos aplaudidos.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Pasarela"
+  }
+}

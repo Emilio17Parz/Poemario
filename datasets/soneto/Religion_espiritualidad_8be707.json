@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Fiat lux, dijo la voz,\ny se hizo la claridad,\nvenciendo a la oscuridad,\ncon un destello feroz.\n\nLa luz es el bien precoz,\nsímbolo de la verdad,\nde la divina bondad,\nque nos salva de la hoz.\n\nIlumina el entendimiento,\nguía los pasos perdidos,\ny borra el sufrimiento.\n\nSomos seres encendidos,\nportadores del aliento,\nde los cielos prometidos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "luz"
+  }
+}

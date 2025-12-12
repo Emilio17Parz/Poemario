@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi vida era un continente\nde aridez y pena,\ny tú fuiste la isla\ncon la arena serena.\n\nEn tu orilla he anclado\nmi barca sin motor,\nel único refugio\nde mi eterno dolor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "isla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Centro rojo\nlate fuerte\npor la dama\npor el rey\nlealtad pura\nsin mancha\nde honor.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "honor"
+  }
+}

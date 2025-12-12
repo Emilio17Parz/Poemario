@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Defiende siempre su limpio honor,\ncomo la joya más preciada,\nante la burla y la estocada,\ndel enemigo y del opresor,\nmanteniendo su frente elevada,\ny su conciencia inmaculada.",
+    "tipo": "Sestina (Estrofa I)",
+    "palabra_clave_ingresada": "honor"
+  }
+}

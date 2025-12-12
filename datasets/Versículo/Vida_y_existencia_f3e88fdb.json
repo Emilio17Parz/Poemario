@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo es un río caudaloso que nos arrastra hacia el mar de la muerte.\nIntentamos retener los momentos, pero se nos escapan como agua entre los dedos.\nEl presente es el único tesoro, el único instante real que poseemos.\nNo malgastes tu tiempo, pues es la materia de la que está hecha tu vida.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

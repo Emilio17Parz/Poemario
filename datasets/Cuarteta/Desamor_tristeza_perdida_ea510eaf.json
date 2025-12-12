@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te busco dentro de mi mente\npero ya no estás aquí,\nere un recuerdo ausente\nde lo que un día viví.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "mente"
+  }
+}

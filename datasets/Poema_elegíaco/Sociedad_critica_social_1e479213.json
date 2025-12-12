@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se ahogó en la garganta el fuerte grito,\nnadie escuchó el clamor del oprimido,\ntodo quedó callado y perdido,\nen el silencio oscuro e infinito.\nLamento que la voz fuera acallada,\npor la fuerza brutal de la espada.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "grito"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río fluye incesante, serpiente de plata que atraviesa los valles y fecunda los campos.\nNunca es el mismo agua la que toca tus pies, porque todo pasa, todo cambia, todo se va hacia el mar.\nLleva en su corriente la historia de los pueblos, las lágrimas de los amantes y las cenizas de los muertos.\nEs el tiempo hecho líquido, la metáfora perfecta de nuestra existencia transitoria.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "río"
+  }
+}

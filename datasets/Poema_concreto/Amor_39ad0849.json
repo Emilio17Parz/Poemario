@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "  (pétalo)\n(pétalo)(pétalo)\n  (pétalo)\n     |\n     |\n   AMOR",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "flor"
+  }
+}

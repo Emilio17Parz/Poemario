@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Son refugio del alma los sueños,\ndonde somos gigantes, los sueños.\n\nSe deshacen al ver la mañana,\ncomo niebla sutil son los sueños.\n\nPero guían la vida despierta,\nla esperanza que tejen los sueños.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

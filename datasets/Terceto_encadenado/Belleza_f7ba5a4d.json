@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es un rayo que nos cruza,\nun don sutil que el alma reverbera,\ny el corazón con dulzura usa.\n\nEn cada flor que el prado nos ofreciera,\no en la sublime expresión de un **arte**,\nun eco de lo eterno persevera.\n\nEs la verdad que el tiempo no desparte,\nel aire puro que a vivir convida,\nun grato don que el universo comparte.\n\nEn cada aurora nueva, redimida,\nla vemos desplegar su gran hechizo,\neterna luz que no se da por vencida.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "arte"
+  }
+}

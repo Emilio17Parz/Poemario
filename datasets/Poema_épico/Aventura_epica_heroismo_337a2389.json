@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Alejandro Magno llegó,\nhasta el fin del mundo,\ncon paso profundo,\ny todo venció.\nSu imperio creció,\nde modo rotundo,\npero moribundo,\nse desvaneció.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

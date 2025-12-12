@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Agujas en el tiempo.",
   "poema": {
     "texto": "Nieve en el reloj,\nTemporada se apura,\nCosas pasan rápido.\n\nReloj de agujas,\nAgujas del tiempo,\nTraspasando la memoria.",

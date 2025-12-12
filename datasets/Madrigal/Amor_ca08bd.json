@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Detened el reloj,\nque estoy con mi amada en este instante,\nsin ningún enojo,\nque el tiempo no sea tan inconstante.\nQuiero vivir mil años a tu lado,\nenamorado,\nsin que la muerte pueda separarnos,\nni olvidarnos.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

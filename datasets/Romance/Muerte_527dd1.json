@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Blanco muro de cal viva\nque guarda a los que se fueron,\ncruces de piedra y madera\nde aquellos que ya vivieron.\nEl ciprés apunta al cielo\ndonde las almas subieron,\ny el silencio es el idioma\nde los que allí se durmieron.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

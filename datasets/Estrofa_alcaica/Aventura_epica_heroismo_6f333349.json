@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Desafía el dragón que guarda el oro\ncon su espada, el valiente sin temor;\npor pueblos oprimidos su valor,\nlucha por la **gloria** y el honor.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

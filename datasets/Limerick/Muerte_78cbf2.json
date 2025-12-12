@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La médium llamó al espíritu,\ncon un extraño ritu.\nLa mesa voló,\ny le golpeó,\nen el dedo meñiquitu.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "médium"
+  }
+}

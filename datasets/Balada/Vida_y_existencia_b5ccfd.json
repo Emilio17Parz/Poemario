@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Jardín cerrado de la inocencia,\ndonde todo es juego y verdad,\nlejos de la adulta conciencia,\ny de la cruda realidad.\nQuisiera volver a esos días,\nde risas puras y sin fin,\nlejos de todas las agonías,\ncorriendo libre en el jardín.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "niñez"
+  }
+}

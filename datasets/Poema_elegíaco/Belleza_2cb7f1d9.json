@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El espejo me devuelve,\nun rostro ajado y viejo,\nse apagó el reflejo,\nque el tiempo disuelve.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

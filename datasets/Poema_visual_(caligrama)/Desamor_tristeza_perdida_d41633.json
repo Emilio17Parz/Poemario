@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Curva de duda\npunto final\npor qué te fuiste\nno hay respuesta\nsolo silencio.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "duda"
+  }
+}

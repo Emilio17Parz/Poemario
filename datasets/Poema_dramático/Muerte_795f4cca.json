@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "VIUDA: La cama es enorme sin tu calor.\nSOMBRA: Ya no sufro, no tengo dolor.\nVIUDA: Hablo sola, me estoy volviendo loca.\nSOMBRA: Mi beso aún está en tu boca.\nVIUDA: Te extraño tanto, ven a buscarme.\nSOMBRA: Aún no es tu hora de acompañarme.\nVive por los dos, vive feliz.\nVIUDA: Soy un árbol sin su raíz.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "cama"
+  }
+}

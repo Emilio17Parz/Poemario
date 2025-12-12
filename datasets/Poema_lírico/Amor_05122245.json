@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres el eco que mi alma responde,\nla luz que aclara mi oscuro sendero,\nel sentimiento más puro y sincero,\nque en lo profundo del ser se esconde.\nNo hay horizonte ni lugar adonde,\nno vaya contigo mi amor entero.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "alma"
+  }
+}

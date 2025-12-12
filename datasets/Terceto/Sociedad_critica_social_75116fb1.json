@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El poder embriaga y envilece,\nhaciendo que el hombre se vuelva lobo,\ny la bondad en su alma decrece.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "mando"
+  }
+}

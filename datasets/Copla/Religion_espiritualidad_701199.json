@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Perdona a tu hermano\ncomo Dios te perdonó,\nque el rencor es malo\ny el amor ganó.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo tu balcón florido\ntoco mi vieja guitarra,\nmientras la noche se duerme\ny la luna se desgarra.\nSal a la reja, mi niña,\nque mi voz se vuelve jarra,\npara darte de beber\nel amor que me amarra.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "serenata"
+  }
+}

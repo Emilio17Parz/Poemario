@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La paz que la muerte me da,\nes dulce, sin rastro de ¡ah!\nEl cuerpo descansa,\nla pena se amansa,\nsin una batalla ni sa.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

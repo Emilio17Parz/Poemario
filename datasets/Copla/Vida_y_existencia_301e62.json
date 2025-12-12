@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El 'ahora' es eterno y fiel (a),\nel tiempo se para ya (b),\nla vida es un trago de miel (c),\nla fuerza que me da (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Ahora"
+  }
+}

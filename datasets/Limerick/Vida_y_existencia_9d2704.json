@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dejar un legado de bien,\nes vida sin un solo vaivén.\nRecuerdo de amor,\nsin un gran dolor,\nel alma sin un solo quién.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Legado"
+  }
+}

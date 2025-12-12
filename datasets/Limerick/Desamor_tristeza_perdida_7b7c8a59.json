@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te fuiste sin dar un portazo,\nllevándote el último lazo,\nme dejas aquí,\nsin pena ni ahí,\ncomiendo mi propio rechazo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

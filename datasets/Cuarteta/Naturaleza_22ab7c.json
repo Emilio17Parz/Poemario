@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar rompe bravo sobre la roca,\nel azul profundo de su inmensidad,\ncon sal y espuma que la brisa toca,\nla eterna lección de la libertad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La aurora besa el monte, un dulce fulgor,\nDespierta el bosque antiguo con tierno rumor.\n\nEl río canta su canción, claro temblor,\nFluyendo entre las piedras, eterno motor.\n\nEl **viento** acaricia el roble con fervor,\nLlevando hojas secas, sin ningún dolor.\n\nEl cielo, un lienzo azul, gran inspirador,\nPinta nubes de ensueño con lento candor.\n\nCada flor se abre al sol, con puro primor,\nOfreciendo su esencia, un suave licor.\n\nEl murmullo del arroyo, claro esplendor,\nEs la voz de la tierra, su íntimo valor.\n\nAsí la naturaleza, gran creador,\nNos brinda paz y calma, sin par pastor.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "viento"
+  }
+}

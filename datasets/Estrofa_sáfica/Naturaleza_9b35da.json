@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Flor que aletea con gracia y colores,\nbreve su vida, puro su primor,\nbusca el aroma de la dulce flor,\nbello insecto.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "mariposa"
+  }
+}

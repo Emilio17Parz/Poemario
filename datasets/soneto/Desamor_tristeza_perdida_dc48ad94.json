@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vuelve el ayer con túnica dorada\na sentarse a los pies de mi presente,\ny me trae el aroma de la fuente\ndonde bebimos agua enamorada.\n\nEs dulce y es cruel esta llamada,\npues revive la dicha de la gente,\npero deja el sabor del occidente\nen una realidad deshabitada.\n\nNostalgia de tu voz y de tu risa,\nde la forma sencilla de querernos,\ncuando el tiempo pasaba sin prisa.\n\nHoy solo quedan fríos y cuadernos,\ny esta pena sutil que se desliza\nentre inviernos que son sempiternos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "nostalgia"
+  }
+}

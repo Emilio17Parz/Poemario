@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos más que carne y hueso,\nllevamos un alma en el proceso.\nLa energía no se destruye,\nsolo se cambia y se influye.\nConfía en que algo ha de quedar,\nmás allá del último umbral.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "trascendencia"
+  }
+}

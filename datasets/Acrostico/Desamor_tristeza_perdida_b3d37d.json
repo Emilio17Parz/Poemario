@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Largo es el camino,\nEntre tu ser y el mío.\nJuega cruel el destino,\nOcultando el rocío.\nSin ti, desatino.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "LEJOS"
+  }
+}

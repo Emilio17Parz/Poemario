@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Las Parcas cortaron el hilo fino,\nningún pastor escapa a su suerte.\nTodos caminamos hacia la muerte\npor este polvoriento camino.\nEs el mandato del ser divino\nque en polvo nos convierte.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "hilo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Teme el humano caer en olvido,\nser una sombra que nadie recuerda,\ny haber en vano por siempre vivido.\n\nCuando el aliento se ha extinguido,\ny se ha soltado la última cuerda,\nteme el humano caer en olvido.\n\nTodo lo amado y lo construido,\nse desmorona y se dispersa,\ny haber en vano por siempre vivido.\n\nQueda el sepulcro frío y perdido,\ndonde la hiedra verde se muerda,\nteme el humano caer en olvido.\n\nEs la segunda muerte, el descuido,\nla que hace que el alma se pierda,\ny haber en vano por siempre vivido.\n\nLuchar contra el tiempo es atrevido,\npero la memoria es quien concuerda,\nteme el humano caer en olvido,\ny haber en vano por siempre vivido.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

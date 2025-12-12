@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hay un agujero donde hubo un sol,\nun hueco sin luz y sin arrebol,\nme siento vacío como un cascarón,\nsin alma, sin vida y sin corazón.\nNadie puede ver lo que llevo dentro,\neste desolado y triste centro,\ndonde nada crece y todo se va,\ny la alegría nunca volverá.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

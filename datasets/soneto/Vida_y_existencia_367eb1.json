@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Chispa divina que enciende el ser,\nrisa que brota como manantial,\nrompiendo el peso del mal\ny haciendo al hombre renacer.\n\nLa alegría es un amanecer,\nun regalo celestial,\nque vuelve el mundo especial\ny nos da ganas de hacer.\n\nCelebremos el vino y el pan,\nla amistad y el buen amor,\nque las penas se van.\n\nVivamos con gran fervor,\nlejos del negro afán,\ny con mucho color.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "chispa"
+  }
+}

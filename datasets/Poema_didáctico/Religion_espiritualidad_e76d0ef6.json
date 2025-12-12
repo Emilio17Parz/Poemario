@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Todos somos uno en esencia,\nparte de la misma consciencia.\nNo hay separación real,\nentre lo tuyo y mi mal.\nDañar al otro es dañarte,\namar al otro es salvarte.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "unidad"
+  }
+}

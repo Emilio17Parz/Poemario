@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ella miraba el puerto cada tarde, sin falta,\nSabiendo que su amado volvería de la alta\nY cruel mar del sur, donde el tiempo es lento.\nTejió un pañuelo gris para calmar su tormento.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "espera"
+  }
+}

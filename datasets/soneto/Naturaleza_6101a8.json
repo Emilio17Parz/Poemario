@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se oscurece el cenit de repentina,\nel aire se hace denso y ominoso,\nel trueno rompe el silencio reposo\ny el rayo el horizonte ilumina.\n\nLa lluvia cae con fuerza divina,\nlavando el campo con su llanto acoso,\nun espectáculo grandioso\nque a la naturaleza disciplina.\n\nBaja el torrente sucio por la calle,\narrastrando las ramas y el olvido,\nhaciendo que el soberbio se acalle.\n\nPasada la furia y el estallido,\nrenace verde y fresco el valle,\ncomo si nada hubiera sucedido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "trueno"
+  }
+}

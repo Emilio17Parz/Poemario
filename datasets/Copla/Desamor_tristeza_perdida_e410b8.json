@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Solo cenizas ya quedan (a),\nde un amor sin un valor (b),\nlas manos que no ceden (c),\nal eterno y cruel dolor (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Ceniza"
+  }
+}

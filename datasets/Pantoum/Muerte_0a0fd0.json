@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cruzamos el último puente,\nhacia la otra orilla,\ndejando atrás la gente,\ny la simple silla.\n\nHacia la otra orilla,\nviaje sin retorno,\ny la simple silla,\nse queda de adorno.\n\nViaje sin retorno,\ndejando atrás la gente,\nse queda de adorno,\ncruzamos el último puente.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "puente"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Segunda muerte,\ncuando nadie nombra,\ntu pobre sombra,\nni tu suerte.\nLucho contra ti,\nrecordando aquí.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

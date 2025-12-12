@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Rozan tus labios la quietud del aire,\nbuscan mi boca con ardor sagrado,\ny en ese instante el corazón se para,\nenamorado.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "besos"
+  }
+}

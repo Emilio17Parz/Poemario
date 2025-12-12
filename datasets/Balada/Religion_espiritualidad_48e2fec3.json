@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Padre nuestro que estás arriba,\nmira a tus hijos con piedad,\nque tu palabra siempre viva,\nnos traiga luz y caridad.\nLíbranos de la maldad,\ny danos tu santa bondad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "oración"
+  }
+}

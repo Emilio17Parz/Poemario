@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Muros que contaron glorias,\nhoy son piedras en el suelo,\nbajo el mismo cielo,\nperdiendo sus memorias.\n\nTristes historias,\nsin consuelo,\nni vuelo,\nvanas euforias.\n\nUrbe desaparecida,\nherida de vida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

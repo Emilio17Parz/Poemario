@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Queda la vida en el arte,\nplasmada con gran fervor,\nque el artista comparte,\nlleno de luz y color.\n\nPlasmada con gran fervor,\nvence al tiempo y al olvido,\nlleno de luz y color,\nrecupera lo perdido.\n\nVence al tiempo y al olvido,\nqueda la vida en el arte,\nrecupera lo perdido,\nque el artista comparte.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "arte"
+  }
+}

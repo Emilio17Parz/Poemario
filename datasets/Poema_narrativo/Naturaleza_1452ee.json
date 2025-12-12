@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar sube y se calma, es un gran animal,\nQue a veces se enfurece con un grito fatal.\nTragó un viejo navío y devolvió un mensaje,\nProbando que la vida es solo un pasaje.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Te estiras la piel,\ncon tanto veneno,\nque ya no sonríes,\nni en lo más bueno.\nPareces muñeca,\nde cera y cartón,\nsin una arruga,\nni una expresión.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "botox"
+  }
+}

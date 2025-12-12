@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cofre enterrado en la isla lejana,\nque la codicia del hombre afana,\nlleno de joyas y doblones de oro,\nes el maldito y buscado tesoro.\nMuchos murieron por su resplandor,\nsin encontrar el ansiado valor,\nporque la dicha no está en el metal,\nsino en la vida sencilla y leal.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

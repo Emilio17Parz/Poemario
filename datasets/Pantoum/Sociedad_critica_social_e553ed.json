@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duerme el niño en el cartón,\nmientras pasa la opulencia.\nNadie brinda su atención,\nmuere lenta la conciencia.\n\nMientras pasa la opulencia,\nautos de lujo y cristal.\nMuere lenta la conciencia,\nante el cuadro desigual.\n\nAutos de lujo y cristal,\nnadie brinda su atención.\nAnte el cuadro desigual,\nduerme el niño en el cartón.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

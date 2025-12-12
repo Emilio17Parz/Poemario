@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "[EL PERDIDO]\n(En el centro del laberinto)\nHe llegado al centro y no hay tesoro, no hay Minotauro, solo paredes viejas.\n¿Y si el objetivo no era la salida, sino el hecho de seguir andando?\n¡Qué broma cruel! El camino es el castigo, la búsqueda es el premio.\nEl ser es esta agonía de no saber, pero seguir intentando.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

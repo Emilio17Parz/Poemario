@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Luz que se asoma,\nPura esencia y esplendor.\nViento al pasar,\nEl mundo se detiene,\nUn gozo en el mirar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

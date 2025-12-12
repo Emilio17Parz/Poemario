@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cuando sientas adentro un gran vacío,\nno lo llenes con ruido ni placeres;\nbusca en el fondo de lo que tú eres,\ny encauza nuevamente tu albedrío.\nEl vacío es espacio de creación,\npara llenarlo de una nueva ilusión.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

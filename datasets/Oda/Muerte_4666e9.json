@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Flor que yaces con dulce color,\nen el mármol duro, de frío total.\nOfrenda simple, de un gran amor,\nla vida que vence el golpe fatal.\n¡Oh, pétalo noble, de eterna verdad,\nme das la paz y la caridad!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo sublime,\nque redime.\nNos eleva,\ny nos lleva,\ny gime.\n\nSe oprime,\ny deprime.\nLa nueva,\nlo sublime.\n\nSe exime,\ny esgrime.\nLa cueva,\nque nieva,\nse imprime,\nlo sublime.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sublime"
+  }
+}

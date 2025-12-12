@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Errante voy por tierras extranjeras,\nllevando mi patria en el corazón,\ny la razón\nme dice que son vanas las quimeras.\nPero sigo adelante, peregrino,\nel camino\nhacia la verdad,\nbuscando mi perdida libertad.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "exilio"
+  }
+}

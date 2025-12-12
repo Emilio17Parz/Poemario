@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lloro mi pena,\nque me encadena.\n\nVivo en soledad,\nsin felicidad,\nes la realidad,\nde mi condena.\n\nLloro mi pena,\nque me encadena.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "pena"
+  }
+}

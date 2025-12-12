@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Promesa de otra vida,\ndonde no existe llanto ni dolor;\nsolo amor,\ntierra prometida.\nEl cielo espera al justo caminante,\nsiempre adelante.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

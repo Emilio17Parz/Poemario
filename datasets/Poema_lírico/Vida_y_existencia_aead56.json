@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Existir es un peso\nque no quiero cargar.\nEs el duro rezo\nsin poder amar.\n\nVivo sin un por qué,\nsin un signo vital,\nla única fe\ndel fin final.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "existir"
+  }
+}

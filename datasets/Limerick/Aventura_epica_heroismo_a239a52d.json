@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un campeón, con su espada brillante,\nFue a una gesta heroica, imponente.\nAl mal combatió,\nY el bien restauró,\nCon coraje valiente y pujante.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "espada"
+  }
+}

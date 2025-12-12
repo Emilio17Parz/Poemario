@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El alma voló,\ny el cuerpo dejó.\n\nLibre de pena,\ny de cadena,\ntan serena,\nse marchó.\n\nEl alma voló,\ny el cuerpo dejó.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "alma"
+  }
+}

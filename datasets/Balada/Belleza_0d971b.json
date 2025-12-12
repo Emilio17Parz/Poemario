@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Voz que se eleva y rompe el silencio,\nyo tu belleza y poder reverencio,\nnota que sube hasta el firmamento,\nllevando en ella todo el sentimiento.\nCanto de ave o de voz humana,\nque nos alegra por la mañana,\nes el sonido de la libertad,\ny de la pura y gran bondad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "canto"
+  }
+}

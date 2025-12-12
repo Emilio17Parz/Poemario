@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sigfrido mató al dragón,\ny se bañó en su sangre,\npara que no desangre,\nsu cuerpo de león.\nSolo una traición,\nen su espalda de enjambre,\nle trajo el calambre,\nde la perdición.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

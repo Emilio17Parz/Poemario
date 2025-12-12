@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Había dos nombres, el bien y el mal,\nElla puso su voto sin pensar en el fatal.\nLa elección es el peso que el pueblo se da,\nEl futuro es la suma de una voz al azar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "elección"
+  }
+}

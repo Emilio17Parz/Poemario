@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco la luz en la fe (a),\nla antorcha que guía sin fin (b),\nla vida sin un 'yo sé' (c),\nel eterno y puro jazmín (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

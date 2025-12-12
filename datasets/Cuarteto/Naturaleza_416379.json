@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuela la flor con alas de colores,\nefímera belleza en el jardín,\nbuscando el néctar dulce del jazmín,\nentre los mil y variados olores.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "mariposa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Donde hubo torres y murallas altas,\nhoy crecen zarzas y piedras sueltas,\nlas historias dan sus tristes vueltas,\nrecordando glorias y viejas faltas.\nYa no hay reyes, ni justas, ni maltas,\nlas voces del pueblo están disueltas,\ny las esperanzas yacen revueltas,\nentre las ruinas que tú asaltas.\nElegía a un imperio desvanecido,\nque creyó ser eterno y fuerte,\ny hoy es un nombre desconocido.\nLe llegó su hora y su suerte,\ny en el mapa ha sido perdido,\nabrazado por la fría muerte.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "reino"
+  }
+}

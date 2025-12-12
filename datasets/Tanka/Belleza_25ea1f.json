@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rojo, azul, verde\nel mundo se decora\nfiesta de luz.\nSin ti todo sería\nsombra triste y grisácea.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "color"
+  }
+}

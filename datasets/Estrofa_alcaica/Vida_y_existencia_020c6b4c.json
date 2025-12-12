@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cronos devora lo que sus hijos crean,\nmuros y torres el vendaval derrumba,\npor más que se peleen\ntodo termina en una tumba.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

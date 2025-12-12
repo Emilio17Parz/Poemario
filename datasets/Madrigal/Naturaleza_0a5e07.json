@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompe el cielo en un grito feroz,\nel rayo que quema con su gran poder.\nEl trueno es la terrible voz,\nque nos hace estremecer.\n\nEs la furia de lo elemental que choca,\ny que a la tierra convoca.\nLa naturaleza, dueña y señora,\nque al hombre y al mundo devora,\ny luego regresa a la calma.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "rayo"
+  }
+}

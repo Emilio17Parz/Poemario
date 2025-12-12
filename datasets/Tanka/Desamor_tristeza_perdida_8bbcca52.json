@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Amor que se fue,\ndejando un hueco en mi alma,\nya no hay calor.\nMi rostro empapa una lágrima,\npor lo que nunca vuelve.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

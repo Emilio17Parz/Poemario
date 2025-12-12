@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña se alza, de piedra y de fe (A),\nsu cumbre es de nieve, sin un final (B),\nel eterno y noble 'yo sé' (A).\n\nLa fuerza que ayuda a mi alma a volar (B),\nla vida es un reto, el gran fulgor (C),\nla forma de al fin sanar (B).\n\nNo hay más que buscar, no hay más valor (C),\nque el aire que rompe la tempestad (D),\nla esencia del puro amor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

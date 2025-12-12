@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nadie lo ha visto, al invisible viento,\npero todos sienten la fuerza del viento.\n\nEmpuja las nubes y dobla las ramas,\ngrita en la noche el salvaje viento.\n\nLleva palabras de un lado a otro,\nmensajero etéreo es el libre viento.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "viento"
+  }
+}

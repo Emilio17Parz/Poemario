@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Arden las velas en el salón,\nlloran las viudas su gran pesar,\nse oye el murmullo de la oración,\npidiendo al alma que pueda entrar\nal cielo santo y descansar,\ntras de la vida y su batallar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "velorio"
+  }
+}

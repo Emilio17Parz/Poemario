@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me dicen que he perdido la cabeza,\nque hablo con las sombras de tu nombre,\nque ya no soy aquel sensato hombre,\nsino un esclavo de tu gran belleza.\n\nNo entienden de esta mágica certeza,\nni saben del placer que me asombre,\nprefiero que mi mente se escombre\na vivir sin tu amor y tu pureza.\n\nBendita la locura que me ata,\na cada movimiento de tu falda,\na esa risa tuya que es de plata.\n\nQue digan lo que quieran a mi espalda,\ntu amor es la razón que me rescata,\ny pinta mi universo de esmeralda.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "locura"
+  }
+}

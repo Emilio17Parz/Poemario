@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bienvenida seas, Sombra piadosa,\nque cubres los ojos del que se va,\ntu manto negro consuelo da,\ny hace la partida silenciosa.\n\nReina del reino desconocido,\nguía los pasos en el umbral,\nhacia el juicio universal,\ndel espíritu ya partido.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "oscuridad"
+  }
+}

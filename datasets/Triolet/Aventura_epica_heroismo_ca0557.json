@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dragón,\nde fuego.\nLeón,\ndragón.\nEl juego,\ncampeón.\nDragón,\nde fuego.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La mayor batalla es contra uno mismo,\ncontra los miedos y las pasiones;\nvencer las propias limitaciones,\nes salir del más profundo abismo.\nConquista tu ira y tu ansiedad,\ny serás rey de tu voluntad.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

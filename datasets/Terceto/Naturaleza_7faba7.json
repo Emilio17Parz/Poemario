@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El árbol es vida, sus ramas al cielo van (A),\nsu sombra es refugio contra el dolor (A),\nel eterno y noble fanal (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Árbol"
+  }
+}

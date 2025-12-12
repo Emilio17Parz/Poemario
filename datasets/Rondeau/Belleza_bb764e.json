@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene el porte fino,\ncomo el vino,\nque camina,\ny domina,\nel destino.\n\nEl camino,\ny el pino,\nque adivina,\nTiene el porte.\n\nLa rutina,\ny la esquina,\ndel lino,\ny el molino,\ndivina,\nTiene el porte.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "porte"
+  }
+}

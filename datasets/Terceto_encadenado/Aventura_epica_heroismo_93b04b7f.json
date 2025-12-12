@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un grito de batalla en el confín,\nel héroe parte raudo, sin demora,\nbuscando un nuevo y glorioso trajín.\n\nLa senda incierta donde el sol se dora,\nsu espada brilla, faro de virtud,\nguiando el alma que el peligro añora.\n\nLuchando siempre con la rectitud,\nen cada golpe, la proeza ardía,\nforjando el alma de la multitud.\n\nNi sombras ni cadenas le ponía\nsu espíritu audaz, temple de acero,\nsu férreo pecho al mundo desafía.\n\nPor la justicia, bravo caballero,\nsu **honor** es guía, estandarte leal,\nun juramento que no fue postrero.\n\nTras cada gesta, no hay vuelta atrás,\nla leyenda crece con su paso,\nmarcando un rastro que es inmortal.\n\nVenciendo al tiempo en cada fracaso,\nsu nombre vibra en el etéreo azul,\nun eco eterno, que no tiene ocaso.\n\nLa gesta épica, un fulgor de luz.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "honor"
+  }
+}

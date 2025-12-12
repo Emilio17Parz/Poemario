@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche es el momento más cruel, cuando la armadura del día cae y quedo expuesto a la nostalgia.\nLa oscuridad magnifica tu falta y el silencio se llena de los ecos de tu voz que ya no está.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "noche"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Un gran secreto,\nmuy discreto,\nyo guardo,\ncomo un dardo,\nincompleto.\n\nEs mi reto,\ny mi objeto,\nque tardo,\nun gran secreto.\n\nCon respeto,\nyo lo meto,\nen el fardo,\ndel bardo,\ny lo aprieto,\nun gran secreto.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

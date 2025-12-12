@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque antiguo, oscuro y denso,\ndonde habitan los viejos dioses,\nse oyen extrañas y antiguas voces,\nen un silencio profundo e inmenso.\nÁrboles altos de tronco tenso,\nque han visto siglos y roces,\nguardan secretos precoces,\nen su laberinto suspenso.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

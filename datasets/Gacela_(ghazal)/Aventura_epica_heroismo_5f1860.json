@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Monta su corcel el caballero,\narmadura brilla en el caballero.\n\nSirve a su dama y a su señor,\nfiel y valiente es el caballero.\n\nLa lanza en ristre y el corazón,\nnoble figura, el caballero.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

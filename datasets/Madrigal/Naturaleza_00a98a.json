@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La roca es la fuerza que no se rinde,\nque soporta el tiempo y el agua sin dudar.\nEs la base que nos define,\ny en la que podemos descansar.\n\nEs el hueso de la antigua tierra,\nque nos ofrece paz y no guerra.\nSu silencio es más sabio que la voz,\nconfiando en el poder de Dios,\ny en la fuerza de la permanencia.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "roca"
+  }
+}

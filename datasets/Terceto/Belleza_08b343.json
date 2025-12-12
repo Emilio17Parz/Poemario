@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La voz cristalina del dulce canto fiel (A),\nque rompe el silencio con gran fulgor (A),\nla vida es un trago de dulce miel (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Voz"
+  }
+}

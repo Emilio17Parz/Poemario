@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "[EL RÍO]\nNací en la pureza de la cumbre, pero me habéis llenado de vuestro desecho.\nSoy el espejo que no miente: miro tu ciudad y la veo enferma, infectada.\nNo me pidas clemencia. Mi curso es mi destino. Y te prometo esto:\nTarde o temprano, os devolveré toda la suciedad que habéis arrojado en mí.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "río"
+  }
+}

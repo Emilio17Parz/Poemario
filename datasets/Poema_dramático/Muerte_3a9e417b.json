@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "SEPULTURERO: (Cavando) Otro hoyo más en la tierra dura.\nCRÁNEO: (Silencio)\nSEPULTURERO: Hoy eres hueso, ayer eras cura.\nO eras soldado, o dama, o ladrón.\nAquí todos caben en el cajón.\nLa tierra no juzga, solo devora.\nLlega el cortejo, ya es la hora.\nDescansa, amigo, en tu cama de arcilla.\nLa muerte es la única maravilla.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

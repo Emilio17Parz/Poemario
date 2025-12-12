@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nace el brote en la rama,\ncrece, florece y da fruto,\nluego viste de luto,\ny cae en la tierra cama.\n\nEs la vida que se inflama,\ny se apaga en espiral,\nun movimiento vital,\nque a todo ser reclama.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ciclo"
+  }
+}

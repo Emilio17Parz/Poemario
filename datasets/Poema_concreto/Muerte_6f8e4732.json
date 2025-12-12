@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "M U E R T E\n V A C Í O\n  S O L E D A D\n   S I L E N C I O\n    O S C U R I D A D\n     N A D A\n      F I N",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "fin"
+  }
+}

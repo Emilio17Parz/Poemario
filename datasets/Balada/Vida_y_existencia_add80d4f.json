@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tejen las parcas el hilo fino,\nde nuestra suerte y nuestro ser,\nunos nacieron para el vino,\notros nacieron para caer.\nEs el capricho del destino,\nque no podemos nunca entender.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Cabeza ungida, pastor de la grey,\nque llevas el peso de la justa ley!\nPadre del pueblo, señor soberano,\nque riges el mundo con firme mano.\n\n¡Gloria al monarca de noble linaje,\nque guía la nave en el largo viaje!\nSu trono se asienta en la rectitud,\ny es el espejo de la virtud.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "rey"
+  }
+}

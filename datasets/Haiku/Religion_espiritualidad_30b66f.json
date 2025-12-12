@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Signo de amor\nentrega sin medida\nsacrificio.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

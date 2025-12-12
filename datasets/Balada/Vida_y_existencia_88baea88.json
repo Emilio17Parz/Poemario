@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Muros que suben al sol,\npasillos que no tienen fin,\nperdiendo el propio control,\nen este extraño jardín.\nBuscamos el arrebol,\nguiados por el instinto,\ngirando cual caracol,\ndentro de este laberinto.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

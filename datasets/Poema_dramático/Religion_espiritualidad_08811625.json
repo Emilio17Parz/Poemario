@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "HOMBRE: ¡Dios mío! ¿Por qué me has abandonado?\nVOZ: Nunca me fui, siempre estuve a tu lado.\nHOMBRE: Sufrí el dolor y la cruel soledad.\nVOZ: Te cargué en brazos en la tempestad.\nNo busques milagros en el exterior,\nmira hacia dentro, ahí está mi amor.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "dios"
+  }
+}

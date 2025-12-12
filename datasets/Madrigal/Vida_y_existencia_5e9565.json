@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La puerta se abre un día,\ny hay que cruzarla sin mirar atrás;\nsi no te vas,\nla cobardía.\nLa ocasión vuela y no regresa más,\njamás.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "oportunidad"
+  }
+}

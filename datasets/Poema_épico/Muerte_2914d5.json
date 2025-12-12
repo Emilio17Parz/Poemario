@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Montaña de cráneos, muro de tibias,\ntodas las razas en una unión,\nya no hay disputas, ni guerras tibias,\nsolo silencio y comunión.\nEl osario enseña la gran igualdad,\nla única y cierta fraternidad.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Osario"
+  }
+}

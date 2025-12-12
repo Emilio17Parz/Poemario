@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canta la musa,\nsin excusa,\nversos de miel,\nen el papel,\nconfusa.\n\nNo rehúsa,\ncanta la musa.\n\nEs la intrusa,\nque usa,\nel pincel,\ny la piel,\ndifusa.\nCanta la musa.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "musa"
+  }
+}

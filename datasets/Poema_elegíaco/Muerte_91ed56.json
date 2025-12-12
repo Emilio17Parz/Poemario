@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El hueso es la forma que queda del ser que fuiste tú,\nla vida sin la calma, sin ninguna luz.\nEl osario es el templo donde el cuerpo descansa,\nla sombra constante sin ninguna remansa.\n\nMe aísla el silencio, me rompe la paz,\nla vida sin la calma, sin ser capaz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "osario"
+  }
+}

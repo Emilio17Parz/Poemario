@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hay una magia cuando estamos juntos,\nque no se puede con razón narrar,\ny borra todos los demás asuntos.\n\nUnimos nuestros dos contrapuntos,\nen una melodía singular,\nhay una magia cuando estamos juntos.\n\nSe mueren los dolores ya difuntos,\ny solo queda el gozo de amar,\ny borra todos los demás asuntos.\n\nLlegamos a los más altos puntos,\ndel sentimiento que nos hace dar,\nhay una magia cuando estamos juntos.\n\nCon lazos que no son ni serán yuntos,\npor fuerza, sino por el bienestar,\ny borra todos los demás asuntos.\n\nSomos felices, libres y presuntos,\ndueños del tiempo y de su caminar,\nhay una magia cuando estamos juntos,\ny borra todos los demás asuntos.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "magia"
+  }
+}

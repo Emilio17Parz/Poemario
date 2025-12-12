@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se alza la cumbre tocando la nube,\ngigante de piedra y majestad,\ndonde el alma del hombre sube y sube.\n\nDesde lo alto el mundo se mantuve,\npequeño ante tanta inmensidad,\nse alza la cumbre tocando la nube.\n\nNieves eternas que el sol no anduve,\ncoronan su blanca soledad,\ndonde el alma del hombre sube y sube.\n\nFirmeza que el tiempo no detuve,\ntestigo de toda la edad,\nse alza la cumbre tocando la nube.\n\nGuarda secretos que nadie supo,\nen su rocosa y fría oquedad,\ndonde el alma del hombre sube y sube.\n\nReina del valle que siempre obtuve,\nel respeto de la humanidad,\nse alza la cumbre tocando la nube,\ndonde el alma del hombre sube y sube.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

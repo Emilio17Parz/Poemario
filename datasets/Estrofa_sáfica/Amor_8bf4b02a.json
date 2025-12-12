@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ya no es el cuerpo quien amor reclama,\nes el espíritu que a ti se une,\ny en ese lazo de virtud perfecta\nnada es impune.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "alma"
+  }
+}

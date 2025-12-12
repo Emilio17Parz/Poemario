@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Silencio eterno,\nAliento final se va,\nLuego viene el fin.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "fin"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sigue cuando todos paran,\navanza cuando duele,\nque tus ojos declaran,\nque el alma huele,\nel triunfo cercano,\ntras el esfuerzo humano.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Perseverancia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hay un gran vacío\ndonde antes estaba tu voz,\ny tu cuerpo cálido.\nUn hueco que el tiempo, ay,\nno consigue nunca llenar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Vacio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurra el viento entre las ramas,\ncontando cuentos de la antigüedad,\nmientras tú en el musgo te derramas.\n\nVerdes y oscuras son las camas,\ndonde descansa la soledad,\nsusurra el viento entre las ramas.\n\nSi con silencio al bosque llamas,\nte mostrará su majestad,\nmientras tú en el musgo te derramas.\n\nLuces doradas y flamas,\nfiltran el sol con claridad,\nsusurra el viento entre las ramas.\n\nLejos de ruidos y de famas,\nvive la paz y la verdad,\nmientras tú en el musgo te derramas.\n\nAquí no existen los dramas,\nsolo la vida y su bondad,\nsusurra el viento entre las ramas,\nmientras tú en el musgo te derramas.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

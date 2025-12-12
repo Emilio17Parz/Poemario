@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Respiró hondo el aire de la montaña pura,\nSintió que la vida volvía a su altura.\nEl aire es la esencia, invisible y sin voz,\nLa belleza del aliento, que nos da Dios.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "aire"
+  }
+}

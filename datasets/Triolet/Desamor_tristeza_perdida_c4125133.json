@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento un inmenso frío\nen esta soledad,\ncomo agua de un río.\nSiento un inmenso frío,\ntodo es un vacío\nsin tu felicidad.\nSiento un inmenso frío\nen esta soledad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "frío"
+  }
+}

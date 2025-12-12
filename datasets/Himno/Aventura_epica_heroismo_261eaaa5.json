@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "¡Oh, espíritu que enciende la voluntad,\nAl alma errante llama a la libertad!\nDesde las cumbres, al abismo sin fin,\nEl héroe forja su glorioso destino.\n\nPor sendas vírgenes, bajo sol y aguacero,\nCamina el bravo, su corazón de acero.\nDesafíos mil se alzan con furor,\nMas no doblegan su valiente honor.\n\nY cuando la sombra más densa se cierne,\nDonde el miedo en sus garras se interne,\nSurge la bestia de aliento voraz,\nUn fiero **dragón**, un mal pertinaz.\n\nNo tiembla su mano, no vacila su voz,\nEmpuña la espada, ignora el pavor.\nCon temple indomable, con fiero valor,\nConfronta la furia, al vasto terror.\n\n¡Oh, gloria que asciende, cual llama triunfal!\nLa gesta grabada, inmortal, eternal.\nEl eco resuena de hazañas sin par,\nEl alma del héroe siempre ha de brillar.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

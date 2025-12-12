@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ciega confianza en la promesa santa,\naunque la noche cubra el horizonte,\ncreo en la luz que brilla sobre el monte,\nguía segura.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "fe"
+  }
+}

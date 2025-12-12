@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se hace al andar el propio camino,\nsin mapas que nos digan dónde ir,\nforjando con las manos el destino.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "camino"
+  }
+}

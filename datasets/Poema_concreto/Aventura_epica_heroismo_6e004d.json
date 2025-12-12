@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "       |\n     CAPITAN\n(N A V E G A)",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "capitán"
+  }
+}

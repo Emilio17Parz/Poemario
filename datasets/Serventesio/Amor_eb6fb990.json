@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la dueña de mi propia alma,\nla que ilumina mi oscuro sendero,\ntú me devuelves la perdida calma,\ny eres la estrella que yo más quiero.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "alma"
+  }
+}

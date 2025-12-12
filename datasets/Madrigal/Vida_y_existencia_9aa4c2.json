@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Preguntas sin respuesta,\n¿por qué existimos bajo este cielo?;\ncausa desvelo,\ntan dura cuesta.\nLa duda es sombra que siempre acompaña,\ny nos engaña.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "duda"
+  }
+}

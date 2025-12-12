@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida surge, un soplo, luz fugaz,\nDespierta el alma en un misterio hondo,\nMirando el mundo desde un claro fondo,\nBuscando un eco en lo que deja atrás.\n\nEl río fluye sin dudar quizás,\nY en cada instante el ser se va tejiendo,\nUn hilo frágil que se va extendiendo,\nMarcando huellas que no vuelven jamás.\n\nMas ¿qué es vivir si el **tiempo** nos devora,\nSi el ser efímero no puede escapar?\n¿Un sueño acaso, un breve despertar?\n\nLa esencia pura que en el alma mora,\nQue intenta en cada instante perdurar,\nLa luz que alumbra sin pedir demora.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

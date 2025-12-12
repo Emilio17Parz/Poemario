@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La voz de la sirena\ntan hermosa,\nes una melodía\nprodigiosa.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "canto"
+  }
+}

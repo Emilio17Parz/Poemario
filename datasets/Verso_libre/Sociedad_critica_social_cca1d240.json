@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mares de plástico, islas de basura.\nHemos envuelto el mundo en celofán.\nAsfixiamos a la tortuga y al pez.\nNuestro legado será eterno:\nbotellas que no se degradan,\nla huella tóxica\nde una especie que no supo amar su casa.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "plástico"
+  }
+}

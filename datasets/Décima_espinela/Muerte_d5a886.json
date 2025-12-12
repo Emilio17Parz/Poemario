@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Tierra me espera lenta, (A)\ncon su sombra y quietud, (B)\nmi alma ya sin virtud (B)\nen el frío me aumenta. (A)\nMi vida ya se lamenta, (A)\nante el silencio fatal, (C)\nmi destino ya sin par (C)\nme conduce a la nada hoy, (D)\ny mi alma ya sin goy, (D)\nen un camino final. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Tierra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Grita en la esquina,\nel fin del mundo,\ncon un cartel sucio,\ny olor nauseabundo.\nNadie le hace caso,\nal pobre profeta,\nque pide monedas,\npara su dieta.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "profeta"
+  }
+}

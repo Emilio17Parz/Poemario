@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[EL COMPOSITOR]\n(Golpeando el piano)\n¡Las notas se escapan! ¡La sinfonía es más grande que mi mano temblorosa!\nLa música es una jaula de números y silencio, y yo no logro domarla.\nMe quema el oído con su perfección. Si no la escribo, me vuelvo loco.\nLa belleza no es un regalo; es una maldición que me obliga a crear.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "música"
+  }
+}

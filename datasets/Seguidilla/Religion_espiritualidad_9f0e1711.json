@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Mi espíritu se eleva\nen oración,\ncamino hacia el templo\ncon mi ilusión.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "templo"
+  }
+}

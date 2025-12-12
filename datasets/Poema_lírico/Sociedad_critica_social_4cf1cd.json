@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La conciencia está en luto,\nel alma no está en paz.\nEl cruel absoluto\nsin ser capaz.\n\nNos venden la calma,\npero el dolor está,\nla única arma\nque el alma me da.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

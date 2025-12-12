@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Y si todo esto no fuera real?\n¿Si fuéramos personajes en el sueño de otro?\nVivimos con tanta intensidad,\nlloramos y reímos,\npero a veces la realidad parece niebla.\nQuizás despertar sea morir,\no quizás vivir sea solo\nla forma más larga de soñar.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Eres la musa soñada,\nla belleza hecha mujer,\nun divino amanecer\nen mi vida desolada.\nTu sonrisa dibujada\nes la luz de mi existir,\ny por ti quiero vivir\nadmirando tu encanto,\nque calma mi triste llanto\ny me impide morir.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "musa"
+  }
+}

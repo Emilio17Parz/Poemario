@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro el cristal y veo a un extraño,\ncon ojos cansados de mirar,\ny esperar,\nlo que no llega con el paso del año.\n¿Quién soy yo tras la piel y el hueso?\nen el proceso,\nde descubrir mi propia verdad,\ncon humildad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "reflejo"
+  }
+}

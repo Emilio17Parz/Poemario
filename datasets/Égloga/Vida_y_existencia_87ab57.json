@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gracias doy a la tierra,\npor el fruto y la flor,\npor el agua y el color,\nque este valle encierra.\n\nMi corazón se aferra,\na la dicha de existir,\ny poder percibir,\nla paz que el odio destierra.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "gratitud"
+  }
+}

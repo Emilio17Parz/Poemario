@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Estrella de sal marina",
   "poema": {
     "texto": "Estrella de mar, sal brilla,\nLuz en oscuro, guía mía.\nFlecha en el cielo arriesga.",

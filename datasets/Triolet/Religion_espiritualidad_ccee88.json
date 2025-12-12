@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Luz divina,\nque guía.\nIlumina,\nluz divina.\nNoche y día,\ncamina.\nLuz divina,\nque guía.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "luz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Breve centella que cruza la historia,\nmomento fugaz de pena o de gloria!\nEl ayer ya fue y el mañana no es,\nsolo el hoy existe bajo nuestros pies.\n\n¡Cantad al instante, regalo divino,\npunto donde cruza nuestro destino!\nVivir el ahora con intensidad,\nes la llave de la felicidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "instante"
+  }
+}

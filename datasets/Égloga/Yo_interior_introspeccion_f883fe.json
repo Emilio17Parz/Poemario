@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Qué sueña el pastor despierto?\nSer ave, ser nube,\nque sube,\nal puerto.\n\nDejar el huerto,\ny volar,\nsin parar,\nal acierto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "PENSAR\n         SENTIR\n        BUSCAR\n       ADENTRO\n      SILENCIO\n     ESENCIA DE\n    MI  PROPIO\n       YO\n     IDENTIDAD",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

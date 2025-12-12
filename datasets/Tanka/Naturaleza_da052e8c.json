@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae del cielo,\nel agua transparente\nlimpia el camino.\nLa tierra agradecida\nrespira su frescor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

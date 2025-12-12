@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Rueda la fortuna, ciega y variable,\ny hoy eleva al que ayer abatió,\nmas no se dio\npoder sobre el alma inquebrantable.\nSé firme como roca en la marea,\nque pelea\ncontra el vendaval,\ny saldrás ileso de todo mal.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "fortuna"
+  }
+}

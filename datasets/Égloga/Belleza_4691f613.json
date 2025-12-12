@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo guarda proporción,\nen el campo y la flor,\nel color y el olor,\nen perfecta unión.\nEs la gran lección,\ndel divino Autor,\nque puso con amor,\norden en la creación.\nLa belleza es medida,\njusta y decidida,\nen la propia vida.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "orden"
+  }
+}

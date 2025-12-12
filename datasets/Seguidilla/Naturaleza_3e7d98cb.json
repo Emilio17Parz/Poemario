@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La sierra, altiva, mira\nal campo en flor,\ny el amplio azul del mar\ncon su rumor.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "mar"
+  }
+}

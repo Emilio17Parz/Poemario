@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida surge, un soplo misterioso,\ndel fondo inaudito, un nacer terrenal,\nimpulso primero, caudal prodigioso.\n\nEn cada paso, un rastro existencial,\nla tela se urde con hilos del viento,\ntrazando la ruta del propio destino fatal.\n\nEntre el querer y el puro acaecimiento,\nel alma navega, en vasta travesía,\nmidiendo la sombra de cada momento.\n\nLa frágil conciencia, fugaz melodía,\npregunta al vacío, sin voz que responda,\nqué fin o qué causa su ser justificaría.\n\nUn mar de sentidos que el ser desborda.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "destino"
+  }
+}

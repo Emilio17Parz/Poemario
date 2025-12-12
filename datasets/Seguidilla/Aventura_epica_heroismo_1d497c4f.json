@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No le importa la fama\nni la gran gloria,\nsolo quedar grabado\nen la memoria.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

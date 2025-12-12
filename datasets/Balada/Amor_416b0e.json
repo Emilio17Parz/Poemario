@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi corazón late sin un error (a),\nel ritmo es eterno, sin un final (b),\nmi alma se llena de puro fulgor (a),\nsin sombra que cubra mi noble fanal (b),\ntu amor es la clave de todo valor (b),\ny la fe que me ayuda a seguir sin mal (c),\nla vida es un sueño, el gran amor (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, el alma que está (c'),\nes la fuerza que nunca se va (c'),\nla vida que al fin se da (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Corazón"
+  }
+}

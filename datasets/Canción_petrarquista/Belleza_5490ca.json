@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Reina del prado verde,\nvestida de carmín y de rocío;\ntodo el brío\ndel sol se pierde\nante vuestra fragancia delicada;\nflor adorada,\nque en breve tiempo expira,\nmas deja eterno amor en quien la mira.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi alma está presa (7a),\nsin un querer (5b),\nla vida es torpeza (7c),\nsin vencer (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Prisión"
+  }
+}

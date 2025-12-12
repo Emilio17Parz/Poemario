@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El adiós sin palabras, la ausencia de luz (A),\nel alma se escapa, sin volver más (A),\nel peso de la dura cruz (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

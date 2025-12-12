@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El eco frío de un amor que fue morada,\nResuena en el vacío de mi desolación,\nUn jardín de antaño, hoy yermo y sin almohada,\nDonde el gemido es ya mi única oración.\n\nRecuerdo el brillo de tu luz, pasión serena,\nEl universo entero en tu mirada azul,\nLa fe que desafiaba cualquier pena,\nY el suave abrigo de tu amor, mi dulce tul.\n\nMas la cruel guadaña del tiempo, sin aviso,\nCortó la flor más pura de mi corazón,\nUn viento amargo destruyó aquel paraíso,\nDictado por el yugo de un fatal **destino**.\n\nHoy llevo a cuestas la ausencia que me habita,\nLa cicatriz profunda que jamás sanó,\nTu nombre, un rezo que la memoria recita,\nEl dulce veneno que mi alma conoció.\n\nY así me quedo, en este luto sin final,\nCustodio fiel del rastro de tu fugaz esplendor,\nEl amor perdido, eterno y espectral,\nMi pena más amada, mi sagrado dolor.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "destino"
+  }
+}

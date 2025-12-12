@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Eres solo una pálida sombra,\nque recorre mi habitación,\nmi memoria con pena te nombra,\nrecordando la vieja pasión.\n\nQue recorre mi habitación,\nun fantasma del tiempo pasado,\nrecordando la vieja pasión,\nde un amor que ya está terminado.\n\nUn fantasma del tiempo pasado,\neres solo una pálida sombra,\nde un amor que ya está terminado,\nmi memoria con pena te nombra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

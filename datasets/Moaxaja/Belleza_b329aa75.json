@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Bello es tu rostro,\nante el que me postro.\n\nLuz de la luna,\ncomo ninguna,\nblanca fortuna,\ndel calostro.\n\nBello es tu rostro,\nante el que me postro.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

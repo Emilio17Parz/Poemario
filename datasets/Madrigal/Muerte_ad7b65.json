@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Negro color que viste,\nel alma de quien llora la partida;\nsangrante la herida,\ntan triste.\nLa ausencia se hace grande en el hogar,\nsin consolar.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "luto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El miedo estará ahí,\npero tú avanza,\ndi 'sí' y di 'ahí',\ncon esperanza.\nSer valiente es actuar,\nsin dejar de temblar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Coraje"
+  }
+}

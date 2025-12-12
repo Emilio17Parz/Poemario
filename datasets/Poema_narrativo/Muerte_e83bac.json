@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Hallaron una carta bajo la almohada gris,\nDonde él decía adiós a su país.\n'No me busquéis más', era su despedida,\nLa vida se hizo lenta, y la muerte es ida.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "carta"
+  }
+}

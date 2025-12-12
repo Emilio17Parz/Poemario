@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajaste del Olimpo a mi cuaderno,\ntrayendo la palabra y la armonía,\nllenando de color mi poesía,\nsacándome del gris y del invierno.\n\nTu rostro es el poema sempiterno,\nla rima que mi mente perseguía,\nla fuente de inagotable alegría\nque salva mi espíritu del infierno.\n\nEscribo porque existes y me inspiras,\nporque eres el motor de mi intelecto,\nla cuerda vibrante de mis liras.\n\nNo busco ser genial ni ser perfecto,\ntan solo retratar lo que tú miras\ny hacer de nuestro amor un gran proyecto.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "musa"
+  }
+}

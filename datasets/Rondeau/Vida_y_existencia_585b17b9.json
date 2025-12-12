@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Vivir es un andar por sendas sin par,\nUn constante buscar, un rumbo que trazar,\nLa tenue luz de nuestra existencia,\nUn soplo de vital elocuencia,\nQue nos impulsa a seguir y a amar.\n\nPodríamos dudar, quizá flaquear,\nMas hay que continuar, sin nunca claudicar,\nContra la oscura y fría inclemencia,\nVivir es un andar.\n\nEn cada tropezar, un nuevo despertar,\nUn vasto laberinto que hay que explorar,\nCon alma y con inmensa paciencia,\nHallamos nuestra propia conciencia,\nUn mapa singular que nos permite soñar,\nVivir es un andar.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

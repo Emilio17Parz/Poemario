@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Puerta se cierra lenta, (A)\nme deja ya sin calor, (B)\nmi vida ya sin fulgor, (B)\ny mi alma ya se lamenta. (A)\nMi corazón no se tienta, (A)\nde tristeza y de dolor, (C)\nya no siento el fulgor, (C)\nde tu mano sin final, (D)\nen mi camino fatal, (D)\nme queda solo el horror. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Puerta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Navego en tus ojos de mar profundo,\nbuscando el puerto de tu corazón,\neres el centro de todo mi mundo.\n\nEn tu mirada feliz me hundo,\nperdiendo el norte y también la razón,\nnavego en tus ojos de mar profundo.\n\nCada segundo se vuelve fecundo,\nsi me regalas tu dulce ilusión,\neres el centro de todo mi mundo.\n\nSoy vagabundo y soy moribundo,\nsi me faltara tu gran compasión,\nnavego en tus ojos de mar profundo.\n\nEste cariño que en mí yo fundo,\nes mi bandera y mi única acción,\neres el centro de todo mi mundo.\n\nNo soy viajero ni soy iracundo,\nsolo un amante en su devoción,\nnavego en tus ojos de mar profundo,\neres el centro de todo mi mundo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Guía en la tiniebla,\nclaridad que disipa el temor;\ndivino amor,\nque despuebla\nla oscuridad que ciega la razón,\ny el corazón.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "luz"
+  }
+}

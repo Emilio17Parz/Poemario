@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Oh, sacro honor, virtud suprema!\nQue vales más que el oro y la vida,\nenseña noble, jamás rendida,\nque en el escudo es el lema.\nGuía del hombre recto y cabal,\nque vence siempre a todo mal.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "honor"
+  }
+}

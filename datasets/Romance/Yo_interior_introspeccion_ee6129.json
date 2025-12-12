@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me gusta estar conmigo\nsin ruidos ni compaña,\npara escuchar mis adentros\nsin ninguna artimaña.\nLa soledad es amiga\nque nunca me engaña,\ny me enseña quién soy yo\nen mi propia cabaña.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

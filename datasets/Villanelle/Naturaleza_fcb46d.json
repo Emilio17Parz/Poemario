@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Arena y silencio eterno,\ndonde el sol nunca perdona,\ny se siente el infierno.\n\nNo hay ni un tierno,\nbrote en la zona,\narena y silencio eterno.\n\nEs el gobierno,\nde la corona,\ny se siente el infierno.\n\nSolo el cuaderno,\ndel que razona,\narena y silencio eterno.\n\nNi en invierno,\nel agua asoma,\ny se siente el infierno.\n\nEs el moderno,\nmundo que desploma,\narena y silencio eterno,\ny se siente el infierno.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

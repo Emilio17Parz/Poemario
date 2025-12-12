@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Viejo papel con las rutas marcadas,\npor manos muertas ya dibujadas,\nseñala el norte y el rumbo a seguir,\npara el que quiera el mundo medir.\nMontes y ríos y mares profundos,\nson los secretos de aquestos mundos,\nque el mapa guarda con celo y misterio,\npara el viajero y su ministerio.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

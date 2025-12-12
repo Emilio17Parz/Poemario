@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Guarda la piedra el nombre,\nde quien vivió y amó,\nel destino de todo hombre,\nque el tiempo ya borró.\n\nDe quien vivió y amó,\nsolo queda el silencio,\nque el tiempo ya borró,\nen este frío palacio.\n\nSolo queda el silencio,\nel destino de todo hombre,\nen este frío palacio,\nguarda la piedra el nombre.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

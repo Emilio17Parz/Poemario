@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Callar el ruido del mundo afuera,\npara escuchar la voz de adentro,\nla verdad que paciente espera,\nen el sagrado y puro centro.\nEn el silencio se halla la clave,\nque abre del alma la suave nave.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

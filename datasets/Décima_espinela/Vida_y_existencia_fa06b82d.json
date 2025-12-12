@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un gran regalo\nque se nos da al nacer,\nun tiempo para aprender\nentre lo bueno y lo malo.\nA veces es un varalo\nque nos golpea con fuerza,\npero aunque el rumbo se tuerza\nsiempre sale un nuevo sol,\nque nos brinda su arrebol\npara que el alma se ejerza.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "regalo"
+  }
+}

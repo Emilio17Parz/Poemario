@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verdes prados, agua clara,\ncielo azul y blanca nube.\nMi espíritu sube\nante vista tan rara.\nSi el tiempo parara,\njamás me detuve.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "prados"
+  }
+}

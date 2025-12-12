@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El niño estiró la mano, pidiendo un mendrugo,\nLa gente pasaba rápido, huyendo del tugurio.\nEl hambre era la sombra, el castigo sin fin,\nEl grito del cuerpo sin ningún festín.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

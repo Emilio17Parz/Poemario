@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Cuando el mundo se calla y el sol su velo inclina,\nuna sed de lo hondo mi espíritu domina.\nBusco el eco de un nombre que en silencio me espera,\nla verdad que me habita, mi esencia verdadera.\n\nDesciendo por veredas que solo yo conozco,\ndonde el ayer y el hoy en un cauce se mezclan.\nSin mapas ni brújulas, con solo la intuición,\ndesnudo el pensamiento, abro mi corazón.\n\nEn la estancia callada donde mi ser reside,\nla **mente**, espejo etéreo, con su luz me preside.\nDesentraña los nudos de un destino incierto,\ny en su claro cristal mi yo se desenmascara.\n\nAhí hallo los abismos, las cumbres que me forman,\nlas voces de lo antiguo que en mi sangre se asoman.\nEl dolor y la dicha, el miedo y la pasión,\ncada fibra que teje mi compleja razón.\n\nNo es viaje que termine ni meta que se alcance,\nes río que fluye, perpetuo y en trance.\nCon cada zambullida, me siento más entero,\nun alma que se busca en su propio derrotero.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "mente"
+  }
+}

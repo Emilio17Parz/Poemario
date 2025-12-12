@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Tú eres quien envía las fuentes por los valles; van entre los montes, dan de beber a todas las bestias del campo.\nA sus orillas habitan las aves de los cielos; cantan entre las ramas, bebiendo del agua que tú provees.\nEl agua que yo le daré será en él una fuente de agua que salte para vida eterna, río de agua viva.\nBendito el árbol plantado junto a corrientes de aguas, que da su fruto en su tiempo, y su hoja no cae.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "agua"
+  }
+}

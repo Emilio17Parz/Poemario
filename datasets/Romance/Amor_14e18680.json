@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde el pecho desbocado\npor la fuerza de este amor,\nque no entiende de medidas\nni de pausa el corazón.\nEs un río desbordado,\nes un grito de pasión,\nque me arrastra a la locura\nsin pedirme la razón.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

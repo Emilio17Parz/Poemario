@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Unión de almas en la boca,\npuente de fuego y deseo,\ndonde yo solo te veo,\ny la pasión se desboca.\nBeso que el tiempo detiene,\ny en mi recuerdo se sostiene.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "beso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Inmenso vacío en el corazón,\ndonde antes latía la esperanza,\nse ha roto la fiel balanza,\ny he perdido la razón.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

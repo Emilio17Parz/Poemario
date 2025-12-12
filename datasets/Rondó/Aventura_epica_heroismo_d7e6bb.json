@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fiel amigo,\nen la lucha,\nque escucha,\nel castigo.\nEl abrigo,\nde la ducha.\nFiel amigo.\n\nEspalda cubierta,\ncon honor,\nel valor,\nalerta.\nLa puerta,\ndel amor.\nFiel amigo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "amigo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "La Jaula de los Bienes\n\nEn esta era de brillo, de cristal y de red,\ndonde la imagen impuesta es la única merced,\npulimos el perfil, la sonrisa de catálogo,\nmientras el espíritu sufre un mudo monólogo.\n\nConsumimos el ser, dictado por la valla,\ncorriendo sin descanso en la perenne batalla.\nTrabajamos cual topos, por el lujo insulso,\ncreyendo que en la tarjeta reside nuestro pulso.\n\nSe vocifera al viento, con fervor y con saña:\n\"¡Libertad!\" cual lema de dorada campaña.\nMas es solo la elección de la cadena, la talla,\nde cambiar de amo, no de romper la muralla.\n\nY así, dichosos y ciegos, danzamos en el rito,\ncreyendo que lo nuevo es siempre el paraíso bendito.\nLa rueda sigue girando, nos jactamos de ser sabios,\nmientras la verdad se ahoga en nuestros propios agravios.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

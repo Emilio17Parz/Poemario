@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Miramos pantalla,\ny no al compañero,\nla voz se calla.\n\nEn el agujero,\nde la red virtual,\nperdemos el sendero.\n\nDe lo real.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "tecnología"
+  }
+}

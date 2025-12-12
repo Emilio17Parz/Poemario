@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuento las horas,\npara volver a verte,\nlento reloj.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

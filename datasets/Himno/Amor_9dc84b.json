@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tejemos juntos un manto de estrellas,\nborrando del mundo las tristes huellas.\n¡Loado sea el sueño que juntos creamos!,\nel futuro brillante al que caminamos.\n\nNo es vana quimera, es plan celestial,\nconstruir un reino que no tenga final.\nUnidos en mente, en alma y acción,\ncantemos el himno de nuestra ilusión.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

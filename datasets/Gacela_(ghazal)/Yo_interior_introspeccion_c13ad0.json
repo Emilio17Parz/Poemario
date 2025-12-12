@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro mi rostro en el claro espejo,\nbusco mi ser en el claro espejo.\n\nVeo a un extraño que me mira igual,\nno reconozco la imagen del espejo.\n\n¿Soy el que mira o el que es mirado?,\nduda infinita frente al espejo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

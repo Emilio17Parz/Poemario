@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Miro el paisaje,\ndesde la cima,\nes un viaje,\nque me anima.\n\nDesde la cima,\nveo el color,\nque me anima,\ncon su amor.\n\nVeo el color,\nmiro el paisaje,\ncon su amor,\nes un viaje.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

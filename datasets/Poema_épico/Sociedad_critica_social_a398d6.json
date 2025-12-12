@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Fantasma flaco que recorre el mundo,\nmientras se tiran los banquetes,\ndolor agudo y profundo,\nque no entienden los alcahuetes.\nVergüenza de la humanidad entera,\nque deja morir a quien espera.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Hambre"
+  }
+}

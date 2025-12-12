@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cisne blanco,\nelegante.\nCaminante,\ndel banco.\n\nNo soy manco,\nni farsante.\nCisne blanco,\nelegante.\n\nSoy franco,\ny constante.\nAmante,\ndel flanco.\nCisne blanco.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "cisne"
+  }
+}

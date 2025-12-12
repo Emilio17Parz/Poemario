@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Invisible viajero sin frontera,\nque agitas las copas y las mieses,\nque recorres todos los países\ncon tu fuerza libre y ligera.\n\nA veces suave brisa en primavera,\notras vendaval de tonos grises,\nborrando del suelo los matices\ny arrastrando lo que ya no espera.\n\nNadie sabe de dónde has venido,\nni a dónde vas en tu eterno andar,\nsolo sentimos tu soplido.\n\nEres el aliento del lugar,\nel espíritu nunca vencido\nque nos enseña a respirar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "brisa"
+  }
+}

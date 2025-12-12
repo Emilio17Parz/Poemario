@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte sublima,\nla realidad,\ncon su verdad,\nque nos anima.\nLlega a la cima,\nde la deidad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "arte"
+  }
+}

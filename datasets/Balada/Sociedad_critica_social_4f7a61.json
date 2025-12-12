@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Palabras huecas en el balcón,\npara ganar la elección,\npero los hechos nunca se ven,\ny todo sigue en el vaivén.\nPromesas rotas al despertar,\ny el pueblo vuelve a trabajar,\npara pagar el gran festín,\nde los que mandan hasta el fin.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "política"
+  }
+}

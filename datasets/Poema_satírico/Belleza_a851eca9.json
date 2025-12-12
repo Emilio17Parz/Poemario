@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Te tiñes de tal color,\nque causas un gran dolor.\nNaranja como butano,\n¿te crees muy lozano?\nPareces una zanahoria,\ncon aires de gran euforia.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "color"
+  }
+}

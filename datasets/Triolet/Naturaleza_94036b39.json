@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento ligero\nentre las hojas verdes,\ncomo un mensajero.\nSopla el viento ligero,\nes un gran viajero\nque nunca pierdes.\nSopla el viento ligero\nentre las hojas verdes.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "viento"
+  }
+}

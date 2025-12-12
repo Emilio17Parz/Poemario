@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El perdón es la llave que abre el duro cielo (A),\nla puerta a la gracia, el gran poder (B),\nrompe la pena, quita el negro velo (A),\ny nos ayuda a renacer (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Perdón"
+  }
+}

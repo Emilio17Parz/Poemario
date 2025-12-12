@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Leónidas y los trescientos,\nen las Termópilas,\npararon las filas,\nde persas violentos.\nSus últimos alientos,\nvalieron por vilas,\ny por las pupilas,\nde los vientos.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "defensa"
+  }
+}

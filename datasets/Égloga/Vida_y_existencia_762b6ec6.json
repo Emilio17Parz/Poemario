@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ya el fruto pesa en la rama,\ny el sol no quema, madura,\nes la edad de la cordura,\nque a la reflexión nos llama.\nYa no es fuego, sino llama,\nconstante, firme y segura,\nque busca en la agricultura,\nla paz que el alma reclama.\nRecoged el trigo dorado,\nfruto del tiempo pasado,\ny del esfuerzo empleado.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cosecha"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Navego en la tormenta,\ncon el barco crujiendo,\ny sigo creyendo,\nque la calma se sienta.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

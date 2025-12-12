@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Batalla de cada día,\nlevantarse y resistir.\nCon o sin alegría,\ntenemos que seguir.\n\nLevantarse y resistir,\ngolpes que la vida da.\nTenemos que seguir,\naunque el sol se va.\n\nGolpes que la vida da,\ncon o sin alegría.\nAunque el sol se va,\nbatalla de cada día.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

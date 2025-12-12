@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "L legaste para borrar las sombras,\nU n destello en mi oscuridad,\nZ afiro que brilla en mi pecho.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "luz"
+  }
+}

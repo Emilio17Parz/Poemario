@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Invisible fuerza que todo lo mueve,\nque arrastra las hojas y empuja la nube,\nque a veces es furia y a veces es leve,\ny hasta la cumbre más alta se sube.\nNadie te ha visto pero te sentimos,\nrozando la cara o agitando el mar,\neres el aliento con que vivimos,\ny el susurro eterno de nuestro soñar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "viento"
+  }
+}

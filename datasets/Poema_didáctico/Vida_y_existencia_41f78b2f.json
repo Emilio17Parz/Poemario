@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No sufras por lo que no controlas,\ndeja que pasen como las olas.\nControla tu mente y tu reacción,\nno la externa situación.\nLa paz reside en aceptar,\nlo que no puedes transformar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "estoicismo"
+  }
+}

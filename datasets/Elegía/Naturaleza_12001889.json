@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se apaga el verde, se marchita el trino,\nLa tierra gime, herida en su esplendor.\nUn velo gris cubre el antaño divino\nAltar de vida, puro y sin temor.\n\nEl río claro, espejo de la umbría,\nHoy lleva lodo y un silencio cruel.\nNo hay ruiseñores en la selva fría,\nSolo un lamento que se alza sin voz.\n\n¿Dónde el aroma del jazmín silvestre?\n¿El murmullo del viento en el pinar?\nSe rompe el pacto, se deshace el lustre,\nDe un paraíso que no volverá.\n\nY tú, oh **luna**, que con plata vistes\nEl esqueleto de la montaña inerte,\nTestigo fiel de los adioses tristes,\nIluminas la senda de esta muerte.\n\nEl alma llora la partida lenta\nDe cada esencia, de cada fulgor.\nNaturaleza, tu hermosura ausenta,\nDeja un vacío en el desolado corazón.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "luna"
+  }
+}

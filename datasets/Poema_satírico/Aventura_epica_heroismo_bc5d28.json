@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tiene acidez de estómago,\npor comer caballeros,\nun viejo demagogo,\nde tiempos primeros.\nDuerme sobre oro,\ny está solo el loro.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Dragón"
+  }
+}

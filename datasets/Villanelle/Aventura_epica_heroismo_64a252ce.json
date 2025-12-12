@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fuego escupe la bestia fiera,\ndesde lo alto del torreón,\nsembrando el miedo afuera.\n\nNadie hay que se atreviera,\na enfrentar al gran león,\nfuego escupe la bestia fiera.\n\nGuarda la joya primera,\nen su oscuro rincón,\nsembrando el miedo afuera.\n\nSu piel es dura barrera,\ncomo el hierro y el latón,\nfuego escupe la bestia fiera.\n\nEs la criatura señera,\nde la antigua tradición,\nsembrando el miedo afuera.\n\nSolo la muerte espera,\nquien busque su perdición,\nfuego escupe la bestia fiera,\nsembrando el miedo afuera.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

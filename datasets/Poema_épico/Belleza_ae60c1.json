@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El hombre imita al gran Creador,\nforjando mundos con sus manos,\npintura, piedra, verso y color,\nesfuerzos nobles y soberanos.\nVencer al tiempo con la belleza,\nesa es nuestra gran proeza.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Arte"
+  }
+}

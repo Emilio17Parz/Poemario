@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El agua corre que corre\nbuscando llegar al mar,\nasí corren mis suspiros\ncuando te oigo nombrar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "río"
+  }
+}

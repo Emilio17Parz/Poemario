@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "ACTOR: Me quito la máscara al final.\nPÚBLICO: (Silencio).\nACTOR: ¿Nadie aplaude a mi rostro real?\nNadie conoce mi manantial.\nHe fingido ser otro y ser tal,\nque perdí mi propia identidad,\nen el juego de la vanidad.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

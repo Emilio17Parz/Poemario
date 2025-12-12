@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La gracia divina es un don sin igual y fiel (A),\nun bálsamo dulce, un trago de miel (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Gracia"
+  }
+}

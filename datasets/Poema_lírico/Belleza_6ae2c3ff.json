@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En el susurro tenue del alba naciente,\ncuando la luz desvela la forma y el color,\nse yergue la Belleza, un canto diferente,\ndespertando en el alma un íntimo clamor.\n\nNo solo en el fulgor de la rosa carmesí,\nni en la curva elegante que el mármol capturó,\nsino en el aire mismo, en lo que apenas vi,\nun eco de lo eterno que el tiempo no borró.\n\nEs el destello oculto en una mirada atenta,\nel fugaz instante donde el alma se abre en flor,\ny en cada poro del ser, una verdad se asienta,\nun **brillo** inmaterial que apacigua el dolor.\n\nElla transforma el barro en efímera arcilla,\nel áspero silencio en música sin par;\nun don que se derrama, que el corazón sencilla\nrecibe y atesora para poder soñar.\n\nAsí, la Belleza danza en cada amanecer,\nen la piedad del gesto, en el verso que se dio,\nun soplo que nos eleva, nos enseña a comprender,\nel hondo privilegio de sentir quién soy yo.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pesa más tu no estar que el universo,\nes un hueco gigante en el espacio,\nque recorro despacio, muy despacio,\ntratando de escribir un nuevo verso.\n\nPero todo mi esfuerzo es un reverso,\nun intento fallido y muy reacio,\npues busco en el recuerdo mi palacio\ny solo encuentro un tiempo adverso.\n\nLa ausencia es una silla siempre quieta,\nuna ropa colgada en el armario,\nuna canción que falta en la glorieta.\n\nEs vivir un eterno calvario,\nbuscando completar la vana meta\nde llenar este abismo extraordinario.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

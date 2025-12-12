@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dama de gris vestidura,\nque entras sin pedir perdón,\ny tiñes de melancolía\nla luz de mi corazón.\nEres pesada y lenta,\ncomo una lluvia invernal,\npero traes la profundidad\nal espíritu banal.\nTe acepto, huésped amarga,\nporque sé que has de pasar,\ndejando la tierra fértil\npara volver a empezar.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

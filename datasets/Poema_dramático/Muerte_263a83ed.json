@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "ALMA: ¿He sido bueno? ¿Merezco la gloria?\nJUEZ: Leamos el libro de tu memoria.\nALMA: Amé a mis hijos, trabajé con afán.\nJUEZ: Pero negaste al pobre su pan.\nALMA: Fui a la iglesia cada domingo.\nJUEZ: Y odiaste en secreto a tu amigo gringo.\nLa balanza se inclina, no a tu favor.\nALMA: ¡Piedad! ¡Tenme un poco de amor!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "juicio"
+  }
+}

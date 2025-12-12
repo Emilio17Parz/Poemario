@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No conquistamos reinos de oro,\nsino la cima de la montaña.\nEs nuestra hazaña\ny nuestro tesoro.\nCanto a coro\nla gesta extraña.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cima"
+  }
+}

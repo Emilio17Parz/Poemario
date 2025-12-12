@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El río te llevó en su fuerte cauce,\nhacia el mar de la noche oscura.\nNo hubo freno, ni pausa,\nsolo la eterna negrura.\n\nY yo me quedé viendo la orilla,\nsin mi estrella y sin mi silla.\nPero la fe me dice que el final,\nno es ahogo, sino manantial,\ndonde el agua te devuelve libre.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "río"
+  }
+}

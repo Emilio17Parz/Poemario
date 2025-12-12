@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Soñé que me querías,\ny el sueño fue tan dulce y verdadero,\nque desperté ligero\nde todas mis porfías.\nOjalá que la vida no despierte,\ny amarte sea mi suerte.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

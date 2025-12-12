@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida fluye,\ncamino en cada instante,\nbusco la verdad.\n¿Qué somos, a dónde vamos?\nEl ser, un gran misterio.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

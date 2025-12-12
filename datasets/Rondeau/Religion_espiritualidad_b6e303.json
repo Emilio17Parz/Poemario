@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sigue la senda,\nque encienda,\nla luz,\nandaluz,\ny ofrenda.\n\nLa venda,\ny la tienda,\ndel capuz,\nSigue la senda.\n\nEl trasluz,\ny la cruz,\nque aprenda,\ny entienda,\nla prenda,\nSigue la senda.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "senda"
+  }
+}

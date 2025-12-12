@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Verde infierno tupido,\ndonde el jaguar acecha,\ny la senda es estrecha,\ny todo es ruido.\nMe siento perdido,\nentre la liana,\npero la mañana,\ntrae luz al claro,\ny encuentro el amparo,\nde la vida sana.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "selva"
+  }
+}

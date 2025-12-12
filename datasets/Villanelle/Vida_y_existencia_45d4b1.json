@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos la razón de ser,\nen este mundo extraño,\npara poder comprender.\n\nSin dejarnos vencer,\npor el daño,\nbuscamos la razón de ser.\n\nEs el deber,\ndel año,\npara poder comprender.\n\nEl renacer,\ndel rebaño,\nbuscamos la razón de ser.\n\nEl florecer,\ndel peldaño,\npara poder comprender.\n\nAl atardecer,\ndel tamaño,\nbuscamos la razón de ser,\npara poder comprender.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

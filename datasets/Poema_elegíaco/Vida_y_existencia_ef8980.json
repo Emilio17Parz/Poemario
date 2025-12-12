@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El destino me miente con voz de dulzor,\nla vida sin la calma, el cruel fulgor.\nMe obliga a seguir el mapa sin fe,\nla sombra constante sin saber el qué.\n\nNo tengo el camino, no tengo el valor,\nla vida sin la calma, el cruel dolor.\nMi alma es la esclava de una fe sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "destino"
+  }
+}

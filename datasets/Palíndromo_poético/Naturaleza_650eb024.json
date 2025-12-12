@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nace la luz, ola fugaz del alba.\nEl agua fluye, serena voz, murmura.\nY el **viento** canta, libre don sin límite.\nMurmura, voz serena, fluye el agua.\nDel alba, fugaz ola, la luz nace.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "viento"
+  }
+}

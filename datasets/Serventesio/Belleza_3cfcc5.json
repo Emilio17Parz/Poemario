@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza de adentro,\nes la que más vale,\nes el puro centro,\nque siempre sale.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "interior"
+  }
+}

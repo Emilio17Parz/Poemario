@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Resiste la alta muralla,\nel ataque enemigo,\ncomienza la batalla,\ny el castigo.\n\nEl ataque enemigo,\narietes contra la puerta,\ny el castigo,\nde muerte cierta.\n\nArietes contra la puerta,\nresiste la alta muralla,\nde muerte cierta,\ncomienza la batalla.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "muralla"
+  }
+}

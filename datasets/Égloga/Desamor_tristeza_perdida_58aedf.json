@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche oscura es mi compañera,\nella entiende mi luto y mi pena.\nArrastro de amor la pesada cadena,\nesperando el fin de mi espera.\nNo quiero ver la luz mañanera,\nsi tu ausencia mi vida condena.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "noche"
+  }
+}

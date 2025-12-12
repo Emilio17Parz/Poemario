@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se pudre la manzana en el cesto,\ny contagia a las que están sanas,\ncon maniobras sucias y vanas,\nbajo el manto de un falso gesto.\n\nEl ladrón se viste de honesto,\ny promete mañanas tempranas,\nmientras llena sus propias ganas,\ncon el robo del presupuesto.\n\nLa confianza del pueblo se rompe,\nal ver la impunidad descarada,\nque la ley y el orden corrompe.\n\nQueda la sociedad estafada,\nesperando que alguien arrope,\nsu dignidad tan ultrajada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "corrupción"
+  }
+}

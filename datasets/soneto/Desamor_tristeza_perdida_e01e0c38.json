@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cierro la puerta y queda el aire frío\nocupando el lugar que tú tenías,\ny se apagan las luces de los días\ndejando el corazón en el vacío.\n\nYa no corre el caudal del viejo río,\nse secaron las dulces alegrías,\ny son ahora amargas profecías\nlas que dicta mi mente en desvarío.\n\nAdiós a la ilusión que construimos,\nal castillo de naipes derrumbado,\nal sueño compartido que perdimos.\n\nQueda el silencio de lo terminado,\ny el eco de las voces que dijimos,\nflotando en el espacio desolado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

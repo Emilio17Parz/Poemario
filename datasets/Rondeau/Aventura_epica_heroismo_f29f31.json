@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Usa la magia,\nque contagia,\npoder,\ny saber,\nque presagia.\n\nLa hemorragia,\ny la adagia,\ndel ver,\nUsa la magia.\n\nEl querer,\ny el creer,\nque plagia,\ny naufragia,\nel ser,\nUsa la magia.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "hechizo"
+  }
+}

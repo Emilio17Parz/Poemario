@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Llevaron al hombre ante el tribunal,\nacusado de robar un pan.\nEl juez le miró con gesto mal,\ndesde su estrado y su diván.\n'La ley es dura y es igual',\ndijo el fiscal con su afán.\nLo condenaron a la prisión,\nmientras el rico con malicia,\nrobaba a toda la nación,\nburlándose de la justicia.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

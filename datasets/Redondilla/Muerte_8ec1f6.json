@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa en la tierra,\nbajo la losa,\nla vida preciosa,\nque la muerte cierra.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

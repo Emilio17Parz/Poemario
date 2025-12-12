@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Memoria que vives de un ser que no está,\nel recuerdo es pena, de amargo dolor.\nEl alma te guarda sin un gran ya,\nsin rastro de paz ni de amor.\nTu imagen es triste, la pena sin fin,\nel alma sin un solo ín.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Memoria"
+  }
+}

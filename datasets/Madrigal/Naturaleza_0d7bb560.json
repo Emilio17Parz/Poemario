@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Inmensa y azul mar,\nespejo del cielo y su grandeza,\nmuestras tu fortaleza\nal siempre navegar.\nNo dejas de cantar,\ncon ímpetu y belleza,\nla canción que nos hace soñar.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mar"
+  }
+}

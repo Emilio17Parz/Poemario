@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Foto del libro y café,\nque nunca se va a leer,\nsolo para que se ve,\nlo culto que quiere ser.\nLa imagen es lo primero,\nel contenido es cero.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Postureo"
+  }
+}

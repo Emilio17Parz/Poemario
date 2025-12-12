@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "siempre\n siem pre\n  sie mpre\n   si empre\n    s iempre\n     siempre",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "siempre"
+  }
+}

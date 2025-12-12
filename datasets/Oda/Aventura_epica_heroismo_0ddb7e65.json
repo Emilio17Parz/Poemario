@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fuego que quema dentro,\nimpulso para actuar,\nque nos pone en el centro\ndel difícil lugar.\nNo es la ausencia de miedo,\nes actuar a su pesar,\ndecir \"yo sí puedo\"\ny lanzarse a luchar.\nVirtud de los gigantes,\nmotor de la hazaña,\nque hace a los caminantes\nsubir la montaña.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "valor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te ofrezco mi respeto y mi lealtad,\ncomo un pacto sagrado y verdadero,\nporque eres mi total felicidad.\n\nEres el único amor que yo quiero,\nla brújula que guía mi existencia,\ny el puerto donde atraco mi velero.\n\nAmándote con suma paciencia.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "lealtad"
+  }
+}

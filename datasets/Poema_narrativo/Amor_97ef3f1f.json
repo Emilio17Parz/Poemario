@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ella perdió el tren de las nueve y diez,\nél se equivocó de estación aquel día.\nEl azar jugó su carta otra vez,\nen el andén vacío y la vía fría.\nPreguntó la hora con timidez,\nella respondió con melancolía.\nTomaron un café para esperar,\ny entre charla y charla surgió el camino.\nNadie lo hubiera podido planear,\nfue la obra maestra del destino.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "destino"
+  }
+}

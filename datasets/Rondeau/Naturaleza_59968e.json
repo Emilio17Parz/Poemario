@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar inmenso,\ntan azul y denso.\nOlas que vienen,\ny no se detienen,\nen ritmo propenso.\n\nYo lo pienso,\ny me convenzo.\nFuerza que tienen,\nel mar inmenso.\n\nOlor intenso,\nde sal e incienso.\nBarcos sostienen,\ny entretienen,\nun mundo extenso,\nel mar inmenso.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "mar"
+  }
+}

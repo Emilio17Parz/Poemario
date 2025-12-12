@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna es de plata, un disco frío,\nque vela el sueño de la noche oscura,\nrefleja en el lago su gran desafío,\ny envuelve la tierra en su hermosura.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

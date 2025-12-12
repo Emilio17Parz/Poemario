@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¡Oh, tierno amor que el corazón me inunda,\nY cada fibra con ardor estremece!\nTu fuego sacro mi alma inmortal\nEleva con pasión que el cielo ve.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "alma"
+  }
+}

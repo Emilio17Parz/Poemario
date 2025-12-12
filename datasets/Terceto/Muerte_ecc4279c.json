@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra llega, fin de la jornada,\nEl frío abrazo que a la carne encierra,\nLa voz silente, promesa callada.\n\nEl frío abrazo que a la carne encierra,\nMas ¿dónde va la llama del aliento?\nMás allá del confín de nuestra tierra.\n\nMas ¿dónde va la llama del aliento?\nHacia un lugar sin tiempo ni medida,\nDonde se funde todo pensamiento.\n\nHacia un lugar sin tiempo ni medida,\nAllí la esencia busca su morada,\nEn una paz que no conoció vida.\n\nAllí la esencia busca su morada,\nY en el silencio de la luz tendida,\nAlcanza al fin la anhelada **eternidad**.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

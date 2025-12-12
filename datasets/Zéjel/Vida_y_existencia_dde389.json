@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El pelo ya se tiñó,\ny el alma ya se curó.\n\nLa calma ya me llegó,\nla pena ya se me fue,\ny el miedo se me acabó,\ny el alma ya se curó.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

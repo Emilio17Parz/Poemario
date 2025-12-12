@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La niebla cubre el alma y la razón,\nno encuentro el camino para salir,\nsolo el susurro de la decepción,\ny un infinito querer morir.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Niebla"
+  }
+}

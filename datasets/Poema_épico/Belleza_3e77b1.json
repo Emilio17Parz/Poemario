@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hijos de la luz fragmentada,\nvisten al mundo de alegría,\nsin ellos la vista es nada,\nmonótona y gris la vía.\nRojo de sangre, azul de cielo,\npintan del mundo el velo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Color"
+  }
+}

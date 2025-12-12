@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un río que fluye sin un final (A),\ncon fuerza y con calma, con bien total (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Fluir"
+  }
+}

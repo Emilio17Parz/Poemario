@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo perfecto,\nno existe,\nsolo viste,\nel defecto.\nEl proyecto,\nes buscar,\ny encontrar,\nel trayecto.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "perfección"
+  }
+}

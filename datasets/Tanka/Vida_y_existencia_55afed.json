@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hilos nos mueven\nen tramas invisibles\nplan superior.\nO quizás sea el azar\nel que rige la vida.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "destino"
+  }
+}

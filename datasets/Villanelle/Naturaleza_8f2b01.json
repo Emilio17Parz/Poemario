@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque guarda sombras milenarias,\nrefugio de las bestias y amantes,\nlejos de las ciudades solitarias.\n\nSus ramas son columnas legendarias,\ntestigos de los tiempos distantes,\nel bosque guarda sombras milenarias.\n\nCon sus luces y formas varias,\nacoge a los eternos caminantes,\nlejos de las ciudades solitarias.\n\nSus raíces son sabias y agrarias,\nprofundas, firmes y constantes,\nel bosque guarda sombras milenarias.\n\nEn las noches que son necesarias,\nse oyen ruidos inquietantes,\nlejos de las ciudades solitarias.\n\nSon las fuerzas primarias y parias,\nque viven libres y vibrantes,\nel bosque guarda sombras milenarias,\nlejos de las ciudades solitarias.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

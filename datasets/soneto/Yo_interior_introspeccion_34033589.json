@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "El espejo callado del alma mía,\nRefleja un ser que busca su verdad,\nEn la sombra profunda de mi soledad,\nDonde el ruido del mundo no confía.\n\nUna voz interior me desafía,\nA desvelar mi propia eternidad,\nY confrontar la cruda realidad,\nDe la esencia que fui y que sería.\n\nMi **identidad**, un río que se traza,\nPor memorias y sueños sin cesar,\nUn lienzo donde el tiempo deja huella.\n\nEs un laberinto que el yo abraza,\nUna pregunta eterna sin hallar,\nLa única respuesta que me sella.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

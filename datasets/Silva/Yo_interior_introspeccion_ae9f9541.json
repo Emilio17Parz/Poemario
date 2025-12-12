@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi interior es un pozo,\nde secretos y sueños guardados,\ndonde hallo gozo,\ny cuidados,\nlejos de los ruidos malvados.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "interior"
+  }
+}

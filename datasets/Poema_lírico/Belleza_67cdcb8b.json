@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La línea pura, el contorno perfecto,\nque la natura dibuja al azar,\nen la montaña, la nube y el mar,\ncausando en mi alma un dulce efecto.\nAdmiro siempre el divino proyecto,\nde la belleza que sabe crear.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "forma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Qué habrá detrás de la niebla\ncuando cerremos los ojos?\n¿Habrá jardines de luces\no desiertos de abrojos?\nEs el misterio insondable\nque calma nuestros enojos,\no nos llena de temores\ny de miedos muy rojos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "más_allá"
+  }
+}

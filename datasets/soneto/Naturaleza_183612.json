@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Anciano testigo de cien inviernos,\nraíces profundas en la oscuridad,\nbuscando el agua y la verdad,\nalzando al cielo brazos eternos.\n\nHas visto imperios y gobiernos,\npasar con su vana vanidad,\nmientras tú, con gran dignidad,\nsoportas soles y tiempos tiernos.\n\nDas sombra al caminante cansado,\nfruto al hambriento y leña al hogar,\nsin pedir nada por lo entregado.\n\nEjemplo de dar y de estar,\nplantado firme y callado,\nenseñando al hombre a amar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "raices"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Ojos pegados a la pantalla,\nalmas ausentes de la verdad,\nviven en virtual soledad,\nred que atrapa.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "tecnología"
+  }
+}

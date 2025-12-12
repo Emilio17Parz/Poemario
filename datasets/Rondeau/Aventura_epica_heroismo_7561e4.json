@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lanza el fuego rojo,\ncon enojo,\nla bestia,\nmodestia,\ny el ojo.\n\nEl cerrojo,\ny el desalojo,\nde la molestia,\nLanza el fuego.\n\nSin amnestia,\nni travesía,\nel antojo,\ny el despojo,\nque restia,\nLanza el fuego.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

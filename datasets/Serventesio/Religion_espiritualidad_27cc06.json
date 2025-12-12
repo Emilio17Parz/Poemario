@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Meditar es callar,\npara oír al Creador,\ny poder encontrar,\nla paz en su amor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "meditación"
+  }
+}

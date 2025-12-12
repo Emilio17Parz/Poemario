@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un beso de tu boca\nes el dulce manjar que me provoca\nperder toda razón\ny entregarte mi pobre corazón.\nEn ese breve instante,\nme siento de la vida el gran amante.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "beso"
+  }
+}

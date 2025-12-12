@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verdor del monte me llama,\n¡Qué dulce cantar!\nDe cada ramita, una flor\nViene a saludar.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "flor"
+  }
+}

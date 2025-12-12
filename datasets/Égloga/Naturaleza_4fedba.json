@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante de piedra que toca el cielo,\nguardiana eterna del verde valle.\nNo hay sendero, camino ni calle\nque no vigile con gran celo.\nTu cumbre cubierta de blanco velo\nhace que el hombre su orgullo calle.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cumbre"
+  }
+}

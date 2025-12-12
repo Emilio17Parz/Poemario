@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El que esté libre de culpa\nque tire la primera piedra,\nque todos tenemos manchas\nescondidas en la hiedra.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

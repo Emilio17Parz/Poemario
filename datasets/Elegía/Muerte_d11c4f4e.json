@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Marcha lenta de trajes oscuros,\nbajo el sol que parece ofensa,\nuna tristeza gris y densa\nse respira tras los muros.\nPasos tristes y inseguros,\nllevan la carga inmensa,\nla muerte cobra su recompensa\ny nos deja los tiempos duros.\nCae la tierra sobre la madera,\nsuena hueco el final,\nse cierra la primavera.\nEs el rito del mal,\nla despedida postrera,\nen el campo sepulcral.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "funeral"
+  }
+}

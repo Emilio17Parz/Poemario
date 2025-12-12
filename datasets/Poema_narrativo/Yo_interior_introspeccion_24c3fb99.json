@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Escribió la verdad en un papel,\nla dobló con mucho cuidado.\nLa metió en una caja de miel,\ny la enterró en el prado.\nNadie sabría que fue él,\nquien había pecado.\nPasaron los años y él murió,\npero la caja quedó quieto,\ny la tierra se comió,\nsu inconfesable secreto.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

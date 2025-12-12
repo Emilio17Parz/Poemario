@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "L ejos del mundo vano,\nU na luz aparece,\nZ ona del ser humano.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "luz"
+  }
+}

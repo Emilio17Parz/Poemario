@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Unieron dos casas con un anillo,\nlos Capuleto y los Montesco,\nun amor puro, nada grotesco,\nque brilló como un fuerte cuchillo.\nRomeo y Julieta, amor sencillo,\nen un mundo de odio gigantesco,\nsu muerte fue el cuadro dantesco,\nque trajo la paz al castillo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "linaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Héroe nace,\ny se hace.\n\nSu camino,\nes divino,\ny genuino,\nel desenlace.\nHéroe nace,\ny se hace.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vacía está la mesa,\nde la familia pobre,\nla pena que pesa,\nsobre el cobre.\n\nDe la familia pobre,\nllanto de niño,\nsobre el cobre,\nsin cariño.\n\nLlanto de niño,\nvacía está la mesa,\nsin cariño,\nla pena que pesa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mesa"
+  }
+}

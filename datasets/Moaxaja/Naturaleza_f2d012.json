@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rayo y trueno,\nnada bueno.\n\nCielo gris,\nsin matiz,\nni perdiz,\nen el heno.\nRayo y trueno,\nnada bueno.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

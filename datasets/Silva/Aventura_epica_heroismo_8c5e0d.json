@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fuego y escama,\nde la bestia,\nque molesta,\ny reclama.\nEn la cama,\ndel tesoro,\nduerme el toro,\nque se llama.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

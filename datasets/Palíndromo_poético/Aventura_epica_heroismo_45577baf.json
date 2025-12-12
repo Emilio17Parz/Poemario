@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Aventura, audaz, ¡oh!\nHéroe, alma, tu valor.\nGesta, el tiempo. Un camino.\nHonor es ley, fiel. Sí, fiel, ley es honor.\nCamino un. Tiempo el, gesta.\nValor tu, alma, héroe.\n¡Oh, audaz, aventura!",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "honor"
+  }
+}

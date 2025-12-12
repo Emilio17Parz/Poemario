@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene un brillo,\nsin igual,\nde cristal,\nsencillo.\nEl anillo,\nreal.\nTiene un brillo.\n\nPiedra preciosa,\nque deslumbra,\nque alumbra,\nla rosa.\nLa cosa,\nque acostumbra.\nTiene un brillo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

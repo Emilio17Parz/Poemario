@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El frío lo invadió, desde los pies al pecho,\nNo era el frío del invierno, era el frío del lecho.\nUn hielo que venía de adentro, sin sol,\nEl frío de la muerte, sin ningún farol.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "frío"
+  }
+}

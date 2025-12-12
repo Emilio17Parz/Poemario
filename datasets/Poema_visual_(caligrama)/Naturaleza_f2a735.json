@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Curva y curva\nagua que fluye\nserpiente líquida\nbajando al mar\nsin detenerse\ncorriente viva\nrumor constante.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "río"
+  }
+}

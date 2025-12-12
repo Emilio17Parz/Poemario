@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Todo se ve nublado,\ncolor de la ceniza.\nEl amor ha pasado,\nya no hay risa.\n\nColor de la ceniza,\npaisaje sin vida.\nYa no hay risa,\nla herida supura.\n\nPaisaje sin vida,\nel amor ha pasado.\nLa herida supura,\ntodo se ve nublado.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "gris"
+  }
+}

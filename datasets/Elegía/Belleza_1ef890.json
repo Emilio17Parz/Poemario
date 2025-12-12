@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ojos que vieron el mal,\nperdiendo el brillo primero,\nsincero,\ny leal.\n\nFinal,\ndel sendero,\nligero,\ny real.\n\nPureza manchada,\nalma dañada.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "inocencia"
+  }
+}

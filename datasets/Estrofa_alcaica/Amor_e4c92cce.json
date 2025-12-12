@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor, cual llama que no ha de apagarse,\nMi ser completo abraza sin recelo,\nY así mi alma el futuro anhela,\nUn lazo eterno que nunca ha de romperse.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

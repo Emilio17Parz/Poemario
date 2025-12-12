@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Corta el filo,\ndel acero,\nel guerrero,\ntranquilo.\nEn vilo,\nel sendero.\nCorta el filo.\n\nArma noble,\nde combate,\nque late,\ncomo un roble.\nEl doble,\ndel mate.\nCorta el filo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "filo"
+  }
+}

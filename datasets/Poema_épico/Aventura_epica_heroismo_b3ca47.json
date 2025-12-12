@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Armadura brillante y lanza en ristre,\ndefensor de la dama y la fe,\naunque el camino se torne triste,\nel jamás retrocederé.\nNobleza obliga, valor sagrado,\npor el honor siempre guiado.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Caballero"
+  }
+}

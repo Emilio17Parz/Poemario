@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La dama de la venda\nestá ciega,\nla ley al poderoso\nno se niega.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

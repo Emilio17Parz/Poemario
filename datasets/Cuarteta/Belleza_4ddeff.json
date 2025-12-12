@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Vuela con alas de seda,\nla mariposa ligera,\nreina de la primavera,\nque en el aire se queda.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "seda"
+  }
+}

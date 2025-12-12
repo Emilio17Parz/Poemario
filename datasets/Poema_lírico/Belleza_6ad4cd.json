@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El color no es pintura,\nes la luz del sol.\nLa suave amargura\nsin ningún dolo.\n\nMe obliga a mirar,\nme obliga a sentir,\nla vida sin par\npara poder seguir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "color"
+  }
+}

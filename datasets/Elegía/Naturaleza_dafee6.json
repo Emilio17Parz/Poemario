@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Luna que te escondes en la oscuridad,\nla plata sin brillo, sin un gran don.\nTu faz es sombra, la falsedad,\nel alma sin una bendición.\nTu esfera es triste, el fulgor se va,\nla pena que el tiempo me da.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

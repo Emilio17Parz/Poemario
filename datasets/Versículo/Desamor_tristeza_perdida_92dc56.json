@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miro las manecillas del reloj y parecen burlarse de mi espera, avanzando con una lentitud exasperante.\nCada segundo sin ti es un siglo, una eternidad de minutos vacíos que tengo que llenar con nada.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

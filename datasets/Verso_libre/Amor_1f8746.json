@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No creo en hilos rojos,\npero creo en la coincidencia\nde encontrarte en la esquina del tiempo.\nNo estaba escrito,\nnosotros lo escribimos\ncon cada paso que dimos\npara chocar en este instante.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "destino"
+  }
+}

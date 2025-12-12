@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Arena que cubres el vasto desierto,\nel tiempo sin vida, sin un gran bien.\nTu grano es la sombra, el entuerto,\nel alma sin un sostén.\nTu forma es el fin, la dura verdad,\nla pena que el alma da la caridad.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

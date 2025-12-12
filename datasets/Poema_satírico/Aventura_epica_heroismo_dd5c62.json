@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Monedas de chocolate,\nera el gran botín,\nmenudo dislate,\ny menudo fin.\nLa aventura es el premio,\ndice el bohemio.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Tesoro"
+  }
+}

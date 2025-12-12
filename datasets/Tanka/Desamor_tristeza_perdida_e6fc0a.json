@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El cielo está gris,\nasí está mi alma ahora,\nsin tu dulce luz.\nUna lluvia fina cae,\nlágrimas por ti derramo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Gris"
+  }
+}

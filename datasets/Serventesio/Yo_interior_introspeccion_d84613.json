@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco mi nombre,\nen el silencio,\nsoy ese hombre,\nque diferencio.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "quién_soy"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando la vi por vez primera,\nUn rayo de sol me cegó.\nMi alma, que siempre fue viajera,\nEn sus ojos al fin se posó.\n\nYa no hubo frío en mi sentir,\nNi senda que me hiciera dudar.\nSolo el deseo de vivir,\nY a su lado poder amar.\n\nCon ella el tiempo se detuvo,\nEn risas y en dulces miradas.\nUn pacto mudo se sostuvo,\nEntre almas por siempre hermanadas.\n\nCruzamos juntos la tormenta,\nLos vientos fuertes, el dolor,\nNuestra fe nunca se arrepienta,\nAfirmando más nuestro amor.\n\nEn cada gesto, en cada beso,\nHallé la esencia de mi ser.\nComprendí que nuestro proceso,\nUn lazo **eterno** iba a tejer.\n\nAsí sellamos nuestro anhelo,\nBajo el manto de un cielo azul.\nElla mi norte, mi consuelo,\nMi refugio, mi propia luz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La verdad está escondida,\nbajo capas de mentira,\ny la gente está dormida.\n\nNadie busca la salida,\nni se indigna ni se ira,\nla verdad está escondida.\n\nEs la causa perdida,\npor la que nadie suspira,\ny la gente está dormida.\n\nEstá prohibida,\nla voz que inspira,\nla verdad está escondida.\n\nQueda la herida,\nque no se retira,\ny la gente está dormida.\n\nVida fingida,\nque gira y gira,\nla verdad está escondida,\ny la gente está dormida.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Luto que llevo con fiel entereza,\nsombras que cubren mi gran pesar.\nEl duelo es el precio de la nobleza,\nel tiempo me ayuda a anclar.\n¡Oh, pena oscura, de profundo sentir,\nel alma en ti va a seguir!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Luto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El paladín, con temple de acero,\nsu estandarte ondea en la contienda,\nenfrenta al dragón, fiero y altanero,\ny por su valor la gloria se ofrenda.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

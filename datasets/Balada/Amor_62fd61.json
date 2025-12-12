@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Caminaba solo por el sendero gris,\nbuscando una luz que no podía ver,\nhasta que tu rostro, cual flor de lis,\nhizo que mi alma volviera a nacer.\nTodo el paisaje cambió de color,\nal sentir la fuerza de tu resplandor,\ny supe al instante, con dulce emoción,\nque eras la dueña de mi corazón.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

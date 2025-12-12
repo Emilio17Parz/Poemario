@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La flor se ha marchitado, su color se ha ido ya sin piedad y cruel,\ny solo queda el recuerdo con sabor amargo a hiel.\nLa belleza es el fuego que se apaga pronto sin luz ni razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la forma pura que el tiempo destruyó sin voz y sin fe ya sin paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "flor"
+  }
+}

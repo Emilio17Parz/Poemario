@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busca el oro,\nescondido,\nperdido,\nel tesoro.\nEl coro,\ndel nido.\nBusca el oro.\n\nRiqueza antigua,\nque espera,\nla quimera,\nambigua.\nSe averigua,\nla era.\nBusca el oro.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "oro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Partir es vivir,\nhacia lo ignoto,\nromper lo roto,\ny descubrir.\nSin desistir,\nni alboroto.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

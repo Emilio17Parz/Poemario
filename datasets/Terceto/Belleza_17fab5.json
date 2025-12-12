@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La sencillez es la cumbre del arte y la fe (A),\nel trazo sin doble, sin un final (A),\nel eterno y noble 'sé' (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Sencillez"
+  }
+}

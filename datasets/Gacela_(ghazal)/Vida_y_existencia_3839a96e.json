@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es camino que se hace al andar,\nsin mapa ni brújula para guiar.\n\nDejamos la huella en el caminar,\nsin poder nunca atrás regresar.\n\nLo importante es siempre continuar,\nhasta que el viaje llegue a acabar.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "paso"
+  }
+}

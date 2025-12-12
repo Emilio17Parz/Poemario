@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La vida es una jaula\nde cristal y luz.\nLa suave aula\ncon una cruz.\n\nNos tienen cautivos,\nsin poder volar,\nlos tristes motivos\npara no amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "jaula"
+  }
+}

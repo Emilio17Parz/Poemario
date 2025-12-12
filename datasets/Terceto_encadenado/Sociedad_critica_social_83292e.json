@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El poder corrompe,\nal hombre sencillo,\ny la ética rompe.\n\nSe pone el anillo,\nde la autoridad,\ny usa el martillo.\n\nSin piedad.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "poder"
+  }
+}

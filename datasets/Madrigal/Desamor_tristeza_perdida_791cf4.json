@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Eres fantasma del ayer perdido,\nque vuelves a rondar mi pensamiento,\ncausando tormento,\na un corazón que ya estaba vencido.\nDéjame en paz, espectro del pasado,\nya te he llorado,\nno quiero verte más, amor herido,\nen mi nido.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

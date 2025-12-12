@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cantemos al mundo lleno de color,\nfiesta visual que alegra la vida,\ncurando el alma que estaba herida,\ncon el matiz de la hermosa flor.\nRegalo de luz en el arcoíris,\nque brilla en el cielo y en el iris.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "color"
+  }
+}

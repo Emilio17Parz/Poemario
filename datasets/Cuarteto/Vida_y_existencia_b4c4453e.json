@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nos encontramos en un laberinto,\nde muros altos y de pasos ciegos,\ndonde se pierden nuestros propios ruegos\ny nos confunde el natural instinto.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

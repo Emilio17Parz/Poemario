@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tiembla el hombre ante lo desconocido,\nante el abismo que no tiene fondo,\nun temor ancestral y hondo,\nque le hace sentirse perdido.\n\n¿Por qué temer a lo que ha sido,\ndestino de todo ser hediondo,\no perfumado, grave o mondo,\nque en este planeta ha vivido?\n\nEl miedo es sombra de la ignorancia,\nuna cárcel para la razón,\nque nos roba paz y fragancia.\n\nAceptemos con el corazón,\nque la muerte no es discrepancia,\nsino la última lección.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

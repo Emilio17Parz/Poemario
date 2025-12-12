@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El final feliz de la boda,\ndonde se parte la mitad,\nse pasa de moda la moda,\ny se recobra la libertad.\nLo caro no fue casarse,\nsino el abogado para librarse.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Divorcio"
+  }
+}

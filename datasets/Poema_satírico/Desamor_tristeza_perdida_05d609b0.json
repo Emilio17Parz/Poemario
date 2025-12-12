@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dicen que el alcohol no ayuda,\na curar el corazón,\npero me da la razón,\ny la mente me desnuda.\nMejor una borrachera muda,\nque aguantar tu sermón,\ny tu eterna discusión,\ncon esa lengua peliaguda.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "alcohol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompe la ola blanca,\ncontra la arena de la playa sola,\ny su fuerza arranca,\nla pena que asola,\ncon el ritmo de su caracola.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "ola"
+  }
+}

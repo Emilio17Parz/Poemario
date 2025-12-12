@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Brotan ríos amargos de mis ojos,\nlágrimas de una gran melancolía,\npagando con el llanto mis enojos.\n\nSe apagó para siempre la alegría,\ny el mundo se ha vuelto gris y frío,\ndesde que me dejaste, vida mía.\n\nNavego en un inmenso y triste río.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soñé que volvíamos,\nque todo era un malentendido.\nDespertar fue el verdadero golpe.\nAbrir los ojos y recordar,\nde golpe,\nque la pesadilla es la vigilia.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

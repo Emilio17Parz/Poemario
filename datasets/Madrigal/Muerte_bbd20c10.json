@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sueño largo y profundo,\nque nos aleja del ruidoso mundo.\nCierras los ojos, ciego,\nal dolor y al apego.\nDescanso merecido\ndel que ha dejado el cuerpo ya dormido.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

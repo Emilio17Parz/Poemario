@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El juez vive conmigo,\ndentro de mi cabeza,\npesando con firmeza,\ncada testigo.\n\nAmigo,\ny enemigo,\nque sigo,\ny bendigo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

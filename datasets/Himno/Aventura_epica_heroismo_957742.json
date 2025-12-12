@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Acero forjado en fuego y en hielo,\ndefensa del justo, castigo del suelo.\n¡Honor a la Espada, brazo del rey!,\nque impone justicia y guarda la ley.\n\nBrillas al sol con filo letal,\nsímbolo de fuerza y poder real.\nQue nunca te manches con sangre inocente,\nsino que protejas siempre a la gente.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "espada"
+  }
+}

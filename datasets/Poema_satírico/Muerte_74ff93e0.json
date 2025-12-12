@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "En vida nunca callaste,\na todo el mundo hartaste.\nAhora gozamos del silencio,\nque en tu tumba presencio.\n¡Qué lástima no haber sabido,\nlo bien que te sienta el olvido!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

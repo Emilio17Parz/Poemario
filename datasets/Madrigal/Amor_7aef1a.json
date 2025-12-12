@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ojos claros, serenos,\nque al alma le robáis la calma fría,\nsi sois tan dulces, buenos,\n¿por qué causáis dolor y no alegría?\nMiradme con amor, luz de mi vida,\ncurad esta herida,\nque si me veis con vuestra luz brillante,\nseré vuestro amante.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

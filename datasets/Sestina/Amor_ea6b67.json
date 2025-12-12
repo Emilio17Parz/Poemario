@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nLa vida contigo es un dulce existir (E1: existir)\nMi alma no teme ya más que caer (E2: caer)\nTu rostro es la luz que me va a guiar (E3: guiar)\nEl gozo que siento no tiene ya pena (E4: pena)\nLa fuerza me impulsa a volver a crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nNo temo ya caer y al fin crecer (E2, E5)\nLa pena me va a guiar (E4, E3)\nSin un error, dulce existir (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Vida"
+  }
+}

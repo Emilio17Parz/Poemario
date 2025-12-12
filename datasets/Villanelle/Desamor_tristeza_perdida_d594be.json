@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Todo se ha vuelto de color gris,\ndesde que falta tu sonrisa,\ny soy un hombre infeliz.\n\nYa no distingo el matiz,\nde la mañana y de la brisa,\ntodo se ha vuelto de color gris.\n\nSiento que pierdo la raíz,\ny que la muerte tiene prisa,\ny soy un hombre infeliz.\n\nEs como un triste barniz,\nque cubre el mundo y lo pisa,\ntodo se ha vuelto de color gris.\n\nUna profunda cicatriz,\nque mi dolor eterniza,\ny soy un hombre infeliz.\n\nNo hay en el cielo arcoíris,\nsolo la nube indecisa,\ntodo se ha vuelto de color gris,\ny soy un hombre infeliz.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "gris"
+  }
+}

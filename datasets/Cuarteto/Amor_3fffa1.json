@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No es casualidad, es nuestro destino escrito,\ndos almas gemelas bajo el mismo sol,\nun amor eterno, un canto infinito,\nque rompe el silencio con gran arrebol.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

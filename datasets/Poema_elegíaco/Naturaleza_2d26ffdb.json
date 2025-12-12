@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río se ha secado en su cauce,\nya no corre el agua cantarina,\nla muerte se adivina,\nen la sombra triste del sauce.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "río"
+  }
+}

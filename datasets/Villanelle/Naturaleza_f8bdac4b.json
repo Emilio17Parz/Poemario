@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro la comba del azul cielo,\nlleno de luz y de inmensidad,\ndonde las aves alzan el vuelo.\n\nMe da su paz y su gran consuelo,\nlejos de toda la vanidad,\nmiro la comba del azul cielo.\n\nCubre la tierra como un velo,\ncon su misterio y su majestad,\ndonde las aves alzan el vuelo.\n\nSiento que pierdo todo el recelo,\nal contemplar tanta claridad,\nmiro la comba del azul cielo.\n\nEs de los astros el gran suelo,\ncampo de eterna libertad,\ndonde las aves alzan el vuelo.\n\nGuardo su imagen con mucho celo,\nen mi memoria y mi voluntad,\nmiro la comba del azul cielo,\ndonde las aves alzan el vuelo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

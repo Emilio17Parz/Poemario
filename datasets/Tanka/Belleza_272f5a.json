@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Color y forma\nsobre la tela blanca\nmundo de luz.\nVentana a otra vida\nque el artista soñó.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

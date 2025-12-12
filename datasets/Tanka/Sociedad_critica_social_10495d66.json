@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "Falsa libertad,\nEl sistema nos ata,\nDentro del gris.\nRomper estas cadenas\nQue aprisionan el alma.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

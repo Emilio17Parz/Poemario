@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se apagó de tus ojos el brillo,\nque iluminaba mi oscuridad,\nahora reina la opacidad,\ny se cierra del alma el pestillo.\nLamento la luz que se ha extinguido,\ndejando mi universo oscurecido.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

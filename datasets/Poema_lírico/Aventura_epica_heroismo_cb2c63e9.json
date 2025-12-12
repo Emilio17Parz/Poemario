@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No es el aplauso lo que el héroe quiere,\nsino cumplir con su honor y deber,\naunque la vida tenga que perder,\ny en el combate su cuerpo muere.\nLa verdadera gloria prefiere,\nal que se entrega sin retroceder.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Paso a la eternidad,\nbuscando la verdad.\n\nDejo el cuerpo mortal,\nel bien y todo el mal,\nen el juicio final,\ncon serenidad.\n\nPaso a la eternidad,\nbuscando la verdad.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Notas al aire\ncastillos invisibles\nalma que canta.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "música"
+  }
+}

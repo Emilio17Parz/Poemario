@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu ausencia me dejó en la oscuridad,\nuna sombra que crece y me devora,\nmi pecho te implora,\npero recibe solo frialdad.\nNegra la noche, negro el pensamiento,\neterno sufrimiento,\nprisionero de esta soledad,\nsin libertad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "oscuridad"
+  }
+}

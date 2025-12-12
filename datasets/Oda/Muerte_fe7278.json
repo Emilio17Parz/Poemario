@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Túnel brillante,\nque llama al alma,\nhacia la calma,\nreconfortante.\nCamino al cielo,\nfin del desvelo.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "luz"
+  }
+}

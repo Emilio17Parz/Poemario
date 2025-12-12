@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "[EL ESCALADOR]\n(A 10 metros de la cumbre, helado)\nMe mira la roca, me reta. Me dice que soy solo carne y aire efímero.\nHe dejado mi sangre en tus aristas, mi miedo en tus grietas, y mi nombre es nada.\n¡Pero no me detendré! Eres inmensa, sí, pero yo tengo voluntad.\nY la voluntad, fría y terca, es más dura que tu mármol.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante de piedra, altar de nieve,\nque tocas las nubes con tu frente,\ntestigo inmóvil y permanente,\nmientras el tiempo rápido mueve.\n\n¡Gloria a las cumbres inmaculadas!\nDonde el silencio habla con Dios,\nalzad, montañas, vuestra voz,\nen las alturas tan deseadas.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "cumbre"
+  }
+}

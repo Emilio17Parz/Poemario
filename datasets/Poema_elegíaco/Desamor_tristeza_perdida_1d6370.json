@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi piel no te recuerda, es fría y sin calor,\nla huella de tu tacto murió sin valor.\nEl desamor es la anestesia que me dan,\nla vida que se fue, el triste pan.\n\nSoy una estatua blanca en medio del sol,\nsin el suave caricia, sin ningún farol.\nMi cuerpo es el mármol de una triste verdad,\nla prueba constante de la soledad.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "piel"
+  }
+}

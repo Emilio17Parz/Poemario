@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cargo la piedra de mi equivocación,\nque pesa más que el mundo sobre mí,\ny busco en vano mi liberación.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "peso"
+  }
+}

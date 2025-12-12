@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi alma no tiene ya luz, (A)\nmi ser ya sin la razón, (B)\nme causa gran aflicción, (B)\ncargando una triste cruz. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

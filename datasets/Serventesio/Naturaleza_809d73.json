@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo es la inmensidad, el azul profundo y cruel (A),\nla morada de Dios, el Ser superior (B),\nla vida es un sueño, la dulce miel (A),\nla fuente de todo fulgor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Cielo"
+  }
+}

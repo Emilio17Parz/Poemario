@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Forjaron la espada en el monte del Destino,\ncon acero estelar y sangre de dragón.\nQuien la empuñara tendría el don,\nde abrirse paso en cualquier camino.\nExcalibur, Tizona, nombres de gloria,\nque han escrito con filo la historia.\nEl héroe la alza frente a la hueste,\ny el enemigo cae como la peste.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, pequeña bestia alada,\nque zumbas en mi oído,\n¿por qué no te has ido,\na picar a tu cuñada?\nMe dejas la piel hinchada,\ny el sueño perdido,\neres el ser más temido,\nde la noche en la almohada.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "mosquito"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Leo las letras que antaño escribiste,\npapel amarillo, tinta ya borrosa,\nfue una época hermosa, radiante y rosa,\nantes de que el alma se pusiera triste.\n\n¿Por qué te fuiste? ¿Por qué no resiste,\nel amor al tiempo que todo lo acosa?\nHoy esta carta es la única cosa,\nque prueba que tú, mi bien, exististe.\n\nLa quemo en el fuego con gran desconsuelo,\ny el humo se lleva mi amor hacia el cielo.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "carta"
+  }
+}

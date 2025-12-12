@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juntos andamos la misma y fiel senda (A),\nsin miedo a la sombra, sin temor al mal (A),\nel alma que a nadie se arrenda (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Senda"
+  }
+}

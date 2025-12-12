@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La guerra es la pena,\nque los poderosos causan,\nsin razón ni fin.\nEl pueblo sufre la carga,\nde la ambición de unos pocos.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Guerra"
+  }
+}

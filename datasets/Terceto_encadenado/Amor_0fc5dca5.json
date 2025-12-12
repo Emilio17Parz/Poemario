@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fue la suerte cruzarme en tu camino,\nun regalo que el tiempo me guardaba,\nmarcado por el hado y el destino.\n\nLa vida sin tu luz se me apagaba,\npero llegaste tú con tu alegría,\na llenar el vacío que quedaba.\n\nY ahora eres el sol de mi día.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "destino"
+  }
+}

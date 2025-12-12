@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tengo miedo,\nde ser,\ny caer,\nsin red.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "ser"
+  }
+}

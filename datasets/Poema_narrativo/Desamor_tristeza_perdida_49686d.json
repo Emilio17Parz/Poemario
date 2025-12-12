@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El dolor fue tan fuerte que no sintió nada,\nSolo un frío de mármol, un alma quebrada.\nLa herida no sangró, se volvió de cristal,\nUn recuerdo brillante de un golpe fatal.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "herida"
+  }
+}

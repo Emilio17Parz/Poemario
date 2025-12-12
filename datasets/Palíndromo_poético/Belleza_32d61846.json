@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Es belleza, surge, don.\nLuz pura, en cada ver.\n¡Oh, la forma, esencia de ser!\nVer cada, en pura luz.\nDon, surge belleza, es.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "forma"
+  }
+}

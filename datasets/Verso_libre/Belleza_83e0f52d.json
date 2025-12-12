@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mundo sería triste en blanco y negro.\nGracias por el rojo de la sangre,\nel azul del abismo,\nel verde de la esperanza.\nEl color es la música de los ojos,\nla vibración de la luz\nque pinta de alegría la existencia.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "color"
+  }
+}

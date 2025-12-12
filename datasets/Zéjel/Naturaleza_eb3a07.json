@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La nieve tiene un don,\ny la vida es un colchón.\n\nEl blanco ya me ganó,\nla pena ya se me fue,\nel alma ya me sanó,\ny la vida es un colchón.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

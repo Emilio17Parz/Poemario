@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me miro en el cristal y no hallo mi cara,\nsino las esquirlas de una vida rara.\nEl espejo se ha roto, la imagen se fue,\nla triste agonía de un ser sin fe.\n\nNo tengo un reflejo, no tengo una voz,\nsolo el ruido constante de un triste arroz.\nMi ser es la sombra que el tiempo me da,\nla cruel anatomía de la única verdad.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

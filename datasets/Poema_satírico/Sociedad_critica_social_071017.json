@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Café de especialidad,\ndonde había una tasca,\nadios a la identidad,\ny hola a la borrasca.\nEl barrio se pone cool,\ny tú te vas al baúl.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Gentrificación"
+  }
+}

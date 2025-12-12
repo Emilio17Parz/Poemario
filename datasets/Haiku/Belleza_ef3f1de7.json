@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Puente de luz,\ncolores tras la lluvia,\npromesa bella.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "arcoíris"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche se hace gigante\ncuando el amor se ha marchado,\nlas horas pasan muy lentas\npara el pobre enamorado.\nBusco tu bulto en la sombra\ny solo encuentro el costado\nde una cama solitaria\ndonde he sido abandonado.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "noche"
+  }
+}

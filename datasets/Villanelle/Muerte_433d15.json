@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viene la muerte callada,\na llevarse lo que es suyo,\nen la triste madrugada.\n\nNo deja nada,\nni tuyo ni puyo,\nviene la muerte callada.\n\nEs la llegada,\ndel gran barullo,\nen la triste madrugada.\n\nLa vida amada,\nes un murmullo,\nviene la muerte callada.\n\nDesesperada,\nsin el orgullo,\nen la triste madrugada.\n\nQueda parada,\ncomo un capullo,\nviene la muerte callada,\nen la triste madrugada.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "parca"
+  }
+}

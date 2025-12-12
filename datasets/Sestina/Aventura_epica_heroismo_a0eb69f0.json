@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla la fiel espada,\ncompañera de batallas,\nque defiende el honor.\nCausa el terror,\nen las filas enemigas,\ncuando corta el aire.\n\nCorta el aire,\nla espada,\ny sus fatigas.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "espada"
+  }
+}

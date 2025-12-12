@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En calma y silencio,\nEscucho la voz,\nY reverencio.\nEn calma y silencio,\nYo presencio,\nA Dios.\nEn calma y silencio,\nEscucho la voz.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "calma"
+  }
+}

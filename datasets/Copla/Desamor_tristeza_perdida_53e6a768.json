@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "La pena me inunda el alma,\nun dolor sin compasión,\nya no encuentro paz ni calma,\ndesde aquel triste adiós.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

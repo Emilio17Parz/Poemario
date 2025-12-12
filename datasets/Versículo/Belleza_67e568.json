@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La nieve cae y transforma lo sucio en inmaculado, cubriendo las heridas de la ciudad con un vendaje blanco.\nEs la belleza del silencio y la pureza, un manto de paz que hace que el mundo parezca recién creado.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

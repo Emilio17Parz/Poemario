@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Campo sembrado de metal y sangre,\ngritos de furia y el clarín sonando,\nmuere el soldado de hambre\ny su hogar añorando.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

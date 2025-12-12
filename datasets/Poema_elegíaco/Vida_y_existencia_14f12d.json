@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Me pongo la máscara para poder salir,\nla vida sin la calma, sin poder huir.\nLa sonrisa es la mentira que el mundo me dio,\nla sombra constante que al final me vio.\n\nNo tengo el rostro, no tengo la paz,\nla vida sin la calma, sin ser capaz.\nMi rostro es la sombra de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

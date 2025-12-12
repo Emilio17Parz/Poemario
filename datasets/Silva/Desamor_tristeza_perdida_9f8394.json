@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El invierno llega,\nal alma cansada,\nque está helada,\ny ya no juega.\nEl frío anega,\nmi triste rincón,\nsin ilusión,\nque el calor despliega.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "frío"
+  }
+}

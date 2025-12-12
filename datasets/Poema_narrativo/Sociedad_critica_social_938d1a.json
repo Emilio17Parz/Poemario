@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cuando todo era negro, y el fin parecía,\nUna vela se encendió, y la niña sonreía.\nLa esperanza es el fuego que al alma levanta,\nLa fe que se esconde bajo la dura manta.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

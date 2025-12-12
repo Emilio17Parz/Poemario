@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sufre la gente,\ninocente.\n\nSin comida,\nni bebida,\nmuy perdida,\nla mente.\n\nSufre la gente,\ninocente.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "gente"
+  }
+}

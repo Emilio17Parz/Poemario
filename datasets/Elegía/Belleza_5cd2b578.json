@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Antes eras color,\ny luces brillantes,\nhoy son gigantes,\nde humo y dolor.\nPerdiste el olor,\na flores fragantes,\nsois humeantes,\nsin amor.\nCiudad fea y sucia,\nque has olvidado,\ntu astucia.\nHas cambiado,\nla caricia,\npor lo malvado.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

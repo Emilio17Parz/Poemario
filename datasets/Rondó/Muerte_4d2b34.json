@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tengo el temor,\nA morir,\na partir,\ncon dolor.\nSin amor,\nal dormir.\nTengo el temor.\n\nLo desconocido,\nme asusta,\nno me gusta,\nlo perdido.\nEl olvido,\nme disgusta.\nTengo el temor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "temor"
+  }
+}

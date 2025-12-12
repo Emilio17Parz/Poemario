@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Tras la furia del viento,\nqueda la rama partida,\nla cosecha destruida,\ny el nido sin sustento.\n\nEs un triste monumento,\na la fuerza desmedida,\nque deja la tierra herida,\ny llena de sufrimiento.\n\nDestrucción que trae el cielo,\nrompiendo la paz y el velo.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tirsis:\nTraigo para ti, mi bella amada,\nun nido de jilgueros que he encontrado,\ny un ramo de jazmines, bien atado,\ncon la cinta de seda delicada.\n\nCloris:\nAcepto tu presente con agrado,\npues más que flores veo tu intención,\nde regalarme entero el corazón,\nen este valle quieto y sosegado.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "regalo"
+  }
+}

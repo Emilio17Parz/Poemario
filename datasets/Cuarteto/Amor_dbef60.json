@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me ciñes con la fuerza de tus brazos,\ncreando una muralla inexpugnable,\nun vínculo perfecto y admirable,\nuniendo de mi ser los mil pedazos.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

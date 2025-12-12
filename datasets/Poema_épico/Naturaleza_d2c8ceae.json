@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bóveda inmensa donde reinan los astros,\ncampo de batalla de la tempestad.\nAllí se dibuja la eternidad,\nborrando del hombre los efímeros rastros.\nEl trueno es el carro de un dios enojado,\nel sol es el escudo dorado.\nMiramos arriba con miedo y anhelo,\nal magno poder del infinito cielo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro el espejo,\ny veo a otro,\nun reflejo,\nen el potro.\n\nY veo a otro,\nque me mira,\nen el potro,\nque gira.\n\nQue me mira,\nmiro el espejo,\nque gira,\nun reflejo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

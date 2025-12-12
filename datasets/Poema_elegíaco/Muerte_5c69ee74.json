@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llegó implacable y certero el fin,\ncortando el hilo de la vida amada,\ndejando nuestra casa desolada,\nsin música, sin luz y sin festín.\nLloro la ausencia que no tiene cura,\ny la victoria de la sepultura.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "fin"
+  }
+}

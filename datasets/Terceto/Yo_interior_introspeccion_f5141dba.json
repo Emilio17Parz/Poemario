@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fluyo constante como el agua va,\ncambiando de forma y pensamiento,\nsin ser el mismo que estuvo allá.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "río"
+  }
+}

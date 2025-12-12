@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fue dulce tu palabra y mentirosa,\nun velo que cubría la traición,\nperdí la razón,\ncreyendo que eras pura y amorosa.\nEngaño vil que duele como espada,\nalma desolada,\npinchado por la espina de la rosa,\ntan dolorosa.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "engaño"
+  }
+}

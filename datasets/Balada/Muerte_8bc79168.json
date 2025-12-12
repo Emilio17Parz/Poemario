@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un manto oscuro, sin fulgor,\nse tiende sobre el ancho mar,\nes la visita sin error,\nque siempre habrá de regresar.\n\nCon paso tenue, sin rumor,\npenetra el alma y la quietud,\nun frío abrazo sin calor,\nque quiebra toda juventud.\n\nArranca el brillo de la flor,\nla risa alegre, el fuerte andar,\nel dulce sueño del amor,\nque nadie puede rescatar.\n\nDel cuerpo inerte, su esplendor,\ntras el adiós y el hondo pesar,\ntan solo queda ya el **polvo**,\nque el viento habrá de esparcir.\n\nMas de la vida, su fulgor,\npermanece en el recordar,\nun eco eterno, sin temor,\nque el tiempo no ha de borrar.\n\nAsí la muerte, sin candor,\nnos muestra el fin, el último umbral,\nun viaje eterno, sin dolor,\nal que nos guía el hado fatal.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me enamora tu voz\ncuando dices mi nombre,\nes un lazo precoz.\nMe enamora tu voz,\nel tiempo pasa veloz\ncuando miro a este hombre.\nMe enamora tu voz\ncuando dices mi nombre.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "voz"
+  }
+}

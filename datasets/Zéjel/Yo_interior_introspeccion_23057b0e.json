@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Profundo es mi ser, lo siento,\nUn alma busca su aliento.\n\nEn cada rincón me pierdo,\nLuego me hallo y me acuerdo,\nDel amor que me concedo.\nProfundo es mi ser, lo siento.\n\nMe muestra el **espejo** fiel,\nMi verdad, sin rastro cruel,\nMás allá de mi piel.\nUn alma busca su aliento.\n\nLas sombras se desvanecen,\nLas dudas ya no me ofrecen,\nVías que me entristecen.\nProfundo es mi ser, lo siento.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El desierto me miente\ncon arenas de oro y luz.\nEl calor insistente\nque carga mi cruz.\n\nLa sed es mi guía,\nla agonía, mi pan,\nla única vía\npara seguir el plan.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

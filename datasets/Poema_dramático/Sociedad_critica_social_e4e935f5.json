@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "INMIGRANTE: Vengo a trabajar, a buscar vida.\nGUARDIA: Aquí tu entrada está prohibida.\nINMIGRANTE: En mi tierra hay guerra y dolor.\nGUARDIA: No es mi problema, por favor.\nINMIGRANTE: Soy humano, tengo derechos.\nGUARDIA: La ley es dura, son los hechos.\nINMIGRANTE: Cruzaré el mar o saltaré el muro.\nGUARDIA: Te espera un destino oscuro.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "muro"
+  }
+}

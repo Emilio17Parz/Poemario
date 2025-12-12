@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Qué habrá detrás de la puerta oscura?\n¿Un jardín de luz y de ambrosía?\n¿O la noche eterna y fría\ndonde se pierde la figura?\n\nEs la pregunta, la duda dura,\nque nos persigue día a día,\nla fe promete alegría,\nla razón solo conjetura.\n\nCruzaremos el umbral solos,\nsin equipaje y sin mapa,\nhacia los desconocidos polos.\n\nLa muerte su rostro tapa,\ny bajo sus negros rolos,\nnuestra conciencia atrapa.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

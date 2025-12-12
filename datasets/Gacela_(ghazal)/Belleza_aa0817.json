@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Son dos luceros tus bellos ojos,\nmirada profunda de tus bellos ojos.\n\nSe pierde mi alma en su oscuridad,\npozos de luz son tus bellos ojos.\n\nNo mienten nunca, son la verdad,\nespejo del ser son tus bellos ojos.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

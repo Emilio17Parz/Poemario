@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "MERCADER: Mira este diamante, ¡qué gran fulgor!\nSABIO: Prefiero el brillo de una estrella.\nMERCADER: Pero esta joya es mucho más bella.\nSABIO: Y sin embargo, no tiene calor.\nEl brillo que compra el vil dinero,\nno vale la luz del lucero.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

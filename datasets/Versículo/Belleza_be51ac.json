@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza suprema no está en la parte, sino en el todo, en la relación perfecta entre los elementos.\nLa armonía es la paz visual, el equilibrio sagrado donde nada sobra y nada falta, y el alma descansa.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

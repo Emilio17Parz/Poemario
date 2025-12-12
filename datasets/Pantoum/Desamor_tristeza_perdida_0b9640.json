@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te busco a veces en cada sombra,\npero es inútil mi caminar,\nmi propia voz ya no te nombra,\npara intentar no recordar.\n\nPero es inútil mi caminar,\nporque te llevo dentro grabado,\npara intentar no recordar,\ntodo lo que hemos amado.\n\nPorque te llevo dentro grabado,\nmi propia voz ya no te nombra,\ntodo lo que hemos amado,\nte busco a veces en cada sombra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

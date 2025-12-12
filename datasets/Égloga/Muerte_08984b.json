@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Habrá verdes prados allá,\ndonde van las almas muertas?\n¿Habrá majadas abiertas\ny un sol que nunca se va?\nMi fe me dice que habrá\nglrias y dichas ciertas.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "fe"
+  }
+}

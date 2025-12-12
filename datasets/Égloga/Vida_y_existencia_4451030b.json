@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No hay camino marcado,\npastor, en esta montaña,\ncada uno con su maña,\nabre el paso en el prado.\nA veces vas desolado,\nentre zarza y telaraña,\ny otras veces te baña,\nla luz del sol adorado.\nLo importante es el andar,\nno tanto el llegar,\nsino el propio transitar.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "senda"
+  }
+}

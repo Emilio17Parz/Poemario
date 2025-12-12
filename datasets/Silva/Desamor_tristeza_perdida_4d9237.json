@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento un hueco frío,\ndentro de mi pecho,\ntodo está deshecho,\nen este vacío.\nYa no es mío,\ntu dulce querer,\ny he de perder,\nla esperanza en el río.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

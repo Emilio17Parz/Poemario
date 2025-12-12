@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El reto tiene un valor,\nsin ningún temor.\n\nLa prueba ya me ganó,\nla vida me llegó,\nel alma se me sanó,\nsin ningún temor.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "desafío"
+  }
+}

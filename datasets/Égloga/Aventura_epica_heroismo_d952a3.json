@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se cayó la cabra en el risco,\ncolgada sobre el abismo,\ny yo con gran heroísmo,\nme jugué el tipo y el disco.\n\nBajé con la cuerda listo,\ny la saqué de la muerte,\nfue cosa de buena suerte,\ny de valor imprevisto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rescate"
+  }
+}

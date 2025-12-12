@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El río baja sucio,\nde la fábrica nueva,\nla muerte lleva,\nal pez lucio.\n\nEs el estucio,\ndel progreso,\nque pone peso,\nen el juicio.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "contaminación"
+  }
+}

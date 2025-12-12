@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Queda ceniza del viejo fuego,\nrecuerdos grises que lleva el viento,\nfue nuestro amor un triste juego,\nque terminó en sufrimiento.\n\nRecuerdos grises que lleva el viento,\nse desvanecen en la distancia,\nque terminó en sufrimiento,\nperdiendo toda su fragancia.\n\nSe desvanecen en la distancia,\nfue nuestro amor un triste juego,\nperdiendo toda su fragancia,\nqueda ceniza del viejo fuego.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

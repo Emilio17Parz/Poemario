@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Risa que sana el alma herida,\nmúsica que contagia bienestar,\nbiene a dar,\nluz y color a nuestra breve vida.\nNo pierdas el humor ante el dolor,\nes mejor,\nreír que lamentar la mala suerte,\nhasta la muerte.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "risa"
+  }
+}

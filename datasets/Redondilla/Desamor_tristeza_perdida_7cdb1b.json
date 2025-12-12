@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te fuiste sin hablar,\ndejando todo muerto,\nen este gran desierto,\ndonde solo hay llorar.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es frágil, un cristal que se va a romper (A),\nla forma que se pierde, sin avisar (B),\nla fuerza que impulsa el querer vencer (A),\nel alma que quiere volar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Frágil"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Apunta al cielo el ciprés,\nguardián del cementerio,\nsin prisa y sin estrés,\nguarda el misterio.\n\nGuardián del cementerio,\nraíces entre los muertos,\nguarda el misterio,\nde ojos abiertos.\n\nRaíces entre los muertos,\nsin prisa y sin estrés,\nde ojos abiertos,\napunta al cielo el ciprés.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

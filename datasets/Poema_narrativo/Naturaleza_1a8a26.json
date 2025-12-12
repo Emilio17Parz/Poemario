@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Un niño entró en el bosque buscando una fruta,\nPero se perdió pronto, confundió la ruta.\nEl bosque se hizo denso, oscuro y mortal,\nY el niño aprendió solo qué es el mal natural.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

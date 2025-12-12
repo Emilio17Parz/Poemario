@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sello de fuego, pacto de ternura,\nbeso que rompe la prisión oscura.\nToque divino que el alma despierta,\ncuando la boca amada está cerca.\n\n¡Loor al beso, puente de las almas,\nque trae consigo las divinas calmas!\nSímbolo eterno de la fe jurada,\nen el altar de la pasión sagrada.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "beso"
+  }
+}

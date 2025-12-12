@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Columnas rotas en el suelo,\ntemplo de mármol caído,\nsu esplendor ha partido,\nbajo el plomizo cielo.\n\nYa no causan desvelo,\nal viajero perdido,\nsolo un gemido,\nde polvo y de hielo.\n\nGrandeza que fue y no es,\nrendida a mis pies.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "ruinas"
+  }
+}

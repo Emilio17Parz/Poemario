@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me pierdo siempre en la luz de tus ojos,\ndonde nace el brillo de la mañana,\ny se esconde el secreto del amor.\nNo existe para mi alma mayor tesoro,\nque navegar en ese mar profundo,\ny encontrar en tu mirar mi paz.\n\nEn tu mirar encuentro mi paz,\ncuando me veo en tus ojos,\ny me entrego a este amor.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

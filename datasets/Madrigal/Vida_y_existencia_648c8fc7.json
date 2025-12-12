@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En este laberinto\nde pasiones, de dudas y temores,\nbuscamos los amores\nguiados por instinto.\nEs un mundo distinto,\nlleno de errores,\ndonde luchamos con el mal recinto.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

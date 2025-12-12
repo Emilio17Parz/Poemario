@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL CABALLERO]\n(Sosteniendo a su amigo moribundo)\n¡Me has mentido, hermano de armas! Tu pacto era con el oro, no con la gloria.\nHas vendido nuestro reino, nuestra causa, por unas monedas sucias.\nMuere tranquilo. Tu traición no será en vano. Me ha enseñado la única verdad:\nNo hay honor en el mundo, solo la fría conveniencia. Y ahora, yo soy tu juez.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "traición"
+  }
+}

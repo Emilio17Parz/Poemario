@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo eres hoy lo que fue carne viva,\nurna pequeña guarda tu ser completo,\nla llama destructiva\ndejó tu historia en un secreto.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

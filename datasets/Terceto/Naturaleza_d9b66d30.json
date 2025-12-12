@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Golpean las olas contra la roca,\ncon ritmo eterno y fuerza de titán,\ny espuma blanca sale de su boca.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "olas"
+  }
+}

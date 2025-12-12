@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "NOS\n  O\n   T\n    R\n     O\n      S\n\n(rotos)",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "ruptura"
+  }
+}

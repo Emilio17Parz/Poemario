@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Está solo,\nen la sala,\nla bala,\ndel polo.\nEl dolo,\nde la ala.\nEstá solo.\n\nSin compañía,\nque hable,\nel cable,\ndel día.\nLa vía,\namable.\nEstá solo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "solo"
+  }
+}

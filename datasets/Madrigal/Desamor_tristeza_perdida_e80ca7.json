@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llegamos al final del camino,\ny miro alrededor y no hay nada,\nsenda cerrada,\npor capricho cruel de nuestro destino.\nSe terminó la magia y el encanto,\nqueda el espanto,\nde ver que todo fue un desatino,\ny un remolino.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "fin"
+  }
+}

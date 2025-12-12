@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nos cubre el gran silencio,\ny el misterio presencio.\n\nSe apaga la mirada,\nse acaba la jornada,\nla vida es retirada,\ny nada diferencio.\n\nNos cubre el gran silencio,\ny el misterio presencio.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En cada pétalo y en cada cielo azul,\nUn resplandor divino, un halo de luz,\nQue el arte eterno sabe reproducir.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

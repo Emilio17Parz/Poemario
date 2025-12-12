@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Me adentro en mi ser, sendero sin atajo,\nbusco la quietud, la pura soledad,\ndonde el alma vive en su más hondo tajo.\n\nAllí, con la sombra, busco la verdad,\nuna voz secreta, un rincón oculto,\ny surge la **duda** en la inmensa oscuridad.\n\n¿Es este silencio un don o un insulto?\nMientras mi conciencia se rompe en un cristal,\nel eco responde a mi lamento culto.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "duda"
+  }
+}

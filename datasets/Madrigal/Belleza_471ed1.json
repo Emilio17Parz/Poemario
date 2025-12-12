@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tela suave que resbala en la piel,\ncomo caricia de agua o de brisa,\ncon sonrisa,\ndulce y ligera como la miel.\nLujo antiguo traído de oriente,\npresente,\nen el vestido que realza el porte,\ndel norte.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tacto"
+  }
+}

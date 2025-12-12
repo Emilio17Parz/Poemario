@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu mentira me hirió,\ny la fe se me murió.\n\nEl alma ya se rompió,\nel destino me engañó,\nla vida me traicionó,\ny la fe se me murió.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "traición"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi alma naufraga (7a),\nen el mar cruel (5b),\nla pena me plaga (7c),\nsin una miel (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Naufragio"
+  }
+}

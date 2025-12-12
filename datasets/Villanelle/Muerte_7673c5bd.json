@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visten de negro los corazones,\nllorando al ser que se marchó,\nbuscando en vano las razones.\n\nSuenan las tristes oraciones,\npor el amigo que faltó,\nvisten de negro los corazones.\n\nYa no valdrán las ilusiones,\npues la guadaña las cortó,\nbuscando en vano las razones.\n\nQuedan las fotos en los rincones,\ndel tiempo que se terminó,\nvisten de negro los corazones.\n\nSufren las almas en sus prisiones,\nde soledad que les dejó,\nbuscando en vano las razones.\n\nSon del dolor las estaciones,\nque el destino decretó,\nvisten de negro los corazones,\nbuscando en vano las razones.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

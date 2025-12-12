@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acerca lenta con su paso leve,\nsin hacer ruido pisa el suelo humano,\ny extiende su huesuda y fría mano\npara cobrar la deuda que se debe.\n\nNo hay súplica que su intención remueve,\nni sirve el llanto, ni el gritar en vano,\npues trata igual al rey y al aldeano,\ny a todos su guadaña se atreve.\n\nSeñora de la sombra y del final,\nque cortas el cordón de plata y oro\ncon tu filo preciso y sepulcral.\n\nLlegas a clausurar el gran aforo,\nllevándote la esencia terrenal\nhacia el silencio del eterno coro.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "parca"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dejé el cayado por la espada,\ncuando la guerra llegó,\ny mi rebaño quedó,\npor la patria amada.\n\nLuché en la batalla pesada,\nsoñando con mi vergel,\ny volví con la piel,\ncurtida y marcada.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

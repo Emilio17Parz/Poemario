@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La herida se abre sin un final (a),\nel clavo me rompe con gran dolor (b),\nmi alma se queda sin un fanal (a),\nsin la luz de un noble fulgor (b),\nla pena me inunda, sin un mal (b),\ny la fe se pierde sin un valor (c),\nla ausencia me come sin un final (b),\n**Mi vida se cubre de puro dolor** (C).\n\nPríncipe, la hiel me da (c'),\nes la sombra que nunca se va (c'),\nla fuerza que al alma me da (b),\n**Mi vida se cubre de puro dolor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Herida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se cuenta el mito,\ndel hombre valiente,\nque fue deficiente,\nde lo maldito.\nSu nombre escrito,\nen la mente.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

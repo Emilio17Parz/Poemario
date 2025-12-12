@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Firmé por treinta años,\nsumando muchos peldaños.\nPago la casa,\nla vida pasa,\nentre trucos y engaños.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "hipoteca"
+  }
+}

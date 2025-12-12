@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Torres que besaban nubes,\nhoy nidos de cuervos son,\nsin corazón,\nni querubes.\n\nSubes,\nal torreón,\nen declinación,\ny no te incubes.\n\nFortaleza vencida,\npor la vida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "castillo"
+  }
+}

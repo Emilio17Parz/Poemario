@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La musa siempre inspira\nal poeta soñador,\nque en sus ojos se mira\ny encuentra el puro amor.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "inspira"
+  }
+}

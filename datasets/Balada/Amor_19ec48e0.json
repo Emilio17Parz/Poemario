@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nadie sabe que nos vemos,\ncuando el sol se va a dormir,\nen las sombras nos queremos,\nsin hablar y sin mentir.\nNuestro secreto ha de vivir,\naunque el mundo quiera prohibir.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

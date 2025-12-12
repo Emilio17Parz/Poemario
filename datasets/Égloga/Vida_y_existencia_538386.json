@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El bosque cambia de traje,\nsegún la estación del año,\nnada escapa al peldaño,\ndel tiempo y su rodaje.\n\nNosotros en el viaje,\ntambién mudamos la piel,\nsiendo a veces miel,\ny otras veces salvaje.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

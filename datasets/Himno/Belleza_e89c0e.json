@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Arcoíris que pintas el día,\nllenando los ojos de alegría!\nRojo de fuego, azul de la mar,\nverde del bosque para soñar.\n\n¡Salve, oh color, fiesta de la luz,\nque quitas del gris la triste cruz!\nEl mundo sin ti sería un lamento,\ntú eres la vida y el movimiento.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "color"
+  }
+}

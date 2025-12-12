@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me diste la Llave un día,\npara entrar en tu razón,\nahora la busco y no hay guía,\ny se perdió mi pasión.\n\nMe quedé en la calle fría,\nsin un poco de valor,\ny mi alma ya no ría,\nsin tu dulce amor.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Llave"
+  }
+}

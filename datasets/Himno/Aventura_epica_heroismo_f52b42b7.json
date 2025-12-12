@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Loor al viaje hacia lo desconocido,\na la aventura de navegar,\ny nuevos mundos poder hallar,\nlejos del puerto y el nido.\nEspíritu libre del explorador,\nque busca siempre un mundo mejor.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

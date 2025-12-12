@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Bestia de fuego y escama,\nque guardas el tesoro en la caverna;\nla noche eterna\nes tu cama;\nmas viene el caballero decidido,\nque ha venido\na darte muerte fiera,\ny liberar la tierra prisionera.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

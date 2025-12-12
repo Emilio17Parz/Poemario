@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Puente de oro que sube a la altura,\nplegaria que nace de la criatura!\nSusurro o grito que busca al Señor,\npidiendo clemencia, paz y favor.\n\n¡Loor a la voz que al cielo se eleva,\ny que la carga del alma releva!\nDiálogo santo de amor y confianza,\ndonde renace la dulce esperanza.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "oración"
+  }
+}

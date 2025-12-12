@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La lágrima me cae (7a),\nde amargo dolor (5b),\nla vida se va y trae (7c),\nla ausencia de amor (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Lágrima"
+  }
+}

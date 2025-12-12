@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuelve la flora con sus colores vivos,\ncantan las aves el renacer del año,\nya no hay vientos esquivos\nni del invierno queda el daño.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

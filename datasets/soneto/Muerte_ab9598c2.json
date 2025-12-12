@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cerrar los ojos para no abrirlos,\ndejar caer el cuerpo en el abismo,\nperder la identidad y el egoísmo,\ny soltar los afanes, no sufrirlos.\n\nYa no hay que combatir ni resistirlos,\nlos dolores del cruel fatalismo,\nse entra en la paz del magno mecanismo\nsin miedos que puedan ya herirlos.\n\nLa muerte es un dormir sin despertar,\nun descanso profundo y merecido\ntras el largo cansancio de bregar.\n\nEn ese lecho oscuro y escondido,\nnadie puede el silencio perturbar,\npues todo ruido queda suspendido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sueño_eterno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cien voces unidas en una sola,\ntorrente de notas y emoción,\ncomo la fuerza de una ola,\ngolpea directo al corazón.\nArquitectura de sonido y tiempo,\nsublime y vasto pasatiempo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Sinfonía"
+  }
+}

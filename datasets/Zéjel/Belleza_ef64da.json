@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es pura luz,\ny nos quita toda la cruz.\n\nEl alma ya no está mal,\nsin engaño ni puñal,\nel arte es lo real,\ny nos quita toda la cruz.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "arte"
+  }
+}

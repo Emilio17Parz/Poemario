@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta siempre la duda,\nsobre qué debo hacer,\nla realidad es muda,\ny me cuesta comprender.\n\nSobre qué debo hacer,\nen este mundo complejo,\ny me cuesta comprender,\nel sentido del reflejo.\n\nEn este mundo complejo,\nme asalta siempre la duda,\nel sentido del reflejo,\nla realidad es muda.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "duda"
+  }
+}

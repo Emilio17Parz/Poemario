@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La paz que es eterna, sin más padecer,\nla calma que inunda el alma sin par,\nla vida es un breve atardecer,\nel fin que viene a sanar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Eterna"
+  }
+}

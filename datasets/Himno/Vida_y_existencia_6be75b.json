@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Lazo que une sin sangre ni ley,\nmás fuerte que el oro o el mando del rey!\nRefugio en la pena, risa en la fiesta,\nla mano extendida, la puerta dispuesta.\n\n¡Salve, amistad, tesoro sincero,\nque alumbras la vida como un lucero!\nQuien tiene un amigo, tiene un caudal,\nseguro y eterno contra todo mal.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "amistad"
+  }
+}

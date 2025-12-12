@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Breve momento,\nun rayo de sol tibio\nen el invierno.\nNo es meta, es el camino\nde paz en el andar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "felicidad"
+  }
+}

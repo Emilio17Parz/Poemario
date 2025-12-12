@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miedo al futuro,\nsin tu mano,\ntodo es vano,\ny muy oscuro.\nEs un muro,\nque no salto,\nen el asfalto,\ndel camino duro.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

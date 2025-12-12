@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "De un reino antiguo la leyenda brota,\nUn héroe surge, bravo y sin temor,\nSu noble estirpe el tiempo no derrota.\n\nCon cada paso calma su dolor,\nEn busca de la luz que lo guiaba,\nCon sangre y fuego, en pleno resplandor.\n\nEl horizonte oscuro le anunciaba\nLa gran batalla, el grito y la tensión,\nSu corazón guerrero no temblaba.\n\nDispuesto a dar su vida y su pasión,\nPor la justicia, un ideal sagrado,\nCon pura entrega y gran convicción.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

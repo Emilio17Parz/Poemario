@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Los hombres hacen la guerra,\npor codicia y por poder,\ny hacen desaparecer,\nla paz sobre la tierra.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "paz"
+  }
+}

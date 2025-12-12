@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cavó el túnel,\ncon una cuchara,\npara que su cara,\nvea el vergel.\nPasó por debajo,\ndel muro alto,\ny dio el salto,\ncon trabajo.\nCorrió por el bosque,\nsin que se enrosque.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Podrá nublarse el sol eternamente,\npodrá secarse en un instante el mar,\npodrá quebrarse el eje de girar\ny el mundo ser un caos de repente.\n\nMas nunca de mi mente, ni un momento,\ntu imagen borrará la muerte fría,\npues arde en mi interior la llama pía\nque vence al tiempo y a su movimiento.\n\nAmor que trasciende la vida humana,\nque cruza las fronteras del olvido,\ny bebe de la fuente soberana.\n\nPor siempre, amada mía, he decidido,\nque, aunque la tierra quede yerma y vana,\nserás el único ser elegido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sol"
+  }
+}

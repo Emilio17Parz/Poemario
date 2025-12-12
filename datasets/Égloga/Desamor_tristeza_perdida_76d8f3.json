@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Las flores que le di ayer,\nestán tiradas en el sendero,\npisadas por el paso ligero,\nde quien no me quiso querer.\n\nEs el destino del padecer,\nver la belleza vuelta basura,\ny comprender con gran amargura,\nque todo empieza a perecer.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flores"
+  }
+}

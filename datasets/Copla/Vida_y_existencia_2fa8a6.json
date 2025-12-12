@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Soñar es vivir sin luz (a),\ncrear un mundo sin par (b),\nel peso de mi gran cruz (c),\nla forma de al fin amar (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Soñar"
+  }
+}

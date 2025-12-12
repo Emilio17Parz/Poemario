@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Plato abajo\ncon el oro\nplato arriba\ncon la verdad\ninjusticia\nque pesa\nmás.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "injusticia"
+  }
+}

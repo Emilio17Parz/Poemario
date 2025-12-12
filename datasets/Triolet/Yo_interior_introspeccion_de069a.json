@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soy como el río,\nQue siempre cambia,\nCon mucho brío.\nSoy como el río,\nSin desvarío,\nNi mucha labia.\nSoy como el río,\nQue siempre cambia.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "río"
+  }
+}

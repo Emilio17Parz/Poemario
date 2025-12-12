@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fue terrible saber de tu engaño,\nver caer la mentira construida,\ncausándome un terrible y grave daño,\nque ha dejado mi fe destruida.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "engaño"
+  }
+}

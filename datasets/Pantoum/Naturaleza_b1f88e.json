@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Arena dorada y sol,\ninfinita soledad.\nBajo el arrebol,\ncruda realidad.\n\nInfinita soledad,\ndunas que se mueven.\nCruda realidad,\ndonde pocos llueven.\n\nDunas que se mueven,\nbajo el arrebol.\nDonde pocos llueven,\narena dorada y sol.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

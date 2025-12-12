@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Fuerza divina\ntesoro que se gasta\nsin darnos cuenta.\nRisa, locura y sol\nque brilla brevemente.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de la arena donde el sol quema,\ny el horizonte no tiene fin,\nes el silencio su único lema,\nen este seco y duro jardín.\nSolo el que sabe leer sus signos,\npuede cruzar su inmensidad,\ny hallar los pozos que son benignos,\nen medio de la gran soledad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

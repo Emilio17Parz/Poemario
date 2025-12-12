@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "No eres dueño de la tierra,\nsino su humilde inquilino,\ndeja ya la guerra,\ncontra el árbol y el pino.\nCuida la casa que habitas,\no verás cómo te marchitas.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Respeto"
+  }
+}

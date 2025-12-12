@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El esclavo miró la cadena,\nque llevaba puesta al nacer.\nSintió que la sangre en su vena,\nle pedía luchar y vencer.\nRompió el grillete y la pena,\ncorriendo hacia el amanecer.\nLo persiguieron con los perros,\npero él cruzó la ciudad,\ndejando atrás los hierros,\npara ganar su libertad.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

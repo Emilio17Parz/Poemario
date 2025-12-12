@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Boabdil entrega la llave,\nde Granada, su amada ciudad,\nllora con profunda ansiedad,\nsu partida triste y grave.\n'Llora como mujer', suave\nle dice su madre sin piedad,\n'lo que no supiste en verdad,\ndefender como hombre, y se acabe'.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

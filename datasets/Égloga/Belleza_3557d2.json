@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hay belleza en lo oculto,\nen la sombra del pinar.\nEn el susurrar\ndel viento inculto.\nRindo culto\na este lugar.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

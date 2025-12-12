@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "HOMBRE: ¡Detente, Tiempo! Vas muy deprisa.\nTIEMPO: Yo soy el flujo que todo pisa.\nHOMBRE: Déjame gozar este momento.\nTIEMPO: Ya pasó, se lo llevó el viento.\nHOMBRE: ¡Eres cruel! ¡Eres un ladrón!\nTIEMPO: Soy la justicia y la razón.\nAvanza conmigo o muere atrás.\nNadie me puede parar jamás.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Retorno,\nal hogar.\nAdorno,\nretorno.\nLugar,\nsin horno.\nRetorno,\nal hogar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "retorno"
+  }
+}

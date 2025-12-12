@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Maldita sea la guerra,\nque mata a los hijos,\ny destruye el hogar.\nNadie puede ganar,\nsobre tanta sangre,\ny tanta destrucción.\n\nDestrucción,\nde la guerra,\ny el hambre.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

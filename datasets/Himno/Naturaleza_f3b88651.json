@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bóveda inmensa, manto estelar,\ncielo infinito, morada de luz,\ndonde se dibuja la divina cruz,\ny los planetas suelen girar.\nTecho del mundo, sublime y eterno,\nque cubres el verano y el invierno.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

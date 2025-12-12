@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me miras con desdén,\ny no sé qué te hice,\npara que finalice,\nla dicha del edén.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "desprecio"
+  }
+}

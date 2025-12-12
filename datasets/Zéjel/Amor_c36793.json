@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El destino es de los dos,\nsin miedo ni atroz voz.\n\nLa suerte ya se ha dado,\nel camino está trazado,\nsin ningún otro lado,\nsin miedo ni atroz voz.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "destino"
+  }
+}

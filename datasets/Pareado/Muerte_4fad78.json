@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sueño eterno,\nsin invierno.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

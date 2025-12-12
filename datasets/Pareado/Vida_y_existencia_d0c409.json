@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca la verdad en tu propio y noble ser (A),\nla forma más pura de saber vencer (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Verdad"
+  }
+}

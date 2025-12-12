@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego que limpia la carne mortal,\nquedan cenizas de lo que has sido,\npolvo en el viento, rastro perdido,\nciclo cerrado.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

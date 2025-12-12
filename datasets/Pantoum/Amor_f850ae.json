@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo al fin del mundo,\nsin mapa y sin guía.\nUn amor profundo,\nque crece cada día.\n\nSin mapa y sin guía,\naventura compartida.\nQue crece cada día,\nes nuestra vida.\n\nAventura compartida,\nun amor profundo.\nEs nuestra vida,\ncontigo al fin del mundo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

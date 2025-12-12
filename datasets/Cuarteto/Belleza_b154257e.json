@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Busca el artista la perfecta forma,\nen el contorno de la piedra dura,\npara sacar la ideal hermosura\nque no obedece a la estricta norma.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "forma"
+  }
+}

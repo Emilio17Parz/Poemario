@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El castillo,\ntan sencillo.\nDe piedra,\ny de hiedra,\ny ladrillo.\n\nEl brillo,\ndel cuchillo.\nLa medra,\nel castillo.\n\nEl anillo,\ny el pillo.\nLa piedra,\nque arredra,\nel caudillo,\nel castillo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "castillo"
+  }
+}

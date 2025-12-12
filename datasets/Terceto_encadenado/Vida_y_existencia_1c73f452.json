@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Parece nuestra vida un breve sueño,\nuna obra de teatro improvisada,\ndonde nadie del guion es el dueño.\n\nUna luz que se enciende en la nada,\ny brilla con intensidad fugaz,\nhasta que llega la madrugada.\n\nY cae finalmente el antifaz.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

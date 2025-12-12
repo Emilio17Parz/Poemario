@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La luz de las velas parpadea,\nvelando el sueño del que partió,\nmientras la familia se alinea,\nllorando al ser que se perdió.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "velas"
+  }
+}

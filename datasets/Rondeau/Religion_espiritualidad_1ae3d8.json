@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Elevo el rezo,\ny empiezo,\na hablar,\ny orar,\ncon aderezo.\n\nEl tropiezo,\ny el pescuezo,\nal andar,\nElevo el rezo.\n\nEl altar,\ny el mar,\ndel cerezo,\ny el beso,\ndel hogar,\nElevo el rezo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

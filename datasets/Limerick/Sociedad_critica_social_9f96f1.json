@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El triste y humilde esclavo,\nsu vida sin un gran bravo.\nEl yugo es cruel,\ny amargo como hiel,\nel alma sin un gran pavo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Esclavo"
+  }
+}

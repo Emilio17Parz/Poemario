@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "En la forja del viaje, el héroe se alzó,\nPor su férreo **honor**, su destino forjó.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "honor"
+  }
+}

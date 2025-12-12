@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Recorro los salones del gran palacio,\nbuscando la sombra que fuiste ayer,\nel tiempo camina, lento y despacio,\ny me obliga a beber su amargo saber.\nEres espectro, leyenda y dolor,\nel eco maldito de un falso amor.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Fantasma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL VIEJO]\n(A su esposa, en el lecho de muerte)\nNo llores, mujer. Ha sido un buen viaje. Cincuenta años de sol y sombra.\n¿Recuerdas el muelle, bajo la lluvia? Valió la pena, ¿verdad?\nDame la mano. Vamos. Cruzaremos el último umbral juntos, como siempre.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "final_feliz"
+  }
+}

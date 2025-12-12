@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "   amor\n  amor amor\namor TÚ amor\n  amor amor\n     |\n     |\n   raíz",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "flor"
+  }
+}

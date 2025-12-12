@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabra cincelada\ncon el rigor del arte y la medida;\nllama encendida,\nbien regalada\na quien entiende el don de las musas;\nno hay excusas\npara no amar el verso,\nque encierra en sí la clave del universo.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

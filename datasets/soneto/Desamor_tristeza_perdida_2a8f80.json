@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me duele más tu fría indiferencia\nque el odio o el rencor más encendido,\nver que para ti ya no he existido\nes la mayor y cruel penitencia.\n\nPasas por mi lado sin conciencia,\ncomo si fuera un espectro perdido,\ny yo quedo en el suelo abatido\nante tu dura y total ausencia.\n\nHubiera preferido una pelea,\nun grito, un insulto, una pasión,\nalgo que a mis ojos les vea.\n\nPero este silencio y negación\nmata la esperanza y la idea,\ny me deja sin consolación.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espectro"
+  }
+}

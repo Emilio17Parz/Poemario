@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Llave de mi corazón, que tú posees,\nel don de abrir mi más íntimo ser.\nMis secretos y todos mis reveses,\nsolo a tu mano quiero ceder.\n¡Oh, noble acceso, de confianza plena,\nrompiendo toda sombra y cadena!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Llave"
+  }
+}

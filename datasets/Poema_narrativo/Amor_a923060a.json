@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El soldado escribió desde la trinchera,\ncon manos sucias y el alma en un hilo,\nprometiendo volver tranquilo\ncuando acabara la guerra fiera.\nLa carta viajó por mar y por tierra,\npero llegó tarde a su destino,\nella ya había tomado otro camino,\ncansada de la espera que aterra.\nÉl volvió y la vio desde lejos,\ncasada, feliz, y guardó sus espejos.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "espera"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Avanzo dos metros,\ny freno una hora,\nen este atasco eterno,\nmi vida se evapora.\nLa gente me pita,\ncon furia y pasión,\ny yo sueño con,\nla teletransportación.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "tráfico"
+  }
+}

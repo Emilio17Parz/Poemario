@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La paz viene de dentro,\nno la busques fuera,\nen el centro,\nde la esfera.\nSé tu propio refugio,\nsin subterfugio.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

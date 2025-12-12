@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo losa fría y dura,\nduerme el sueño del olvido,\nel que fue y el que ha vivido,\nen la triste sepultura.\nYa no siente la amargura,\nni el calor del sol radiante,\nsolo la quietud constante,\nde la tierra y el gusano,\nque convierte al ser humano,\nen un polvo delirante.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

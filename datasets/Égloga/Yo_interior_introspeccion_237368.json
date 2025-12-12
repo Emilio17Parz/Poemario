@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Laberinto de pensamientos,\ndonde me pierdo a veces.\nCon reveses\ny tormentos.\nSon vientos\ny mieses.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

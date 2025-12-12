@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Olas de espuma blanca\ntiene la mar,\nque a la playa se acercan\npara besar.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "mar"
+  }
+}

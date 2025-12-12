@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pasar de largo\nno mirar el dolor\nalma de hielo.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "indiferencia"
+  }
+}

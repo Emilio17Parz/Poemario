@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "L U Z\n      G R A C I A\n    A R M O N Í A\n  P U R A   E S E N C I A\nB E L L E Z A   V I V A\nD E L      B R I L L O      I N F I N I T O\n  S E     R E V E L A     A L   M I R A R\n    U N     S O P L O    D E   V E R D A D\n      A L M A   Q U E    E N C A N T A\n        P E R F E C T A\n          B E L L E Z A",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

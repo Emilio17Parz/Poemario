@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No sé qué me espera mañana,\nes niebla lo que veo,\nuna ilusión lejana.\n\nLa vida humana,\nes un sorteo,\nno sé qué me espera mañana.\n\nLa mente se afana,\nen el deseo,\nuna ilusión lejana.\n\nSe abre la ventana,\ndel apogeo,\nno sé qué me espera mañana.\n\nLa suerte villana,\no el trofeo,\nuna ilusión lejana.\n\nLa esperanza sana,\nel titubeo,\nno sé qué me espera mañana,\nuna ilusión lejana.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Busco la palabra exacta y pura\nque defina lo que por ti siento,\npero se la lleva el fuerte viento\no se pierde en la noche oscura.\n\nNo hay verbo, ni adjetivo, ni figura\nque abarque todo este sentimiento,\nes un infinito pensamiento\nque desborda cualquier escritura.\n\nTe quiero decir todo y no digo,\npues el lenguaje humano es escaso\npara ser de este amor el testigo.\n\nMejor te doy mi mano y mi paso,\ny que el latir de mi pecho amigo\nte explique lo que en versos fracaso.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "verbo"
+  }
+}

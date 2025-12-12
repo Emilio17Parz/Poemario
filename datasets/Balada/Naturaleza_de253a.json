@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se pone negro el cielo de pronto,\ny el trueno ruge con gran furor,\nel rayo cae sobre el monto,\ncausando espanto y gran temor.\nLa lluvia azota con violencia,\ny el viento aúlla su malestar,\nmostrando toda la potencia,\nque la natura sabe guardar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

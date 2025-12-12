@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Está escrito en el cielo el destino,\nimborrable señal del destino.\n\nAunque intentes cambiar el sendero,\nte devuelve al carril el destino.\n\nSomos barcos en mar de tormenta,\npiloteados por el ciego destino.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "destino"
+  }
+}

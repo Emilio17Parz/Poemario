@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dulce palabra que la boca llena,\npero las manos con cadenas atan,\nsueño del siervo que los amos crueles\narrebatan.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

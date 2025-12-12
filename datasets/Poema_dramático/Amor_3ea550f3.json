@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "CABALLERO: Si me concedéis, señora, ese beso,\npartiré a la guerra con armadura de oro.\nDAMA: No pidáis tal prenda, mi gran tesoro,\nque si os la doy, mi honor queda preso.\nCABALLERO: ¡Sea vuestro honor mi cárcel entonces!\nQue por ese beso enfrentaré mil bronces.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "beso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En la cruz murió Jesús,\npara salvarnos a todos,\ndándonos su luz.\n\nSin capuz,\nde muchos modos,\nen la cruz murió Jesús.\n\nComo andaluz,\nentre codos,\ndándonos su luz.\n\nSin la bus,\nde los apodos,\nen la cruz murió Jesús.\n\nCon la pus,\nde los lodos,\ndándonos su luz.\n\nEn el obús,\nde los godos,\nen la cruz murió Jesús,\ndándonos su luz.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

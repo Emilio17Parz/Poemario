@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hijo de la luz blanca,\nque te rompes en el prisma,\ny vistes la flor y la banca\ncon tu variada carisma.\nRojo de sangre y pasión,\nazul de cielo y de mar,\nverde de la creación,\nque nos invitas a mirar.\nSin ti el mundo es gris,\ntriste sombra y perfil,\ntú pones el matiz\nde un universo sutil.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "color"
+  }
+}

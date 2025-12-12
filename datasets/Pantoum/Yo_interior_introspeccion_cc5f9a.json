@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mis propios demonios,\nsalen a pasear.\nFalsos testimonios,\nque quiero callar.\n\nSalen a pasear,\nparte de mi ser.\nQue quiero callar,\ny no ver.\n\nParte de mi ser,\nfalsos testimonios.\nY no ver,\nmis propios demonios.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "oscuridad"
+  }
+}

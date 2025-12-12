@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sale al camino sin mirar atrás,\ncon el valor como única espada,\ny no se rinde nunca jamás.\n\nBusca la justicia y la paz,\nen la tierra desesperada,\nsale al camino sin mirar atrás.\n\nCon un coraje muy audaz,\ny el alma siempre preparada,\ny no se rinde nunca jamás.\n\nEs el guerrero más capaz,\nde la batalla y la estocada,\nsale al camino sin mirar atrás.\n\nSu fuerza es lumbre y es gas,\nque enciende la noche helada,\ny no se rinde nunca jamás.\n\nAunque el destino sea tenaz,\nél sigue su noble cruzada,\nsale al camino sin mirar atrás,\ny no se rinde nunca jamás.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

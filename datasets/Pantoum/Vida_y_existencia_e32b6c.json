@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gira la gran rueda,\nprincipio y final,\nlo que se va y se queda,\nen el mundo terrenal.\n\nPrincipio y final,\nse muerden la cola,\nen el mundo terrenal,\ncual inmensa ola.\n\nSe muerden la cola,\ngira la gran rueda,\ncual inmensa ola,\nlo que se va y se queda.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "rueda"
+  }
+}

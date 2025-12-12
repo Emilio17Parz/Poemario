@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Quien tiene un amigo fiel,\ntiene un refugio seguro,\nmás dulce que la miel.\n\nUn lazo fuerte y puro,\nque resiste la tempestad,\ny alumbra el camino oscuro.\n\nDe la soledad.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "amistad"
+  }
+}

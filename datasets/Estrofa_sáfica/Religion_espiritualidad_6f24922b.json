@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Baja del cielo la divina luz,\nblanca promesa de la santa cruz,\nbrilla en el alma con su gran trasluz,\nguía del hombre.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "luz"
+  }
+}

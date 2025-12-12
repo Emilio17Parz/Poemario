@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mirada es calma, mi dulce razón (a),\nel espejo que al fin me quiere mostrar (b),\nmi vida se cubre sin condición (a),\nsin sombra que rompa mi noble amar (b),\nla fuerza que impulsa mi fiel corazón (b),\ny la fe que me ayuda a saber al fin volar (c),\nla vida es la única y gran lección (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, la forma de ser (c'),\nes la única forma de vencer (c'),\nla fuerza que ayuda a crecer (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Mirada"
+  }
+}

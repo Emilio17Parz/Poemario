@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Noche sin fin que no trae el sueño,\nsolo fantasmas de lo que perdí,\nsufro en la sombra desde que te vi,\nlejos marchar.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "noche"
+  }
+}

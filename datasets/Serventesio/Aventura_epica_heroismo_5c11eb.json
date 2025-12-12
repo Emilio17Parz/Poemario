@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La ruta es la prueba, el camino sin fin ni error (A),\nde retos y gestas, de luz y de fe (B),\nla vida es un viaje, el gran fulgor (A),\nla fuerza que dice: 'Yo sé' (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Ruta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es el final\nde la vida\ntodo acaba\nde la vida\nes el final",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "final"
+  }
+}

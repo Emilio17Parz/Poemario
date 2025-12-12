@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "```\n           A R T E\n          R A Y O\n         B E L L E Z A\n        L U Z     A L M A\n       F O R M A     V I D A\n      C O L O R E S     S E N T I R\n     A R T E      E N C A N T O\n    B E L L E Z A     P E R F E C T A\n   E X P R E S I Ó N     D E S P I E R T A\n  A R T E       I N F I N I T O\n B E L L E Z A         L U Z\n  A L M A             F O R M A\n   S E N T I R         C O L O R\n    R A Y O           V I D A\n     A R T E         E N C A N T O\n      B E L L E Z A     P U R A\n       L U Z         A L M A\n        F O R M A   V I D A\n         A R T E R A Y O\n          A R T E\n```",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

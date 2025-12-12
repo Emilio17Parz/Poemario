@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Decir adiós es desgarrar el alma,\nsoltar la mano que nos dio calor,\ny perder para siempre nuestra calma.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

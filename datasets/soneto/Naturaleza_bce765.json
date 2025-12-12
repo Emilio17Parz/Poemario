@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Altiva cumbre que la nieve toca,\nvigía eterno de la tierra baja,\ntu roca dura el tiempo no la raja,\nni el viento fuerte tu quietud provoca.\n\nTe alzas solemne, dura como roca,\nrompiendo de las nubes la baraja,\ny ofreces al viajero una ventaja:\nmirar el mundo que a tus pies se apoca.\n\nEscalarte es subir hacia la gloria,\ntocar el techo del mundo visible,\ny grabar en la piedra nuestra historia.\n\nEres, montaña, un reto terrible,\npero también la paz y la memoria\nde lo que es eterno e indestructible.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cumbre"
+  }
+}

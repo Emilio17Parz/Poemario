@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Por un amor que se fue con el viento,\nmi pecho hoy siente un gran lamento.\nSin rumbo me encuentro,\nel dolor llevo dentro,\ny cae una lágrima, un triste tormento.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

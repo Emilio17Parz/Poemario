@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nada se gana sin pena,\nni se vence sin sudor,\nhay que ponerle valor\na esta vida tan ajena.\nRomper la dura cadena\nde la pereza y el miedo,\ndecir siempre 'yo sí puedo'\ny lanzarse a la batalla,\nsaltando cualquier muralla\ncon ímpetu y con denuedo.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

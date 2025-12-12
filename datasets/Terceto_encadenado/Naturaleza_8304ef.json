@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El calor vibra en el aire pesado,\ncantan las cigarras su monodia,\nen el pueblo callado y sosegado.\n\nLa siesta se impone al mediodía,\nbuscando la frescura del rincón,\ndonde reina la calma y la alegría.\n\nEn cada habitación.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "verano"
+  }
+}

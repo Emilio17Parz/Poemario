@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hablan y hablan,\nsin decir nada,\nes la jugada,\nque nos entablan.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "política"
+  }
+}

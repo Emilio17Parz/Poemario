@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Qué triste es la pobreza\ncuando falta el pan y el vino,\ny sobra tanta riqueza\nen la mesa del vecino.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

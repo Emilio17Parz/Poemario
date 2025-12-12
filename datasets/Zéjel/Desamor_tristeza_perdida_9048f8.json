@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La soledad ya me halló,\ny de mi vida se apoderó.\n\nNo hay amigo ni hay luz,\nsolo cargo con la cruz,\nla pena ya es atroz,\ny de mi vida se apoderó.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

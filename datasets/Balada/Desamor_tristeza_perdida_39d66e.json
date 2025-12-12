@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ahora soy libre, vuelo sin red,\npero tengo hambre y tengo sed,\nde aquel cariño que me ataba,\ny que mi espíritu confortaba.\nLa libertad sabe a soledad,\na frío y a cruda realidad,\nextraño el yugo de tu querer,\nque daba sentido a mi ser.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

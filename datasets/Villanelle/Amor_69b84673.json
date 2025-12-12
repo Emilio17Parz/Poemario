@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juntos hacemos el largo camino,\nmano con mano hasta el horizonte,\nsiguiendo el rastro de nuestro destino.\n\nEres el agua y eres el vino,\nel aire fresco que baja del monte,\njuntos hacemos el largo camino.\n\nBajo la sombra del verde pino,\ncanta el jilguero y el sinsonte,\nsiguiendo el rastro de nuestro destino.\n\nTodo es perfecto y todo es divino,\nsi tu sonrisa se ve cual, bifronte,\njuntos hacemos el largo camino.\n\nCruzo los valles y el mar marino,\nsin que la duda jamás me desmonte,\nsiguiendo el rastro de nuestro destino.\n\nLlegamos lejos con paso felino,\npara que el sol nunca se nos ponga,\njuntos hacemos el largo camino,\nsiguiendo el rastro de nuestro destino.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "camino"
+  }
+}

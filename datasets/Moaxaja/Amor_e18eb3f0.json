@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En la noche callada,\nbusco a mi enamorada.\n\nBrillan las estrellas,\nhermosas y bellas,\ndejando sus huellas,\nen la madrugada.\n\nEn la noche callada,\nbusco a mi enamorada.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "noche"
+  }
+}

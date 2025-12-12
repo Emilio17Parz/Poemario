@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La paz ya no tiene fin,\nmi alma es un festín.\n\nEl cuerpo ya no es mal,\nsin pena ni puñal,\nel espíritu es lo real,\nmi alma es un festín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "paz"
+  }
+}

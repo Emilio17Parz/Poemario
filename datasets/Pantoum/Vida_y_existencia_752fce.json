@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Muros altos, pasillos ciegos,\nbusco la puerta de la salida.\nEntre verdades y falsos juegos,\nasí transcurre toda la vida.\n\nBusco la puerta de la salida,\ngiro a la izquierda y no hay nada.\nAsí transcurre toda la vida,\ncon la esperanza cansada.\n\nGiro a la izquierda y no hay nada,\nentre verdades y falsos juegos.\nCon la esperanza cansada,\nmuros altos, pasillos ciegos.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

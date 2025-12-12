@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sientes en el pecho un gran vacío,\ny dices que es por su desvarío.\nPero yo creo, mi buen amigo,\nque es hambre lo que tienes contigo.\nDéjate de tanta poesía,\ny cómete una hamburguesía.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

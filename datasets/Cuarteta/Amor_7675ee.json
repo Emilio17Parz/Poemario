@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El sabor de tu boca es fruta rara,\nmezcla de miel y de jazmín en flor,\nes la esperanza que mi espíritu aclara,\nla más dulce, la mejor.\n",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Dulce"
+  }
+}

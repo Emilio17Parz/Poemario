@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dando pasos hacia lo imprevisto,\nEncontramos juntos el sendero,\nSin saber que ya estaba previsto,\nTenerte como mi compañero.\nImposible huir de lo que es listo,\nNuestra unión escrita en el lucero,\nObrando el amor que ya he visto.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo, río inquieto,\nque no guarda jamás ningún secreto.\nNos lleva en su corriente\nhacia el mar de occidente.\nNo intentes detenerlo,\nsolo queda vivir y comprenderlo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "```\n       S O C I E D A D       G R I S\n     C O N F O R M I S M O       A B S O L U T O\n   C O N S U M O       E T E R N O       Y       V A C Í O\n P E N S A M I E N T O       Ú N I C O       R E P R O D U C I D O\nS I L E N C I O       P R E S T A D O       A L       E N G A Ñ O       C R U E L\nM A S A S       D O C I L E S       S I N       Q U E J A       N I       D U D A R\n                      C A D E N A S\n                   I N V I S I B L E S\n                  A T A N       E L       S E R\n                 R E P R I M E N       L A       V O Z\n                A H O G A N       T O D O       S U S P I R O\n               L I B E R T A D       U N       M E R O       M I T O\n              F U T U R O       C E R R A D O       S I N       S A L I D A\n             V A C Í O       Q U E       C R E C E       P R O F U N D O\n            D O L O R       D I A R I O       E T E R N O       P E S O\n```",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

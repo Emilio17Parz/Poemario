@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cayó una pequeña semilla en la tierra oscura,\nEscondida y en silencio, sin que nadie la cura.\nEsperó que la lluvia viniera a mojar,\nY rompió su prisión para poder brotar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "semilla"
+  }
+}

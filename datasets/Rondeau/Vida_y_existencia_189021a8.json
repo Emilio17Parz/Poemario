@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Largo camino andado,\nque hemos pisado,\ncon sueños y miedo,\nponiendo el dedo,\nen lo deseado.\n\nA veces cansado,\ny desanimado,\npero siempre quedo,\nlargo camino.\n\nTodo lo logrado,\ny lo olvidado,\nes parte del credo,\nque yo te heredo,\ndel tiempo pasado,\nlargo camino.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "camino"
+  }
+}

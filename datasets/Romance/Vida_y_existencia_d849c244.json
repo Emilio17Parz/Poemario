@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No hay mapa para esta vida,\nni guía para el camino,\nse hace la senda al andar\nentre rocas y espino.\nA veces brilla la suerte,\na veces sopla el destino,\npero el paso es siempre tuyo,\nsea recto o desatino.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "camino"
+  }
+}

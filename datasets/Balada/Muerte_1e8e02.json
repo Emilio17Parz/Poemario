@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cerramos los ojos del ser querido,\ny un nudo aprieta nuestra garganta,\nse ha ido lejos, se ha ido,\ny la tristeza se levanta.\nQueda el silencio en la habitación,\ny los recuerdos flotando allí,\nmientras el alma busca el perdón,\ny el cuerpo vuelve a lo que fue.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

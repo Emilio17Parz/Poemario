@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuelve la vida en la primavera,\ntodo florece en la primavera.\n\nCantan las aves y brilla el sol,\nfiesta de colores en la primavera.\n\nEl amor despierta en cada rincón,\nmilagro eterno de la primavera.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

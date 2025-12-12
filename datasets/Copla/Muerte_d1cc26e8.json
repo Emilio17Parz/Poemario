@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Doblan las campanas tristes\nen la torre de la iglesia,\nporque se ha muerto una flor\nque tenía mucha esencia.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "doble"
+  }
+}

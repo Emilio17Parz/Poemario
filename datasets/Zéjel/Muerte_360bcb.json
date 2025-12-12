@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El luto tiene un dolor,\nsin ningún amor.\n\nEl negro ya me llegó,\nla pena me hirió,\ny el alma me dejó,\nsin ningún amor.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "luto"
+  }
+}

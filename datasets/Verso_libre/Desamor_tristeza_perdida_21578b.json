@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No sangra, pero duele.\nEs una herida interna,\nun moretón en el alma.\nNadie lo ve,\npero cada vez que respiro,\nsiento la punzada\nde algo que se rompió por dentro.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "herida"
+  }
+}

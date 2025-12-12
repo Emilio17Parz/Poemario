@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Oh, Prado verde, de paz sinigual,\ntu manto cubre la faz de la tierra!\nEl pasto tierno y el hálito vital,\nla dicha simple que el alma encierra.\nLas vacas pastan con noble reposo,\nsímbolo eterno del ser más dichoso.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Prado"
+  }
+}

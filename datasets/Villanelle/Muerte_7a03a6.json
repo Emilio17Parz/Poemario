@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nos despedimos en la orilla fría,\ntú cruzas el río hacia lo ignoto,\nllorando tu ausencia día tras día.\n\nSe rompe el lazo con alboroto,\ny se termina la compañía,\nnos despedimos en la orilla fría.\n\nMe quedo con el corazón roto,\nsin la luz que me daba alegría,\nllorando tu ausencia día tras día.\n\nMiro tu imagen en una foto,\nque guarda tu gesto y tu valentía,\nnos despedimos en la orilla fría.\n\nEs un dolor que nunca agoto,\nesta soledad y lejanía,\nllorando tu ausencia día tras día.\n\nComo un fiel y triste devoto,\nrezo por tu alma y tu guía,\nnos despedimos en la orilla fría,\nllorando tu ausencia día tras día.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

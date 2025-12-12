@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Alta torre,\nde piedra,\nla hiedra,\nque corre.\nQue borre,\nla medra.\nAlta torre.\n\nFortaleza,\nimpotente,\nvaliente,\nla cabeza.\nLa nobleza,\nde la gente.\nAlta torre.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "torre"
+  }
+}

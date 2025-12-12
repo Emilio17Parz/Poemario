@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aquí termina el libro de la historia,\nla última página se ha cerrado,\nborrando el sentimiento y la memoria.\n\nQueda el corazón desamparado,\nante el abismo de la soledad,\npor el tiempo y el polvo sepultado.\n\nTriste realidad.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "final"
+  }
+}

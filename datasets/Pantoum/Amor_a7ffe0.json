@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estaba escrito en el viejo cielo,\nque nuestros pasos se encontrarían.\nRomper barreras, alzar el vuelo,\ndonde las dudas se perderían.\n\nQue nuestros pasos se encontrarían,\nfue la certeza del corazón.\nDonde las dudas se perderían,\nnació de pronto esta pasión.\n\nFue la certeza del corazón,\nromper barreras, alzar el vuelo.\nNació de pronto esta pasión,\nestaba escrito en el viejo cielo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "destino"
+  }
+}

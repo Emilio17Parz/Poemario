@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Inspiras al pobre artista,\nmusa de rostro perfecto,\nposas a plena vista,\ncausando el efecto.\n\nMusa de rostro perfecto,\nluz que guía el pincel,\ncausando el efecto,\nde dulzura y miel.\n\nLuz que guía el pincel,\ninspiras al pobre artista,\nde dulzura y miel,\nposas a plena vista.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "musa"
+  }
+}

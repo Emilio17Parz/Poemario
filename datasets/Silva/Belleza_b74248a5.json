@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene la estrella un mágico brillo,\nmás que el oro amarillo.\nLuz que viene de lejos,\ncon reflejos,\nde mundos ignorados,\ny soñados.\nJoya del firmamento,\nen movimiento.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

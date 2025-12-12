@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Extensión del brazo fuerte,\nhoja de frío metal,\ninstrumento letal,\nque reparte la mala suerte.\n\nForjada para dar muerte,\no defender el umbral,\nsímbolo de lo real,\ny de la justicia inerte.\n\nDuerme en la vaina callada,\nhasta que la mano la empuña,\ny la hace ser despiadada.\n\nCorta, hiere y rasguña,\nmas si es noble la estocada,\nla libertad acuña.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espada"
+  }
+}

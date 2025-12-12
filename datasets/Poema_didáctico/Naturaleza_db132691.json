@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Contempla la constancia de la mar,\nque golpea la roca hasta esculpir;\nasí debes tú siempre insistir,\nsi una meta deseas alcanzar.\nLa gota rompe la piedra, no por fuerza,\nsino por la constancia que ejerce.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "mar"
+  }
+}

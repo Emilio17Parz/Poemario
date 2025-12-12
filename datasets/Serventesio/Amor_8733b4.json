@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juro por el sol que nos mira cada mañana (A),\nque el amor que te ofrezco es puro y sin igual (B),\nmi alma en tu alma halla su eterna hermana (A),\nla pasión que arde, el fuego vital (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Juramento"
+  }
+}

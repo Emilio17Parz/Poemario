@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tu misericordia es grande,\ny borra mi rebelión,\nhaciendo que el bien se mande.\n\nMe das tu absolución,\ny limpias mi corazón,\ncon tu dulce compasión.\n\nSin condición.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

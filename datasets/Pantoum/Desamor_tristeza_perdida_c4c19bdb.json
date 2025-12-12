@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "En mi pecho siento un gran vacío,\nun hueco que no puedo llenar,\nme congela este terrible frío,\ny no paro de desesperar.\n\nUn hueco que no puedo llenar,\ndesde el día en que tú te fuiste,\ny no paro de desesperar,\npor la vida que se vuelve triste.\n\nDesde el día en que tú te fuiste,\nen mi pecho siento un gran vacío,\npor la vida que se vuelve triste,\nme congela este terrible frío.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

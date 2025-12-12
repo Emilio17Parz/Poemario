@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La huesuda, sin piedad,\nnos arrastra al final.\nEn su danza infernal,\ncesa toda vanidad.\n\nDeja el cuerpo en frío letal,\nmas el alma, ¿adónde va?\nUna duda que siempre está,\nen este trance mortal.\n\nSolo queda la memoria,\nde lo que fuimos y fue.\nUn eco que no se ve,\ngrabado en nuestra historia.\n\nLa vida es un frágil don,\nque un día se ha de agotar.\nEs la ley, sin más que hablar,\nde nuestra condición.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

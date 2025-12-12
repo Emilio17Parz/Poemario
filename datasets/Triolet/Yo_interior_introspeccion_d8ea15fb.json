@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Oigo el eco\nde mi voz,\nen el hueco.\nOigo el eco,\ntan seco,\ny veloz.\nOigo el eco\nde mi voz.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "eco"
+  }
+}

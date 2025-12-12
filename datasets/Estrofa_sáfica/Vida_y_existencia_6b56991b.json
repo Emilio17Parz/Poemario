@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Coge la rosa mientras es el día,\ncarpe diem dice el poeta antiguo,\nque el porvenir es un lugar oscuro\ny ambiguo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "instante"
+  }
+}

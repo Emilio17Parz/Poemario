@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La traición,\nsin perdón.\nDel amigo,\nque es enemigo,\nen la acción.\n\nLa prisión,\nde la unión.\nEl castigo,\nla traición.\n\nLa lección,\ny la pasión.\nEl trigo,\nque sigo,\nsin razón,\nla traición.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "traición"
+  }
+}

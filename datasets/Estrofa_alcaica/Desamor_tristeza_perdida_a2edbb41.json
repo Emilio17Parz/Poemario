@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Suena el sonido de tu triste adiós,\ncomo un cristal que se quiebra al caer,\nya no queda la esperanza,\nde ver el día renacer.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

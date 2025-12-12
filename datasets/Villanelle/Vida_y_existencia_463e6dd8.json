@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "¿Qué enigma late en nuestro breve ser?\nEl tiempo pasa, sin saber la prisa,\nUn hondo sueño es este vivo tejer.\n\nLa luz del alba nos invita a ver,\nLa voz del alma que la fe divisa,\n¿Qué enigma late en nuestro breve ser?\n\nCaminos, huellas, que se han de perder,\nEn cada aliento que la brisa atiza,\nUn hondo sueño es este vivo tejer.\n\nDolor y gozo aprendemos a tener,\nLa senda humana que el destino visa,\n¿Qué enigma late en nuestro breve ser?\n\nAntes de que la sombra gane el quehacer,\nY el eco mude su final divisa,\nUn hondo sueño es este vivo tejer.\n\nAsí vivimos, sin querer ceder,\nCon la verdad que el corazón divisa:\n¿Qué enigma late en nuestro breve ser?\nUn hondo sueño es este vivo tejer.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

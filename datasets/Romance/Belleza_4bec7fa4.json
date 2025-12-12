@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Desde lo alto del cerro,\nse ve el valle verde,\ndonde la luz de la tarde\nlentamente se pierde.\nEl río pinta una cinta,\nque al campo muerde,\ny las casas son puntitos\nque nadie recuerde.\nQué hermoso es el mundo,\ncuando el sol concuerde,\ncon la paz de la tierra\nque a Dios acuerde.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "valle"
+  }
+}

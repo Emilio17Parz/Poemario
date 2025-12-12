@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hilvanar sonidos con sentido,\ncrear imágenes con la dicción,\ntocar el corazón con la expresión,\ny rescatar lo que estaba perdido.\n\nLa palabra es un don agradecido,\ncapaz de consolar la aflicción,\no de encender la revolución\nen el pueblo que estaba dormido.\n\nBelleza de la rima y de la prosa,\npoder de nombrar lo inexistente,\ny hacer de la espina una rosa.\n\nEl verbo es la herramienta potente\nque hace la realidad hermosa\ny la deja grabada en la mente.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "palabra"
+  }
+}

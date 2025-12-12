@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un esqueleto en la tumba,\nbailaba al son de la rumba.\nMovía el hueso,\ncon mucho peso,\ny la cripta se derrumba.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "esqueleto"
+  }
+}

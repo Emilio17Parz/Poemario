@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La flor se abre sin saber que la miran.\nNo le importa ser bella,\nle importa ser flor.\nEsa inocencia,\nesa falta de vanidad,\nes lo que nos cautiva.\nLa belleza pura no busca aplausos,\nsolo es.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "flor"
+  }
+}

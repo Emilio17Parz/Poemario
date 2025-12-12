@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El mismo café, la misma hora,\nel tren que nos lleva al trabajo,\nsin mirar arriba ni abajo,\nmientras el alma se deteriora.\n\nLa costumbre que el ser devora,\nconvirtiendo la vida en un gajo,\nsin jugo, sin gracia y sin tajo,\ndonde la emoción se evapora.\n\nRomper el ciclo, cambiar el rumbo,\nbuscar la sorpresa y el color,\nantes de caer en el tumbo.\n\nSalir de este gris estertor,\ny bailar al son del retumbo,\nde un nuevo y vibrante tambor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "rutina"
+  }
+}

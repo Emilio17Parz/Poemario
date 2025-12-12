@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El gladiador salió a la arena,\nfrente al león y al emperador.\nRompió ese día su condena,\nluchando con furia y con valor.\nLa multitud, de gritos llena,\nle dio su aplauso y su favor.\nGanó su vida y su libertad,\ny regresó a su vieja noria,\ndejando atrás la ciudad,\ncubierto de sangre y de gloria.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

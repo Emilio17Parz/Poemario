@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La miel de tu boca es dulce y sin hiel (a),\nque endulza mi vida sin un error (b),\nmi alma se cubre sin un laurel (a),\nsin sombra que rompa mi fiel corazón (b),\ntu amor es la clave de todo el placer (b),\ny la fuerza que impulsa mi gran lección (c),\nla vida es un sueño sin padecer (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, la calma que da (c'),\nes la sombra que siempre estará (c'),\nla fuerza que al alma me da (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Dulce"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Admiro la perfecta forma,\nque no sigue ninguna norma,\ny el paisaje conforma.\nAdmiro la perfecta forma,\nque nunca deforma,\nni se uniforma.\nAdmiro la perfecta forma,\nque no sigue ninguna norma.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "forma"
+  }
+}

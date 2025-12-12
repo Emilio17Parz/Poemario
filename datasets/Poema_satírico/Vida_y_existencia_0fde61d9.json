@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Maldito despertador,\nque suenas el lunes,\nrompiendo mis sueños,\ncon ruidos comunes.\nMe levanto zombi,\ncon odio profundo,\npreguntándome el fin,\nde este triste mundo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "lunes"
+  }
+}

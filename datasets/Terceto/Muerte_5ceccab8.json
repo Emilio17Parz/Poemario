@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo se detiene en la frontera,\ndonde comienza el reino de lo eterno,\ny empieza la estación de primavera.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "siempre"
+  }
+}

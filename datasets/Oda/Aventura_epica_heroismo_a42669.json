@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hoja brillante,\nfilo mortal,\ntotal,\ncortante.\nBrazo del justo,\nsin susto.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelve triunfante con laurel ceñido,\npueblo que aplaude al pasar el carro,\nlimpia la sangre del combate fiero\ny el barro.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

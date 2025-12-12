@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Prometo cuidarte mi bien,\nEstar cuando caiga el sol,\nSer tu soporte y sostén.\nPrometo cuidarte mi bien,\nEn el mal y en el edén,\nBajo cualquier arrebol.\nPrometo cuidarte mi bien,\nEstar cuando caiga el sol.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "bien"
+  }
+}

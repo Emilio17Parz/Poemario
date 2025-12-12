@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "O l v i d o\n o l v i d\n  o l v i\n   o l v\n    o l\n     o\n     .",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

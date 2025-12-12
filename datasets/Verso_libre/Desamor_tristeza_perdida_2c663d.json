@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No hubo explosiones,\nni gritos, ni portazos.\nFue un final silencioso,\ncomo una vela que se apaga\nporque se le acabó el aire.\nSimplemente,\ndejamos de ser.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "final"
+  }
+}

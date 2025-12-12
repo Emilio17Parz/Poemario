@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La dicha es un fuego, la llama sin par,\nque arde en el pecho con gran fulgor,\nla vida que sabe al fin amar,\nla esencia del puro amor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Dicha"
+  }
+}

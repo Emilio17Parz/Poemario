@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye y todo cambia,\nnada permanece igual,\ncomo el río que intercambia.\n\nLa vida sabia y el cambia,\nel bien se torna en mal,\ntodo fluye y todo cambia.\n\nLa flor se seca y la lambia,\nel fuego se hace señal,\ncomo el río que intercambia.\n\nNo hay roca que no se recambia,\nni imperio que sea inmortal,\ntodo fluye y todo cambia.\n\nEl tiempo cura y descambia,\nlo que era fundamental,\ncomo el río que intercambia.\n\nEs la ley que nos recambia,\nel ciclo natural,\ntodo fluye y todo cambia,\ncomo el río que intercambia.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

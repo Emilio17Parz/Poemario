@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ya no hay nada\nentre los dos\nsolo frío\nentre los dos\nya no hay nada",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "nada"
+  }
+}

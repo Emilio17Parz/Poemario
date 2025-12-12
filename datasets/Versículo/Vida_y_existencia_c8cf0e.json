@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En medio del ruido ensordecedor de la existencia, el silencio es un santuario donde puedo escuchar mi propio nombre.\nCallar no es estar vacío, es estar lleno de una presencia que las palabras no pueden contener.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena la nota,\nque explota,\nen el aire,\ncon donaire,\ny rebota.\n\nNo está rota,\nni remota,\nel baile,\nSuena la nota.\n\nLa gota,\nse agota,\ndel fraile,\ny el maile,\nque trota,\nSuena la nota.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "música"
+  }
+}

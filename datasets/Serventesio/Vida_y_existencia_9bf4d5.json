@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que la risa sea tu escudo contra el dolor (A),\nel gozo que rompe la pena y la fe (B),\nla vida es alegría, un gran fulgor (A),\nla fuerza que dice: 'Yo sé' (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

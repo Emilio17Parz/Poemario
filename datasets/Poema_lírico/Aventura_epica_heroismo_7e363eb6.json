@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge el cañón y la tierra se agita,\nen el fragor de la lucha mortal,\ndonde se enfrenta el bien contra el mal,\ny el corazón con fuerza palpita.\nEs la batalla que el destino cita,\npara el momento del juicio final.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

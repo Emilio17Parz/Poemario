@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuerpo que escribe figuras en el aire,\ncon fuerza, con gracia y con gran donaire.\n¡Honor a la Danza, rito ancestral!,\nmovimiento puro, fuerza vital.\n\nGiro y salto, gesto y compás,\ndonde el espíritu no pide más.\nCelebramos la carne hecha canción,\nen la sagrada y eterna función.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "danza"
+  }
+}

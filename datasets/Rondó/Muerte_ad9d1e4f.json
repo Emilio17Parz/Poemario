@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "En la tumba,\nque retumba,\nel silencio,\nque presencio,\ny se derrumba.\n\nLa muerte zumba,\nen la tumba.\n\nNo sucumba,\nni se tumba,\nel cansancio,\ndel rancio,\nque rumba.\nEn la tumba.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

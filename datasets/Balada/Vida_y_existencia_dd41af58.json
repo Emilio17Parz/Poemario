@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Soy un viajero de las estrellas,\nperdido en este mundo cruel,\nbuscando siempre las cosas bellas,\npara plasmarlas en el papel.\nDejé mi casa y mi vergel,\npor probar de la vida la hiel.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "viajero"
+  }
+}

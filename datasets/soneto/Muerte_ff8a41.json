@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No muere quien se va, solo quien,\nes olvidado por los que quedan,\nmientras mis versos por ti ruedan,\nvivirás en ellos también.\n\nSerás eterno, serás el bien,\nque las palabras nos concedan,\ny aunque los años se sucedan,\ntu luz brillará en el andén.\n\nTe hago inmortal con mi poesía,\nburlando a la parca y su guadaña,\ncon esta rima y melodía.\n\nTu esencia a mi pluma acompaña,\ny venceremos a la muerte fría,\ncon esta dulce y noble maña.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "inmortal"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminante, tus huellas son el camino y nada más; no hay camino, se hace camino al andar.\nCada paso es una elección, cada encrucijada una duda, cada destino una incógnita.\nNo mires atrás con nostalgia, ni adelante con miedo, mira tus pies que tocan la tierra ahora.\nEl viaje es la meta, y el andar es la única forma de ser y de estar en el mundo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El valor forjó su rumbo,\nen un viaje audaz sin fin,\nrompiendo el ancestral yugo\nque impuso el cruel dragón, ruin.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sangra la herida que dejó tu adiós,\nprofunda y dolorosa en mi costado,\nhaberte amado,\nfue un castigo mandado por un dios.\nNo hay medicina para este dolor,\nsolo el rencor,\nque crece al vernos rotos a los dos,\nsin un adiós.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

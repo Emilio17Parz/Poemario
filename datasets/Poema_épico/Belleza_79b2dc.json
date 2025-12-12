@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Fuego que enciende la vista bella,\nanhelo de poseer la luz,\nsigue el rastro de la estrella,\ncargando de la pasión la cruz.\nMotor del arte y de la guerra,\nel deseo mueve la tierra.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Deseo"
+  }
+}

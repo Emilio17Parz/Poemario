@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo viaje,\ncon coraje.\n\nMuchos años,\ny engaños,\ny daños,\ndel peaje.\nLargo viaje,\ncon coraje.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

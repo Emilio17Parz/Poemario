@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El espejo me muestra la pura verdad,\nlos sueños que tengo, el dolor y el bien,\nla vida es un verso, sin adversidad,\nla fuerza que me da el tren.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

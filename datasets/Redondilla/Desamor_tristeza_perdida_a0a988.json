@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me duele el corazón,\nde tanto que te quise,\ny el daño que me hiciste,\nno tiene compasión.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

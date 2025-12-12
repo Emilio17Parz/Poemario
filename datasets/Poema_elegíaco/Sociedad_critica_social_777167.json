@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El hambre es el grito que la calle me da sin fe, solo y cruel,\nla vida sin la calma, el sino fatal.\nEl pan es el milagro que el pobre no puede ver sin razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la comida que mi boca no pudo comer jamás sin luz ni voz,\ny mi ser es la esclava de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

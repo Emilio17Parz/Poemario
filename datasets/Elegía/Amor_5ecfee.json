@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Lloro el amor que se nos fue de las manos,\ncomo agua que escapa entre dedos abiertos,\ndejando los campos del alma desiertos,\ny los juramentos por siempre lejanos.\n\nYa no habrá besos, ni tibios veranos,\nsolo el invierno de sueños inciertos,\ndonde mis gritos se quedan muy yertos,\ny somos dos tristes y extraños humanos.\n\nSe muere la dicha, se apaga la llama,\ny en este silencio que el pecho reclama,\nte digo un adiós que me rompe la vida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

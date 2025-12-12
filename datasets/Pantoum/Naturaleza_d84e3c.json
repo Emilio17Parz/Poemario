@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la gota en la hoja,\nbebe la tierra con sed,\nla tarde se vuelve roja,\ncaída en la húmeda red.\n\nBebe la tierra con sed,\ngermina la semilla oculta,\ncaída en la húmeda red,\nla vida que resulta.\n\nGermina la semilla oculta,\nla tarde se vuelve roja,\nla vida que resulta,\ncae la gota en la hoja.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "gota"
+  }
+}

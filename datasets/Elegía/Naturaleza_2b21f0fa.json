@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, campos donde el tiempo se ha torcido,\ndonde la luz de antaño ya no posa,\nel viento trae un lamento escondido,\npor cada flor que fue, por cada rosa.\n\nSe ha ido el trino claro del jilguero,\nla abeja errante que libaba miel,\ny el rumor dulce de aquel viejo sendero,\nque vio el milagro y el ocaso cruel.\n\nLos ríos bajan hoy con voz tan quieta,\nque apenas si murmuran su pesar,\nla savia amarga de la encina añeja,\nparece que no quiere ya brotar.\n\nEl *cielo* mismo, un velo gris, contempla\nla desolación que no cesa de ser,\ntestigo mudo de la hora que tempra\nel pulso errante de lo que fue ayer.\n\nNo volverán los sauces a su danza,\nni el musgo al hueco de la piedra fiel,\nla tierra gime, rota su bonanza,\nun eco mudo de su hondo desvel.\n\nSolo la sombra vaga del recuerdo,\npermanece en el alma al ver lo inerme,\nde lo que fuera un paraíso cuerdo,\nahora dormido, en un letargo firme.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

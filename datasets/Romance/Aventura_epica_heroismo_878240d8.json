@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se rompió el barco en la roca,\nen noche de tempestad,\ny quedó el pobre marino\nen soledad.\nNadó hasta la isla desierta,\ncon voluntad,\ny vivió como un salvaje\nen libertad.\nEsperando que un velero,\npor caridad,\nle llevara a su casa\nde verdad.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "isla"
+  }
+}

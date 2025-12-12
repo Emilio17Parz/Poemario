@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte refleja,\nla luz del alma,\ncon dulce calma,\nque nunca deja.\nEs la vieja,\nforma de hablar,\nsin pronunciar,\nuna palabra,\nque el cielo abra,\npara soñar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Silencio gris,\nel velo negro cae.\nPolvo serás.\nBajo la oscura tumba,\neterno sueño hallado.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

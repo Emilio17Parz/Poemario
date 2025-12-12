@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mi rostro es de marfil, blanco y sin más color (A),\nsin vida, sin sangre, sin fulgor (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Marfil"
+  }
+}

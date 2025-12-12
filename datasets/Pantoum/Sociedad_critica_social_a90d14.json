@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El cielo se vuelve gris,\nel río lleva veneno.\nSe destruye el país,\ny a nadie le pone freno.\n\nEl río lleva veneno,\nplástico ahoga el mar.\nY a nadie le pone freno,\nal ansia de lucrar.\n\nPlástico ahoga el mar,\nse destruye el país.\nAl ansia de lucrar,\nel cielo se vuelve gris.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "contaminación"
+  }
+}

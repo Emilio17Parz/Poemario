@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Salva mi alma,\ndame la calma.\n\nQuiero subir,\ny no morir,\npara vivir,\nen tu palma.\n\nSalva mi alma,\ndame la calma.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "alma"
+  }
+}

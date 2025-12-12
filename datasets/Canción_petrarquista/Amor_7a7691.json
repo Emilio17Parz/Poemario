@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bendito sea el lazo\nque ató mi voluntad a vuestra suerte;\nmás fuerte que la muerte\nes este gran abrazo;\nni el tiempo ni la ausencia lo desata,\naunque a veces me mata\nel no teneros cerca,\nen esta vida que sin vos es terca.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "lazo"
+  }
+}

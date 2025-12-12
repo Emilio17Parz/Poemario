@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La niña se hizo joven, la joven, mujer,\nEl tiempo era un río que no quiere volver.\nLa arruga fue la prueba de la vida vivida,\nLa belleza no muere, solo es ida.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

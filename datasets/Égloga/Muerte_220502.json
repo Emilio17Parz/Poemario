@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Junto a la ermita crece el ciprés,\noscuro guardián del sueño eterno,\nque no teme al calor ni al invierno,\ny señala el camino del después.\n\nBajo su sombra descansa el cuerpo,\nde quien amó este valle florido,\ny ahora duerme por siempre dormido,\nen este santo y tranquilo puerto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ciprés"
+  }
+}

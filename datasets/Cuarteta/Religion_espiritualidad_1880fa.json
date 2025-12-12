@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El fuego que nunca acaba,\nes el castigo final,\npara quien hizo el mal,\ny el amor despreciaba.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

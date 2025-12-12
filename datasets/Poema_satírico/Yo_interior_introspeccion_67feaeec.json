@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dices tener un secreto,\nmuy oscuro y concreto.\nQue eres un ser torturado,\npor un pasado malvado.\nTu secreto es que roncas,\ny montas muchas broncas.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

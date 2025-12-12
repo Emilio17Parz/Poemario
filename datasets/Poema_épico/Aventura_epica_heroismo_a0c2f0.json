@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Llegar, ver y vencer la tierra,\nplantar la bandera en lo alto,\ntras el dolor de la cruel guerra,\ndar hacia el triunfo el salto.\nDominio, fuerza, expansión,\ndel imperio y la nación.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Conquista"
+  }
+}

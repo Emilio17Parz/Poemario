@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cruzamos mares tormentosos y desiertos de sal buscando el cofre que promete la riqueza eterna.\nPero al abrirlo, descubrimos que el oro es frío y pesado, y que la verdadera fortuna fue la hermandad forjada en la tormenta.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

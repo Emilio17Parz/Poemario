@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La armonía perfecta,\nes belleza total,\nque nos conecta,\ncon lo ideal.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

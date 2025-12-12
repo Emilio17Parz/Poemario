@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Da su vida por otros,\nel héroe caído,\nnosotros,\nle hemos perdido.\n\nEl héroe caído,\nsalvando la aldea,\nle hemos perdido,\nen la pelea.\n\nSalvando la aldea,\nda su vida por otros,\nen la pelea,\nnosotros.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sacrificio"
+  }
+}

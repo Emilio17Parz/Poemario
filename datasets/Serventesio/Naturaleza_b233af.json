@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El rocío que moja la flor con dulzor y fe (A),\nel agua que limpia, que sabe sanar (B),\nla vida es un canto, el eterno 'sé' (A),\nla calma que viene a reinar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Rocío"
+  }
+}

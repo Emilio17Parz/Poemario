@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es luchar contra la corriente, es mantenerse en pie cuando todo te empuja hacia abajo.\nEs la terquedad de la flor que rompe el asfalto para buscar la luz del sol.\nNo es la paz de los cementerios lo que buscamos, sino la batalla digna de cada día.\nEn la cicatriz está la prueba de que sobrevivimos, en el cansancio la prueba de que vivimos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

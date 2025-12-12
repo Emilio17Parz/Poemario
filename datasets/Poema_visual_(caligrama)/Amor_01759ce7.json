@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "AMOR\n     PURO Y VIVO\n    EN TU MIRADA\n   MI CORAZÓN LATE\n  NUESTRAS ALMAS SE UNEN\n EN UN CANTO ETERNO Y SIN FIN\n  EL FUEGO ARDIENTE DE LA PASIÓN\n   QUE ABRASA EL MUNDO ALREDEDOR\n    UN ABRAZO QUE DETIENE EL TIEMPO\n     PARA SIEMPRE, TÚ Y YO, MI BIEN\n      EL MÁS DULCE SENTIR\n       AMOR, AMOR\n        AMOR",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "alma"
+  }
+}

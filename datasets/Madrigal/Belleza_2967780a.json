@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene la estrella un brillo\nque guía al caminante en la negrura,\ncon luz noble y pura,\ncomo un farolillo.\nDesde su castillo,\nen la altura,\nalumbra el mundo con fulgor sencillo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

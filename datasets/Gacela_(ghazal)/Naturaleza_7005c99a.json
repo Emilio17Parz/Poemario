@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entro buscando paz en el verde bosque,\ndonde la luz se filtra dentro del bosque.\n\nLos árboles antiguos me cuentan historias,\ncon el rumor de hojas que tiene el bosque.\n\nLejos de la ciudad y de su furia,\nencuentro mi refugio en el santo bosque.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

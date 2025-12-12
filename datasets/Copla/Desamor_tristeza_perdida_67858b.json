@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El silencio de tu boca\nes lo que más me duele,\npues mató la ilusión\nque mi corazón huele.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

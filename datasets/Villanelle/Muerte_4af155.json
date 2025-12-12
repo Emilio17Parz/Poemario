@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visto de negro el alma,\npor tu partida temprana,\ny pierdo toda la calma.\n\nNadie me ensalma,\nen la mañana,\nvisto de negro el alma.\n\nBajo la palma,\nque no se gana,\ny pierdo toda la calma.\n\nEs una salma,\nque no es sana,\nvisto de negro el alma.\n\nQue se desalma,\ny se amilana,\ny pierdo toda la calma.\n\nLa muerte empalma,\nla vida humana,\nvisto de negro el alma,\ny pierdo toda la calma.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "luto"
+  }
+}

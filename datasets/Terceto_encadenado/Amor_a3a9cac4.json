@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te prometo un amor que sea eterno,\nmás allá de la muerte y de la vida,\nque resista los hielos del invierno.\n\nUna unión que jamás será vencida,\nni por el tiempo ni por la distancia,\nmanteniendo la llama encendida.\n\nCon toda su belleza y elegancia.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

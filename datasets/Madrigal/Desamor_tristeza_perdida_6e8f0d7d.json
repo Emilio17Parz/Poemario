@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu corazón de hielo\nnegó a mi pobre vida el consuelo.\nBusqué calor en vano\nen tu distante mano.\nHoy muero de tristeza,\nvíctima de tu helada fortaleza.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "frialdad"
+  }
+}

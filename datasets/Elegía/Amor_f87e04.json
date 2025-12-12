@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No es la muerte, es la legua que separa,\nlo que hace esta historia tan triste y doliente,\nsaber que existes, pero estás ausente,\ny que el destino de mí te acapara.\n\nLa distancia es una losa que no para,\nde aplastar el pecho del sobreviviente,\nque ama y espera impaciente,\nque el tiempo su curso por fin reparara.\n\nPero pasan los años y tú no regresas,\ny mueren las flores y las promesas.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

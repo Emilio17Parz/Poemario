@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la piedra descansa el viajero,\nya no hay camino que deba andar,\nha encontrado su sitio y su lugar,\nen el silencio del agujero.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

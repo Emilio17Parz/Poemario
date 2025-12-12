@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La claridad,\nUne mi ser.\nZanja oscuridad.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "LUZ"
+  }
+}

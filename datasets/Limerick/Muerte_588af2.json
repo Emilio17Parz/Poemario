@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La memoria del ser que no está,\nes dulce, sin duda ni gaz.\nRecuerdo de amor,\nsin un solo error,\nla vida que siempre será.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Memoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte llega, sombra fría,\nQue al alma inquieta pronto guía.\n\nEl último aliento, un tenue vaivén,\nAnuncia a todos el gran fin.\n\nSilencio eterno, paz profunda,\nEn la tierra que al cuerpo inunda.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "fin"
+  }
+}

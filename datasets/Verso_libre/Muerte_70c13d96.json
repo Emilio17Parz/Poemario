@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte no es un grito,\nes el cese del ruido.\nEs cuando la música para\ny queda la nota suspendida en el aire.\nUn silencio denso, pesado,\nque llena la habitación\nmás que cualquier presencia.\nLa paz absoluta de lo que ya no vibra.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La casa está vacía\nsin tu presencia,\nretumba en las paredes\ntu dura ausencia.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

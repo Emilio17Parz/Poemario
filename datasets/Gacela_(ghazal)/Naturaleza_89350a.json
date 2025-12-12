@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rey de los astros, el dorado sol,\nda vida y fuego, el dorado sol.\n\nDespierta las flores al nuevo día,\ncon su caricia, el dorado sol.\n\nSin ti el mundo sería tiniebla,\nfuente de todo, el dorado sol.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "sol"
+  }
+}

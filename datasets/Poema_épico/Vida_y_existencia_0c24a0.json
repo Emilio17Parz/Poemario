@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Línea lejana que nunca se alcanza,\nmeta que avanza si tú caminas,\nmotor eterno de la esperanza,\nborrando fronteras y esquinas.\nEl hombre persigue su propio confín,\nen un viaje eterno que no tiene fin.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Horizonte"
+  }
+}

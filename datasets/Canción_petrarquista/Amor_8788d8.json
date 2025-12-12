@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dulce es el pensamiento\nque de vos se alimenta cada hora;\nmi alma os adora\ncon tal consentimiento,\nque no hay amargo trago en esta vida,\nni pena ni herida,\nque vuestra dulce voz\nno cure con su bálsamo veloz.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "dulce"
+  }
+}

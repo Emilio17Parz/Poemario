@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llega el invierno con pelo blanco,\ny la mirada llena de ayer,\nsentado quieto en el viejo banco,\nviendo la tarde desaparecer.\nEs el momento de la cosecha,\nde lo sembrado con el sudor,\ncuando la vida la cuenta echa,\nde lo vivido con amor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

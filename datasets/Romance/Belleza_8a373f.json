@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Gira la bailarina\nsobre la punta del pie,\ncomo una flor en el viento\nque nadie sabe por qué.\nSu cuerpo dibuja líneas\nque yo con asombro ve,\nen un baile de elegancia\nque siempre recordaré.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "danza"
+  }
+}

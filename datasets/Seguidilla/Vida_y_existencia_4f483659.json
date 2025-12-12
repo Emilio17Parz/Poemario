@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida es el rastro\nde un laberinto,\ndonde el paso arrastro\ncon un instinto.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

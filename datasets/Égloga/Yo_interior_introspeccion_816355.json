@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soy lo que fui y recuerdo,\nla suma de mis días.\nAlegrías\ny desacuerdo.\nMe pierdo\nen las vías.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "dias"
+  }
+}

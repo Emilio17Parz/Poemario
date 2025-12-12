@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Empuña fiel espada,\nen la cruel jornada.\n\nDefiende el honor,\nsin ningún temor,\nante el opresor,\nde forma sagrada.\n\nEmpuña fiel espada,\nen la cruel jornada.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "espada"
+  }
+}

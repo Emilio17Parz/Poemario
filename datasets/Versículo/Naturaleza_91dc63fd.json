@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Porque a la nieve dice: Desciende a la tierra; y a la llovizna, y a los aguaceros de su fuerza.\nPor el soplo de Dios se da el hielo, y las anchas aguas se congelan; él carga de humedad la nube.\n¿Has entrado tú en los tesoros de la nieve, o has visto los tesoros del granizo, que tengo reservados para el tiempo de angustia?\nLavaos y limpiaos; si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

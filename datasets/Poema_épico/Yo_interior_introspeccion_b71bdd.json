@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Piedra pesada en la mochila,\nerror pasado que no se va,\ngota que la roca destila,\ny la paz nos quiere robar.\nPerdonarse es la gran hazaña,\npara salir de la telaraña.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Culpa"
+  }
+}

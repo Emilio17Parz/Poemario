@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El reloj no se detiene,\nMarca las horas pasar,\nY el recuerdo viene.\nEl reloj no se detiene,\nNada lo retiene,\nEn su caminar.\nEl reloj no se detiene,\nMarca las horas pasar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El cuerpo es el estuche pasajero,\nmas el alma es la joya que perdura;\namad la esencia, no la vestidura,\nsi queréis un cariño verdadero.\nQuien ama el alma, ama sin medida,\nmás allá de la muerte y de la vida.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "alma"
+  }
+}

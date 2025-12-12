@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canta, divina musa,\nlos versos que mi pluma necesita,\ny el alma resucita\nsin poner excusa.\nTu voz, que es profusa,\nes quien me invita\na la belleza que jamás rehúsa.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "musa"
+  }
+}

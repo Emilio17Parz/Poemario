@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tu mirada esconde la belleza total,\nel cosmos entero en un cristal,\nes el secreto, el don especial,\nla eterna presencia, el manantial.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Mirada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi amor es un río sin fin (a),\nque fluye con gran fulgor (b),\nel eterno y dulce jazmín (c),\nla esencia de todo valor (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Río"
+  }
+}

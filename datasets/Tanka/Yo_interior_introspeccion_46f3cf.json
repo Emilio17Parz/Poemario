@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Callar afuera\npara escuchar adentro\ngritos y paz.\nEn la calma profunda\nse encuentra la verdad.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

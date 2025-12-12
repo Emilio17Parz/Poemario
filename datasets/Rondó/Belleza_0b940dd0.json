@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tu rostro bello,\nes un destello,\nde luz,\nsin capuz,\nni sello.\n\nPor ello,\ny aquello,\nandaluz,\nTu rostro bello.\n\nEl cuello,\ny el cabello,\ntrasluz,\ny la cruz,\ndel camello,\nTu rostro bello.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

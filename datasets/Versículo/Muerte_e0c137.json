@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tu voz se ha apagado para siempre, pero su eco sigue rebotando en las paredes de mi vida diaria.\nTe escucho en el silencio de la casa, un sonido fantasma que me consuela y me hiere al mismo tiempo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "eco"
+  }
+}

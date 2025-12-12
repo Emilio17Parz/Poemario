@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "¿Dónde el clamor del hierro y la gesta sin par?\nSilencio en los senderos que su pie audaz holló.\nNi el grito de dragones, ni el trémulo sonar\ndel cuerno que a los héroes del ocaso llamó.\n\nSe fue el espíritu que en mares sin final\nizaba velas blancas al viento de la lid,\nque desafió quimeras de destino fatal,\ny erigió su estandarte sobre el último Cid.\n\nSu aliento fue tormenta, su mirada un farol\nque guio a los valientes por la senda ancestral.\nCombatió sombras viejas bajo un pálido sol,\ny con sangre de monstruos escribió su manual.\n\nAhora la armadura descansa, muda y fría,\ncolgada en el vacío que su ausencia labró.\nNo hay fuego en la mirada, ni épica alegría;\nla espada sin su mano el eco de un adiós forjó.\n\nLloran los altos picos, los valles y los rocas\nla ausencia del titán que sus cumbres cruzó.\nMas su alma, cual estrella, las tinieblas disloca,\ny eterna es la *gloria* que su hazaña labró.\n\nDuerme en la tierra fértil donde el valor sembró,\nsu epopeya resuena en el viento inmortal.\nEl héroe ya no vuelve, mas su estirpe quedó,\nun canto sin ocaso, un eco celestial.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

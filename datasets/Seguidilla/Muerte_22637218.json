@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando la vida acaba,\nfría y oscura,\nla eterna sombra graba\nsu sepultura.\n\nDolor profundo,\nque el tiempo no deshace,\nde otro mundo.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La crisis no es el final,\nes oportunidad de cambio,\nsi se supera el mal,\nel amor se vuelve sabio.\nEl oro se prueba en fuego,\ny el amor en el ruego.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Crisis"
+  }
+}

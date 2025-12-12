@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Muerte llega, velo sin rumor,\nCon paso leve que no deja rastro.\nDisuelve el tiempo, borra todo astro,\nY el alma calla su final temor,\nLa Muerte llega, velo sin rumor.\n\nLa Muerte llega, velo sin rumor,\nCon paso leve que no deja rastro.\nDeja un silencio que desdibuja el lastro\nDel sol que mengua su postrer ardor,\nLa Muerte llega, velo sin rumor.\n\nLa Muerte llega, velo sin rumor,\nCon paso leve que no deja rastro.\nNo hay grito, pena, ni fugaz contraste,\nSolo la paz de un sueño superior,\nLa Muerte llega, velo sin rumor,\nCon paso leve que no deja rastro.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

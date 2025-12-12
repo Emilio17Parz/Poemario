@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La verdad siempre aparece\naunque se quiera ocultar,\ny vuelve siempre a brillar\ncomo el sol que amanece.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "luz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Escucho el silencio,\nque habla por dentro,\ncon voz muy callada.\nNo dice nada,\npero lo dice todo,\nsobre mi existir.\n\nMi existir,\nen silencio,\ny su modo.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Torre caída, sueño roto,\nesfuerzo inútil, vana ilusión,\ntodo termina en la destrucción,\ny en el paisaje de un terremoto.\n\nMiro las ruinas y casi no noto,\ndónde empezó mi gran perdición,\nsolo siento la desolación,\nde haber perdido hasta el último voto.\n\nFracaso amargo que sabe a ceniza,\ny que mi alma triste paraliza.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "fracaso"
+  }
+}

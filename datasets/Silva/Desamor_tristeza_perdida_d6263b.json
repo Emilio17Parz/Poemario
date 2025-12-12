@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se acabó el cuento,\nde hadas y rosas,\nquedan las cosas,\nllevadas por viento.\nEs el momento,\nde decir adiós,\na los dos,\ny a nuestro juramento.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "final"
+  }
+}

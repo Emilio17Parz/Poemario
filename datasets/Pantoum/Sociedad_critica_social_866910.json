@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Gritan todos a la vez,\nnadie escucha la razón.\nReina la estupidez,\nen cada conversación.\n\nNadie escucha la razón,\nopiniones sin sustento.\nEn cada conversación,\nse las lleva el viento.\n\nOpiniones sin sustento,\nreina la estupidez.\nSe las lleva el viento,\ngritan todos a la vez.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ruido"
+  }
+}

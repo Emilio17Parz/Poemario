@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro rey,\nque das calor,\ny resplandor,\na la grey.\nEs tu ley,\niluminar,\ny calentar,\nao buey.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "sol"
+  }
+}

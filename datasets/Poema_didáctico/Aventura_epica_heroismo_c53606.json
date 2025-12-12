@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No es no tener miedo,\nes actuar a pesar de él,\nyo puedo y me quedo,\nsiendo fiel.\nEl valiente tiembla,\npero en la lucha se ensambla.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Valentía"
+  }
+}

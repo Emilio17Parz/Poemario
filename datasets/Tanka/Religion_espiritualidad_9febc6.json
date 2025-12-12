@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Luz interior\nque anima la materia\neterna es.\nCuando el cuerpo se apaga\nella emprende su vuelo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo pasa,\ny arrasa,\nla juventud,\ncon quietud,\nen la casa.\n\nPoca brasa,\nel tiempo pasa.\n\nEs la masa,\nque amasa,\nla virtud,\ndel ataúd,\nque retrasa.\nEl tiempo pasa.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

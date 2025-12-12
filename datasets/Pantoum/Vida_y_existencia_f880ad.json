@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos siempre la verdad,\nentre mentiras disfrazadas.\nRomper la gris oscuridad,\ncon las miradas cansadas.\n\nEntre mentiras disfrazadas,\nhallar la luz de la razón.\nCon las miradas cansadas,\nabrir por fin el corazón.\n\nHallar la luz de la razón,\nromper la gris oscuridad.\nAbrir por fin el corazón,\nbuscamos siempre la verdad.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

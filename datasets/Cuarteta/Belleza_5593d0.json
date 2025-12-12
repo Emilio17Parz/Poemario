@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El oro del atardecer en el mar,\nel brillo de un instante que no volverá,\nla calma que viene a habitar,\nla eterna belleza que nos da.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Oro"
+  }
+}

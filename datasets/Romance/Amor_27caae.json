@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tienen tus ojos, mi niña,\nun brillo de estrellas moras,\nque me quitan el sentido\na todas y a cualquier horas.\nSi me miras, me das vida,\nsi no, mi alma perforas,\ncon esa luz que en el rostro\ndulce y tierna atesoras.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu risa es canción,\nmi gran bendición.\n\nSuena contenta,\ncomo una menta,\nque me alimenta,\nel corazón.\nTu risa es canción,\nmi gran bendición.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "risa"
+  }
+}

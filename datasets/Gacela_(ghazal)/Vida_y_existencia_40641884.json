@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos entre sombras la gran verdad,\nqueriendo ver la luz de la verdad.\n\nMentiras nos rodean y nos confunden,\npero el alma conoce cuál es verdad.\n\nAunque duela y lastime, yo la prefiero,\ndame siempre la cara de la verdad.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

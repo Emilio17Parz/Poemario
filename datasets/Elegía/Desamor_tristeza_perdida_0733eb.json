@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Viento que llevas mi queja sin fin,\nel eco del alma que quiso anclar.\nMi voz es débil, sin un solo ín,\nel puerto que nunca pude hallar.\nEl soplo es errante, la fuerza sin bien,\nel alma que sufre sin un sostén.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

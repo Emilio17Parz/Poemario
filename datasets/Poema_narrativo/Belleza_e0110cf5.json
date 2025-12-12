@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Salió al escenario,\ncomo una pluma,\nlejos de la bruma,\ndel mundo diario.\nGiraba y saltaba,\ncon gracia infinita,\nun alma bendita,\nque volaba.\nEl público lloró,\nde lo que vio.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "danza"
+  }
+}

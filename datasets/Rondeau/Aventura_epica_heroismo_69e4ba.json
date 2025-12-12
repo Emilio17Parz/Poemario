@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mora en el castillo,\nsencillo,\nde piedra,\nla hiedra,\ny el brillo.\n\nEl ladrillo,\ny el pillo,\nque medra,\nMora en el castillo.\n\nLa cátedra,\ny la piedra,\ndel anillo,\ny el cuchillo,\nque arredra,\nMora en el castillo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "torre"
+  }
+}

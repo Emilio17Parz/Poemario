@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pétalos suaves de terciopelo,\nabren su ser a la mañana.\nReflejo puro del alto cielo,\nroja pasión en la ventana.\n\nAbren su ser a la mañana,\nperfume dulce que embriaga.\nRoja pasión en la ventana,\nherida de amor que no es llaga.\n\nPerfume dulce que embriaga,\nreflejo puro del alto cielo.\nHerida de amor que no es llaga,\npétalos suaves de terciopelo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

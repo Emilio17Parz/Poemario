@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sombra que vaga por el corredor,\neco de pasos que ya no están,\nbuscando aquello que fue su afán,\nalma en pena.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

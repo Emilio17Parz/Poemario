@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No buscas vana gloria,\nsolo quedar en la fiel memoria\nde tu pueblo querido,\npor el que has sufrido.\nTu gran trayectoria,\ny tu victoria,\nserán el canto nunca enmudecido.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Entró el minotauro en el laberinto,\nprisión de muros que tocan el cielo.\nEl hombre se pierde, ciego en su velo,\nguiado tan solo por el instinto.\nCada pasillo es una decisión,\nuna batalla de la razón.\nSalir es la gesta del ser consciente,\nque vence a la bestia de su propia mente.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

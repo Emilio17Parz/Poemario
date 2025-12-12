@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Zancos de tortura,\npara el pie de mujer,\nandan con mesura,\npara no caer.\nSufrir por altura,\nes pura locura.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Tacones"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Negra es la eternidad,\nOscura la partida.\nCallada soledad,\nHasta el fin de la vida.\nEterna oscuridad.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "NOCHE"
+  }
+}

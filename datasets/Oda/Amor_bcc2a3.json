@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tras la tormenta y el grito,\nregresa la calma dulce,\nque al perdón nos conduce,\ny borra lo que está escrito.\nVolver a empezar de nuevo,\nes el regalo que llevo.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "reconciliación"
+  }
+}

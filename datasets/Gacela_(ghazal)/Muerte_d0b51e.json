@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cruzo el umbral a la eternidad,\ntiempo sin fin, la eternidad.\n\nUn solo instante que dura por siempre,\nreino de Dios, la eternidad.\n\nEl alma vuela libre al fin,\nhacia la luz de la eternidad.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

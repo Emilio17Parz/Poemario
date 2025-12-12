@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu alma y la mía sellan su alianza eterna,\nbajo el mismo cielo que nos vio nacer,\nla luz de tu boca es mi fe más tierna,\ny no hay más que amar hasta fenecer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Alianza"
+  }
+}

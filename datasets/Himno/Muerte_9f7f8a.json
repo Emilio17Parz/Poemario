@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ha llegado la hora del gran desenlace,\ndonde todo orgullo por fin se deshace.\nCae el telón de la vida terrena,\ny se rompe del cuerpo la frágil cadena.\n\n¡Respetad el momento de la partida,\nel último aliento de la vida!\nTodo concluye en la paz del sepulcro,\ndonde el destino se vuelve pulcro.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "final"
+  }
+}

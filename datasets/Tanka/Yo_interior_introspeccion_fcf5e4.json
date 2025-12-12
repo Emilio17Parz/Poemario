@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Una luz me aclara,\nla niebla de la duda ya,\nme da la respuesta.\nEs la paz que yo buscaba,\nla calma tras la tormenta.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

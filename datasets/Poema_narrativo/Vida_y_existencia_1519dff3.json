@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tejía hilos de colores,\nen un telar infinito,\ncreando un gran mito,\nde penas y amores.\nEl hilo rojo era pasión,\nel negro era la muerte,\nel verde la buena suerte,\ny el azul la ilusión.\nLa tela era su vida,\nhermosa y tejida.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "hilos"
+  }
+}

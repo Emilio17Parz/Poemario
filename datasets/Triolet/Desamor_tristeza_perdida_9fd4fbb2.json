@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me duele tanto decir adiós,\nse acaba el sueño de los dos,\ny se me quiebra la voz.\nMe duele tanto decir adiós,\nel tiempo ha sido feroz,\ncon un castigo atroz.\nMe duele tanto decir adiós,\nse acaba el sueño de los dos.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

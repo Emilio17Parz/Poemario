@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La gran pregunta sin respuesta.\n¿Hay luz? ¿Hay nada?\nNadie ha vuelto para contarlo.\nEs el salto de fe definitivo,\nla última aventura\nhacia lo desconocido.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

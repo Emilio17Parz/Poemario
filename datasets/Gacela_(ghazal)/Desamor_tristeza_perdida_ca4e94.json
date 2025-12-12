@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Solo me queda tu fría sombra,\nya no estás tú, solo tu sombra.\n\nCruza el pasillo y nadie la nombra,\npero me hiela tu fría sombra.\n\nVago perdido sobre la alfombra,\npersiguiendo en vano tu fría sombra.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

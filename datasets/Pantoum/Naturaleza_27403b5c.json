@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurran los árboles del bosque,\ncontando secretos al viento,\nantes que el sol se enrosque,\nen su último y rojo momento.\n\nContando secretos al viento,\nla vida despierta en la rama,\nen su último y rojo momento,\nla tarde su fuego derrama.\n\nLa vida despierta en la rama,\nsusurran los árboles del bosque,\nla tarde su fuego derrama,\nantes que el sol se enrosque.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

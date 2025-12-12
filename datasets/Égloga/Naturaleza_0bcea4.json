@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se oscurece el cielo de pronto,\nruge el trueno con gran enfado,\nel rebaño corre asustado,\ny yo mi refugio monto.\n\nEl rayo cae sobre el monto,\nmostrando el poder natural,\nfuerza terrible y vital,\nante la que me siento tonto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

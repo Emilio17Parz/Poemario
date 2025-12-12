@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo gruñe como una bestia despertada y lanza lanzas de fuego eléctrico contra la tierra estremecida.\nLa tormenta es la furia y la pasión de la naturaleza, un caos necesario que limpia el aire y renueva la vida.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

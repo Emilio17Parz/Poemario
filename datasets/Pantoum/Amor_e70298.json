@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres el faro en mi tormenta,\nguía segura en la oscuridad.\nMi corazón ya no lamenta,\nha descubierto la claridad.\n\nGuía segura en la oscuridad,\nrompes las olas del mar bravío.\nHa descubierto la claridad,\nllenando todo este vacío.\n\nRompes las olas del mar bravío,\nmi corazón ya no lamenta.\nLlenando todo este vacío,\neres el faro en mi tormenta.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "luz"
+  }
+}

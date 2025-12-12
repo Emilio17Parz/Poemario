@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por cumbres se alza el espíritu insomne,\ny la vastedad llama;\nen cada paso, un eco que resuena,\nel alma se derrama.\nViejos caminos, donde el tiempo es lento,\nforjan el noble brío;\nbajo el velo del alba o del viento,\nun destino sombrío\naguarda al que se atreve sin lamento.\n\nLa fuerza de los dioses en su pecho,\ncon valor sin parangón;\nmira al abismo oscuro sin despecho,\na su propia vocación.\nNi la fiera ni el trueno lo detienen,\nni el mar embravecido;\nsus pasos, firmes, nunca se abstienen\nde librar al oprimido.\nMarcha, y las sombras huyen del camino.\n\nEn su diestra, leal, la luz precisa,\nun destello ancestral;\nla fuerte *espada*, de hoja que divisa\nel bien sobre el mal.\nCon ella abre el camino, tumba al gigante,\nrompe la maldición;\nsu acero, un eco fiero y fulgurante,\nde inmortal decisión.\nY el filo canta, afilando la esperanza.\n\nAtraviesa los reinos olvidados,\ndonde el mito respira;\nlibera a los pueblos, a los desterrados,\npor quienes el alma suspira.\nPor la verdad su senda ha desvelado,\nla gloria que no es vana;\nsu gesta, en versos, queda plasmada,\ncual estirpe soberana.\nY el tiempo, al fin, su nombre consagra.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "espada"
+  }
+}

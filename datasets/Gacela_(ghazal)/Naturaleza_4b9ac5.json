@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Besa la arena la espuma del mar,\nrompen las olas del inmenso mar.\n\nGuarda tesoros y barcos perdidos,\nel fondo oscuro del misterioso mar.\n\nMi alma navega buscando su puerto,\nen la vastedad del azul del mar.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "mar"
+  }
+}

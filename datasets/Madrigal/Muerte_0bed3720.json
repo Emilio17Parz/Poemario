@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando llegue el silencio,\ny se apague la luz de la mirada,\nen la última jornada,\nel fin yo presencio.\nYa no diferencio\nla noche de la alborada,\npues todo duerme bajo el gran silencio.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

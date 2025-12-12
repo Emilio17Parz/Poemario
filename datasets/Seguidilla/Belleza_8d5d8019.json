@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del cielo y canta\ndivina musa,\ny mi pluma a seguirla\nno se rehúsa.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "musa"
+  }
+}

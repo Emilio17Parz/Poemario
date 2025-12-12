@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El árbol da su sombra,\nal viajero cansado.\nNadie lo nombra,\nel árbol da su sombra.\nComo una alfombra,\nen el prado.\nEl árbol da su sombra,\nal viajero cansado.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El caballero llegó,\na la cueva negra,\ndonde nada alegra,\ny el dragón salió.\nLanzó fuego y humo,\npero el héroe esquivó,\ny su espada clavó,\ncon esfuerzo sumo.\nLa bestia cayó,\ny el pueblo vivió.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

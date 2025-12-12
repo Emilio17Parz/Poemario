@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mirada es el faro en mi tormenta,\nmi puerto seguro, calma en la tempestad,\ntu amor, una promesa que sustenta\nla fe profunda de mi corta edad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Eterno"
+  }
+}

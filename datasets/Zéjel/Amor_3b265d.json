@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus manos suaves,\ntienen las llaves.\n\nTocan mi cara,\nde forma tan rara,\nque todo repara,\ncomo las aves.\nTus manos suaves,\ntienen las llaves.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "manos"
+  }
+}

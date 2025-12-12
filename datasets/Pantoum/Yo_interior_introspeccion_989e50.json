@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Lo que quiero ser,\nmotor que me impulsa.\nPara no perder,\nla sangre pulsa.\n\nMotor que me impulsa,\nsueño lejano.\nLa sangre pulsa,\nen mi mano.\n\nSueño lejano,\npara no perder.\nEn mi mano,\nlo que quiero ser.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

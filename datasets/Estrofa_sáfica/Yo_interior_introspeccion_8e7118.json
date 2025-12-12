@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fondo del ser que nunca se toca,\nesencia pura que no se ve,\ndonde reside el amor y fe,\ncentro de vida.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El miedo domina al hombre,\ny al final nadie lo nombre.\n\nLa sangre corre en el suelo,\nsin verdad y sin consuelo,\nla guerra es solo el duelo,\ny al final nadie lo nombre.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

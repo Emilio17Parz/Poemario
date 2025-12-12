@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dos familias que se odiaban a muerte,\ndividían la ciudad con su rencor,\npero en la noche, con gran valor,\ndos jóvenes cambiaban su suerte.\nÉl trepaba la hiedra del muro,\nella esperaba en el alto balcón,\nunían sus labios con gran pasión,\nen un abrazo secreto y puro.\nHasta que el alba los separaba,\ny el sol sus secretos guardaba.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "balcón"
+  }
+}

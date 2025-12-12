@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la tarde violeta,\ncomo una quieta,\nmelodía final,\nhermosa y visual,\nque cumple su meta.\n\nEl sol se sujeta,\na la silueta,\ndel monte real,\nCae la tarde.\n\nLa noche coqueta,\nya nos reta,\na ver la señal,\ndel sueño ideal,\nde forma completa,\nCae la tarde.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "ocaso"
+  }
+}

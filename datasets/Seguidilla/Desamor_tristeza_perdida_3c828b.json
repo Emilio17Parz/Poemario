@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Todo fue una mentira,\ntu falso amor,\nque me causó en el alma,\ntanto dolor.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Llevas los jeans,\nrotos y sucios,\nque cuestan más,\nque mis prejuicios.\nSi mi abuela te viera,\nte daba dinero,\npensando que eres,\nun pordiosero.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "moda"
+  }
+}

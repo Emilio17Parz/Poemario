@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dicen que estoy un poco loco\nporque hablo con la flor,\npero ellas me responden\ncon mucho amor.\nLa locura es un refugio\ncontra el dolor,\nde un mundo demasiado cuerdo\ny sin color.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "locura"
+  }
+}

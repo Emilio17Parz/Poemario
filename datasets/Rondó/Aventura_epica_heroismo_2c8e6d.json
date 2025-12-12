@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suena el grito de guerra,\nen el campo sangriento.\nSe lo lleva el viento,\nque al soldado aterra.\n\nEl miedo se encierra,\nen el pensamiento.\nSuena el grito de guerra,\nen el campo sangriento.\n\nTiembla la tierra,\nen el momento.\nSin lamento,\nse desierra.\nSuena el grito de guerra.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

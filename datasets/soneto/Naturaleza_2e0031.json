@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Duerme el gigante de piedra y fuego,\ncon la cabeza en la nube metida,\nguardando en su entraña la herida,\nde un magma rojo, feroz y ciego.\n\nSi despierta, no escucha ni ruego,\nlanza su furia nunca medida,\ny la tierra tiembla estremecida,\nante este brutal y ardiente juego.\n\nEs la boca del infierno abierta,\ncreador y destructor a la vez,\nque deja la ladera desierta.\n\nSímbolo de fuerza y rigidez,\nque mantiene a la gente despierta,\ntemiendo su gran insensatez.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "volcán"
+  }
+}

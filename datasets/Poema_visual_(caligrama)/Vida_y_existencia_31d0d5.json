@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hojas blancas\nletras negras\nhistoria escrita\nde lo vivido\nmemoria guarda\nlo que fuimos\nen papel.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

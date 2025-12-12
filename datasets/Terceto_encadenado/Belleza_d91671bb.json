@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se mueve con elegancia,\nal ritmo del tamboril,\ncon un aire tan sutil.\n\nQue llena la estancia,\nde gracia y de belleza,\nen la dulce fragancia.\n\nDe su gran delicadeza.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "baile"
+  }
+}

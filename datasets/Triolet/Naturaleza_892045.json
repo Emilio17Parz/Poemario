@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El trigo se mece lento,\nBajo la luz del sol,\nAl ritmo del viento.\nEl trigo se mece lento,\nEs el alimento,\nDel caracol.\nEl trigo se mece lento,\nBajo la luz del sol.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "trigo"
+  }
+}

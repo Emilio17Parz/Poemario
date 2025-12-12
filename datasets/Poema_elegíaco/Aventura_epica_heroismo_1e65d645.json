@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Silencio es el que ahora envuelve el vasto campo,\ndonde antes resonaban clarines y clamor.\nLa gesta ha terminado, el hierro y el estampo\nde héroes yacen quietos, sin pulso ni fervor.\n¿Dónde están las voces que al dragón desafiaron,\nlas manos firmes que el abismo cruzaron?\n\nRecuerdo sus miradas, de luz inextinguible,\nfijadas en la cumbre de un destino cruel.\nCruzaron mares negros, la senda inaccesible,\ncon fe inquebrantable, con espíritu fiel.\nLidiaron con quimeras, sortilegios oscuros,\nsus pechos fueron diques contra miedos futuros.\n\nMas la espada del tiempo, que a nadie perdona,\ntambién dobló sus fuerzas, también cortó su vuelo.\nCayeron como robles, bajo luna baldona,\nsus almas ascendiendo hacia ignoto cielo.\nLa sangre derramada, simiente del relato,\ntestigo mudo y noble de su noble arrebato.\n\nAhora duermen bajo la tierra fría y quieta,\nsus nombres susurrados por el viento en la sierra.\nPero su canto épico, su valiente silueta,\nperviven, cual fulgor que el olvido no aterra.\nY en cada nueva aurora, su imperecedera **gloria**\nse alza, faro eterno de su inmortal victoria.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

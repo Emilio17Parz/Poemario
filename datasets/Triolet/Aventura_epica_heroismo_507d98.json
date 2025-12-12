@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mar adentro,\nVa el navío,\nA su encuentro.\nMar adentro,\nEn el centro,\nCon brío.\nMar adentro,\nVa el navío.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mar"
+  }
+}

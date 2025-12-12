@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ondea el dorado campo de trigo,\nbajo el sol de la clara mañana,\nes del hombre el más fiel amigo,\ny esperanza de la vida humana.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "trigo"
+  }
+}

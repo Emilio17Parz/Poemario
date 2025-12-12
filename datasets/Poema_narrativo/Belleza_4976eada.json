@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El pintor buscaba el tono exacto,\npara captar la luz de la tarde.\nHizo mil mezclas en el contacto,\ncon una pasión que siempre arde.\nQuería dejar el momento intacto,\nantes que el sol se acobarde.\nDio una pincelada final,\ny al ver su obra tuvo parte,\nde la emoción universal,\nque vive eterna en el arte.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ha llegado el gran silencio,\nque todo lo cubre de paz,\nla vida pierde su disfraz,\ny el misterio presencio.\nYa no hay ruido ni comercio,\nsolo un descanso veraz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Párpado cae\nno mira fuera\nmira adentro\nconciencia\ntestigo\nde lo que\nsoy.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Flor en la roca,\nlo imposible sucede,\nmano divina.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "roca"
+  }
+}

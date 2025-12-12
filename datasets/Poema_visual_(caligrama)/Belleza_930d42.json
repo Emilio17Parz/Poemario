@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cabeza negra\nplica arriba\ncorchete curvo\nsonido dulce\nmelodía\narmonía\nen el aire.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "música"
+  }
+}

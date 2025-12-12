@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me ciñes con la fuerza de tus brazos,\nuniendo lo que estaba dividido,\npegando de mi ser los mil pedazos.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "[EL JARDINERO]\n(A una rosa que se marchita)\n¿Por qué tan rápido? ¿Por qué esta prisa cruel por volver al polvo?\nTu perfección dura un suspiro, y mi trabajo de meses, se desvanece.\nEres el símbolo de la vida y de su burla. Belleza mortal. Fragilidad.\nTe cortaré ahora. Prefiero tu muerte en mi mano que tu lenta agonía.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "flor"
+  }
+}

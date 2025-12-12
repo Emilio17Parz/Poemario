@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu risa es la música que al cielo se va (A),\nel eco de un gozo sin un final (B),\nla alegría que siempre mi alma me da (A).\n\nEs la melodía que es ya inmortal (B),\nque rompe el silencio, sin más dolor (C),\nla dulce y suprema verdad total (B).\n\nPor ti yo respiro con gran fulgor (C),\nel eterno canto que al fin se alzó (D),\nla fuente de todo valor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

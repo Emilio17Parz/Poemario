@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tu sonrisa ilumina mi sendero,\nmás que el sol en la tarde de verano,\ny es el regalo que yo más prefiero.\n\nEs un gesto sencillo y sincero,\nque me tiende su cálida mano,\ntu sonrisa ilumina mi sendero.\n\nNo necesito ser un aventurero,\npara encontrar el tesoro humano,\ny es el regalo que yo más prefiero.\n\nCon ella el mundo es menos severo,\ny el dolor se vuelve más liviano,\ntu sonrisa ilumina mi sendero.\n\nEs la belleza del amor entero,\nque se muestra en el rostro lozano,\ny es el regalo que yo más prefiero.\n\nPor verla siempre yo me desespero,\npues me hace sentir un soberano,\ntu sonrisa ilumina mi sendero,\ny es el regalo que yo más prefiero.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

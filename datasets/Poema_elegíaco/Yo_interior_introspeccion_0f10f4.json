@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miento a mí mismo, la verdad es el golpe que el alma me da sin fe, cruel y sin razón fiel,\nla vida sin la calma, con sabor amargo a hiel.\nLa honestidad es el precio que el espíritu me pide ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la verdad que mi boca no puede decir jamás sin voz ni luz,\ny mi destino es el castigo de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

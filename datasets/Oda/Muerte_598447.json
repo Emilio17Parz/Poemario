@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sin más dolor,\nni sufrimiento,\nsolo el aliento,\ndel creador.\nDescanso merecido,\nal haber vivido.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Habló con un ente del más allá,\nque le dijo \"vete pa'llá\".\nSe asustó tanto,\nque soltó el llanto,\ny corrió hasta el Canadá.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

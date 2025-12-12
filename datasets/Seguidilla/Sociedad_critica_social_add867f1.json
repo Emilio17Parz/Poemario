@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele ver en la calle\ntanta pobreza,\nque golpea las almas\ncon su dureza.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

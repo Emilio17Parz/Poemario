@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Naves blancas que surcáis el azul,\nligeras y suaves como el tul!\nViajeras errantes sin rumbo fijo,\nque sois del viento capricho e hijo.\n\n¡Cantad a las nubes que el agua traen,\ny que en formas mil se distraen!\nAdorno cambiante del firmamento,\nque nos regalan su movimiento.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "nube"
+  }
+}

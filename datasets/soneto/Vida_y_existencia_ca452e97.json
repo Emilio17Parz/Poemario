@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El soplo inicial que en el ser habita,\nUn misterio profundo, eterno y vasto,\nDe un tiempo breve y de un vivir que es gasto,\nLa llama interna que a la luz invita.\n\nLa senda incierta que el andar nos quita\nLa venda opaca, el límite que es casto,\nUn eco mudo en el sendero fasto,\nLa inmensa nada que la forma imita.\n\nMas ¿es el hombre artífice o regente\nDe un hilo oculto que su trazo teje,\nO un peón más en un tablero urgente?\n\nLa sombra incierta que al final nos rige,\nEl velo denso de lo omnipotente,\nQue en cada paso el **destino** elige.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "destino"
+  }
+}

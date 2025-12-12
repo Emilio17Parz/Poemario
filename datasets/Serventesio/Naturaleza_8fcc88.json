@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se alza la cumbre altiva hacia el cielo,\ncoronada de nieve y majestad,\ncubierta por un blanco y frío velo,\nde silencio y de gran soledad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

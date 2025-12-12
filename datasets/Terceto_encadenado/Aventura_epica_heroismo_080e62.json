@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelvo a casa cansado,\ntras la larga aventura,\ncon el cuerpo pesado.\n\nPero con la ternura,\nde ver mi hogar,\ny su estructura.\n\nAl llegar.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

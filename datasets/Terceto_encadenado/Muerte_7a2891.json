@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cada gota es un mar de tristeza,\npor el vacío que dejas aquí,\ny por la muerte y su ligereza.\n\nLloro por todo lo que perdí,\ny por la falta de tu calor,\ndesde el momento en que te vi.\n\nPartir con dolor.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Temor grande,\nal final,\nes normal,\nque mande.\nSe expande,\nla duda,\nque desnuda,\ny blande.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

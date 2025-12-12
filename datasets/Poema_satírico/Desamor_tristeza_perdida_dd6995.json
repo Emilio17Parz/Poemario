@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siempre llueve cuando lloras,\nen las películas malas,\nasí pasas las horas,\nsin usar tus propias alas.\nEl clima no tiene la culpa,\nde tu amorosa disculpa.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Lluvia"
+  }
+}

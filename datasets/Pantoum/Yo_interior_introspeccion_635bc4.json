@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi mente es laberinto,\npasillos de confusión.\nMe guía el instinto,\nbuscando una ilusión.\n\nPasillos de confusión,\npensamientos que giran.\nBuscando una ilusión,\nmis ojos lo miran.\n\nPensamientos que giran,\nmi mente es laberinto.\nMis ojos lo miran,\nme guía el instinto.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

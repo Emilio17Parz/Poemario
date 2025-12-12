@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No sé si soy o no soy,\nni a dónde voy hoy.\nMe miro al espejo,\ny veo a un viejo,\ny me doy.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "duda"
+  }
+}

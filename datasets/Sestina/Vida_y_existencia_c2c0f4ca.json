@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Atrapa el breve instante,\nque brilla y se desvanece,\ncomo gota de rocío.\nNo dejes sentir el frío,\nde lo que pudo haber sido,\ny vívelo con pasión.\n\nCon pasión,\nvive el instante,\ny su latido.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "instante"
+  }
+}

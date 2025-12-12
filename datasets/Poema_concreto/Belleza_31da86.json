@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "DIAMANTE\nD I A M A N T E\n D I A M A N T E\n  BRILLA",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "joya"
+  }
+}

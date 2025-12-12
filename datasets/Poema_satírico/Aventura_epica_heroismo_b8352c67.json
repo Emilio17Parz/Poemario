@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se fue a pescar,\nel gran cazador,\ncon caña y con cebo,\ny mucho valor.\nVolvió sin un pez,\npero con resaca,\nde tanta cerveza,\nque se empaca.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "pesca"
+  }
+}

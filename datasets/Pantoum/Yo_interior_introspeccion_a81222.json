@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Una voz habla adentro,\nsusurra la verdad pura.\nBusco mi propio centro,\nsanar la vieja cura.\n\nSusurra la verdad pura,\nla intuición que no falla.\nSanar la vieja cura,\nsaltar la gran muralla.\n\nLa intuición que no falla,\nuna voz habla adentro.\nSaltar la gran muralla,\nbusco mi propio centro.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "voz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Baja el agua por el río\ncon su canto de cristal,\nquitando el calor de estío\nal pasar el matorral.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "río"
+  }
+}

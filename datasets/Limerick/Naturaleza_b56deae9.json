@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Había una rana en el pozo,\nque croaba con mucho gozo,\nviola a un mosquito,\npegó un gran grito,\ny se le atoró en el escozo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Rana"
+  }
+}

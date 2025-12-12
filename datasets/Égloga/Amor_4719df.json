@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Como la oveja sigue a su pastor,\nasí mis pasos siguen tu huella.\nEres del valle la más linda estrella,\nque guía con su luz y su calor.\nNo existe en la montaña tal primor\nni criatura que se te haga mella.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "huella"
+  }
+}

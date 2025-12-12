@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El tiempo se lleva mi dulce recuerdo,\nla arena se escapa de mi control,\nel corazón roto, sin un acuerdo,\nsin la esperanza del sol.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

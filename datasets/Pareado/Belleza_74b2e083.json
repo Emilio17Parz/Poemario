@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Admiro la pura y perfecta forma,\nque rompe siempre con toda norma.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "forma"
+  }
+}

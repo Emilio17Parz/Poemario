@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un joven, de amor muy prendido,\nSentía su pecho encendido.\nCon pasión, sin igual,\nUn fuego letal,\nSu alma por ella, rendido.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

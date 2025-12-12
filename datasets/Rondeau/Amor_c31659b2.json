@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En primavera florece el amor,\nlejos del frío y del gris dolor,\ncuando los campos se visten de luz,\ny no cargamos con ninguna cruz,\nsolo sentimos el dulce calor.\n\nTodo revive con nuevo color,\ncanta en la rama el ruiseñor,\nsin la tristeza ni el capuz,\nEn primavera.\n\nEres la causa de mi gran ardor,\nquitas del alma todo el temor,\neres mi guía y mi arcaduz,\nclara y brillante como el trasluz,\nde este paisaje encantador,\nEn primavera.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

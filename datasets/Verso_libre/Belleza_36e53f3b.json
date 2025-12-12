@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mira la flor del campo, que no hila ni teje, y sin embargo Salomón no vistió como ella.\nEn la fragilidad de sus pétalos está contenida toda la belleza del universo.\nSe abre al sol sin vanidad, ofrece su perfume sin pedir nada, y muere en silencio.\nAprende de la flor la lección de la belleza efímera y gratuita.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "flor"
+  }
+}

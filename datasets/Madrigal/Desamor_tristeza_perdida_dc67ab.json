@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Leo tus viejas líneas,\npapel gastado por el tiempo y llanto;\nperdió su encanto,\nlas flores, zinias.\nLetras que ayer juraban amor eterno,\nhoy son infierno.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "carta"
+  }
+}

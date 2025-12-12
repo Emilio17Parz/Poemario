@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llueve y la ciudad se vuelve gris,\nel color exacto de mi estado de ánimo.\nEl agua golpea la ventana\ncomo si quisiera entrar a llorar conmigo.\nPero yo estoy seco por dentro,\naridamente triste.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

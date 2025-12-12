@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Antes huía de estar solo como de la peste, llenando el vacío con ruido y gente.\nAhora abrazo mi soledad como a una vieja amiga, porque en ella me encuentro y me hago compañía.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

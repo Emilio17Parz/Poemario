@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vive en la mente\nquien ya se ha marchado\nno muere aún.\nMientras haya memoria\nseguirá entre nosotros.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

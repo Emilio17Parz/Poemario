@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El camino se hace,\ncon cada paso dado,\ncon el pie cansado,\nque nunca deshace.\n\nLa duda renace,\nen el campo arado,\nque no satisface.\nEl camino.\n\nEl alma yace,\nsoñando el pasado,\npero el dado,\nya no complace,\nni nos rehace.\nEl camino.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "camino"
+  }
+}

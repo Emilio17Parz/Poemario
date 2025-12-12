@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Luz que me guías al puerto final,\nel brillo que el cuerpo no puede ver.\nEl alma te sigue sin un gran mal,\na la vida que puedo tener.\n¡Oh, esfera ardiente, de eterno fulgor,\nme das la fe y el amor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

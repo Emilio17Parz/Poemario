@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "A la Boda no llegaste,\nme dejaste sola allí,\ntu amor no me lo entregaste,\ny yo lloré sin un sí.\n\nAhora la gente me mira,\ncon pena y con gran mal,\ny mi alma ya suspira,\npor un golpe fatal.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Boda"
+  }
+}

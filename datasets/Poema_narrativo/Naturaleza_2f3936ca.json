@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El niño miraba hacia las alturas,\ntumbado en la hierba del prado verde.\nVeía pasar extrañas figuras,\nun dragón blanco que el viento muerde,\ncastillos, barcos y criaturas,\nen un juego que nunca se pierde.\nPasaron las horas, llegó el ocaso,\nteñido de rojo y de terciopelo,\ny el niño durmió en el regazo\ndel infinito y cambiante cielo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

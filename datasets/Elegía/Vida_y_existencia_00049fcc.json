@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sabor amargo en la boca,\nde haberlo intentado en vano,\nse me escapó de la mano\nla victoria que me toca.\nMi esfuerzo choca y choca,\ncontra un muro tirano,\ny me siento un gusano\nbajo una inmensa roca.\nElegía al triunfo ausente,\nal éxito que huyó,\nal aplauso silente.\nEl fracaso me cubrió,\ncon su manto deprimente,\ny mi orgullo murió.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "fracaso"
+  }
+}

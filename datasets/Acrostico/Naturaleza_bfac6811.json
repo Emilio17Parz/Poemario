@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "LL ega del cielo gris,\nU niendo tierra y nube,\nV ida para el país,\nI luminando al que sube,\nA gua de la raíz.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

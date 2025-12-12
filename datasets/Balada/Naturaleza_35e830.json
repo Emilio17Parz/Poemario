@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despierta el mundo de su letargo,\ncon mil colores y aromas nuevos,\nse hace el día mucho más largo,\ny nacen polluelos de los huevos.\nLa flor se abre al beso del sol,\ny todo canta la resurrección,\nla mariposa y el caracol,\ncelebran juntos la estación.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

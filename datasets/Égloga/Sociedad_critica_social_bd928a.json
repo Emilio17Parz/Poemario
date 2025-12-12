@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Allá en la corte todo es fingido,\nsonrisas falsas y traiciones.\nAquí entre los leones\nvivo tranquilo y querido.\nPrefiero el balido\na sus canciones.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "corte"
+  }
+}

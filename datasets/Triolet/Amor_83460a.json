@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Por siempre te voy a adorar,\nEres dueña de mi verdad,\nNunca te podré olvidar.\nPor siempre te voy a adorar,\nContigo quiero caminar,\nLejos de la soledad.\nPor siempre te voy a adorar,\nEres dueña de mi verdad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

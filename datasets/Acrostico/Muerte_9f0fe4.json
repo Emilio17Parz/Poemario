@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuerpo que fuego fue,\nEn polvo convertido.\nNada queda de pie,\nIlusión que se ha ido.\nZanjado lo que amé,\nAdiós a lo vivido.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "CENIZA"
+  }
+}

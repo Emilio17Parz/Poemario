@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Soñé que eras la ninfa de la fuente,\ny yo el pastor que tu sed mitigaba.\nEl agua entre tus dedos resbalaba\nbesando tu figura reluciente.\nDespierto y te hallo aquí, tan presente,\nque el sueño a la verdad no superaba.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ninfa"
+  }
+}

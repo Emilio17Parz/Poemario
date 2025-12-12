@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Luz que me guía, de eterno fulgor,\nel brillo que el héroe quiere ya ser.\nLa fuerza que vence el dolor,\nel alma que busca el poder.\n¡Oh, esfera ardiente, de dulce verdad,\nme das la fe y la caridad!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

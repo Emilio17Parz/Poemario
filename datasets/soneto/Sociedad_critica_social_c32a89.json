@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Levantan barreras de cemento,\npara frenar el paso del hombre,\nnegando su rostro y su nombre,\ny causando un gran sufrimiento.\n\nDividen la tierra y el viento,\nsembrando el odio y el asombre,\npara que el rico no se escombre,\ncon el pobre y su lamento.\n\nPero no hay muro que detenga,\nla esperanza y la necesidad,\npor mucho que se sostenga.\n\nCruzará la humanidad,\naunque la muerte prevenga,\nbuscando su dignidad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "muro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Palabras arcanas y polvo extraño,\npoder que doblega la realidad,\nla verdad,\nse transforma con un simple engaño.\nEl mago conjura con su bastón,\nla ilusión,\nde fuego, de hielo y de tempestad,\ncon voluntad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "hechizo"
+  }
+}

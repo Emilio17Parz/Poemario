@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Subir a la montaña,\npara ver el paisaje,\nes un terrible viaje,\nque las piernas daña.\nLlegas con mucha saña,\nsudado y sin coraje,\ny ves el mismo celaje,\nque en una postal de España.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "monte"
+  }
+}

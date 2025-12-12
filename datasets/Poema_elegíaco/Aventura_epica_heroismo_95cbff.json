@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El mapa me guía a la nada, el tesoro se fue ya sin fe ni mal,\nla vida sin la calma, el sino fatal.\nLa riqueza fue el engaño que el tiempo me dio, cruel y fiel sin razón,\nla vida sin la calma, sin ninguna opción.\n\nLloro por el oro que mi mano no pudo tocar jamás sin luz ni voz,\ny mi destino es el castigo de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

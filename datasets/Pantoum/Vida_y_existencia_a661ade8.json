@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un camino,\nque hay que recorrer,\nmarcado por el destino,\nal amanecer.\n\nQue hay que recorrer,\ncon paso valiente,\nal amanecer,\ny sol poniente.\n\nCon paso valiente,\nla vida es un camino,\ny sol poniente,\nmarcado por el destino.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de arena,\ninfinito y seco,\ndonde vive el eco,\nde una pena.\nBelleza desnuda,\nque no muda.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

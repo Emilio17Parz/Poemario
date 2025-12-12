@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soy mi propio fantasma,\nme persigo sin fin.\nLa suave remansa\nde un triste motín.\n\nMe miro sin hablar,\ny no encuentro la paz,\nla única forma\nde ser capaz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

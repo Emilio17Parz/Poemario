@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El ser humano, al despertar,\ncomienza su senda al andar.\n\nLa vida es un hondo **camino**,\ntrazado por nuestro destino.\n\nEn cada paso hay una flor,\ntambién un espino y su dolor.\n\nExistir es amar, es sentir,\nes la esencia del propio vivir.\n\nAunque la luz se apague al fin,\nla huella perdura sin confín.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "camino"
+  }
+}

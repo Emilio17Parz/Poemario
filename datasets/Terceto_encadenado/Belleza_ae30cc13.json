@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza, un fulgor que al alma asombra,\nSe esconde en cada flor, en tenue velo,\nY en el secreto que la luz desombra.\n\nEs el don que nos llega desde el cielo,\nAquella luz que el pensamiento abraza,\nQue eleva el corazón a un dulce anhelo.\n\nLa forma que en el mármol se desplaza,\nO el verso que la voz del alma grita,\nInspiración que la sublime musa traza.\n\nEn cada gesto que la vida edita,\nSu esencia pura, inmaterial, persiste,\nVerdad que el tiempo nunca precipita.\n\nY en cada ser que su milagro viste,\nUn eco eterno, un hálito divino,\nLa eternidad en lo fugaz existe.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "musa"
+  }
+}

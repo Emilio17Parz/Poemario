@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tierra de padres, suelo sagrado,\npor el que tantos han peleado.\n¡Gloria a la Patria, madre común!,\nque nos reúnes en un solo atún.\n\nBanderas al viento, himnos de fe,\npor ti mi sangre yo daré.\nProtege a tus hijos, danos tu paz,\ny haznos un pueblo fuerte y capaz.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "patria"
+  }
+}

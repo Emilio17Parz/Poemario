@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tesoro que el tiempo roba,\nfrescura de primavera.\nEl año nuevo se prueba,\ncorriendo la gran carrera.\n\nFrescura de primavera,\nrostro sin marca ni arruga.\nCorriendo la gran carrera,\nel tiempo es quien madruga.\n\nRostro sin marca ni arruga,\nel año nuevo se prueba.\nEl tiempo es quien madruga,\ntesoro que el tiempo roba.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

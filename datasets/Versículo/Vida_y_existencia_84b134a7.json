@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Es la vida una vigilia o estamos atrapados en un largo sueño?\nLas formas cambian, los amores pasan, todo parece una ilusión óptica.\nTal vez despertar sea morir, abrir los ojos a la verdadera realidad.\nMientras tanto, soñamos que vivimos y construimos castillos en el aire.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

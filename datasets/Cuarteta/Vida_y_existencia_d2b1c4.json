@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo no espera, vuela sin fin,\ncada hora es un regalo fugaz,\nes el misterio de nuestro trajín,\nel eco sordo que trae la paz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Tiempo"
+  }
+}

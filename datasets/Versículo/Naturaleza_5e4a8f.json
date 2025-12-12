@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña es el desafío de la piedra a la gravedad, un dedo de roca que señala obstinadamente hacia las estrellas.\nDesde su cumbre nevada, el mundo de los hombres parece un hormiguero lejano, y el silencio es la única ley.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

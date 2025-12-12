@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Soñamos mientras dormimos,\ny a veces también despiertos,\ncreando mundos abiertos,\ndonde felices vivimos.\n\nLos sueños que perseguimos,\nson el motor del andar,\nque nos hacen avanzar,\npor los caminos que fuimos.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

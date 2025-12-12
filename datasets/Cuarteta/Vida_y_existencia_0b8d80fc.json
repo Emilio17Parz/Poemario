@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se hace camino al andar\npor la senda de la vida,\nsin detenerse a mirar\nla ruta ya recorrida.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "andar"
+  }
+}

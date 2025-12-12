@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El sueño me libera y luego me devuelve a la realidad cruel,\ndonde tu ausencia es un látigo con sabor a hiel.\nLa pesadilla no es la noche, es la luz de la mañana,\nla vida sin tu amor que ya no me sana.\n\nLloro por el instante que no quiere volver jamás,\nla vida sin la calma, sin nunca tener paz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "pesadilla"
+  }
+}

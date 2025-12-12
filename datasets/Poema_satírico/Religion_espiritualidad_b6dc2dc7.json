@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dices que has visto la luz,\ny cargas con tu cruz.\nPero te saltas la fila,\ncon una cara tranquila.\nTu iluminación divina,\nes pura y vil pamplina.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "luz"
+  }
+}

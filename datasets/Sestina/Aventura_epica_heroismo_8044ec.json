@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Duerme la bestia en la cueva,\nsobre una montaña de oro,\ncustodiando el gran tesoro,\ncon su aliento de fuego,\nesperando al caballero,\nque venga con su espada.\n\nBrilla la afilada espada,\nque entra en la oscura cueva,\nportada por el caballero,\nque no busca el oro,\nsino apagar el fuego,\ny liberar el tesoro.\n\nEs maldito el tesoro,\nque defiende la espada,\ncontra el monstruo de fuego,\nque habita en la cueva,\nrodeado de brillante oro,\nque tienta al caballero.\n\nLucha el valiente caballero,\npor el honor, no el tesoro,\ndespreciando el vil oro,\nconfiando en su espada,\npara limpiar la cueva,\ndel dragón de fuego.\n\nLanza chorros de fuego,\nla bestia al caballero,\nque se protege en la cueva,\npara salvar el tesoro,\nalzando su fiel espada,\ncontra el guardián del oro.\n\nSe queda allí el oro,\nfundido por el fuego,\nbajo el golpe de espada,\ndel victorioso caballero,\nque rescata el tesoro,\ny sale de la cueva.\n\nCueva de oro y fuego,\ntesoro y espada,\ndel caballero.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

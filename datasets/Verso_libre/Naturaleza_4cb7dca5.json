@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La inmensidad tiene nombre de agua.\nOlas que llegan desde el horizonte,\ntrayendo mensajes de otros continentes.\nEl mar ruge y calla,\nes cuna y cementerio,\nun misterio profundo y salado\nque nos llama desde la orilla.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mar"
+  }
+}

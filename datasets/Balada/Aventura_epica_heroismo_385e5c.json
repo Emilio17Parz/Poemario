@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lanzan el guante sobre la arena,\ny empieza la lucha y la faena,\ndos voluntades frente a frente,\nbajo el sol duro y caliente.\nNadie se rinde, nadie cede,\nporque el orgullo todo lo puede,\ny solo uno quedará en pie,\ndefendiendo su honor y su fe.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "desafío"
+  }
+}

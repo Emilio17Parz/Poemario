@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Valle verdoso bajo cielo limpio,\nlago tranquilo que refleja montes,\ntodo dispone la natura sabia\nen horizontes.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

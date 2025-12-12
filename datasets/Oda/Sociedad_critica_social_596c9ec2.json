@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sueño de un suelo parejo,\ndonde nadie es más que nadie,\nrompiendo el muro viejo\nque al pobre siempre invade.\nMismo sol, misma ley,\nmismo pan en la mesa,\nsin siervo ni rey,\nni carga que pesa.\nMeta de la historia,\nrespeto al semejante,\nla verdadera gloria\ndel paso adelante.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "igualdad"
+  }
+}

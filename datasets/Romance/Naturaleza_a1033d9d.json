@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla fuerte, sopla libre,\nel invisible gran viento,\nmueve las copas altas\ncon su rudo movimiento.\nTrae aromas de la sierra,\nlleva lejos el lamento,\ny nos cuenta viejas quejas\ncon su silbo y su aliento.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "viento"
+  }
+}

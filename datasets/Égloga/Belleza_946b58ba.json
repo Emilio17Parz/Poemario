@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "NEMOROSO: Contemplo del monte la regia forma,\ntallada por siglos de viento y lluvia.\nSALICIO: Perfecta escultura que el tiempo aluvia,\ny que a ninguna regla se conforma.\nBelleza salvaje, dura y serena,\nque alivia del alma toda la pena.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "forma"
+  }
+}

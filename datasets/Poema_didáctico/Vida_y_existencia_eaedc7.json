@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ponte en los zapatos,\ndel que tienes enfrente,\nevita los malos tratos,\ny sé buena gente.\nSentir con el otro,\ndoma al potro.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Empatía"
+  }
+}

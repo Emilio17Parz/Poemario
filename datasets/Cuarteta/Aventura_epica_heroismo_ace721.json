@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Su saga se escribe con sangre y con fe,\nla historia de un alma que supo luchar,\nde un hombre que dijo: 'Yo sé lo que sé',\ny que nunca quiso fallar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Saga"
+  }
+}

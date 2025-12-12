@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dentro de la prisión,\nmuere la ilusión,\nentre muros de piedra,\ndonde crece la hiedra,\nsin ver la creación.\n\nEs la condenación,\na la oscura rincón,\nque el alma arredra,\nDentro de la prisión.\n\nSin absolución,\nni liberación,\nla cadena empiedra,\nlo que no medra,\nen el corazón,\nDentro de la prisión.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "prisión"
+  }
+}

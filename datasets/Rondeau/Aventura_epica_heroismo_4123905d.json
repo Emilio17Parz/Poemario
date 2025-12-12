@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Por mi honor lucharé,\ny no descansaré,\nhasta ver cumplida,\nla promesa de vida,\nque un día juré.\n\nLa verdad defenderé,\ny el mal venceré,\ncon el alma erguida,\npor mi honor.\n\nAunque la vida dé,\nno me rendiré,\nante la acometida,\nde la traición escondida,\ny mi nombre limpiaré,\npor mi honor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "honor"
+  }
+}

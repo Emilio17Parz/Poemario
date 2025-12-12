@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa el cuerpo bajo la losa,\nlejos del ruido y la vanidad,\nen una paz profunda y silenciosa,\nque dura por toda la eternidad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

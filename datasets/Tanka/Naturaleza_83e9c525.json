@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde musgo cubre,\nrío canta en su fluir.\nEl aire suspira,\nazul inmenso es el cielo,\npaz en la tierra encuentro.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

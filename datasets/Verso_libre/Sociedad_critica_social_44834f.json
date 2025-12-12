@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La verdad se pone los zapatos\nmientras la mentira ya ha dado la vuelta al mundo.\nVivimos en la era del filtro,\nde la noticia falsa,\ndonde la realidad es lo de menos\nsi el titular es bueno.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

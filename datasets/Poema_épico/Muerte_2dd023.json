@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La danza macabra de huesos sonoros,\nrevela la verdad bajo la piel,\nni joyas, ni sedas, ni grandes tesoros,\nllevamos al reino de la hiel.\nArmazón blanca, arquitectura,\nla única y cierta estructura futura.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Esqueleto"
+  }
+}

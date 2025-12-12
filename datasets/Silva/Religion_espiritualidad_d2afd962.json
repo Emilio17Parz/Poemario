@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Entro callado en el sagrado templo,\ny la paz contemplo.\nLugar de oración,\ny de comunión,\ndonde el alma descansa,\ny se amansa.\nRefugio celestial,\nterrenal.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "templo"
+  }
+}

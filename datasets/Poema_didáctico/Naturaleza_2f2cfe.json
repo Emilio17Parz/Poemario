@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Observa el ciclo de la estación,\ntodo nace, muere y renace,\nes la eterna lección,\nque la tierra nos hace.\nNada es eterno, todo fluye,\ny la vida se construye.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Ciclos"
+  }
+}

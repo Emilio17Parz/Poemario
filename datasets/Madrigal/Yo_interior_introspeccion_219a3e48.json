@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Voz que habla bajito,\npero que suena fuerte como un grito.\nJuez de mis propias obras,\nque mis fallos me cobras.\nNo puedo yo engañarte,\npues eres de mi ser la mejor parte.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lancelot, el más valiente\nde la Tabla Redonda,\nbuscaba el Santo Grial\npor la tierra y por la onda.\nSu amor por la reina blanca\nera una herida honda,\nque manchaba su pureza\ny su fama oronda.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

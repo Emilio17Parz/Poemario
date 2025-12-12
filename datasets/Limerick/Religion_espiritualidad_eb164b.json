@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El libro de Dios es la guía,\nla luz que la sombra desvía.\nEs dulce verdad,\nsin falsedad,\nla vida que tiene su vía.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Biblia"
+  }
+}

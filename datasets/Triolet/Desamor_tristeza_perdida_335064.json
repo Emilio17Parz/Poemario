@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La distancia separa,\ndos almas que se amaron.\nEl tiempo dispara,\nla distancia separa.\nLa suerte es avara,\nlos caminos cerraron.\nLa distancia separa,\ndos almas que se amaron.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

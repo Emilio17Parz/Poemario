@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se nos escapa el tiempo\ncomo arena entre los dedos,\ndejando vanos miedos\ny algún feliz contratiempo.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

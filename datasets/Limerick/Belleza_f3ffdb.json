@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La luz de un eterno arrebol,\nel mundo sin un gran farol.\nEs brillo sin fin,\nsin rastro de tin,\nel arte que vence el dolor.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

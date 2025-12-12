@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Espero que en el cielo,\ntengas tu gloria,\ny que quede en nosotros,\ntu memoria.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol tiene un valor,\nsin ningún temor.\n\nLa luz ya me llegó,\nla vida me salvó,\nel mundo me perdonó,\nsin ningún temor.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "sol"
+  }
+}

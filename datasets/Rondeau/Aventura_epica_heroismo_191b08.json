@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La armadura,\nque es dura.\nDe metal,\ne special,\ny segura.\n\nLa figura,\nde la altura.\nEl mal,\nla armadura.\n\nLa cura,\ny la pura.\nEl final,\ndel rival,\nen la llanura,\nla armadura.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "armadura"
+  }
+}

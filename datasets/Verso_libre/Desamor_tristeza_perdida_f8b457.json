@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche es el enemigo.\nSin el ruido del día para distraerme,\nla soledad se sienta en mi pecho.\nCuento ovejas,\ncuento errores,\ncuento los días que faltan\npara que deje de importar.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "noche"
+  }
+}

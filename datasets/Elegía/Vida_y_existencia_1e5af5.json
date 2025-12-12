@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Añoro los días sencillos,\nsin tanta complicación,\ndonde una canción,\nvalía castillos.\n\nHoy los grillos,\nson prisión,\ny presión,\nen los tobillos.\n\nLloro la vida simple,\nque ya no cumple.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "simpleza"
+  }
+}

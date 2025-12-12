@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El fuego purificador reduce el cuerpo a ceniza, la esencia última de la materia.\nEsparcid mis cenizas al viento, sobre el mar o en la montaña, para que vuelvan al ciclo.\nNo me encerréis en una urna fría, dejadme ser parte del aire, de la lluvia, de la tierra.\nQue mi átomo viaje libre y fecunde nuevas vidas en la eterna rueda del universo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

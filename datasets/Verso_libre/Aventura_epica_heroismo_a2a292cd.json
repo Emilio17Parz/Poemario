@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelve el héroe lleno de cicatrices.\nNo son feas, son medallas.\nCuentan la historia de la batalla,\nde la herida que no mató.\nLa piel rota y vuelta a unir\nes más fuerte que la piel virgen.\nEl dolor fue el precio de la gloria.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "cicatrices"
+  }
+}

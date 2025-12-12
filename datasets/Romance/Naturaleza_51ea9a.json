@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde que te quiero verde\ncomo dijo el gran poeta,\nel campo se extiende lejos\nhasta alcanzar la meta.\nHuele a tierra y a romero\ny a vida que se completa,\nen este ciclo infinito\nde la naturaleza quieta.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "campo"
+  }
+}

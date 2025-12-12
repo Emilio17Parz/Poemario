@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Brillan perlas en la hierba,\nregalo de la mañana,\nque la luz del sol conserva,\nen la hoja temprana.\n\nRegalo de la mañana,\nfrescura que moja el pie,\nen la hoja temprana,\ndonde la noche se fue.\n\nFrescura que moja el pie,\nque la luz del sol conserva,\ndonde la noche se fue,\nbrillan perlas en la hierba.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mañana"
+  }
+}

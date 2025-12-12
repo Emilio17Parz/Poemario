@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Escucha al jilguero y tordo,\nque compiten en trinar,\nllenando todo el lugar,\nde un concierto a bordo.\nYo me quedo sordo,\nde tanto escuchar,\nsu alegre cantar,\nque no es tosco ni gordo.\nSon los músicos del aire,\nque celebran la existencia,\ncon suma inocencia.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "canto"
+  }
+}

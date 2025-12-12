@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[EL CIEGO DE NACIMIENTO]\n(Tocando un cuadro de Van Gogh)\nMe dicen que es azul, rojo, amarillo. Pero yo solo siento el frío del óleo.\nEl color es la gran mentira que os dais los que veis. ¿Qué me pierdo?\nSi me lo quitaran, ¿sería menos real? No. La verdad es táctil, es sonora.\nLa belleza es una vibración que vosotros os empeñáis en pintar.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "color"
+  }
+}

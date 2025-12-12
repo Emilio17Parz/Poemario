@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Divino tesoro que huyes\ncon alas de mariposa,\ndejándonos la vejez\ncomo una carga pesada.\nFuiste risa y fuiste sol\ny esperanza enamorada,\ny ahora eres solo un eco\nen la memoria cansada.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

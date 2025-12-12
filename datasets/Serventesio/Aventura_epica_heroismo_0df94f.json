@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Su juramento es ley, la palabra sin par ni error (A),\nde ser justo y noble, hasta el final (B),\nel alma es su guía, el gran fulgor (A),\nla eterna y dulce verdad total (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Juramento"
+  }
+}

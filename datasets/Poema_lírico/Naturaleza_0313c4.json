@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las hojas caen lento,\ncon color de oro y sal.\nEs el triste momento\ndel adiós final.\n\nEl árbol se desnuda\npara poder morir,\nla tierra se muda\nsin poder huir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

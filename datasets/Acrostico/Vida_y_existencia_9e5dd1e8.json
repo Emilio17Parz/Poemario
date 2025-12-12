@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Valor supremo que el alma busca,\nEn medio de tanta falsedad,\nRompiendo la niebla que nos ofusca.\nDanos siempre la claridad,\nAunque la respuesta sea brusca,\nDesnudando la realidad.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

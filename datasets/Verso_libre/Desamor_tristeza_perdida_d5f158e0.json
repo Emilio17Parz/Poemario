@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu voz se ha quedado atrapada\nen las paredes de esta casa.\nA veces, si guardo silencio,\ncreo oírte llamarme\ndesde la otra habitación.\nPero es solo el eco de mi memoria,\nuna trampa acústica\nque me impide olvidar.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "eco"
+  }
+}

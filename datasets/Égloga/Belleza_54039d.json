@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rompe el alba con colores\nque ningún pintor soñó.\nEl día nació\nentre resplandores.\nSon los mejores\nque Dios nos dio.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "alba"
+  }
+}

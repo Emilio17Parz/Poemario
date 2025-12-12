@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cargo la piedra de mi propia culpa,\nnadie me absuelve de mi propia culpa.\n\nFui yo quien falló, no busco disculpa,\nme aplasta el peso de mi propia culpa.\n\nEspejo me acusa y el tiempo me esculpe,\nla estatua triste de mi propia culpa.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

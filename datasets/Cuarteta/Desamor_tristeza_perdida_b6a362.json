@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Un frío polar me habita el pecho,\ndespués que tu calor se fue de aquí,\nya nada importa, todo está deshecho,\nel mundo es un infierno para mí.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

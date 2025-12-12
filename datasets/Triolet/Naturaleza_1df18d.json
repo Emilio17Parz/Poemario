@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Arena y soledad,\nen el desierto vasto.\nSin piedad,\narena y soledad.\nLa eternidad,\nquema el pasto.\nArena y soledad,\nen el desierto vasto.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

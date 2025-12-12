@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vela se apaga,\nel humo asciende al cielo,\ntemprano final.\nQueda el aroma a cera,\ny el calor que se perdió.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Vela"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ahora vuelas libre,\nLejos de la prisión.\nMás allá de lo que vibre,\nAsciende la razón.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "ALMA"
+  }
+}

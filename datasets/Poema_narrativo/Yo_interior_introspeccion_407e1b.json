@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Emprendió un viaje solo, sin mapa ni guía,\nBuscando el centro oculto que el alma quería.\nEl camino era interno, no de piedra y de sal,\nEl viaje es la búsqueda del signo vital.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

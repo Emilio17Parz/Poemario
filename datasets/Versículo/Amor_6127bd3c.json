@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En el silencio de los amantes, el beso es el sello que cierra el pacto de las almas.\nUn universo entero colapsa y renace en el roce breve de tus labios contra los míos.\nNo hacen falta palabras cuando el aliento se mezcla y se comparte la vida.\nEs la comunión perfecta, el lenguaje olvidado que solo los enamorados recuerdan.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "beso"
+  }
+}

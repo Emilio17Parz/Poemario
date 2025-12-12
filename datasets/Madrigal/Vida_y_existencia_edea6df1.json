@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es combatir\ncontra el miedo y las ganas de rendir.\nLevantarse del suelo,\nalzar de nuevo el vuelo.\nLa fuerza de la mente\nes lo que nos mantiene en la corriente.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Clama la voz en el desierto,\nanunciando lo que vendrá,\nun futuro incierto,\nque pronto llegará.\n\nAnunciando lo que vendrá,\npalabras de fuego y miel,\nque pronto llegará,\ncaído del cielo fiel.\n\nPalabras de fuego y miel,\nclama la voz en el desierto,\ncaído del cielo fiel,\nun futuro incierto.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "profeta"
+  }
+}

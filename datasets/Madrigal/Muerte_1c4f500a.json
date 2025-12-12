@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Oh, Muerte, serena amiga,\nque al alma cansada acoge\ny toda pena mitiga.\n\nNo hay voz que te detenga, ni ruego\nque tu paso tan firme logre atajar;\nel corazón, ya ciego,\nse abandona al final del viaje,\nal postrer anhelo.\n\nTu abrazo, el más profundo y frío,\nes el velo que la vida desgarra,\ndejando tras de sí un vacío\nque el tiempo amarra\nal último suspiro.\n\nLa *tumba*, umbral que a nadie niega\nsu oscura y muda hospitalidad,\nes la promesa ciega\nde una libertad\nque al fin nos sosiega.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te juro por la luna que nos mira,\nque nunca te haré falta en el sendero,\nque soy tu compañero verdadero,\nque solo por tu amor vive y respira.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

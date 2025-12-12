@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu traición fue una daga,\nClavada en mi corazón,\nQue mi confianza apaga.\nTu traición fue una daga,\nUna herida que estraga,\nSin ninguna compasión.\nTu traición fue una daga,\nClavada en mi corazón.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "daga"
+  }
+}

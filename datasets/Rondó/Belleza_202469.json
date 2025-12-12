@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dulce nota,\nque resuena.\nQuita la pena,\ny la derrota.\n\nLa paz brota,\nen la escena.\nDulce nota,\nque resuena.\n\nSe agota,\nla condena.\nLuna llena,\nque flota.\nDulce nota.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "música"
+  }
+}

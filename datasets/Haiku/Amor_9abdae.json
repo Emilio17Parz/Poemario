@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor florece,\ncomo el cerezo blanco,\nen el jardín.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "cerezo"
+  }
+}

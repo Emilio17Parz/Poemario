@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un beso tuyo me detiene,\nel mundo su marcha contiene.\nSabor a la miel y al placer,\nque me hace de nuevo nacer,\ny todo mi ser entretiene.\n\nLa dicha a mi vida ya viene,\ny nada el impulso retiene.\nTan solo deseo tener,\nun beso tuyo.\n\nEl alma tranquila se aviene,\na lo que el destino previene.\nNo quiero jamas peder,\nla magia de tu atardecer,\nque suave en mis labios sostiene,\nun beso tuyo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "beso"
+  }
+}

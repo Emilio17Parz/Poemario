@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mar azul y bravío,\nespejo del firmamento,\nque llena el gran vacío.\n\nCon su eterno movimiento,\ncrea espuma en la orilla,\nllevada por el viento.\n\nQué maravilla.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "mar"
+  }
+}

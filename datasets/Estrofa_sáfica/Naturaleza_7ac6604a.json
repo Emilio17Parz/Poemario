@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Alzan sus copas en el viejo bosque,\ndonde la hiedra en la raíz se enrosque,\nantes que el sol en el final se embosque,\nverde misterio.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

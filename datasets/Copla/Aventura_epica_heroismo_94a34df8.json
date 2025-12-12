@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Caballero de la gesta,\nsu espada alza con gran fe,\ncontra la bestia funesta,\nsu proeza es la gloria.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Viento lleva al sol\nlas palabras que no digo,\nmiedos y anhelos.\nQue sepa que le amo mucho,\nes la fuerza que me mueve.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

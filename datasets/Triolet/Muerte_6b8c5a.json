@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Arden las velas blancas,\nLlorando su cera,\nEn las bancas.\nArden las velas blancas,\nPenas mancas,\nDe la espera.\nArden las velas blancas,\nLlorando su cera.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "cera"
+  }
+}

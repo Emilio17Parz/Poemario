@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el final con paso silencioso,\nno importa el rango, la edad o el nombre,\ntarde o temprano alcanza al hombre\ncon su abrazo frío y misterioso.\n\nEs el destino cierto y forzoso,\naunque la mente se asuste y asombre,\ny no hay riqueza que la descombre\nni poder que sea tan valioso.\n\nIguala al rey con el mendigo,\nal sabio con el ignorante,\nsin distinción y sin castigo.\n\nEs la verdad más constante,\nque la muerte va contigo\ncaminando siempre delante.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "final"
+  }
+}

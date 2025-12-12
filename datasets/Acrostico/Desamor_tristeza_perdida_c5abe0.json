@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tengo el alma herida,\nRoto mi corazón.\nInútil la partida,\nSin ninguna razón.\nTermina la vida,\nEn esta canción.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "TRISTE"
+  }
+}

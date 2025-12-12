@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Vayan mis suspiros al aire vano,\nbuscando el rastro de la bella dama,\nque el corazón inflama\ncon el toque gentil de su blanca mano.\nDile, viento, que muero si no llega,\nque mi vida en su ausencia se anega,\ny que soy peregrino\nperdido sin la luz de su camino.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "suspiro"
+  }
+}

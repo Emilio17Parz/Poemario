@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[LA NOVIA]\n(Ante el espejo)\nEste velo no es seda. Es el peso de cien promesas que no sé si puedo cumplir.\nEl vestido de boda es una armadura de blancura que esconde el miedo.\nMe hace hermosa, sí, pero es una belleza impuesta, una farsa social.\nQuiero romperlo y ser libre. Pero el rito exige esta esclavitud dulce.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "vestido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando el amor se asoma en el candor,\nEl alma en su danza se lanza al mar,\nY no hay senda que le impida el llegar,\nCon su fulgor, con íntimo clamor,\nUn dulce ardor.\n\nEs la promesa de un mejor sabor,\nQue el tiempo nos enseña a valorar,\nSin dudas, sin temor, sin más pesar,\nCuando el amor se asoma.\n\nSupera al dolor, a cualquier temor,\nNuestra unión es la magia de crear,\nUn mundo que nos deja sin igualar,\nEs el **destino**, supremo honor,\nQue nos une en un tierno esplendor,\nCuando el amor se asoma.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "destino"
+  }
+}

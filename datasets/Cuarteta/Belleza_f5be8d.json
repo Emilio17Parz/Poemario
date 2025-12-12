@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El aire que huele a tierra mojada,\na flor de jazmín, a limpio verdor,\nes la belleza que nunca es robada,\nel aroma que trae el fulgor.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Aire"
+  }
+}

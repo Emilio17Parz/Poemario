@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza está en quien mira,\nno en el objeto mirado,\nes el ojo amado,\nel que inspira.\n\nY suspira,\nencantado,\ny atado,\na la lira.\n\nCambiamos el mundo,\ncon nuestra visión,\ny profundo.\n\nCorazón,\nfecundo,\ny pasión.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ojo"
+  }
+}

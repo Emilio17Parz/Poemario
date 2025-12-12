@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro en mi adentro,\ny solo hay la nada,\nalma callada,\nsin un centro.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Nació de la espuma,\nla diosa del amor,\ncon todo esplendor,\ny sin ninguna bruma.\nLa belleza suma,\nque quita el dolor,\ny da el calor,\nque se consuma.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Venus"
+  }
+}

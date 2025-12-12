@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El aliento es vida, luz.\nBusca el alma senda, no el fin.\nPensamiento fluye, en laberinto.\nLa esencia es ser, solo ser.\n¿Y qué hay más allá?\nSolo ser, es la esencia.\nEn laberinto, fluye pensamiento.\nNo el fin, senda busca el alma.\nLuz, vida es el aliento.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

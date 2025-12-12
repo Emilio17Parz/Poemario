@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tinta y papel,\nguardan los sentimientos,\npara tu amor.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "tinta"
+  }
+}

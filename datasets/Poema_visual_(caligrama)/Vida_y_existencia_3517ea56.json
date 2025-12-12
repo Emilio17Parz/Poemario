@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "   Gira\n  la   v\n i      i\n d      d\n  a    a\n   Gira",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "espiral"
+  }
+}

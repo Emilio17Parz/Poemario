@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llega el dorado otoño,\npintando de ocre el suelo,\ny desnudando la rama.\nEl bosque se hace una cama,\nde hojas secas y crujientes,\nesperando el invierno gris.\n\nEl invierno gris,\ntras el otoño,\ny sus dientes.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

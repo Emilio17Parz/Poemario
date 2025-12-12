@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo concuerda en este paraje,\nel son del agua, el viento y la hoja,\nno hay disonancia que nos enoja,\nen este hermoso y vasto paisaje.\n\nEs la belleza en su gran viaje,\nequilibrio de forma y color,\ndonde se siente el dulce amor,\ndel universo y su mensaje.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

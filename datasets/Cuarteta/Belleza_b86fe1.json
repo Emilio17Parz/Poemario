@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La sencillez es la cumbre del arte,\nel trazo sin doble, sin artificio cruel,\nes la verdad que se siente y se parte,\nen el corazón, como dulce miel.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Sencillez"
+  }
+}

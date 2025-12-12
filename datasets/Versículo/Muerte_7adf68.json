@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte alimenta a la vida en un banquete eterno; del árbol caído nacen hongos y flores nuevas.\nLa rueda gira sin parar, nada se pierde en el universo, todo se transforma en otra cosa, en otra luz.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "ciclo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Verde maraña, peligro y misterio,\nbestias que rugen en la oscuridad,\nprueba la humana capacidad,\nmonte salvaje.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "selva"
+  }
+}

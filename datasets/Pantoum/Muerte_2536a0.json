@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Arden las velas llorando,\ncera que cae despacio.\nVamos a todos dejando,\nen este corto espacio.\n\nCera que cae despacio,\nluz que vacila y muere.\nEn este corto espacio,\nel alma ya no quiere.\n\nLuz que vacila y muere,\nvamos a todos dejando.\nEl alma ya no quiere,\narden las velas llorando.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "velas"
+  }
+}

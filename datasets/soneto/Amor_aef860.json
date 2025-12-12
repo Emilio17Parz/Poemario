@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Maldita la distancia que separa\ntu cuerpo de mi cuerpo dolorido,\ndejando el corazón entumecido\ny el alma suplicando que parara.\n\nSi el viento mis mensajes te llevara,\nsabrias que jamás te he dado olvido,\nque sigo en la esperanza sostenido\nsoñando con la luz de tu cara.\n\nCuento las horas, días y semanas,\nmirando el calendario con tristeza,\ncon ansias infinitas y humanas.\n\nPero mantiene firme mi entereza\nla fe en esas promesas tan cercanas\nque son de nuestro amor la fortaleza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

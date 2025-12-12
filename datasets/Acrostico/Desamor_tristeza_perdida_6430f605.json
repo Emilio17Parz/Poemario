@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vienes a llenar mi espacio hueco,\nAusencia que pesa como plomo,\nCallando la voz y dejando eco.\nInmenso dolor, ya no sé cómo,\nOcultar que mi esperanza es fleco.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

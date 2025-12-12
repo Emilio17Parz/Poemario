@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si buscas un amor que sea eterno,\nno lo construyas sobre la belleza,\npues el tiempo la borra con presteza,\ny convierte el paraíso en invierno.\nFúndalo en la virtud y la bondad,\ny vencerá a la misma eternidad.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

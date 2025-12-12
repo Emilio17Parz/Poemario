@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se cantan viejas canciones,\nde los héroes de antaño,\ny sus grandes acciones.\n\nSin mentira ni engaño,\nse recuerda su valor,\nque no sufrió daño.\n\nNi temor.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

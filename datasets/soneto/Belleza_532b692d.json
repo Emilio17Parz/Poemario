@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La gracia que se posa en cada cosa,\nUn don sutil que el alma goza y mira,\nUna verdad tan pura y luminosa,\nQue con su dulce influjo nos inspira.\n\nSe muestra en el fulgor de cada aurora,\nO en la gentil sonrisa que florece,\nEn el matiz que el lienzo bien decora,\nY en el vivaz color que resplandece.\n\nEs eco de un sentir que nunca muere,\nUn rastro de lo eterno aquí en la tierra,\nEl canto que a los cielos se prefiere,\nLa paz que al corazón al fin encierra.\n\nAsí la Belleza, aunque fugaz, pervive,\nEn cada noble espíritu que vive.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "color"
+  }
+}

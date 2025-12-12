@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El trueno rompe el aire con su grito,\ny el rayo ilumina la tempestad,\nes la fuerza de un dios infinito,\nque muestra su poder y voluntad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

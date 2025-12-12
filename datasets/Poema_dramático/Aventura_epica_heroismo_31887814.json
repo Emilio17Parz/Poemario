@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "CÉSAR: ¿Tú también, Bruto, hijo mío?\nBRUTO: Es por Roma, no por desvarío.\nCÉSAR: Te amaba más que a mi corona.\nBRUTO: La libertad no se perdona.\nCÉSAR: Entonces cae César, si tú lo quieres.\nBRUTO: (Llorando) Mueren los tiranos, no los seres.\n¡Perdóname, padre, mi mano tiembla!\nCÉSAR: La traición es la peor tiniebla.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "puñal"
+  }
+}

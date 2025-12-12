@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza, un suspiro del alma,\nque se posa en la vista, se anida.\nUn misterio que calma y que alarma,\nes la luz que la sombra convida.\n\nEn cada perfil, en la curva sutil,\nhalla el ojo la gracia, el deleite;\ny es la misma y excelsa *forma* gentil\nquien dibuja su etéreo deleite.\n\nNo es solo el contorno que el tacto persigue,\nni el color que en la rosa se advierte;\nes un eco que el tiempo consigue\nconmovernos más allá de la muerte.\n\nAsí el alma, al mirarte, se eleva,\ndescubriendo en tu ser su verdad.\nBelleza que siempre renueva\nla inefable, divina piedad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "forma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Victoria de la luz sobre la tiniebla,\ncuando el sol rompe la espesa niebla!\nNace la esperanza con cada mañana,\ntocando a rebato la humana campana.\n\n¡Gloria al alba que el mundo despierta,\ny deja la puerta del día abierta!\nPromesa dorada de un tiempo nuevo,\nque en mi cantar con fervor elevo.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

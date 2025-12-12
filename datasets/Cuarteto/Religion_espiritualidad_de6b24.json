@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Vencer a la muerte fría,\nsalir de la tumba oscura,\nes la promesa segura,\nde la eterna alegría.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "resurrección"
+  }
+}

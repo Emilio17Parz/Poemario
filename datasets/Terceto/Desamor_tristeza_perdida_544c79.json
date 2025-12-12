@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La soledad es mi única y fiel voz (A),\nla sombra que nunca me va a dejar (A),\nel final amargo, sin un Dios (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Soledad"
+  }
+}

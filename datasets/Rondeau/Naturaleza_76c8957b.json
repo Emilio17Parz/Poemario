@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En el bosque silencioso,\ntodo es verde y hermoso,\nlos árboles dan su sombra,\nsobre la verde alfombra,\nen un clima reposo.\n\nEs un lugar grandioso,\ntranquilo y misterioso,\ndonde nadie te nombra,\nEn el bosque.\n\nEl viento es caprichoso,\ny el río caudaloso,\nque nunca se asombra,\nde la luz y la penumbra,\ndel paraje frondoso,\nEn el bosque.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

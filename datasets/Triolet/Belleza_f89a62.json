@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pintura en tela,\nLlena de vida,\nQue se revela.\nPintura en tela,\nComo vela,\nEncendida.\nPintura en tela,\nLlena de vida.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

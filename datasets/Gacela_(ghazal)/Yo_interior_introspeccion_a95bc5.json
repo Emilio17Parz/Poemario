@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco las respuestas en el silencio,\nla voz de mi alma vive en el silencio.\n\nEl ruido de afuera me aturde y confunde,\nla verdad solo habla en el silencio.\n\nCallar para oír lo que nadie dice,\nsabiduría del gran silencio.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

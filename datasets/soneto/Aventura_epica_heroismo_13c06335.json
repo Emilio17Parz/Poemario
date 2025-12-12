@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Forjada en el fuego y el martillo,\ncompañera fiel del guerrero,\nhoja de filo certero\nque brilla con metálico brillo.\n\nNo eres adorno ni sencillo\nobjeto de un uso ligero,\neres la jueza de acero\nque corta el nudo y el ovillo.\n\nDefiendes la causa y la vida,\no siembras la muerte y el luto,\nsegún la mano decidida.\n\nEspada, símbolo absoluto\nde la fuerza que no se intimida\ny cobra del valor su tributo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espada"
+  }
+}

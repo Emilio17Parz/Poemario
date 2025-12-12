@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Selva de cemento y vidrio\ndonde nadie tiene nombre,\ndonde se vive de prisa\ny se olvida ser hombre.\nLas luces ciegan la vista\ny el ruido causa asombre,\nen este hormiguero loco\nque al alma la carcome.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

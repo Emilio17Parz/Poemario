@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Más que la vida vale el honor,\njoya sin precio del caballero,\nser siempre justo y verdadero,\nes el blasón del luchador.\n\nMantén la palabra dada,\naunque te cueste la misma piel,\nsé a tus principios siempre fiel,\ny tu alma será respetada.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "lealtad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Suenan campanas en el aire claro,\nanunciando la unión de dos destinos,\nque cruzan hoy sus íntimos caminos\nbajo la luz de un sol que es nuestro faro.\n\nEn este altar sagrado me preparo\na darte los tesoros más divinos:\nmis días, mis esfuerzos, mis molinos,\ny todo lo que soy, sin un reparo.\n\nEl anillo es el círculo perfecto\nque encierra nuestra historia y la protege\nde todo mal, de todo gris defecto.\n\nQue el hilo de la vida nos teje\nun manto de calor y de afecto,\ny que jamás el odio nos aleje.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "boda"
+  }
+}

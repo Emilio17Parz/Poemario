@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los ancianos,\nhistorias de tiempos ya perdidos;\nlos oídos,\nhermanos.\nEl mito revive al ser contado,\ny recordado.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

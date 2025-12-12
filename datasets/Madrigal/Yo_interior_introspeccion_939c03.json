@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Motor que nos impulsa,\nanhelo de ser más de lo que somos;\npor los lomos,\nse expulsa.\nEl deseo mueve el mundo y la vida,\nen la huida.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

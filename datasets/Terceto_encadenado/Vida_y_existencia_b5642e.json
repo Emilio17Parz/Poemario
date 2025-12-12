@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Danza esta vida, con gozo y dolor (A),\nsin miedo a caer, sin temor al mal (B),\nla esencia del puro valor (A).\n\nLa vida es un canto, sin un final (B),\nel cuerpo que fluye, sin un error (C),\nla forma de al fin amar (B).\n\nNo hay más que buscar, no hay más fulgor (C),\nque en ella hallar la fe (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

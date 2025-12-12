@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Clama el pueblo justicia\nante el juez y el estrado,\npero el fallo es dictado\ncon engaño y malicia.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

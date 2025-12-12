@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El enamoramiento es la chispa,\npero el amor maduro no se crispa.\nPasa la euforia, llega la calma,\ndonde se unen alma con alma.\nAprende a vivir cada estación,\ndel largo viaje de la relación.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "fases"
+  }
+}

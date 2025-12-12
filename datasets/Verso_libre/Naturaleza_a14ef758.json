@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La arena se extiende hasta donde alcanza la vista, un mar dorado e inmóvil bajo el sol implacable.\nEl desierto es el lugar de la prueba, donde el hombre se encuentra consigo mismo en la desnudez total.\nNo hay agua, no hay sombra, solo la vastedad y el silencio que grita verdades al alma.\nAquí la vida es un milagro resistente, una espina, un lagarto, una gota de rocío en la mañana.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

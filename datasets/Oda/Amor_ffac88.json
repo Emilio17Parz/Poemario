@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Camino que se dibuja,\ncon luz de amanecer,\ndonde vamos a crecer,\ny el destino nos empuja.\nVejez de mano en mano,\nen un amor soberano.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

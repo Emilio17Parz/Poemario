@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ni el mejor de los pintores\npodría pintar tu encanto,\nporque tienes en la cara\nla luz del Espíritu Santo.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "retrato"
+  }
+}

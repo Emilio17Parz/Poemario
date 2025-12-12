@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El tiempo danza, efímera existencia,\nUn soplo leve, un sueño por vivir,\nBuscando el eco de la pura **verdad**,\nQue en cada instante logra trascender.\n\nUn soplo leve, un sueño por vivir,\nLa luz se quiebra, sombra al caminar,\nQue en cada instante logra trascender,\nEl alma anhela su eterno despertar.\n\nLa luz se quiebra, sombra al caminar,\nPreguntas surgen de un abismo azul,\nEl alma anhela su eterno despertar,\nLa esencia oculta tras el tenue velo.\n\nPreguntas surgen de un abismo azul,\nBuscando el eco de la pura **verdad**,\nLa esencia oculta tras el tenue velo,\nEl tiempo danza, efímera existencia.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vagamos dentro del laberinto,\nperdiendo el norte y la dirección,\nguiados solo por el instinto.\n\nEs un lugar extraño y distinto,\nlleno de muros y confusión,\nvagamos dentro del laberinto.\n\nBuscando el hilo con mucho ahínco,\npara encontrar la salvación,\nguiados solo por el instinto.\n\nDoy un paso y luego doy cinco,\nen esta eterna prisión,\nvagamos dentro del laberinto.\n\nNo hay mapa claro ni recinto,\nque nos ofrezca la solución,\nguiados solo por el instinto.\n\nEs el destino que yo te pinto,\nde nuestra humana condición,\nvagamos dentro del laberinto,\nguiados solo por el instinto.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

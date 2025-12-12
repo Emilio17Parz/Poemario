@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El héroe fuerte su arma empuña ya,\nque el vasto mundo lo está llamando atroz;\nun destino espera sin fin,\nel viaje rudo comenzará.\n\nMontañas altas, oscuros valles mil,\ndo bestias fieras acechan en la sombra,\nsu coraje nunca caerá,\nen liza fiera defenderá.\n\nPor un ideal su sangre él derramó,\no por la patria que tanto amó con fe;\nun valor que nunca perece,\nsu gloria eterna resonará.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La noticia no es verdad,\nes la tinta del poder.\nLa cruel realidad\nque no puedo ver.\n\nNos mienten y ríen,\nnos obligan a creer,\nla vida que viven\nsin poder ser.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "noticia"
+  }
+}

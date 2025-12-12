@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Retumban los cañones en batalla,\nel campo se tiñe de rojo sangre,\ny el grito del soldado no calla.\n\nAunque el temor su corazón taladre,\navanza sin dudar hacia el frente,\npor la defensa de su propia madre.\n\nY de toda su amada gente.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

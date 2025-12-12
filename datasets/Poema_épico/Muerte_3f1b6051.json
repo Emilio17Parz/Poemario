@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mejor morir con honor,\nque vivir arrodillado,\nasí dijo el soldado,\nsin mostrar ningún temor.\nSe lanzó con gran valor,\ncontra el muro levantado,\ny allí quedó grabado,\nsu nombre y su esplendor.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "honor"
+  }
+}

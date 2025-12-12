@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan tambores de la batalla,\ngritos de guerra en la batalla.\n\nAcero contra acero rechina,\ncampo de sangre es la batalla.\n\nSolo uno queda en pie al final,\ntriste victoria de la batalla.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Fuerza que anima el cuerpo,\nque nos da la voluntad,\ny la capacidad,\nde llegar a buen puerto.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

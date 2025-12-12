@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Desde el confín de un sueño inmemorial,\nMi espíritu alza el vuelo, sin temor,\nHacia el clamor de un mundo sideral,\nDonde el destino teje su fulgor.\n\nDejo atrás el umbral conocido y blando,\nLa paz doméstica, el sol que me vio nacer,\nPor un sendero incierto, ya llamando,\nQue solo el corazón sabrá emprender.\n\nBajo el fragor de la tempestad bravía,\nDonde las sombras danzan sin piedad,\nMi diestra empuña la brillante **espada**,\nSímbolo fiel de antigua valentía.\n\nNo es por la gloria vana que me lanzo,\nNi por el oro de la tierra hostil,\nMas por la chispa que en mi pecho avanzo,\nUn fuego puro, eterno, juvenil.\n\nEs por la causa justa, el desvalido,\nPor el eco de un grito sin voz,\nQue mi alma se estremece, decidido,\nFrente a la furia de cualquier dios.\n\nY si al final el ocaso me reclama,\nO mi memoria se disuelve en luz,\nQue quede el rastro de la viva llama,\nDel héroe que cargó su propia cruz.\n\nPues la aventura no termina en lides,\nNi en el laurel que ciñe la sien,\nSino en el eco que el tiempo no impide,\nDe un alma que supo ser el bien.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

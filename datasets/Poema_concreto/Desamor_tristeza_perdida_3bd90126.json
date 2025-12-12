@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "NO NO NO\nNO NO NO\nNO SÍ NO\nNO NO NO",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "no"
+  }
+}

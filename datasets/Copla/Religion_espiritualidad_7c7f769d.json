@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Una luz brilla en lo alto\nque no la apaga el viento,\nes la luz de la esperanza\nque calma mi sufrimiento.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "luz"
+  }
+}

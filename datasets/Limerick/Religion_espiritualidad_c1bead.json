@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mis manos que piden clemencia,\nreciben la gran indulgencia.\nEl ruego es real,\nsin un solo mal,\nel alma que tiene paciencia.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Manos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco la luz que la mente ilumine,\nla gran verdad que se esconde detrás,\nde las caretas y del antifaz,\nantes que el ciclo vital se termine.\nQue mi conciencia por fin determine,\ndónde se encuentra la auténtica paz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

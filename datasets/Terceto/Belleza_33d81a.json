@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La danza es el ritmo del cuerpo sin fin (A),\nque rompe el espacio con gracia y poder (A),\nel eterno y puro jazmín (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae el sol herido en el poniente,\nsangrando oro sobre el mar quieto,\nguardando el día y su secreto,\nen el cofre del tiempo silente.\n\nSe vuelve el aire tibio y doliente,\ncomo un suspiro, un incompleto,\nfinal de un ciclo y de un boceto,\nque muere de forma decadente.\n\nLas sombras se alargan en el suelo,\nla primera estrella ya se asoma,\nprendiendo su luz en el terciopelo.\n\nY una paz inmensa se desploma,\ncubriendo la tierra con su velo,\nmientras la noche su reino toma.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

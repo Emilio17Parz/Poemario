@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Muere la tarde lenta,\nen brazos del poniente.\nEl sol doliente,\nya no calienta.\n\nSe presenta,\nla luna silente.\nMuere la tarde lenta,\nen brazos del poniente.\n\nNadie lamenta,\nlo siguiente.\nEs evidente,\nla cuenta.\nMuere la tarde lenta.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

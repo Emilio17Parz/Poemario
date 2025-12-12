@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Duele la herida de tu triste adiós,\nya no hay futuro para nuestros dos,\nsolo el silencio y la cruel tos,\ngris despedida.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

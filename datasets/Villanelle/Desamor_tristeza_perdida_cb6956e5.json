@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Leo tu carta una vez más,\ncon los ojos llenos de llanto,\nbuscando el amor que no me das.\n\nDicen que nunca volverás,\nrompiendo así todo el encanto,\nleo tu carta una vez más.\n\nSé que te arrepentirás,\nde haberme causado este quebranto,\nbuscando el amor que no me das.\n\nTe vas y lejos te irás,\ncubriendo mi vida con un manto,\nleo tu carta una vez más.\n\nEl tiempo corre hacia atrás,\nrecordando lo que quise tanto,\nbuscando el amor que no me das.\n\nYa no habrá paz, jamás,\nsolo el dolor y el espanto,\nleo tu carta una vez más,\nbuscando el amor que no me das.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "carta"
+  }
+}

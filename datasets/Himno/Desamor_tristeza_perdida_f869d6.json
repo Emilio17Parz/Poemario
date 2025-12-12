@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Oh tiempo pasado que fuiste gloria,\nhoy eres puñal en mi memoria.\nParaíso perdido que no volverá,\npuerta cerrada que no se abrirá.\n\n¡Llorad por el ayer que ya murió,\ny por la dicha que se oscureció!\nVivo mirando hacia atrás el camino,\npreso en las redes de mi destino.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Un soplo, el primer grito al amanecer;\nla vida irrumpe, enigma de barro y luz.\nUn ser que se alza, condenado a nacer,\nbajo un cielo vasto, portando su cruz.\n\nCada paso, una senda en la arena del día,\ntejida de ausencias, de encuentros fugaces.\n¿Es el albedrío quien nos guía y porfía,\no el **destino** invisible, entre rutas y cauces?\n\nExistir es la llama que arde en la verdad,\nun eco profundo en la cueva del tiempo.\nBuscar la razón en la inmensa soledad,\ny hallar el reflejo en el efímero templo.\n\nPara al fin retornar al silencio final,\nfundirse con todo, dejar de ser yo.\nUna nota en la orquesta, un canto ancestral,\nla existencia, un poema que el viento llevó.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sentado en lo alto con su corona,\nel peso del reino sobre sus hombros,\nescombros,\nsi su justicia al pueblo abandona.\nNo es fácil mandar con sabiduría,\ncada día,\nservir a los demás es su deber,\ny su poder.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "trono"
+  }
+}

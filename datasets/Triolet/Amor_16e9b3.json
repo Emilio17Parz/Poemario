@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres mi dulce canción,\nque suena cada mañana.\nMe llenas de emoción,\neres mi dulce canción.\nMi única adoración,\neres tú, soberana.\nEres mi dulce canción,\nque suena cada mañana.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "canción"
+  }
+}

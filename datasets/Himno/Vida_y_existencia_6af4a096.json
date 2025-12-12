@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Gloria a la pura y santa verdad!\nFaro que alumbra la mente humana,\nagua que brota de fuente sana,\ny nos libera de la oscuridad.\nMeta suprema del sabio y el justo,\nque no se rinde ante el miedo o disgusto.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

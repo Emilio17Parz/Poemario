@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque antiguo que en quietud se eleva,\nCon dulce trino el pájaro saluda,\nY cada hoja una promesa anuda,\nQue al corazón su propia calma lleva.\n\nLa fuente pura que en el lecho ceba,\nLa flor silvestre que jamás se muda,\nLa tierra fértil que jamás defrauda,\nUn eco eterno de la vida nueva.\n\nY al alzar la vista, el vasto **cielo**,\nInmenso azul que al pensamiento invita,\nDonde la luz su soledad derrama,\nEs un espejo de la paz sin celo,\nUna promesa que el espíritu grita,\nUn suave abrazo que la fe proclama.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

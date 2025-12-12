@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Mi alma, profundo mar de pensamientos,\nse ancla en la quietud de mi rincón,\nbuscando el eco fiel de la razón,\nentre velados íntimos lamentos.\n\nDesvisto el velo de mis argumentos,\ny en el silencio hallo mi canción;\nel ser que late bajo la emoción,\nresiste al tiempo y sus feroces vientos.\n\nMe miro al espejo, y no es la faz\nque en él se muestra, imagen pasajera,\nsino el crisol de luz que me sincera.\n\nUn yo profundo, de inmutable paz,\nque al fin descansa de su vana espera,\ny en su reflejo mi verdad impera.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

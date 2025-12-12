@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz me enamora,\nen cada hora.\n\nSonido del cielo,\nque quita el desvelo,\ny rompe el hielo,\ncuando ella aflora.\nTu voz me enamora,\nen cada hora.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "voz"
+  }
+}

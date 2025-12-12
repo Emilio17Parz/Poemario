@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El saber me hace libre y real,\nsin rastro de un solo mal.\nLa mente que crece,\ny nunca decrece,\nla vida sin un solo cristal.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Saber"
+  }
+}

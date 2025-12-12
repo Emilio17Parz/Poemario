@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Solo perdura lo que el amor retiene,\nvive el difunto en la memoria nuestra,\nmientras el tiempo viene\ny su guadaña nos la muestra.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La libertad es un tesoro,\nque debemos siempre cuidar,\nvale más que plata y oro,\ny nadie nos la debe quitar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

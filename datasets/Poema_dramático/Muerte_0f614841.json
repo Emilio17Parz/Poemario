@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "FANTASMA: ¡Mírame! ¡Estoy aquí a tu lado!\nVIVO: Siento un frío... debo estar resfriado.\nFANTASMA: ¡Grito tu nombre! ¿Por qué no me oyes?\nVIVO: El viento silba en los claraboyes.\nFANTASMA: Quiero decirte que te quiero aún.\nVIVO: Qué soledad tan negra y común.\nFANTASMA: Es inútil... estamos en mundos distintos.\nPerdido en mis propios laberintos.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "vivo"
+  }
+}

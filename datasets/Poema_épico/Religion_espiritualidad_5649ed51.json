@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En el principio era el Verbo,\ny la tierra estaba vacía,\nhasta que llegó el día,\ndel mandato superbo.\nSe hizo la luz y el ciervo,\ny el mar con su alegría,\nla creación surgía,\ndel divino acervo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "creación"
+  }
+}

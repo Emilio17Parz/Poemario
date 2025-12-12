@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la leña en la hoguera nocturna,\narde mi sangre al roce de tu piel.\nDulce es el vino y dulce la miel,\npero tu amor es el agua de la urna\nque calma la sed de mi alma taciturna,\nhaciéndome a tu encanto siempre fiel.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "hoguera"
+  }
+}

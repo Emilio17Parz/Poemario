@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dicen que todo acaba,\nque el tiempo corroe el hierro y la piedra.\nPero yo he visto en tus ojos\nun brillo que desafía a la muerte.\nLo nuestro no pertenece al reloj,\nes un pacto tallado en el alma,\nuna promesa de algo eterno\nque flotará cuando ya no seamos polvo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

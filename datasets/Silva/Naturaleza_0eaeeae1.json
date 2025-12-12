@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La rosa se despliega,\ncon pétalos de rojo terciopelo,\ny su aroma nos llega,\ncomo un dulce consuelo,\nque parece bajado del cielo.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

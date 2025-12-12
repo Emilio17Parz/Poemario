@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dicen que sale de noche\nuna sombra por la torre,\nque llora penas antiguas\ny que del vivo se corre.\nEs el alma de una mora\nque su destino recorre,\nbuscando al amor perdido\nque el tiempo cruel no borre.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

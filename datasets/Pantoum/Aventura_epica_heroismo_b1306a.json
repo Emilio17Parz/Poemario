@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Volver al hogar viejo,\ntras años de pelear.\nMirarse en el espejo,\ny empezar a llorar.\n\nTras años de pelear,\nlas cicatrices quedan.\nY empezar a llorar,\nlos recuerdos se enredan.\n\nLas cicatrices quedan,\nvolver al hogar viejo.\nLos recuerdos se enredan,\nmirarse en el espejo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "retorno"
+  }
+}

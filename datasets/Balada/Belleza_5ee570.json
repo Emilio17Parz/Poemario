@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suenan las notas en el aire leve,\ny el corazón con su ritmo se mueve,\nmelodía dulce que calma el dolor,\ny nos eleva hacia un mundo mejor.\nEs el idioma que todos entienden,\ndonde las almas unidas se encienden,\ny la tristeza se vuelve canción,\nllena de magia y de inspiración.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "música"
+  }
+}

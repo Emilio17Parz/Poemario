@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llegará el día en que pare el reloj,\ny se detenga el pulso cansado,\ntodo lo vivido y lo soñado,\nquedará como un simple rastrojo.\n\nNo habrá llave que abra el cerrojo,\ndel cuarto oscuro y silenciado,\ndonde el cuerpo yace reposado,\nsin voluntad y sin enojo.\n\nEs el final del largo camino,\nla última puerta que cruzamos,\ncumpliendo el inexorable destino.\n\nTodos al mismo puerto llegamos,\nrico, pobre, rey o campesino,\ny en el mismo polvo nos tornamos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "final"
+  }
+}

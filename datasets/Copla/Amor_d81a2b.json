@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Soy fiel a tu pensamiento\ncomo el perro a su señor,\nporque eres en mi vida\nel único y gran amor.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "fidelidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El cese del aliento, un soplo breve,\nque escapa del cuerpo y no vuelve más,\nla vida es una nube, una leve\nráfaga de viento, llena de paz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Cese"
+  }
+}

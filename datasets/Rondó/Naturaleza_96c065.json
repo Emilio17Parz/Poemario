@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Da el salto al vacío,\nel agua valiente,\ntan imponente,\nen el río.\nNo siente frío,\nni se arrepiente.\nDa el salto.\n\nRuido de trueno,\nespuma y vapor,\ncon gran furor,\ny desenfreno.\nEs algo bueno,\nde gran valor.\nDa el salto.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "salto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mi raíz está\nen la tierra donde nací,\nsacra y fuerte es.\nAunque viaje, mi alma sabe,\ndónde está su verdadero hogar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Raíz"
+  }
+}

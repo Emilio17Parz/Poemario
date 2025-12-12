@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No está escrito el destino,\nse hace con la voluntad,\nbuscando la libertad,\nen el borde del camino.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "destino"
+  }
+}

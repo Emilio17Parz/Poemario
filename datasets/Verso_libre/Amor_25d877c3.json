@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un espacio sin tiempo,\ndonde la piel recuerda el vaho de otro aliento.\nNo es la promesa de lo eterno,\nsino el eco persistente\nde una risa compartida,\nel silencio cómodo que precede al amanecer.\n\nEs la raíz que se aferra\ny la flor que se abre al sol,\nsabia en su propia entrega.\nUn ancla, sí, pero también\nla vela que se infla y parte.\n\nNo busco la roca inamovible,\nsino la delicadeza de la brisa que modela.\nLa mano que encuentra otra mano\nsin pensarlo, por la química del cosmos.\nLa verdad que florece en la grieta,\nvulnerable y sin embargo, invencible.\n\nY en esa danza de lo tácito,\ndonde el alma se desnuda\nsin temor a la intemperie,\nsurge, inevitable,\nun **beso**.\nNo un simple contacto, no un mero sello,\nsino la esencia condensada\nde mil lenguajes mudos,\nel idioma primario\nque el universo entiende\nal unísono,\nen la fragilidad\nde dos cuerpos que se encuentran\ny por un instante,\nson la totalidad\nde un universo en expansión.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "beso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo un secreto muy hondo\nen el fondo del baúl,\nes una pena muy negra\nenvuelta en papel azul.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

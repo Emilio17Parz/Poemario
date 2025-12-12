@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cubierto de un velo el rostro hermoso,\nesconde la luz que me da la vida,\ny el alma herida\nsuplica ver el sol esplendoroso.\nLevantad la niebla que me separa\nde la cara\nque es mi paraíso,\nyceded al ruego de quien os quiso.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "velo"
+  }
+}

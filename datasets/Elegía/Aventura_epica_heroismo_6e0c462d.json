@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Trozo de acero que fuiste temido,\nahora descansas en el olvido,\ntu filo mellado y carcomido,\npor el óxido cruel y el descuido.\nYa no defiendes al oprimido,\nni cortas el aire con tu sonido,\neres metal viejo y dolorido,\nde un tiempo heroico y desaparecido.\nLloro por la mano que te empuñaba,\nque ahora es polvo bajo la tierra,\ny por la luz que en ti brillaba.\nSímbolo triste de la guerra,\nque en la vitrina se acababa,\nmientras la paz la puerta cierra.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "espada"
+  }
+}

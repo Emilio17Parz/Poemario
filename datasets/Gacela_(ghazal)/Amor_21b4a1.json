@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Toma mi mano y no la sueltes,\ncamina conmigo y no la sueltes.\n\nAunque el mundo gire y dé mil vueltas,\nsostén mi esperanza y no la sueltes.\n\nUnidos los lazos en nudos fuertes,\naprieta mi vida y no la sueltes.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "mano"
+  }
+}

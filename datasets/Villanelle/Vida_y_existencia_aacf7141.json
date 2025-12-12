@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vamos haciendo nuestro camino,\ncon cada paso que damos hoy,\nforjando a pulso el propio destino.\n\nEntre la roca y el verde pino,\nsabiendo siempre a dónde voy,\nvamos haciendo nuestro camino.\n\nA veces recto, a veces con tino,\notras veces perdido estoy,\nforjando a pulso el propio destino.\n\nBuscando el agua y el pan y el vino,\nlejos del miedo que ayer me doy,\nvamos haciendo nuestro camino.\n\nAunque el sendero sea mezquino,\nyo sigo fuerte y aquí estoy,\nforjando a pulso el propio destino.\n\nEs un viaje largo y divino,\nhacia la meta donde soy,\nvamos haciendo nuestro camino,\nforjando a pulso el propio destino.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte es la mano del hombre intentando tocar el borde del manto de Dios, imitando la creación.\nEn cada pincelada y en cada nota musical, buscamos capturar lo inefable y hacerlo eterno en la materia.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "arte"
+  }
+}

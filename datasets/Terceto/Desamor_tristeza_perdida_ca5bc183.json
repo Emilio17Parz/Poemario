@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El eco mudo de tu voz se fue,\nMi alma se quiebra en llanto sin final,\nY en este abismo solo habito, ¿por qué?\n\nMi alma se quiebra en llanto sin final,\nLa herida abierta sangra sin piedad,\nNo queda nada en este mundo igual.\n\nLa herida abierta sangra sin piedad,\nUn \"adiós\" frío rompió nuestra unión,\nMarchitas quedan flores de amistad.\n\nUn \"adiós\" frío rompió nuestra unión,\nLa soledad me abraza con su velo,\nQue no hay consuelo para mi aflicción.\n\nLa soledad me abraza con su velo,\nEl tiempo pasa, mas no cicatriza,\nPerdido estoy, sin rumbo, sin anhelo.\n\nEl tiempo pasa, mas no cicatriza,\nLa sombra tuya vela mi vivir,\nMi vida entera hoy se paraliza.\n\nLa sombra tuya vela mi vivir,\nY ya no sé si quiero revivir.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

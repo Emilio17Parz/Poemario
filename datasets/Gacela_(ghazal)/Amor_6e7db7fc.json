@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juro ante el cielo un sentimiento eterno,\nque venza los rigores del invierno eterno.\n\nLas piedras se desgastan y los ríos se secan,\npero mi amor por ti será un lazo eterno.\n\nAunque pasen los siglos y cambien las estrellas,\nguardaré tu recuerdo en mi pecho eterno.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

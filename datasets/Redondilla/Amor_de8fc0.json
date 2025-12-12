@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres rosa temprana,\nque adorna mi jardín,\nprincipio y también fin,\nde mi vida humana.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "flor"
+  }
+}

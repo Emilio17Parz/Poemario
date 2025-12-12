@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En el sagrario quieto de mi pecho,\ndonde el eco del mundo se disuelve,\nme tiendo al sol de un íntimo derecho:\na la verdad que el alma me devuelve.\n\nHay mapas rotos, ríos sin ribera,\npaisajes que la memoria ha tejido,\ny un bosque ancestral que me espera,\nhogar de un ser que siempre ha existido.\n\n¿Quién soy? De qué matriz mi esencia brota?\n¿Qué hilo de luz mi porvenir divisa?\nEn cada pliegue, un sueño que me arropa,\nbuscando el rostro fiel de mi <b>identidad</b>, sin prisa.\n\nNo es un hallazgo ajeno ni distante,\nsino un espejo que el yo interior me ofrece.\nSoy pulso y aire, instante tras instante,\nla tierra fértil donde mi ser crece.\n\nAsí, me miro en el profundo abismo,\nno con temor, mas con serena calma.\nSoy el que busca, el que se encuentra a sí mismo,\nun universo intacto en cada palma.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

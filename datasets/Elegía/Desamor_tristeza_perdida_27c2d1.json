@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Reina la soledad en el pasillo,\nsu manto gris lo cubre todo entero,\nno queda ni el cantar de un jilguero,\nsolo el silencio, frío cuchillo.\n\nMe siento en el rincón más amarillo,\nde esta tristeza que es mi carcelero,\nllorando un tiempo que no fue sincero,\ny que ahora pesa como un ladrillo.\n\nOh soledad, señora de mi casa,\nmira cómo mi vida lento pasa.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

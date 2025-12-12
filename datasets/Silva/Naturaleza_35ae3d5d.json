@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ante la inmensidad de la gran mar,\nme pongo a contemplar.\nSus olas van y vienen,\ny nunca se detienen,\nrompiendo en la orilla,\ncon blanca masilla.\nEspejo de lo eterno,\ny lo moderno.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "mar"
+  }
+}

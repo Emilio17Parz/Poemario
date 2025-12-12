@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Alas que vuelan,\nen libertad,\nsin gravedad,\nque nos consuelan.\nCanto sonoro,\nvales más que el oro.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "pájaro"
+  }
+}

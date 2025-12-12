@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Un eco amargo en el jardín del alma,\ndonde la flor del amor se marchitó.\nNi el sol de ayer, ni la promesa que calma,\nborran la huella del sendero que se rompió.\n\nEl viento gime una canción sin nota,\nvacío el lecho que cobijo fue.\nMi voz se quiebra, la memoria me azota,\nen un mar de ausencia que no sé por qué.\n\nY la **soledad**, manto frío y pesado,\nteje su nido en cada rincón del ser.\nEs un espejo que me devuelve el pasado,\nla herida abierta que no deja de doler.\n\nLas noches largas, sin estrellas ni luna,\nson lienzo oscuro donde pinto tu adiós.\nMi ser se aferra a la última laguna\nde un sueño roto, sin consuelo de Dios.\n\nNo hay primavera que renueve el duelo,\nni el canto de un ave que me pueda salvar.\nSolo el recuerdo, tenue velo,\nde aquello que no pude conservar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

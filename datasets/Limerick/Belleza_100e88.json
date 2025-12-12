@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El sabor de un fruto muy dulce,\nmi alma sin un solo cruce.\nEs vida y es paz,\nsin un solo haz,\nla calma que nunca se tuerce.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Sabor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busca razón,\nde ser,\nel ver,\nla acción.\nLa pasión,\ndel ayer.\nBusca razón.\n\nPor qué vivir,\npregunta,\nla junta,\ndel ir.\nEl morir,\nque apunta.\nBusca razón.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "razón"
+  }
+}

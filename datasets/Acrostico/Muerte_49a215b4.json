@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "**M**isterio profundo, quietud que nos llama,\n**U**mbral que se cruza sin sendero de vuelta.\n**E**l hálito cesa, se apaga la llama,\n**R**eposo que el alma por fin halla y suelta.\n**T**ransitoria vida, el cuerpo es ya **polvo**,\n**E**terno descanso, la paz al final.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

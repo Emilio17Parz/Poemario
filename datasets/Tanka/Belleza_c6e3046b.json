@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mano que pinta,\natrapa la belleza\nen el color.\nEl cuadro nos regala\nuna visión de Dios.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sagrado juramento\nde cumplir el deber encomendado;\nvasco o cruzado,\nen el intento;\nno importa el riesgo ni la lejanía;\nque es la guía\nla fe en el ideal,\nque vence a todo obstáculo mortal.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "misión"
+  }
+}

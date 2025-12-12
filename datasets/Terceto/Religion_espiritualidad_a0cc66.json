@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En el silencio encuentro la voz sin voz (A),\nque me habla al alma, me dice quién soy (A),\nla última y fuerte voz (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

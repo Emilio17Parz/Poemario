@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me miraste a los ojos y juraste no mentir jamás,\ny la traición fue un rayo que me rompió la paz.\nNo el cuerpo que se fue, sino el alma que vendiste,\nla dolorosa herencia que al final me diste.\n\nMi vida es el eco de una voz sin razón ni fe,\ny la sombra constante de lo que no puede ser.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "traición"
+  }
+}

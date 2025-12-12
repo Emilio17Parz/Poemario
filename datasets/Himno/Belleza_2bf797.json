@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Salve, Belleza, resplandor divino!,\nque iluminas el gris de nuestro destino.\nEn la flor, en el astro, en el rostro amado,\ntu sello perfecto ha quedado grabado.\n\nEres la meta de todo el que siente,\nla chispa sagrada en la humana mente.\nTe cantamos himnos de pura emoción,\npues eres la reina de la creación.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "belleza"
+  }
+}

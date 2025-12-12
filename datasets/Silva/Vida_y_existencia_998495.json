@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Equivoco,\nmi camino,\ny el destino,\nvuelvo loco.\nPoco a poco,\naprendí,\nlo que vi,\ny que toco.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "error"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde el fuego sagrado\nque en mi pecho dejaste enamorado,\ncon tanta intensidad,\nque pierdo la noción de realidad.\nEs tu pasión la llama\nque mi deseo inflama,\ny en este dulce juego,\nyo ciego me entrego.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

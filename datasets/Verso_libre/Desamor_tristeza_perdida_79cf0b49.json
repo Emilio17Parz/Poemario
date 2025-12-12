@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Intento borrar tu nombre\nde las paredes de mi memoria,\npero está grabado con fuego.\nEl olvido es un país lejano\nal que no logro llegar,\npierdo el mapa cada noche\ncuando sueño que vuelves.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

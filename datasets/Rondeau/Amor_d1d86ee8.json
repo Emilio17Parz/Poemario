@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En mis sueños te vuelvo a ver,\ncuando empieza a amanecer,\ny la realidad se va,\ntu recuerdo siempre está,\npara hacerme estremecer.\n\nNo lo puedo comprender,\ncómo te llegué a querer,\npero mi alma siempre da,\nEn mis sueños.\n\nTodo mi ser y mi haber,\npor un minuto de placer,\ndonde el tiempo no pasará,\ny nuestro amor reinará,\nsin el miedo a caer,\nEn mis sueños.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

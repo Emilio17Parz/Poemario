@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Silencio sobre la tumba\ndel guerrero descansando,\nel tiempo sigue pasando\ny el recuerdo se derrumba.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

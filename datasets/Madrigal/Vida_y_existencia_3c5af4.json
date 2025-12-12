@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Del error se aprende la lección,\nmaestro duro que enseña cayendo,\ny comprendiendo,\nla fragilidad de nuestra condición.\nNo temas tropezar en el camino,\nes el destino,\nde quien busca crecer y mejorar,\nal andar.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "fallo"
+  }
+}

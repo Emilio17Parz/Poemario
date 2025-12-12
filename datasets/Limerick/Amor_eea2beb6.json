@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un joven de gran pasión,\nSentía latir su corazón.\nCon un tierno besito,\nTodo se hizo bonito,\n¡Qué dulce y tierna emoción!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

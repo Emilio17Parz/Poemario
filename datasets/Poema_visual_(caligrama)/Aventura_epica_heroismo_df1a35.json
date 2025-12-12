@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Base fina\ncaliz ancho\nborde de oro\nsangre santa\ngrial buscado\nmeta final\ndel alma.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "grial"
+  }
+}

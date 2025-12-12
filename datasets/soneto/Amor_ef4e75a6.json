@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor, la luz que mi sendero guía,\nEs fuego que en mi pecho arde sin cesar,\nPromesa eterna de la nueva día,\nUn don precioso que no puedo negar.\n\nEn cada gesto, en cada dulce mirar,\nDescubro el eco de una antigua voz,\nQue me convoca, me invita a soñar,\nRompiendo el velo de la noche atroz.\n\nNo es casual senda que al alma ha unido,\nNi brisa efímera que el tiempo arrastra,\nEs trazo firme, por siempre esculpido,\nLa esencia pura que el olvido aplasta.\n\nAsí lo quiso el ineludible destino,\nQue tú y yo seamos solo un peregrino.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "destino"
+  }
+}

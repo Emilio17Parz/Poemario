@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza se forja sin igual,\nen cada trazo que nos da el arte;\nun eco etéreo, don primordial.\nLa belleza se forja sin igual,\nen un suspiro o gesto celestial,\nque el corazón anhela y comparte.\nLa belleza se forja sin igual,\nen cada trazo que nos da el arte.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "arte"
+  }
+}

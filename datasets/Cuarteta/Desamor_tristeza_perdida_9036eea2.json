@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me duele tu despedida,\nya no tengo solución,\ndejaste abierta la herida\nen mi pobre corazón.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "partida"
+  }
+}

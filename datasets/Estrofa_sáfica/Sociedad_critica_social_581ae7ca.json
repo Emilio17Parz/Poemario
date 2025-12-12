@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vientres vacíos de los niños tristes,\nplatos repletos en la mesa rica,\nmundo que gira desigual y loco\ny claudica.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

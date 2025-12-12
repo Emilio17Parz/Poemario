@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Grito sagrado que rompe cadenas,\ny borra del alma las viejas penas!\nDerecho del hombre por Dios otorgado,\njamás por tiranos serás apagado.\n\n¡Gloria a la libre y pura conciencia,\nque no se somete a la vil violencia!\nVolar como el águila en la altura,\nes nuestra más noble y gran aventura.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

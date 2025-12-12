@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La joya,\nreluce.\nApoya,\nla joya.\nSeduce,\ny no abolla.\nLa joya,\nreluce.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "joya"
+  }
+}

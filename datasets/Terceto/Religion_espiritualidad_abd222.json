@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hablo contigo en silencio,\nborrando las viejas historias,\nque con dolor presencio.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "oración"
+  }
+}

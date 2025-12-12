@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el aire,\nmoviendo ramas,\navivando llamas,\ncon donaire.\nSin desaire,\ncruza el valle,\ny la calle,\nen su baile.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "viento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cae el telón,\nse acaba la obra,\nla muerte cobra,\nsu comisión.\nSin compasión,\nni maniobra.\nCae el telón.\n\nActores se van,\nluces se apagan,\ndeudas se pagan,\ncon afán.\nYa no darán,\nlo que amagan.\nCae el telón.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "telón"
+  }
+}

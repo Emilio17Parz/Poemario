@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Solo ruinas quedan de un amor que fue (A),\nfragmentos de vidrio en el duro cristal (A),\nla pena que dice: 'Yo sé' (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Ruinas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tememos el gran final,\nlo desconocido aterra,\nun instinto animal,\nde aferrarse a la tierra.\n\nLo desconocido aterra,\nqué habrá después,\nde aferrarse a la tierra,\nantes de la vejez.\n\nQué habrá después,\nun instinto animal,\nantes de la vejez,\ntememos el gran final.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "final"
+  }
+}

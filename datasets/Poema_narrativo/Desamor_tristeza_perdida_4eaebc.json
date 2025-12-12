@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El día después fue un lienzo en blanco y negro,\nDonde el alma flotaba en un profundo juego.\nElla buscó un sentido, él buscó un lugar,\nPero solo hallaron el vacío al azar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Notas que tejen un manto sonoro,\nque abriga el alma cuando tiene frío,\ncomo un río,\nde plata, de cristal y de oro.\nLenguaje universal que nos une,\ny reúne,\ncorazones que laten a compás,\ny nada más.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "nota"
+  }
+}

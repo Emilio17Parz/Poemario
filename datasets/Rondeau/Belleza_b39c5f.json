@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Bello paisaje verde,\nque no se pierde,\nen la memoria,\nes la gloria,\nque muerde.\n\nQue se acuerde,\ny concuerde,\nla historia,\nBello paisaje.\n\nLa euforia,\ny la victoria,\nque no remuerde,\nsino que acuerde,\nla noria,\nBello paisaje.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "vista"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un monstruo de ojos verdes me devora,\nal ver que el viento juega en tu cabello,\nqueriendo poseer todo lo bello,\nrobándome la paz hora tras hora.\n\nMi alma desconfía y se atora\nbuscando en cada gesto algún destello,\nponiendo en mi garganta el duro cuello\nde aquella duda que mi ser perfora.\n\nPerdona si mi amor se vuelve fiera,\nsi tiemblo al ver que otros te sonríen,\nsi quiero que seas solo mi trinchera.\n\nQue no haya extraños que en tu luz confíen,\nque seas solo tú mi primavera,\ny que mis miedos ciegos se desvíen.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "celos"
+  }
+}

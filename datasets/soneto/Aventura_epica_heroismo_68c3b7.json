@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ciñe la espada y monta su corcel,\nel héroe parte hacia el sol poniente,\ndejando atrás la vida de la gente\npara beber de la aventura hiel.\n\nNo busca el oro, ni el suave oropel,\nsino la gloria de un hecho valiente,\nque quede escrito eternamente\nen las historias y en el papel.\n\nCruza los bosques y la mar bravía,\nenfrenta monstruos de la oscuridad,\ncon la esperanza como única guía.\n\nSu corazón es pura voluntad,\ny aunque le falte fuerza y alegría,\nlucha por defender la verdad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espada"
+  }
+}

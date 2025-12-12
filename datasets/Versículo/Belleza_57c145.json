@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El escultor no impone la forma a la piedra, sino que libera la figura que ya dormía en su interior.\nQuita lo que sobra para que la belleza respire, revelando el espíritu atrapado en la materia dura.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fría está la sábana en el lado izquierdo,\ndonde tu cuerpo solía soñar,\nya no hay quien pueda mi sueño velar,\ny en esta cama gigante me pierdo.\n\nA veces despierto y apenas recuerdo,\nque te has marchado para no regresar,\ny vuelvo a llorar, y vuelvo a sangrar,\nperdiendo el juicio y dejando de ser cuerdo.\n\nLecho de espinas, tumba de pasión,\ndonde murió nuestra gran ilusión.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "lecho"
+  }
+}

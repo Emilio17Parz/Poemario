@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El eco de tu adiós\naún resuena triste en la memoria,\nfinal de nuestra historia\nque hiere a nuestros dos.\nYa no escucho tu voz,\nni busco la victoria,\npues el tiempo ha sido muy feroz.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

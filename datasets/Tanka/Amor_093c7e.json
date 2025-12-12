@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi corazón canta\nla melodía que solo\nnosotros sabemos.\nNuestra música de amor,\nes la nota más perfecta.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Música"
+  }
+}

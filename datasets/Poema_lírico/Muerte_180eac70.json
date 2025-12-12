@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un velo gris que al alba se despliega,\nsilente paso que a la vida ciega.\nLa sombra quieta que al sendero guía,\ndonde el latido en mudez se confía.\n\nSe va la risa, el eco de la voz,\nun dulce olvido que nos cubre a dos.\nLa forma amada que la tierra abraza,\ny en el recuerdo su perfil se traza.\n\nNo hay súplica que su camino altere,\nni verso alguno que su paz libere.\nPara todo ser, llega un último aliento,\nmarcando el **fin** de su terrenal momento.\n\nEl sol se oculta, la marea se calma,\nun suave soplo que libera el alma.\nDescanso eterno, paz que no desvela,\nla última historia que el silencio cela.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "fin"
+  }
+}

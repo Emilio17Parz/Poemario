@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hombre de palabra sagrada,\nOrgullo de su propia acción,\nNunca con el alma manchada,\nObra con justa rectitud,\nRespetando su obligación.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "honor"
+  }
+}

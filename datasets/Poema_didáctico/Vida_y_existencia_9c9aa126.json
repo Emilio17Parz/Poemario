@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Agradece lo que tienes hoy,\nantes de decir 'me voy'.\nLa gratitud abre la puerta,\na la abundancia descubierta.\nQuien se queja siempre es pobre,\naunque tenga mucho cobre.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "gratitud"
+  }
+}

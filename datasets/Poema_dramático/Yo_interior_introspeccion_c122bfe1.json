@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "ALMA: ¿Es este el camino correcto?\nRAZÓN: Los datos dicen que sí lo es.\nALMA: Pero siento un peso, un revés.\nRAZÓN: No busques un sendero perfecto.\nLa duda siempre estará presente,\nconfía en lo que tu pecho siente.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "duda"
+  }
+}

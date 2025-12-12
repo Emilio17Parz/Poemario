@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dejamos nuestra huella,\nen el polvo del camino,\nbrillando como estrella,\nfrente al duro destino.\n\nEn el polvo del camino,\nmarcada queda la acción,\nfrente al duro destino,\nbuscando la redención.\n\nMarcada queda la acción,\ndejamos nuestra huella,\nbuscando la redención,\nbrillando como estrella.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "paso"
+  }
+}

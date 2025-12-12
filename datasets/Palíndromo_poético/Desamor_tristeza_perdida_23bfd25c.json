@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Tristeza, sí.\nEl alma duele sin ti.\nUn adiós cruel nos dio el fin.\nLa sombra es hoy mi hogar, mi hogar hoy es la sombra.\nEl fin nos dio, un adiós cruel.\nSin ti, duele el alma.\nSí, tristeza.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

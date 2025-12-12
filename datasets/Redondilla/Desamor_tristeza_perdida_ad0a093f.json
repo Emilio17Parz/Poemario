@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me acompaña la soledad\nen la noche fría y quieta,\nes mi única y fiel meta\nen esta cruel realidad.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

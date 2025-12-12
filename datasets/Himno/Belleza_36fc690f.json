@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Salve, Belleza, diosa inmortal!\nReflejo puro de lo divino,\nque embelleces nuestro camino,\ny haces la vida más ideal.\n\nEn la pintura y en la canción,\nen la escultura y la poesía,\ntú nos regalas la alegría,\ny elevas nuestra imaginación.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "arte"
+  }
+}

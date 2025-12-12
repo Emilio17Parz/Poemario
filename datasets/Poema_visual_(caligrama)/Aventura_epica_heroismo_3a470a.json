@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Borde redondo\ncentro fuerte\nblasón pintado\nprotege el pecho\ngolpes paran\ndefensa fiel\ndel héroe.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "escudo"
+  }
+}

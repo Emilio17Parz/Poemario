@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Defiende su honor\ncon la fuerza de su brazo,\nsoportando el dolor\nde cualquier duro lazo.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "honor"
+  }
+}

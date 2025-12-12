@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mi rostro es de marfil, blanco y sereno, sin par (A),\nsin vida, sin sangre, sin más calor (B),\nha terminado todo lo que es de amar (A),\nla ausencia de todo fulgor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Marfil"
+  }
+}

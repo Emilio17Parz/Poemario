@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mar es la belleza en movimiento perpetuo, una danza hipnótica de olas que nunca se repite igual.\nSu azul profundo es el espejo donde el cielo se mira, y su espuma es el encaje que adorna la orilla del mundo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "mar"
+  }
+}

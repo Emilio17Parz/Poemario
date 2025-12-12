@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baila la vida,\nbien vivida.\nMovimiento,\ndel viento,\nquerida.\n\nNo se olvida,\nla partida.\nEl sentimiento,\nbaila la vida.\n\nLa herida,\ncurada.\nEl momento,\ndel cuento,\nseguida,\nbaila la vida.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "danza"
+  }
+}

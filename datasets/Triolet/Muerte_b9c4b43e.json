@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra nos cubre\nal final del día,\nen el mes de octubre.\nLa sombra nos cubre,\ny se descubre\nla tumba fría.\nLa sombra nos cubre\nal final del día.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

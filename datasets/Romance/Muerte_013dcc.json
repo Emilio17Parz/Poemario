@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sembraron el campo de cruces\ndonde antes crecía el trigo,\nfruto de la guerra cruel\nque es el peor castigo.\nJóvenes que no volvieron\na ver a su buen amigo,\ny madres que lloran solas\nsin consuelo ni abrigo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

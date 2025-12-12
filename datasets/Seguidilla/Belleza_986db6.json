@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El vuelo del alma (7a),\nlibre y sin fin (5b),\nno encuentra la calma (7c),\nsin un jazmín (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El hálito del viento, un canto audaz,\nQue llama al corazón a la alta empresa,\nY el alma, de temor jamás confesa,\nBusca el confín del tiempo, donde la paz\n\nNo existe si no es lucha, rudo solaz.\nLa senda incierta, con valor sopesa,\nY en cada paso, firme, el alma presa\nDe un fuego que no cesa, pertinaz.\n\nLa **espada** fiel, compañera de gesta,\nQue en manos firmes halla su razón,\nCorta el velo de sombras, sin tardanza.\n\nBajo el estandarte que al valor contesta,\nArde en el pecho heroica devoción,\nHacia la gloria que el destino afianza.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "espada"
+  }
+}

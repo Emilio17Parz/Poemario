@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La eternidad fiel,\nes un concepto sin tiempo,\ndonde tú ya habitas.\nNosotros aún en horas,\nsin poder ir a tu lado.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Eternidad"
+  }
+}

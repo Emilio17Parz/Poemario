@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega la vida a su absoluto fin,\ncuando se para el corazón cansado,\ny calla para siempre el cornetín.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "fin"
+  }
+}

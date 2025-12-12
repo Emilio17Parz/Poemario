@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Alas blancas\npico de paz\nvuelo suave\nespíritu santo\nque desciende\ncon la gracia\ndel cielo.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

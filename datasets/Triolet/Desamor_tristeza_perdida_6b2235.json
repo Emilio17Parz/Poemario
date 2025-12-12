@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Trato de olvidar tu nombre,\npero sigues en mi mente.\nAunque no me asombre,\ntrato de olvidar tu nombre.\nSoy un triste hombre,\ncon un dolor latente.\nTrato de olvidar tu nombre,\npero sigues en mi mente.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

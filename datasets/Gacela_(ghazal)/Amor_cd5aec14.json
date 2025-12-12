@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Guardamos nuestro amor en un cofre de silencio,\nlejos de las miradas que con miedo presencio.\n\nNadie sabe el nombre que en la noche sentencio,\nni la pasión oculta que en mi pecho agencio.\n\nAmor clandestino, mi único y gran precio,\nen el altar de tu alma mi vida reverencio.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

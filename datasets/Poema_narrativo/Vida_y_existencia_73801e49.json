@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Subió a la montaña el joven inquieto,\npara preguntar al sabio anciano.\nQuería saber el mayor secreto,\nlo que rige el destino humano.\nLlegó a la cima con gran respeto,\ny encontró al maestro sano y ufano.\n'¿Cuál es la verdad?', le preguntó,\nel sabio le dio una flor de la edad.\n'Mira su belleza', contestó,\n'y en ella verás toda la verdad'.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Marcha el héroe sin tener miedo,\nhacia la cueva del dragón,\ncumpliendo con su denuedo.\n\nNo le detiene el enredo,\nni la terrible maldición,\nmarcha el héroe sin tener miedo.\n\nSabe que yo no me quedo,\nsi falta su protección,\ncumpliendo con su denuedo.\n\nCon la espada y con el dedo,\nseñala su dirección,\nmarcha el héroe sin tener miedo.\n\nSalva al mundo del remedo,\ncon valor y corazón,\ncumpliendo con su denuedo.\n\nSu nombre escribo y heredo,\nen la futura canción,\nmarcha el héroe sin tener miedo,\ncumpliendo con su denuedo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

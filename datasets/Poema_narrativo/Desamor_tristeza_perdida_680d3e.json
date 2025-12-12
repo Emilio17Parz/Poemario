@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Levantaron un muro de reproches y quejas,\nCada palabra hiriente era una de las tejas.\nLa pared creció alta, sin ventana ni puerta,\nY la comunicación quedó para siempre muerta.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "muro"
+  }
+}

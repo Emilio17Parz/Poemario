@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La noche es eterna, sin luna ni sol (A),\nel negro que cubre todo fulgor (B),\nel fin de nuestro arrebol (A).\n\nLa vida se apaga, sin un valor (B),\nel alma se pierde, sin un final (C),\nla forma de no hallar el amor (B).\n\nNo hay más que sufrir, no hay más que el mal (C),\nla sombra me cubre, sin piedad (D),\nla eterna y dura lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Eterna"
+  }
+}

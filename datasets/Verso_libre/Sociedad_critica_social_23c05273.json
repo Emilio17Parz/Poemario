@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "No me den jaulas de oro,\nni cadenas de seda.\nLa libertad es el aire puro,\nes poder decir no,\nes caminar sin permiso.\nEs el derecho sagrado\nde ser dueño de uno mismo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tallo verde\ncentro de oro\npétalos rojos\nabiertos al sol\nfragancia viva\nbelleza pura\nefímera.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "flor"
+  }
+}

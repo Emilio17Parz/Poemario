@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Deja sus bienes a los herederos,\ncasas, dinero y algún papel,\npero se lleva los verdaderos,\ntesoros que fueron parte de él.\nEl amor dado, la risa franca,\nla mano amiga que ofreció,\nesa es la cuenta que no se estanca,\ny que la muerte no le robó.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "testamento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí yace Juan el Bueno,\nmentira de mármol frío,\npues era puro veneno,\ny se metía en todo lío.\nLa piedra aguanta el papel,\ny lo que escriban en él.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Epitafio"
+  }
+}

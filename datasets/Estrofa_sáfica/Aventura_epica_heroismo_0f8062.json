@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Bestia de fuego, escamas y garras,\nvuela y aterra a la población,\nsolo el valiente le hará frontón,\nmonstruo terrible.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

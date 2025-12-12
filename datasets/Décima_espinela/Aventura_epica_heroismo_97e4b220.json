@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La senda que el valor proclama,\nCon brío el alma ha de seguir,\nSin miedo a un incierto porvenir,\nDonde la hazaña siempre llama,\nY un nuevo destino se derrama.\n\nSujeta fuerte la **espada**,\nPor gloria y por causa alzada,\nEl coraje no se doblega,\nLa fuerza que el alma entrega,\nEn lucha de sangre bañada.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "espada"
+  }
+}

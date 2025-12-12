@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "bruma espesa",
   "poema": {
     "texto": "Cruza la bruma\\nsobre los campos\\nborra los bordes\\ndel horizonte",

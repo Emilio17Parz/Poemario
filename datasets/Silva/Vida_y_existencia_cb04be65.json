@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corre veloz el implacable tiempo,\nsin ningún contratiempo.\nLos años se nos van,\ncon todo nuestro afán,\ny queda la experiencia,\nde la existencia.\nFugaz es el momento,\ncomo el viento.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Crecer duele, es el dolor de la piel que se estira y de las creencias que se rompen porque ya no nos sirven.\nEs dejar morir una versión de mí mismo para que otra más sabia y más fuerte pueda nacer.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "crecer"
+  }
+}

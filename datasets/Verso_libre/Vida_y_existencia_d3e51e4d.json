@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es esto: este parpadeo.\nEl sabor del café ahora,\nel rayo de sol en la mesa.\nEl pasado es un fantasma,\nel futuro una alucinación.\nSolo tienes este segundo,\nfrágil y perfecto,\nantes de que se convierta en recuerdo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "instante"
+  }
+}

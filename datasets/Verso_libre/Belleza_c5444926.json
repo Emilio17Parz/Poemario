@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo humano es un paisaje.\nValles, colinas, bosques de vello.\nLa curva de una espalda,\nel mapa de las venas en la mano.\nNo hay nada sucio en la desnudez,\nsolo la verdad de la forma,\nla ingeniería sagrada\nde la biología.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "cuerpo"
+  }
+}

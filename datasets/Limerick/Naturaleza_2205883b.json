@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En la cima de una montaña,\nLa vista era una hazaña.\nUn águila voló,\nEl río rugió,\nSin igual la verde campaña.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

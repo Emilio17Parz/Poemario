@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sube al cielo mi humilde oración,\nes consuelo mi humilde oración.\n\nHablar con lo divino en secreto,\npuente de oro es la oración.\n\nAunque calle mi voz, grita el alma,\nsu plegaria, su fiel oración.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "oración"
+  }
+}

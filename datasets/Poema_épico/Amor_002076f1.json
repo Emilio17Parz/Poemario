@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En medio del campo de la batalla,\nel guerrero buscaba el rostro amado,\nno le importaba el escudo quebrado,\nni el fuego mortal de la metralla.\nSolo quería cruzar la muralla,\npara ver a quien había dejado,\ny morir en sus brazos, consolado,\nantes de que la muerte calla.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

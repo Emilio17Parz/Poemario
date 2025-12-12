@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte llega, final cruel y certero,\nUn manto oscuro, un viaje al sendero.\n\nEl cuerpo yace, ya sin luz ni aliento,\nSilencio eterno, de todo movimiento.\n\nMas queda un eco, un soplo de verdad,\nQue habita el alma, la *memoria*, la eternidad.\n\nEn cada rostro, en voz que fue querida,\nLa vida sigue, jamás del todo hundida.\n\nAunque la ausencia apriete con dolor,\nSu esencia vive en nuestro corazón.\n\nLa muerte es fin, un velo que se impone,\nMas la *memoria* su imperio descompone.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

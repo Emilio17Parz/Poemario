@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lloran mucho en el entierro,\npero miran de reojo,\nquién se queda con el perro,\ny quién abre el cerrojo.\nEl dolor es muy profundo,\nhasta que se reparte el mundo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Herencia"
+  }
+}

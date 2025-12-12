@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El alma es el faro, la luz interior,\nque guía al cuerpo en la tempestad,\nes la esencia pura, el único valor,\nla voz que susurra la verdad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

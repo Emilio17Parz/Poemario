@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sacaste la flecha, quedó la herida,\nmanando sangre que no ha de cesar,\nes esta la guerra de mi vida,\nluchar contra el ansia de regresar.\nCupido no es niño, es un guerrero,\nque mata sin piedad al mundo entero.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Flecha"
+  }
+}

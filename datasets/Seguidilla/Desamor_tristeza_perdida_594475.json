@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La pena me consume,\npoco a poco,\ndesde que me dejaste,\ncomo a un loco.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "pena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedra sagrada que guardas el sueño,\ndel que fue esclavo y del que fue dueño.\nÚltima casa del cuerpo mortal,\npuerta de entrada al mundo fatal.\n\n¡Salve, sepulcro, refugio postrero,\ndonde termina el largo sendero!\nBajo tu losa la historia reposa,\ny se marchita la más bella rosa.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

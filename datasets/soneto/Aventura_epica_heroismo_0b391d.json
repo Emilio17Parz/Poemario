@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No es la ausencia de miedo,\nes actuar a pesar de él,\nser a la causa fiel,\ny no quedarse quieto.\n\nDar un paso al frente, quedo,\naunque sepa a pura hiel,\ny rasgar el negro papel,\ncon la punta del dedo.\n\nEl valor dignifica,\nal ser humano frágil,\ny su fuerza multiplica.\n\nLo vuelve diestro y ágil,\ny ante el mundo le explica,\nque no es barro dócil.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "valor"
+  }
+}

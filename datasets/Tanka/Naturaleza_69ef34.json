@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro de fuego\nque nos da la calor\nvida y luz.\nSin ti todo sería\nhielo y oscuridad.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "sol"
+  }
+}

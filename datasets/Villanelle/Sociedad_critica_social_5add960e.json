@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Juegan ajedrez los reyes,\ncon los peones humanos,\nrompiendo todas las leyes.\n\nSon como bestias y bueyes,\ncon sangre en las manos,\njuegan ajedrez los reyes.\n\nNo escuchan los mames,\nde los ciudadanos,\nrompiendo todas las leyes.\n\nDestruyen los muelles,\ny los campos llanos,\njuegan ajedrez los reyes.\n\nSolo dejan fuelles,\ny cuerpos vanos,\nrompiendo todas las leyes.\n\nTristes paragueyes,\nde los tiranos,\njuegan ajedrez los reyes,\nrompiendo todas las leyes.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

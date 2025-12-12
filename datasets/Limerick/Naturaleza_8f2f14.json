@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La arena de un desierto sin fin,\nes tiempo sin fruto, sin tin.\nEl sol la calienta,\nla vida la alienta,\nsin rastro de pena ni esguín.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

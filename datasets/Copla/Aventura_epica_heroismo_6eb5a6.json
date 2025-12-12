@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La fortaleza es el ancla (a),\nque no se doblega ya (b),\nmi alma no se descalza (c),\nla fuerza que me da (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Fortaleza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hay que luchar,\ny no parar.\n\nContra el mal,\nes vital,\ny normal,\nel ganar.\n\nHay que luchar,\ny no parar.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "luchar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aunque te hayas marchado,\nvives en mi corazón,\neres la dulce canción,\ndel ser amado.\nNo has sido olvidado,\nni perdido en la razón.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

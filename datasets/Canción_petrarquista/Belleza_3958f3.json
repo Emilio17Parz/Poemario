@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Divina imitación\nde la naturaleza en el lienzo;\ndonde el comienzo\nde la creación\nse plasma con colores y destreza;\n¡oh, gran belleza!,\nque el tiempo no marchita,\ny el alma del que mira resucita.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "arte"
+  }
+}

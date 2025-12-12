@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo camino tiene su fin,\ncalla la voz del clarín,\nmuere la rosa y el jazmín.\nTodo camino tiene su fin,\nen el último confín,\ndel vasto jardín.\nTodo camino tiene su fin,\ncalla la voz del clarín.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "fin"
+  }
+}

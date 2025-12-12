@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "SALICIO: Me quito las máscaras, una por una,\npara saber mi real identidad.\nNEMOROSO: Verás al fin tu propia verdad,\ndesnuda y clara bajo la luna.\nNo eres pastor, ni poeta, ni juez,\neres la vida en su sencillez.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

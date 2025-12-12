@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rosa silvestre, lirio y jazmín,\nadornan la alfombra del sendero.\nNo hay pintor, por más esmero,\nque imite el color del jardín.\nBelleza que tiene su fin,\npero renace en enero.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

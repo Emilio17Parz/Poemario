@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cerró los ojos para viajar,\nhacia el centro de su cabeza.\nQuería poder ordenar,\ntoda aquella extraña pieza.\nEmpezó a recordar y a olvidar,\ncon miedo y con certeza.\nVio sus miedos como dragones,\ny sus sueños como puente,\nluchando en los rincones,\ndel mundo de su mente.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "mente"
+  }
+}

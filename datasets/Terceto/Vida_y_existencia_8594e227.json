@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Quien no sueña está muerto en vida,\npues la meta nos da la dirección,\ny cura de la realidad la herida.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "meta"
+  }
+}

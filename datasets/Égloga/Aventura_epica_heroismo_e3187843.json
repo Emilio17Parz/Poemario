@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan que aquí un pastor,\nmató a un oso gigante,\ncon mano constante,\ny mucho valor.\nSin sentir temor,\nel noble amante,\ndefendió delante,\na su dulce flor.\nQuedó la historia,\nen la memoria,\nde su victoria.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

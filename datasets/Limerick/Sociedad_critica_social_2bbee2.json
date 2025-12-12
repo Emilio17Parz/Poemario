@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La verdad que esconde el poder,\nsu luz que no quieren ver.\nLa lucha es fiel,\nsin rastro de hiel,\nel alma que quiere ya ser.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Verdad"
+  }
+}

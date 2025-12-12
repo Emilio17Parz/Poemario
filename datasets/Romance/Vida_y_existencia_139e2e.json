@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El Puente es de cristal fino,\nse rompe sin piedad,\ny mi alma ya sin vino,\nsin tu dulce claridad.\n\nTe fuiste sin consuelo,\nsin una sola razón,\ny ahora lloro sin recelo,\npor tu cruel traición.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Puente"
+  }
+}

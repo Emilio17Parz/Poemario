@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El hueso es la forma que queda de ti,\nla vida sin la calma, el triste 'por mí'.\nEl amor es el recuerdo de una piel sin color,\nla sombra constante de un viejo fulgor.\n\nNo queda la risa, no queda la voz,\nla vida sin la gracia de un triste arroz.\nMi alma es el eco de un dolor sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "esqueleto"
+  }
+}

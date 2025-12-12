@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me acompaña la fría soledad,\nen la noche vacía y silenciosa,\nmostrando su cruel realidad.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

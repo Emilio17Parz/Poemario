@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El Árbol se rompió en el suelo,\nsin un poco de valor,\ny mi alma ya sin recelo,\nsin tu dulce fulgor.\n\nYo te busco en la rama,\ny no encuentro ya tu ser,\ny mi vida es una llama,\nsin un solo gran poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Árbol"
+  }
+}

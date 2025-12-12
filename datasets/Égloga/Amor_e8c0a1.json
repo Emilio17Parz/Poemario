@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Menalcas:\nToca tu flauta, dulce compañero,\nque Amarilis se acerca por la senda,\nque la música el fuego encienda,\ndel amor puro y verdadero.\n\nEl son se eleva por el sendero,\ny ella sonríe al escuchar la nota,\nmientras la pasión en el pecho brota,\ncomo el agua de un manantial ligero.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flauta"
+  }
+}

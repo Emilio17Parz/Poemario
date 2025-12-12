@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo corre veloz,\ny nadie lo puede atar,\nni siquiera con llorar,\nante su paso feroz.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

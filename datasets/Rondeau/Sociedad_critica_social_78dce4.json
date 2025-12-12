@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Los muros,\ntan duros.\nSeparan,\ny paran,\nfuturos.\n\nOscuros,\ne impuros.\nDeclaran,\nlos muros.\n\nSeguros,\ny maduros.\nPreparan,\ny varan,\nconjuros,\nlos muros.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "muros"
+  }
+}

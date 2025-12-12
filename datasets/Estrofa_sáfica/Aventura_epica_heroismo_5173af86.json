@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Del rey llamado, dejó el hogar,\ncruza montañas de cumbre helada,\nsu espada lucía cual sol al alba,\nfiel a su honor.\n\nEn selvas densas, de noche oscura,\nmonstruos feroces su paso aguardan,\ncon fiera audacia los desgarra el hierro,\nmuestra valor.\n\nLa gran **batalla** por fin se acerca,\nlunas de sangre tiñen los yelmos,\nun grito fiero rasgó los cielos,\nnoble y valiente.\n\nEl héroe lucha, su gloria forja,\nalza la espada con puño firme,\nla bestia oscura por fin sucumbe,\npaz trae al fin.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

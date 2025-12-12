@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No has muerto hoy,\nmientras mi mente guarde\ntu imagen fiel.\nVives en la memoria\nde quien te quiso bien.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

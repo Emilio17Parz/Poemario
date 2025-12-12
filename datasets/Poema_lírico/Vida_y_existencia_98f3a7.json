@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El ayer es un hueso\nque el tiempo no cura.\nEs el triste rezo\nde la dura amargura.\n\nNo vuelve el instante,\nsolo la memoria fiel,\nmi único amante\nsin ningún papel.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

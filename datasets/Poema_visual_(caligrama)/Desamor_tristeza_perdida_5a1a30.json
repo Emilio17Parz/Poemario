@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Madera y hierro\nque no se abre\ngolpeo en vano\nnadie responde\nal otro lado.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Lazo invisible que nuestras almas ata,\nfuerte y eterno como el metal forjado,\nno hay una fuerza que abata\nlo que el destino nos ha entregado.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "vínculo"
+  }
+}

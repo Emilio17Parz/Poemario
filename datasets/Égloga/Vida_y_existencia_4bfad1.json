@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mis manos tiemblan, la vista falla,\npero el alma sigue siendo de niño.\nGuardo del tiempo el cariño\ny las marcas de la batalla.\nAunque el cuerpo ya se acalla,\nmi espíritu viste armiño.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "manos"
+  }
+}

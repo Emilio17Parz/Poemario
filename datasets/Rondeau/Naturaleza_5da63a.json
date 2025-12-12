@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río va hacia la mar,\nsin poderse detener,\ncon su eterno recorrer,\nentre piedras y azar,\nbuscando su lugar.\n\nNadie lo puede frenar,\nni su curso torcer,\nes su único deber,\nEl río va.\n\nNos invita a meditar,\nsobre el tiempo y el estar,\ny el fluir del ser,\nque vamos a perder,\nal final del navegar,\nEl río va.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "corriente"
+  }
+}

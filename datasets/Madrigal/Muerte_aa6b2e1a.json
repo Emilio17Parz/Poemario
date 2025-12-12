@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos apenas polvo\nque el viento esparce por la llanura,\ny en la sepultura\na la tierra me vuelvo.\nEl misterio resuelvo:\nla vida no perdura,\ny en la materia madre me disuelvo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

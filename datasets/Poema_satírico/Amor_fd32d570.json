@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juraste amor para siempre,\nhasta que la muerte separe,\npero en cuanto el barco pare,\nte bajas en el muelle de enfrente.\nTu eternidad es de un vientre,\nque dura lo que un disparo,\namor eterno tan raro,\nque caduca en diciembre.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

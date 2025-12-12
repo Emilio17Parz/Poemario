@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sin justicia no hay paz duradera,\nsolo un silencio lleno de miedo;\nno tapes el sol con un solo dedo,\nni aceptes la ley si es embustera.\nLuchar por lo justo es un deber,\nque todos tenemos que ejercer.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

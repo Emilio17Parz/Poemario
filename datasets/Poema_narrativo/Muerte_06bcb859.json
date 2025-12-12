@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El rey yacía en su lecho dorado,\nrodeado de médicos y consejeros.\nSu imperio vasto había conquistado,\nvenciendo a mil enemigos guerreros.\nPero un enemigo había llegado,\nsilencioso, sin armas ni aceros.\nDio el último suspiro en la cama,\nsoltó el cetro de marfil y carmín,\nse apagó de su vida la llama,\ny así llegó su absoluto fin.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "fin"
+  }
+}

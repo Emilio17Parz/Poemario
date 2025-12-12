@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Siento en el pecho un volcán encendido,\nuna marea de fuego y pasión,\nque ha despertado a mi fiel corazón,\ndel largo sueño en que estaba sumido.\nEs un torrente de luz y latido,\nque me devuelve la dulce ilusión.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Coloso de piedra que tocas las nubes,\nescala divina por donde tú subes!\nVigía eterno de valles y ríos,\nque aguantas firme los crudos fríos.\n\n¡Gloria a la cumbre de nieve vestida,\nmeta sagrada de la humana vida!\nDesde tu altura el mundo se hace breve,\ny el pensamiento con el viento se mueve.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

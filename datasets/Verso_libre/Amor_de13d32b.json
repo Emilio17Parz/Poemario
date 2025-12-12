@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No necesitamos palabras.\nEl aire entre nosotros está cargado\nde un lenguaje eléctrico,\nhecho de respiraciones y miradas.\nTu silencio no es vacío,\nes un espacio habitable,\nun refugio donde descanso\ndel ruido ensordecedor\nde todo lo que no eres tú.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

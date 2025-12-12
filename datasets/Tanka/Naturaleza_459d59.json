@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Blanca señora\nreina de la penumbra\nfaro sutil.\nCambias tu rostro siempre\npero sigues ahí.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "luna"
+  }
+}

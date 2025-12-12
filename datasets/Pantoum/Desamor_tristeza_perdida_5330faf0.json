@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se volvió hielo tu pecho,\ndonde antes hubo fuego,\ny yo quedo deshecho,\nen este triste juego.\n\nDonde antes hubo fuego,\nahora reina el frío,\nen este triste juego,\nde un corazón vacío.\n\nAhora reina el frío,\nse volvió hielo tu pecho,\nde un corazón vacío,\ny yo quedo deshecho.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

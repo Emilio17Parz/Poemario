@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El héroe no tiene miedo,\ndefiende siempre la libertad,\ny dice al mundo: yo sí puedo.\n\nLucha contra la oscuridad,\nsin que le importe el enredo,\nel héroe no tiene miedo.\n\nCon su valor y su verdad,\navanza firme y con denuedo,\ndefiende siempre la libertad.\n\nAunque le apunten con el dedo,\ny le nieguen la caridad,\nel héroe no tiene miedo.\n\nEn medio de la tempestad,\nse mantiene quieto y quedo,\ndefiende siempre la libertad.\n\nSu fuerza es su identidad,\ny su coraje es su credo,\nel héroe no tiene miedo,\ndefiende siempre la libertad.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

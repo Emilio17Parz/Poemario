@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La razón,\nde existir,\nes sentir,\nel corazón.\nLa pasión,\npor crear,\ny por dar,\nilusión.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Alto y oscuro\napunta al cielo\nhoja perenne\ncentinela\ndel cementerio\nsombra larga\nde luto.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "ciprés"
+  }
+}

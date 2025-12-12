@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Llevo una máscara puesta\npara que nadie me vea,\nme río cuando estoy triste\ny mi alma se afea.\nQuiero quitarme el disfraz\ny que el mundo crea,\nque soy frágil y humano\naunque nadie me lea.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

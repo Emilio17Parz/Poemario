@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El mapa marca la cruz roja,\ndonde el pirata lo enterró,\nla codicia se nos antoja,\ny el miedo se nos borró.\nQuien el cofre encontró,\nrico por siempre quedó.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

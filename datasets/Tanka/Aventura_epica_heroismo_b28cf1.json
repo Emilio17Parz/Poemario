@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mundo sin nombre\nmás allá del cercado\nmisterio es.\nNos llama con su voz\na explorar lo que hay.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "desconocido"
+  }
+}

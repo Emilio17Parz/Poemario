@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El miedo me impide avanzar,\nme ata con cuerdas de duda,\ny no me deja volar.\n\nQuisiera poder escapar,\nde esta prisión muda,\nel miedo me impide avanzar.\n\nMe pongo a temblar,\ny pido ayuda,\ny no me deja volar.\n\nNo sé cómo enfrentar,\nla vida desnuda,\nel miedo me impide avanzar.\n\nMe hace fracasar,\ny el alma suda,\ny no me deja volar.\n\nTengo que superar,\nla mente tozuda,\nel miedo me impide avanzar,\ny no me deja volar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

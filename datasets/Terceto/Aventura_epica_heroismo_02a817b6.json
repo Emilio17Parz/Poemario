@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Zarpa el barco hacia tierras lejanas,\ncruzando el mar de espuma y de misterio,\ncon las velas al viento y ufanas.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "mar"
+  }
+}

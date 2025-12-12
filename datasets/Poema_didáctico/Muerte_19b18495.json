@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El velo gris que al fin la vida cubre,\nno es fin abrupto, sino un umbral de paz.\nLa Muerte, hermana sabia, sombra mansa,\nnos brinda lecciones de hondo sentir.\n\nNo temáis su silencio, ni el frío abrazo,\npues su quietud es cuna, no despojo.\nElla revela el tiempo que se escapa,\ny la fugaz belleza que nos atrapa.\n\nCada aliento es tesoro, cada día un don,\nsabiendo que la sombra nos dará razón.\nPues solo en la conciencia de la partida,\nse exalta el gozo pleno de la vida.\n\nAunque el cuerpo, polvo, al polvo torne,\ny el eco de la voz un día se borre,\nel rastro de bondad, amor y verdad,\nse inscribe en la memoria, rozando la **eternidad**.\n\nNo es fin la Muerte, mas transmutación,\nde la materia efímera en perenne lección.\nAsí el alma, serena, el ciclo observa,\ny a la vida, en su esencia, mejor preserva.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

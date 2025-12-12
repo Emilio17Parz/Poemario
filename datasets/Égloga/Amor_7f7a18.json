@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pasarán los años y los ganados,\nla encina caerá por el rayo herida.\nPero esta pasión que nos da vida\nquedará en los montes grabada.\nDos nombres en la roca cincelados:\nAmor de pastor, llama encendida.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "encina"
+  }
+}

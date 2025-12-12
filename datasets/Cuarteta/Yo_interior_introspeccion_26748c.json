@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El miedo es un monstruo que habita en mí,\nme paraliza, me quiere vencer,\npero mi alma es fuerte, yo le dije 'sí',\nal poder que ayuda a crecer.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Miedo"
+  }
+}

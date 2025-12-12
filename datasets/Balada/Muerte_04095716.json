@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego purifica y destruye,\ndeja el recuerdo hecho carbón,\nla vida escapa y se diluye,\ncomo las notas de una canción.\nPolvo y ceniza en el cajón,\nes el destino de la ambición.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

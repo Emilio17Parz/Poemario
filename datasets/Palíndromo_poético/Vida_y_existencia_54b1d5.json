@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Luz hay\nen mi ser\nbrilla ya\nen mi ser\nluz hay",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "luz"
+  }
+}

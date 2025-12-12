@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viejo pescador salió temprano,\nremando hacia lo hondo de la bahía.\nEl mar estaba tranquilo y llano,\npero una nube negra crecía.\nSe alzó la ola como una mano,\ny la barca pequeña gemía.\nLuchó con fuerza contra la corriente,\nrezando a la virgen del altar,\ny regresó a la orilla, valiente,\nvenciendo a la furia de la mar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "mar"
+  }
+}

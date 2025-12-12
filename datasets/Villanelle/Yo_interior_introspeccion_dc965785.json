@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién soy yo realmente?,\npregunto al espejo,\ncon la duda en la mente.\n\nNo soy diferente,\nal viejo,\n¿quién soy yo realmente?\n\nSoy el que siente,\nel consejo,\ncon la duda en la mente.\n\nSoy la corriente,\ndel cangrejo,\n¿quién soy yo realmente?\n\nSoy el ausente,\ndel festejo,\ncon la duda en la mente.\n\nSoy el presente,\nperplejo,\n¿quién soy yo realmente?,\ncon la duda en la mente.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es el gran misterio,\nlo que hay después.\nNadie lo ve,\nen este imperio.\n\nCriterio,\ndel que se fue.\nEs el gran misterio,\nlo que hay después.\n\nMonasterio,\nde la fe.\nYo no sé,\nserio.\nEs el gran misterio.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

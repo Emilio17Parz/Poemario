@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Paz del descanso, de sueño total,\nsin miedo ni penas, sin un gran mal.\nEl alma se rinde a lo esencial,\nel fin del dolor, lo real.\n¡Oh, calma bendita, de dulce solaz,\nel puerto que al fin nos da paz!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

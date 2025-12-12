@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres mi vida entera,\nmi eterna primavera.\nSin ti no soy nada,\nsolo hoja arrastrada,\npor la acera cualquiera.\n\nLa luz verdadera,\nque mi ser espera.\nLlegada soñada,\neres mi vida.\n\nAunque yo muera,\nmi alma te quisiera.\nEres mi amada,\npor Dios enviada,\nmi única bandera,\neres mi vida.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "vida"
+  }
+}

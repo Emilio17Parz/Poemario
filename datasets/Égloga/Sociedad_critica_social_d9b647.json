@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Venden nuestra lana,\na precio de oro,\ny nos dan el lloro,\nde la mañana.\n\nLa ganancia vana,\nse queda arriba,\ny la deriva,\nes humana.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "precio"
+  }
+}

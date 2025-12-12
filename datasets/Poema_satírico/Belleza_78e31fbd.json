@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Oh, Belleza, tirana de la vana esfera!\nQue impone su decreto con fútil poder,\nDesfigura lo humano, a la verdad quimera,\nY nos ciega el sentido para no discernir.\n\nCon ávidos cirujanos y filtros de ilusión,\nSe modela la arcilla del fugaz parecer;\nLa piel se estira y tensa, sin rastro de emoción,\nBuscando un nuevo rostro que pueda complacer.\n\nY así, el plasma, el botox, el oro y el marfil,\nDan a la mascarada su toque imperial,\nUn *brillo* de artificio, engaño sutil,\nQue esconde la miseria del alma espiritual.\n\nPues mientras el exterior proclama su esplendor,\nEl vacío carcome el espíritu y el ser;\nY cuando el tiempo ruge, con su cruel fragor,\nSolo resta la nada, ¡ay, vano padecer!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

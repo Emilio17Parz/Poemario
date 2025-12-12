@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cayó la máscara de la mentira,\ny la verdad se mostró cruel,\nhiel amarga en lugar de miel,\nque el corazón roto respira.\n\nCanto a la muerte de la confianza,\nmonumento roto en el suelo,\nya no hay fe ni queda consuelo,\nsolo el final de la esperanza.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

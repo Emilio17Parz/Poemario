@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fue en la orilla de aquel río\ndonde me diste tu boca,\ny sentí que el mundo entero\nse volvía cosa poca.\nEl agua corría mansa\ny la pasión se desboca,\ndejando en mi corazón\nuna huella que me toca.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "beso"
+  }
+}

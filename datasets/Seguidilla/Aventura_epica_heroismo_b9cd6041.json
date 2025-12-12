@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Defiende con su acero\ny con espada,\nla justicia en la dura\ny cruel jornada.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "espada"
+  }
+}

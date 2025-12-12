@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La maleta está lista en el pasillo,\nllena de ropa y de silencios.\nNo hacen falta gritos,\nel aire ya pesa suficiente.\nTu adiós es una puerta que se cierra\nlentamente,\ndejándome del lado del invierno,\nviéndote partir hacia la nada.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cazo palabras al vuelo,\npara hacer un collar,\nde rimas y de sonidos\nque puedan brillar.\nLa poesía es la llave,\npara despertar,\nla belleza escondida\nen el verbo amar.\nVersos de ocho sílabas,\npara cantar,\nlas historias del alma\ny su penar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "verso"
+  }
+}

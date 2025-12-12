@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Consolar al que queda,\nes obra de piedad,\nque el amor pueda,\nvencer la soledad.\nAcompaña en silencio,\nese es el precio.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Consuelo"
+  }
+}

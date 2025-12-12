@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La nave que surca la mar,\nsu vela que quiere anclar.\nEs lucha y es fe,\nsin un solo sé,\nel alma que busca el lugar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Nave"
+  }
+}

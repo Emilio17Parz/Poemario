@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un camino,\nque hay que andar,\nsin volver la vista,\npara mirar.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "camino"
+  }
+}

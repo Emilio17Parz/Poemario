@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Arde ya\nla llama\ndel ser\nla llama\narde ya",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "El alma, cueva honda, de silencios llena,\nDonde la luz del mundo rara vez penetra,\nY la verdad desnuda, sin que nadie la veta,\nEn su morada interna, halla su propia cadena.\n\nAllí, sin máscaras que el exterior condena,\nEl eco del pasado, sutil, se nos muestra,\nUn laberinto oscuro que a su vez se adiestra,\nA descifrar la esencia que la vida nos ordena.\n\nY en ese viaje mudo, donde el tiempo se detiene,\nDescubro un universo que en mi pecho se agiganta,\nUn manantial profundo de donde el ser emana.\n\nEl propio espejo roto, que al fin me sostiene,\nUn **secreto** antiguo que mi espíritu decanta,\nLa voz de lo que soy, que mi existencia hermana.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Luz pequeña que brilla en la tormenta,\nverde brote en la rama seca y fría,\nla guía,\nque el ánimo caído retroalimenta.\nNunca te apagues, llama del consuelo,\nmi anhelo,\nes que me lleves lejos del abismo,\ncon optimismo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "verde"
+  }
+}

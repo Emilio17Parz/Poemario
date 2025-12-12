@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Echo de menos tus manos suaves,\nque tejían caricias en mi soledad,\nhoy solo siento la frialdad,\ny el peso terrible de todas las llaves.\n\nLlaves de puertas que cierran las naves,\ndonde embarcamos nuestra felicidad,\nperdiéndonos en la inmensidad,\ncomo dos tristes y perdidas aves.\n\nManos que ya no me tocan ni sienten,\ny en el vacío del tiempo me mienten.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "manos"
+  }
+}

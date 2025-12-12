@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El fin susurra, la vida cede.\nSe apaga el fuego, todo se pierde.\nHacia la eternidad el velo se tiende.\nSe apaga el fuego, todo se pierde.\nEl fin susurra, la vida cede.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

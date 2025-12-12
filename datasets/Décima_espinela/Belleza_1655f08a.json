@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Siete colores brillantes\ncruzan el cielo gris,\nsobre el verde matiz\nde los campos distantes.\nSon puentes gigantes\nque la luz ha creado,\nun fenómeno sagrado\nque a todos nos fascina,\ncuando el sol ilumina\nel mundo mojado.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "arcoíris"
+  }
+}

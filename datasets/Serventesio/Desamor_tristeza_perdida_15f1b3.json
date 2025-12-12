@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soy solo una sombra que vaga sin dirección (A),\nbuscando tu rastro, tu fugaz calor (B),\nla vida es un eco, sin compasión (A),\nla ausencia del puro amor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

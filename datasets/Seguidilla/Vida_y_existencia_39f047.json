@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco el sentido,\nde mi vivir,\npara dejar,\nde sufrir.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "vivir"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Yo estaba muerto antes de conocerte,\nuna sombra vagando sin destino,\nun viajero perdido en el camino\nque esperaba impaciente a la muerte.\n\nPero llegaste tú para quererte,\ny cambiaste el agua en dulce vino,\nme diste un propósito divino\ny la fuerza para volver a verte.\n\nAhora vivo, respiro y siento,\ngracias a la luz de tu mirada\nque borró mi antiguo lamento.\n\nEres la aurora en la madrugada,\nel aire, el fuego y el alimento,\nde esta vida que estaba apagada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "vino"
+  }
+}

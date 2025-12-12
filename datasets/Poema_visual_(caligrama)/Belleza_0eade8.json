@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Base firme\nfuste recto\ncapitel alto\norden griego\nproporción\npiedra bella\nsostén.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "arquitectura"
+  }
+}

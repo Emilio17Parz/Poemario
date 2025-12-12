@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa el cuerpo en la tumba,\nmientras el mundo retumba,\ny la vida se derrumba.\nDescansa el cuerpo en la tumba,\nla oscuridad le sucumba,\ny la soledad le zumba.\nDescansa el cuerpo en la tumba,\nmientras el mundo retumba.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Duerme el sueño,\neterno ya,\nque te da,\nel dueño.\nPequeño,\nsofá.\nDuerme el sueño.\n\nDescansa en paz,\nguerrero,\nviajero,\ntenaz.\nCapaz,\ny sincero.\nDuerme el sueño.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

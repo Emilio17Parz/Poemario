@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Malditos celos que me devoran,\nal ver que otro te ronda la puerta,\nmis ojos tristes por ti lloran,\nmi alma se queda sola y desierta.\nSi tu traición resulta cierta,\ndejaré mi esperanza muerta.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "celos"
+  }
+}

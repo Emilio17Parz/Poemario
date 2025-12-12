@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Árboles y espesura,\nforman el paisaje,\ncon su verde traje,\nde gran hermosura.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

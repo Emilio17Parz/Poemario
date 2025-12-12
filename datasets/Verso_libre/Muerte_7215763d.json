@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un puñado de polvo gris.\nEso queda del fuego, de la risa,\nde los abrazos y las lágrimas.\nCabe en una mano,\npero pesaba un universo.\nEl viento lo dispersa,\nlo devuelve al ciclo,\ny la materia olvida que tuvo nombre.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

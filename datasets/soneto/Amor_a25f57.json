@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si alguna vez te herí sin darme cuenta,\nsi dije la palabra equivocada,\nsi deje tu ilusión desamparada,\ny el alma se tornó gris y violenta.\n\nTe pido que el rencor no se fomenta,\nque borres esa página manchada,\nque vuelva tu mirada enamorada\ny pase esta terrible y dura afrenta.\n\nEl hombre es error y es caída,\nmas puede levantarse y enmendar,\nbuscando la vereda y la salida.\n\nPrometo no volverte a lastimar,\nhacer de tu sonrisa mi medida,\ny solo dedicarme a bien amar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

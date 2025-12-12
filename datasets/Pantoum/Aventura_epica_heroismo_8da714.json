@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan tambores de guerra,\nfilas de hombres armados,\ntiembla la tierra,\npor los soldados.\n\nFilas de hombres armados,\ngritos y choque de hierro,\npor los soldados,\nun triste entierro.\n\nGritos y choque de hierro,\nsuenan tambores de guerra,\nun triste entierro,\ntiembla la tierra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

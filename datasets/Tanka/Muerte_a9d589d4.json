@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cae el último sol,\nla sombra viene, fría y cruel.\nVelo de quietud,\nel alma cruza al más allá,\ndulce paz en la nada.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Imperios de oro se vuelven arena,\ntorres de orgullo se vienen abajo,\nla muerte nos libra de toda cadena,\ny premia con paz el duro trabajo.\nPolvo fuimos y al polvo volvemos,\nen el gran ciclo que no comprendemos.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se vende el amor cual mercancía fina,\ncon lazo de cliché y pasión prefabricada.\nPromesas que el futuro no ilumina,\ny un alma que de fábrica fue programada.\n\nCon flores que se marchitan al instante,\ny versos recitados de un blog barato.\nEl gesto es teatral, siempre constante,\n¡qué pena que el sentir no sea tan grato!\n\nEl \"te amo\" es un mantra, casi un ritual,\nseguido de un **abrazo** bien medido.\nPara el post en las redes, fenomenal,\nque el mundo vea lo que uno ha \"sufrido\".\n\nSe busca la pareja, el complemento,\nno por alma gemela, ¡qué insensatez!\nMas por el diezmo social, el acoplamiento,\no por la cuenta en banco y la liquidez.\n\nAsí el Cupido actual, con flecha de botón,\nsubasta corazones cual cartera de acciones.\nY el amor es un \"like\", una falsa emoción,\nentre efímeras glorias y fútiles pasiones.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

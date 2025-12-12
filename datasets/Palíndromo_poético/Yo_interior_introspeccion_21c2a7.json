@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Luz soy\nen mi\nalma\nen mi\nluz soy",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "luz"
+  }
+}

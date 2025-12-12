@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "De negro riguroso va,\npero el ojo le brilla,\nla herencia ya está,\nen su propia casilla.\nLlora con un solo ojo,\ny con el otro busca el antojo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Viuda"
+  }
+}

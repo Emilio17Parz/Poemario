@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Él mezclaba colores en la paleta,\nella posaba quieta en el sofá,\nla luz de la tarde se iba y se va,\npero él buscaba la forma completa.\nCapturó en el lienzo su mirar,\nel brillo dorado de su cabello,\ncreando un cuadro que era tan bello,\nque el tiempo no podría borrar.\nAl terminar, dejó el pincel,\ny besó los labios de miel.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "lienzo"
+  }
+}

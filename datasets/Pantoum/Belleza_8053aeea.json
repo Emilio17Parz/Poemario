@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canta mi musa,\nversos de oro,\nsin excusa,\nque yo atesoro.\n\nVersos de oro,\nme dicta ayer,\nque yo atesoro,\nen mi ser.\n\nMe dicta ayer,\ncanta mi musa,\nen mi ser,\nsin excusa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "musa"
+  }
+}

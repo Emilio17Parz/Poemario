@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un suspiro se escapa de mi pecho,\nrecordando tus besos y tu olor,\npensando en el camino que hemos hecho,\ny en la fuerza de nuestro gran fervor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "suspiro"
+  }
+}

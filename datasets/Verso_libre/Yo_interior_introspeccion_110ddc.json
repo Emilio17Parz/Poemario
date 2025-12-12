@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi miedo tiene mi cara.\nSe sienta a los pies de mi cama\ny me cuenta historias de fracaso.\nHe aprendido a escucharlo\nsin obedecerlo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca un 'porqué' para vivir,\ny el 'cómo' podrás resistir.\nEl hombre necesita meta,\ncomo la flecha en la saeta.\nSin un sentido, la vida es,\nun barco perdido al revés.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "propósito"
+  }
+}

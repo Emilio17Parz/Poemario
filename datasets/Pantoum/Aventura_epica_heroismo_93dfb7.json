@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Abro el cofre pesado,\nbrillo de joyas y plata,\npremio buscado,\npor el pirata.\n\nBrillo de joyas y plata,\nriqueza de mil años,\npor el pirata,\ny sus engaños.\n\nRiqueza de mil años,\nabro el cofre pesado,\ny sus engaños,\npremio buscado.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

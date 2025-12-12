@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro la inmensidad del cielo,\nsembrado de estrellas brillantes,\nalzando mi espíritu en vuelo,\nhacia mundos que son distantes.\n\nSembrado de estrellas brillantes,\nque guían la noche oscura,\nhacia mundos que son distantes,\ncon su eterna y gran hermosura.\n\nQue guían la noche oscura,\nmiro la inmensidad del cielo,\ncon su eterna y gran hermosura,\nalzando mi espíritu en vuelo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

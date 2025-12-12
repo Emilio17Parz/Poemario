@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Todo es ya niebla,\nel recuerdo se diluye,\nno queda claridad.\nSolo la vaga agonía,\nde saber que ya no estás.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Niebla"
+  }
+}

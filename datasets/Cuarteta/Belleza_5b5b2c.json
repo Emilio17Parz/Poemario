@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mármol pulido de la estatua fría,\nmuestra la forma perfecta y sutil,\nla obra del arte, la melodía,\nque al alma inspira, cual dulce misil.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Mármol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hay belleza en la piedra rota,\nen el muro cubierto de hiedra,\ndonde el tiempo medra,\ny la historia explota.\n\nLa gloria remota,\nse empiedra,\ny se arredra,\nla derrota.\n\nMelancolía de lo antiguo,\nque nos habla bajito,\ny contiguo.\n\nAl mito,\nque sigo,\ny grito.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

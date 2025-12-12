@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Me visita la divina musa,\npara inspirar mi pobre canción,\ny mi pluma a seguirla no rehúsa.\n\nCon una gracia dulce y profusa,\nllena de luz mi corazón,\nme visita la divina musa.\n\nNo pone traba ni pone excusa,\npara encender la imaginación,\ny mi pluma a seguirla no rehúsa.\n\nElla es la fuente que se usa,\npara la artística creación,\nme visita la divina musa.\n\nToda tristeza ella la expulsa,\ncon su belleza y su pasión,\ny mi pluma a seguirla no rehúsa.\n\nEs la presencia que me encausa,\nhacia la lírica perfección,\nme visita la divina musa,\ny mi pluma a seguirla no rehúsa.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "musa"
+  }
+}

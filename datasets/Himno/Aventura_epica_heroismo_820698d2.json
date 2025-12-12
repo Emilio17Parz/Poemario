@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hemos llegado a la alta cima,\ntras el esfuerzo y la escalada,\nla meta ha sido conquistada,\ny el alma entera se reanima.\n\nDesde lo alto el mundo se ve,\npequeño ante nuestra voluntad,\nhemos vencido la dificultad,\ncon la constancia y con la fe.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "cumbre"
+  }
+}

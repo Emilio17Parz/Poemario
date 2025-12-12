@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Como diamante que en la noche arde,\nla estrella envía su rayo de plata,\ncon una luz que a mi vista ata,\nantes que el sol se levante tarde.\nQue su fulgor en mi pecho guarde,\nesta belleza que nunca se mata.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

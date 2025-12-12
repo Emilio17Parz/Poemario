@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza se anida en cada trazo,\nUn don que el tiempo, etéreo, no desplaza,\nY el alma encuentra un dulce y fiel abrazo.\n\nEn la sonrisa, el vuelo de un regazo,\nQue el corazón con su sentir enlaza,\nLa belleza se anida en cada trazo.\n\nMi mente busca, sin dudar un paso,\nLa inspiración que mi sentir amasa,\nY el alma encuentra un dulce y fiel abrazo.\n\nCuando mi musa se revela sin acazo,\nY en su mirada, la verdad me traspasa,\nLa belleza se anida en cada trazo.\n\nEn el silencio o en el ruido escaso,\nLa perfección que el universo traza,\nY el alma encuentra un dulce y fiel abrazo.\n\nAsí la vida cumple su compaso,\nCon cada instante que su luz rebasa,\nLa belleza se anida en cada trazo,\nY el alma encuentra un dulce y fiel abrazo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "musa"
+  }
+}

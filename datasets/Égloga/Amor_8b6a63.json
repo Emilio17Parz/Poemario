@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si llueve, ven a mi cabaña,\nque el fuego está listo y caliente,\ny olvida el rumor de la gente,\ny la lluvia que el campo baña.\n\nAquí no llega la artimaña,\nsolo la paz de dos que se quieren,\ny que en sus besos nunca mueren,\nlejos de toda humana cizaña.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cabaña"
+  }
+}

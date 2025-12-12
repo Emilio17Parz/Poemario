@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Qué frío hace en la sala de la muerte,\ndonde la soledad es nuestra suerte.\n\nNadie te acompaña, nadie te advierte,\nsolo la oscuridad viene a verte.\n\nEs el destino que nos convierte,\nen sombra y recuerdo, en algo inerte.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "frío"
+  }
+}

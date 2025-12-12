@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Quien busca la gran verdad\nen libros y en opiniones,\nhallará contradicciones\ny mucha oscuridad.\nEstá en la simplicidad\nde la risa de un infante,\nen el brillo del diamante\nque es el sol de la mañana,\ny en la voz que, soberana,\nnos habla en cada instante.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

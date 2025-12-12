@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La montaña exige respeto.\nCada metro ganado es una victoria\ncontra la gravedad y el cansancio.\nEl aire se hace fino,\nel frío muerde.\nPero en la cima,\nel mundo se rinde a tus pies\ny tocas el cielo con las manos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "cima"
+  }
+}

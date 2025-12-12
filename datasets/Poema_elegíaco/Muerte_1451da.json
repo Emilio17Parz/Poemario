@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El viaje es al centro de la oscura verdad,\nla vida sin el cuerpo, la soledad.\nCruzaste el umbral sin equipaje ni fe,\nla sombra constante sin saber el qué.\n\nNo hay vuelta al camino, no hay un por qué,\nla vida sin la calma, sin tener fe.\nMi destino es la nada, fría y sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

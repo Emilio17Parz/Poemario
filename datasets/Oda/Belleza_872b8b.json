@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Nieve que cubres la tierra dormida,\nmanto de calma y silencio total.\nTu pureza al alma convida,\na la nobleza de lo esencial.\n¡Oh, cristal frágil, de blanco fulgor,\ntraes la calma con gran valor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Nieve"
+  }
+}

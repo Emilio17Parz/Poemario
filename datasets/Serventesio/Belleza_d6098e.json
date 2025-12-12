@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El silencio esconde la gran paz sin dudar (A),\nque el alma descubre con gran placer (B),\nla vida es un canto, que sabe sanar (A),\nla fuerza que ayuda a crecer (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

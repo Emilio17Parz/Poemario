@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La puerta se abre al vacío sin fin,\nel paso al misterio, la gran verdad,\nla vida es un breve y triste trajín,\nla eterna y cruel soledad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Puerta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estaba escrito en libros el gran destino,\nque cruzaras tus pasos en mi destino.\n\nHuía yo del mundo y de su ruido,\npero tú me esperabas en el destino.\n\nAhora vamos juntos hacia el mismo final,\nabrazando la suerte de nuestro destino.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "destino"
+  }
+}

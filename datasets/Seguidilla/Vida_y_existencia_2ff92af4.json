@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, dulce pena,\nes un camino,\nque el tiempo nos condena\na nuestro sino.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

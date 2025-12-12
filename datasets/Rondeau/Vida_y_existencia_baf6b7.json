@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nuestra raíz,\nes la matriz.\nDel origen,\nque nos rigen,\nfeliz.\n\nLa perdiz,\ny el maíz.\nNos dirigen,\nnuestra raíz.\n\nLa cicatriz,\ndel barniz.\nCorrigen,\ny exigen,\nel cariz,\nnuestra raíz.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "raíz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hay belleza en no decir nada,\nen escuchar el respirar,\nde la tierra al despertar,\nen la tranquila madrugada.\n\nLa paz perfecta y sosegada,\nes el adorno más precioso,\nque hace este sitio hermoso,\ny la vida bien amada.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

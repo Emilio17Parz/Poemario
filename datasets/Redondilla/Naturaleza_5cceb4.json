@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El frío ha llegado,\ncon su capa blanca,\ny el río se estanca,\nen el prado helado.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

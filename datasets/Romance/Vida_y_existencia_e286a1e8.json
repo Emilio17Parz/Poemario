@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco el norte de mi vida,\ncon la brújula rota,\nperdido en el mar inmenso\ndonde mi barca flota.\n¿Para qué estamos aquí?,\npregunta mi alma devota,\nmientras la duda persiste\ngota a gota.\nQuizás el sentido sea,\nla misma ruta ignota,\ny vivir cada momento\ncomo la última nota.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "brújula"
+  }
+}

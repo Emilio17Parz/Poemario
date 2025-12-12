@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "TIRSIS: ¿Viste a Cloe hablar con Damón?\nMENALCAS: La vi junto a la fuente clara.\nTIRSIS: ¡Ay, que el alma se me despara!\nSiento en el pecho un aguijón.\nElla juróme su corazón,\nmas su mirada es vara,\nque hiere y nunca repara,\nesta celosa pasión.\nNo hay paz para quien ama,\nsi la duda enciende la llama,\ny la confianza derrama.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "duda"
+  }
+}

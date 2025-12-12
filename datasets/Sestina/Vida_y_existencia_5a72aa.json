@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nEl elegir me llama sin un solo fin (E1: fin)\nMi vida es la senda que quiero ya ver (E2: ver)\nLa razón me inunda sin un final (E3: final)\nEl gozo me cubre sin un gran dolor (E4: dolor)\nLa fuerza me impulsa a volver a crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nLa senda que quiero al fin crecer (E2, E5)\nEl dolor me da sin un final (E4, E3)\nSin un error, sin un fin (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Elegir"
+  }
+}

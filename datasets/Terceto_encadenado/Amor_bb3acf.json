@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus manos son palomas que se posan,\nsobre mi piel cansada y dolorida,\ny en ellas mis anhelos hoy reposan.\n\nSon el bálsamo suave de mi vida,\nque cura cicatrices del pasado,\ny cierra para siempre cada herida.\n\nDe un tiempo desolado.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "manos"
+  }
+}

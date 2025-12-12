@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se abre el pétalo suave,\nal beso del amanecer,\ncomo el vuelo de un ave.\n\nNadie tiene la clave,\nde su hermoso florecer,\nse abre el pétalo suave.\n\nAunque el tiempo la acabe,\ny la haga perecer,\ncomo el vuelo de un ave.\n\nSu belleza es la nave,\nque nos hace comprender,\nse abre el pétalo suave.\n\nNo hay pena que la trabe,\nni miedo a caer,\ncomo el vuelo de un ave.\n\nEn su aroma cabe,\ntodo el placer,\nse abre el pétalo suave,\ncomo el vuelo de un ave.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "flor"
+  }
+}

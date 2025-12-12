@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Las cadenas del pasado me atan,\na un recuerdo que ya no es real,\nlas horas huyen y me maltratan,\nen este infierno personal.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Cadenas"
+  }
+}

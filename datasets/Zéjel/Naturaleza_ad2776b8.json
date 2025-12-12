@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde manto que la tierra viste,\nCanto puro que el alma asiste.\n\nMontes altos, río que persiste,\nEl murmullo que nunca desiste,\nCada amanecer que nos reviste,\nVerde manto que la tierra viste,\nCanto puro que el alma asiste.\n\nEn el prado, una hermosa flor,\nDespliega su dulce candor,\nRegalo del Creador, con amor,\nVerde manto que la tierra viste,\nCanto puro que el alma asiste.\n\nSavia que por las venas corre,\nLa vida que en todo se socorre,\nFuerza que el tiempo no corroe,\nVerde manto que la tierra viste,\nCanto puro que el alma asiste.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "flor"
+  }
+}

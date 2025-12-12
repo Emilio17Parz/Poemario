@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Miedo al mañana,\nTenemos todos,\nEn la ventana.\nMiedo al mañana,\nDe forma insana,\nDe muchos modos.\nMiedo al mañana,\nTenemos todos.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La vida es un juego\nque hay que jugar,\naunque las reglas\nno sepas usar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

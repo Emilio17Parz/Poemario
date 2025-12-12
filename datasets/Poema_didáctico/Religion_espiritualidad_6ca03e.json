@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El ego es la máscara,\nque oculta el ser,\nrompe la cáscara,\npara ver.\nMuere al yo falso,\ny evita el cadalso.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Ego"
+  }
+}

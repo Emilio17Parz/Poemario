@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pasa veloz e inexorable el tiempo,\ncomo saeta que el arquero envía,\ny se nos gasta la vital energía\nen el afán de algún contratiempo.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

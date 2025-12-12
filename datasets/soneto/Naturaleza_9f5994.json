@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Invisible viajero sin frontera,\nque agitas las espigas en el campo,\ny traes el fuego, la lluvia o el lampo,\ncorriendo libre por la carretera.\n\nNadie te ve, mas tu fuerza es veraz,\narrancas hojas y empujas las nubes,\ny a las alturas con ímpetu subes,\nmostrando tu poder y tu faz.\n\nSusurras cuentos en la chimenea,\ny aúllas triste en la noche cerrada,\ncomo un fantasma que el miedo crea.\n\nEres la voz de la tierra sagrada,\nque limpia, que arrastra y que golpea,\ndejando la atmósfera renovada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "viento"
+  }
+}

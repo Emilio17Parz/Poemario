@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dura un instante la rosa abierta,\nel destello del sol en el agua,\nel fuego que pronto se fragua,\ny deja la leña muerta.\n\nLa belleza es cosa incierta,\nque el tiempo celoso enjuaga,\nuna dulce y breve llaga,\nque nos deja el alma despierta.\n\nHay que amarla mientras dura,\nbeberla de un solo trago,\nantes de la noche oscura.\n\nPues luego queda el estrago,\nde la memoria y su tortura,\ny el deseo vago y aciago.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "efímera"
+  }
+}

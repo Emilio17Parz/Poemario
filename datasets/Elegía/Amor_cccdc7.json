@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Manos que un día se unieron con fervor,\nhoy el destino las quiso ya separar.\nSiento el vacío, la ausencia, el dolor,\nel alma no puede sino lamentar.\nNo queda el sostén, ni el amparo firme,\nsolo la pena que nadie me confirme.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Manos"
+  }
+}

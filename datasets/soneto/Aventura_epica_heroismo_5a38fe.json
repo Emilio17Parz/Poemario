@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se cuenta junto al fogón,\nla historia de los gigantes,\nde los héroes y amantes,\nque tuvieron gran corazón.\n\nSe mezcla verdad y ficción,\nen relatos fascinantes,\nde tiempos y seres distantes,\nque causan admiración.\n\nLa leyenda nunca muere,\npues vive en la voz del pueblo,\nque recordar la prefiere.\n\nEntre la bruma y el nieblo,\nsu magia siempre nos hiere,\ny nos libra del tinieblo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

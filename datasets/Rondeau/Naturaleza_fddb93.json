@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El atardecer,\nal caer.\nRojo cielo,\nque es consuelo,\ndel querer.\n\nVa a doler,\nel perder.\nEl velo,\nel atardecer.\n\nSin saber,\nni entender.\nEl duelo,\ndel suelo,\nque ha de ser,\nel atardecer.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

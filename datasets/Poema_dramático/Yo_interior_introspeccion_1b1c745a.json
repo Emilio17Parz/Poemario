@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "YO: Vete, Pasado, déjame ya.\nPASADO: Soy tu sombra, donde vas, va.\nYO: Me duelen tus viejas heridas.\nPASADO: Son lecciones aprendidas.\nYO: Quiero vivir el hoy, el ahora.\nPASADO: Yo soy la raíz que te ancora.\nYO: Te suelto, te perdono, te olvido.\nPASADO: Entonces, al fin, te has ido.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

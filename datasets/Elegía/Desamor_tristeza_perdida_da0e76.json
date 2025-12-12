@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No hay nada adentro, solo el eco,\nde un grito que nadie quiso escuchar,\nun pozo negro difícil de llenar,\nun árbol viejo, podrido y seco.\n\nCamino por la vida como un muñeco,\nsin cuerdas, sin rumbo, sin descansar,\nbuscando algo que me pueda salvar,\nde este vacío que es mi chaleco.\n\nHueco profundo donde habita la nada,\ny la esperanza yace asesinada.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

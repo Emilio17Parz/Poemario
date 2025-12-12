@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu luz ilumina mi oscura alma,\nme guía en la noche sin dirección,\ntrayendo a mi vida la dulce calma.\n\nEres el oasis, la verde palma,\nque crece en medio de mi corazón,\ntu luz ilumina mi oscura alma.\n\nCuando la tormenta ruge y se ensalma,\ntu voz es mi abrigo y mi protección,\ntrayendo a mi vida la dulce calma.\n\nSi el mundo me hiere o me desalma,\ntú curas mi herida con gran pasión,\ntu luz ilumina mi oscura alma.\n\nNada me turba, nada me empalma,\nsi tengo tu amor como bendición,\ntrayendo a mi vida la dulce calma.\n\nPor eso mi ser te busca y te ensalma,\ncon toda mi fuerza y mi devoción,\ntu luz ilumina mi oscura alma,\ntrayendo a mi vida la dulce calma.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "alma"
+  }
+}

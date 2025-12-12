@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La voz se ha apagado, el eco se fue ya sin piedad y cruel,\nla vida sin la calma, con sabor amargo a hiel.\nEl silencio es el dueño de la boca sin voz sin luz ni razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la melodía que el alma no pudo cantar jamás sin paz ni voz,\ny mi ser es la ruina de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "voz"
+  }
+}

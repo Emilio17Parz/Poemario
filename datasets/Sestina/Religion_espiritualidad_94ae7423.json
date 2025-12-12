@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Susurro mi oración,\nen el silencio del templo,\ncon el corazón abierto.\nNo quiero ser un experto,\nsino un hijo que confía,\nen la gracia del Padre.\n\nGracia del Padre,\nmi oración,\nde cada día.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "oración"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Árbol con ramas que buscan el sol,\ncuerpo de vida, de noble sostén.\nOfreces tu sombra, cumples tu rol,\nsin un lamento ni un vaivén.\n¡Oh, ser de madera, de eterno verdor,\nme das la paz y el amor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Árbol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Subió a la torre,\npor la enredadera,\nde forma ligera,\nque el miedo borre.\nMató al guardián,\ny abrió la celda,\nla dama rebelde,\nle dio un mazapán.\nBajaron los dos,\ndiciendo adiós.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "torre"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Duerme tranquilo en la fría tumba,\nlejos del ruido y la vanidad,\nmientras el mundo a lo lejos retumba,\nél ya descansa en la eternidad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

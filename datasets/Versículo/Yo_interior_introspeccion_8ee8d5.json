@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mis deseos son caballos salvajes que tiran de mí en mil direcciones opuestas.\nAprender a llevar las riendas no es reprimirlos, es canalizar su fuerza hacia un propósito que valga la pena.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

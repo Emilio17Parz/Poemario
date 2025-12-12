@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el fin con paso lento,\nse termina la jornada,\ny la vida, tan amada,\nse disuelve en el momento.\nSe detiene el pensamiento,\nya no hay ruido ni dolor,\nse ha apagado el resplandor,\ny el cuerpo descansa en paz,\nbajo el pálido disfraz,\ndel silencio y su rigor.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "final"
+  }
+}

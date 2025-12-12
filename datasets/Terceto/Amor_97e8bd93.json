@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El corazón, con dulce palpitar,\nun fuego eterno enciende con fervor,\nque solo tú me ayudas a avivar.\n\nPor ti, mi mundo cobra nuevo color,\ny en cada suspiro mi anhelo te nombra,\nla esencia pura de mi gran amor.\n\nNi sombra alguna el sentimiento asombra,\npues la verdad profunda de mi **alma** te llama,\ny el eco de tu voz en mi ser resombra.\n\nTu luz es la que en mi interior derrama\nun torrente de paz, que me hace creer,\nen esta eterna e incesante llama.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verbo que canta, rima y sentimiento,\nverso que guarda la esencia del ser,\nbella palabra que nos hace ver,\nritmo del alma.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

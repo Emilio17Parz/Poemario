@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pobre corazón hecho pedazos,\nya no latiendo con ilusión,\nbuscando el calor de otros brazos,\npara sanar esta decepción.\nCanto esta triste y gris canción,\npidiendo al cielo la curación.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

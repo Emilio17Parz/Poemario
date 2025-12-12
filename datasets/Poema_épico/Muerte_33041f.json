@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lloran las viudas vestidas de luto,\nla llama de cera vacila y muere,\nel tiempo se para en un minuto,\ny el alma del muerto ya no se hiere.\nGuardia de honor ante el cuerpo frío,\nadiós al amigo, al padre, al tío.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Velatorio"
+  }
+}

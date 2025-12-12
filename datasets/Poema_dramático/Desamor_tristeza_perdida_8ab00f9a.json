@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "TRANSEÚNTE: A un lado, borracho, déjame pasar.\nVAGABUNDO: Señor, yo tuve un hogar y un amar.\nTRANSEÚNTE: No me interesan tus cuentos de ayer.\nVAGABUNDO: Tuve hijos, trabajo y una mujer.\nPero la vida golpea sin avisar.\nTRANSEÚNTE: Toma una moneda y deja de hablar.\nVAGABUNDO: (Mirando la moneda) Compra pan, no consuelo.\nQué frío está hoy el suelo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "calle"
+  }
+}

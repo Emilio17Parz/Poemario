@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Papel arrugado con líneas de tinta.\nPromesa de mundos nuevos.\nDonde termina el dibujo\nempieza la aventura,\nen ese espacio en blanco\ndonde habitan los leones.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

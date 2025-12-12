@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Volvieron los barcos cargados de oro,\npero faltaban los hombres valientes.\nHabían ganado laureles ardientes,\npero pagaron con sangre el tesoro.\nLa gloria es mujer de precio muy alto,\nque exige la vida en cada asalto.\nSus nombres se cantan en el salón,\npero ellos duermen en el panteón.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

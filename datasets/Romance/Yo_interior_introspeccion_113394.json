@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tengo miedo a la oscuridad\ny a quedarme solo,\na que nadie me recuerde\nni me sirva de polo.\nEl miedo es un fantasma\nque me agarra del hombro,\ny me impide ser feliz\nentre tanto escombro.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

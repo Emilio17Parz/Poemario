@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "F ragancia que perfuma,\nL inda en la primavera,\nO freces tu hermosura,\nR eina de la pradera.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "flor"
+  }
+}

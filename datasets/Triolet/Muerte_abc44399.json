@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se apaga la luz,\nla vida termina,\ncargando la cruz.\nSe apaga la luz,\nsin un trasluz,\nla muerte camina.\nSe apaga la luz,\nla vida termina.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "luz"
+  }
+}

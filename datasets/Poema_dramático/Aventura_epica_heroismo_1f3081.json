@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL JOVEN GUERRERO]\n(Ante el líder)\nNo me pidas piedad, pídeme el hacha. Mi destino no es morir en mi cama.\nDame la primera línea. Dame el combate más feroz. Quiero ganarme mi nombre.\nLa gloria no es un premio, es la única forma de escapar de la mediocridad.\nSi no vuelvo, que mi tumba sea el grito de que al menos lo intenté.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

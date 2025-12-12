@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "[EL AMIGO]\n(Viendo partir a su amigo a la guerra)\nVe, y no me pidas que te entienda. El deber es más grande que nuestra risa.\nLa amistad es el puente que construimos sobre el abismo del miedo.\nJuro que si no vuelves, yo llevaré tu nombre como una bandera de honor.\nPero si regresas, te esperaré aquí, con el mismo vino y la misma silla vacía.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "amistad"
+  }
+}

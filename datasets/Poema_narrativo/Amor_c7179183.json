@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Habían pasado diez años de hielo,\ndesde la disputa que los separó,\ncada uno su vida continuó,\npero con un constante desvelo.\nSe vieron de nuevo en el café,\nlas canas marcaban ya su sien,\npreguntaron: ¿Estás bien?\nY el orgullo se fue.\nSe dieron la mano con emoción,\ny sellaron su reconciliación.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus labios saben a miel,\nEndulzan mi amargo dolor,\nSon suaves sobre mi piel.\nTus labios saben a miel,\nYo siempre te seré fiel,\nTe tengo un inmenso amor.\nTus labios saben a miel,\nEndulzan mi amargo dolor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "labios"
+  }
+}

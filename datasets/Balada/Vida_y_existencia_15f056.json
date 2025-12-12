@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nada es estático en la vida,\ntodo se mueve y se transformó,\nla vieja piel es desprendida,\ny lo que fuimos ya cambió.\nHay que fluir con la corriente,\ny aceptar la mutación,\npara vivir el presente,\ncon renovada ilusión.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

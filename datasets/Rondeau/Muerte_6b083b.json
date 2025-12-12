@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Queda el recuerdo,\nsi no me pierdo.\nEn la mente,\npresente,\ny cuerdo.\n\nYo muerdo,\nel acuerdo.\nLa gente,\nqueda el recuerdo.\n\nEl cerdo,\ny el lerdo.\nLatente,\nla fuente,\ndel izquierdo,\nqueda el recuerdo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

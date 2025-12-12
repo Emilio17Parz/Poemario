@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro de plata que la noche vistes,\nmiras el mundo con tu faz serena,\nguía del hombre que perdido vaga\ncon alma en pena.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "luna"
+  }
+}

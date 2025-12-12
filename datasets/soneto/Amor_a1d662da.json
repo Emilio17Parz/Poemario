@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Guardo en la mente el día que llegaste,\nvestida de color y de alegría,\ny cómo transformaste el alma mía\ncon la dulce sonrisa que me daste.\n\nNo olvido aquel momento que paraste\nel reloj de mi antigua cobardía,\ny me llenaste de la valentía\nque con tus suaves manos me inyectaste.\n\nHoy que el amor es árbol de raíces,\nvuelvo a mirar atrás con regocijo,\nviendo cerrar antiguas cicatrices.\n\nEres el sueño que mi suerte elijo,\ny en el recuerdo de horas tan felices,\nencuentro siempre al corazón prolijo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

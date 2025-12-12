@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Luz que no muere aunque la noche caiga,\namor que espera y que el bien nos traiga.\nFuerza que mira hacia el futuro día,\ncon fe constante y con valentía.\n\n¡Salve, esperanza del amor naciente,\nagua que brota de la eterna fuente!\nSostén del alma en la dificultad,\ncamino cierto a la felicidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

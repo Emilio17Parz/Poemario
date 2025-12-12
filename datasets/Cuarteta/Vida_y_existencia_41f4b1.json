@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Escucha la voz de tu corazón,\nel tambor sagrado de tu existir,\nes tu guía, tu única razón,\nla luz que te ayuda a seguir.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Corazón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acaba la arena, se acaba el tiempo,\nla muerte detiene la rueda del tiempo.\n\nNo valen ruegos ni tratos ni oros,\nimplacable juez es el fin del tiempo.\n\nLo que no hiciste ya no harás,\nporque ha llegado el final del tiempo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es bregar contra la ola,\nque nos golpea sin piedad,\na veces el alma se siente sola,\nen la terrible tempestad.\nPero el guerrero no se rinde,\ny sigue a flote con valor,\nhasta que el sol su luz le brinde,\ny se termine el dolor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo en su lugar,\nequilibrio justo.\nPara el hogar,\ny para el gusto.\n\nEquilibrio justo,\npaz visual.\nY para el gusto,\nalgo sensual.\n\nPaz visual,\ntodo en su lugar.\nAlgo sensual,\npara el hogar.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

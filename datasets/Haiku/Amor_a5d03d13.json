@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi alma te busca,\nEn mi corazón vibras,\nEterno querer.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

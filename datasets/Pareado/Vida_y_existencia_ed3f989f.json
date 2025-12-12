@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Los años traen saber,\ny un nuevo modo de ver.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "saber"
+  }
+}

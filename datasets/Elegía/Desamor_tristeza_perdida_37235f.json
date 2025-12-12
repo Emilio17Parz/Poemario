@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Ay de mí! que escucho el Adiós amargo,\npalabra que el alma no puede aceptar.\nEl alma se queja con un lamento largo,\nla pena me obliga a llorar.\nEl grito es mudo, la herida es total,\nla condena del alma sin un final.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

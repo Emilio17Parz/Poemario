@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscas tu propio camino,\nleyendo el horóscopo chino.\nSigues a un gurú de moda,\nque te estafa y te incomoda.\nTu camino está muy claro:\nhacia el desastre, y sin faro.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Es hora de decir el triste adiós,\nde soltar las amarras y partir,\nya no tiene sentido el insistir\ncuando se ha roto el lazo de los dos.\n\nQue te guarde y te cuide el buen Dios,\npues yo ya no te puedo seguir,\ntengo que buscar forma de vivir\nsin escuchar el eco de tu voz.\n\nMe llevo los recuerdos en la maleta,\nlos besos, las risas y el llanto,\ny cierro de esta historia la carpeta.\n\nAunque me duela y me cueste tanto,\nrompo la cadena que me aprieta\ny escapo de tu nocivo encanto.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "adios"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se han vestido de gris las montañas,\nla niebla baja a cubrir el suelo,\ncomo un triste y pesado velo,\nque oculta las verdes entrañas.\n\nLa naturaleza siente el duelo,\npor la partida de la zagala,\nque cortó de su vida el ala,\ny emprendió hacia lo alto el vuelo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luto"
+  }
+}

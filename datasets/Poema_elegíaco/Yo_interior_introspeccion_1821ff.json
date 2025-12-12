@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El silencio me juzga, la calma es la burla que el alma me da sin fe, cruel y sin razón fiel,\nla vida sin la calma, con sabor amargo a hiel.\nLa palabra es la condena que el cuerpo me impone ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la voz que mi mente no puede soltar jamás sin voz ni paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

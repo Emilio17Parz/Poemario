@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Ya no sé ni quién soy yo\nentre tanta gente extraña,\nsoy la rama que se seca\no la que el viento acompaña.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El honor no está en el apellido,\nni en la sangre que corre en la vena;\nestá en la conducta noble y buena,\ny en el deber que se ha cumplido.\nSe honra a sí mismo quien es justo,\ny vive la vida con buen gusto.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "honor"
+  }
+}

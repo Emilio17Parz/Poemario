@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El grito se queda\natascado en la garganta.\nLa voz no me obedece\ny mi ser me espanta.\n\nHay un dolor profundo\nque no quiere salir,\nel final del mundo\nque no puedo huir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "grito"
+  }
+}

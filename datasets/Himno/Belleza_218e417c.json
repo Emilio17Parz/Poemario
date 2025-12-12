@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piedra sobre piedra levantada,\nbuscando el cielo con altivez,\nfirmeza, fuerza y solidez,\nen la columna y la portada.\n\nHimno de mármol y de granito,\nque desafía la eternidad,\ncreando espacios de majestad,\ndonde el espíritu es infinito.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

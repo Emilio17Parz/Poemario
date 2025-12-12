@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Espera mañana,\nen la ventana,\nlo nuevo,\nque llevo,\ncercana.\n\nLa hermana,\ny la lana,\ndel huevo,\nEspera mañana.\n\nMe atrevo,\ny elevo,\nla sana,\nmañana,\nque muevo,\nEspera mañana.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "mañana"
+  }
+}

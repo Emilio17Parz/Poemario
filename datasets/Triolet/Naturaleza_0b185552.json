@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro la inmensidad del cielo,\ny alzo mi espíritu en vuelo,\nbuscando paz y consuelo.\nMiro la inmensidad del cielo,\ncubierto de azul velo,\nlejos del duro suelo.\nMiro la inmensidad del cielo,\ny alzo mi espíritu en vuelo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

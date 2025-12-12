@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sombra de muerte,\nque cambia la suerte.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

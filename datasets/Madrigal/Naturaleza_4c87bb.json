@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Espejo del cielo,\ninmensidad azul que nos abraza;\nsu espuma nos desplaza\ncon gran recelo.\nEl ritmo de las olas es la cuna,\nbajo la luna.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mar"
+  }
+}

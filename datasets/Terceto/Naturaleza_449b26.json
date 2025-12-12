@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El vuelo del pájaro, libre sin un final (A),\nque surca el aire con gracia y con fe (A),\nla vida que es ya inmortal (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

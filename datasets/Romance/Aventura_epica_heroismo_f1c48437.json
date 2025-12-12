@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Diez años duró la guerra,\nfrente a los muros de Troya,\npor la bella Helena griega\nque era la joya.\nUlises ideó el engaño,\nque la historia apoya,\nun caballo de madera\nque la mente atolla.\nEntraron los griegos dentro,\ncon mucha tramoya,\ny quemaron la ciudad\nque se desolla.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

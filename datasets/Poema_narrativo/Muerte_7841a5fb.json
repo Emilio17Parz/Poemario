@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Estaba en su cama rodeada,\nde hijos y nietos llorando,\nella se estaba marchando,\ncon la mirada cansada.\nVio una luz en la esquina,\ny a su esposo que la llamaba,\nsu corazón se paraba,\ncon una paz divina.\nSoltó el último aliento,\ny cesó el sufrimiento.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fluye el río,\ncon brío,\ny cambio,\nintercambio,\ndel frío.\n\nEl lío,\ny el mío,\ndel labio,\nFluye el río.\n\nEl sabio,\ny el agravio,\ndel tío,\ny el vacío,\ndel navío,\nFluye el río.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "río"
+  }
+}

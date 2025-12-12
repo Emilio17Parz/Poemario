@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corre veloz el tiempo,\nsin ningún contratiempo.\n\nLos años van pasando,\nla vida va gastando,\ny estamos esperando,\nsolo un pasatiempo.\n\nCorre veloz el tiempo,\nsin ningún contratiempo.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

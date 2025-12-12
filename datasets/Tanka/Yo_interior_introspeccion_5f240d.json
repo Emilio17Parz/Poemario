@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Peso en la espalda\nrecuerdo del fracaso\npiedra fatal.\nPerdonarse a sí mismo\nes la única llave.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

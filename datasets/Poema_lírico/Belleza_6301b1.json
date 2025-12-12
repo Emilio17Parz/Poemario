@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mar es un espejo\nque no tiene fin.\nEl dulce reflejo\nde un triste motín.\n\nMe obliga a mirar,\nme obliga a sentir,\nla única forma\npara poder seguir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "mar"
+  }
+}

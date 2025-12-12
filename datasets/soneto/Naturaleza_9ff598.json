@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Coloso de granito hacia la altura,\nque tocas con tu cima el firmamento,\ndesafiando la furia del viento,\ncon esa majestad y compostura.\n\nReina de nieve, piedra y hermosura,\ntestigo del pasar del tiempo lento,\nguardiana de un silencio violento,\nque impone su respeto y su cordura.\n\nEscalo por tu piel accidentada,\nbuscando ver el mundo desde arriba,\ny sentirme en la nube recostada.\n\nTu fuerza es una llama siempre viva,\nque deja el alma pura y liberada,\nde toda carga humana y nociva.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

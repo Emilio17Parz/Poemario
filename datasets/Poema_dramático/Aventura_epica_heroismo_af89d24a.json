@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "GENERAL: ¡Avanzad! ¡El enemigo flaquea!\nTROPA: ¡Sangre y polvo nos ciegan la vista!\nGENERAL: ¡Que nadie de la lucha desista!\nAun cuando la muerte se vea.\nGanad la batalla o aquí caed,\npero la espalda nunca volved.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

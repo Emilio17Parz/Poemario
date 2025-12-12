@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Arrojé la llave al mar, sin poderla encontrar,\nel destino me condena a no poder amar.\nLa puerta está cerrada, la vida sin final,\nla soledad es la pena, el signo vital.\n\nNo tengo el camino, no tengo el valor,\nla vida sin la calma, el cruel fulgor.\nMi alma es la esclava de una fe sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "llave"
+  }
+}

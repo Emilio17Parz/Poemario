@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nacemos solos y solos morimos,\nes la verdad de nuestra condición,\naunque busquemos la unión\ny en brazos ajenos dormimos.\n\nEn el fondo siempre sentimos\nesa interna separación,\nuna isla en el corazón\ndonde a nadie recibimos.\n\nPero en esa soledad habita\nla fuerza de nuestro yo,\nque a conocerse invita.\n\nLo que el mundo nos negó,\nel alma lo resucita,\ny así se construyó.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "isla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La esencia pura nace en el campo,\nY el viejo río fluye sin par.\nLa esencia pura nace en el campo.\nSu dulce aroma llega a mi amparo,\nY el viejo río fluye sin par.\nUn bosque antiguo brinda su lampo,\nLa esencia pura nace en el campo,\nY el viejo río fluye sin par.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "río"
+  }
+}

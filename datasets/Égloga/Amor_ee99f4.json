@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Teje mis manos esta corona,\nde margaritas y de violetas,\npara la reina de los poetas,\nque con su gracia todo perdona.\n\nPóntela en la frente, mi zagala,\ny reina sobre este humilde prado,\nque yo seré tu siervo enamorado,\nhasta que la muerte corte mi ala.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "corona"
+  }
+}

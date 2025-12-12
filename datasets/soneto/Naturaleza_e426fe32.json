@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Del verde bosque, donde el río canta,\nLa cumbre añeja que el azul corona,\nLa vida brota, crece y se levanta,\nY el aire puro su vigor entona.\n\nMas si la vista al horizonte vuela,\nDonde el confín de tierra se difunde,\nSe halla el azul e inmenso, que consuela,\nEl vasto **mar** que en su misterio hunde.\n\nEl sol derrama luz sobre la tierra,\nLos campos ríen con su manto fértil,\nNo hay paz más honda que la que la encierra,\nUn eco antiguo, nunca vil ni estéril.\n\nOh, gran Natura, fuente de lo eterno,\nRefugio al alma en el cruel invierno.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mar"
+  }
+}

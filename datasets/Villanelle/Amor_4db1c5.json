@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te quiero con locura desmedida,\nmás allá de la misma razón,\neres la cura de mi herida.\n\nMi mente está perdida y vencida,\npresa de esta dulce prisión,\nte quiero con locura desmedida.\n\nYa no me importa la salida,\nsolo quedarme en tu rincón,\neres la cura de mi herida.\n\nEs una fuerza que da vida,\ny que me quita el corazón,\nte quiero con locura desmedida.\n\nAunque la gente lo prohiba,\nyo seguiré con mi canción,\neres la cura de mi herida.\n\nEs la emoción más atrevida,\nque he sentido en mi interior,\nte quiero con locura desmedida,\neres la cura de mi herida.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "locura"
+  }
+}

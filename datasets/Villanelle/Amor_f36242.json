@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Unidos vamos contra la corriente,\ncon fuerza que nos da la voluntad,\ny un corazón que late y que siente.\n\nNo nos importa lo que diga la gente,\nvivimos nuestra propia realidad,\nunidos vamos contra la corriente.\n\nEs un amor que fluye de la fuente,\nde la más pura y gran sinceridad,\ny un corazón que late y que siente.\n\nSomos dos almas en un mismo frente,\nluchando por la felicidad,\nunidos vamos contra la corriente.\n\nNada destruye el lazo valiente,\nque formamos con la fidelidad,\ny un corazón que late y que siente.\n\nHasta que el sol se apague en el poniente,\nestaremos en esta lealtad,\nunidos vamos contra la corriente,\ny un corazón que late y que siente.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "unión"
+  }
+}

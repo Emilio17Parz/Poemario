@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Abrázame fuerte, amor,\nque el frío entra por la puerta,\nquiero sentir tu calor\ny tener el alma despierta.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

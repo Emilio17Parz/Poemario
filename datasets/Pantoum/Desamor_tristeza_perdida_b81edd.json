@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cierras la puerta y queda el frío,\nya no hay calor en el hogar,\nsiento un inmenso y gran vacío,\nque no consigo llenar.\n\nYa no hay calor en el hogar,\nel eco de tus pasos muere,\nque no consigo llenar,\nla herida abierta que me hiere.\n\nEl eco de tus pasos muere,\nsiento un inmenso y gran vacío,\nla herida abierta que me hiere,\ncierras la puerta y queda el frío.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan los hierros y el clamor,\nen el campo de la muerte,\ndonde se prueba el valor.\n\nEs el reino del dolor,\ny de la mala suerte,\nsuenan los hierros y el clamor.\n\nNadie siente el temor,\naunque el peligro es fuerte,\ndonde se prueba el valor.\n\nSe lucha con gran furor,\nhasta que el cuerpo inerte,\nsuenan los hierros y el clamor.\n\nPor la patria y el honor,\nla sangre roja vierte,\ndonde se prueba el valor.\n\nQueda solo el horror,\nde la vida que se invierte,\nsuenan los hierros y el clamor,\ndonde se prueba el valor.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

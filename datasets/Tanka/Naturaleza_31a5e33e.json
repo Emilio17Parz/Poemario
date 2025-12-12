@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Blanca moneda,\ncolgada en el oscuro\nmanto nocturno.\nTu luz de plata baña\nlos sueños del mortal.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "luna"
+  }
+}

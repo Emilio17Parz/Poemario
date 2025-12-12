@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres rosa del jardín,\nque perfuma mi existir,\nprincipio que no tiene fin,\ny razón de mi vivir.\n\nQue perfuma mi existir,\ncon tu aroma delicado,\ny razón de mi vivir,\npor siempre enamorado.\n\nCon tu aroma delicado,\neres rosa del jardín,\npor siempre enamorado,\nprincipio que no tiene fin.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

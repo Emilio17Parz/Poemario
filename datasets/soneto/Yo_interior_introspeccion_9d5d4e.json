@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Para qué estoy aquí?\nPregunta sin respuesta,\nque sube la cuesta,\ndesde que nací.\n\nBusco el frenesí,\no la calma puesta,\nla nota orquesta,\nque diga que sí.\n\nEl sentido se hace,\nno se encuentra hecho,\ncuando el alma nace.\n\nEn el propio pecho,\nestá el enlace,\ny el derecho.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

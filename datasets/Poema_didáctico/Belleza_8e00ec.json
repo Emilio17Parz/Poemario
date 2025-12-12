@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza está en quien mira,\nno en el objeto mirado,\nlo que a uno inspira,\na otro deja helado.\nRespeta el gusto ajeno,\nque también es bueno.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Subjetividad"
+  }
+}

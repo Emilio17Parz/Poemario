@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Grito de nube\ntiembla el suelo mojado\nluz que desgarra.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "trueno"
+  }
+}

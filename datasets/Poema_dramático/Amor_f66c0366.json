@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "VOZ 1: Nadie debe saber lo que hicimos.\nVOZ 2: Fue tan dulce el pecado que comimos.\nVOZ 1: Si se enteran, perderemos la vida.\nVOZ 2: Valió la pena la fruta prohibida.\nVOZ 1: Silencio... alguien viene por el pasillo.\nVOZ 2: Es mi marido con un cuchillo.\n(Se apaga la luz)",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

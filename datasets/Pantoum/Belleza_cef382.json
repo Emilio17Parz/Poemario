@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo en su sitio perfecto,\nequilibrio de la forma.\nSin ningún fallo o defecto,\nrespetando la norma.\n\nEquilibrio de la forma,\npaz visual que nos llena.\nRespetando la norma,\nlejos de toda pena.\n\nPaz visual que nos llena,\nsin ningún fallo o defecto.\nLejos de toda pena,\ntodo en su sitio perfecto.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

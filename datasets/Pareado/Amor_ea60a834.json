@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor que por ti siento, no es ningún juego,\nEs llama que arde en mi pecho, un eterno fuego.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

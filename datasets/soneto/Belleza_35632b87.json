@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Congela el lienzo el gesto del momento,\nla luz atrapa en óleo y en color,\ny queda eterno el rastro del pintor\nvenciendo del olvido el movimiento.\n\nBelleza que trasciende el sentimiento,\npaisaje, rostro, forma o esplendor,\nque causa en quien observa un gran fervor\ny eleva hacia lo alto el pensamiento.\n\nEl arte es el espejo sublimado\ndonde la realidad se vuelve magia,\ny el mundo gris se ve transfigurado.\n\nBendita la destreza que contagia\nde gozo al corazón más desolado,\ny al alma de hermosura la presagia.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

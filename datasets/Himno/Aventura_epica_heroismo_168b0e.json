@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Torres de piedra que tocan el cielo,\nguardando del reino el paz y el desvelo!\nMuros gigantes que el tiempo no vence,\ny que a la historia su fuerza convence.\n\n¡Salve, fortaleza de fe y de poder,\ndonde el guerrero aprendió a defender!\nSímbolo altivo de la majestad,\nrefugio seguro en la tempestad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "castillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fantasma que arrastra cadena,\nrecuerdo de lo mal hecho,\nque clava su espina en el pecho\ny dicta su eterna condena.\n\nNo deja la mente serena,\nacecha en el lecho y el techo,\ny muestra el error y el despecho\ncon una insistencia de hiena.\n\nPerdonarse es la medicina,\nsoltar el lastre pesado,\ny ver que la vida camina.\n\nLo hecho ya está pasado,\ny aunque la culpa fascina,\nel alma merece ser lavado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro al espejo y veo el tiempo,\nlas huellas que la vida dejó,\nmarcando mi rostro a contratiempo.\n\nNo encuentro el joven que fui al templo,\nel que con sueños se alejó,\nme miro al espejo y veo el tiempo.\n\nSoy el resultado y el ejemplo,\nde lo que el destino tejió,\nmarcando mi rostro a contratiempo.\n\nEn mis ojos cansados contemplo,\nla luz que poco a poco bajó,\nme miro al espejo y veo el tiempo.\n\nA mi propia imagen me destemplo,\npor lo que el ayer se llevó,\nmarcando mi rostro a contratiempo.\n\nEn este silencio me retemplo,\naceptando lo que ocurrió,\nme miro al espejo y veo el tiempo,\nmarcando mi rostro a contratiempo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

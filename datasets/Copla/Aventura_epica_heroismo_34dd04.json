@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelvo de la guerra\ncansado y herido,\npero a tus brazos\nya he venido.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

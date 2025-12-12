@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Una luz me llama,\ndesde el fondo de la sombra,\nsuave y sin piedad.\nEs la nueva travesía,\nes la paz que ya me espera.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

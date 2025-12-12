@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte es la voz\nque el alma me da.\nEl dulce arroz\nque me obliga a estar.\n\nMe quita el dolor,\nme da la razón,\nmi único fulgor\nsin ninguna opción.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "arte"
+  }
+}

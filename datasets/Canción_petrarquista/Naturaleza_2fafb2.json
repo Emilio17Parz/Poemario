@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Diosa de la noche,\nque alumbras con tu faz pálida y fría;\ntú eres la guía,\nsin un reproche,\ndel caminante y del amante insomne;\nquien te denomine\nreina de los cielos,\nsabe de tus encantos y consuelos.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "luna"
+  }
+}

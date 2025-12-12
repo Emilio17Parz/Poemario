@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guarda el guerrero su sagrado honor,\nlejos del vicio y del vil temor,\nmuestra en la lucha su gran valor,\nalma nobleza.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "honor"
+  }
+}

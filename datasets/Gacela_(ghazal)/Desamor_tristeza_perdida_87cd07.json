@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pesa en el aire tu larga ausencia,\ntodo me habla de tu larga ausencia.\n\nBusco tu rastro, tu pura esencia,\ny solo encuentro tu larga ausencia.\n\nMuere la dicha y la paciencia,\nbajo el rigor de tu larga ausencia.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

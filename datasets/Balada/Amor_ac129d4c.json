@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Caminos largos tuve que andar,\npara encontrar tus ojos de sol,\nmuchas batallas tuve que dar,\nbajo la luz del triste farol.\nPero valió la pena esperar,\ny recorrer el sendero cansil,\npara poder al fin abrazar,\nlo que marcaba nuestro destino.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "destino"
+  }
+}

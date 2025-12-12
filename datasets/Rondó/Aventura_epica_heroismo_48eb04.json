@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Duele la traición,\ndel amigo falso.\nEn el cadalso,\nde la unión.\n\nSin perdón,\nni descanso.\nDuele la traición,\ndel amigo falso.\n\nLa razón,\ndescalzo.\nRehalzo,\nel corazón.\nDuele la traición.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "traición"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No le deseo mal a nadie,\nni tampoco a mi enemigo,\npero a ti que me engañaste\nno te quiero ni de amigo.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "mal"
+  }
+}

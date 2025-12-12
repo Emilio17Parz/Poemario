@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Es la leyenda,\nque se comprenda.\n\nHistoria vieja,\nque no se deja,\nni se aleja,\nde la senda.\n\nEs la leyenda,\nque se comprenda.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

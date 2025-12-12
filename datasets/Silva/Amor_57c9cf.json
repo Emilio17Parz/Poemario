@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus manos de seda,\nacarician mi faz,\ndándome la paz,\nque en el alma queda.\nQue nada impida,\nque me toques siempre,\ndesde aquel diciembre,\nen que cambiaste toda mi vida.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "manos"
+  }
+}

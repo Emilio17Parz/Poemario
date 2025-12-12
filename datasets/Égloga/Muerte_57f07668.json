@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "**Égloga del Último Pasto**\n\n**Elpino:**\n¡Ay, Filandro, qué sombra tan densa\ncubrió la majada, el verde pastizal!\nLa oveja más mansa, ya no balbucea,\nni su dulce cencerro rompe el silencio fatal.\n\n**Filandro:**\nHermano del campo, sé el frío pesar\nque muerde el alma cuando un ser se va.\nLos sauces se inclinan junto al manso caudal,\ny el eco del duelo al viento se da.\n\n**Elpino:**\nMas ¿de qué sirve el trino del ave,\no el sol que dora las cumbres de abril,\nsi la ausencia es herida tan grave,\nque no hay consuelo ni ungüento sutil?\n\n**Filandro:**\nNo es vano el lamento, ni vana la pena,\nsi en ella se forja un lazo inmortal.\nLa dulce **memoria**, que todo lo llena,\npreserva del tiempo el goce ideal.\n\n**Elpino:**\nAsí sea, amigo, que el alma no olvide\nlas huellas amadas, el dulce mirar.\nAunque el cuerpo duerma y el mundo se olvide,\nsu espíritu puro nos venga a guiar.\n\n**Filandro:**\nLa vida es un ciclo, cual noche y cual día,\ny el fin es un paso a la calma eternal.\nMientras que vivamos con fe y con valía,\nsu imagen florezca, recuerdo leal.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

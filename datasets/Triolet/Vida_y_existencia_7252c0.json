@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Deja tu huella,\nal caminar.\nComo una estrella,\ndeja tu huella.\nAl brillar,\ntan bella.\nDeja tu huella,\nal caminar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "huella"
+  }
+}

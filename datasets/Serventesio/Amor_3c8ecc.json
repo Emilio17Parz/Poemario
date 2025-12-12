@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu presencia es rocío que moja mi ser interno (A),\nel agua que limpia mi mente y razón (B),\nla vida contigo es un dulce y tierno (A),\ntesoro de mi corazón (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Rocío"
+  }
+}

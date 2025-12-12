@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Navego olas gigantes,\nen mi barco de madera,\ncomo los viejos amantes.\n\nSomos los caminantes,\nde la mar traicionera,\nnavego olas gigantes.\n\nSin miedos ni interrogantes,\nni duda que me hiera,\ncomo los viejos amantes.\n\nLos vientos constantes,\nempujan mi carrera,\nnavego olas gigantes.\n\nHacia puertos distantes,\ndonde la vida espera,\ncomo los viejos amantes.\n\nValientes navegantes,\nde la esfera,\nnavego olas gigantes,\ncomo los viejos amantes.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mar"
+  }
+}

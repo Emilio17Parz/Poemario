@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro fijamente en el espejo,\ny veo a un extraño que me observa,\ncon un rostro cansado y perplejo.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

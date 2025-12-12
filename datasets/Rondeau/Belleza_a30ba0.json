@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Escribe el verso rima,\nque se estima,\ncon pasión,\ny razón,\nen la cima.\n\nLa tarima,\ny la lima,\nde la acción,\nEscribe el verso.\n\nLa emoción,\ny la unión,\nque anima,\ny mima,\nel corazón,\nEscribe el verso.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

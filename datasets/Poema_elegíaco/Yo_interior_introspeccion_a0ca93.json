@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro el cristal y solo veo la ruina y el dolor cruel y sin razón fiel,\nla vida sin la calma, con sabor amargo a hiel.\nEl espejo es la verdad que el alma no quiere ver ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el rostro que mi alma no pudo cambiar jamás sin voz ni paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

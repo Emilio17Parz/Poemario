@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¿Qué es la gloria sino el eco de un nombre que resuena a través de los siglos?\nNo buscamos el oro ni el poder, buscamos la inmortalidad de la hazaña.\nQue digan de nosotros: vivieron con honor, murieron con dignidad, fueron grandes.\nLa gloria es la luz que queda cuando la estrella ya se ha apagado.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

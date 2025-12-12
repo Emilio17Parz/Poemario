@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tic tac, el reloj nunca perdona,\ndevora los minutos con presteza,\nrobándonos la fuerza y la belleza,\nmientras la juventud nos abandona.\n\nEl tiempo es un rey que no razona,\nimponiendo su ley con dureza,\ndejando en el espejo la certeza,\nde que la vida es breve y dulzona.\n\nAprovecha el instante presente,\ncarpe diem, susurra el romano,\nque el futuro es incierto y ausente.\n\nVive ahora, con el alma en la mano,\nantes de que la parca impaciente,\nconvierta todo esfuerzo en vano.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

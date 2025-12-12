@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "SOÑADOR: Volaba alto sobre el mar.\nREALIDAD: Es hora de trabajar.\nSOÑADOR: Era un rey en un palacio.\nREALIDAD: Ve despacio, ve despacio.\nSOÑADOR: ¿Por qué tengo que despertar?\nREALIDAD: Para poder el pan ganar.\nSOÑADOR: La vida es sueño, dijo el sabio.\nREALIDAD: Y el sueño se rompe en el labio.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "despertar"
+  }
+}

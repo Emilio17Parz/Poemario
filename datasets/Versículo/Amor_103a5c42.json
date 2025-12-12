@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Las montañas se desmoronarán y los océanos se convertirán en polvo seco.\nPero este amor que te profeso permanecerá inmutable ante la caída de los astros.\nPorque lo que es verdadero no está sujeto al tiempo ni a la corrupción de la materia.\nEs un vínculo eterno, forjado en el principio de todas las cosas.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

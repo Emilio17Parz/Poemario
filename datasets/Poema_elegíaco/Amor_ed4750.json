@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuimos dos cuerpos ciegos en el tiempo errado,\ndestinados al fin desde la primera hora.\nEl destino fue la flecha que nos ha traspasado,\nsin piedad ni consuelo que el alma implora.\n\nAhora la herida duele, pero es tuya y es mía,\nla prueba que el amor fue real en su fragor.\nMi corazón es el nudo de la melancolía,\npor el fuego que ardió sin ningún temor.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "destino"
+  }
+}

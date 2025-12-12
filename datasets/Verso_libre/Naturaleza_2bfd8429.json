@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La mar respira,\nhincha su pecho de olas\ny lo vacía en la arena.\nEs un pulmón azul y gigante\nque nunca descansa.\nMe siento en la orilla\ny dejo que su ritmo hipnótico\nme lave los pensamientos\nhasta dejarlos blancos como la sal.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El cuerpo queda pero el alma vuela,\nhacia la eterna y gran claridad,\ndejando en la tierra su estela.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "alma"
+  }
+}

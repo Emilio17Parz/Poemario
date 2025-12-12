@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Padre que habitas en la altura inmensa,\nrige los astros con tu mano fuerte,\ndanos la paz en este valle triste\nde la muerte.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "dios"
+  }
+}

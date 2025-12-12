@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento invisible por el campo,\nmoviendo con su fuerza el trigal,\ny trayendo en su racha y en su lampo,\nel aroma del monte natural.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "viento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El destino está escrito,\nEn la piedra lunar,\nComo un viejo rito.\nEl destino está escrito,\nSe escucha el grito,\nDel fiero mar.\nEl destino está escrito,\nEn la piedra lunar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "destino"
+  }
+}

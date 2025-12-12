@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza pasa pronto,\ncomo la flor de un día,\npero deja alegría,\nen el sabio y en el tonto.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

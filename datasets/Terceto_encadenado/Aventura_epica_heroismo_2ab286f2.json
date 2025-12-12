@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El noble caballero alza su espada,\njurando proteger al inocente,\nen la difícil y dura jornada.\n\nSe enfrenta con valor al delincuente,\nsin miedo de perder la propia vida,\ncon ánimo sereno y valiente.\n\nAunque termine con el alma herida.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La playa es el límite (7a),\ndonde el mar se va (5b),\nmi alma no lo admite (7c),\nla fuerza que me da (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Playa"
+  }
+}

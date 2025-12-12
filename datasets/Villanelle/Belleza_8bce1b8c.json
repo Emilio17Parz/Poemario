@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene la estrella un mágico brillo,\nque ilumina la noche total,\nmás que la plata o el oro amarillo.\n\nEs un diamante puro y sencillo,\nen la bóveda celestial,\ntiene la estrella un mágico brillo.\n\nComo la luz de un farolillo,\nguía al viajero contra el mal,\nmás que la plata o el oro amarillo.\n\nDesde su alto y lejano castillo,\nnos manda su señal vital,\ntiene la estrella un mágico brillo.\n\nNo necesita de ningún cepillo,\npara mostrar su luz real,\nmás que la plata o el oro amarillo.\n\nYo la contemplo desde el pasillo,\ncon un asombro natural,\ntiene la estrella un mágico brillo,\nmás que la plata o el oro amarillo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

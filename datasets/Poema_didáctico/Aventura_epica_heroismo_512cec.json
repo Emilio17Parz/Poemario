@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El miedo es señal de alerta,\nno de cobardía,\ndeja la puerta abierta,\na la osadía.\nÚsalo de motor,\nno de freno, señor.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Miedo"
+  }
+}

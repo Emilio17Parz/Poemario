@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo en el alma un hondo secreto,\nque nadie nunca podrá saber,\nque hace mi ser algo incompleto.\n\nLo mantengo oculto y discreto,\npara mi honra proteger,\nguardo en el alma un hondo secreto.\n\nEs un misterio y un aprieto,\nque me cuesta sostener,\nque hace mi ser algo incompleto.\n\nLe tengo miedo y respeto,\na lo que pueda suceder,\nguardo en el alma un hondo secreto.\n\nEs de mi vida el esqueleto,\nlo que me hizo caer,\nque hace mi ser algo incompleto.\n\nVivirá conmigo quieto,\nhasta el anochecer,\nguardo en el alma un hondo secreto,\nque hace mi ser algo incompleto.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra ineludible que nos llama,\nun velo oscuro que el destino teje,\nque en cada aliento el paso lento festeje,\ny apaga al fin la tenue viva llama.\n\nLa vida, efímera flor que se derrama,\nante su gesto imponente se doblega,\ny el corazón, que en vano se niega,\nsu frío abrazo sin piedad proclama.\n\nAllí, la voz que otrora fue clamor,\nse pierde en la quietud de lo profundo,\nsin eco ya, sin rastro, sin rumor.\n\nY el alma, libre de su atado mundo,\nhalla en la paz su último valor,\nsumergida en su vasto silencio mudo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

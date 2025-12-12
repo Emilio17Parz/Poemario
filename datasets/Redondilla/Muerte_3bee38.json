@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vives en la mente,\nde quien te quiso,\ny es el paraíso,\nestar presente.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

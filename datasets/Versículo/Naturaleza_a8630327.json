@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Dijo Dios: Sea la luz; y fue la luz. Y vio Dios que la luz era buena; y separó Dios la luz de las tinieblas.\nEl sol no te fatigará de día, ni la luna de noche; porque el Señor será tu luz eterna, y los días de tu luto serán acabados.\nLa luz se ha sembrado para el justo, y la alegría para los rectos de corazón; alegraos en la luz de la vida.\nPorque en ti está la fuente de la vida; en tu luz veremos la luz, resplandor que no conoce el ocaso.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "luz"
+  }
+}

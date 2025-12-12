@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el fin del camino,\ncuando se apaga la luz,\ny cargamos la cruz,\nde nuestro propio destino.\n\nYa no vale el vino,\nni el oro andaluz,\nante el paso divino.\nLlega el fin.\n\nTodo se vuelve mezquino,\nal cerrar el tragaluz,\ny ver el contraluz,\ndel último molino,\nque marca el desatino.\nLlega el fin.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "fin"
+  }
+}

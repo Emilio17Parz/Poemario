@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[EL GUERRERO]\n(Yaciendo en el campo)\nSilencio. Por fin. Se acabó el grito, el hierro, la rabia inútil.\nSiento la tierra fría, pero es un abrazo. La sangre ya no corre.\nEsta es la única paz verdadera. La que no te da el rey, la que no te da la vida.\nLa muerte no es un final, es el dulce, glorioso, descanso.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "paz"
+  }
+}

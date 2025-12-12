@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "P ara siempre dormido,\nA cabó el sufrimiento,\nZ ona de lo prohibido.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "paz"
+  }
+}

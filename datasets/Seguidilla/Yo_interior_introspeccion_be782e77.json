@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco dentro de mí\nel silencio,\nlejos del ruido vano\ny del desprecio.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

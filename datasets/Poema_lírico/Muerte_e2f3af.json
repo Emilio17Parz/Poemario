@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es un sueño\nque no tiene despertar.\nEs el dulce ensueño\nque no quiere parar.\n\nEl cuerpo descansa\nsin prisa ni mal,\nla suave remansa\ndel fin final.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

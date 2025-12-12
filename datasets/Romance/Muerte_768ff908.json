@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Salió el alma del cuerpo,\ncomo pájaro de jaula,\ndejando la carne fría\nen la silenciosa aula.\nVoló por encima del techo,\nsin peso y sin ningun paula,\nmirando lo que dejaba\ncon una pena muy maula.\nYa no le duele la herida,\nni el tiempo que se enjaula,\nes libre como el viento\nque las nubes desenjaula.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "vuelo"
+  }
+}

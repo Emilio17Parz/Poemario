@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo trayecto por caminos raros,\nmontes y selvas que el pie no ha pisado,\nvimos los cielos claros\ny el peligro pasado.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

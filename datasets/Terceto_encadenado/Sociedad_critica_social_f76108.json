@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El rico acumula,\nmás de lo que usa,\ny su alma recula.\n\nBusca una excusa,\npara no compartir,\nsu vida confusa.\n\nDe tanto pedir.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "riqueza"
+  }
+}

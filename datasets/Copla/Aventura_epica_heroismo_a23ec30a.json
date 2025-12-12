@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Me voy a hacer un viaje\nal otro lado del mar,\na ver si encuentro fortuna\ny puedo luego tornar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

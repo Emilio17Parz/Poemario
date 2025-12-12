@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busca el tesoro,\nde oro,\noculto,\ntumulto,\ny el coro.\n\nEl aforo,\ny el poro,\ndel bulto,\nBusca el tesoro.\n\nEl indulto,\ny el culto,\ndel toro,\ny el lloro,\nadulto,\nBusca el tesoro.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "oro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El grito de guerra,\nes un eco en el valle,\nla batalla empieza.\nEl destino se decide ya,\ncon el valor de la tropa.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Batalla"
+  }
+}

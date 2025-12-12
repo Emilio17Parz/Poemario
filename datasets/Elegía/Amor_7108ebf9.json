@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se ha ido la luz, y la penumbra vela\nel altar del ayer, ceniza el edén.\nAmor, ¿dónde tu voz, la que consuela?\nQueda el vacío, que sin piedad, me hiere.\n\nRecuerdo el sol en tu mirada clara,\nel dulce andar, tu risa, aroma de jazmín.\nTu cálido **abrazo**, puerto en mi marea rara,\nun santuario de paz, mi principio y mi fin.\n\nAhora el viento lleva tu nombre entre las hojas,\ny cada estrella es lágrima que brilla sin calor.\nMi corazón, navío entre las rojas\nbrisas del dolor, busca tu fulgor.\n\nMas no te has ido del todo, amor ausente,\nvives en cada verso, en la melancolía,\nen el murmullo eterno de mi alma doliente,\nancla en la noche oscura, y mi perenne guía.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

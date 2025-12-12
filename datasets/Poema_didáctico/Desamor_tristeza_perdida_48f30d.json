@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No hay atajos para el olvido,\nes un proceso lento y gradual,\nsi te sientes perdido,\nes algo natural.\nTen paciencia contigo mismo,\ny saldrás del abismo.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Paciencia"
+  }
+}

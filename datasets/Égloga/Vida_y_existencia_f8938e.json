@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Quién traza el surco de nuestra suerte?\n¿Son los astros o es el azar?\nNacemos para empezar\na caminar hacia la muerte.\nPero hay que ser fuerte\ny saber caminar.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "astros"
+  }
+}

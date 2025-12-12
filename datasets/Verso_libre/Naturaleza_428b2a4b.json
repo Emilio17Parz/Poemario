@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gira la rueda del año, del verdor de la primavera al fuego del verano, del oro del otoño al blanco invierno.\nCada estación tiene su belleza y su dolor, su promesa y su despedida, en un orden perfecto.\nLa hoja nace, crece, se seca y cae, enseñándonos el arte de vivir y de morir con gracia.\nSomos parte de este ritmo, danzantes en el baile cósmico de las estaciones que no se detienen.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "estaciones"
+  }
+}

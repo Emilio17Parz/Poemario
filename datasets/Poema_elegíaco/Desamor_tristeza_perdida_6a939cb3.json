@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Persigo vanamente a una sombra,\nfantasma de un amor que fue dichoso,\ny ahora es un recuerdo doloroso,\nque mi garganta con angustia nombra.\nLamento la pérdida de la luz,\ncargando con esta pesada cruz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena la música en el aire,\ncon su armonía y su donaire.\n\nCura las penas sin desaire,\ny nos eleva en el sotaire.\n\nLenguaje puro que no hay quien pare,\nllave del alma que se ampare.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "nota"
+  }
+}

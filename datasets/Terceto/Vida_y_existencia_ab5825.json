@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El dolor es un maestro, un don sin par (A),\nque enseña la fuerza, que quita el temor (A),\nla forma de al fin sanar (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Dolor"
+  }
+}

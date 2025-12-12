@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es sombra larga,\nque cubre al ser querido,\ndejándolo dormido,\ncon su pesada carga.\n\nLa vida se amarga,\ncon el gemido,\ndel que ha perdido,\ny el tiempo alarga.\n\nOscuridad total,\nfinal natural.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

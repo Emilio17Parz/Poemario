@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hombro con hombro en la línea de fuego,\nhermanos de sangre y de voluntad,\nunidos por la misma lealtad\nen este macabro y mortal juego.\n\nSi uno cae, el otro acude luego,\nsin preguntar por la dificultad,\npues la amistad es la gran verdad\nque ilumina el corazón ciego.\n\nComparten el pan, el vino y la pena,\nla guardia nocturna bajo la estrella,\ny el peso de la dura cadena.\n\nNo hay fuerza mayor ni más bella\nque esta unión que la guerra ordena\ny que en sus vidas deja huella.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "hermanos"
+  }
+}

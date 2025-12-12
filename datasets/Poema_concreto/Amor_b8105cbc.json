@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "TÚ\n       YO\n      JUNTOS\n     LATIDOS\n    ALMAS EN\n   FUEGO, UN\n  DESEO QUE\n  QUEMA, LA\n  **PASIÓN** QUE\n  NOS ATRAE\n   Y NOS FUNDE\n    EN CADA\n     MIRADA\n      UN BESO\n       AMOR\n        ETERNO",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

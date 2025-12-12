@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cruzó el bosque prohibido,\ndonde habitan las sombras.\nNo hubo alfombras,\nsolo ruido.\nSalió decidido\ny sin zozobras.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

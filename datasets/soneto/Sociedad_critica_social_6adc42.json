@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Selva de hormigón y de cristal,\ndonde rugen los coches feroces,\ny se mezclan millones de voces,\nen un grito constante y vital.\n\nLaberinto gris y vertical,\ndonde nadie conoce tus roces,\nni le importa si sufres o goces,\nen tu piso pequeño y letal.\n\nLa soledad se vive entre gente,\nrodeado de multitud vacía,\nque camina indiferente.\n\nSe pierde la luz y la poesía,\nen este hormiguero impaciente,\nde prisa, ruido y mercancía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

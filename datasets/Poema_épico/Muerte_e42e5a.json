@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El conquistador de todos los reyes,\npequeño, paciente, ciego y voraz,\nno sigue mandatos, ni humanas leyes,\ndevora la carne bajo el disfraz.\nRecicla la vida en la oscuridad,\nmaestro de la humildad.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Gusano"
+  }
+}

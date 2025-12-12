@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuela alto y ligero,\npor el sendero,\ncon alas de color,\nbuscando la flor,\ncon esmero.\n\nEs un mensajero,\ndel sol primero,\ny del calor,\nVuela alto.\n\nSer efímero,\npero sincero,\nque siente amor,\ny no temor,\npor el aguacero,\nVuela alto.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "vuelo"
+  }
+}

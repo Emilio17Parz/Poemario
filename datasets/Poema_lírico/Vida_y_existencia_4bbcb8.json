@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La verdad es un espejo\nque me rompe la piel.\nEs el cruel reflejo\ncon sabor a hiel.\n\nMe mira sin piedad,\nme obliga a existir,\nla única edad\npara poder seguir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

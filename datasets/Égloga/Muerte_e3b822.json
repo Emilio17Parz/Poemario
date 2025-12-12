@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aunque la muerte te haya llevado,\ntu canto suena en el pinar.\nNo te dejaremos de amar\naunque tu cuerpo esté enterrado.\nEn cada rincón del prado\ntu espíritu ha de morar.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "pinar"
+  }
+}

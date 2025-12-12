@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Cuando el ser viene a la luz,\nInicia un largo camino,\nLabrado por el destino,\nBajo la sombra o la cruz.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "camino"
+  }
+}

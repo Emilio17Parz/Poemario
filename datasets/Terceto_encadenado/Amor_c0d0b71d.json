@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor nace de un fulgor profundo,\nque enciende el alma con su dulce llama,\ny pinta de esperanza nuestro mundo.\n\nAquella luz que sin cesar nos llama,\nse vuelve un eco en el pensamiento,\nun universo que mi voz proclama.\n\nEn ti se ancla mi hondo sentimiento,\nla vida toma un rumbo de quimera,\nvenciendo cada duda, cada intento.\n\nTu voz resuena en la estación primera,\nun cálido abrazo que a la piel consuela,\nla eternidad que mi existir espera.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

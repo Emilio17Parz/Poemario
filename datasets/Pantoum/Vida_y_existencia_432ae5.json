@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nacemos siendo uno,\nmorimos en soledad,\nno hay momento alguno,\nde total unidad.\n\nMorimos en soledad,\nes la condición humana,\nde total unidad,\ntan lejana y vana.\n\nEs la condición humana,\nnacemos siendo uno,\ntan lejana y vana,\nno hay momento alguno.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "uno"
+  }
+}

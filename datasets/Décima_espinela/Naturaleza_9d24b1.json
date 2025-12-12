@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ruge el trueno,\ncon gran enfado,\ny el nublado,\nno es bueno.\nCae el veneno,\ndel rayo,\ny yo me callo,\nasustado,\nresguardado,\ndel fallo.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

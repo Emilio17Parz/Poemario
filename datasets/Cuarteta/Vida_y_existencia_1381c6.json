@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La única certeza es el momento,\neste preciso instante de existir,\nes un regalo, es un juramento,\nun breve espacio para sonreír.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Certeza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Luz en el rostro que alegra la vida,\ngesto que borra la pena y el mal,\nsigno de un alma pura y leal,\ndulce sonrisa.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

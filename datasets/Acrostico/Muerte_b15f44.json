@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Final de tu calor,\nRígido el cuerpo está.\nInerte sin dolor,\nOlvido quedará.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "FRIO"
+  }
+}

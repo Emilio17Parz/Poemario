@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me miras con frialdad y con desdén,\ncomo si fuera un ser desconocido,\ny yo que te quería por mi bien,\nme siento rechazado y muy herido.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "desprecio"
+  }
+}

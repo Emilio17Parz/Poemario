@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Brama Neptuno desde su trono de agua,\nlanza las olas contra la roca fiera,\ntoda la fuerza la fragua\nen la tormenta de la ribera.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "mar"
+  }
+}

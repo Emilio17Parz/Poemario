@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No es un destino final,\nes la forma de andar,\nno es material,\nni se puede comprar.\nEstá en lo pequeño,\ny en el empeño.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Felicidad"
+  }
+}

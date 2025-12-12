@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Imágenes en pantalla,\nhistorias de ilusión.\nNada aquí falla,\npura emoción.\n\nHistorias de ilusión,\nrostros gigantes.\nPura emoción,\npara los amantes.\n\nRostros gigantes,\nnada aquí falla.\nPara los amantes,\nimágenes en pantalla.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cine"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Busco el olvido, la calma sin fe (A),\nborrar tu imagen de mi razón (B),\nla vida es un triste y amargo 'sé' (A).\n\nLa sombra me cubre, sin compasión (B),\nel frío me hiela hasta el alma, sin par (C),\nla ausencia de toda emoción (B).\n\nNo hay más consuelo, no hay más lugar (C),\nque el llanto que viene sin un final (D),\nla forma de no volver a amar (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Olvido"
+  }
+}

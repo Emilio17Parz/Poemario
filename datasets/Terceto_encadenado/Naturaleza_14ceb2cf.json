@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde musgo la roca recubre,\nmientras el río murmura su canción,\ny el aire fresco la senda descubre.\n\nCon cada paso, mi fiel corazón,\npercibe el pulso del monte sagrado,\nla vida misma en su pura expresión.\n\nUn manto de silencio, inmaculado,\ndespués del sol que en oro se retira,\ny el orbe entero por fin ha callado.\n\nTan solo el grillo su son ahora inspira,\ncuando la luna su disco blando enciende,\ny el cielo umbrío la noche respira.\n\nLa tenue sombra su magia me extiende,\nen cada hoja, en el pétalo frágil,\nun mundo inmenso que jamás se rinde.\n\nReflejo eterno, tan bello y tan ágil,\nde cuanto existe, de ser y existir,\nun eco antiguo, profundo y versátil.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "luna"
+  }
+}

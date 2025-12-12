@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Murió antes de ser hombre,\ncon la lanza sin usar,\nllorar,\nsu nombre.\n\nAsombre,\nel mar,\ny el par,\ndel prohombre.\n\nVida cortada en flor,\ndolor.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "joven"
+  }
+}

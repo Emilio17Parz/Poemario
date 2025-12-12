@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Manto blanco de paz helada,\ncubre el ruido de la ciudad.\nCae la pluma delicada,\ncon silencio y suavidad.\n\nCubre el ruido de la ciudad,\ntodo es puro, todo es nuevo.\nCon silencio y suavidad,\notra vez en el blanco me elevo.\n\nTodo es puro, todo es nuevo,\ncae la pluma delicada.\nOtra vez en el blanco me elevo,\nmanto blanco de paz helada.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

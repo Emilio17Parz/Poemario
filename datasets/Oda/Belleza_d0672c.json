@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Gesto sencillo,\npero grandioso,\nhermoso,\nbrillo.\nClase innata,\nque no mata.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "elegancia"
+  }
+}

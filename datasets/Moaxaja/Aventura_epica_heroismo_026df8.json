@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Bestia de fuego,\nno es un juego.\n\nVuela alto,\nde un salto,\ny asalto,\nluego.\nBestia de fuego,\nno es un juego.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

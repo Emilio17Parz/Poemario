@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hay que ser valiente y fuerte,\nante cualquier adversidad,\npara cambiar nuestra suerte,\ncon mucha voluntad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "fuerte"
+  }
+}

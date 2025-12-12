@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Parte la nave al lejano viaje,\nhacia lo ignoto y desconocido,\nllevando sueños en el equipaje.\n\nEnfrenta el mar y su oleaje,\ncon un espíritu decidido,\nparte la nave al lejano viaje.\n\nAdmira el nuevo y bello paisaje,\nque nunca antes había sido,\nllevando sueños en el equipaje.\n\nCon la esperanza como blindaje,\ncontra el miedo y el olvido,\nparte la nave al lejano viaje.\n\nEs la aventura y el aprendizaje,\nde un mundo vasto y extendido,\nllevando sueños en el equipaje.\n\nHasta llegar al anclaje,\nen el puerto prometido,\nparte la nave al lejano viaje,\nllevando sueños en el equipaje.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

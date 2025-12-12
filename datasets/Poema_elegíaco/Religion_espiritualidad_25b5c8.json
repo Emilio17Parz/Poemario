@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Aquí yace la certeza que mi alma un día tuvo, firme y fiel,\ny solo queda el hueco con sabor amargo a hiel.\nEl cielo se ha callado, la voz no me responde ya,\nla fe fue la mentira que mi espíritu nunca tendrá.\n\nLloro por el dios mudo que nunca pude ver al final,\nla vida sin la calma, sin el signo vital.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "fe"
+  }
+}

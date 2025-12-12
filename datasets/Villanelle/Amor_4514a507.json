@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te juro mi amor que será eterno,\nmás fuerte que el tiempo y la tempestad,\nvenciendo los fríos del crudo invierno.\n\nLejos del abismo y del infierno,\nbuscando la luz y la claridad,\nte juro mi amor que será eterno.\n\nCon un sentimiento puro y tierno,\nlleno de paz y de bondad,\nvenciendo los fríos del crudo invierno.\n\nEs un compromiso del fuero interno,\nbasado en la fiel sinceridad,\nte juro mi amor que será eterno.\n\nNo importa lo antiguo ni lo moderno,\nni el paso de toda la humanidad,\nvenciendo los fríos del crudo invierno.\n\nMi corazón es tu fiel gobierno,\npor toda la inmensa eternidad,\nte juro mi amor que será eterno,\nvenciendo los fríos del crudo invierno.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Vivo color rojo,\nque pinta la flor,\ncon gran primor,\ny sin enojo.\n\nQuita el cerrojo,\ndel gris dolor,\ny mi antojo.\nVivo color.\n\nSi lo recojo,\ncon mucho amor,\ny su calor,\nme despojo,\ndel desalojo.\nVivo color.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "color"
+  }
+}

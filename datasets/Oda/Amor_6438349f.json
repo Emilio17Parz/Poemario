@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ventana abierta al infinito,\nluz que cruza la oscuridad,\ndonde leo sin alfabetos\ntoda tu inmensa verdad.\nBrillan tus ojos como faros,\nguiando mi barco perdido,\ny en el fondo de tus pupilas\nencuentro todo el sentido.\nNo necesito más idioma\nque el cruce de tu ver y mi ver,\npara saber que soy tuyo\nen cada amanecer.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

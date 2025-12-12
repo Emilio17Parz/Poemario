@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Duerme el gigante bajo la nieve,\npero en su entraña guarda el infierno,\nfuego líquido, rojo y eterno,\nque a salir a la luz se atreve.\n\nLa tierra tiembla, se agita y mueve,\nrompiendo el paisaje del invierno,\nmostrando su poder sempiterno\nen un instante que no es breve.\n\nRíos de lava bajan quemando,\ncreando nueva tierra y dolor,\na su paso todo transformando.\n\nEs la fuerza del creador,\ndestruyendo y edificando\ncon terrible y bello horror.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

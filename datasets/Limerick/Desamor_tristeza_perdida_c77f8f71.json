@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Recuerdo los días de ayer,\nque no han de volver a nacer,\nmirando la lluvia,\nmi mente se enturbia,\ny no sé ya qué más hacer.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Melancolía"
+  }
+}

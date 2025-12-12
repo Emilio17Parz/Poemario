@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hablo solo en la ducha,\ncon una voz que es mucha,\nme cuento chistes,\nmuy tristes y grises,\ny nadie me escucha.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Locura"
+  }
+}

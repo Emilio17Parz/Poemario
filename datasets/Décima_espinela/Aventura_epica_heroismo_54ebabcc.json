@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Desenvaina su espada\nel guerrero valeroso,\nante el dragón pavoroso\ny su boca llamarada.\nNo teme a la estocada\nni al fuego que le rodea,\npues su única tarea\nes salvar a la nación,\ncumpliendo con su misión\naunque la muerte vea.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "espada"
+  }
+}

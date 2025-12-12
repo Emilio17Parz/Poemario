@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El juicio final, el tiempo de la verdad (A),\ndonde el alma rinde su fiel razón (B),\nla ausencia de toda caridad (A).\n\nLa vida se extingue, sin un fulgor (B),\nel cuerpo se cansa, sin poder más (C),\nla forma de no hallar el amor (B).\n\nNo hay más que sufrir, no hay más paz (C),\nla sombra me cubre, sin piedad (D),\nla eterna y dulce lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Juicio"
+  }
+}

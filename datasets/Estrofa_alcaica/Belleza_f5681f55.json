@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza que el mundo nos revela,\nCon su hondo y eterno esplendor,\nQue el alma a lo sublime eleva,\nCon dulzura y un eterno amor.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

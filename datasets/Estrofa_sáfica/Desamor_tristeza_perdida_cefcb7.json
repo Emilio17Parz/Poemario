@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miras con odio lo que antes amabas,\nvuelves la cara con indiferencia,\npagas mi amor con dura penitencia,\ngolpe mortal.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "desprecio"
+  }
+}

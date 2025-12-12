@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El barco de nuestro amor chocó contra el coral,\nla ola nos cubrió con su abrazo fatal.\nFuimos dos náufragos solos en el mar cruel,\nla vida es el castigo sin ningún papel.\n\nMe ahogo en la ausencia, me pierdo en el azul,\nla soledad es la pena, el suave tul.\nMi final es el agua, fría y sin razón,\nla triste agonía sin ninguna opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

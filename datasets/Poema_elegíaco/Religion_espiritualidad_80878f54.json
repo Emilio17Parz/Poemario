@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El cielo está cerrado,\npara mi ruego ferviente,\nlloro amargamente,\npor haberme desviado.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

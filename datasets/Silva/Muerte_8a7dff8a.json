@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos apenas un poco de polvo,\nque en el aire disuelvo.\nVenimos de la tierra,\ny ella nos encierra,\nal final del camino,\nmarcado destino.\nCeniza que el viento,\nlleva lento.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vive el instante,\ncon alegría.\nSigue adelante,\nvive el instante.\nCada día,\nes importante.\nVive el instante,\ncon alegría.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "instante"
+  }
+}

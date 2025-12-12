@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se rompe la balanza,\nsiempre al mismo lado,\npierdo la esperanza,\ndel resultado.\n\nSiempre al mismo lado,\nel rico gana,\ndel resultado,\nmañana y mañana.\n\nEl rico gana,\nse rompe la balanza,\nmañana y mañana,\npierdo la esperanza.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "balanza"
+  }
+}

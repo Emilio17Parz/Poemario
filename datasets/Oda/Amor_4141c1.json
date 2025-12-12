@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuerza del amor, poder invencible,\nque vence al miedo y a la adversidad.\nSentimiento eterno e inasible,\nesencia pura de la verdad.\n¡Oh, energía que nunca se agota,\ntu impulso mi vida denota!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Fuerza"
+  }
+}

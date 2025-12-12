@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La tierra sangra fuego y ceniza,\nel dios subterráneo despierta hoy,\nla lava avanza, quema y desliza,\ngritando al mundo: 'Aquí estoy'.\nForja de Hefesto, martillo ardiente,\npoder destructor y renaciente.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Volcán"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Este segundo que pasa es el único tesoro que poseemos realmente, una joya que se desvanece al ser tocada.\nVivir en el ahora es el arte más difícil, es sostener el aliento del universo en el hueco de la mano.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "instante"
+  }
+}

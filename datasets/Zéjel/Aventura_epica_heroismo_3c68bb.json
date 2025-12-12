@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El muro ya no es mal,\nla pena me es fatal.\n\nLa roca ya me ganó,\nla vida me probó,\nel alma se me sanó,\nla pena me es fatal.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "fuerte"
+  }
+}

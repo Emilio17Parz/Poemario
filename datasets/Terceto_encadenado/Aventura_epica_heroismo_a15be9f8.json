@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La senda épica llama sin medida,\nEl heroísmo brota en cada afán,\nPor una causa noble, bendecida.\n\nEl heroísmo brota en cada afán,\nCon la luz de la aurora ya radiante,\nViejos fantasmas de la noche van.\n\nCon la luz de la aurora ya radiante,\nSujeta firme la ancestral espada,\nSu brillo es un presagio desafiante.\n\nSujeta firme la ancestral espada,\nLa gesta exige coraje singular,\nContra la bestia en su guarida helada.\n\nLa gesta exige coraje singular,\nEl pueblo espera ansioso su victoria,\nEl héroe va dispuesto a batallar.\n\nEl pueblo espera ansioso su victoria,\nQue el nombre del valiente sea inmortal,\nEscrita quede en cada dulce historia.\n\nQue el nombre del valiente sea inmortal,\nPor siempre viva su legado real.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "espada"
+  }
+}

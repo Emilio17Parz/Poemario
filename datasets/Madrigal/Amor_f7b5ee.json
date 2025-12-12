@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu cabello dorado,\nque al sol envidia da con su reflejo,\nme tiene aprisionado,\nen la red de tu amor, dulce y perplejo.\nHilos de luz que bajan por tu espalda,\nhermosa guirnalda,\natadme fuerte a vuestra dueña hermosa,\nla más bella rosa.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "oro"
+  }
+}

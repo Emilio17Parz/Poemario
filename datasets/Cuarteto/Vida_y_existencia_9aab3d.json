@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El reloj del tiempo sigue su marcha leal,\ncada tic es vida, es un don sin par,\nno pierdas el 'ahora', no hagas el mal,\nla única forma de amar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Reloj"
+  }
+}

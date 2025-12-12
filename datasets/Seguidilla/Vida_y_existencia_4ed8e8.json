@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo pasa rápido,\ncomo una flecha,\ny deja nuestra vida,\nmuy estrecha.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "flecha"
+  }
+}

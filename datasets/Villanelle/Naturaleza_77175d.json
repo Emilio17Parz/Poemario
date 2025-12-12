@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Caen las hojas de oro viejo,\ncubriendo el suelo de soledad,\ny el bosque pierde su reflejo.\n\nEs el ciclo y el consejo,\nde la natura y su verdad,\ncaen las hojas de oro viejo.\n\nMe miro en el triste espejo,\nde la marchita realidad,\ny el bosque pierde su reflejo.\n\nTodo se vuelve más parejo,\nen esta gris tonalidad,\ncaen las hojas de oro viejo.\n\nEl sol se aleja y me alejo,\nde la pasada claridad,\ny el bosque pierde su reflejo.\n\nEn este tiempo perplejo,\nbusco un poco de piedad,\ncaen las hojas de oro viejo,\ny el bosque pierde su reflejo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

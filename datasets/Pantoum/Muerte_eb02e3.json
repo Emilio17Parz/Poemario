@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cruza la barca la laguna,\naguas oscuras de misterio.\nNo se refleja ni la luna,\nen este pálido imperio.\n\nAguas oscuras de misterio,\nel barquero rema despacio.\nEn este pálido imperio,\nentre el tiempo y el espacio.\n\nEl barquero rema despacio,\nno se refleja ni la luna.\nEntre el tiempo y el espacio,\ncruza la barca la laguna.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "barca"
+  }
+}

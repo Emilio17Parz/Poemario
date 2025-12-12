@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Comió Eva la manzana,\nque la serpiente le dio,\ny el paraíso cerrado\npara el hombre se quedó.\nPerdimos la inocencia,\nel dolor comenzó,\ny la muerte entró en el mundo\ncomo un negro dominó.\nPero queda la esperanza,\nque el cielo prometió,\nde volver a la gracia\nque el pecado rompió.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "manzana"
+  }
+}

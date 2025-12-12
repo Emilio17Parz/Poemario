@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar golpea la roca dura,\ncon su incesante y fuerte vaivén,\ncantando su eterna partitura.\n\nEs un abismo de gran altura,\nque a los marinos no trata bien,\nel mar golpea la roca dura.\n\nEn su profunda negrura,\nesconde monstruos también,\ncantando su eterna partitura.\n\nBelleza llena de bravura,\nque nadie logra poner el sien,\nel mar golpea la roca dura.\n\nSu espuma blanca y pura,\nsalta y salpica el andén,\ncantando su eterna partitura.\n\nNaturaleza que perdura,\nmás allá de nuestro edén,\nel mar golpea la roca dura,\ncantando su eterna partitura.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mar"
+  }
+}

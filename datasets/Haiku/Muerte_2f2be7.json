@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedras y nombres,\nmusgo sobre las letras,\nolvido lento.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "letras"
+  }
+}

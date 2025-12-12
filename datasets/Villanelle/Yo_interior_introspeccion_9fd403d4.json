@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro fijamente en el espejo,\nbuscando el rostro que un día fui,\ny encuentro un ser cansado y viejo.\n\nEl tiempo deja su fiel consejo,\nen las arrugas que descubrí,\nme miro fijamente en el espejo.\n\nMe siento extraño y algo perplejo,\nante la imagen que tengo aquí,\ny encuentro un ser cansado y viejo.\n\nEs el final y el triste dejo,\nde la juventud que perdí,\nme miro fijamente en el espejo.\n\nPero en los ojos veo un reflejo,\nde la esperanza que no vendí,\ny encuentro un ser cansado y viejo.\n\nAcepto el paso y no me quejo,\nde lo que el destino medio,\nme miro fijamente en el espejo,\ny encuentro un ser cansado y viejo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

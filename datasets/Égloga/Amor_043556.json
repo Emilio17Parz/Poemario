@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Madura está la uva en la vid,\nmaduro nuestro amor en el pecho.\nTodo lo que hemos dicho y hemos hecho\nnos une como a la espada el lid.\nVen, amada, y del racimo pedid,\nque nuestro lecho es de hierba y helecho.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "uva"
+  }
+}

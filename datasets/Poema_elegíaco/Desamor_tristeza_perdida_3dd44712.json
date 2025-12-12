@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche es larga y solitaria,\nsin tu presencia que me console,\nmi alma triste se inmole,\nen esta pena diaria.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "noche"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Es un escándalo la pobreza en un mundo donde sobra el pan.\nMientras unos banquetean, otros recogen las migajas bajo la mesa.\nLa pobreza no es un destino fatal, es el fruto de la injusticia humana.\nAy de aquellos que acumulan riquezas a costa del sudor ajeno.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

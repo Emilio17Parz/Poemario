@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fantasma gris\nque paraliza el paso\nmente que teme.\nDebo cruzar el muro\npara poder vivir.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

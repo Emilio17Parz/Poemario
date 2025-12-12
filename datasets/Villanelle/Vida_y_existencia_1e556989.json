@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hacemos huella al caminar,\nsin saber dónde está el destino,\nsolo nos queda continuar.\n\nNo se permite regresar,\npor el sendero del espino,\nhacemos huella al caminar.\n\nA veces toca descansar,\ny beber agua y beber vino,\nsolo nos queda continuar.\n\nLa vida es un peregrinar,\nbajo el sol y bajo el pino,\nhacemos huella al caminar.\n\nHay que caer y levantar,\nel ánimo del campesino,\nsolo nos queda continuar.\n\nHasta la meta alcanzar,\no hasta que acabe el camino,\nhacemos huella al caminar,\nsolo nos queda continuar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "camino"
+  }
+}

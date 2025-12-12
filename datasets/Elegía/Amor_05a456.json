@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Viaje compartido que terminó en desvío,\nmi ruta es ahora un camino sin puerto.\nCada paso es eco de un lamento frío,\nel alma vagando en el vasto desierto.\nNo queda el rumbo, ni la fe primera,\nsolo la senda que mi pena espera.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

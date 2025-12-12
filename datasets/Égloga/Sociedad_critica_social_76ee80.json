@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hay trigo en el granero,\ndel señor del castillo,\npero ni un panecillo,\npara el jornalero.\n\nEs el sendero,\nde la desigualdad,\nsin piedad,\nni compañero.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

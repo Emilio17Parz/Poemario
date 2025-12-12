@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La mano helada que la vida ciñe,\nel velo oscuro sobre el rostro amado,\nllega sin prisa,\nel fin, inevitable.\n\nEl alma etérea deja cuerpo y tierra,\nse va diluyendo en la bruma eterna,\nmudo el gemido,\nla voz ya no resuena.\n\nMas queda el eco de lo que fue un día,\nel rastro dulce de la gracia ausente,\nhonda memoria,\nun pulso que no muere.\n\nLa Parca fría su guadaña esgrime,\nderriba el muro de la carne frágil,\nmas no los sueños,\nque el corazón atesora.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

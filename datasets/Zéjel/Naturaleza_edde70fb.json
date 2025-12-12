@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Baja cantando el río,\nhuyendo del gris frío.\n\nCon agua cristalina,\nque a la mar se encamina,\ny todo lo ilumina,\ncon su gran poderío.\n\nBaja cantando el río,\nhuyendo del gris frío.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "río"
+  }
+}

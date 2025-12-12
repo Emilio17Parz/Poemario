@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ganar tierra,\ny bandera,\nque espera,\nla guerra.\nSe encierra,\nla ambición,\ny pasión,\nque aterra.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

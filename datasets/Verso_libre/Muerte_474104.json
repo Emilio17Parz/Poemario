@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos polvo de estrellas\nque tomó forma por un instante.\nY al polvo volvemos,\nátomos liberados\nlistos para ser flor, nube o tierra\notra vez.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

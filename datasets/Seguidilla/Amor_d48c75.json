@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor es el agua (7a),\nque calma mi sed (5b),\nla dulce y suave fragua (7c),\nsin un solo red (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Manantial"
+  }
+}

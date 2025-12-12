@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El hálito de una gran misión,\nQue enciende la pura emoción,\nDel héroe de fuerte corazón.\n\nPor sendas lejanas se va,\nSu acero por siempre brillará,\nLa fe que lo guía lo elevará.\nDel héroe de fuerte corazón.\n\nMil pruebas debe superar,\nSecretos antiguos desvelar,\nSu estirpe en la historia marcar.\nDel héroe de fuerte corazón.\n\nEn fiera **batalla** ha de entrar,\nCon brío que al miedo hará temblar,\nLa victoria al fin va a ganar.\nDel héroe de fuerte corazón.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

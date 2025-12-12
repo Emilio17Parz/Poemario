@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque canta su ancestral rumor,\nMientras el viento danza sin igual,\nCon hojas secas, un vaivén fatal,\nEl bosque canta su ancestral rumor.\n\nLa fuente clara brota con fulgor,\nEsculpiendo el paisaje vegetal,\nMientras el viento danza sin igual,\nLa fuente clara brota con fulgor.\n\nLa tierra fértil, de profundo amor,\nSustenta vida, fuerte y esencial,\nEl bosque canta su ancestral rumor,\nMientras el viento danza sin igual,\nUn ciclo eterno, sin temor ni error,\nEn este mundo siempre natural.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "viento"
+  }
+}

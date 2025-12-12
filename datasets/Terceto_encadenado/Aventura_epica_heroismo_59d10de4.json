@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La senda incierta llama con fulgor,\nun eco antiguo guía al valeroso,\nbuscando el fin de un tiempo de dolor.\n\nEl héroe avanza, firme y poderoso,\ncon paso audaz cruza el umbral sombrío,\njamás su espíritu será perezoso.\n\nBajo un cielo de estrellas, noche o río,\nla noble *espada* ciñe en su costado,\nel alma arde con fervor bravío.\n\nEl mal acecha, fiero y despiadado,\nmas frente a él, su luz no ha de ceder,\npor el destino, ya está predestinado.\n\nNinguna fuerza lo podrá vencer,\nla leyenda de su hazaña se forjará,\nsu nombre eterno va a trascender.\n\nEn gestas épicas, de viva voz,\npor siempre su victoria cantará.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "espada"
+  }
+}

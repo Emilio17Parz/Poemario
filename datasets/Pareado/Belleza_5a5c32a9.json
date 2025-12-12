@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pinceles de gran color,\npintan el mundo mejor.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "pinceles"
+  }
+}

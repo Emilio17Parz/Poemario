@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lloro lágrimas de sal\npor tu amor que ya se fue,\ny sin ti perdí la fe\nen este mundo fatal.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Buscan el oro escondido,\nen la isla del pirata,\npor la codicia movido.\n\nMapa viejo y perdido,\nque la ruta desata,\nbuscan el oro escondido.\n\nHan navegado y sufrido,\npor la moneda de plata,\npor la codicia movido.\n\nMuchos hombres han caído,\nen esta empresa ingrata,\nbuscan el oro escondido.\n\nEl cofre está protegido,\npor una trampa que mata,\npor la codicia movido.\n\nSueño de rico vivido,\nque el destino arrebata,\nbuscan el oro escondido,\npor la codicia movido.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

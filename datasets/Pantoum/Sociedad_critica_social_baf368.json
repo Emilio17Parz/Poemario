@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Soldados marchan al frente,\npor causas que no comprenden.\nSufre toda la gente,\nmientras los odios se encienden.\n\nPor causas que no comprenden,\nmueren jóvenes en flor.\nMientras los odios se encienden,\nse siembra solo dolor.\n\nMueren jóvenes en flor,\nsufre toda la gente.\nSe siembra solo dolor,\nsoldados marchan al frente.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

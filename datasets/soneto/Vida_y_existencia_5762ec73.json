@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es combatir contra la suerte,\nalzar el escudo ante la desgracia,\nbuscar en la derrota la eficacia\npara volver al ruedo mucho más fuerte.\n\nNo es vida la que teme a la muerte,\nni la que se conforma con la falacia,\nsino la que conquista con audacia\nel premio que el destino le revierte.\n\nCada día es batalla en la trinchera,\ncontra el miedo, la duda y el dolor,\nuna guerra constante y duradera.\n\nPero en la lucha encuentra su valor\nel alma que se fraguó verdadera,\nvenciendo con coraje y con honor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El alma audaz, a un sueño va,\ndo el horizonte se alzará,\ncon temple férreo, sin temor,\nen busca de un gran valor,\npor senderos de luz y fe,\nla gloria aguarda, ¿quién lo ve?\n\nPor cumbres viejas, de alta luz,\nbajo un celaje que es la cruz,\ndonde el peligro acecha cruel,\ny un bravo **dragón** guarda el vergel,\nla espada brilla, sin dudar,\nun mundo nuevo por ganar.\n\nNo hay tesoro de oro igual,\nque venza al hálito inmortal,\ndel héroe que con gran pasión,\nforja su épica canción,\nal fin la gesta se cumplió,\nun nuevo alba amaneció.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

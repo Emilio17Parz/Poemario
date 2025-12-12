@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Saber es luz,\ncontra la sombra,\nque nos asombra,\ncon su capuz.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "educación"
+  }
+}

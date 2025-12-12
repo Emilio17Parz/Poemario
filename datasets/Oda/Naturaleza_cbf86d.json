@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante azul,\nde espuma y sal,\nfuerza vital,\nbajo el cielo tul.\nTu rugido eterno,\nes mi canto interno.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "mar"
+  }
+}

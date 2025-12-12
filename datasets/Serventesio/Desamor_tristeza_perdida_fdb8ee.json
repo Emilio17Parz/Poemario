@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mis ojos son dos fuentes de tristeza,\nque no paran de echar agua de sal,\nhe perdido la calma y la entereza,\nsumido en este drama tan fatal.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

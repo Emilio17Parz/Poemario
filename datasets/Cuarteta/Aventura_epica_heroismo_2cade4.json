@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La espada es su voz, el fiel instrumento,\nque corta la mentira, que vence al mal,\nsu filo es justicia, su noble argumento,\nla verdad que es pura, la verdad real.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Espada"
+  }
+}

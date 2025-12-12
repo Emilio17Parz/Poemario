@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Aquello que nos deja sin aliento,\nante la inmensidad del mar,\no el cielo estelar,\nen el firmamento.\n\nSentimiento,\nde miedo y amar,\nal contemplar,\nel movimiento.\n\nLo sublime nos eleva,\npor encima de todo,\ny nos lleva.\n\nDe modo,\nque nieva,\nen el lodo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "estelar"
+  }
+}

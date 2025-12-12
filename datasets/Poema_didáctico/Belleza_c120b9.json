@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sin luz no hay color,\nbusca el brillo solar,\nevita el dolor,\nde la oscuridad.\nIlumina tu entorno,\nsin pedir retorno.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

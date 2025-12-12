@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Busca la rima,\nen el texto,\nel contexto,\nque estima.\nEn la cima,\npretexto.\nBusca la rima.\n\nPalabras bellas,\nque resuenan,\nque llenan,\nlas huellas.\nLas estrellas,\ncenan.\nBusca la rima.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "rima"
+  }
+}

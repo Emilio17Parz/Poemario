@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El dulce y lejano recuerdo,\nes fuerza sin un gran entuerto.\nMe da un gran valor,\nsin un solo error,\nel alma que tiene un acuerdo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Recuerdo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Parca afiló su guadaña,\npara hacer una gran hazaña.\nCortó una flor,\ncon mucho amor,\ny se fue a la montaña.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "guadaña"
+  }
+}

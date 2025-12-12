@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Muchos buscan la gloria\nen el campo de batalla,\ndonde la muerte no calla\ny se escribe la historia.\nPero es vana y transitoria\nla corona del laurel,\nsi se mancha el papel\ncon la sangre del hermano,\nes un triunfo muy vano\ny un destino cruel.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "gloria"
+  }
+}
