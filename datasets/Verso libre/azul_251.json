@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sí, lancheros; sobre las grandes embarcaciones chatas y negras;\ncolgándose de la cadena que rechina pendiente como una sierpe de hierro\ndel macizo pescante que semeja una horca; remando de pie y a compás;\nyendo con la lancha del muelle al vapor y del vapor al muelle; gritando,\n¡biiooeep! cuando se empujan los pesados bultos para engancharlos en la\nuña potente que los levanta balanceándolos como un péndulo, ¡sí!\nlancheros; el viejo y el muchacho, el padre y el hijo; ambos a\nhorcajadas sobre un cajón, ambos forcejeando, ambos ganando su jornal,\npara ellos y para sus queridas sanguijuelas del conventillo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

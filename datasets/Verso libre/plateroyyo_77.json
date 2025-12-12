@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todos los días, cuando, al empezar la cuesta, tomamos el atajo, tú la\nhas visto en su puesto verde. Ya tiene á su lado un pajarillo, que se\nlevanta--¿por qué?--al acercarnos; ó está llena, cual una breve copa,\ndel agua clara de una nube de verano; ya consiente el robo de una abeja\nó el voluble adorno de una mariposa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

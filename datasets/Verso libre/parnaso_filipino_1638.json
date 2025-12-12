@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es tímida y es ingénua, sincera en sus sentimientos\ny sabe cubrir de rosas celestes nuestros caminos\ncuando se apaga, entre el lloro de los ojos macilentos\ny gritos de horror, la estrella de nuestros pobres destinos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

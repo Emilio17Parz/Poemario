@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "»El vivir que es perdurable\nNo se gana con estados\nMundanales,\nNi con vida deleitable\nEn que moran los pecados\nInfernales;\nMas los buenos religiosos\nGánanlo con oraciones\nY con lloros;\nLos caballeros famosos\nCon trabajos y aflicciones\nContra moros.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

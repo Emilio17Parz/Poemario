@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Preparen tus manos la mesa,\nel plato de arroz y hasta el vino.\n¡La sombra en la luz hace presa\ny es largo y tortuoso el camino!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Concluída esta breve introducción histórica, el héroe de la fiesta\nguardó silencio durante algunos segundos como para coordinar sus\nrecuerdos, y prosiguió así:",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

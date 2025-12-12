@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Otros alfeñicados y deshechos\nEn puro azucar, con la voz süave,\nDe su melifluidad muy satisfechos,",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

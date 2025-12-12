@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pero si grande, si imponente se presenta la catedral á nuestros ojos á\ncualquier hora que se penetra en su recinto misterioso y sagrado,\nnunca produce una impresión tan profunda como en los días en que\ndespliega todas las galas de su pompa religiosa, en que sus\ntabernáculos se cubren de oro y pedrería, sus gradas de alfombra y sus\npilares de tapices.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

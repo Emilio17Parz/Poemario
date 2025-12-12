@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Dios ha puesto en el arco de tus cejas\nla excelsitud de un arco-iris santo,\nigual que pongo un borbotón de canto\nen una lira de cadencias viejas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

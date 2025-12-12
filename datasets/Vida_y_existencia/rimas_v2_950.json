@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vuela á ese mundo do el error no existe,\nDo la verdad magnética se viste\nCon casta desnudez:\nY cuando el manto de la fé te cubra,\nDínos lo que tu vista allá descubra,\nY desde lo alto de ese mundo ves.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tras los cristales del jardin sombrío\npasar he visto tu perfil romano,\nhundida en el landó, con tu mundano\ngesto de burla, de desdén y hastío.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

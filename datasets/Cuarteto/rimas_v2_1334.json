@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Oh! no me digas que la «vida es sueño»\nTriste salmista en tu cantar amargo,\nPorque el alma no vive en el letargo\nQue es de la muerte pálido diseño.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

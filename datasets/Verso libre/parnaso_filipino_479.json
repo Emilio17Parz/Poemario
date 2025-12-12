@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la calma apetecible de los pueblos escondidos,\nComo duendes protectores en las sendas se levantan,\nDeclamando sus estrofas de lirismo incomprensible,\nA la vez que por sus hojas ruedan tímidas las lágrimas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Vibraba el órgano con sus voces trémulas, vibraba acompañando la\nantífona, llenando la nave con su armonía gloriosa. Los cirios ardían\ngoteando sus lágrimas de cera entre la nube de incienso que inundaba los\námbitos del templo con su aroma sagrado; y allá en el altar, el\nsacerdote, todo resplandeciente de oro, alzaba la custodia cubierta de\npedrería, bendiciendo a la muchedumbre arrodillada.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

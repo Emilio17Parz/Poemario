@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Al hombre, por lo tanto, le basta la materia\npara explicar la vida con toda su miseria,\ncon todos sus quebrantos y con todos sus males.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

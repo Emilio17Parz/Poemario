@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es una historia que, aunque transmitida hasta nosotros por documentos\nde aquel siglo y testificada aún por la presencia de un monumento\nmaterial, prodigio del arte, elevado en su conmemoración, no quisiera\nentregarla al frío y severo análisis de la crítica filosófica, piedra\nde toque á cuya prueba se someten hoy día todas las verdades.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Corderito mío,\nsuavidad callada:\nmi pecho es tu gruta\nde musgo afelpada.\nCarnecita blanca,\ntajada de luna:\nlo he olvidado todo\npor hacerme cuna.\nMe olvidé del mundo\ny de mí no siento\nmás que el pecho vivo\ncon que te sustento.\nY sé de mí sólo\nque en mí te recuestas.\nTu fiesta, hijo mío,\napagó las fiestas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

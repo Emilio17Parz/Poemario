@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Y huyeron las mariposas blancas y las libélulas azules, dejando su\nlugar á los insectos obscuros que venían á roer nuestras fibras y á\ndepositar en nuestro seno sus asquerosas larvas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

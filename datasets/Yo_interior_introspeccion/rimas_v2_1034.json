@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Adios, sueño querido, que me halagó un instante\nCuando soñé demente que un corazon amante\nLatia sobre el mio con férvido afanar,\nAdios, visiones vagas que atormentais mi pecho\n¡Oh no volvais ya nunca á visitar mi lecho,\nQue aunque soñar es dulce, muy triste es despertar!",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

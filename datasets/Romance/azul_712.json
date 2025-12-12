@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Van en sus grupos vibrantes\nrevolando las abejas\ncomo un áureo torbellino\nque la blanca luz alegra;\ny sobre el agua sonora\npasan radiantes, ligeras,\ncon sus alas cristalinas\nlas irisadas libélulas.\nOye: canta la cigarra\nporque ama al sol, que en la selva\nsu polvo de oro tamiza,\nentre las hojas espesas.\nSu aliento nos da en un soplo\nfecundo la madre tierra,\ncon el alma de los cálices\ny el aroma de las yerbas.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ea')"
+  }
+}

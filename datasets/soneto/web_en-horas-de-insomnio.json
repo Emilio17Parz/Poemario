@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Me voy de aquí, no quiero más oírme;\nde mi voz toda voz suéname a eco,\nya falta así de confesor, si peco\nse me escapa el poder arrepentirme.\nNo hallo fuera de mí en que me afirme\nnada de humano y me resulto hueco;\nsi esta cárcel por otra al fin no trueco\nen mi vacío acabaré de hundirme.\nOh triste soledad, la del engaño\nde creerse en humana compañía\nmoviéndose entre espejos, ermitaño.\nHe ido muriendo hasta llegar al día\nen que espejo de espejos, soy me extraño\na mí mismo y descubro no vivía.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tendido entre las patas del caballo,\nEn vez de sangre revolcado en vino:\nTales son tus proezas, vil lacayo;\nTales tus hechos son, vil asesino.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

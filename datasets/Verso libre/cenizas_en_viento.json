@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cenizas en viento.",
+  "poema": {
+    "texto": "Cenizas en viento\n\nCuando el recuerdo se me disuelve,\nen un corriente del tiempo perdido,\nse levantan cenizas, en el aire sutil,\ny me dejan sola, como una flor muerta.\n\nVientos que arrastran mi tristeza,\nse dispersan en la noche eterna,\nmientras yo busco en mi corazón,\nla luz perdida, más allá del horizonte.\n\nEn un jardín de recuerdos sepultados,\nsurgieron las sombras de mis sueños,\ny me dejaron solo, en la oscuridad profunda,\ncon las cenizas en viento.",
+    "tipo": "Verso_libre",
+    "palabra_clave_ingresada": "Cenizas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "125\n¡Que mañana ni otro día!,\nAl punto me contestó:\nla paga ya se acabó;\n¡siempre has de ser animal!\nMe raí y le dije: yo...\nno he recebido ni un rial.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

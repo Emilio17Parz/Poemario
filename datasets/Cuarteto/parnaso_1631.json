@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Vamos pues, y ninguno se descuide\nDe executar por eso aqui su fuerza,\nY á lo que digo solo atienda y cuide,\nSin que de mi intencion un punto tuerza.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

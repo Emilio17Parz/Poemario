@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Hizo luego de sí grata presencia\nEl gran DON LUIS FERRER, marcado el pecho\nDe honor, y el alma de divina ciencia.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

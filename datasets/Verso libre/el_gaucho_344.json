@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "311\nNo me gusta que otro gallo\nle cacaree a mi gallina;\nyo andaba ya con la espina,\nhasta que en una ocasión\nlo pille junto al jogón\nabrazándome a la china.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "183\nMas también en este juego\nvoy a pedir mi bolada;\na naides le debo nada,\nni pido cuartel ni doy:\ny ninguno dende hoy\nha de llevarme en la armada.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

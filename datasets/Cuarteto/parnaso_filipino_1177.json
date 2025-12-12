@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Te cierro ya. En la noche de su sueño,\n¡paz al patriota que escribió tus páginas!\ndile que sus hermanos no le olvidan,\nque en cada pecho se le erige un ara.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

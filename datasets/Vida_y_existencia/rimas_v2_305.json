@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Con mártires de grandes corazones\nSe alzan y regeneran las naciones\nY su sangre es la ofrenda que les dan:\nMártir fué el Redentor, y de un madero\nDo lo enclavó el impio, al mundo entero\nRegeneró con su mision de paz.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

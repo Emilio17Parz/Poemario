@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¿Quién ignora la influencia que la poesía tuvo en la batalla de\nHastings? La historia nos cuenta que próximos á chocarse los ejércitos\nde Haroldo y de Guillermo el Conquistador, un caballero normando, dando\nespuelas á su caballo, entonó entre los dos ejércitos el célebre canto\ncarlovingiano, que conocemos desde aquella época con el título de\n«Cancion de Rolando», y que es la mas sublime epopeya de la edad media.\nEl poeta, presentando el ejemplo de paladin de Roncesvalles, y evocando\nlos gloriosos nombres de Carlo Magno, de Oliverio y de Turpin, logró\ninflamar el entusiasmo de los normandos, escitándolos á vencer ó morir,\ny por eso vencieron, repitiendo en coro la «Cancion de Rolando». Dán\ntestimonio de esto el poeta Wacé, y los historiadores Guillermo de\nMalmesbury, Mateo de Paris, Ralph Hyden, Alberico y Mateo de\nWestminster.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

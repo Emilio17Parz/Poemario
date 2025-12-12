@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "mirtácea esplendorosa...!\n¡Quién pudiera en tus fibras inyectar\nla esencia misteriosa\ndel alma congojosa\nque no ha podido el llanto debelar!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

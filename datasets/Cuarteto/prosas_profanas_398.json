@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Fuera, el frondoso jardín del poeta\nRíe en su fresca y gentil hermosura;\nÁgata, perla, amatista, violeta,\nVerdor eclógico y tibia espesura.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Historia de los Templos de España, _publicada bajo la protección de\nSS. MM. AA. y muy reverendos señores arzobispos y obispos--dirigida\npor D. Juan de la Puerto Vizcaino y D. Gustavo Adolfo Becquer. Tomo I,\nMadrid, 1857. Imprenta y Estereotipia Española de los Señores Nieto y\nCampañía._ Becquer is the author of only a portion of this work--see\nIntroduction, p. xx.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

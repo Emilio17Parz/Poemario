@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cerraron sus ojos\nQue aún tenía abiertos;\nTaparon su cara\nCon un blanco lienzo:\nY unos sollozando,\nOtros en silencio,\nDe la triste alcoba\nTodos se salieron.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

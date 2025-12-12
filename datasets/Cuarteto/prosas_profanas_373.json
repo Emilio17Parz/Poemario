@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y en la fragante, harmoniosa floresta,\nPuesto a los ecos su oído de musa,\nPan sorprendióla escuchando la orquesta\nQue él daba al viento con su cornamusa.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

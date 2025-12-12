@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "The second essential element of Spanish verse is a rhythmic\ndistribution of accents within a line. Words have an accent of their\nown and another stronger accent on account of their position in a\nverse.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

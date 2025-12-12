@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Por igual en las pampas argentinas\nQue en nuestras sementeras filipinas,\nLa espiga de oro que en el sol se baña\nY la flor que perfuma estremecida,\nFlor que es el alma, espiga que es la vida,\nSon vida y alma tuyas, madre España...",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

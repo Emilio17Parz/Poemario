@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Volverá el peregrino a su patria,\ny a sus lares tal vez volverá,\ny hallará por doquier nieve y ruina,\namores perdidos, sepulcros, no más.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

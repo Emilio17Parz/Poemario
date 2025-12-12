@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aquí tiene Vd. como al descomponer los versos y ensartarlos unos tras\notros, no ha hecho otra cosa que plagiar á los primitivos prosadores,\nrepitiendo sin sospecharlo, uno de los pasos mas gigantescos que haya\ndado el lenguage universal, cual es la transicion del verso á la prosa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

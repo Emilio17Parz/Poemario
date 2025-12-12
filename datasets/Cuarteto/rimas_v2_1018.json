@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Quieta es la superficie de sus aguas\nSi el viento no la agita con furor,\nComo tu frente es cándida y serena\nSi no la agita el soplo del amor.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

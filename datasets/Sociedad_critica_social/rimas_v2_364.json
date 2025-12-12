@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "«Su nombre está escrito del pueblo en el seno,\nDe sus altas glorias el mundo está lleno,\nSu frente circuye laurel inmortal;\nAtleta de Mayo, venció los esclavos,\nDe un pueblo de siervos rompiendo los clavos\nBañó su cabeza con óleo de paz.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

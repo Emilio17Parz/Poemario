@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Quien escribió estas páginas admirables, de noble y sana idealidad;\nquien trazó con la misma pluma las quiméricas figuras de sus\nleyendas, hijas de un corazón todo fantasía, é iluminadas por la\nclaridad de un alto símbolo poético, y quien dejó á su breve paso por\nentre los humanos esas divinas oraciones de amor que se llaman rimas,\nbien digno es del recuerdo que le hemos consagrado entre todos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Después de dar un vistazo á la posada, hice presente al posadero el\nobjeto que en su busca me traía, el cual estaba reducido á que me\npusiese en contacto con alguien que me quisiera ceder una caballería\npara trasladarme á Veruela, punto al que no se puede llegar de otro\nmodo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

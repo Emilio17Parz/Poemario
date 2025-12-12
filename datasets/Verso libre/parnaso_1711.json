@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sin duda que los fieros Numantinos\nDel barbaro furor suyo incitados,\nViendose sin remedio de salvarse,\nAntes quisieron entregar las vidas\nAl filo agudo de sus propios hierros,\nQue no á las vencedoras manos nuestras\nAborrecidas dellos lo posible.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

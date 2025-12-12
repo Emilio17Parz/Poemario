@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "65\nDe los pobres que allí había\na ninguno lo largaron,\nlos más viejos rezongaron,\npero a uno que se quejó\nen seguida lo estaquiaron,\ny la cosa se acabó.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

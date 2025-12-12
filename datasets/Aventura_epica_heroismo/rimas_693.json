@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Intenté dormir de nuevo; ¡imposible! Una vez aguijoneada, la\nimaginación es un caballo que se desboca y al que no sirve tirarle de\nla rienda. Por pasar el rato me decidí á escribirla, como en efecto\nlo hice.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

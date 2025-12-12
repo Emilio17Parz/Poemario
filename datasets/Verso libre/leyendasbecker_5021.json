@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "poco, -a, little; _pl._, some, a few; á los --s minutos, within a few\nminutes; _adv._, little, slightly, somewhat; un --, a little,\nslightly, somewhat; á --, in a little while; soon; á -- de, shortly\nafter; -- á --, little by little, slowly, gently, softly, gradually;\n-- más ó menos, a little more or less; approximately, nearly, about.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

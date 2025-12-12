@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No mirais aquel mendigo\nDe aquella iglesia á la puerta,\nCuya miseria despierta\nSimpática compasion;\nY que á todos los que pasan\nTendiendo mano transida,\nPide con voz dolorida\n_Una limosna por Dios!_",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

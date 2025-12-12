@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "[3] Histórico. Santos Vega murió de dolor por haber sido vencido por un\njóven, en el canto que los gauchos llaman de contrapunto: cuando la\ninspiracion del improvisador faltó á su mente, su vida se apagó. La\ntradicion popular dice que aquel cantor desconocido era diablo, pues\nsolo él podia haber vencido á Santos Vega.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

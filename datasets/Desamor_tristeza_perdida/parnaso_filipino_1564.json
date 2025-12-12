@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Y cuando ya mi tumba, de todos olvidada,\nno tenga cruz ni piedra que marquen su lugar,\ndeja que la are el hombre, la esparza con la azada,\ny mis cenizas, antes que vuelvan a la nada,\nel polvo de tu alfombra que vayan a formar.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

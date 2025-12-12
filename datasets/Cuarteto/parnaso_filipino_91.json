@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Hoy, como ayer, la multitud te aclama,\nte elogia el sabio, te celebra el sistro;\ny es actual, por imperio de tu fama,\ntu investidura de primer ministro.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

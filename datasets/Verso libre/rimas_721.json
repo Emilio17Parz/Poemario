@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los dos jóvenes volvieron á quedarse en silencio, y volvióse á oir\nla cascada voz de las viejas que hablaban de brujas y de trasgos, y\nel zumbido del aire que hacía crujir los vidrios de las ojivas, y el\ntriste y monótono doblar de las campanas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

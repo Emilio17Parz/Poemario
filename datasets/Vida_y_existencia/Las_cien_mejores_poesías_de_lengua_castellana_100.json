@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Los placeres y dulçores\nD’esta vida trabajada\nQue tenemos,\n¿Qué son sino corredores,\nY la muerte es la celada\nEn que caemos?\nNo mirando a nuestro daño\nCorremos a rienda suelta\nSin parar;\nDes que vemos el engaño\nY queremos dar la vuelta\nNo hay lugar.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

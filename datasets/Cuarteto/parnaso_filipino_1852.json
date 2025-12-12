@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Cuando rodeada de banderas rojas\nsucumbas en tu propia barricada,\nnuestro ideal no morirá contigo;\n¡el cuerpo se desploma, nunca el alma!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Figulina delicada, no es frívola ni es coqueta,\nsino hermana cariñosa de su ardiente fantasía;\nes mística, cual lo son los ensueños de un poeta\nque se agrandan como el vuelo de melódica armonía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

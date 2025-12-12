@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todo mandato es minucioso\ny cruel\nme gustan\nlas frugales transgresiones\nPor ejemplo inventar el buen\namor\naprender\nen los cuerpos y en tu cuerpo\nOír la noche y no decir\namén\ntrazar\ncada uno el mapa de su audacia\nAunque nos olvidemos\nde olvidar\nseguro\nque el recuerdo nos olvida\nObedecer a ciegas deja\nciego\ncrecemos\nsolamente en la osadía\nSolo cuando transgredo alguna\norden\nel futuro\nse vuelve respirable\nTodo mandato es minucioso\ny cruel\nme gustan\nlas frugales transgresiones.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

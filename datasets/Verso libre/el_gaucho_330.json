@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "297\nHoy tenemos que sufrir\nmales que no tienen nombre,\npero esto a nadies lo asombre\nporque ansina es el pastel,\ny tiene que dar el hombre\nmas güeltas que un carretel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

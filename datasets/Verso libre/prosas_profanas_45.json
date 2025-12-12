@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_El abuelo español de barba blanca me señala una serie de retratos\nilustres: \"Este, me dice, es el gran don Miguel de Cervantes Saavedra,\ngenio y manco; éste es Lope de Vega, éste Garcilaso, éste Quintana.\" Yo\nle pregunto por el noble Gracián, por Teresa la Santa, por el bravo\nGóngora y el más fuerte de todos, don Francisco de Quevedo y Villegas.\nDespués exclamo: ¡Shakespeare! ¡Dante! ¡Hugo...! (Y en mi interior:\n¡Verlaine...!)_",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

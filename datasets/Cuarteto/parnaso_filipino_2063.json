@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Murió la libertad. Al solio augusto\nel tirano ascendió... ¡Vedle, arrogante,\nconvertir de la patria el cuerpo hermoso\nen insepulto y colosal cadáver!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

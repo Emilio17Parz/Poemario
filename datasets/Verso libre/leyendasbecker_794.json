@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: El Tajo = 'The Tagus.' \"The longest river in the\nSpanish peninsula.... It rises in the province of Teruel, Spain, in\nthe mountain Muela de San Juan; flows west through New Castile and\nEstremadura; forms part of the boundary between Spain and Portugal;\nand empties by two arms into the Bay of Lisbon. The chief city on\nits banks in Spain is Toledo.\" _Century Dict._]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 2: Aragón. \"An ancient kingdom, now a captaincy-general of\nSpain, capital Saragossa, bounded by France on the north, by\nCatalonia on the east, by Valencia on the south, and by New Castile,\nOld Castile, and Navarre on the west, comprising the provinces of\nHuesca, Saragossa, and Teruel. It is traversed by mountains and\nintersected by the Ebro. During the middle ages it was one of the\ntwo chief Christian powers in the peninsula. In 1035 it became a\nkingdom; was united to Catalonia in 1137; rose to great influence\nthrough its acquisitions in the thirteenth and fourteenth centuries\nof Valencia, the Balearic Islands, Sardinia, and the Sicilies; and\nwas united with Castile in 1479 through the marriage of Ferdinand of\nAragon with Isabella of Castile.\" _Century Dict._]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

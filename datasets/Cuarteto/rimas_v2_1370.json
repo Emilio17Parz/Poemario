@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Feliz entonces si un pastor anciano\nPueda decir:--«La estrella matutina\n«Le vió mil veces recorrer el llano,\n«Sorprendiéndole el sol en la colina.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

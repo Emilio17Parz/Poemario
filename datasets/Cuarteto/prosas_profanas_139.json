@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "EL olímpico cisne de nieve\nCon el ágata rosa del pico\nLustra el ala eucarística y breve\nque abre al sol como un casto abanico.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

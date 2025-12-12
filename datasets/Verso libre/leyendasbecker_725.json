@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En las ráfagas del aire y confundido con los leves rumores de la\nnoche, creyó percibir un extraño rumor de voces delgadas, dulces y\nmisteriosas que hablaban entre sí, reian ó cantaban cada cual por su\nparte y una cosa diferente, formando una algarabia tan ruidosa y\nconfusa como la de los pájaros que despiertan al primer rayo del sol\nentre las frondas de una alameda.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

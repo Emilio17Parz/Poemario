@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "La comarca entera respiró en libertad durante algún tiempo, como si\ndespertara de una pesadilla.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

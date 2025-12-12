@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La verdad del caso, considerado y ponderado todo con imparcial\ncircunspección, es que tal modo retórico es ridículo cuando se toma por\nmuletilla, o sirve de pauta para escribir; pero si es espontáneo, está\nmuy bien: es el lenguaje propio de la pasión.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

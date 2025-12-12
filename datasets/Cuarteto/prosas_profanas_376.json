@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Rey misterioso, magnífico y mago.\nDueño opulento de cien Estambules,\nY a quien un genio brindara en un lago\nGóndolas de oro en las aguas azules.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

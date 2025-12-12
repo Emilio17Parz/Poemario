@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Padres míos, mi amor! ¡Cómo envenena\nLas breves dichas el temor del daño!\nHoy presidís nuestra modesta cena,\nPero en el porvenir... yo sé que un año\nVendrá sin Noche-Buena.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

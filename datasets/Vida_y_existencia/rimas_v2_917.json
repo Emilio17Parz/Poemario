@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La muerte es un don bendito,\nPorque el Maestro celestial\nSolo castigó el delito\nDe aquel Judio maldito\nCon una vida eternal.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

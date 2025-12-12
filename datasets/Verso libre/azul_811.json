@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En invernales horas, mirad a Carolina.\nMedio apelotonada, descansa en el sillón,\nenvuelta con su abrigo de marta cibelina\ny no lejos del fuego que brilla en el salón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

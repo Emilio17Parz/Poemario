@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Será execrado el triunfo de la fuerza\nen nuestra actualidad de cautiverio,\nmientras la ley de la justicia ejerza\nen la conciencia universal su imperio.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

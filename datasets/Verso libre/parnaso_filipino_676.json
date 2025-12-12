@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y han creído que era un beso muy cercano\nel suspiro de tus flores estelares,\ny han gritado: \"¡Ya, ya viene el beso hermano\na la herida que han abierto los pesares!\"",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

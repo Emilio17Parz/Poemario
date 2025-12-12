@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Campos feraces do la mies ondea,\nSelvas en donde el pájaro gorjea,\nRios que vais al mar:\nUn himno alzad con voz estrepitosa,\nQue os fecundó la sangre jenerosa\nQue enrojeció las gradas de su altar.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "himno"
+  }
+}

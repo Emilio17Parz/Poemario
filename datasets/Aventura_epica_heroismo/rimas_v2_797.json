@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Castelli desnudó su fuerte espada,\nY á los cielos la vista levantada\nSereno meditó:\nCruzó su frente signo misterioso,\nY á los libertadores dijo ansioso\nCon alta inspiracion:--",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

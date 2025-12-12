@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Los blancos caseríos que la rodean, salpicados aquí y allá sobre una\nondulante sábana de verdura, parecen á lo lejos un bando de palomas\nque han abatido su vuelo para apagar su sed en las aguas de la ribera.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

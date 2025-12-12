@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: San Huberto = 'St. Hubert.' The patron saint of\nhunters; died about 727. His memory is celebrated by the church\nNovember 3. Legend says that he was the son of a nobleman of\nAquitaine, and a keen hunter; and that once when he was engaged in\nthe chase on Good Friday, in the forest of Ardennes, a stag appeared\nto him having a shining crucifix between its antlers. He heard a\nwarning voice and was converted, entered the chnrch, and became\nbishop of Maestricht and Liège. See the _Encyclopedia Americano_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

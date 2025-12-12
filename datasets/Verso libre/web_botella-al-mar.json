@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pongo estos seis versos en mi botella al mar\ncon el secreto designio de que algún día\nllegue a una playa casi desierta\ny un niño la encuentre y la destape\ny en lugar de versos extraiga piedritas\ny socorros y alertas y caracoles.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

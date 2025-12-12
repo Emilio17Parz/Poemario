@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por las orillas fértiles del Plata\nLa gavilla de Rosas se dilata\nAmenazando hundir la Libertad:\nMontevideo grande, fiel, sublime,\nBajo el enorme peso que la oprime\nAlza tranquila el último fanal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

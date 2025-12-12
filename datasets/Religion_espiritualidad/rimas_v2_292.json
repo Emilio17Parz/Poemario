@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El cielo oyó su ruego. Esta mañana\nCuando tocaba á vuelo la campana\nY tronaba la salva del cañon,\nSintió fuego patriótico en el alma\nY cual hojas al tronco de la palma\nSu valerosa prole le rodeó.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

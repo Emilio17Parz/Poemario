@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: le. This use of the accusative _le_ instead of _lo_,\nwhen the object is not personal, is sanctioned by the Spanish\nAcademy. See _Gramática de La Lengua Castellana por La Real Academia\nEspañola_, nueva edición, Madrid, 1901, p. 241.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

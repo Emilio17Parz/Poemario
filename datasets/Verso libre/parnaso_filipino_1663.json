@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Después, el golpe rudo de un brusco desengaño\nmostróme cuán amarga es la verdad desnuda,\ny uniendo con lo cierto el dolo de un engaño\nplasmé nuevas ideas, y germinó la duda.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

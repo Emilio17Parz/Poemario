@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y el uno apoyado en el brazo del otro, los dos amigos se dirigieron\nhacia la catedral,[1] en cuya plaza,[2] y en un palacio del que ya no\nquedan ni aún los restos, habitaba doña Inés de Tordesillas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

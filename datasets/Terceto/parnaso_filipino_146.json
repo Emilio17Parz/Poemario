@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Lejos corre, seguida del crío, una potranca;\nUn carabao lustroso en un charco se estanca;\nEn su lomo una garza hace una nota blanca.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

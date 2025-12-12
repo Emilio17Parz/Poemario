@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Templa tu alma en el yunque del martirio;\nen el martirio se sublima el alma\nque batalla en el campo del trabajo\ny trabaja en el campo de batalla...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Soy el bardo rebelde que en sí encierra\nUn corazón ingente y bondadoso;\nY mi verbo es de admonición y guerra\nQue aplasta al necio vil, ruin y coloso.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

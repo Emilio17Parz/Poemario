@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Item, que los dias de ayuno no se entienda que los ha quebrantado el\npoeta que aquella mañana se ha comido las uñas al hacer de sus versos.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

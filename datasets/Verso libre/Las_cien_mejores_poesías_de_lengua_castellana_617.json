@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aquellas altas bóvedas que al cielo\nlevantaban mi anhelo;\naquella majestad solemne y grave;\naquel pausado canto, parecido\na un doliente gemido,\nque retumbaba en la espaciosa nave;",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

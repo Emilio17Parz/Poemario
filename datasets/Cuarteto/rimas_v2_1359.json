@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Así la mar en su insondable seno\nGuarda la perla honor de una corona;\nAsí la flor lejos del prado ameno\nDa su fragancia en solitaria zona.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

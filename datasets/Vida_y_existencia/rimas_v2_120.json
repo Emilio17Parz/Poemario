@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El español, que es el antiguo _romance_, y que se llamó así para\ndistinguirlo del romano ó latino, vino al mundo bajo los auspicios de la\npoesía, y por medio de ella se generalizó, se perfeccionó, y se\nperpetuó de generacion en generacion, hasta llegar á ser la lengua de\nCervantes y de Solis. El monumento mas antiguo del romance castellano,\nes el poema del Cid, que en este momento tengo ante mis ojos. Un poema\nfué, pues, el núcleo de la lengua castellana que hoy hablamos, y aunque\nno se conozcan las demas composiciones anteriores al siglo XII, en que\neste poema fué compuesto, debe suponerse que fueron en verso, pues solo\npor medio de la cadencia métrica podrían trasmitirse de generacion en\ngeneracion, sin corromperse, los libros fiados á la tradicion oral, no\nhabiéndose inventado todavía el uso del papel, siendo el pergamino\ncarísimo, y habiendo cesado de venir el papirus de Egipto con motivo de\nla invasion de los Arabes.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

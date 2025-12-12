@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No es mi musa la sílfide aturdida\nque corre tras azules mariposas,\nni tampoco es Ofelia dolorida\nque pasa desbordando tuberosas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

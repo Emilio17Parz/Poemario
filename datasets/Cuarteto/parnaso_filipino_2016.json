@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "A la muerte no temo: ¿qué es la muerte\nsino el almo principio de otra vida...?\nQueda frío en la tierra el cuerpo inerte\ny vuela el alma que en el cuerpo anida.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

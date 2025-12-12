@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Al mundo literario que te aclama\nle enalteces ¡oh clásico ironista!\ny a España le has legado con tu fama\ntu corona de insigne novelista.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

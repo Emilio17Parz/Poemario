@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mas no llores; la vida es así, amada,\ntoda lucha y dolor, pena y tormento;\nla vida es viva acción del sufrimiento\ny es imagen de amor, despedazada.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

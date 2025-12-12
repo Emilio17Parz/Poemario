@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En esos secos pétalos hay más filosofía\nQue la que darte pueda tu sabia biblioteca;\nElla en mis labios pone la mágica armonía\nCon que en mi torno encarno los sueños de mi rueca.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

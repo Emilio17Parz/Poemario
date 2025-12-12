@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La espuma impregnada de yodo y salitre\nHa tiempo conoce su roja nariz,\nSus crespos cabellos, sus biceps de atleta,\nSu gorra de lona, su blusa de dril.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

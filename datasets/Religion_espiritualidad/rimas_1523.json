@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mas ¡ay! de un corazón llegué al abismo,\nY me incliné por verlo,\nY mi alma y mis ojos se turbaron:\n¡Tan hondo era y tan negro!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

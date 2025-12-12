@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "The notes have been printed in the only convenient place for them, at\nthe bottom of each page, and will be found to be as complete and\ndefinite as possible on geographical, biographical, historical, or\nother points that may not be familiar to the student or the teacher.\nAll grammatical or syntactical matter, unless of a difficult or\npeculiar character, has been omitted, while the literary citations\nthat abound will, it is hoped, stimulate the student to do further\nreading and to make literary comparisons of his own.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

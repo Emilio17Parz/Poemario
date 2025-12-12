@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la época á que nos referimos, los caballeros de la Orden habían\nya abandonado sus históricas fortalezas; pero aún quedaban en pie\nlos restos de los anchos torreones de sus muros, aún se veían, como\nen parte se ven hoy, cubiertos de hiedra y campanillas blancas, los\nmacizos arcos de su claustro, las prolongadas galerías ojivales de\nsus patios de armas, en las que suspiraba el viento con un gemido,\nagitando las altas hierbas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

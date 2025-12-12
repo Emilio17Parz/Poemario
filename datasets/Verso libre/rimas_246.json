@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En las nubes, en el aire, en el fondo de los bosques, en las\ngrietas de las peñas, imaginaba percibir formas ó escuchar sonidos\nmisteriosos, formas de seres sobrenaturales, palabras ininteligibles\nque no podía comprender.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

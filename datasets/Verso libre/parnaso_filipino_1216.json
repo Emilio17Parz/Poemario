@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aunque flojo poeta, es uno de los precursores entre los filipinos.\nNació en Manila, de familia acomodada, el 27 de Febrero de 1858. En el\nAteneo de la Compañía se graduó de bachiller el 71. Vino a España\nluego, haciendo aquí larga estada y doctorándose en Derecho y Cánones\nen la Universidad salmantina. Convivió en Madrid con políticos\ninfluyentes, literatos y todo linaje de artistas. Tuvo una mesa\nhospitalaria. En el Ateneo, leyó el crítico y académico Cañete versos\nde Paterno. Escribió novelas y sobre historia y folklore filipinos.\nContribuyó a organizar la Exposición filipina de Madrid (1888).\nIntervino en la paz de Biacnabató. Murió, gran cruz de Isabel la\nCatólica, en 1911.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

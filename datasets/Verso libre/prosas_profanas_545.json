@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Babieca_ descansando del huracán guerrero,\nTranquilo pace, mientras el bravo caballero\nSale a gozar del aire de la estación florida.\nRíe la primavera, y el vuelo de vida\nAbre lirios y sueños en el jardín del mundo.\nRodrigo de Vivar pasa, meditabundo.\nPor una senda en donde, bajo el sol glorioso,\nTendiéndole la mano, le detiene un leproso.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

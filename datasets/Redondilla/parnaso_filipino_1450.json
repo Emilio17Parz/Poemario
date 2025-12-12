@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "¿Y porqué, en la selva amena,\nse oye dulce melodía,\nque asemeja la armonía\nen la arpada filomena?",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Como Cristo en la cúspide del monte,\nrotas ya sus mortales ligaduras,\nmira doquier con ojos espantados,\npor toda la extensión del horizonte\ndilatarse a sus pies vastas llanuras,\nricas ciudades, fértiles collados.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cristo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sobre el Duero, que pasaba lamiendo las carcomidas y oscuras piedras\nde las murallas de Soria, hay un puente que conduce de la ciudad al\nantiguo convento de los Templarios, cuyas posesiones se extendían á\nlo largo de la opuesta margen del río.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

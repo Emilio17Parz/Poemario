@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La Cruz de Arrechedera y Urdaneta\nestá en mis cielos, tabla es que sujeta,\ncuando zozobra, al bien; porque a despecho\nde las más encontradas ambiciones,\ntu religión, tu fé, tus tradiciones,\nhan abrigo recóndito en mi pecho.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

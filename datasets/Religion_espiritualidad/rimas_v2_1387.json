@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Á dónde vas?--Buscando al aflijido\nPara decirle: Solo Dios es fuerte!\n--¡Ah! teme al poderoso envanecido,\nY que el esclavo contra tí despierte!\n--No, no: yo voy buscando al afligido\nPara decirle: Solo Dios es fuerte!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

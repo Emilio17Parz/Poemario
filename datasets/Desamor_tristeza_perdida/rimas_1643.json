@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "De la alta campana\nLa lengua de hierro,\nLe dió volteando\nSu adiós lastimero.\nEl luto en las ropas,\nAmigos y deudos\nCruzaron en fila,\nFormando el cortejo.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

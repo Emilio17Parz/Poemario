@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Más allá está el oleaje de los que van y vienen: parejas de enamorados,\nhermanos y hermanas, grupos de caballeritos irreprochables: todo en la\nconfusión, de los rostros, de las miradas, de los colorines, de los\nvestidos, de las capotas, resaltando a veces en el fondo negro y\naceitoso de los elegantes sombreros de copa, una cara blanca de mujer,\nun sombrero de paja adornado de colorines, de cintas o de plumas, o el\ninflado globo rojo, de goma, que pendiente de un hilo lleva un niño\nrisueño, de medias azules, zapatos charolados y holgado cuello a la\nmarinera.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

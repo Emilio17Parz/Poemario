@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "No morirá en mi tierra su lengua encantadora\ny tras la niebla plúmbea que oculta roja aurora\nteñida en sangre y lágrimas, en fiera tempestad,\nla patria independiente, ciñendo hermosa aureola,\nen español sonoro como bramido de ola\nentonará su himno a nuestra libertad.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

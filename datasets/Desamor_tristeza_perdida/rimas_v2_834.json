@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "«Busquemos otro campo!»\nMil voces contestaron.....\n¿Pensais que derramaron\nUn llanto femenil?\nEn mísero abandono\nSus hogares dejaban,\nY tan solo esclamaban:\n«Libertad ó morir!»",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

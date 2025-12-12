@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "176\n¡Y la pobre mi mujer,\nDios sabe cuánto sufrió!\nMe dicen que se voló\ncon no sé qué gavilán:\nsin duda a buscar el pan\nque no podía darle yo.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

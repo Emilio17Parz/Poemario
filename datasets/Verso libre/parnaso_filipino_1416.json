@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Adoro vuestros labios, donde el sol de mi tierra\nha dejado sus besos de sátiro oriental,\nporque son el santuario de bellezas que encierra\nel glorioso prestigio del solar de Rizal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

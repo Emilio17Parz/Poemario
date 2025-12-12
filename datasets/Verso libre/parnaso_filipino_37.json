@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y asombrárase el leyente de que no haya aparecido todavía el nombre\ndel doctor Rizal, cuya soberana poesía _Ultimo Adiós_ ha recorrido el\norbe. Sí, Rizal fué poeta; pero secundariamente. Su rasgo\ncaracterístico, bastante a obscurecer otras modalidades de su\nmentalidad, fué el de revolucionario: dentro de este amplio círculo\nestán insertos el científico, el literato y el políglota. Cultivó\ntodas las artes bellas, pero siempre disfrazada de musa la obsesión de\nmanumitir y dignificar a su patria. Como poeta, le superan Guerrero y\nApóstol.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

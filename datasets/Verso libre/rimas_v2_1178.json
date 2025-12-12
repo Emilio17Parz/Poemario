@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Algun dia serás lozana rosa\nCuando mi frente pálida y rugosa\nSe incline en tu perfume á refrescar;\nCuando el labio marchito de dolores\nQuiera gozar el aura de las flores\nSintiéndote, ángel bello, respirar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

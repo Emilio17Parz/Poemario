@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Escudriñar la bóveda estrellada,\nregistrar el Océano proceloso,\npor llegar, arrogante y majestuoso,\nde la gloria a la cúspide escarpada.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

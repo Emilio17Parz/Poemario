@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Tenía el racimo cinco grandes uvas. Le di una á Victoria, una á Blanca,\nuna á Lola, una á Pepe, y la última, entre las risas y las palmas de\ntodos, á Platero, que la cogió, brusco, con sus dientes enormes.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

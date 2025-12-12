@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "37\nCuando llegaban las yerras,\n¡cosa que daba calor!\nTanto gaucho pialador\ny tironiador sin yel.\n¡Ah, tiempos... pero si en él\nse ha visto tanto primor!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mas, antes que partas, dí,\ndí que a tu acento sublime\nsiempre ha respondido en mí\nun canto para el que gime\ny un reto para el que oprime.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

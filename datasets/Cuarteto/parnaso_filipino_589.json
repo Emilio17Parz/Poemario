@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El espacio es cristal; fulge y ondula\ncual la cuerda de un arpa estremecida,\ny mientras más el término se azula,\nmás bellos son los sueños de la vida.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

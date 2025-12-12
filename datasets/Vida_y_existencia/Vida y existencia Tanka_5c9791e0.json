@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Vida y existencia",
   "poema": {
     "texto": "La sueño brilla\nen el agua del estanque\nbajo la luna llena\nun recuerdo se desliza\nsuave como seda antigua",

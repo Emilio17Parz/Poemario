@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Más de una vez me siento expulsado y con ganas\nde volver al exilio que me expulsa\ny entonces me parece que ya no pertenezco\na ningún sitio, a nadie.\n¿Será en indicio de que nunca más\npodré no ser un exiliado?\n¿Qué aquí o allá o en cualquier parte\nsiempre habrá alguien que vigile y piense,\néste a qué viene?\nY vengo sin embargo tal vez a compartir cansancio y vértigo\ndesamparo y querencia\ntambién a recibir mi cuota de rencores\nmi reflexiva comisión de amor\nen verdad a qué vengo\nno lo sé con certeza\npero vengo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

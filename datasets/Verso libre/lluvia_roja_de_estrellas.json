@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Lluvia roja de estrellas",
+  "poema": {
+    "texto": "En la oscuridad, el cielo se viste,\nDe lluvia roja de estrellas se adorna.\nPintando el mundo con su belleza mística,\nEn busca del recuerdo perdido.\n\nDel cielo caen los antiguos sueños,\nRostros olvidados que lloran en silencio.\nCada gota de estrellas una historia nueva\nQue trae la agonia de amores pasados.\n\nEl silencio se escucha en el viento,\nY los árboles vibran a su alrededor.\nPero ninguno es capaz de oírlo,\nLa tragedia que en cada gota habla.\n\nSolo la lluvia roja de estrellas,\nConoce el dolor del corazón que llora.",
+    "tipo": "Verso_libre",
+    "palabra_clave_ingresada": "Lluvia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La fuerza incontrastable de tus versos\nY murmurios perversos me han traido\nDel reyno del olvido á obedecerte;\nMas, ó mora, que el verte en esta impresa\nInfinito me pesa, porque entiendo\nQue es ir tiempo perdiendo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

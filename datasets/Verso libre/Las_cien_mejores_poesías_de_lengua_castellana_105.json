@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Qué se hicieron las damas,\nSus tocados, sus vestidos,\nSus olores?\n¿Qué se hicieron las llamas\nDe los fuegos encendidos\nDe amadores?\n¿Qué se hizo aquel trovar,\nLas músicas acordadas\nQue tañían?\n¿Qué se hizo aquel dançar\nY aquellas ropas chapadas\nQue traían?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "En los campos de Cagancha\nEn medio al humo y al fuego,\nEl escuadron de Campon\nAdmiró por su denuedo.\nEl ala izquierda ocupaba,\nY en el furibundo encuentro\nEl campo quedó sembrado\nDe hombres y caballos muertos.\nQuedó en medio á la cuchilla\nDe sangre un ancho reguero:\n¿Quién lo hizo? el escuadron\nQue por vengar sus guerreros,\nPasó legiones de esclavos\nA los filos de su acero.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'eo')"
+  }
+}

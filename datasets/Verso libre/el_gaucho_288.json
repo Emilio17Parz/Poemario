@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "256\nComo lumbriz me pegué\nal suelo para escuchar;\npronto sentí retumbar\nlas pisadas de los fletes,\ny que eran muchos jinetes\nconocí sin vacilar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

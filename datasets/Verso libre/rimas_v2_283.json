@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Oh, mil veces, mil veces venturosa\nLa juventud que en lucha tan hermosa\nPuede toda su sangre derramar;\nLa que serena ante el embate rudo\nDe los tiranos, cae en el escudo\nDel mártir de una causa universal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

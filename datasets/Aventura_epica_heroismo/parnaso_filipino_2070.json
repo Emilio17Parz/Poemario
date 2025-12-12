@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Mas tanto sufrir no puedo!\nAlgo en mí, que me da miedo,\nme es imposible arrancar...\n¡Náufrago soy que, sin brío,\nen medio de un mar bravío,\nno logró al puerto arribar!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

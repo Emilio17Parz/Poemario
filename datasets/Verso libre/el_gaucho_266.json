@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "235\nNo tiene hijos ni mujer,\nni amigos ni protetores,\npues todos son sus señores\nsin que ninguno lo ampare:\ntiene la suerte del güey,\ny ¿donde irá el güey que no are?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

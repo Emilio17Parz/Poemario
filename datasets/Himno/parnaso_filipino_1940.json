@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Tus ínclitos donceles, tus vírgenes amadas\ncelebrarán ansiosos tu página inmortal;\ny temblarán tus montes, rosales, y cascadas\na los melífluos sones de tu himno nacional.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "himno"
+  }
+}

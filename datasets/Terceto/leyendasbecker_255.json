@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "For example, _di|ario_ by analogy with _día_, and _fi|ó_ from the\nLatin _fidavit_, have ordinarily the _i_ in separate syllables, but a\ndiphthong may be formed by synaeresis.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Una tarde de verano, y en un jardín de Toledo, me refirió esta\nsingular historia una muchacha muy buena y muy bonita.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

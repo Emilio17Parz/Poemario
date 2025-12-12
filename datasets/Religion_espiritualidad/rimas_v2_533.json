@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Doblemos la rodilla: ya luce en el oriente\nEl sol, que en otros dias con brillo refulgente\nInauguró del pueblo la estátua colosal.\nMiradle en este templo que alzó la providencia:\nSobre el altar se eleva, fijando la creencia\nQue llena nuestras almas de espíritu inmortal.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Sus intenciones, que las lleve el viento:\nY ansi como yo baño y ensangriento\nEste cuchillo en esta sangre pura\nCon alma limpia y limpio pensamiento,\nAnsi la tierra de Numancia dura\nSe bañe con la sangre de Romanos,\nY aun les sirva tambien de sepultura.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

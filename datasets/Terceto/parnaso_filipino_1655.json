@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "¿Es que tal vez el hombre no es digno de otra suerte\nY así es que tiene siempre el dolor y la muerte\npor los únicos polos del eje de su vida?",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

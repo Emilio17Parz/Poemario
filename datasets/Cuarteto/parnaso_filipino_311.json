@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¿Qué me importa lidiar?--Si tras la lidia\nMe aguarda entre sus brazos la victoria.\n¿Qué me importa que otros con perfidia\nQuieran manchar mi nombre envuelto en gloria?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

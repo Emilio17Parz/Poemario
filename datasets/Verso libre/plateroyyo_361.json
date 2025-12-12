@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Benditos pájaros, sin fiesta fija! Con la libre monotonía de lo nativo,\nde lo verdadero, nada, á no ser una dicha vaga, les dicen á ellos las\ncampanas. Contentos, sin fatales obligaciones, sin esos olimpos ni esos\navernos que extasían ó que amedrentan á los pobres hombres esclavos, sin\nmás moral que la suya, son mis hermanos, mis dulces hermanos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

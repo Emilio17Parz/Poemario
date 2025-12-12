@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En los huertos y en los jardines, cuyos senderos no hollaban hacía\nmuchos años las plantas de los religiosos, la vegetación, abandonada\ná sí misma, desplegaba todas sus galas, sin temor de que la mano del\nhombre la mutilase, creyendo embellecerla. Las plantas trepadoras\nsubían encaramándose por los añosos troncos de los árboles; las\nsombrías calles de álamos, cuyas copas se tocaban y se confundían\nentre sí, se habían cubierto de césped; los cardos silvestres y las\nortigas brotaban en medio de los enarenados caminos, y en los trozos\nde fábrica, próximos á desplomarse, el jaramago, flotando al viento\ncomo el penacho de una cimera, y las campanillas blancas y azules,\nbalanceándose como en un columpio sobre sus largos y flexibles\ntallos, pregonaban la victoria de la destrucción y la ruina.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

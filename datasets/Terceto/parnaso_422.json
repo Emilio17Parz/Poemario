@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Mas dixoles Apolo: otras dos fuentes\nAun quedan Aganipe é Hipocrene,\nAmbas sabrosas, ambas excelentes.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

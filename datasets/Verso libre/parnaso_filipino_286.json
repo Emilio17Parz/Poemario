@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El eco de tu mágico renombre\nQue de hemisferio en hemisferio vuela,\nEs el atril divino de tu Historia....\n¡Llenas están las tierras de tu nombre!\n¡Llenos están los mares de tu estela!\n¡Llenos están los cielos de tu gloria!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

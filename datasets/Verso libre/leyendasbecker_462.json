@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Romances_, which are the most used of all forms, need not be written\nin _cuartetas_. It is sufficient that the even verses be in assonance\nand the uneven verses free. Romances, properly so called, are composed\nof octosyllabic verses.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

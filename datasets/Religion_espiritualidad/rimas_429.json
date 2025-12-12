@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "--¡Friolera!--añadió el montero en tono de zumba:--es el caso, que\nsin haber nacido en Viernes Santo, ni estar señalado con la cruz,\nni hallarse en relaciones con el demonio, á lo que se puede colegir\nde sus hábitos de cristiano viejo, se encuentra sin saber cómo ni\npor dónde, dotado de la facultad más maravillosa que ha poseído\nhombre alguno, á no ser Salomón, de quien se dice que sabía hasta el\nlenguaje de los pájaros.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

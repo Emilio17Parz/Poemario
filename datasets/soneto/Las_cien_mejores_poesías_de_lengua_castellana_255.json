@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Cuelga sangriento de la cama al suelo\nEl hombro diestro del feroz tirano,\nQue opuesto al muro de Betulia en vano,\nDespidió contra sí rayos al cielo.\nRevuelto con el ansia el rojo velo\nDel pabellón a la siniestra mano,\nDescubre el espectáculo inhumano\nDel tronco horrible, convertido en hielo.\nVertido Baco, el fuerte arnés afea\nLos vasos y la mesa derribada,\nDuermen los guardas, que tan mal emplea;\nY sobre la muralla, coronada\nDel pueblo de Israel, la casta hebrea\nCon la cabeza resplandece armada.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

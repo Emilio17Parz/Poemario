@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "325\nQue en puertiando la primera,\nya la siguen los demás,\ny en montones las de atrás\ncontra los palos se estrellan,\ny saltan y se atropellan\nsin que se corten jamás.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hay un rostro celestial,\nQue si el rubor lo colora\nEl corazon enamora,\nY espresa el mas puro amor;\nPero en cada despedida\nPalidece su semblante,\nY mas que su lábio amante\nMe dice su turbacion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

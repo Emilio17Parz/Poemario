@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuando sale la luna\nse pierden las campanas\ny aparecen las sendas\nimpenetrables.\nCuando sale la luna,\nel mar cubre la tierra\ny el corazón se siente\nisla en el infinito.\nNadie come naranjas\nbajo la luna llena.\nEs preciso comer\nfruta verde y helada.\nCuando sale la luna\nde cien rostros iguales,\nla moneda de plata\nsolloza en el bolsillo.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

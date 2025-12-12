@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hoy un hijo ha nacido en tu familia,\nComo tras larga noche de vigilia\nSe vé brillar el sol;\nY su sonrisa pura cual la aurora\nTodo el hogar doméstico colora\nTiñendo los semblantes de arrebol.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

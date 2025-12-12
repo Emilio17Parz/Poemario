@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Después en su gran bosque, donde no oía ni la voz del olímpico trueno,\nel paciente animal de las largas orejas le servía para cabalgar, en\ntanto que la alondra, en los apogeos del alba, se le iba de las manos,\ncantando camino de los cielos.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

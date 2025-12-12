@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hay como besos locos de bocas olorosas,\nhay brisas perfumadas de lejanos abriles,\nhay aromas quiméricos de mileguas y rosas,\nal oscular la aurora los dormidos pensiles.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si tiene el cielo dada la sentencia\nDe que en este rigor fiero acabemos,\nRevoquela, si acaso la merece\nLa justa enmienda que Numancia ofrece.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

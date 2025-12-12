@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: The 1st, 8th, and 9th stanzas of this poem are in\noctosyllabic verses, and the rest in hendecasyllabic verses of\nboth classes, with heptasyllabic verses alternating. A refrain of\ndissyllabic verse begins at the close of the 3d stanza and recurs\nafter that regularly at the close of every other stanza. The even\nverses of each stanza have the same assonance throughout, as does\nthe refrain. Notice the hiatus in the 3d verse of the 4th stanza\nand in the 1st verse of the 6th stanza.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

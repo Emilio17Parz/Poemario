@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Al frente de su tropa\nZacarías galopa\nY hace el suelo crugir,\nY la potente lanza\nBlandida con pujanza\nSe mira relucir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

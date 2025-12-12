@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Castiga el cielo a Tántalo inhumano,\nQue en impía mesa su rigor provoca,\nMedir queriendo en competencia loca\nSaber divino con engaño humano.\nAgua en las aguas busca, y con la mano\nEl árbol fugitivo casi toca;\nHuye el copioso Erídano a su boca,\nY en vez de fruta toca el aire vano.\nTú, que espantado de su pena, admiras\nQue el cercano manjar en largo ayuno\nAl gusto falte y a la vida sobre,\n¿Cómo de muchos Tántalos no miras\nEjemplo igual? Y si codicias uno,\nMira el avaro, en sus riquezas pobre.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "There are with regard to accent three possible conditions under which\ntwo contiguous vowels may occur within a word.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

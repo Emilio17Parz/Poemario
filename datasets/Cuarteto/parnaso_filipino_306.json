@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No me asusta el ladrido de los canes\nQue celosos envidian de mi suerte;\nYo, como Cristo, repartiendo panes\nProtejo al débil cuanto insulto al fuerte.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

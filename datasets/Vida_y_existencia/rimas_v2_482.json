@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Y ella con faz serena\nSus furias dominando,\nDesde la escelsa almena\nLos cielos contemplando,\nMira nacer la aurora\nQue al mundo es precursora\nDe paz y de igualdad.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

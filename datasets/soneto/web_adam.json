@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Árbol de Sangre riega la mañana\npor donde gime la recién parida.\nSu voz deja cristales en la herida\ny un gráfico de hueso en la ventana.\nMientras la luz que viene fija y gana\nblancas metas de fábula que olvida\nel tumulto de venas en la huida\nhacia el turbio frescor de la manzana,\nAdam sueña en la fiebre de la arcilla\nun niño que se acerca galopando\npor el doble latir de su mejilla.\nPero otro Adán oscuro está soñando\nneutra luna de piedra sin semilla\ndonde el niño de luz se irá quemando.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

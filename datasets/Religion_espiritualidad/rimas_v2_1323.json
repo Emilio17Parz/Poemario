@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cuando al cruzar los mares\nSe ha entristecido mi alma,\nMe ha inoculado calma\nSu rayo celestial;\nY si las tempestades\nMi nave han combatido,\nAl punto se ha encendido\nCual místico fanal.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

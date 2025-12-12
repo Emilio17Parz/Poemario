@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "¡Oh! ¡Quién, teniendo fuerzas lapidarias,\npudiese ese banal mundo de parias\nsostener como un Atlas en sus hombros;",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Si yo la pudiera referir con el suave encanto y la tierna sencillez\nque tenía en su boca, os conmovería como á mí me conmovió la historia\nde la infeliz Sara.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

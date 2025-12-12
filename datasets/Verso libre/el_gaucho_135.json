@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "108\nPoncho, jergas, el apero,\nlas prenditas, los botones,\ntodo, amigo, en los cantones\njue quedando poco a poco;\nya me tenían medio loco\nla pobreza y los ratones.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

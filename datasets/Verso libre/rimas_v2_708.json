@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando á lo lejos divisan\nTu sepulcro triste y frio,\nOyen del vecino rio\nTu guitarra suspirar;\nY creen escuchar tu voz\nEn las verdes espadañas,\nQue se mecen cual las cañas\nAl soplo del vendabal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

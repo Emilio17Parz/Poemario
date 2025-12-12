@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si es que ha leido la historia del mediodia de la Europa, debe acordarse\nque el emperador Luis II, cautivo del duque de Benevento, debió su\nlibertad á una cancion compuesta por sus soldados. Esta cancion, que es\nel monumento mas antiguo de la baja latinidad, reunió en torno de la\nbandera caida del monarca á sus antiguos soldados dispersos por toda la\nItalia, que marchando valientemente contra Adelghiso, duque de\nBenevento, lograron rescatar de su cautiverio al ilustre prisionero.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

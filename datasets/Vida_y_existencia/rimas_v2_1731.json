@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El libro ha hecho su tiempo, su forma ha envejecido, sus vejetaciones\nexhuberantes y parásitas se han marchitado, su filosofía que no es una\nnovedad es del dominio del sentido comun de la humanidad, y la razon\nemancipada necesita hoy pasto mas fuerte y horizontes mas dilatados que\nlos que puede ofrecer su lectura.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

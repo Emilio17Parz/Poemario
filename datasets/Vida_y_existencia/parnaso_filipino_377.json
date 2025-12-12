@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Y así, mientras la Europa riñe feroz contienda,\ny España es madre que no olvida a su hija ausente,\ntambién como guerrero de acero no humillado\nque alegra la vejez mirando en el pasado...",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

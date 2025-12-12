@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "--¿Y qué mal encontráis en que nos detengamos en la fuente charlando\nun rato con las amigas y vecinas?...--dijo una de ellas.--¿Andan\nacaso chismes en el lugar, porque los mozos salen al camino á\necharnos flores ó vienen á brindarse para traer nuestros cántaros\nhasta la entrada del pueblo?",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

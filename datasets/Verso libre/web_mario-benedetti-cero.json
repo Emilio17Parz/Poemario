@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mi saldo disminuye cada día\nqué digo cada día\ncada minuto    cada\nbocanada de aire\nmuevo mis dedos como si pudieran\natrapar o atraparme\npero mi saldo disminuye\nmuevo mis ojos como si pudieran\nentender o entenderme\npero mi saldo disminuye\nmuevo mis pies cual si pudieran\nacarrear o acarrearme\npero mi saldo disminuye\nmi saldo disminuye cada día\nqué digo cada día\ncada minuto    cada\nbocanada de aire\ny todo porque ese\ncompinche de la muerte\nel cero\nestá esperando",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

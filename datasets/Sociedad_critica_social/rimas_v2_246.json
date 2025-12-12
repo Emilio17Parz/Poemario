@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "De allí voló de Mayo la simiente,\nDe allí de Libertad el soplo ardiente\nQue la mente del pueblo calentó;\nComo se esparcen jugos y colores\nEn el fecundo polen de las flores,\nQue la brisa en sus alas derramó.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

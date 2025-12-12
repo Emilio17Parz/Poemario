@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "camino largo",
   "poema": {
     "texto": "Pisada lenta\\nmarca la arena\\ncada paso es\\neco del tiempo",

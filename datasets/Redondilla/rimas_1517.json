@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "¡Ay! es verdad lo que me dijo entonces:\nVerdad que el corazón\nLo llevará en la mano... en cualquier parte...\nPero en el pecho, no.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

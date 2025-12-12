@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Volveré, te lo juro; volveré á cumplir la palabra solemnemente\nempeñada el día en que puse en tus manos ese anillo, símbolo de una\npromesa.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

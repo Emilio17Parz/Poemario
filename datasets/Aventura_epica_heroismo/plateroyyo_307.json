@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La niña chica era la gloria de Platero. En cuanto la veía venir hacia\nél, entre las lilas, con su vestídillo blanco y su sombrero de arroz,\nllamándolo, mimosa:--Platero, Platerillo!--, el asnucho quería partir la\ncuerda, y saltaba, igual que un niño, y rebuznaba loco.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

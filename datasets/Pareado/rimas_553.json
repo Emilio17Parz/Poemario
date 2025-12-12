@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Ya que esto no es posible, ahí va lo que de esa tradición se me\nacuerda en este instante.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

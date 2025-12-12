@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: buffet. A French word meaning 'refreshment-table.' It\nis customary in France at large receptions and dancing-parties to\ninstall in some room a counter or table from which to serve\nrefreshments. This is known as the _buffet_.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

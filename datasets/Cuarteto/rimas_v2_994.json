@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El ángel de las santas armonías\nCubrió tu frente con sus alas de oro,\nY en tu violin sonoro\nDe Paganini el alma suspiró.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

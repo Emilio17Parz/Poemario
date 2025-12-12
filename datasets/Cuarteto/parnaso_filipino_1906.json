@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Vive aún Sancho con vida depravada\ny el pundonor con su ambición se junta;\n¡no está la sociedad regenerada,\ny la aurora social aún no despunta!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

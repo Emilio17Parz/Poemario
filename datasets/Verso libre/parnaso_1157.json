@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Item, que si algun poeta llegáre á casa de algun su amigo ò conocido,\ny estuviere comiendo y le convidare, que aunque él jure que ya ha\ncomido, no se le crea en ninguna manera, sino que le hagan comer por\nfuerza, que en tal caso no se le hara muy grande.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

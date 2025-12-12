@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Hay en el libro otros varios cuentos, delicados y graciosos, donde se\nnotan las mismas calidades. Todos estos cuentos parecen escritos en\nParís.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

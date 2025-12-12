@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La voz de la tía Casca, aguda y estridente, dominaba el tumulto de\ntodas las otras voces que se reunían para acusarla, dándole en el\nrostro con sus delitos, y siempre gimiendo, siempre sollozando, seguía\nponiendo á Dios y á los santos Patronos del lugar por testigos de su\ninocencia.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

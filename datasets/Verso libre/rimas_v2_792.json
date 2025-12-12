@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«A las armas, valientes! Al combate!\n«A quien cobarde el corazon no late\n«Al toque de reunion!\n«A sus puestos, guerreros Argentinos!\n«Venid cantando vuestros patrios himnos\n«Al trueno del cañon!»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

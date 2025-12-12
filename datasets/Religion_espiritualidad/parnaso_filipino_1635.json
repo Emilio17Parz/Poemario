@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Con sus mimos y caricias los pesares adormece\ncual la música hechizante de una flauta virgiliana,\ny en sus mágicos encantos de beldad ultramundana,\nel consuelo apetecido halla el alma que padece.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

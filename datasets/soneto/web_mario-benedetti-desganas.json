@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Si cuarenta mil niños sucumben diariamente\nen el purgatorio del hambre y de la sed\nsi la tortura de los pobres cuerpos\nenvilece una a una a las almas\ny si el poder se ufana de sus cuarentenas\no si los pobres de solemnidad\nson cada vez menos solemnes y más pobres\nya es bastante grave\nque un solo hombre\no una sola mujer\ncontemplen distraídos el horizonte neutro\npero en cambio es atroz\nsencillamente atroz\nsi es la humanidad la que se encoge de hombros.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

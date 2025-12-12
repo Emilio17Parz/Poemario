@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Las campanas, allá arriba, allá fuera, repican entre las estrellas.\nContagiado, Platero rebuzna en su cuadra, que parece que está muy\nlejos... Yo lloro, débil, conmovido y solo, igual que Fausto...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

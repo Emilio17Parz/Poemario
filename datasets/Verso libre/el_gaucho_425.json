@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "390\nY daré fin a mis coplas\ncon aire de relación;\nnunca falta un preguntón\nmás curioso que mujer,\ny tal vez quiera saber\ncomo jué la conclusión.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "393\nY siguiendo el fiel del rumbo\nse entraron en el desierto,\nno sé si los habrán muerto\nen alguna correría,\npero espero que algún día\nsabré de ellos algo cierto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

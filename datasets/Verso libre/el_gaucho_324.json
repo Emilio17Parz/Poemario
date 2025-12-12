@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "291\namigazo, pa sufrir\nhan nacido los varones;\nestas son las ocasiones\nde mostrarse un hombre juerte,\nhasta que venga la muerte\ny lo agarre a coscorrones.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

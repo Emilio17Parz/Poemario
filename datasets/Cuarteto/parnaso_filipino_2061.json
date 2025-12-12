@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Cruza del Rubicón al otro lado\nturba adiestrada de agoreras aves,\ny Céras, ambicioso, dice al verlas:\n--\"¡Roma es la gloria!\"--Y tras la gloria parte.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

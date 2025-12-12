@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La anudaluza hechicera, paloma arisca,\nPor ti irradia, se agita, vibra y se quiebra,\nCon el lánguido gesto de la odalisca\nO las fascinaciones de la culebra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

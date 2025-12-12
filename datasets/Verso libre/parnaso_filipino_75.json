@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Espíritu prócer, sensible al poético encanto,--\nque a veces es ritmo y a veces es flor,--de tu canto\naun queda el recuerdo sonoro en el aire natal;\naun vibra y contagia el patriótico ardor de tus versos,\ny muestra tu limpia versión el claror de los tersos\ndiamantes que enjoyan el \"Ultimo adiós\" de Rizal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

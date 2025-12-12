@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Yo vengo de vagar por la llanura, y como la abeja que vuelve á la\ncolmena con su botín de perfumadas mieles, traigo suspiros de mujer,\nplegarias de niños, palabras de casto amor y aromas de nardos y\nazucenas silvestres. Yo no he recogido á mi paso más que perfumes y\necos de armonías; mis tesoros son inmateriales, pero ellos dan la paz\ndel alma y la vaga felicidad de los sueños venturosos.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

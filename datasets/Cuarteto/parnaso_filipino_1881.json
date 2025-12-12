@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Nos enseñabas a atajar las balas,\ny a conseguir el triunfo en las derrotas,\nal corazón cobarde diste alas,\nllenando las trincheras de patriotas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

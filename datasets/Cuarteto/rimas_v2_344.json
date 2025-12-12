@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "De pronto en el llano se ven mil guerreros,\nBandera Argentina se mira lucir,\nY al pié resplandecen los fuertes aceros\nQue van sus valientes con gloria á esgrimir.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

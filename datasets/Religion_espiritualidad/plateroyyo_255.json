@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "(La noche entra, y la luna se inflama allá en el fondo, adornada de\nvolubles estrellas. ¡Silencio! Por los caminos se ha ido la vida á lo\nlejos. Por el pozo se escapa el alma á lo hondo. Se ve por él como el\notro lado del crepúsculo. Y parece que va á salir de su boca un gigante,\ndueño de todos los secretos. ¡Oh laberinto quieto y mágico, parque\numbrío y fragante, magnético salón encantado!)",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

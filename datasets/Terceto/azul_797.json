@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "como una rosa roja que fuera flor de lis;\nabre los ojos; mírame, con su mirar risueño,\ny en tanto cae la nieve del cielo de París.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y aquellos amantes de la eterna Dea,\nA la dulce música de la regia rima,\nOyen el mensaje de la vasta Idea\nPor el compañero que recita y mima.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

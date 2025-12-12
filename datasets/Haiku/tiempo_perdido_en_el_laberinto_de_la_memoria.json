@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Tiempo perdido en el laberinto de la memoria\"",
   "poema": {
     "texto": "Laberinto de memoria,\nTiempo perdido en reflejos,\nSueños flotando.\n\nMemento mori, presente,\nFantasmas antiguos se acercan.\nNunca se olvidará.",

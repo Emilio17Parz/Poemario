@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Un rubio decía frases sentenciosas:\nNegando y amando las musas eternas\nUn bruno decía versos como rosas,\nDos sonantes rimas y palabras tiernas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

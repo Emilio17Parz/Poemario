@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "«Como ellos yo moriré,\n«Y en la tierra de mi fosa\n«¿Qué alma verterá piadosa\n«Una gota de dolor?\n«Y cuando en algun camino\n«Bajo los años sucumba\n«¿Quién dará para mi tumba\n«_Una limosna por Dios!_»",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

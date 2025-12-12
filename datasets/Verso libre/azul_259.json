@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Era un bello día de luz clara, de sol de oro. En el muelle rodaban los\ncarros sobre sus rieles, crujían las poleas, chocaban las cadenas. Era\nla gran confusión del trabajo que da vértigo, el son del hierro,\ntraqueteos por doquiera, y el viento pasando por el bosque de árboles y\njarcias de los navíos en grupo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

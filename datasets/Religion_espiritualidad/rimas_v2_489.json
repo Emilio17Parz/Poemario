@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Y de Colon la sombra\nEl ámbito cruzando\nSobre celeste alfombra,\nSe elevará clamando:\n«La aurora de Dios brilla!\n«Tiranos, de rodilla!\n«Naciones, levantad.»",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Mes de rosas. Van mis rimas\nen ronda, a la vasta selva,\na recoger miel y aromas\nen las flores entreabiertas.\nAmada, ven. El gran bosque\nes nuestro templo; allí ondea\ny flota un santo perfume\nde amor. El pájaro vuela\nde un árbol a otro y saluda\ntu frente rosada y bella\ncomo a un alba; y las encinas\nrobustas, altas, soberbias,\ncuando tú pasas agitan\nsus hojas verdes y trémulas,\ny enarcan sus ramas como\npara que pase una reina.\n¡Oh, amada mía! Es el dulce\ntiempo de la primavera.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ea')"
+  }
+}

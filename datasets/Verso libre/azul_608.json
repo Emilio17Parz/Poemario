@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Estáis en los misterios de un tocador. Estáis viendo ese brazo de ninfa,\nesas manos diminutas que empolvan el haz de rizos rubios de la cabellera\nespléndida. La araña de luces opacas derrama la languidez de su\ngirándula por todo el recinto. Y he aquí que al volverse ese rostro,\nsoñamos en los buenos tiempos pasados. Una marquesa contemporánea de la\ndama de Maintenón, solitaria en su gabinete, da las últimas manos a su\ntocado.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

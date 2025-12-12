@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dónde venis? ó qué buscais, Romanos?\nSi en Numancia quereis entrar por suerte,\nHareislo sin contraste á pasos llanos.\nPero mi lengua desde aqui os advierte\nQue yo las llaves mal guardadas tengo\nDesta ciudad, de quien triunfó la muerte.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

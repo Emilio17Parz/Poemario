@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Como una estrella fugaz\nQue luce en la noche umbría,\nBrilló un instante María\nEn el valle del dolor:\nEra una vírgen, tan pura\nCual de la tarde la brisa,\nCuya mágica sonrisa\nReflejo era del amor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

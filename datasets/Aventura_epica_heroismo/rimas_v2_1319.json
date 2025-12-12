@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La corona de fuego\nDel astro, rey del dia,\nEntre la onda fria\nDel mar, se sumerjió;\nY la apacible noche,\nSu frente plateada\nDe estrellas coronada,\nSerena levantó.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No cánticos pagados...\nSus voces sus soldados\nAlzaron en loor;\nNo funerales fuegos...\nArdientes lanzafuegos\nBrillaron en su honor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

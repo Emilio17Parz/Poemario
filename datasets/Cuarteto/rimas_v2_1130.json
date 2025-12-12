@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Feliz el que pueda del cándido velo\nAlzar el estremo que cubre la sien,\nPorque ese, olvidando las penas del suelo,\nLa luz habrá visto del mágico Eden.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

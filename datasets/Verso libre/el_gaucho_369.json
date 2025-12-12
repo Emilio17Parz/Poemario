@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "336\nlas mujeres son todas\ncomo las mulas;\nyo no digo que todas,\npero hay algunas\nque a las aves que vuelan\nles sacan plumas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

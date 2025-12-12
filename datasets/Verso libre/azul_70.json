@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«Al caminar se veía\nsu cuerpo ondear con garbo y bizarría.\nSe miraban los músculos hinchados\ndebajo de la piel. Y se diría\nser aquella alimaña\nun rudo gladiador de la montaña.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

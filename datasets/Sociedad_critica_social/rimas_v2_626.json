@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Alzaos del polvo inerte\nVencidos, no domados,\nCerniendo la melena\nComo soberbio leon;\nAlzaos, y ante los bustos\nDe hermanos degollados,\nLevante un pueblo libre\nSu alejado pabellon.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

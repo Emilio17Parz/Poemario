@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cantemos el oro, en el arnés del caballo, en el carro de guerra, en el\npuño de la espada, en el lauro que ciñe cabezas luminosas, en la copa\ndel festín dionisíaco, en el alfiler que hiere el seno de la esclava, en\nel rayo del astro y en el champaña que burbujea como una disolución de\ntopacios hirvientes.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

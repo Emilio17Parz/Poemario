@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los gritos de los bravos,\nEl ¡ay! de los esclavos,\nY el trueno del cañon;\nDel plomo los rugidos,\nDel sable los crugidos,\nY el golpe del tambor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

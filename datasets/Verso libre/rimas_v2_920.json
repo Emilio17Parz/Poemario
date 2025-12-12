@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pero tu nombre no ha muerto:\nÉl vivirá en la memoria,\nY será eterna la gloria\nDel poeta popular;\nQue en el corazon del pueblo\nCuando algun poeta gime,\nSu canto noble y sublime\nSiempre se oye resonar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

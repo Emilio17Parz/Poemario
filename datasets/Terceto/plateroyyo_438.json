@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "¿Verdad que ves cómo se ríe en paz, clara y fría, el agua de la noria el\nhuerto; cuál vuelan, en la luz última, las afanosas abejas, en torno del\nromero verde y malva, rosa y oro por el sol que aún enciende la colina?",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

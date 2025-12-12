@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los pajes se reunieron en alegres y bulliciosos grupos; los condes\nde Borges y de Alcudiel montaron en sus magníficos caballos, y todos\njuntos siguieron á sus hijos Beatriz y Alonso, que precedían la\ncomitiva á bastante distancia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

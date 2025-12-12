@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Quién no sintió huídas sus congojas\nrepasando tu libro[3] en cuyas hojas\nla popular execración estalla?\nHermanando la mofa y el lamento,\nvibra, encarnado en su robusto acento,\nel silbo agudo de candente tralla.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

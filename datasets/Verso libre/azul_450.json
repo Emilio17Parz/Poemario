@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ello no fué un simple capricho. Aquel excelente muchacho tenía el vino\ntriste. Cuando le preguntábamos por qué, cuando todos reíamos como\ninsensatos o como chicuelos, él arrugaba el ceño y miraba fijamente el\ncielo raso, y nos respondía sonriendo con cierta amargura:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

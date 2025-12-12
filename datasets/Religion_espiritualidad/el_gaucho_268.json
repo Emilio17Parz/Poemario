@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "237\nY si de un golpe por ahi\nlo dan güelta panza arriba,\nno hay un alma compasiva\nque le rece una oración;\ntal vez como cimarrón\nen una cueva lo tiran.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

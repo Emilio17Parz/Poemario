@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--No podéis figuraros nada semejante á aquella nocturna y fantástica\nvisión que se dibujaba confusamente en la penumbra de la capilla como\nesas virgenes pintadas en los vidrios de colores que habréis visto\nalguna vez destacarse á lo lejos, blancas y luminosas, sobre el\nobscuro fondo de las catedrales.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

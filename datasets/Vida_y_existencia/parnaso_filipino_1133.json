@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Oh, cuán grata es la vida cuando sólo ilusiones\nllenan de nuestra mente el invisible azul!\n¡cuán bello es todo el mundo si nuestros corazones\nde amor se sienten presos en el rosado tul!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

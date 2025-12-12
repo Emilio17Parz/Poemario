@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "y si el amor que fué suyo asesina su esperanza,\nse revuelve brava y fuerte como en busca de venganza\ny sabe morir y muere por la quimera divina...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

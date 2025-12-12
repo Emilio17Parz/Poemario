@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "«El mundo entero aplaudirá ese golpe,\n«La humanidad consagrará loores,\n«Y el cincel de los grandes escultores\n«Os armará del salvador puñal.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

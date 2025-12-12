@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Aquí me tienes, virgen\nde sublimes amores.\nAnte el ara sombría de tus hondos dolores,\ndonde fulgura el cirio de la Fatalidad,\npermite que lamente\ntus penas y tormentos,\nyo que, cual tú, he sentido también mis sufrimientos,\nsin ver siquiera un prado de la Felicidad.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "prado"
+  }
+}

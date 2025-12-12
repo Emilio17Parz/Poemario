@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aquel día, un harapiento, por las trazas un mendigo, tal vez un\nperegrino, quizá un poeta, llegó, bajo la sombra de los altos álamos, a\nla gran calle de los palacios, donde hay desafíos de soberbia entre el\nónix y el pórfido, el ágata y el mármol; en donde las altas columnas,\nlos hermosos frisos, las cópulas doradas, reciben la caricia pálida del\nsol moribundo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

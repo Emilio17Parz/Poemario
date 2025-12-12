@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En ventura Octaviano;\nJulio César en vencer\nY batallar;\nEn la virtud, Africano;\nAníbal en el saber\nY trabajar:\nEn la bondad un Trajano;\nTito en liberalidad\nCon alegría;\nEn su braço, un Archidano;\nMarco Tulio en la verdad\nQue prometía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

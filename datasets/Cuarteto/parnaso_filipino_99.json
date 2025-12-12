@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Patria naciente, tras labor titánica\ncomo aquellas de Bismarck y de Mazzini,\nfaltaba un hombre que la hiciese orgánica,\n¡y ese hombre fuiste, colosal Mabini!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

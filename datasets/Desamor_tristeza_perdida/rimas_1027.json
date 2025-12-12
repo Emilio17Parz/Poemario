@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Bien fuese que la tarde estaba un poco encapotada, bien que la\ndisposición de mi ánimo me inclinaba á las ideas melancólicas, lo\ncierto es que sentí frío y tristeza, y noté un silencio que me\nrecordaba la completa soledad, como el sueño recuerda la muerte.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

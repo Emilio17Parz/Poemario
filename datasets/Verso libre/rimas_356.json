@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El opulento árabe que poseía este edificio lo abandona al fin; la\nacción de los años comienza á desmoronar sus paredes, á deslustrar\nlos colores y á corroer hasta los mármoles. Un monarca castellano\nescoge entonces para su residencia aquel alcázar que se derrumba, y\nen este punto rompe un lienzo y abre un arco ojival y lo adorna con\nuna cenefa de escudos, por entre los cuales se enrosca una guirnalda\nde hojas de cardo y de trébol; en aquél levanta un macizo torreón de\nsillería con sus saeteras estrechas y sus almenas puntiagudas; en el\nde más allá construye un ala de habitaciones altas y sombrías, en\nlas cuales se ven por una parte trozos de alicatado reluciente, por\notra artesones oscurecidos, ó un ajimez solo, ó un arco de herradura\nligero y puro, que da entrada á un salón gótico, severo é imponente.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

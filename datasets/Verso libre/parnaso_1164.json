@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Item, que todo buen poeta pueda disponer de mí, y de lo que hay en el\ncielo á su beneplacito: conviene á saber, que los rayos de mi\ncabellera los pueda trasladar y aplicar á los cabellos de su dama, y\nhacer dos soles sus ojos, que conmigo serán tres, y asi andará el\nmundo mas alumbrado; y de las estrellas, signos y planetas puede\nservirse de modo, que quando menos lo piense, la tenga hecha una\nesfera celeste.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

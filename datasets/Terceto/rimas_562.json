@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "En la parte de la casa que recibía una dudosa luz por los estrechos\nvanos de aquel ajimez, único abierto en el musgoso y grieteado\nparedón de la calleja, habitaba Sara, la hija predilecta de Daniel.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

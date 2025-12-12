@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sangre del Cristo. El órgano sonoro.\nLa viña celeste da el celeste vino;\nY en el labio sacro del cáliz de oro\nLas almas se abrevan del vino divino.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

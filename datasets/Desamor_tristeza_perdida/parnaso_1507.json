@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No vayas tan de corrida,\nLira, dexame gozar\nDel bien que me puede dar\nEn la muerte alegre vida:\nDexa que miren mis ojos\nUn rato tu hermosura,\nPues tanto mi desventura\nSe entretiene en mis enojos.\nO dulce Lira, que sueñas\nContino en mi fantasia\nCon tan suave harmonia\nQue vuelve en gloria mis penas!\nQué tienes? qué estás pensando,\nGloria de mi pensamiento?",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

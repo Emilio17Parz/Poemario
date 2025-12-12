@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hay un silencio triste, de consuelo, en el prado.\nUna esquila se queja en los brazos del viento\ncomo un poeta triste, eternamente atado\nal buey de la materia, sin luz ni sentimiento.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

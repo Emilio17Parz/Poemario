@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Oye, hijo mío, el silencio.\nEs un silencio ondulado,\nun silencio,\ndonde resbalan valles y ecos\ny que inclina las frentes\nhacia el suelo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

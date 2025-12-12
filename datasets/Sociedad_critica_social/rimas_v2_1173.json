@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "No te diré si el vicio desbocado,\nCual torrente del monte desatado,\nQuiere hacer las virtudes zozobrar;\nOh, no sabrás si alzada la cabeza\nEnarbola bandera la impureza\nDe la familia en el derruido altar.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

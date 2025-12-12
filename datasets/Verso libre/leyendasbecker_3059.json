@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "de, of, to, from, at, with, by, in, on, as, than; el bruto Esteban,\nthat clownish fellow Stephen; -- improviso, unexpectedly, suddenly; --\nmodo que, so that; -- nuevo, again; anew; -- por si, by himself; --\nprisa, rapidly; -- pronto, suddenly, abruptly; -- repente, suddenly;\n--seguro, assuredly; -- no ser, if not; -- sobra, over and above; --\ntarde en tarde, seldom; -- un todo, once for all; del todo, wholly,\nquite.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

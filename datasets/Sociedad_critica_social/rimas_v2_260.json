@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La bandera que guiaba al combatiente\nDespojada del sol resplandeciente,\nY ennegrecido su divino azul;\nDesterrado el honor de su milicia,\nDerrumbado el altar de la justicia,\nSus poetas sin patria ni laud.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

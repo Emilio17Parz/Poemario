@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Entre italiano\ny flamenco,\n¿cómo cantaría\naquel Silverio?\nLa densa miel de Italia\ncon el limón nuestro,\niba en el hondo llanto\ndel siguiriyero.\nSu grito fue terrible.\nLos viejos\ndicen que se erizaban\nlos cabellos,\ny se abría el azogue\nde los espejos.\nPasaba por los tonos\nsin romperlos.\nY fue un creador\ny un jardinero.\nUn creador de glorietas\npara el silencio.\nAhora su melodía\nduerme con los ecos.\nDefinitiva y pura.\n¡Con los últimos ecos!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

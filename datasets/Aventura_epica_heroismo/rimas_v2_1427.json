@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Yo soy el pescador, amiga mia,\nTú eres la reina, que si acaso un dia\nPidieses á mi ardor\nUna joya de adorno á tu belleza,\nComo esclavo, en el mar de mi cabeza\nFuera á buscar la perla del amor.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

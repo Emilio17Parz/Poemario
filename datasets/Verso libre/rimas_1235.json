@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Espíritus de la tierra y del fuego: vosotros que conocéis los\ntesoros de metal de sus entrañas y circuláis por sus caminos\nsubterráneos con los mares de lava encendida y ardiente, agitaos y\ncumplid mis órdenes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

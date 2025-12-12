@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y desde lexos me quitó el sombrero\nEl famoso ACEVEDO, y dixo: á Dio,\nVoi siate il ben venuto, cabaliero;",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

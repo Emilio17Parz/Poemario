@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Exasperados, y no encontrando otra vía de salvación, por último, se\npusieron de acuerdo entre sí, se encomendaron á la Divina Providencia\ny tomaron las armas; pero el señor reunió á sus secuaces, llamó en su\nayuda al diablo, se encaramó á su roca y se preparó á la lucha. Ésta\ncomenzó terrible y sangrienta. Se peleaba con todas armas, en todos\nsitios y á todas horas, con la espada y el fuego, en la montaña y en\nla llanura, en el día y durante la noche.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

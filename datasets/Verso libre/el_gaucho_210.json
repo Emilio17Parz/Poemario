@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "181\nTal vez los verán sufrir\nsin tenerles compasión;\npuede que alguna ocasión,\naunque los vean tiritando,\nlos echen de algún jogón\npa que no estén estorbando.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

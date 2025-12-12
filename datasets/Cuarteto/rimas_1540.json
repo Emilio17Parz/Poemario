@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Nubes de tempestad, que rompe el rayo\nY en fuego ornáis las desprendidas orlas,\nArrebatado entre la niebla oscura,\n¡Llevadme con vosotras!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

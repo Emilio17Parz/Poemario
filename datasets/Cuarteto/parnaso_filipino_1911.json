@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La crítica social tu libro entraña,\nideal de sociólogos profundos.\n¡Cervantes, loor a ti, gloria a España,\nla que fué soberana de dos mundos...!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Cierra al dolor tu corazón, poeta;\npara las dichas guárdalo;\nahuyenta los fantasmas de las penas\nque hoy sólo la alegría ha de ocuparlo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

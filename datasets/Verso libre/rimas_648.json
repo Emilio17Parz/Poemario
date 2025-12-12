@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El conde de Gómara estaba en la tienda sentado en un escaño de\nalerce, inmóvil, pálido, terrible, las manos cruzadas sobre la\nempuñadura del montante y los ojos fijos en el espacio, con esa\nvaguedad del que parece mirar un objeto, y sin embargo no ve nada de\ncuanto hay á su alrededor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

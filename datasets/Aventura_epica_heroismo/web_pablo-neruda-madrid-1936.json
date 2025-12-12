@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "MADRID sola y solemne, julio te sorprendió con tu alegría\nde panal pobre: clara era tu calle,\nclaro era tu sueno.\nUn hipo negro\nde generales, una ola\nde sotanas rabiosas\nrompió entre tus rodillas\nsus cenagales aguas, sus ríos de gargajo.\nCon los ojos heridos todavía de sueño,\ncon escopeta y piedras, Madrid, recién herida,\nte defendiste. Corrías\npor las calles\ndejando estelas de tu santa sangre,\nreuniendo y llamando con una voz de océano,\ncon un rostro cambiado para siempre\npor la luz de la sangre, como una vengadora\nmontaña, como una silbante\nestrella de cuchillos.\nCuando en los tenebrosos cuarteles, cuando en las sacristías\nde la traición entró tu espada ardiendo,\nno hubo sino silencio de amanecer, no hubo\nsino tu paso de banderas,\ny una honorable gota de sangre en tu sonrisa.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

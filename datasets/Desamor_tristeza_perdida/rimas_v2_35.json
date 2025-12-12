@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El «Libro Tercero», comprende bajo la denominacion de POESÍAS DIVERSAS,\nlos asuntos morales, sentimentales, fantásticos ó de caprichosa y\nfugitiva inspiracion, que corresponden á varios géneros y asuntos.\nSeñalaremos entre ellas la que se titula _En la Tumba de un Poeta_, _El\nValz_, _La Despedida_, _La Agonía del Poeta_, _La Desesperacion_, las\n_Noches de Diciembre_ y los _Dos Pensamientos_, en que no obstante sus\nvariados tonos, predomina un tinte melancólico que les da un aire de\nfamilia.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

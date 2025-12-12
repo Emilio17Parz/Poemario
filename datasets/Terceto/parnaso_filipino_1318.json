@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "del que Benvenuto forjara un esmalte:\nla garza, una rubia marquesa de nieve,\nha muerto en las garras de un vil gerifalte...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

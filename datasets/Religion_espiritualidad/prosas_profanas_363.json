@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Lirio real y lírico\nQue naces con la albura de las hostias sublimes\nDe las cándidas perlas\nY del lino sin mácula de las sobrepellices,\n¿Has visto acaso el vuelo del alma de mi Stella,\nLa hermana de Ligeia, por quien mi canto a veces es tan triste?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

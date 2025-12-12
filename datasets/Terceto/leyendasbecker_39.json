@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "[Footnote 1: _Obras de Gustavo A. Becquer_, Madrid, 1898, vol. II,\npp. 242-245. This edition will be understood hereafter in all\nreferences to the works of Becquer.]",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

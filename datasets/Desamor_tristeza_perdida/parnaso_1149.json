@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Si vm. encontrare por allá algun transfuga de los veinte que se\npasaron al vando contrario, no les diga nada, ni los aflija, que harta\nmala ventura tienen, pues son como demonios, que se llevan la pena y\nla confusion con ellos mesmos, do quiera que vayan.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

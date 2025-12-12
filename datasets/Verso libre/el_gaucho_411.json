@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "376\nEn la cruzada hay peligros,\npero ni aun esto me aterra:\nyo ruedo sobre la tierra\narrastrao por mi destino;\ny si erramos el camino-\nno es el primero que lo erra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

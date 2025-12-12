@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh dichosos mil veces, sí, dichosos\nLos que podéis llorar! y ¡ay! sin ventura\nDe mí, que entre suspiros angustiosos\nAhogar me siento en infernal tortura.\n¡Retuércese entre nudos dolorosos\nMi corazón, gimiendo de amargura!\nTambién tu corazón, hecho pavesa,\n¡Ay! llegó a no llorar, ¡pobre Teresa!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

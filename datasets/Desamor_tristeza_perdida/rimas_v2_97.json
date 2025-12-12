@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Los atenienses, despues de haber sido batidos por los de Megara--ciudad\ndórica--decretaron la pena de muerte contra todo el que hiciera una\nmocion para retornar á Salamina. Algunos años despues, un poeta hizo\nllorar al pueblo con el relato de las desgracias de Jonia, y el poeta\nfué multado por el tribunal, imitando en esto la crueldad de Esparta al\ndesterrar al que encordó la lira.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

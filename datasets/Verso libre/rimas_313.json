@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los sucesos de que guardan la memoria estos números, son hasta\ncierto punto insignificantes. Sin embargo, con su recuerdo me he\nentretenido en formar algunas noches de insomnio una novela más ó\nmenos sentimental ó sombría, según que mi imaginación se hallaba más\nó menos exaltada y propensa á ideas risueñas ó terribles.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

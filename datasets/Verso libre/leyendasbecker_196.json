@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Vowels.--If there were but one vowel in a syllable, Spanish\nsyllabification would be easy; but sometimes two or more vowels are\nfound either between consonants, or at the beginning or at the end of\na word. When such is the case, intricacies arise, for sometimes the\ncontiguous vowels are pronounced in a single syllable and sometimes\nthey are divided into separate syllables.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

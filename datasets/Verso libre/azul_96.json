@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Este género de retórica es natural, y todos la empleamos. No se critica\naquí el uso, sino el abuso. En el abuso hay algo parecido al juego\ninfantil de apurar una letra. «Ha venido un barco cargado de...» Y se va\ndiciendo (si, v. gr., la letra es b) de baños, de buzos, de bolos, de\nberros, de bromas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

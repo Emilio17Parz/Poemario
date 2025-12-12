@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Me hallo como el viagero que ha colgado\nSu hamaca entre dos árboles floridos;\nQue envuelto en un ambiente perfumado\nLe acarician sus gajos estendidos;\nY que al fin se aletarga blandamente\nY hojas y flores caen sobre su frente.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

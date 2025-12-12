@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya te vemos dormida.\nTu barca es de madera por la orilla.\nBlanca princesa de nunca.\n¡Duerme por la noche oscura!\nCuerpo y tierra de nieve.\nDuerme por el alba, ¡duerme!\nYa te alejas dormida.\n¡Tu barca es bruma, sueño, por la orilla!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

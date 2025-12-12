@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "\"Yo soy como el granito;\nmi sed de vivir sube hasta el infinito\ncomo las flechas ágiles de mi aljaba ancestral.\nYo, aunque me ciña ajorcas, zarcillos y turbante,\ntengo en las venas mías la sangre palpitante,\nla misma que en el ara oblacionó Rizal.\"",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

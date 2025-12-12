@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No estés triste...\nVoy a inclinar mi frente,\npara que en ella escribas\ntu pregunta en un beso.\nUn silencio doliente\nresponderá con vivas\nternuras hechas verso.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

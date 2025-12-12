@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Isla de gracia, de frescura y de dicha, edad de\noro de los niños; siempre te halle yo en mi vida,\nmar de duelo; y que tu brisa me dé su lira, alta\ny, á veces, sin sentido, igual que el trino de la\nalondra en el sol blanco del amanecer!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

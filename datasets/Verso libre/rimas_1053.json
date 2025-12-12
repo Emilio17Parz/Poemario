@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Apenas hubimos andado algunos kilómetros, y cuando pude enterarme de\nlo que había á mi alrededor, empecé á pasar revista á mis compañeros\nde coche; ellos, por su parte, creo que hacían algo por el estilo,\npues con más ó menos disimulo todos comenzamos á mirarnos unos á\notros de los pies á la cabeza.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es el álbum un libro misterioso\nDonde todos deponen suaves flores:\nAllí ofrece el amante sus amores,\nY el amigo su sincera oblacion;\nAllí están los recuerdos del hermano,\nDel padre, del amigo y del esposo,\nY el crugir de sus hojas, armonioso,\nEs un eco del tierno corazon.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Del filipino céfiro amoroso,\nQue atrae candencioso\nMil íntimas fruiciones infinitas...\nVértigo voluptuoso\nDe sonrisas, caricias y murmullo\nQue vibran de una flor en el capullo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

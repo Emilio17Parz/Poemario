@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cantemos el oro, purificado por el fuego, como el hombre por el\nsufrimiento; mordido por la lima como el hombre por la envidia; golpeado\npor el martillo, como el hombre por la necesidad; realzado por el\nestuche de seda como el hombre por el palacio de mármol.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

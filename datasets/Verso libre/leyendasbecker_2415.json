@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "bien, _m._, good deed (or act), good, benefit; un -- de caridad, a\ngood turn, a benevolent favor; _pl._, property; _adv._, well, very; si\n--, although, even if; mas --, rather; pues --, well, well then, well\nnow; ó --, or, or else; -- ... ó, whether ... or; either, or; porque\n... ó por ser, whether because ... or because it was; -- que ... --\nque, whether ... or; either because ... or because.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

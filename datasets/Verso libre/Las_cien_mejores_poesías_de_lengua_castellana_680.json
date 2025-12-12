@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un año más en el hogar paterno\nCelebramos la fiesta del Dios-niño,\nSímbolo augusto del amor eterno,\nCuando cubre los montes el invierno\nCon su manto de armiño.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

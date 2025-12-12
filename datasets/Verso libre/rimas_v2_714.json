@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Duerme! duerme Santos Vega,\nQue mientras en el desierto\nSe oiga ese vago concierto,\nTu nombre será inmortal;\nY lo ha de escuchar el gaucho\nTendido en su duro lecho,\nMientras en pajizo techo\nCante el gallo matinal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

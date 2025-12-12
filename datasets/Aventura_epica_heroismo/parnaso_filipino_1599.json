@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Cuan hermoso es el Sol cuando la frente\nde entre nubes alzando esplendorosa\nbaña la tierra con su luz fulgente,\nperfume embriagador presta a la rosa,\ndá murmurios al mar, perlas al río,\nal pájaro cantares de alegría,\nlos colores del iris al rocío,\nrumor a la cascada y armonía!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Para alcanzar el pueblo el triunfo suyo,\nle hace falta un espíritu indomable,\n¡un corazón entero como el tuyo,\ny una fé, cual la tuya, inquebrantable!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

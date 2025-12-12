@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Uno, y no sabré quien, bien claro y quedo\nAl oido me habló, y me dixo: espera,\nQue yo decirte lo que quieres puedo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

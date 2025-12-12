@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tal era el nombre del escuadron que mandaba Zacarías Álvarez el dia de\nsu muerte. Este nombre le habia sido dado por el general Lavalle en\nmemoria del infortunado coronel don Ramon Maza, fusilado por Rosas en el\nmomento en que preparaba una revolucion contra él, en Buenos Aires.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

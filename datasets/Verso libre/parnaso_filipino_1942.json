@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un amor acendrado ¡oh patria! por ti siento.\nTuyos son mis laureles; es tuya mi ilusión.\n¡Libre desea verte el claro entendimiento!\n¡Libre desea verte el noble corazón!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

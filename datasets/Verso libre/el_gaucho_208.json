@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "179\nComo hijitos de la cuna\nandarán por ahi sin madre;\nya se quedaron sin padre,\ny ansí la suerte los deja\nsin naides que los proteja\ny sin perro que les ladre.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

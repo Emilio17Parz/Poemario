@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vaya mi clara voz de gente en gente,\nY en dulce y suavisimo sonido\nLlene las almas de un deseo ardiente\nDe eternizar un hecho tan subido.\nAlzad, Romanos, la inclinada frente,\nLlevad de aqui este cuerpo, que ha podido\nEn tan pequeña edad arrebataros\nEl triunfo que pudiera tanto honraros:\nQue yo que soy la Fama pregonera,\nTendré cuidado, enquanto el alto cielo\nMoviere el paso en la subida esfera,\nDando fuerza y vigor al baxo suelo,\nDe publicar con lengua verdadera,\nCon justo intento, y presuroso vuelo\nEl valor de Numancia, unico y solo,\nDe Batro á Tile, y de uno al otro Polo.\nIndicio ha dado esta no vista hazaña\nDel valor que en los siglos venideros\nTendrán los hijos de la fuerte España,\nHijos de tales padres herederos:\nNo de la muerte la feroz guadaña,\nNi los cursos de tiempos tan ligeros\nHarán que de Numancia yo no cante\nEl fuerte brazo y animo constante:\nHallo sola en Numancia todo quanto\nDebe con justo titulo cantarse\nY lo que puede dar materia al canto,\nPara poder mil siglos ocuparse\nLa fuerza no vencida, el valor tanto,\nDino de en prosa y verso celebrarse,\nMas pues de esto se encarga mi memoria,\nDese feliz remate á nuestra historia.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

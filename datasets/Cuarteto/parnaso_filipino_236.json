@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Que así cubra mi frente la victoria\ncomo sobre la arena me desangre,\n¡Si triunfo, para tí toda mi gloria!\n¡Si caigo, para tí toda mi sangre!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Manrique, presa su imaginación de un vértigo de poesía, después\nde atravesar el puente, desde donde contempló un momento la negra\nsilueta de la ciudad, que se destacaba sobre el fondo de algunas\nnubes blanquecinas y ligeras arrolladas en el horizonte, se internó\nen las desiertas ruinas de los Templarios.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

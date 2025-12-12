@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "O pobre moro, y desdichada mora,\nCómo inviais en vano al vano viento\nVuestros vanos suspiros de hora en hora!\nTambien me ha dicho Izuf todo su intento,\nY me ha rogado, que yo á vos os ruegue\nAlgun alivio deis á su tormento;\nMas antes con airada furia llegue\nUna saeta que me pase el pecho,\nY esta alma de las carnes se despegue,\nQue tan á costa mia su provecho\nY tan en daño nuestro procurase,\nAunque él queda de mí bien satisfecho.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

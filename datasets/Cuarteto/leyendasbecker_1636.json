@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No digáis que agotado su tesoro,\nDe asuntos falta,[2] enmudeció la lira:\nPodrá no haber poetas; pero siempre\nHabrá poesía.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

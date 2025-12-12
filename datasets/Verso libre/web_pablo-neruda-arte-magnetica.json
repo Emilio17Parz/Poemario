@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "DE tanto amar y andar salen los libros.\nY si no tienen besos o regiones\ny si no tienen hombre a manos llenas,\nsi no tienen mujer en cada gota,\nhambre, deseo, cólera, caminos,\nno sirven para escudo ni campana:\nestán sin ojos y no podrán abrirlos,\ntendrán la boca muerta del precepto.\nAmé las genitales enramadas\ny entre sangre y amor cavé mis versos,\nen tierra dura establecí una rosa\ndisputada entre el fuego y el rocío.\nPor eso pude caminar cantando.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

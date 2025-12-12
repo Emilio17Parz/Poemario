@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "...Pero el disimular inútil era,\npues no se oculta una pasión sincera\ncon grávidas cadenas o cerrojos.\nY al fin la dijo mi íntimo secreto,\ntras la prisión de un antifaz discreto,\nla pena delatora de mis ojos.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

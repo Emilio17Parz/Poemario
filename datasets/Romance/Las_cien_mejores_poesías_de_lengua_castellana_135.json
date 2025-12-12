@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "--¡Abenámar, Abenámar,\nmoro de la morería,\nel día que tú naciste\ngrandes señales había!\nEstaba la mar en calma,\nla luna estaba crecida:\nmoro que en tal signo nace,\nno debe decir mentira.--\nAllí respondiera el moro,\nbien oiréis lo que decía:\n--Yo te la diré, señor,\naunque me cueste la vida,\nporque soy hijo de un moro\ny una cristiana cautiva;\nsiendo yo niño y muchacho\nmi madre me lo decía:\nque mentira no dijese,\nque era grande villanía:\npor tanto pregunta, rey,\nque la verdad te diría.\n--Yo te agradezco, Abenámar\naquesa tu cortesía.\n¿Qué castillos son aquellos?\n¡Altos son y relucían!\n--El Alhambra era, señor,\ny la otra la mezquita;\nlos otros los Alixares,\nlabrados a maravilla.\nEl moro que los labraba\ncien doblas ganaba al día,\ny el día que no los labra\notras tantas se perdía.\nEl otro es Generalife,\nhuerta que par no tenía;\nel otro Torres Bermejas,\ncastillo de gran valía.--\nAllí habló el rey don Juan,\nbien oiréis lo que decía:\n--Si tú quisieses, Granada,\ncontigo me casaría;\ndarete en arras y dote\na Córdoba y a Sevilla.\n--Casada soy, rey don Juan,\ncasada soy, que no viuda;\nel moro que a mí me tiene\nmuy grande bien me quería.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ía')"
+  }
+}

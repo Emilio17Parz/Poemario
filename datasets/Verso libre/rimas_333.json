@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aquel día me distraje dos ó tres veces dibujando. Y pasé otros\ndías, y siempre que pasaba, la cortinilla se levantaba de nuevo,\npermaneciendo así hasta que se perdía el ruido de mis pasos, y yo\ndesde lejos volvía á ella por última vez los ojos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

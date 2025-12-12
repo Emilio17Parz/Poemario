@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "Da al aire la serenata,\nToca el áuro bandolín,\nLleva un látigo de plata\nPara el _spleen_.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

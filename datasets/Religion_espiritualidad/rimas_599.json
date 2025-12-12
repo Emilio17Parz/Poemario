@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sara, llena de una santa indignación, rebosando en generosa ira\ny animada de esa fe inquebrantable en el verdadero Dios que su\namante le había revelado, no pudo contenerse á la vista de aquel\nespectáculo, y rompiendo por entre la maleza que la ocultaba,\npresentóse de improviso en el dintel del templo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

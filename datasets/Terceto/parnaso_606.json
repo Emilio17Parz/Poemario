@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Que tanto puede la aficion, que un hombre\nTiene á sí mismo, que ignorante siendo,\nDe buen poeta quiere alcanzar nombre.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

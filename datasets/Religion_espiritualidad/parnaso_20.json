@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Si por ventura, Lector curioso, eres poeta, y llegare á tus manos\n(aunque pecadoras) este Viage, si te hallares en él escrito, y notado\nentre los buenos poetas, da gracias á Apolo por la merced que te hizo;\ny si no te hallares, tambien se las puedes dar. Y Dios te guarde.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

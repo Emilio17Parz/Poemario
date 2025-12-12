@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Surgen de todas partes los héroes por encanto,\nen sacro amor ardiendo, radiantes de virtud;\nhasta morir no cejan, y espiran. Entre tanto\nque fervientes pronuncian, patria, tu nombre santo;\nsu último aliento exhalan deseándote salud.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

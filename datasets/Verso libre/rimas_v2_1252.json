@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A dónde fuiste, blanca flor, caida\nDel árbol de esperanza de la vida\nA ese abismo sin fin;\nCual de la palma al borde de un torrente\nHoja que arrastra rápida corriente,\nY la lleva á regiones sin confin?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

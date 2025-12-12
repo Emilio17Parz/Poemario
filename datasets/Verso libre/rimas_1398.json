@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El verde es gala y ornato\nDel bosque en la primavera.\nEntre sus siete colores\nBrillante el Iris lo ostenta.\nLas esmeraldas son verdes,\nVerde el color del que espera,\nY las ondas del Océano,\nY el laurel de los poetas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

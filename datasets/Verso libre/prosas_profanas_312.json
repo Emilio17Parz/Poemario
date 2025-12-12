@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡El Enigma es el rostro fatal de Deyanira!\nMi espalda aun guarda el dulce perfume de la bella;\nAun mis pupilas llama su claridad de estrella.\n¡Oh, aroma de su sexo! ¡oh, rosas y alabastros!\n¡Oh, envidia de las flores y celos de los astros!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

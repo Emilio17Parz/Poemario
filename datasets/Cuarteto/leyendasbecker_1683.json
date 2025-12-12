@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Adonde quiera que la vista fijo,\nTorno á ver sus pupilas llamear,\nMas no te encuentro á tí; que es tu mirada:\nUnos ojos, los tuyos, nada más.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

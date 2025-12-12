@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Second Class_: Hendecasyllables of the second class are\neleven-syllable verses with the accent on the fourth, eighth, and\ntenth syllables. There may be accents on other syllables, provided\nthat they be not _obstruccionistas_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

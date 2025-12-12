@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Quién se arrojó a tus pies, que no sintiera\nla pasión sosegarse que le agita?\n¿Quién no halló en ti la calma verdadera\nque anhela el pecho que de amor palpita?\n¿Quién no querrá abrazarte, oh Cruz bendita?\n¿Quién morirá, si en tu virtud espera,\nhacecillo de mirra regalado,\nque nos dejó en recuerdo nuestro amado?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

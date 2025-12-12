@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Que si posarse quiere sobre la tumba el cuervo,\nAhuyenten la negrura del pájaro protervo,\nEl dulce canto de cristal\nQue Filomena vierta sobre tus tristes huesos,\nO la harmonía dulce de risas y de besos,\nDe culto oculto y florestal.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

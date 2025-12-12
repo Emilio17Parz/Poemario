@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cantos celestes como los que acarician los oídos en los momentos de\néxtasis; cantos que percibe el espíritu y no los puede repetir el\nlabio; notas sueltas de una melodía lejana, que suenan á intervalos,\ntraídas en las ráfagas del viento; rumor de hojas que se besan en\nlos árboles con un murmullo semejante al de la lluvia; trinos de\nalondras que se levantan gorjeando de entre las flores como una saeta\ndespedida á las nubes; estruendo sin nombre, imponente como los\nrugidos de una tempestad; coro de serafines sin ritmos ni cadencia,\nignota música del cielo que sólo la imaginación comprende; himnos\nalados, que parecían remontarse al trono del Señor como una tromba de\nluz y de sonidos... todo lo expresaban las cien voces del órgano, con\nmás pujanza, con más misteriosa poesía, con más fantástico color que\nlo habían expresado nunca.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

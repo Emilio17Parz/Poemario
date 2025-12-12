@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Si no puedes caminar,\nAhi te havrá de acabar\nLa hambre, la espada, ó miedo.\nY voime, porque ya temo\nLo que el vivir desbarata,\nO que la espada me mata,\nO que en el fuego me quemo.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

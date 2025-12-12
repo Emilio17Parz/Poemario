@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Valeroso señor y hermano mio,\nBien nos muestras en esto tu cordura,\nPues fuera conocido desvario\nY temeraria muestra de locura,\nPelear contra el loco airado brio\nDestos desesperados sin ventura:\nMejor será encerrallos, como dices,\nY quitarles al brio las raices.\nBien puede la ciudad toda cercarse,\nSino es la parte por do el rio la baña.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

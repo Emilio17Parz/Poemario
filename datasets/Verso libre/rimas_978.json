@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Yo he dado vueltas sin cesar, arrastrada por la turbia corriente, y\nen mi larga peregrinación vi, solo, enlutado y sombrío, contemplando\ncon una mirada distraída las aguas que pasaban y las hojas secas que\nmarcaban su movimiento, á uno de los dos amantes cuyas palabras nos\nhicieron presentir la muerte.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

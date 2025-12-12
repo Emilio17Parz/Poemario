@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "«En fúnebre ataud al otro dia\n«Le ví llevar al campo de los muertos:\n«Llega, y leerás en esa losa fria\n«El epitafio de sus huesos yertos:»",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

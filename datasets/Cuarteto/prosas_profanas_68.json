@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Ay de quien sus mieles y frases recoja!\n¡Ay de quien del canto de su amor se fíe!\nCon sus ojos lindos y su boca roja,\nLa divina Eulalia, ríe, ríe, ríe.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

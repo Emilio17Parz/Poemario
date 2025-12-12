@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "44\nPues si usté pisa en su rancho\ny si el alcalde lo sabe,\nlo caza lo mesmo que ave\naunque su mujer aborte...\n¡no hay tiempo que no se acabe\nni tiento que no se corte!.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

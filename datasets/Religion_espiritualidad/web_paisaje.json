@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El campo\nde olivos\nse abre y se cierra\ncomo un abanico.\nSobre el olivar\nhay un cielo hundido\ny una lluvia oscura\nde luceros fríos.\nTiembla junco y penumbra\na la orilla del río.\nSe riza el aire gris.\nLos olivos,\nestán cargados\nde gritos.\nUna bandada\nde pájaros cautivos,\nque mueven sus larguísimas\ncolas en lo sombrío.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

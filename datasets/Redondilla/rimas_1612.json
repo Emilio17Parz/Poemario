@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "¡Cuántas veces trazó mi triste sombra\nLa luna plateada,\nJunto á la del ciprés, que de su huerto\nSe asoma por las tapias!",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

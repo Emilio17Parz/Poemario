@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Después pasan los años, y bañan con una veladura de un medio color\noscuro todo el edificio, armonizan sus tintas y hacen brotar la\nhiedra en sus hendiduras.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

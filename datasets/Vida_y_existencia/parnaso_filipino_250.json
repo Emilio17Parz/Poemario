@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pero todos lo hacemos. Todos siguen de trote\nNo hay un hijo de España que no sea Quijote,\nY aunque vaya soñando, haga el bien por doquiera.\nDestrozado y herido le hallarán en la vida,\nPero no habrá una herida más ideal que su herida,\nNi habrá estrella más alta que su noble quimera.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

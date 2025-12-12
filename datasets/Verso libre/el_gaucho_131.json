@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "104\nseguiré esta relación,\naunque pa chorizo es largo:\nel que pueda hágase cargo\ncómo andaría de matrero,\ndespués de salvar el cuero\nde aquel trance tan amargo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Allí, en medio de algunas espigas, cuya simiente acaso trajo el aire\nde las eras cercanas, se columpian las amapolas con sus cuatro hojas\npurpúreas y descompuestas: las margaritas blancas y menudas, cuyos\npétalos arrancan uno á uno los amantes, semejan copos de nieve que\nel calor no ha podido derretir, contrastando con los dragoncillos\ncorales y esas estrellas de cinco rayos amarillas é inodoras\nque llaman de los muertos, las cuales crecen salpicadas en los\ncamposantos entre las ortigas, las rosas de los espinos, los cardos\nsilvestres y las alcachoferas puntiagudas y frondosas. Una brisa\npura y agradable mueve las flores, que se balancean con lentitud, y\nlas altas yerbas, que se inclinan y levantan á su empuje como las\npequeñas olas de un mar verde y agitado. El sol resbala suavemente\nsobre los objetos, los ilumina ó los transparenta, aumentando la\nintensidad y la brillantez de sus tintas, y parece que los dibuja\ncon un perfil de oro para que destaquen entre sí con más limpieza.\nAlgunas mariposas revolotean de acá para allá haciendo en el aire\nesos giros extraños que fatigan la vista que inútilmente se empeña\nen seguir su vuelo tortuoso; y mientras las abejas estrechan sus\ncírculos zumbando alrededor de los cálices llenos de perfumada miel,\ny los pardillos picotean los insectos que pululan por el bardal de\nla tapia, una lagartija asoma su cabeza triangular y aplastada y sus\nojos pequeños y vivos por entre sus hendiduras, y huye temerosa á\nguarecerse en su escondite al menor movimiento.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

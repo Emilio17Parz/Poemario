@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Me despedí del viejo lanchero, y a pasos elásticos dejé el muelle,\ntomando el camino de la casa y haciendo filosofía con toda la cachaza de\nun poeta, en tanto que una brisa glacial, que venía de mar afuera,\npellizcaba tenazmente las narices y las orejas.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

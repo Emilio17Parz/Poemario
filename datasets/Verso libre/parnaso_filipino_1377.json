@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mas, si al fin, padre Apolo, exhaustas nuestras fuerzas,\nno esplende en las alturas el libertario Sol,\nsuelta las rojas bridas de tus salvajes potros\ny que troten furiosos con épico fragor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

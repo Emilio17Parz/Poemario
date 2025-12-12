@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mas ¿porque el gran satírico no aliente\nha de haber quien contemple y autorice\ntanta degradación, indiferente?\n«¿No ha de haber un espíritu valiente?\n¿Siempre se ha de sentir lo que se dice?\n¿Nunca se ha de decir lo que se siente?»",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

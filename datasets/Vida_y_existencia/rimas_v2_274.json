@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No ya cual otro tiempo, en las almenas\nVan á trozar las bárbaras cadenas\nDe tres siglos de oprobio y opresion:\nRenegando las glorias de esos dias\nVienen á traer satánicas orgías,\nVienen á traer degüello y proscripcion.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

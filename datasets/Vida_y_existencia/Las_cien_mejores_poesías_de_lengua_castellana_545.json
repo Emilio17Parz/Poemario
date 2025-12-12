@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Y quién es el responsable\nDe hacer tragar sin medida\nTanta hiel?\n¡La vida! ¡esa es la culpable!\nLa vida, solo es la vida\nNuestra infiel.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

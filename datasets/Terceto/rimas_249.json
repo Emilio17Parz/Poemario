@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Manrique no estaba aún lo bastante loco para que le siguiesen los\nmuchachos, pero sí lo suficiente para hablar y gesticular á solas,\nque es por donde se empieza.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

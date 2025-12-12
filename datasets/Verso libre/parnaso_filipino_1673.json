@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "\"Si después de tres siglos y medio el\nescultor no ha podido sacar más que una\ncaricatura, ¡bien torpe debe de ser!...\nO bien, mala la masa de que se sirve...\"\nRIZAL.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

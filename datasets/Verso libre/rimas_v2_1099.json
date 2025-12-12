@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Miro del árbol sombrío\nComo se ajita el ramaje,\nMientras el verde follaje\nA compas se oye vibrar.\nComo si un aéreo coro\nEn él tuviese su nido,\nPara recrear el oido\nCon misterioso cantar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

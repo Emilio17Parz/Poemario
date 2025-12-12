@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Has publicado cien veces\nPor el mundo americano,\nLas victorias de Belgrano,\nDe San Martin y Alvear;\nHas proclamado á los pueblos\nEn medio de la matanza,\nY alentado su esperanza\nLos triunfos al publicar.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

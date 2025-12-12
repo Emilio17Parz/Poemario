@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Y es que del mar la amargura\nal subir de si destierra,\ny el agua es tanto más pura\ncuanto mayor es la altura\nque la aparta de la tierra.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

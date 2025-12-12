@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y pues amas reir, ríe, y la brisa\nLleve el son de los líricos cristales\nDe tu reir, y haga temblar la risa\nLa barba de los Términos joviales.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

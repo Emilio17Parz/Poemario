@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--La obra adelanta. ¡Ánimo! ¡ánimo!--murmuró el viejo;--aprovechemos\nlos instantes, que la noche es corta, y pronto cantará el gallo,\ntrompeta del día.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

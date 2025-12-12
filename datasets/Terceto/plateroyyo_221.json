@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "He ido á darle agua á Platero. En la noche serena, toda de nubes blancas\ny de estrellas, se oye, allá arriba, desde el silencio del corral, un\nincesante pasar de claros silbidos.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "JOSÉ PALMA VÁZQUEZ\nMi regalo                                       204\nEn la última página                             207\nDe mi jardín                                    208\nEn la hamaca                                    210\nRizal en capilla                                212",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

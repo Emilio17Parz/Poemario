@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cuando vencido el pensamiento gime\ny la razón ya vacilante calla;\ncon ímpetu sublime,\nque no sé si condena o si redime,\nla idea en luces de color estalla.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "pensamiento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Y veo en mis ensueños tus bailes voluptuosos,\nSalones que perfuman las ninfas Argentinas,\nY grupos en que brillan sonrisas peregrinas--\nCual no las ha fijado de Fidias el cincel.--\nY siento entre los giros del valz, que corre, vuela,\nLa brisa que producen las alas del ambiente\nCargadas con efluvios que envuelven dulcemente\nMi corazon y mi alma, mi espíritu y mi ser.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

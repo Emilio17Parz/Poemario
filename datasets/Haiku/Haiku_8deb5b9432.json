@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Cae la llovizna,\nLava el polvo de la ciudad,\nTierra respira.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Lluvia urbana"
+  }
+}

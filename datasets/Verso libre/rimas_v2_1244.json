@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Paloma de la inocencia\nTan cándida como bella,\nTan pura como una estrella\nDe la mañana en su albor,\nSi quieres vivir feliz\nNo dejes tu blando nido,\nMientras te canto al oido\nDuerme tranquila, Leonor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

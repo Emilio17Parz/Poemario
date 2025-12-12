@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Pero en vano es luchar; que no hay cifra\nCapaz de encerrarlo, y apenas ¡oh hermosa!\nSi, teniendo en mis manos las tuyas,\nPudiera, al oirlo, cantártelo á solas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

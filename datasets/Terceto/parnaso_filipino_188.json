@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Besos de sol se posan en las cabezas mustias,\ny ante las plantas de una Virgen de las Angustias,\nmusitando plegarias de matinal candor,",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

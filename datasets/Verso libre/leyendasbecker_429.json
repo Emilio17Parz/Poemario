@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "If an unaccented weak vowel (i, u) precedes or follows a strong vowel\nin the same syllable of a word, it is absorbed by the strong vowel,\nand does not count in the rhyme. Therefore, _vuelo_ and _cielo_ rhyme;\nalso _muestra_ and _diestra_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

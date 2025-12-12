@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Entre mariposas negras\nva una muchacha morena\njunto a una blanca serpiente\nde niebla.\nTierra de luz,\ncielo de tierra.\nVa encadenada al temblor\nde un ritmo que nunca llega;\ntiene el corazón de plata\ny un puñal en la diestra.\n¿Adónde vas, siguiriya,\ncon un ritmo sin cabeza?\n¿Qué luna recogerá\ntu dolor de cal y adelfa?\nTierra de luz,\ncielo de tierra.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

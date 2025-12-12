@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hay una voz armoniosa\nCuyos mágicos acentos\nDespiertan los sentimientos\nQue guarda mi corazon;\nY no quisiera escuchar\nDe serafines un coro,\nSi esa voz que tanto adoro\nNo se uniera con su voz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

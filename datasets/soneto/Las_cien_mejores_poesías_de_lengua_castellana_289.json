@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Faltar pudo su patria al grande Osuna,\nPero no a su defensa sus hazañas;\nDiéronle muerte y cárcel las Españas,\nDe quien él hizo esclava la fortuna.\nLloraron sus envidias una a una\nCon las propias naciones las extrañas;\nSu tumba son de Flandes las campañas,\nY su epitafio la sangrienta luna.\nEn sus exequias encendió al Vesubio\nParténope, y Trinacria el Mongibelo;\nEl llanto militar creció en diluvio.\nDiole el mejor lugar Marte en su cielo;\nLa Mosa, el Rhin, el Tajo y el Danubio\nMurmuran con dolor su desconsuelo.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

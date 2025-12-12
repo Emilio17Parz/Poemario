@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tu nombre dije! En qué gloriosas lides\nEntre la voz del plomo resonó?\nEntre qué renombrados adalides\nTu acero vencedor relampagueó?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

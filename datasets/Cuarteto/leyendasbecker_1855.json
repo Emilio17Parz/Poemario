@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¿Y ríe y llora y aborrece y ama,\nY guarda un rastro del dolor y el gozo,\nSemejante al que deja cuando cruza\nEl cielo un meteoro?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

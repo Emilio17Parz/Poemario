@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "--¡Por dónde va el jabalí? preguntó el barón subiendo á su corcel, sin\napoyarse en el estribo ni desarmar la ballesta.--Por la cañada que se\nextiende al pie de esas colinas, le respondieron. Sin escuchar la\núltima palabra, el impetuoso cazador hundió su acicate de oro en el\nijar del caballo, que partió al escape. Tras él partieron todos.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

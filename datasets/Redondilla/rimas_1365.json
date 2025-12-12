@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "Yo río en los alcores,\nSusurro en la alta yerba,\nSuspiro en la onda pura,\nY lloro en la hoja seca.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

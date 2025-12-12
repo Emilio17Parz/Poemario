@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Yo no creo que se ha dado jamás caso parecido con ningún español\npeninsular. Todos tenemos un fondo de españolismo que nadie nos arranca\nni a veinticinco tirones. En el famoso abate Marchena, con haber\nresidido tanto tiempo en Francia, se ve el español; en Cienfuegos es\npostizo el sentimentalismo empalagoso a lo Rousseau, y el español está\npor bajo. Burgos y Reinoso son afrancesados y no franceses. La cultura\nde Francia, buena o mala, no pasa nunca de la superficie. No es más que\nun barniz transparente, detrás del cual se descubre la condición\nespañola.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

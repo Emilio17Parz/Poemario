@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Sugetos dinos de incesable loa,\nY DON DIEGO XIMENEZ Y DE ENCISO\nDió un salto á tierra desde la alta proa.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

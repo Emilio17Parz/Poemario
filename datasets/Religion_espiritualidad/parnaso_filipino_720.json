@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Entrad todos, entrad. El antiguo jardín\nsólo os pide otra vez, por su nueva eclosión,\nque tengáis para él una eterna canción,\nuna voz de querer, un espíritu afín\ny una sed de habitar con la Reina Ilusión.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

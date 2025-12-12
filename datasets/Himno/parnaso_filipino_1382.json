@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Canto un himno a tus aguas santas, madre laguna,\ndonde en las noches blancas, noches de amor y luna,\njuguetean las ninfas de cabellera bruna\ny de abiertas pupilas, color de aceituna.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "himno"
+  }
+}

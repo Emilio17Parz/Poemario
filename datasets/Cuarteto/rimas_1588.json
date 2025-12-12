@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo los quiero ahuyentar. ¡Esfuerzo inútil!\nMe rodean, me acosan,\nY unos tras otros á clavarme vienen\nEl agudo aguijón que el alma encona.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Este martirio he siempre comprimido\npor inquieto temor a tu repulsa,\nhondo martirio que, a mi ser asido,\nparece cual mi vida confundido\ny siempre al lloro y al sufrir me impulsa.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

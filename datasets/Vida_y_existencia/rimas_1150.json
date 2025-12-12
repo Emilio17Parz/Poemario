@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Grandes, inmensas desigualdades existen, no cabe duda; pero también\nes cierto que todas tienen su compensación. Yo he visto levantarse\nagitado y dejar escapar un comprimido sollozo á más de un pecho\ncubierto de leve gasa y seda; yo he visto más de una altiva frente\ninclinarse triste y sin color como agobiada bajo el peso de su\nespléndida diadema de pedrería; en cambio, hoy como ayer, sigue\ndespertándome el alegre canto de las añoneras que pasan por delante\nde las puertas del monasterio para dirigirse á Tarazona; mañana como\nhoy, si salgo al camino ó voy á buscarlas al mercado, las encontraré\nriendo y en continua broma, felices con sus seis reales, satisfechas,\nporque llevarán un pan negro á su familia, ufanas con la satisfacción\nde que á ellas se deben la burda saya que visten y el bocado de pan\nque comen.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

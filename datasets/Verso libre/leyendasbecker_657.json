@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: trovadores = 'troubadours.' \"A class of early poets who\nfirst appeared in Provence, France. The troubadours were considered\nthe inventors of a species of lyrical poetry, characterized by an\nalmost entire devotion to the subject of chivalric love, and\ngenerally very complicated in regard to meter and rhyme. They\nfourished from the eleventh to the latter part of the thirteenth\ncentury, principally in the south of France, Catalonia, Aragon, and\nnorthern Italy.\" _Century Dict._ Belief in the marvelous, and hence\nin fairies, likewise characterized these poets.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

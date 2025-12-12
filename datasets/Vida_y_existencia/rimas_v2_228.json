@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cascadas del Niagára y Tequendama\nDonde el agua de un mundo se derrama\nPara apagar de América la sed!\nAmazonas, Ontario, bello Plata,\nDonde la vírgen pura se retrata\nEn la márgen bañándose los pies!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

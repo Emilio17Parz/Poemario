@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Es una cosa sin nombre\nEntrevista en un ensueño,\nEn que se mira el diseño\nY no se puede esplicar,\nÓ cual los ecos sin nombre\nQue en mágica melodía\nDe la noche en la armonía\nEl alma suele escuchar.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

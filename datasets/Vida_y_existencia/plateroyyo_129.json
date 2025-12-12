@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Yo trato á Platero cual si fuese un niño. Si el camino se torna fragoso\ny le peso un poco, me bajo para aliviarlo. Lo beso, lo engaño, lo hago\nrabiar... Él comprende bien que lo quiero, y no me guarda rencor. Es tan\nigual á mí, que he llegado á creer que sueña mis propios sueños.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

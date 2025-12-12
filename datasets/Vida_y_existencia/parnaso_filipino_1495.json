@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Más, cuando en noche obscura los vientos enfurecen\ny las inquietas olas comiénzanse a agitar,\ncruzan el aire gritos que el ánimo estremecen\ncoros, voces que rezan, lamentos que parecen\nexhalar los que un tiempo se hundieron en el mar.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

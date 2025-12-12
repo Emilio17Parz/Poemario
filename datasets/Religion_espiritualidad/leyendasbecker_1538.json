@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Teobaldo atravesó el segundo círculo con la rapidez que el meteoro\ncruza el cielo en una tarde de verano, por no oir su voz que vibraba\nallí sonante y atronadora, sobreponiéndose á las otras voces en media\nde aquel concierto infernal.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

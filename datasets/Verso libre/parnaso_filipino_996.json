@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Nació en Manila el 13 de Enero de 1895; Una acuitada adolescencia le\nimpidió acabar en el Ateneo municipal el bachillerato. Ejerció el\noficio de tornero mecánico. A los 16 años versificaba. Consagrado\nahora al periodismo, es redactor del diario filipino \"La Vanguardia\".\nAdora a Rubén y Villaespesa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

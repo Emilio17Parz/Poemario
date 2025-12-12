@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Este galapaguito\nno tiene mare;\nlo parió una gitana,\nlo echó a la calle.\nNo tiene mare, sí;\nno tiene mare, no:\nno tiene mare,\nlo echó a la calle.\nEste niño chiquito\nno tiene cuna;\nsu padre es carpintero\ny le hará una.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

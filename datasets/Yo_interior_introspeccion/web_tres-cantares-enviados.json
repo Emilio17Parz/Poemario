@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "I\nSeñor, me cansa la vida,\ntengo la garganta ronca\nde gritar sobre los mares,\nla voz de la mar me asorda.\nSeñor, me cansa la vida\ny el universo me ahoga.\nSeñor, me dejaste solo,\nsolo, con el mar a solas.\nII\nO tú y yo jugando estamos\nal escondite, Señor,\no la voz con que te llamo\nes tu voz.\nIII\nPor todas partes te busco\nsin encontrarte jamás,\ny en todas partes te encuentro\nsólo por irte a buscar.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

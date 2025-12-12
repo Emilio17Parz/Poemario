@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En el albor de la vida\nEs muy hermoso vivir,\nPorque su senda florida\nNos dá la imágen querida\nDel puerto á que hemos de ir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

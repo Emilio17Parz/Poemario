@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Amor de mis entrañas, viva muerte,\nen vano espero tu palabra escrita\ny pienso, con la flor que se marchita,\nque si vivo sin mí quiero perderte.\nEl aire es inmortal. La piedra inerte\nni conoce la sombra ni la evita.\nCorazón interior no necesita\nla miel helada que la luna vierte.\nPero yo te sufrí. Rasgué mis venas,\ntigre y paloma, sobre tu cintura\nen duelo de mordiscos y azucenas.\nLlena pues de palabras mi locura\no déjame vivir en mi serena\nnoche del alma para siempre oscura.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

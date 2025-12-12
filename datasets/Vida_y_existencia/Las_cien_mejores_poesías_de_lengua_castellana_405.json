@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Y llegaron en fin: ¡oh! ¿quién impío\n¡Ay! agostó la flor de tu pureza?\nTú fuiste un tiempo cristalino río,\nManantial de purísima limpieza;\nDespués torrente de color sombrío,\nRompiendo entre peñascos y maleza,\nY estanque, en fin, de aguas corrompidas,\nEntre fétido fango detenidas.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

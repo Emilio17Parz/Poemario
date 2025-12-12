@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Á dónde vas?--Á predicar al hombre\nLa justicia, la paz, la caridad!\n--No corras ¡ay! en pos de un vano nombre\nQue jamas se convierte en realidad.\n--No, no: yo voy á predicar al hombre\nLa justicia, la paz, la caridad!",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

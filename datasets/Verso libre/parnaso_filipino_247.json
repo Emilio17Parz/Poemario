@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aún seguimos soñando castillos las posadas,\nEjércitos de príncipes altivos las mesnadas,\nJardines encantados los páramos sin dueño,\nY en todos los instantes y en todos los caminos,\nTodos vamos cayendo por luchar con molinos,\nY a todos nos destrozan las aspas del ensueño!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

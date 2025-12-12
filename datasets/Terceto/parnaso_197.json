@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Tiene mas de poeta que de lindo,\nY es JUSEPE DE VARGAS, cuyo astuto\nIngenio y rara condicion deslindo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

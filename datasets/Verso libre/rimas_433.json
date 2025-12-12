@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Era Esteban un muchacho de diecinueve á veinte años, fornido, con\nla cabeza pequeña y hundida entre los hombros, los ojos pequeños y\nazules, la mirada incierta y torpe como la de los albinos, la nariz\nroma, los labios gruesos y entreabiertos, la frente calzada, la tez\nblanca pero ennegrecida por el sol, y el cabello, que le caía parte\nsobre los ojos y parte alrededor de la cara, en guedejas ásperas y\nrojas semejantes á las crines de un rocín colorado.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

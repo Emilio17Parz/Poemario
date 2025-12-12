@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Perdóname, bien mío!\nDe inmenso amor arrobadores cuentos\nnos relataba el río:\naún palpitaban del ardiente estío\nen las fugaces auras los alientos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

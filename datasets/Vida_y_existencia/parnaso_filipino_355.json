@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Y de esto que proclamo\n¡oh, pueblo! no te asombres;\nconos de cumbres, horror de los infiernos,\nlos volcanes, los reyes, los gobiernos,\nson para la vida universal que yo amo\ny no para matar razas y hombres.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

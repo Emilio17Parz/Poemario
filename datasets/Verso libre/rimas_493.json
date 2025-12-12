@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El viento, agitando los frondosos pabellones de verdura que\nderramaban en torno su flotante sombra, dejaba penetrar á intervalos\nun furtivo rayo de luz, que brillaba como un relámpago de plata sobre\nla superficie de las aguas inmóviles y profundas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

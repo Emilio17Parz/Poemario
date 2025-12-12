@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Cómo a la noche callada\nle place el verte ¡oh Manila!\nhermosa, alegre y tranquila\ncabe la mar reclinada...!\nVer la agrada,\ncuando sube la marea\nla ola que al llegar se ve,\ncomo por besar tu pie\nse deshace y forcejea.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

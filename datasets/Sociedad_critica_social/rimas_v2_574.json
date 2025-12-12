@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Tú concretas nuestra historia:\nHas dado la voz de alerta,\nGolpeando de puerta en puerta\nCon tu metálica voz;\nHas anunciado las paces\nAdornada con la oliva,\nY envuelta con palma altiva\nLa guerra cruenta y feroz.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

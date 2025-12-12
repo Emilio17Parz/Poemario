@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "Vuélvete, paloma,\nQue el ciervo vulnerado\nPor el otero asoma,\nAl aire de tu vuelo, y fresco toma.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

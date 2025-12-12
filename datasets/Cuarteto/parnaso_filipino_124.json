@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "patria fecunda en héroes y licurgos,\nnadie habrá que tus méritos no estime;\npues siendo madre de Rizal y Burgos,\npariste un paralítico sublime.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "A su paso se llenan de flores los caminos,\nSe abren todas las ventas, se callan los molinos,\nY aunque por todo oro lleve su sola historia,\nAnte su porte triste soberbio, vagabundo,\nEl sol se para en lo alto de la frente del mundo,\nY como una campana de luz repica a gloria.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

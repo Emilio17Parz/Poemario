@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Entrando por la calle de la Fuente, de vuelta del huerto, las Campanas,\nque ya habíamos oído tres veces desde los arroyos, conmueven, con su\npregonera coronación de bronce, el blanco pueblecillo. Su repique voltea\ny voltea entre el chispeante y estruendoso subir de los cohetes y la\nchillona metalería de la música.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

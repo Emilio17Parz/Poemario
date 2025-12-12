@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "* La ortografía del texto original ha sido actualizada de acuerdo\ncon las normas publicadas en 2010 por la Real Academia Española,\nsalvo en los casos en los queda afectada la métrica del verso o\nse haya querido preservar el vocabulario arcaico castellano, como\nen los poemas iniciales.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

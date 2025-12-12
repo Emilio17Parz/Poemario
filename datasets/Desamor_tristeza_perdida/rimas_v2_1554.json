@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "De esta elegía se hizo en Montevideo una edicion suelta, en que figuraba\nel nombre de Melchor Pacheco y Obes, quien apesar de no haber tomado\nparte en su confeccion (como habia convenido con el autor) quiso sin\nembargo asociarse como Oriental á esta manifestacion de dolor y\nsimpatía, cuando los poderes públicos de su patria negaban al general\nLavalle hasta la justicia póstuma.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

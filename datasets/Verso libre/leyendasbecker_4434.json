@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "llevar, to take, bear, support, get, carry, place, put, raise, bring,\nlead, take away, draw on, attract; to wear; -- á cabo, to execute,\ncarry out, bring to a successful conclusion, terminate successfully;\n-- del diestro, to lead (by the halter or bridle); -- á término, to\nsucceed, carry out, perform.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

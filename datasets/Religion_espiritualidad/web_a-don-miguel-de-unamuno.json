@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Este donquijotesco\ndon Miguel de Unamuno, fuerte vasco,\nlleva el arnés grotesco\ny el irrisorio casco\ndel buen manchego. Don Miguel camina,\njinete de quimérica montura,\nmetiendo espuela de oro a su locura,\nsin miedo de la lengua que malsina.\nA un pueblo de arrieros,\nlechuzos y tahúres y logreros\ndicta lecciones de Caballería.\nY el alma desalmada de su raza,\nque bajo el golpe de su férrea maza\naún durme, puede que despierte un día.\nQuiere enseñar el ceño de la duda,\nantes de que cabalgue, el caballero;\ncual nuevo Hamlet, a mirar desnuda\ncerca del corazón la hoja de acero.\nTiene el aliento de una estirpe fuerte\nque soñó más allá de sus hogares,\ny que el oro buscó tras de los mares.\nÉl señala la gloria tras la muerte.\nQuiere ser fundador, y dice: Creo;\nDios y adelante el ánima española...\nY es tan bueno y mejor que fue Loyola:\nsabe a Jesús y escupe al fariseo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

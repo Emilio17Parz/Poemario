@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Dulces las horas en la propia patria\ndonde es amigo cuanto alumbra el sol,\nvida es la brisa que en sus campos vuela,\ngrata la muerte y más tierno amor!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

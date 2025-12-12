@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mas el silencio acaba y la senil paciencia,\nque la hora ya ha sonada de combatir por ti.\nPara aplastar sin miedo, de frente, sin clemencia,\nla sierpe que envenena tu mísera existencia,\narrastrando la muerte, nos tienes, patria, aquí.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "existencia"
+  }
+}

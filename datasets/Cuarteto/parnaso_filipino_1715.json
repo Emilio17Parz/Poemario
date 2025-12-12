@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Lucían en tu espalda por entero\ntus cabellos, de un negro tenebroso,\nque tenían el brillo esplendoroso\ny cortantes de láminas de acero.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

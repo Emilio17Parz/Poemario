@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tu eres la amada que jamás se olvida,\nLa labradora, de ilusión vestida,\nQue hace de eriales, cármenes fecundos,\nY si ante el Cid, Castilla no se ensancha,\nEn cambio Don Quijote de la Mancha\nTiene por lanza el cetro de los mundos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

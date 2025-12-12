@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sobre su calva é inspirada frente\nRelucía la chispa refulgente\nQue fijó con su dedo el Hacedor:\nAbrió sus ojos á la luz süave,\nY arrojó una mirada dulce y grave\nA sus retoños, que en amor regó.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

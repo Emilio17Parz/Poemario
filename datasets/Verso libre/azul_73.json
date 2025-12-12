@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«Después el misterioso\ntacto, las impulsivas\nfuerzas que arrastran con poder pasmoso,\ny ¡oh gran Pan! el idilio monstruoso\nbajo las vastas selvas primitivas.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

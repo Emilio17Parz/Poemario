@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Cuando yo muera llevad mis restos\nallá a la cumbre de una montaña\nque sea digna de mis arrestos\nde indio poeta, nieto de España.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

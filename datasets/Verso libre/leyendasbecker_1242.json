@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: el condado de Urgel = 'the earldom (_or_ county) of\nUrgel.' The town of this name (2800 inhabitants) is situated on the\nSegre, seventy-four miles northwest of Barcelona, in the province of\nLérida, Spain. It has been the see of a bishop since 840, and\npossesses a Gothic cathedral. The earldom was of considerable\nimportance in the fourteenth century, Count Jaime (James) de Urgel\n(d. 1433) being a most dangerous claimant of the crown of Aragon.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

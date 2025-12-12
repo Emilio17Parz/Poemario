@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Alma mía, perdura en tu idea divina;\nTodo está bajo el signo de un destino supremo;\nSigue en tu rumbo, sigue hasta el ocaso extremo\nPor el camino que hacia la Esfinge te encamina.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "¿Ves aquel nido? Hay un ave.\nSon dos: el macho y la hembra.\nElla tiene el buche blanco,\nél tiene las plumas negras.\nEn la garganta el gorjeo,\nlas alas blancas y trémulas;\ny los picos que se chocan\ncomo labios que se besan.\nEl nido es cántico. El ave\nincuba el trino, ¡oh, poetas!\nde la lira universal\nel ave pulsa una cuerda.\nBendito el calor sagrado\nque hizo reventar las yemas,\n¡oh, amada mía, en el dulce\ntiempo de la primavera!",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ea')"
+  }
+}

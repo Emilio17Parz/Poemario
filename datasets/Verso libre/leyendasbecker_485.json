@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Seguidillas_ are strophes composed of seven verses, three of which\nare heptasyllables and four pentasyllables. The first, third, and\nsixth verses are _libres_, the second and fourth have the same\nassonance, and the fifth and seventh another distinct assonance.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

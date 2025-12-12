@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Oh, musa, ven a mi! Dame tu aliento,\nQue quiero hablar retando al orbe entero,\nY aunque el dolor me abrume el sentimiento\nNo he de soltar mi cítara de acero.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

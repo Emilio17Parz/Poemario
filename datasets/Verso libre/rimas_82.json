@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Toda Sevilla le conoce por su colosal fortuna. Él solo tiene más\nducados de oro en sus arcas que soldados mantiene nuestro señor\nel rey Don Felipe; y con sus galeones podría formar una escuadra\nsuficiente á resistir á la del Gran Turco...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

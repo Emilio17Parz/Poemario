@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "The basis for the following remarks on Spanish prosody is, for the\nmost part, E. Benot's _Prosodia Castellana y Versification_, 3 vols.,\nMadrid, 1892. Other works which have been consulted are the _Ortologia\ny Arte Metrica_ of A. Bello, published in his _Obras Completas_, vol.\n4, Madrid, 1890; Rengifo's _Arte Poètica Española_, Barcelona, 1759;\nJ. D. M. Ford's \"Notes on Spanish Prosody,\" in _A Spanish Anthology_,\npublished by Silver, Burdett & Co., 1901; and a _Tratado de Literatura\nPreceptiva_, by D. Saturnino Milego é Inglada, published at Toledo in\n1887.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Cuando volabais á estrellaros en la muralla de picas--me\ndijeron,--ibais solo, completamente solo; por eso nos maravillamos al\nveros tornar, sabiendo que ya el corcel no obedecía al jinete.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

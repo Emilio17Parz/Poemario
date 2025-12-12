@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cuando escribí esta composicion en 1837, época en que se publicó en el\n_Iniciador_ de Montevideo, no conocia aun el magnífico canto de\nSchiller que lleva el mismo título. Posteriormente lo he leido, y él me\nha inspirado algunas adiciones que he colocado en su lugar al tiempo de\ndarlo el último golpe de lima y la última poda, quedando definitivamente\ncomo se publica hoy.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

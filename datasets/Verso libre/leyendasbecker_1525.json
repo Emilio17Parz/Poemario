@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Atravesaba esa fantástica región adonde van todos los acentos de la\ntierra, los sonidos que decimos que se desvanecen, las palabras que\njuzgamos que se pierden en el aire, los lamentos que creemos que nadie\noye.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

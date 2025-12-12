@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Prudente General, en vano empleas\nMas aqui tu valor, vuelve á otra parte\nLa industria sin igual de que te arreas.\nNo hay en Numancia cosa en que ocuparte,\nTodos son muertos ya, solo uno creo\nQue queda vivo, para el triunfo darte.\nAlli en aquella torre, segun veo,\nAlli denantes un muchacho estaba,\nTurbado en vista, y de gentil arreo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

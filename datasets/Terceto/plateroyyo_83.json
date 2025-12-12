@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Arriba, por las ramas últimas, salta y pía un leve pajarillo, que el sol\nhace, cual toda la verde cima suspirante, de oro. Entre vuelo y gorjeo,\nse oye el partirse de las semillas que el pájaro se está almorzando.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

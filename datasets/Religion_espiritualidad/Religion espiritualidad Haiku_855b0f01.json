@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Religion espiritualidad",
   "poema": {
     "texto": "Viento de otoño\nmueve las hojas secas y cruje.\nSalvación en el aire.",

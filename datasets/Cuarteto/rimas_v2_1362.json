@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Pero si el crímen no marcó sus pasos,\nSi al sólio entre matanzas no se alzaron,\nEllos al mundo con impíos brazos\nDe la piedad las puertas no cerraron.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

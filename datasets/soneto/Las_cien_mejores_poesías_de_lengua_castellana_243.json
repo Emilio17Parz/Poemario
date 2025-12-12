@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Llevó tras sí los pámpanos octubre,\nY con las grandes lluvias insolente,\nNo sufre Ibero márgenes ni puente,\nMas antes los vecinos campos cubre.\nMoncayo, como suele, ya descubre\nCoronada de nieve la alta frente;\nY el sol apenas vemos en oriente,\nCuando la opaca tierra nos lo encubre.\nSienten el mar y selvas ya la saña\nDel Aquilón, y encierra su bramido\nGente en el puerto y gente en la cabaña.\nY Fabio, en el umbral de Tais tendido\nCon vergonzosas lágrimas lo baña,\nDebiéndolas al tiempo que ha perdido.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

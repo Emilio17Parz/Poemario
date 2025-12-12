@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Miro brillar en el cielo\nLas estrellas encendidas,\nLetras de luz esparcidas\nPor la mano del Creador,\nQue en inefables palabras\nRevelan nuestro destino,\nY señalan el camino\nDel audaz navegador.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "destino"
+  }
+}

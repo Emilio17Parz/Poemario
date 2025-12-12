@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quedad, pues, consignados aquí, como la estela nebulosa que señala el\npaso de un desconocido cometa, como los átomos dispersos de un mundo\nen embrión que aventa por el aire la muerte, antes que su creador\nhaya podido pronunciar el _fiat lux_ que separa la claridad de las\nsombras.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

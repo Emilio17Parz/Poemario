@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esta dificil y pesada carga\nQue el senado Romano me ha encargado,\nTanto me aprieta, me fatiga y carga,\nQue ya sale de quicio mi cuidado:\nGuerra de curso tan estraño y larga,\nY que tantos Romanos ha costado,\nQuién no estará suspenso al acabarla,\nO quién no temerá de renovarla?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

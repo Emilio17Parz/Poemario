@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Al canto mío el tiempo parecerá más breve;\nComo Pan en el campo haré danzar los chivos;\nComo Orfeo tendré los leones cautivos,\nY moveré el imperio de Amor que todo mueve.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

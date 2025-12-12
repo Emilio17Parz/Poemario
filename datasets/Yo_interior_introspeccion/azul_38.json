@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Si se me preguntase qué enseña su libro de usted y de qué trata,\nrespondería yo sin vacilar: no enseña nada, y trata de nada y de todo.\nEs obra de artista, obra de pasatiempo, de mera imaginación. ¿Qué enseña\no de qué trata un dije, un camafeo, un esmalte, una pintura o una linda\ncopa esculpida?",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

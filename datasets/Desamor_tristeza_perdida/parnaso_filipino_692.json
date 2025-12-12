@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dejadme esta noche solo retroceder a mi cuna,\nver que la besa y la envuelve un suave rayo de luna;\nno me arranquéis de los ojos una lágrima importuna...\n¡Dejadme solo esta noche, que la noche está de luna!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

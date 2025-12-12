@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Solté el cálamo. Mi vida no me daba la respuesta;\nno había una flor en toda la inmensidad de la cuesta;\nmi fatiga siempre grande, la carga siempre molesta,\ny en el aire ni el susurro de la más leve respuesta.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

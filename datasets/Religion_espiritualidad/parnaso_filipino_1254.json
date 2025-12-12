@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Feliz el alma que la Cruz adora,\nsiguiendo, amante, de Jesús la huella!\n¡Feliz el que la mira cuando llora!\n¡Aparece, entre lágrimas, tan bella!\n¡Feliz quién llega a su postrera hora\nde pies y manos enclavado en ella,\ny espira donde Dios espirar quiso,\ny pasa de la Cruz al Paraíso...!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

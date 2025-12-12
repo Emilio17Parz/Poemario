@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Las doce sonaron en el reloj del Postigo. Beatriz oyó entre sueños\nlas vibraciones de la campana, lentas, sordas, tristísimas, y\nentreabrió los ojos. Creía haber oído á par de ellas pronunciar su\nnombre; pero lejos, muy lejos, y por una voz ahogada y doliente. El\nviento gemía en los vidrios de la ventana.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

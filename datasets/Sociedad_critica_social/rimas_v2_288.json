@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Tuvo seis hijos, del amor el fruto,\nQue presentó á la Patria por tributo\nCuando miró su estátua bambolear,\nY á la cabeza de su prole hermosa\nDesenvainó su espada victoriosa\nPara poner á raya la maldad.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "<i>¡Angelus!</i> Un <i>Angelus</i> duro y abandonado, solloza entre el tronido.\n¿El último <i>Angelus</i> del mundo? Y se quiere que la campana acabe pronto,\nó que suene más, mucho más, que ahogue la tormenta. Y se va de un lado á\notro, y se implora, y no se sabe lo que se quiere...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

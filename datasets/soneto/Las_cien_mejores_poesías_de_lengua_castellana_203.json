@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "No me mueve, mi Dios, para quererte\nEl cielo que me tienes prometido,\nNi me mueve el infierno tan temido\nPara dejar por eso de ofenderte.\nTú me mueves, Señor; muéveme el verte\nClavado en una cruz y escarnecido;\nMuéveme ver tu cuerpo tan herido;\nMuévenme tus afrentas y tu muerte.\nMuéveme, al fin, tu amor, y en tal manera,\nQue aunque no hubiera cielo, yo te amara.\nY aunque no hubiera infierno, te temiera.\nNo me tienes que dar porque te quiera;\nPues aunque lo que espero no esperara,\nLo mismo que te quiero te quisiera.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Pero no has de temblar, ¡oh dulce amada,\nLuz de mis ojos, paraiso mío!\nCuando tú veas fulgurar mi espada\nen el solemne y loco desafío.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

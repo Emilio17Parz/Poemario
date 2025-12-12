@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Amor",
   "poema": {
     "texto": "Hoy lloro la suspiro perdida\nque se fue con el viento frío.\nEl Amor queda herido\nen esta tarde despedida.",

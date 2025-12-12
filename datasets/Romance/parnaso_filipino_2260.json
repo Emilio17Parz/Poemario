@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "El grito de \"Dios y Patria\"\nruje la hueste de Iberia,\ny al punto hacia el enemigo\nemprende veloz carrera\nestremeciéndose, altiva\ny feroz, con la soberbia\nde leones irritados\nque sacuden las melenas;\nlos alaridos del indio\nturban la región serena\ndel aire, y la muchedumbre\nde los contrarios, inquieta,\nen sinuosas oleadas\nagítase, a la manera\ncon que a los ojos se ofrecen\nlas ondas altas y lejas,\no las mieses que combaten\nlos vientos de la pradera.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ea')"
+  }
+}

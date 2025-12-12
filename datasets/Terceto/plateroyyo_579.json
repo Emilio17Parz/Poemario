@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "International donations are gratefully accepted, but we cannot make\nany statements concerning tax treatment of donations received from\noutside the United States. U.S. laws alone swamp our small staff.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

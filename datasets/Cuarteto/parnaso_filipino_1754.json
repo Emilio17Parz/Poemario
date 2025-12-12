@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Estoy en pleno monte. Recluído\nen un camaranchón llamado escuela,\nsiento sobre mi alma la secuela\nde la dolencia del que está aburrido.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

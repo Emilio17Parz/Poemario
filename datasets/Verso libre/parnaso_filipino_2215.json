@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Perdóname, bien mío!\nTodo invitaba amores, alegría,\ndemente desvarío:\nla tierna alondra, el murmurante río,\nel sol de ocaso, el fugitivo día.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

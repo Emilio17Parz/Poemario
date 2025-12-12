@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh, señor Recaredo! lo que tiene vuestra mujercita es que sois un\nhombre abominable. ¿No habéis notado que desde que esa buena de la\nemperatriz de la China ha llegado a vuestra casa, el saloncito azul se\nha entristecido, y el mirlo no canta ni ríe con su risa perlada? Suzette\ndespierta a Chopin, y lentamente, hace brotar la melodía enferma y\nmelancólica del negro piano sonoro. ¡Tiene celos, señor Recaredo! Tiene\nel mal de los celos, ahogador y quemante, como una serpiente encendida\nque aprieta el alma. ¡Celos! Quizá él lo comprendía, porque una tarde\ndijo a la muchachita de su corazón estas palabras, frente a frente, a\ntravés del humo de una taza de café:--Eres demasiado injusta. ¿Acaso no\nte amo con toda mi alma; acaso no sabes leer en mis ojos lo que hay\ndentro de mi corazón?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

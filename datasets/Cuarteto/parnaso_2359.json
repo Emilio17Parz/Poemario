@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ahora es tiempo, Aurelio, ahora puedes\nAsir á la ocasion por los cabellos,\nMira quan blanda, dulce y amorosa\nLa mora hermosa viene á tu mandado.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

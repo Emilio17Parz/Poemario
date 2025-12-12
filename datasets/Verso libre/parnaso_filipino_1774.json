@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El corazón, roído por un pesar muy hondo,\nse abandonó al miraje de una quimera loca;\nbebí, para curarme, de su copa sin fondo\ny su embriaguez me ha puesto amargor en la boca.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

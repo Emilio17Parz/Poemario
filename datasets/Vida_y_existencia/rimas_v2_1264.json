@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Salve, blanca paloma de inocencia,\nQue por primera vez tiendes el ala,\nY cuyo pico, que pureza exhala,\nDe la vida en el cáliz vá á beber;\nVuela, tiende tu cuello blandamente,\nPara que no se agite la onda pura,\nQue levantando la hez de la amargura\nTe ofrecerá veneno en vez de miel.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

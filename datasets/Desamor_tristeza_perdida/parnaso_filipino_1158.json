@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Ay, no es verdad que brote la alborada\ntras la noche caótica y severa!...\nDonde la pena labra su morada,\nallí estará cual víbora enroscada,\nsiempre más pertinaz, siempre más fiera.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

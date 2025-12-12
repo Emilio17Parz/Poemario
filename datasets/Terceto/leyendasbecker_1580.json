@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Vengo de rodar con el torbellino, envuelta en la nube del polvo y de\nlas hojas secas nuestras compañeras, á lo largo de la interminable\nllanura. ¿Y tú?",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

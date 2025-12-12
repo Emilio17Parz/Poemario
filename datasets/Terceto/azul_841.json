@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "es el amor fogoso, y en el placer triunfal:\nella al cantor ofrece la septicorde lira,\no, rítmica y sonora, la flauta de cristal.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

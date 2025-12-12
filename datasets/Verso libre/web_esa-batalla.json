@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Cómo compaginar\nla aniquiladora\nidea de la muerte\ncon ese incontenible\nafán de vida?\n¿cómo acoplar el horror\nante la nada que vendrá\ncon la invasora alegría\ndel amor provisional\ny verdadero?\n¿cómo desactivar la lápida\ncon el sembradío?\n¿la guadaña\ncon el clavel?\n¿será que el hombre es eso?\n¿esa batalla?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En el gótico altar inmoble y fijo\nel santo crucifijo,\nque extiende sin vigor sus brazos yertos,\nsiempre en la sorda lucha de la vida,\ntan áspera y reñida,\npara el dolor y la humildad abiertos;",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

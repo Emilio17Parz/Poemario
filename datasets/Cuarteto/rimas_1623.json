@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "De la luz que entra al alma por los ojos,\nLos párpados velaban el reflejo;\nMas otra luz el mundo de visiones\nAlumbraba por dentro.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

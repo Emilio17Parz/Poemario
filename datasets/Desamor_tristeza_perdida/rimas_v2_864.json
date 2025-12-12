@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Peregrino en tus hogares\nViviendo en perpétua guerra\nLlena de espinas la tierra\nBajo mi planta sentí...\nAy de mí!\nA la fuente de la vida\nPor el mundo bendecida\nSolo llanto y sangre dí!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

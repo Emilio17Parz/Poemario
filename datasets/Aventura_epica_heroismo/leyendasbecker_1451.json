@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El caballo relinchó con una fuerza que hizo estremecer el bosque, dió\nun bote increíble, un bote en que se levantó más de diez varas del\nsuelo, y el aire comenzó á zumbar en los oídos del jinete, como zumba\nuna piedra arrojada por la honda. Había partido al escape; pero á un\nescape tan rápido, que temeroso de perder los estribos y caer á tierra\nturbado por el vértigo, tuvo que cerrar los ojos y agarrarse con ambas\nmanos á sus[1] flotantes crines.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

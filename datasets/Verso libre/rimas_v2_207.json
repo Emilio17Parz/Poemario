@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El _Escuadron de Maza_\nSin casco ni coraza\nSe avanza con valor,\nY su entusiasmo brilla\nComo en verde cuchilla\nLos reflejos del sol.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El centinela atento le escuchaba\nY el corazon guerrero arder sintió,\nY aquel fusil que al frente presentaba\nRendido hasta sus plantas abatió.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

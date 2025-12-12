@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Si lo permitís, señor, puede ganarse la comida con una caja de música;\npodemos colocarle en el jardín, cerca de los cisnes, para cuando os\npaseéis.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

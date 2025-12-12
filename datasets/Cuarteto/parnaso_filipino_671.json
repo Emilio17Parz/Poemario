@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tu perfume, como un alma grande y sola,\nha pasado del terruño las fronteras;\ny el prestigio que embellece tu corola\nno lo olvidan las beldades extranjeras.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

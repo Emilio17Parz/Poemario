@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Cerca, coronado con hojas de viña,\nReía en su máscara Término barbudo,\nY, como un efebo que fuese una niña,\nMostraba una Diana su mármol desnudo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Sabes cuál es...? ¡Escúchame un momento!\ncon voz muy queda lo diré a tu oído,\nque no lo pueda oir el mismo viento\nque, al refrescar tu frente con su aliento,\npalpita de placer estremecido.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "mismo"
+  }
+}

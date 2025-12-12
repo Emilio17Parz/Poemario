@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aquel día no hubo pan ni medicinas en casa del tío Lucas, sino el\nmuchacho destrozado, al que se abrazaba llorando el reumático, entre la\ngritería de la mujer y de los chicos, cuando llevaban el cadáver al\ncementerio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

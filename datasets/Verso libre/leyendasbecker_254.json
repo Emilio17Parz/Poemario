@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Synaeresis may be employed to unite in a single syllable two\ncontiguous vowels (unaccented weak + accented strong) that are\nseparated on account of etymology, or, in the case of derivatives,\nanalogy with the original word; but diaeresis is employed very rarely\nto dissolve a proper diphthongal combination (unaccented weak +\naccented strong).",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

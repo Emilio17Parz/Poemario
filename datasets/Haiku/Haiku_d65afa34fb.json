@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Blanca paz desciende\nCubre al mundo con su velo\nFrío invierno ya",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Nieve"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Refiere un antiguo códice, y es tradición constante en el país,\nque, después de haber renunciado á la corona que le ofrecieron\nlos aragoneses, á poco de ocurrida la muerte de Don Alonso en la\ndesgraciada empresa de Fraga, Don Pedro Atares, uno de los más\npoderosos magnates de aquella época, se retiró al castillo de Borja,\ndel que era señor, y donde en compañía de algunos de sus leales\nservidores, y como descanso de las continuas inquietudes, de las\nluchas palaciegas y del batallar de los campos, decidió pasar el\nresto de sus días entregado al ejercicio de la caza; ocupación\nfavorita de aquellos rudos y valientes caballeros, que sólo hallaban\ngusto durante la paz en lo que tan propiamente se ha llamado\nsimulacro é imagen de la guerra.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

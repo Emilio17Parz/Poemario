@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No es fácil, no, que el ideal sucumba\nbajo la acción del tiempo o la violencia,\npues, como el trigo de la egipcia tumba,\nen sí contiene secular potencia.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

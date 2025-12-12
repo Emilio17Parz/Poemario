@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Luz y flor las veréis en el nuevo jardín\ncuya fronda es de paz, cuyo ambiente es cordial;\nunas veces dirá su quimera un violín\ny otras veces de amor, Chaminade y Chopín,\nen el clave dirán la sonata inmortal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

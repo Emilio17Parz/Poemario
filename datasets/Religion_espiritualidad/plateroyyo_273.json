@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La pregonera vocinglería de la esquila de vuelta, cercana ya, ya\ndistante, resuena en el cielo de la mañana de fiesta como si todo el\nazul fuera de cristal. Y el campo, un poco enfermo ya, parece que se\ndora de las notas caídas del alegre revuelo florido.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

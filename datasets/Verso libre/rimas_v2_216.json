@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y en la veloz carrera\nFlameaba la bandera\nDel ínclito Escuadron,\nY al ver la artillería\nSu gefe le decía:\n«Soldados, al cañon!»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

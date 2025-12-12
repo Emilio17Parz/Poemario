@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Heme hoy aquí: ¡cuán otros mis cantares!\n¡Cuán otro mi pensar, mi porvenir!\nYa no hay flores que escuchen mis pesares,\nNi soledad donde poder gemir.\nLo secó todo el soplo de mi aliento,\nY naufragué con mi doliente amor:\nLejos ya de la paz y del contento,\nMírame aquí en el valle del dolor.\nEra dulce mi pena y mi tristeza;\nTal vez moraba una ilusión detrás:\nMas la ilusión voló con su pureza,\nMis ojos ¡ay! no la verán jamás.\nHoy vuelvo a ti, cual pobre viajero\nVuelve al hogar que niño le acogió;\nPero mis glorias recobrar no espero,\nSolo a buscar la huesa vengo yo.\nVengo a buscar mi huesa solitaria\nPara dormir tranquilo junto a ti,\nYa que escuchaste un día mi plegaria,\nY un ser humano en tu corola vi.\nVen mi tumba a adornar, triste viola,\nY embalsama mi oscura soledad;\nSé de su pobre césped la aureola\nCon tu vaga y poética beldad.\nQuizá al pasar la virgen de los valles,\nEnamorada y rica en juventud,\nPor las umbrosas y desiertas calles\nDo yacerá escondido mi ataúd,\nIrá a cortar la humilde vïoleta\nY la pondrá en su seno con dolor,\nY llorando dirá: «¡Pobre poeta!\n¡Ya está callada el arpa del amor!»",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

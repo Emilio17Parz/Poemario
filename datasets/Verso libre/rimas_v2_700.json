@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Bardo inculto de la pampa,\nComo el pájaro canoro\nTu canto rudo y sonoro\nDiste á la brisa fugaz;\nY tus cantos se repiten\nEn el bosque y en el llano,\nPor el gaucho Americano,\nPor el indio montaráz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

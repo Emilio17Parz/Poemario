@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "¡Oh Rivadavia! tu alma generosa\nHoy preside esta fiesta deliciosa,\nY tu nombre querido, en dulce coro\nBrota del corazon, húmedo en lloro!\nCuán hermosa es tu gloria! Es preferible\nAl cruento lauro del adalid terrible!\nSeres virtuosos honran tu memoria,\nY sus virtudes son tu eterna gloria:\nEl nuevo habitador de la llanura\nEl bienestar te debe y la ventura,\nY el sudor enjugando de su frente\nLleva al labio la copa alegremente,\nY la madre despues del esquileo\nA sus hijos enseña el deletreo.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

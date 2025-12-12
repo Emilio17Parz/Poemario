@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Con JUAN LOPEZ DEL VALLE otros dos vienen\nJuntos alli, y es PAMONES el uno,\nCon quien las musas ogeriza tienen.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

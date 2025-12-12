@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tomé la pluma. En mi mano hubo temblores febriles,\nmiedo de no encarnar nunca en las palabras sutiles\nla voz de mi vida; el miedo de un _bebé_ de cuatro abriles\na las brujas y los duendes de los cuentos infantiles.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "In consonantal rhyme both consonants and vowels should agree exactly\n(_sonante--errante_); b and v can, however, rhyme together, since they\nrepresent the same sound, e.g. _estaba--esclava_; _haba--clava_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "AHORA ES CUBA\nY luego fue la sangre y la ceniza.\nDespués quedaron las palmeras solas.\nCuba, mi amor, te amarraron al potro,\nte cortaron la cara,\nte apartaron las piernas de oro pálido,\nte rompieron el sexo de granada,\nte atravesaron con cuchillos,\nte dividieron, te quemaron.\nPor los valles de la dulzura\nbajaron los exterminadores,\ny en los altos mogotes la cimera\nde tus hijos se perdió en la niebla,\npero allí fueron alcanzados\nuno a uno hasta morir,\ndespedazados en el tormento\nsin su tierra tibia de flores\nque huía bajo sus plantas.\nCuba, mi amor, qué escalofrío\nte sacudió de espuma la espuma,\nhasta que te hiciste pureza,\nsoledad, silencio, espesura,\ny los huesitos de tus hijos\nse disputaron los cangrejos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

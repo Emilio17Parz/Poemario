@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Las armas eran aquellas, no cabía duda alguna; todos habían visto\nflotar el negro penacho de su cimera en los combates, que en un\ntiempo[1] trabaran[2] contra su señor; todos le habían visto agitarse\nal soplo de la brisa del crepúsculo, á par de la hiedra del calcinado\npilar en que quedaron colgadas á la muerte de su dueño. Más ¿quién\npodría ser el desconocido personaje que entonces las llevaba? Pronto\niba á saberse: al menos así se creía. Los sucesos dirán cómo esta\nesperanza quede frustrada, á la manera de otras muchas, y porqué de\neste solemne acto de justicia, del que debía aguardarse el completo\nesclarecimiento de la verdad, resultaran nuevas y más inexplicables\nconfusiones.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Todos creen que tienen frío y se esconden en las casas, y las cierran.\nNosotros, Platero, vamos á ir despacio, tú con tu lana y con mi manta,\nyo con mi alma, por el limpio pueblo solitario.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

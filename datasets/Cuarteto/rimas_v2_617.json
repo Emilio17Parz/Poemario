@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La maldicion del mundo eternamente\nEn tu oido resuene noche y dia,\nY las furias con látigo crujiente\nTe precipiten á la tumba fria!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

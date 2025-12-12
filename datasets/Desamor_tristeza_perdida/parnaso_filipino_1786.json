@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu verdad, asceta,\nhizo de mi vida\nun inmenso crial;\ntu llanto, poeta,\nhizo de mi herida\nbrotar un rosal.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

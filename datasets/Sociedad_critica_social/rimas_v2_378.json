@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "«Un dia los hijos del pueblo argentino\nOrlando sus sienes con lauro divino,\nDarán á sus manes sagrada ovacion,\nY entonces nosotros los Andes cruzando\nVereis que volvemos en triunfo llevando\nLos huesos proscriptos del grande campeon.»",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

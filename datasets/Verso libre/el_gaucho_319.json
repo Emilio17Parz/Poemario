@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "287\nCalentamos los gargueros\ny nos largamos muy tiesos,\nsiguiendo siempre los besos\nal pichel, y por mas señas,\níbamos como cigüeñas\nestirando los pescuezos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Se ha de inclinar su testa coronada\nbajo el verbo de gloria que pregono,\n¡que es más grande mi pluma que su espada!\n¡y hay más fuerza en mi pecho que en su trono!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

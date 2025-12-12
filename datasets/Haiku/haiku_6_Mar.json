@@ -1,8 +1,9 @@
 {
-    "subcategoria": "Océano",
-    "poema": {
-        "texto": "Olas gigantes,\nrompen en la orilla gris,\nsal en el aire.",
-        "tipo": "Haiku",
-        "palabra_clave_ingresada": "Mar"
-    }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Océano",
+  "poema": {
+    "texto": "Olas gigantes,\nrompen en la orilla gris,\nsal en el aire.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Mar"
+  }
 }

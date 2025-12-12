@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Por Dios, dixo Mercurio, y á fe mia,\nQue no puedo decirlo, y si lo digo,\nTengo de dar la culpa á tu porfia.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

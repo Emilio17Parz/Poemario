@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Como las nubes de mirra\nQue perfuman el sagrario,\nY brotan del incensario\nDe las brazas al calor,\nAl fuego del entusiasmo\nDe mi cabeza han brotado\nLos cantos, que he consagrado\nA la Patria y al Señor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

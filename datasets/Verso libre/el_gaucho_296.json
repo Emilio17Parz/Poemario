@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "264\nVos sos un gaucho matrero,\ndijo uno, haciéndose el güeno.\nVos mataste un moreno\ny otro en una pulpería,\ny aquí está la polecía\nque viene a ajustar tus cuentas;\nte va alzar por las cuarenta\nsi te resistís hoy día.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

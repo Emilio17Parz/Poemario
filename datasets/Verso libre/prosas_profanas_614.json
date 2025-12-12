@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un día oí una risa bajo la fronda espesa,\nVi brotar de lo verde dos manzanas lozanas;\nErectos senos eran las lozanas manzanas\nDel busto que bruñía de sol la Satiresa:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

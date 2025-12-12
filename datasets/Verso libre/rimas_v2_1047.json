@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ausente de tu lado\nMirando ese astro bello\nCreeré ver un destello\nEmanacion de tí;\nY esclamaré con ansia:--\nTal vez la hermosa mia\nEn medio á la alegría\nSe olvidará de mí!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

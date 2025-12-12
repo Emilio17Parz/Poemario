@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Yo que profeso en el alma\nLa religion de la muerte,\nSobre su sepulcro inerte,\nLlanto y flores derramé,\nY entre las fúnebres flores\nLágrimas puse á millares,\nY entre blancos azahares\nPensamientos coloqué.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

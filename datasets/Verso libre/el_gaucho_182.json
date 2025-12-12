@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "154\nPa vichar son como ciegos;\nno hay ejemplo de que entiendan,\nni hay uno solo que aprienda,\nal ver un bulto que cruza,\na saber si es avestruza,\no si es jinete, o hacienda.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "EL mar como un vasto cristal azogado\nRefleja la lámina de un cielo de zinc;\nLejanas bandadas de pájaros marchan\nEl fondo bruñido de pálido gris.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

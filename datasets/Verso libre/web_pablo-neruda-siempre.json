@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aunque los pasos toquen mil años este sitio,\nno borrarán la sangre de los que aquí cayeron.\nY no se extinguirá la hora en que caísteis,\naunque miles de voces crucen este silencio.\nLa lluvia empapará las piedras de la plaza,\npero no apagará vuestros nombres de fuego.\nMil noches caerán con sus alas oscuras,\nsin destruir el día que esperan estos muertos.\nEl día que esperamos a lo largo del mundo\ntantos hombres, el día final del sufrimiento.\nUn día de justicia conquistada en la lucha,\ny vosotros, hermanos caídos, en silencio,\nestaréis con nosotros en ese vasto día\nde la lucha final, en ese día inmenso.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

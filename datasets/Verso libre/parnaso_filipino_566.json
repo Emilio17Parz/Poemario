@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Nació en el barrio playero manilense de la Ermita, año de 1873. Cursó\nla segunda enseñanza en el Ateneo municipal. Se hizo perito mecánico y\nabogado luego. Aunque siempre con aficiones literarias, no comenzó a\nlucir como poeta hasta el cese de la soberanía española. A partir de\n1898, consagróse al periodismo. Dirigió \"El Renacimiento\", diario\nfilipino, nacionalista, escrito en castellano. Usó el pseudónimo\n_Belisario Rosas_. En 1907 fué elegido diputado. Ultimamente era\nsecretario del Senado. Es correspondiente de la Real Academia\nEspañola.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

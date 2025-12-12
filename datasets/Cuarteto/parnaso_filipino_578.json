@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y cuando por las tardes el sol desmaya\nsobre olas de esmeralda su frente roja,\nniñas de tez morena van a la playa\na recoger las conchas que el mar arroja.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

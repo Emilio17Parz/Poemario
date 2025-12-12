@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ella era hermosa, hermosa y pálida, como una estatua de alabastro.\nUno de sus rizos caía sobre sus hombros, deslizándose entre los\npliegues del velo, como un rayo de sol que atraviesa las nubes, y\nen el cerco de sus pestañas rubias brillaban sus pupilas, como dos\nesmeraldas sujetas en una joya de oro.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡La Muerte! Yo la he visto. No es demacrada y mustia\nNi ase corva guadaña, ni tiene faz de angustia.\nEs semejante a Diana, casta y virgen como ella;\nEn su rostro hay la gracia de la núbil doncella\nY lleva una guirnalda de rosas siderales.\nEn su siniestra tiene verdes palmas triunfales,\ny en su diestra una copa con agua del olvido.\nA sus pies, como un perro, yace un amor dormido.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

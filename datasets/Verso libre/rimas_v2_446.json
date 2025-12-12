@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ese pendon miraron\nYaciendo moribundos,\nDel suelo se aferraron\nCon brazos tremebundos,\nCual si al morir peleando\nLa tierra asi abrazando\nQuisieran defender.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Es este corazón, que va sangrando\ncon la herida brutal de su delirio,\nmi pobre corazón, agonizando,\nmientras va sollozando... sollozando...\nal rudo golpear de su martirio.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

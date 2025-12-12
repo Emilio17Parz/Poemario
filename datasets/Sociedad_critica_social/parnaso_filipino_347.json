@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Ha llegado a mi casa sobre el ala de un rayo\ny ha llenado de rosas mi pobre habitación,\ny yo le he preguntado quién era, y era Mayo,\nMayo con su perfume de flor y corazón.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

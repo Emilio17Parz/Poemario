@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Clavada está en un palo su cabeza\nCual pendon que concita á la venganza,\nComo faro que alienta la esperanza\nPara un tiempo de paz y libertad;\nQue si hoy como trofeo al despotismo\nSe mira torpemente escarnecida,\nUn dia llegará en que bendecida\nLa circunde aureola celestial.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

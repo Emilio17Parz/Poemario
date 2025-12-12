@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "EL futuro es espacio,\nespacio color de tierra,\ncolor de nube,\ncolor de agua, de aire,\nespacio negro para muchos sueños,\nespacio blanco para toda la nieve,\npara toda la música.\nAtrás quedó el amor desesperado\nque no tenía sitio para un beso,\nhay lugar para todos en el bosque,\nen la calle, en la casa,\nhay sitio subterráneo y submarino,\nqué placer es hallar por fin,\nsubiendo\nun planeta vacío,\ngrandes estrellas claras como el vodka\ntan transparentes y deshabitadas,\ny allí llegar con el primer teléfono\npara que hablen más tarde tantos hombres\nde sus enfermedades.\nLo importante es apenas divisarse,\ngritar desde una dura cordillera\ny ver en la otra punta\nlos pies de una mujer recién llegada.\nAdelante, salgamos\ndel río sofocante\nen que con otros peces navegamos\ndesde el alba a la noche migratoria\ny ahora en este espacio descubierto\nvolemos a la pura soledad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

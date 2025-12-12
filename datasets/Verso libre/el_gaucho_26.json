@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "2\nPido a los Santos del Cielo\nQue ayuden mi pensamiento;\nLes pido en este momento\nQue voy a cantar mi historia\nMe refresquen la memoria\nY aclaren mi entendimiento.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

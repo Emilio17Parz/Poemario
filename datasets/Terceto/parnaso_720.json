@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "No veo calabaza, ó luenga ó corta,\nQue no imagine que es algun poeta\nQue alli se estrecha, encubre, encoge, acorta.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

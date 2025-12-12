@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "De cada una de las notas que formaban aquel magnífico acorde, se\ndesarrolló un tema; y unos cerca, otros lejos, éstos brillantes,\naquéllos sordos, diríase que las aguas y los pájaros, las brisas\ny las frondas, los hombres y los ángeles, la tierra y los cielos,\ncantaban cada cual en su idioma un himno al nacimiento del Salvador.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "himno"
+  }
+}

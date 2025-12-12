@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Allí, por un milagro, se ensimisma\nel alma de la patria con la nuestra,\ny allí la vemos, bajo el propio prisma,\ndentro del corazón como maestra...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

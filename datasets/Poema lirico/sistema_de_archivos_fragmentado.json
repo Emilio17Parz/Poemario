@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sistema de archivos fragmentado",
+  "poema": {
+    "texto": "En mi alma, un archivo desgarrado\nFragmentos de mi ser, perdidos entre sí,\nComo hojas secas que arrastran el viento,\nUn montón sin sentido, sin historia clara.\n\nEl recuerdo me atraviesa como un arpón,\nPero es solo un fragmento, no la verdadera herida.\nQuiero agarrarlo, pero todo se desintegra,\nTodo queda perdido en mi profundo olvido.\n\nNo puedo reconstruir el mosaico de mis sueños,\nTodas las piezas están dispersas, sin traza.\nSolo un archivo fragmentado, un corazón vacío,\nUn espacio desierto donde una vez vivía mi alma.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Sistema"
+  }
+}

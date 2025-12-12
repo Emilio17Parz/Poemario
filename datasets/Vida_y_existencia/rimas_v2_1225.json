@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Por qué sobre el torrente de la vida,\nComo una flor del árbol suspendida\nTe inclinas á llorar?\nMadre y esposa, veo en tus miradas,\nQue buscas en sus olas agitadas\nAl hijo que en su fondo viste ahogar.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

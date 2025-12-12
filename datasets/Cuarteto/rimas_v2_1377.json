@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En su alma la bondad tuvo un abrigo,\nDió á la miseria simpatía y lloro,\nColmó Dios su ambicion con un amigo,\nY así partió su amor y su tesoro.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Raudal en cuyas ondas\nSu sed la fiebre apaga;\nOasis que al espíritu\nDevuelve su vigor...\n¡Tal es nuestra razón!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

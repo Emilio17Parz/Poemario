@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Yo te diera una flor de los jardines\nPara adornar tu blanca cabellera\nSi su vida no fuese tan ligera\nQue nace, brilla y muere con un sol;\nY darte quiero cosa mas durable\nQue no marchite el viento del olvido,\nY que apesar del tiempo transcurrido\nGuarde siempre su aroma y su color.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

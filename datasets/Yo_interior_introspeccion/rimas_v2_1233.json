@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mira ese cielo. ¿Ves aquella estrella,\nQue entre las otras fúlgida descuella\nDel mar en el confin?\nEse es tu hijo tambien. ¡Chispa divina,\nQue brotó de tu mente peregrina,\nY en sus alas llevóse un serafin!",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "mente"
+  }
+}

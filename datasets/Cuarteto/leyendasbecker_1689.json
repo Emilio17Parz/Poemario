@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "In my room's furthest corner I behold\nTheir strange fantastic blaze,\nAnd when I sleep I feel them watch\nUnmoved and open o'er my head.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

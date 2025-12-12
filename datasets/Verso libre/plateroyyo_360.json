@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Los gorriones! Bajo las redondas nubes, que, á veces, llueven unas\ngotas finas, ¡cómo entran y salen en la enredadera, cómo chillan, cómo\nse cogen de los picos! Este cae sobre una rama, se va y la deja\ntemblando; el otro bebe en un charquito del brocal del pozo, que tiene\nen sí un pedazo de cielo; aquél ha saltado al tejadillo lleno de flores\ncasi secas, que el día pardo aviva.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No sé si por ventura ó desgracia quiso la suerte que este señor, á\nquien por crueldad detestaban sus vasallos, y por sus malas cualidades\nni el rey admitía en la corte, ni sus vecinos en el hogar, se\naburriese de vivir solo con su mal humor y sus ballesteros en lo alto\nde la roca en que sus antepasados colgaron su nido de piedra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

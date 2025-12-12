@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¿Los amores exóticos acaso...?\nComo rosa de Oriente me fascinas:\nMe deleitan la seda, el oro, el raso.\nGautier adoraba a las princesas chinas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

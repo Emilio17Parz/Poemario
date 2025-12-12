@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mientras la ciencia á descubrir no alcance\nLas fuentes de la vida,\nY en el mar ó en el cielo haya un abismo\nQue al cálculo resista;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

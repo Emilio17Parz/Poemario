@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando el joven acabó de hablarle, sus labios se removieron como para\npronunciar algunas palabras, pero sólo exhalaron un suspiro, un\nsuspiro débil, doliente, como el de la ligera onda que empuja una\nbrisa al morir entre los juncos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

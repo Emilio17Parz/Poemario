@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Helena!\nLa anuncia el blancor de un cisne.\n¡Makheda!\nLa anuncia un pavo real.\n¡Ifigenia, Electra, Catalina!\nAnúncialas un caballero con un hacha.\n¡Ruth, Lía, Enone!\nAnúncialas un paje con un lirio.\n¡Yolanda!\nAnúnciala una paloma.\n¡Clorinda, Carolina!\nAnúncialas un paje con un ramo de viña.\n¡Sylvia!\nAnúnciala una corza blanca.\n¡Aurora, Isabel!\nAnúncialas de pronto\nun resplandor que ciega mis ojos.\n¿Ella?\n(No la anuncian. No llega aún).",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

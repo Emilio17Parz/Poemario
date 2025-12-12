@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya no vais á los montes precedido de la ruidosa jauría, ni el clamor\nde vuestras trompas despierta sus ecos. Sólo con esas cavilaciones que\nos persiguen, todas las mañanas tomáis la ballesta para enderezaros á\nla espesura y permanecer en ella hasta que el sol se esconde. Y cuando\nla noche obscurece y voivéis pálido y fatigado al castillo, en balde\nbusco en la bandolera los despojos de la caza. ¿Qué os ocupa tan\nlargas horas lejos de los que más os quieren?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

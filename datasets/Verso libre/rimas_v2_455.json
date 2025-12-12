@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "De la tierra sangrienta\nSe elevarán los muertos,\nY con rayos inciertos\nLa luna amarillenta,\nEl esqueleto pálido\nTrémula alumbrará.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

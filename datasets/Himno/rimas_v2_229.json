@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Pampas inmensas, selvas olorosas,\nDel Andes cordilleras orgullosas\nQue corona la ardiente cruz del Sud!\nPerfumaos como nube de incensario,\nArmonizaos cual himno del santuario\nPara decir de Mayo al Sol: Salud!",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "himno"
+  }
+}

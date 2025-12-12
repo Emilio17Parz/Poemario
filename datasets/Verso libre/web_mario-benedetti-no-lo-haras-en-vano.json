@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ah no lo harás en vano\nse te helarán los dedos\ny el corazón y los olores\nse te helará la noche\ny la arrogancia y las rodillas\nse te helará la sangre\ny los crepúsculos y el humo\nse te helará el bostezo\ny el ademán y la lujuria\nse te helarán los ojos\nla madrugada y el esperma\nse te helará el ritual\ny las caricias y los signos\nse te helará la luna\ny el arbolito y la garganta\nse te helarán los labios\ny los disfrutes y la vida\ntodo está listo\nno lo harás en vano.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

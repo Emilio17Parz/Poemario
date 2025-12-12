@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "La cabra andará despierta, y su campanilla insiste agitada, dulce luego.\nAl fin, se calla... A lo lejos, hacia Montemayor, rebuzna otro asno...\nOtro, luego, por el Vallejuelo... Ladra un perro...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

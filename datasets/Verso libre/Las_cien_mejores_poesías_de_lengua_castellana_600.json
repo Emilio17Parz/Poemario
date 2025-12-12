@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Quién podrá detenerle en su carrera?\n¿Quién templar los impulsos de la fiera\ny loca multitud enardecida,\nque principia a dudar y ya no espera\nhallar en otra luminosa esfera,\nbálsamo a los dolores de esta vida?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

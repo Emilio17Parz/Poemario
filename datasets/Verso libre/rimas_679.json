@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Apenas el cantor había terminado la última estrofa, cuando rompiendo\nel muro de curiosos que se apartaban con respeto al reconocerle, el\nconde llegó adonde se encontraba el romero, y cogiéndole con fuerza\ndel brazo, le preguntó en voz baja y convulsa:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

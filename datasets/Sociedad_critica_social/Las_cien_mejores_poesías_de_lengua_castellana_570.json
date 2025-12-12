@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Si en medio de esta borrascosa orgía\nque infunde repugnancia al par que aterra,\nesa lira estallara ¿qué sería?\nGrito de indignación, canto de guerra,\nque en las entrañas mismas de la tierra\nla muerta humanidad conmovería.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

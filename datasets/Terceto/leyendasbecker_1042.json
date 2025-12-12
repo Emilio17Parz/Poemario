@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--No hay duda que aunque no sea más que la ilusión de hallarse junto á\nuna mujer de este calibre, es lo suficiente para no pegar los ojos en\ntoda la noche.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

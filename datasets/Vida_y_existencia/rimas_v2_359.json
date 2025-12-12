@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Era una sombra de las grandes huestes\nQue de Mendoza al Ecuador partieron,\nY que del grande San Martin siguieron\nPor entre abismos la pisada audaz;\nEra un guardian de la ignorada tumba\nDe los caidos sin legar su nombre,\nQue esperaba á los héroes de renombre\nPara dar á otro mundo la señal.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

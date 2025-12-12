@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esta misma primavera, Platero, hemos de ver al pájaro salir del corazón\nde una rosa blanca. El aire fragante se pondrá canoro, y habrá por el\nsol de Abril un errar encantado de alas invisibles y un reguero secreto\nde trinos claros de oro puro.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Esta fecha que no tiene nombre, no la escribí en ninguna parte...\nDigo mal; la llevo escrita en un sitio en que nadie más que yo la\npuede leer, y de donde no se borrará nunca.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

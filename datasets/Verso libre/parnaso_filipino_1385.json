@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por tus aguas bogaron en primitivas barcas,\ncon sus lanzas y bolos los tagalos monarcas,\na lidiar con el hombre de las pupilas zarcas\nque invadió hace tres siglos las malayas comarcas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

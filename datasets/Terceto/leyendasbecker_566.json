@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "See _Escritos de Santa Teresa_, \"Libro de su vida,\" capítulo 31, in\nthe _Biblioteca de Autores Españoles_, Madrid, Rivadeneyra, 1861, p.\n94.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

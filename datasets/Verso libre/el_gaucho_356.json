@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "323\nLas mujeres, dende entonces,\nconocí a todas en una;\nya no he de probar fortuna\ncon carta tan conocida:\nmujer y perra parida,\n¡no se me acerca ninguna!.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

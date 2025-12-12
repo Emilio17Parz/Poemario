@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Busque muy en hora buena\nEl mercader nuevos soles;\nYo conchas y caracoles\nEntre la menuda arena,\nEscuchando a Filomena\nSobre el chopo de la fuente,\n_Y ríase la gente_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La aurora aparece con dulce sonrisa\nY llena de aromas la atmósfera está,\nHermosa goleta que impele la brisa\nSurcando va el agua del gran Paraná.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

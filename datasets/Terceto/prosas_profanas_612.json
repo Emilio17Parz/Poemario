@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Cuya entrada sombría guardan siete panteras:\nSon los Siete Pecados las siete bestias fieras.\nLlena la copa y bebe: la fuente está en ti mismo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

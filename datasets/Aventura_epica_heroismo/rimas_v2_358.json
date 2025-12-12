@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Y en ancho mar de blanquecina nieve\nSolo una forma humana se elevaba:\nLa de un fiel centinela que velaba\nApoyada la mano en su fusil.\nBlancos cabellos su cabeza orlaban,\nHondos surcos cruzaban su semblante,\nY su mirada firme y penetrante\nRevelaba un aliento varonil.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

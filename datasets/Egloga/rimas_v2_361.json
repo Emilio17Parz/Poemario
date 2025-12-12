@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Negros los rostros y la frente roja,\nLa mano herida y como sierra el sable\nLlevaba aquella hueste formidable,\nFugitiva del campo del honor.\nEnvueltos en banderas argentinas\nConducian los restos de un soldado,\nY brillaba en su cráneo descarnado\nLa aureola que al mártir coronó.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

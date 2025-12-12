@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Hasta que un día el tío Lucas no pudo moverse de la cama, porque el\nreumatismo le hinchaba las coyunturas y le taladraba los huesos.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

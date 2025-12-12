@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Aéreo coro de ángeles\nEntonará mil cánticos\nComo la brisa plácidos;\nLa libertad en tanto,\nComo vision espléndida,\nTendiendo el ala rápida\nSe elevará hasta Dios.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

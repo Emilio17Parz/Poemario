@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Heraldo de la raza. En turquesa latina\nha modelado España el alma filipina\ncon rosas de su carne y oro de su pendón.\nPor eso, aunque nos vieres malayos por la cara\ny morena la frente que el indio sol tostara\nsomos siempre españoles en alma y corazón.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

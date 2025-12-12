@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Fueron los unos quejas de mi alma\nQue en horas solitarias exhalé,\nAl ensayar las cuerdas de la lira,\nY entrar al mundo con incierto pié;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

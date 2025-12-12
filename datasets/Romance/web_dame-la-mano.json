@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Dame la mano y danzaremos;\ndame la mano y me amarás.\nComo una sola flor seremos,\ncomo una flor, y nada más...\nEl mismo verso cantaremos,\nal mismo paso bailarás.\nComo una espiga ondularemos,\ncomo una espiga, y nada más.\nTe llamas Rosa y yo Esperanza;\npero tu nombre olvidarás,\nporque seremos una danza\nen la colina y nada más...",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

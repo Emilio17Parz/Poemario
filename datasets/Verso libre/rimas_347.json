@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tal era el pavimento de aquella plaza, empedrada á trechos con\npequeñas piedrecitas de varios matices formando labores, á trechos\ncubierta de grandes losas de pizarra, y en su mayor parte, según\ndejamos dicho, semejante á un jardín de plantas parásitas, ó á un\nprado yermo é inculto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

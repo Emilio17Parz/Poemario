@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Busca ansioso doquiera la dicha,\ny la dicha se aleja fugaz:\n¡Vana sombra que burla su anhelo...!\n¡Por ella el viajero se lanza a la mar!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

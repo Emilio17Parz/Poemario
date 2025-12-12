@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Yo respiro la brisa que acaso haya pasado\npor los campos y ríos de mi pueblo natal;\n¡acaso me devuelva lo que antes le he confiado:\nlos besos y suspiros de un ser idolatrado,\nlas dulces confidencias de un amor virginal!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

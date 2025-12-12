@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Que no haya ni un pequeño desaliento,\na la luz de tu espíritu sublime...\nCon la labor constante y el talento,\nasí una raza toda se redime.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

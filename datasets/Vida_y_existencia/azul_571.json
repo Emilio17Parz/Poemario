@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El poeta vió llegar una joven de un rincón del jardín, hermosa,\ntriunfal, sonriente; y no quiso tener tiempo sino para meditar en que\nson adorables los cabellos dorados cuando flotan sobre las nucas\nmarmóreas y en que hay rostros que valen bien por un alba.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

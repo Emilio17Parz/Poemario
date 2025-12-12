@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "242\nmatreriando lo pasaba\nya a las casas no venía;\nsolía arrimarme de día,\nmas, lo mesmos que el carancho,\nsiempre estaba sobre el rancho\nespiando a la polecía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

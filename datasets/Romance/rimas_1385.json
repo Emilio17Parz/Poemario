@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Cuando miro el azul horizonte\nPerderse á lo lejos,\nAl través de una gasa de polvo\nDorado é inquieto,\nMe parece posible arrancarme\nDel mísero suelo,\nY flotar con la niebla dorada\nEn átomos leves\nCual ella deshecho.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'eo')"
+  }
+}

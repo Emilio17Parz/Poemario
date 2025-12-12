@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Gotas caen ya\nLava el suelo, el verde\nAire fresco está",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Lluvia"
+  }
+}

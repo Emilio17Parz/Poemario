@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Lloré sobre su abierta sepultura\naquel perdido bien que tanto amara...\n¡Nunca pude pensar que mi ternura\ntanto placer en el dolor hallara!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

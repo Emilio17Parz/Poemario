@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Llegó la noche y no encontré un asilo;\n¡Y tuve sed!... Mis lágrimas bebí;\n¡Y tuve hambre! ¡Los hinchados ojos\nCerré para morir!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

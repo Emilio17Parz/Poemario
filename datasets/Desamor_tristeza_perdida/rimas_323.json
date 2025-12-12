@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Más allá de este arco que baña con su sombra aquel lugar, dándole un\ntinte de misterio y tristeza indescriptible, se prolongan á ambos\nlados dos hileras de casas oscuras, desiguales y extrañas, cada cual\nde su forma, sus dimensiones y su color. Unas están construídas de\npiedras toscas y desiguales, sin más adornos que algunos blasones\ngroseramente esculpidos sobre la portada; otras son de ladrillo, y\ntienen un arco árabe que les sirve de ingreso, dos ó tres ajimeces\nabiertos á capricho en un paredón grieteado, y un mirador que termina\nen una alta veleta. Las hay con traza que no pertenece á ningún orden\nde arquitectura, y que tienen, sin embargo, un remiendo de todas; que\nson un modelo acabado de un género especial y conocido, ó una muestra\ncuriosa de las extravagancias de un período del arte.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

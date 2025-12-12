@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "REINA Venus, soberana\ncapitana\nde deseos y pasiones,\nen la tempestad humana\npor ti mama\nsangre de los corazones.\nUna copa me dió el sino\ny en ella bebí tu vino\ny me embriagué de dolor,\npues me hizo experimentar\nque en el vino del amor\nhay la amargura del mar.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

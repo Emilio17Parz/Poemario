@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tendidas á lo largo de la llanura, mirábanse, pues, tiendas de\ncampaña de todas formas y colores, sobre el remate de las cuales\nondeaban al viento distintas enseñas con escudos partidos, astros,\ngrifos, leones, cadenas, barras y calderas, y otras cien y cien\nfiguras ó símbolos heráldicos que pregonaban el nombre y la calidad\nde sus dueños. Por entre las calles de aquella improvisada ciudad\ncirculaban en todas direcciones multitud de soldados, que hablando\ndialectos diversos y vestidos cada cual al uso de su país, y cada\ncual armado á su guisa, formaban un extraño y pintoresco contraste.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

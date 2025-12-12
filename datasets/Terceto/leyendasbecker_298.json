@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "There is always triphthongal synalepha when a is the middle vowel; or\nwhen o or e is the middle vowel, except in the following combinations,\naoa, aoo, ooo, aea, aeo, oea, oeo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

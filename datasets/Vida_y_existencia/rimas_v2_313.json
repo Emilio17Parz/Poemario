@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "«Del gran dia celeste monumento,\n«Donde arde su divino pensamiento\n«Como el fuego sagrado en el altar:\n«Tú alumbrarás del mundo las edades\n«En medio de las negras tempestades\n«Para impedir al mundo naufragar.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

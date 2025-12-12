@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la torre\namarilla,\ndobla una campana.\nSobre el viento\namarillo,\nse abren las campanadas.\nEn la torre\namarilla,\ncesa la campana.\nEl viento con el polvo,\nhace proras de plata.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Resonará en la bóveda\nEl cántico suave,\nY en medio á el ancha nave\nSe elevará en el túmulo\nLa gloria y libertad.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

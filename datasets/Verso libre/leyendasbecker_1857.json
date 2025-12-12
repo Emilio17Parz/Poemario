@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: Each Stanza of this poem is composed of three\nhendecasyllabic verses followed by a heptasyllabic. Notice the\n_esdrújulo_ ending the 3d verse and the hiatus in the 5th verse.\nThe even verses are of the same assonance throughout.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

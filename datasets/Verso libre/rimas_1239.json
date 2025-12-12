@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Señor, hacia la parte de la raya de Castilla sucede una cosa\nextraordinaria. Sobre la cumbre del monte de Trasmoz, y donde ayer\nno se encontraban más que rocas y matorrales, hemos descubierto al\namanecer un castillo tan alto, tan grande y tan fuerte como no existe\nningún otro en todos vuestros estados. En un principio dudamos del\ntestimonio de nuestros ojos, creyendo que tal vez fingía la mole la\nniebla arremolinada sobre las alturas; pero después ha salido el\nsol, la niebla se ha deshecho, y el castillo subsiste allí oscuro,\namenazador y gigante, dominando los contornos con su altísima atalaya.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

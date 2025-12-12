@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Á mí me hace gracia observar cómo se afanan los sabios, qué grandes\ncuestiones enredan, y con qué exquisita diligencia se procuran los\ndatos acerca de las más insignificantes particularidades de la vida\ndoméstica de los egipcios ó los griegos, en tanto que se ignoran\nlos más curiosos pormenores de nuestras costumbres propias; cómo\nse remontan y se pierden de inducción en inducción, por entre el\nlaberinto de las lenguas caldaicas, sajonas ó sánscritas, en busca\ndel origen de las palabras, en tanto que se olvidan de investigar\nalgo más interesante: el origen de las ideas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "61\nYo llevé un moro de número\n¡sobresaliente el matucho!\nCon él gané en ayacucho\nmás plata que agua bendita:\nsiempre el gaucho necesita\nun pingo pa fiarle un pucho.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

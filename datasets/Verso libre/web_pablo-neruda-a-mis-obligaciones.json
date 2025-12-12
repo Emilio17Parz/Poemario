@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cumpliendo con mi oficio\npiedra con piedra, pluma a pluma,\npasa el invierno y deja\nsitios abandonados,\nhabitaciones muertas:\nyo trabajo y trabajo,\ndebo substituir\ntantos olvidos,\nllenar de pan las tinieblas,\nfundar otra vez la esperanza.\nNo es para mí sino el polvo,\nla lluvia cruel de la estación,\nno me reservo nada\nsino todo el espacio\ny allí trabajar, trabajar,\nmanifestar la primavera.\nA todos tengo que dar algo\ncada semana y cada día,\nun regalo de color azul,\nun pétalo frío del bosque,\ny ya de mañana estoy vivo\nmientras los otros se sumergen\nen la pereza, en el amor,\nyo estoy limpiando mi campana,\nmi corazón, mis herramientas.\nTengo rocío para todos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Los héroes que en tu mente divinizas\nTe muestran que la vida es noble y bella,\nY ellos te enseñan á estampar la huella\nDel tiempo en las arenas movedizas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

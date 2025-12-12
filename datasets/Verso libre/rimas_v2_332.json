@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El marinero que en la cofa estaba\nGritó al Corsario que tambien velaba,\n«Un barco viene.»\nEl se levanta magestuoso y mudo,\nY de los vientos al silvido rudo\nTodo previene.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

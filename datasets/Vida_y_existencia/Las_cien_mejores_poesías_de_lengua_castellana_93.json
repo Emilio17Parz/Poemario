@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Este mundo es el camino\nPara el otro, qu’es morada\nSin pesar;\nMas cumple tener buen tino\nPara andar esta jornada\nSin errar.\nPartimos cuando nacemos,\nAndamos mientras vivimos,\nY llegamos\nAl tiempo que fenecemos;\nAsí que cuando morimos\nDescansamos.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

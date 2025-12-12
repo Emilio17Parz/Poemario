@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Quién sabe si en las ondas que desata,\nresbalando entre juncos y maleza,\nfugaz arroyo tímido retrata\nde alguna ondina la gentil cabeza!\nQuién sabe si, entre flores escondida,\nen su cristal colúmpiase graciosa\nnáyade bella que al placer convida\nmeciéndose en las limfas voluptuosa!\nAcaso alzando la nevada frente,\nlímpida y tersa como manso lago,\nla mirada fugaz por la corriente\ntiende en redor con incitante halago!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "fugaz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pero ¡ay! de tí, apartado y errante por el mundo,\nHijo desheredado de tu cariño inmenso,\nDe la estranjera playa te quemo el puro incienso\nQue á tí tan solo, oh madre! me es dado tributar.\nNo solo en llanto estéril he de inundar la tierra:\nMis vacilantes manos arrimaré á tus aras;\nSi derrumbadas bajan.... entre reliquias caras\nFeliz si entre su polvo, me puedo sepultar!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

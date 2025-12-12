@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Te vieron de Albion en los umbrales\nEsa fábrica altiva contemplar,\nDonde se quema incienso á la justicia\nY se ensancha la esfera intelectual...\nPero al llegar al interior del templo\nY doblar la rodilla ante el altar,\nViste el becerro de oro entronizado\nY minado en su base el pedestal,\nQue no es cimiento sólido de un pueblo\nLa opulencia sin pública moral.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "interior"
+  }
+}

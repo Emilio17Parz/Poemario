@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tantos Duques excelentes,\nTantos Marqueses y Condes\nY Barones\nComo vimos tan potentes,\nDi, muerte, ¿dó los escondes\nY los pones?\nY sus muy claras hazañas\nQue hicieron en las guerras\nY en las paces,\nCuando tú, cruel, te ensañas,\nCon tu fuerça los atierras\nY deshaces.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

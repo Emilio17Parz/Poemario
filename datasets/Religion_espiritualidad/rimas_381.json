@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La iglesia era alta y oscura: formaban sus naves dos filas de\npilares compuestos de columnas delgadas reunidas en un haz, que\ndescansaban en una base ancha y octógona, y de cuya rica coronación\nde capiteles partían los arranques de las robustas ojivas. El altar\nmayor estaba colocado en el fondo, bajo una cúpula de estilo del\nRenacimiento cuajada de angelones con escudos, grifos, cuyos remates\nfingían profusas hojarascas, cornisas con molduras y florones\ndorados, y dibujos caprichosos y elegantes. En torno á las naves\nse veía una multitud de capillas oscuras, en el fondo de las\ncuales ardían algunas lámparas, semejantes á estrellas perdidas en\nel cielo de una noche oscura. Capillas de una arquitectura árabe,\ngótica ó churrigueresca: unas, cerradas con magníficas verjas de\nhierro, otras, con humildes barandales de madera; éstas, sumidas\nen las tinieblas con una antigua tumba de mármol delante del\naltar; aquéllas, profusamente alumbradas con una imagen vestida de\nrelumbrones y rodeada de votos de plata y cera con lacitos de cinta\nde colorines.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Haces de donde en curva fugitiva,\npara formar la ojiva,\ncada ramal subiendo se separa,\ncual del rumor de multitud que ruega,\ncuando a los cielos llega,\nsurge cada oración distinta y clara;",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

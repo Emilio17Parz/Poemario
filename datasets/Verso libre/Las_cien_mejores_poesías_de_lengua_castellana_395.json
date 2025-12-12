@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mujer que amor en su ilusión figura,\nMujer que nada dice a los sentidos,\nEnsueño de suavísima ternura,\nEco que regaló nuestros oídos;\nDe amor la llama generosa y pura,\nLos goces dulces del amor cumplidos,\nQue engalana la rica fantasía,\nGoces que avaro el corazón ansía:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

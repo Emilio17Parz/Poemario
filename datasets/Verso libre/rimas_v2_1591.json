@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es bien conocida la poética tradicion que cuenta que, el primer rayo del\nsol naciente, que heria la estátua de Mennon, la hacia producir un\nsonido armónico. Lamartine se ha servido alguna vez de esta comparacion,\npero sin desenvolver la imágen.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

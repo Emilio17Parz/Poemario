@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Mas ay! ¿a qué volar? El alma impura\ncautiva del dolor tiene que ser.\nCondor, ¿a que volar hacia la altura,\nsi al lodo de la tierra he de volver...?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

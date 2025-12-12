@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«Gran lámpara del templo soberano,\n«Vasta concretacion del ser humano,\n«Condensacion de la inmortal verdad;\n«Fuente perenne de fecunda idea\n«Que en los espacios, nuevos mundos crea,\n«Antorcha de la inmensa eternidad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

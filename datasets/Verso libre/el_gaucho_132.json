@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "105\nDel sueldo nada les cuento,\nporque andaba disparando;\nnosotros de cuando en cuando\nsolíamos ladrar de pobres:\nnunca llegaban los cobres\nque se estaban aguardando.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

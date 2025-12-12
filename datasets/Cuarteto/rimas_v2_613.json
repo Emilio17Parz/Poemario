@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El lodo cubra tu cabeza infame,\nTu cuello dobla al récio bofeton,\nDe tu señor el pié sangriento lame,\nY de tu labio mane corrupcion!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

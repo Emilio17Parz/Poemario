@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El cantor va por todo el mundo\nsonriente o meditabundo.\nEl cantor va sobre la tierra\nen blanca paz o en roja guerra.\nSobre el lomo del elefante\npor la enorme India alucinante.\nEn palanquín y en seda fina\npor el corazón de la China;\nen automóvil en Lutecia;\nen negra góndola en Venecia;\nsobre las pampas y los llanos\nen los potros americanos;\npor el río va en la canoa,\no se le ve sobre la proa\nde un steamer sobre el vasto mar,\no en un vagón de sleeping-car.\nEl dromedario del desierto,\nbarco vivo, le lleva a un puerto.\nSobre el raudo trineo trepa\nen la blancura de la estepa.\nO en el silencio de cristal\nque ama la aurora boreal.\nEl cantor va a pie por los prados,\nentre las siembras y ganados.\nY entra en su Londres en el tren,\ny en asno a su Jerusalén.\nCon estafetas y con malas,\nva el cantor por la humanidad.\nEn canto vuela, con sus alas:\nArmonía y Eternidad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

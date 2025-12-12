@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Te canta y vuela a ti la alondra matinal en el alba de la primavera, en\nque el viento lleva vibraciones de liras eólicas, y el eco de los\ntímpanos de plata que suenan los silfos. Desde tu región derrama las\nperlas armónicas y cristalinas de su buche, que caen y se juntan a la\nuniversal y grandiosa sinfonía que llena la despierta tierra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Duerme en paz en las sombras de la nada,\nredentor de una patria esclavizada!\n¡No llores, de la tumba en el misterio,\ndel español el triunfo momentáneo,\nque si una bala destrozó tu cráneo,\ntambién tu idea destrozó un imperio!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

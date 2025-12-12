@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y con lo dicho basta para preámbulo, pues ni MARTÍN FIERRO exige más,\nni Ud. gusta mucho de ellos, ni son de la predilección del público, ni\nse avienen con el carácter de\nSu verdadero amigo\nJOSÉ HERNÁNDEZ\nBuenos Aires, diciembre de 1872.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

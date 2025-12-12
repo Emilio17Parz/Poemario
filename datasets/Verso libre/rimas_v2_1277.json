@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Allí tambien se acerca el peregrino,\nPara doblar humilde la rodilla\nAnte la hermosa, en cuyas sienes brilla\nLa corona que adorna á la virtud;\nY cuya frente cándida y serena,\nComo el disco argentado de la luna,\nQue se refleja en plácidas lagunas,\nDel corazon refleja la quietud.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

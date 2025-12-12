@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Reflejo de humedad en un espejo vacío.",
   "poema": {
     "texto": "Reflejo en espejo vacío,\ngotas de humedad se mueven,\nsilencio se escucha.",

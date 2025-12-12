@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "--Una toma de hábito--me contestó el pobre, interrumpiendo la oración\nque murmuraba entre dientes, para continuarla después, aunque no\nsin haber besado antes la moneda de cobre que puse en su mano al\ndirigirle mi pregunta.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Desde mi alto sitial, indiferente,\nContemplo al pueblo que ante mi se inclina;\nLa pobre humanidad triste y doliente\nQue por la senda del ideal camina.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Su mirada es decidida\nY negra su cabellera;\nY una sonrisa atrevida\nDel labio está suspendida\nRevelando una alma fiera.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿A dó va Diana? Viva la vista\nLa planta alada, la cabellera\nMojada y suelta; terrible, fiera,\nCorre del monte por la extensión;\nLadran sus perros enfurecidos;\nEntre sus dedos humedecidos\nLleva una flecha para el ladrón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

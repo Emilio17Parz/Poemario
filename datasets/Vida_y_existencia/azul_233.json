@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Y empezó la charla, esa charla agradable y suelta que me place entablar\ncon los bravos hombres toscos que viven la vida del trabajo\nfortificante, la que da la buena salud y la fuerza del músculo, y se\nnutre con el grano del poroto y la sangre hirviente de la viña.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

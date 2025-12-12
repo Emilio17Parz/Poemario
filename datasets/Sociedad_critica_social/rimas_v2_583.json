@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Ah! de mi patria saludó el bautismo\nCuando subiendo al rango de Nacion,\nSobre su frente el oleo del civismo\nDios derramó cual sacra bendicion.\nMas hoy llora, cual llora por los muertos,\nPorque no tiene pueblo soberano,\nY es el despojo de feroz tirano\nLa que en sus puños desgarró un leon!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

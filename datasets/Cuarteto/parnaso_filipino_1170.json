@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Más un día... sonaron los fusiles,\nahogó los suspiros la metralla,\ny fulminando muertes, al derecho\npronto abriéronle paso las espadas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

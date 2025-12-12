@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Era noble, había nacido entre el estruendo de las armas, y el\ninsólito clamor de una trompa de guerra no le hubiera hecho levantar\nla cabeza un instante ni apartar sus ojos un punto del oscuro\npergamino en que leía la última cantiga de un trovador.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

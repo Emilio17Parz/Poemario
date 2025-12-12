@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Velloncito de mi carne,\nque en mis entrañas tejí,\nvelloncito friolento,\n¡duérmete apegado a mí!\nLa perdiz duerme en el trébol\nescuchándole latir:\nno te turben mis alientos,\n¡duérmete apegado a mí!\nHierbecita temblorosa\nasombrada de vivir,\nno te sueltes de mi pecho:\n¡duérmete apegado a mí!\nYo que todo lo he perdido\nahora tiemblo hasta al dormir.\nNo resbales de mi brazo:\n¡duérmete apegado a mí!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los astros son ronda de niños,\njugando la tierra a espiar...\nLos trigos son talles de niñas\njugando a ondular..., a ondular...\nLos ríos son rondas de niños\njugando a encontrarse en el mar...\nLas olas son rondas de niñas,\njugando la Tierra a abrazar...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

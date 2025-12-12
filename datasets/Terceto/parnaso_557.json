@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Anciano en el ingenio, y nunca mozo,\nHumanista divino, es segun pienso\nEl insigne DOCTOR ANDRES DEL POZO.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

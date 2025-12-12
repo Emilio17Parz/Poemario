@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mas así no será, que de Varela\nTodos van á clamar sobre la tumba,\nQue es un cobarde el que á pelear no vuela,\nSu canto de victoria ya retumba\nY en medio de las huéstes debeladas\nResuena el estridor de las espadas.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

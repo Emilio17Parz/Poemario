@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Yo la oí en el mismo lugar en que acaeció, y la he escrito volviendo\nalgunas veces la cabeza con miedo cuando sentía crujir los cristales\nde mi balcón, estremecidos por el aire frío de la noche.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

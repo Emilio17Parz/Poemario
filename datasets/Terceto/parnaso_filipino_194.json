@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "porque en la historia un nombre eternamente brilla,\nal lado de Cervantes, Molina y Garcilaso,\nel nombre de aquel vate, héroe y mártir: Rizal.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La estupenda relación del tío Gregorio acerca de los gnomos del\nMoncayo, cuyo secreto estaba en la fuente del lugar, exaltó\nnuevamente las locas fantasías de las dos enamoradas hermanas,\ncompletando, por decirlo así, la ignorada historia del tesoro hallado\npor la pastorcita de la conseja; tesoro cuyo recuerdo había turbado\nmás de una vez sus noches de insomnio y de amargura, presentándose á\nsu imaginación como un débil rayo de esperanza.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

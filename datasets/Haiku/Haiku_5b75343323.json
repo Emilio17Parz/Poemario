@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Noche callada\nLa luna, faro plateado\nBúho te mira",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

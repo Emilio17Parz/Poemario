@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "EL alba aun no aparece en su gloria de oro.\nCanta el mar con la música de sus ninfas en coro\ny el aliento del campo se va cuajando en bruma.\nTeje la náyade el encaje de su espuma\nY el bosque inicia el himno de sus flautas de pluma.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

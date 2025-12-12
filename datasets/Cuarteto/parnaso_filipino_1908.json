@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Buen Quijote, salud! No eres vencido;\nírguete hasta las nubes arrogante!\nVas como el Nazareno escarnecido,\n¡pero serás después un dios triunfante!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

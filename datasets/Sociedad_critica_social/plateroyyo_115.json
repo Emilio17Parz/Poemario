@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cuando, en el crepúsculo del pueblo, Platero y yo entramos, ateridos,\npor la obscuridad morada de la calleja miserable que da al río seco, los\nniños pobres juegan á asustarse, fingiéndose mendigos. Uno se echa un\nsaco á la cabeza, otro dice que no ve, otro se hace el cojo...",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

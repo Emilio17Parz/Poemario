@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tagalo _Kundiman_, _Kundiman_ de versos de amores\nque en los plenilunios prefieres tu vuelo tender:\ntus suaves estrofas que lloran ocultos dolores\ndicen la nativa tristeza del atardecer.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "DEVOLVIÉNDOLE UN LIBRO DEL QUE UNA MANO QUERIDA HABIA ARRANCADO\nUNOS VERSOS DEL AUTOR, Y QUE FUERON REEMPLAZADOS POR LOS\nSIGUIENTES:",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

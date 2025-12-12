@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Cual la celda de un mísero ermitaño\nqueda abierta a los vientos del desierto,\nasí mi corazón quedóse abierto\nal soplo huracanado del engaño.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

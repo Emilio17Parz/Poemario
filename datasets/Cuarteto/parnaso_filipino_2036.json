@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "De nuestras pobres naves se mofaron;\nsu aciago fin unánimes previeron...\nY pronto todos por seguro dieron\nel desastre español que presagiaron.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pedí consuelo al saber,\nY sus ardientes misterios\nEran horribles cauterios\nA mi atormentada sien;\nY al vaiven\nDe las olas de la duda\nMi inteligencia, desnuda\nQuedó de esperanza y bien.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

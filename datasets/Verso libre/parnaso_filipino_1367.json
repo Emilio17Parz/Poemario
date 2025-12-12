@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Excelso padre Apolo: por las musas gloriosas,\npor los sátiros viejos del bosque secular,\npor las suaves ondinas que duermen en los lagos,\npor la luna, tu hermana, de soñolienta faz;\nsuelta las rojas bridas de los salvajes potros\nque, en furioso galope, sus crines tenderán,\ny que enciendan sus cascos, al chocar con los soles,\nreverberantes rayos de paz y libertad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

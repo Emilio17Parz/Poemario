@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Heróicamente lidiaron,\nCien heridas recibieron,\nY clamando--¡Libertad!\nAl suelo cayeron muertos.\nY la divina corona\nQue la Patria dá al guerrero,\nSobre sus frentes marchitas\nSe vió caer desde el cielo.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

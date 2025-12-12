@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En los ardientes climas tropicales\nCon el rocío de una sola noche,\nLa perfumada flor abre su broche\nY al sol y al aire entrega su beldad.\nAsí en mi corazon, de amor fecundo,\nHa brotado en un dia una flor pura,\nY esa flor de rarísima hermosura\nEs por tí mi simpática amistad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

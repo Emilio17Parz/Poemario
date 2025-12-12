@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Ya enzarzado en lo más espeso y fragoso del monte, llevando del\ndiestro la caballería por entre sendas casi impracticables, ora por\nlas cumbres para descubrir la salida del laberinto, ora por las\nhonduras con la idea de cortar terreno, anduve vagando al azar un buen\nespacio de tarde hasta que por último, en el fondo de una cortadura\ntropecé con un pastor, el cual abrevaba su ganado en el riachuelo que,\ndespués de deslizarse sobre un cauce de piedras de mil colores, salta\ny se retuerce allí con un ruido particular que se oye á gran\ndistancia, en medio del profundo silencio de la naturaleza que en\naquel punto y á aquella hora parece muda ó dormida.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "ganado"
+  }
+}

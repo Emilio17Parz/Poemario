@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--¿Qué ha sucedido? ¿qué pasa? se decían unos á otros, y nadie sabía\nresponder, y todos se empeñaban en adivinarlo, y crecía la confusión,\ny el alboroto comenzaba á subir de punto, amenazando turbar el orden y\nel recogimiento propios de la iglesia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

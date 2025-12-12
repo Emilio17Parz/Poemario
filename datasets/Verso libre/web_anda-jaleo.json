@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Yo me arrimé a un pino verde\npor ver si la divisaba,\ny sólo divisé el polvo\ndel coche que la llevaba.\nAnda jaleo, jaleo:\nya se acabó el alboroto\ny vamos al tiroteo.\nNo salgas, paloma, al campo,\nmira que soy cazador,\ny si te tiro y te mato\npara mí será el dolor,\npara mí será el quebranto,\nAnda, jaleo, jaleo:\nya se acabó el alboroto\ny vamos al tiroteo.\nEn la calle de los Muros\nhan matado una paloma.\nYo cortaré con mis manos\nlas flores de su corona.\nAnda jaleo, jaleo:\nya se acabó el alboroto\ny vamos al tiroteo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

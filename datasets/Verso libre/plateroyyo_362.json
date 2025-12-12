@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Viajan sin dinero y sin maletas; mudan de casa cuando se les antoja;\npresumen un arroyo, presienten una fronda, y sólo tienen que abrir sus\nalas para conseguir la felicidad; no saben de lunes ni de sábados; se\nbañan en todas partes, á cada momento; aman el amor sin nombre, la amada\nuniversal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

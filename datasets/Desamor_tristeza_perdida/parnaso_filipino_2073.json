@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Viene la ola! Sereno\nbusco una tumba en su seno\ndonde tranquilo dormir...\nEn vano, que otra ola avanza\nfingiéndome una esperanza\ny obligándome a vivir.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

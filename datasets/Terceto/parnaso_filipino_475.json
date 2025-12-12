@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Hijo de Manuel Casuso. Nació en Manila en 1898. Murió en el Japon el 19\nde Julio de 1918. Escribió, cuando cursaba el bachillerato, las\ncomposiciones que se copian.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

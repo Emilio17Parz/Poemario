@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Toda esta disertacion metafísica--que vá á hacerme pasar la plaza de\npedante--no tiene mas objeto que crearme un punto de apoyo para repetir\nlo que se ha dicho tantas veces, que «algo le falta al hombre que es\ninsensible á los encantos de la música ó de la pintura» y que por\nconsecuencia le falta todo al que no es susceptible de comprender todas\nlas bellezas de la poesía, que condensa á la vez la imágen y la armonía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

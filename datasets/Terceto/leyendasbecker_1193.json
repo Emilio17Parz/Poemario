@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El segundo acorde, amplio, valiente, magnífico, se sostenía aún\nbrotando de los tubos de metal del organo, como una cascada de armonía\ninagotable y sonora.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

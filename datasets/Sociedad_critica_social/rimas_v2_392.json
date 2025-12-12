@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sí, que la voz del niño\nOráculo es del cielo\nPara anunciar consuelo\nA un pueblo en horfandad,\nY sus puras palabras\nAl tiempo de verterlas\nSe convierten en perlas\nEn la urna funeral.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

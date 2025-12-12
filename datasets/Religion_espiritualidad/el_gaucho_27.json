@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "3\nVengan Santos milagrosos,\nVengan todos en mi ayuda,\nQue la lengua se me añuda\nY se me turba la vista;\nPido a Dios que me asista\nEn una ocasión tan ruda.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

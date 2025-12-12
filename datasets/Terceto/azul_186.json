@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Al vecino Olimpo llegó el eco, y resonó allá, donde los dioses estaban\nde broma, un coro de carcajadas formidables que después se llamaron\nhoméricas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

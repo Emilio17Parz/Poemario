@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Vuestros restos divinos\nSon nítidas lumbreras,\nQue alumbran los caminos\nDe edades venideras,\nPor donde ardientemente\nLa juventud valiente\nSe lanza al porvenir,",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

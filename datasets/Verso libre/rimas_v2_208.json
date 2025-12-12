@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y con marcial fiereza\nSe mira á su cabeza\nZacarias marchar:\nAlma grande y altiva\nQue renunció la oliva\nDel pacífico hogar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

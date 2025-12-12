@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tres siglos han pasado. Espesa hiedra\nveo cubrir el cúmulo de escombros\nque han apilado los pasados años;\ny veo levantar la enorme piedra\ndel porvenir los esforzados hombros\nllenos de fé, de propios y de extraños.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

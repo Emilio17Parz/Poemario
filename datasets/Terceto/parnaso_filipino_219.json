@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y se quedó dormida con ellas, y con ellas,\nQue se reían bajo la luz de las estrellas,--\nLámparas de oro puestas en el celaje cónico,--",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

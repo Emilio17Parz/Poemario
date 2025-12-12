@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "--Usted busca la frontera; pues bien, si delante de esa cruz le pide\nusted al cielo que le preste ayuda, las cumbres de los monies vecinos\nse levantarán en una sola noche hasta las estrellas invisibles, sólo\nporque no encontremos la raya en toda nuestra vida.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

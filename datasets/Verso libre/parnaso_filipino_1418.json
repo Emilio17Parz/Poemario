@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Manos sutiles como suavidades de lago,\nde seda que se aleja en rítmico _frufú_,\ncomo el hogar quimérico de un ensueño muy vago\nsobre las aguas mansas del piélago de azur.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

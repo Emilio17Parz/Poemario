@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La mesnada de torpes asesinos\nQue deshonran el nombre de Argentinos\nVolaron cual hambriento gavilan,\nY al barbárico son de un clamoréo\nLlegan ante la gran Montevideo,\nDonde los libres en su puesto están.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

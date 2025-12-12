@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tú los viste en la noche tempestuosa\nGuiados por tu pupila luminosa,\nCual por la estrella el navegante audaz,\nEscalar de los Andes las montañas,\nEsculpiendo en su cima las hazañas\nQue realizaron con vigor tenaz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No dará nuestro hogar rojos destellos\nSobre el limpio cristal de la vajilla,\nY, si alguien osa hablar, será de aquellos\nQue hoy honran nuestra fiesta tan sencilla\nCon sus blancos cabellos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "The facultative accent is opposed to the regular recurrence in each\nline of dissyllabic and trisyllabic elements, which elements caused\nthe rhythm of Latin verse.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

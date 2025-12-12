@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "222\notra vez en un boliche\nestaba haciendo la tarde;\ncayó un gaucho que hacia alarde\nde guapo y peliador;\na la llegada metió\nel pingo hasta la ramada,\ny yo sin decirle nada\nme quedé en el mostrador.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

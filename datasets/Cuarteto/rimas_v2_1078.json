@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Cómo pintar tu rostro de azucena\nSin combinar los cándidos jazmines\nAl brillo de la nieve en los confines\nAlumbrada por luz blanca y serena?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

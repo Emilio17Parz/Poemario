@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡La gata blanca! En el lecho\nmaya se encorva, se extiende.\nUn rojo rubí se enciende\nsobre los globos del pecho.\nLos desatados cabellos\nla divina espalda aroman.\nBajo la camisa asoman\ndos cisnes de negros cuellos",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

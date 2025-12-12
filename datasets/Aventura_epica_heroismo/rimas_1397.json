@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Porque son, niña, tus ojos\nVerdes como el mar, te quejas;\nVerdes los tienen las náyades,\nVerdes los tuvo Minerva,\nY verdes son las pupilas\nDe las hurís del profeta.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

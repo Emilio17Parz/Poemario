@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "«Pero él en su espada, con nervio pujante\nLa patria y sus glorias sostuvo constante,\nY nunca cobarde su espalda dobló:\nMiró su bandera de polvo cubierta,\nMiró de la lucha la arena desierta,\nY entonces su frente soberbia rindió.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

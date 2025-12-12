@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Item, se da por aviso particular que si alguna madre tuviere hijos\npequeñuelos, traviesos y llorones, los pueda amenazar y espantar con\nel coco, diciendoles: guardaos, niños, que viene el poeta fulano, que\nos echará con sus malos versos en la sima de Cabra, ò en el pozo\nAiron.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

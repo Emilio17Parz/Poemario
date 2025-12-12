@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las aceras animadas van poblándose de seres\nque en las místicas edades esculpieron su vivir;\na la luz de la leyenda pasan hombres y mujeres,\ncon sus gozos y sus duelos, su llorar y su reir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la guardia de frontera\nParaba oreja agorera\nDel indio al sordo tropel,\nY con relincho sonoro\nDaba el alerta mi moro\nComo centinela fiel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

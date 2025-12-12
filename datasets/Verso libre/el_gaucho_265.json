@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "234\nLe llaman gaucho mamao\nsi lo pillan divertido,\ny que es mal entretenido\nsi en un baile lo sorprienden;\nhace mal si se defiende\ny si no, se ve- fundido.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

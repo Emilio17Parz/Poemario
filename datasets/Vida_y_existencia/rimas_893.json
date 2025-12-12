@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Después de una ó dos horas de camino, el misterioso personaje que\ncalificaron de loco en la abadía, remontando la corriente del\nriachuelo que le indicó el rabadán de la historia, llegó al punto en\nque se levantaban negras é imponentes las ruinas del monasterio.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por qué cambiaste la materna almohada\nDe amor y de inocencia perfumada\nPor esa terrenal,\nCual virgen consagrada á los altares\nQue deja la guirnalda de azahares\nPara dormir en losa sepulcral?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

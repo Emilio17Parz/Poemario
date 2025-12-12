@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Para esculpir tu nombre giganteo,\npara encumbrar tu gloria soberana,\narrancaré la lira de Tirteo\ny el estro portentoso de Quintana.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

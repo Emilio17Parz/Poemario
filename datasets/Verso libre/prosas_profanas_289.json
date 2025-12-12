@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Son los Centauros. Unos enormes, rudos; otros\nAlegres y saltantes como jóvenes potros;\nUnos con largas barbas como los padres-ríos,\nOtros imberbes, ágiles y de piafantes bríos,\ny de robustos músculos, brazos y lomos aptos\nPara portar las ninfas rosadas en los raptos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

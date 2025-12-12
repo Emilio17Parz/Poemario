@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "De sus excursiones solía traer ramos de violetas y gruesos cuadernillos\nde madrigales, escritos al ruido de las hojas y bajo el ancho cielo sin\nnubes. Las violetas eran para Niní, su vecina, una muchacha fresca y\nrosada, que tenía los ojos muy azules.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Detente, oh Sol, y mira ese caido:--\nFué un guerrero de nombre esclarecido\nQue en holocausto tuyo se ofreció,\nY hasta lanzar sus postrimer aliento\nÁ tí te consagró su pensamiento,\nY al ver tu faz contento sucumbió.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "pensamiento"
+  }
+}

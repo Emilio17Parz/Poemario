@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y al Cid tiende la mano el siniestro mendigo,\nY su escarcela busca y no encuentra Rodrigo.\n--¡Oh, Cid, una limosna!--dice el precito.\n--Hermano\nTe ofrezco la desnuda limosna de mi mano!--\nDice el Cid; y, quitando su férreo guante, extiende\nLa diestra al miserable, que llora y que comprende.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

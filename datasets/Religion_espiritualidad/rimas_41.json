@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La nobleza y generosidad de su corazón y la serena templanza de su\nespíritu, lleno siempre de luz ideal, resplandecen y se transparentan\nquizás mejor que en ninguna parte de su obra en aquellas _Cartas\ndesde mi celda_, que desde el monasterio de Veruela dirigió á sus\namigos de Madrid. En ellas, su sentir y su pensar se explayan\nlibremente, y fantasea enamorado de las tradiciones misteriosas,\ny piensa en el respetuoso culto debido á lo que fué, y pinta con\nprofunda piedad á las muchachas añoneras, míseras y alegres á un\ntiempo, y vivifica su fe meditando en el templo vacío; y en el\nsencillo cementerio de pueblo, al pie de cuyas tumbas nacen espigas y\namapolas, evoca sus dorados sueños de la muerte, á la que no llama,\npero á la que no teme tampoco, como todas las almas grandes que\nmerecen la vida.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

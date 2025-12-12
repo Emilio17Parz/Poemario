@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "decir, to say, tell, speak; se dice, it is said; dicen, they say,\npeople say; al -- de, according to; es --, that is; por --lo así, so\nto speak; por mejor --, in other words, rather; ¿no os le dije? didn't\nI tell you so? no se ha de --, it cannot be said; o mejor dicho, or\nrather; querer --, to mean.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

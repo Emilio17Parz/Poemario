@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "«Alzóse en su patria soberbio tirano,\nDe libres la senda mostrónos su mano\nY heróico el primero por ella cruzó.\nY justos principios alzando en su espada\nLlevó el estandarte de santa cruzada\nQue en rota y victoria seis veces se vió.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

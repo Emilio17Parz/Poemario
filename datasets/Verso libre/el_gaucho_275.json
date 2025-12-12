@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "243\nViva el gaucho que ande mal,\ncomo zorro perseguido,\nhasta que al menor descuido\nse lo atarasquen los perros,\npues nunca le falta un yerro\nal hombre más alvertido.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

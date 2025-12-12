@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buey que vi en mi niñez echando vaho un día\nbajo el nicaragüense sol de encendidos oros,\nen la hacienda fecunda, plena de la armonía\ndel trópico; paloma de los bosques sonoros\ndel viento, de las hachas, de pájaros y toros\nsalvajes, yo os saludo, pues sois la vida mía.\nPesado buey, tú evocas la dulce madrugada\nque llamaba a la ordeña de la vaca lechera,\ncuando era mi existencia toda blanca y rosada,\ny tú, paloma arrulladora y montañera,\nsignificas en mi primavera pasada\ntodo lo que hay en la divina Primavera.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "existencia"
+  }
+}

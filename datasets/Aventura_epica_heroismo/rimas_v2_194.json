@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No veo el rio hermoso, de mástiles cubierto\nComo un espeso bosque de gigantescos pinos,\nNi aquel conjunto bello de buques Argentinos\nQue ostentan sus pendones bañados por el sol;\nNo veo el alta torre del templo magestuoso\nCuyo círculo cubre la gloria con sus alas,\nAl verle acribillado de las rugientes balas\nQue el cañon Argentino lanzara á Whittelok.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Al que á su puesto falte,\nAl que la muerte tema,\nAl que cobarde tiemble\n¡Oprobios veces mil!\nLos cascos de los potros\nQue doman los valientes\nPisen esas cabezas\nSin nervio varonil.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

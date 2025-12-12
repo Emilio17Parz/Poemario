@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Venus, la celeste reina que adivina\nEn las almas vivas alegrías francas\nY que les confía, por gracia divina,\nSus abejos de oro, sus palomas blancas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

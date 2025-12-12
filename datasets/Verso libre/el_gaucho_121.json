@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "95\nAl que le daban un chuzazo,\ndificultoso es que sane.\nen fin, para no echar panes,\nsalimos por esas lomas,\nlo mesmo que las palomas\nal juir de los gavilanes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

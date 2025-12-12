@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Aunque lleven Romanos la victoria\nDe nuestra muerte, en humo ha de tornarse\nY en llamas vivas nuestra muerte y gloria.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La galera que dices segun creo\nSe llamaba San Pablo, y era nueva,\nDe la sacra religion de Malta,\nYo en ella me perdi, y aun imagino\nQue conozco á ese Aurelio, y es un mozo\nDe rostro grave, y de nacion Hispana.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

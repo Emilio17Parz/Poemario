@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Quiero las caricias de la fresca aurora\nsentir en la frente al amanecer,\ny en los labios rojos de la diosa Flora\nlibar tiernos besos que embriaguen mi ser.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

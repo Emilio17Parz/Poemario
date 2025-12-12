@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La marquesa Eulalia risas y desvíos\nDaba a un tiempo mismo para dos rivales:\nEl vizconde rubio de los desafíos\nY el abate joven de los madrigales.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

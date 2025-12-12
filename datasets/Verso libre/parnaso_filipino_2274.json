@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Alicantino, de Novelda, aunque originario de Valencia. Hace un cuarto\nde siglo reside en la provincia de Cogayán, donde se cosecha el más\nexquisito tabaco filipino, a cuyo negocio se consagra. Allí casó con\nuna dama del país. Y allí, en sus ocios, pulsa la cítara.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

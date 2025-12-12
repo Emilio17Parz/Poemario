@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Un libro de amores,\nde flores\nfragantes y bellas,\nde historias de lirios que amasen estrellas;\nun libro de rosas tempranas\ny espumas\nde mágicos lagos en tristes jardines,\ny enfermos jazmines,\ny brumas\nlejanas\nde montes azules...\nUn libro de olvido divino\nque dice fragancia del alma, fragancia\nque puede curar la amargura que da la distancia,\nque sólo es el alma la flor del camino.\nUn libro que dice la blanca quimera\nde la Primavera,\nde gemas y rosas ceñida,\nen una lejana, brumosa pradera\nperdida...",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

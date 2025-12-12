@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Amaba la soledad, porque en su seno, dando rienda suelta á la\nimaginación, forjaba un mundo fantástico, habitado por extrañas\ncreaciones, hijas de sus delirios y sus ensueños de poeta; porque\nManrique era poeta, tanto, que nunca le habían satisfecho las formas\nen que pudiera encerrar sus pensamientos, y nunca los había encerrado\nal escribirlos.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

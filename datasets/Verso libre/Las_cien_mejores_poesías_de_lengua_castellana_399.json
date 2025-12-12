@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh Teresa! ¡Oh dolor! Lágrimas mías,\n¡Ah! ¿dónde estáis que no corréis a mares?\n¿Por qué, por qué como en mejores días,\nNo consoláis vosotras mis pesares?\n¡Oh! los que no sabéis las agonías\nDe un corazón que penas a millares\n¡Ay! desgarraron y que ya no llora,\n¡Piedad tened de mi tormento ahora!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Toda visión humana, a su luz es divina:\nY esa es la virtud sacra de la divina Idea\nCuya alma es una sombra que todo lo ilumina.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

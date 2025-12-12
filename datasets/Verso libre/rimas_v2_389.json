@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Acérquese allí el jóven\nY beba fortaleza,\nAllí busquen firmeza\nLos brazos sin vigor;\nAllí vaya ese pueblo\nQue dobla su garganta,\nY beba la ira santa\nQue hiera al opresor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

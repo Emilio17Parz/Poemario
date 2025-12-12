@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Adios, auras de gloria y de poesía\ndulces errores y tiranos dueños!\n¡Adios, por siempre, altísimos empeños\nluchas sin galardón, noches sin día!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

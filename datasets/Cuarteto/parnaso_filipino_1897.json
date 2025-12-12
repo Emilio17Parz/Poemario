@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Goza vida inmortal en las edades\nel libro bello que tu fama afianza.\nEn todas las humanas sociedades\nsueña Quijote y ríe Sancho Panza...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

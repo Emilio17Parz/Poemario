@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "En las largas noches\nDel helado invierno,\nCuando las maderas\nCrujir hace el viento\nY azota los vidrios\nEl fuerte aguacero,\nDe la pobre niña\nA solas me acuerdo.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

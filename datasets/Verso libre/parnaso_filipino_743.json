@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El corcel de mis versos es rebelde a los frenos\nporque sabe que ahogan como en flor su carrera;\ny en su fuga brillante por los cielos serenos,\nno es Pegaso con alas, sino roja bandera...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

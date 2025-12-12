@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Acaso, entre la luz umbrosa que perdura en las fachadas de cal de las\ncasas humildes, pasan vagas siluetas terrosas, calladas, dolientes--un\nmendigo nuevo, un portugués que va hacia las rozas, un ladrón acaso--,\nque contrastan, en su obscura apariencia medrosa, con la mansedumbre que\nel crepúsculo malva, lento y místico, pone en las cosas conocidas... Los\nniños se alejan, y en el misterio de las puertas sin luz, se hablan de\nunos hombres que \"sacan el unto para curar á la hija del rey, que está\nhética...\"",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

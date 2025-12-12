@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Prudentes timoneros\nQue con membrudos brazos\nLuchais contra las olas\nQue agita el huracan,\nPoned la proa al viento\nCon ánimo esforzado,\nFijando el gobernalle\nCon mano de tiran!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

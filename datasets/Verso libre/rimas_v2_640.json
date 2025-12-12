@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El fuego y el acero\nLlevamos en las manos,\nLidiemos con denuedo,\nCaigamos con valor,\nY antes que ver la patria\nRevuelta por el fango,\nEn pálidas cenizas\nSalvemos el honor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

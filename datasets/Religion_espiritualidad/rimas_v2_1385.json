@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Á dónde vas?--Á alzar en las campañas\nTemplos al Dios que cria la gramilla.\n--Huye del precipicio en las montañas,\nTeme de bandoleros la gavilla.\n--No, no: yo voy á alzar en las campañas\nTemplos al que bendice la gramilla.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

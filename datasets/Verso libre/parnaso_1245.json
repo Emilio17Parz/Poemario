@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No: mas tenemos\nQue hacer, pues tu, señor, ansi lo quieres,\nSin querer la amistad que te ofrecemos,\nCorrespondiendo mal á ser quien eres.\nPero entonces verás lo que podemos,\nQuando nos muestres tu lo que pudieres:\nQue es una cosa razonar de paces,\nY otra romper por las armadas haces.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

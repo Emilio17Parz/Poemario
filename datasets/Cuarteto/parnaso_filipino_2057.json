@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "De su facilidad dificultosa\nes el fondo la gracia verdadera,\nSiempre el fondo; la forma es la manera\nde dar al fondo una cubierta hermosa.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

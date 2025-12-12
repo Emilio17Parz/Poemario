@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La ventura se te asconde,\nHijo, pues yo te parí.\nHase escurecido el cielo,\nTurbado los elementos,\nConjurado mar y vientos\nTodos en mi desconsuelo.\nNo conoces tu desdicha,\nAunque estas bien dentro della,\nPuesto que el no conocella\nLo puedes tener por dicha.\nLo que te ruego, alma mia,\nPues ya el verte se me impide,\nEs que nunca se te olvide\nRezar el Ave Maria.\nQue esta Reyna de bondad,\nDe virtud y gracia llena,\nHa de librar tu cadena,\nY ponerte en libertad.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

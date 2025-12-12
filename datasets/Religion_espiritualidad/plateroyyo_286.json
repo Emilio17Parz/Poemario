@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Caía la tarde de Abril. Todo lo que en el poniente había sido cristal de\noro, era luego cristal de plata, una alegoría, lisa y luminosa, de\nazucenas de cristal. Después el vasto cielo fué cual un zafiro\ntransparente, trocado en esmeralda. Yo volvía triste.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

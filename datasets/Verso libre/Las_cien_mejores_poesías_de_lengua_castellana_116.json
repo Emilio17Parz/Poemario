@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Antonio Pío en clemencia;\nMarco Aurelio en igualdad\nDel semblante:\nAdriano en elocuencia;\nTeodosio en humanidad\nY buen talante.\nAurelio Alexandre fue\nEn disciplina y rigor\nDe la guerra;\nUn Constantino en la fe;\nGamelio en el gran amor\nDe su tierra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Y está la playa mística tan lejos!...\na los tristes reflejos\ndel sol poniente se colora y brilla.\nEl huracán arrecia, el bajel arde,\ny es tarde, es ¡ay! muy tarde\npara alcanzar la sosegada orilla.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

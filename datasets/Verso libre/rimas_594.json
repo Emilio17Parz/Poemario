@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En el atrio que dibujaban algunos pedruscos diseminados por el\nsuelo, crecían zarzales y hierbas parásitas, entre los que yacían\nmedio ocultos, ya el destrozado capitel de una columna, ya un sillar\ngroseramente esculpido con hojas entrelazadas, endriagos horribles ó\ngrotescos, é informes figuras humanas. Del templo sólo quedaban en\npie los muros laterales y algunos arcos rotos y cubiertos de hiedra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

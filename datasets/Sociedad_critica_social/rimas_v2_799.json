@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "«Soldados! un antiguo veterano\n«Que esta bandera sustentó en su mano,\n«Os convoca á la lid.\n«Insensibles sereis á su llamado,\n«Y al gemido doliente y prolongado\n«De la Patria infeliz?",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

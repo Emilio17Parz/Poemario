@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Rosas rosadas y blancas, ramas verdes,\ncorolas frescas y frescos\nramos, Alegría!\nNidos en los tibios árboles,\nhuevos en los tibios nidos,\ndulzura, Alegría!\nEl beso de esa muchacha\nrubia, y el de esa morena,\ny el de esa negra, Alegría!\nY el vientre de esa pequeña\nde quince años, y sus brazos\narmoniosos, Alegría!\nY el aliento de la selva virgen,\ny el de las vírgenes hembras,\ny las dulces rimas de la Aurora,\nAlegría, Alegría, Alegría!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

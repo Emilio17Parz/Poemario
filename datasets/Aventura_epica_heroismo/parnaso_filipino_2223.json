@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tus frases de amor llenas,\ndesbordaron, rompiendo de mi calma\nlas frágiles cadenas,\nun mar de hirviente lava por mis venas\ny otro mar de delirios por mi alma.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

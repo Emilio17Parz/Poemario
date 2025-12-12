@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "DEJO a los sindicatos\ndel cobre, del carbón y del salitre\nmi casa junto al mar de Isla Negra.\nQuiero que allí reposen los maltratados hijos\nde mi patria, saqueada por hachas y traidores,\ndesbaratada en su sagrada sangre,\nconsumida en volcánicos harapos.\nQuiero que al limpio amor que recorriera\nmi dominio, descansen los cansados,\nse sienten a mi mesa los oscuros,\nduerman sobre mi cama los heridos.\nHermano, ésta es mi casa, entra en el mundo\nde flor marina y piedra constelada\nque levanté luchando en mi pobreza.\nAquí nació el sonido en mi ventana\ncomo en una creciente caracola\ny luego estableció sus latitudes\nen mi desordenada geología.\nTu vienes de abrasados corredores,\nde túneles mordidos por el odio,\npor el salto sulfúrico del viento:\naquí tienes la paz que te destino,\nagua y espacio de mi oceanía.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

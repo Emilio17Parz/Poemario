@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Unas nubes muy blancas se agarran al azul.\nÁrboles verdinegros vigilan el espacio.\nLos murmullos del río me rozan como un tul\nque acaricia las trenzas de una novia. Despacio\nmarcha el sol. Al azar abro el libro, un retrato\nme sonríe... ¡Es tu risa!... En mi triste mirar\nse esfuma la campiña. Todo esto es sólo un rato.\n¡Después son unas ganas muy grandes de llorar!..",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

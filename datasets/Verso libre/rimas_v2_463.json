@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿La losa de la tumba\nLevantará mi lira?--\nOid: el viento zumba,\nEl Hacedor me inspira,\nSiento su soplo ardiente\nQue en alas del ambiente\nEl polvo hace tremer.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

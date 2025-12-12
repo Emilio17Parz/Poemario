@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Amparo\n¡qué sola estás en tu casa\nvestida de blanco!\n(Ecuador entre el jazmín\ny el nardo).\nOyes los maravillosos\nsurtidores de tu patio,\ny el débil trino amarillo\ndel canario.\nPor la tarde ves temblar\nlos cipreses con los pájaros,\nmientras bordas lentamente\nletras sobre el cañamazo.\nAmparo,\n¡qué sola estás en tu casa,\nvestida de blanco!\nAmparo,\n¡y qué difícil decirte:\nyo te amo!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

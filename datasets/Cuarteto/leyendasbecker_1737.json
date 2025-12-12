@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo voy por un camino, ella por otro;\nPero al pensar en nuestro mutuo amor,\nYo digo aún: ¿Por qué callé aquel día?\nY ella dirá: ¿por qué no lloré yo?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

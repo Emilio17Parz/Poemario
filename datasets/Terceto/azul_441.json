@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El hada la volvió al jardín de su palacio, al jardín donde cortaba\nflores envuelta en una oleada de perfumes, que subía místicamente a las\nramas trémulas para flotar como el alma errante de los cálices muertos.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

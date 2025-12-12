@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cada flecha que dispara, cada flecha es una hora;\nDoce aljabas, cada año, para él trae el rey Enero;\nEn la sombra se destaca la figura vencedora\nDel Arquero.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

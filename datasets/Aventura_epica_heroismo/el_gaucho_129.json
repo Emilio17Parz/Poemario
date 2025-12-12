@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "103\nAllí quedó de mojón\ny en su caballo salté;\nde la indiada disparé,\npues si me alcanza me mata,\ny al fin me les escapé,\ncon el hilo de una pata.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

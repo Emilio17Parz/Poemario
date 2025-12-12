@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "39\nPues vivía la mamajuana\nsiempre bajo la carreta,\ny aquel que no era chancleta,\nen cuanto el goyete vía,\nsin miedo se le prendía\ncomo güérfano a la teta.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

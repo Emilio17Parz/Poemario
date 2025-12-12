@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tus razones alivio han dado en parte,\nFamoso Duero, á las pasiones mias,\nSolo porque imagino que no hay parte\nDe engaño alguno en estas profecias.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

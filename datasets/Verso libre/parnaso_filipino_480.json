@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Viajero, que con anhelos de poder llorar a solas\nTe encaminas de las selvas a las partes resguardadas,\nLlora, llora con el ritmo de las cañas majestuosas\nBajo pálios florecidos de vegetación malaya.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

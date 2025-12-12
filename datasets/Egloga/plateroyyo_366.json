@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Cuando, anochecido, vuelve Platero del campo, con su blanda carga de\nramas de pino para el horno, casi desaparece bajo la amplia verdura\nrendida. Su paso es menudo, fino, juguetón... Parece que no anda. En\npunta las orejas, se diría un caracol debajo de su casa.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

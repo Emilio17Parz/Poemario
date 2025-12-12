@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Naranjo en maceta, ¡qué triste es tu suerte!\nMedrosas tiritan tus hojas menguadas.\nNaranjo en la corte, ¡qué pena da verte\ncon tus naranjitas secas y arrugadas!.\nPobre limonero de fruto amarillo\ncual pomo pulido de pálida cera,\n¡qué pena mirarte, mísero arbolillo\ncriado en mezquino tonel de madera!\nDe los claros bosques de la Andalucía,\n¿quién os trajo a esta castellana tierra\nque barren los vientos de la adusta sierra,\nhijos de los campos de la tierra mía?\n¡Gloria de los huertos, árbol limonero,\nque enciendes los frutos de pálido oro,\ny alumbras del negro cipresal austero\nlas quietas plegarias erguidas en coro;\ny fresco naranjo del patio querido,\ndel campo risueño y el huerto soñado,\nsiempre en mi recuerdo maduro o florido\nde frondas y aromas y frutos cargado!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

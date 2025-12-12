@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El cuello enflaquecido al trabajoso\nYugo de esclavitud amarga puesto,\nBien ves que á cuerpo y alma es peligroso;\nY mas aquel que tiene presupuesto\nDe dexarse morir, antes que pase\nUn punto al modo del vivir honesto.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

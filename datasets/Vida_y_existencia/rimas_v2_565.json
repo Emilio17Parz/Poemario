@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cesa, cesa en tus lamentos\nCabo lleno de laureles,\nQue hay olvidos mas crueles\nQue los que llora tu voz:\nLa República Argentina\nBajo el yugo de un tirano\nPide al mundo americano\n_Una limosna por Dios!_",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

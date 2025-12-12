@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sopla caliente la brisa:\nSuene la gaita,--ruede la danza:\nLas nubes pasan aprisa,\nY el azur muestran--de la esperanza.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

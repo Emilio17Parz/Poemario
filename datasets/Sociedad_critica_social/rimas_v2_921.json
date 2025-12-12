@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Y sus ecos se difunden,\nY se escuchan con encanto,\nLlenando al pueblo de espanto\nO haciéndole conmover:\nQue el vate en su inspiracion\nNuestros sentidos sujeta,\nY con su brazo de atleta\nPostra y alza nuestro ser.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

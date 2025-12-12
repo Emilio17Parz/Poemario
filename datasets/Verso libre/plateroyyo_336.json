@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La tarde caía. Llegaba de Huelva un olor á marisma, á brea, á pescado...\nLos naranjos redondeaban, sobre el poniente rosa, sus terciopelos de\nesmeralda. En una lila, lila y verde, el loro, verde y rojo, iba y\nvenía, curioseándonos con sus ojitos redondos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

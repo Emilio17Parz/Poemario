@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ya la pálida novia que aguardabas,\nen busca de tus besos ha llegado.\nPor los tristes dolores que sufríste,\npor los que has de sufrir, seca tu llanto,\ny a la pálida novia que a tí viene,\nsedienta de tu amor, abre los brazos.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

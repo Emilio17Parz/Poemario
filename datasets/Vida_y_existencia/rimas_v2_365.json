@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "«Los Andes le vieron alzarse á su cumbre,\nY allí derramando magnética lumbre\nDe América el mundo con ella alumbró;\nLe vieron soberbio venciendo á los Reyes,\nLlevando el programa de glorias y leyes\nGrabado en el sable que grillos trozó.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

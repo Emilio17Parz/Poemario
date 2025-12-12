@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Reverénciale, ¡oh pueblo redimido!\nLlanto del corazón vierte afligido\npor el amargo fin del gran patriota.\nY hoy que en los aires la tormenta zumba,\n¡no salga ni un quejido de su tumba\nal verte, oh pueblo, nuevamente ilota!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

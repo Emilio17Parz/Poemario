@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "BARCELONA\nCASA EDITORIAL MAUCCI\nGran Medalla de oro en las Exposiciones de Viena de 1903,\nMadrid 1907, Budapest 1907 y Gran Premio en la de\nBuenos Aires de 1910.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

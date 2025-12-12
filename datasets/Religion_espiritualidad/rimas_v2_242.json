@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sol de Mayo, que entonces refulgente\nSuspendido por Dios en el oriente\nAlumbraste la gran Revolucion,\nAl fecundar su universal semilla\nHoy te doblan humildes la rodilla\nLos nietos de esa audaz generacion.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

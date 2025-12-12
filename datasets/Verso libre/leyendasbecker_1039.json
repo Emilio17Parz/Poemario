@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En el fondo de un arco sepulcral revestido de mármoles negros,\narrodillada delante de un reclinatorio, con las manos juntas y la cara\nvuelta hacia el altar, vieron, en efecto, la imagen de una mujer tan\nbella, que jamás salió otra igual de manos de un escultor, ni el deseo\npudo pintarla en la fantasía más soberanamente hermosa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

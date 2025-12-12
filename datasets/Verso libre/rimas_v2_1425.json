@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando la reina, su soberbia frente\nQuiere adornar con joya refulgente,\nDe precio sin igual,\nLe dice al pescador:--«Baja á los mares,\nY róbale á sus genios tutelares\nLa perla de sus urnas de cristal.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

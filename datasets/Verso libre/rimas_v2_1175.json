@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Me inclinaré sobre tu boca pura\nY te daré consejos de ternura\nEn el ignoto idioma del amor;\nY mis palabras bajarán á tu alma\nCual en noches de estío, en grata calma\nSe inocula el rocío entre la flor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

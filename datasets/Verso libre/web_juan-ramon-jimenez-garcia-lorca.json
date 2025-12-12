@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En el blanco infinito,\nnieve, nardo y salina,\nperdió su fantasía.\nEl color blanco, anda,\nsobre una muda alfombra\nde plumas de paloma.\nSin ojos ni ademán,\ninmóvil sufre un sueño.\nPero tiembla por dentro.\nEn el blanco infinito,\n¡qué pura y larga herida\ndejó su fantasía!\nEn el blanco infinito.\nNieve. Nardo. Salina.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

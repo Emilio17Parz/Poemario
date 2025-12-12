@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "107\nYo no tenía ni camisa\nni cosa que se parezca;\nmis trapos sólo pa yesca\nme podían servir al fin...\nno hay plaga como un fortín\npara que el hombre padezca.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El juego de sus dedos ha deshecho\nel trenzado de sedas del peinado\ny la luz moribunda de tu lámpara\nal soplo de su aliento se ha apagado.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

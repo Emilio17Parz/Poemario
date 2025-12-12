@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "In a final accented or unaccented syllable u and i are absorbed, for\npurposes of assonance, by a preceding or following a, o, or e.\nTherefore, _sabia_ and _gratia_ assonate in á-a; _igual_ and _mar_\nassonate in a, _pleita_ and _pliega_ assonate in é-a.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

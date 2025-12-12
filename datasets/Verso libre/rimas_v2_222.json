@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Murió como un valiente\nDe su Escuadron al frente\nCargando con valor,\nEn un túmulo inmenso\nY en medio del incienso\nDel taco del cañon.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

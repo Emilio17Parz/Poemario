@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Lluvia roja sobre neblina blanca.",
+  "poema": {
+    "texto": "En la blanca neblina, un misterio esclarece,\nRosa lluvia cae, una alegoría de amores.\nDulces gotas que bañan la frente del mundo,\nAflora el corazón, en sus ardientes llamaradas.\n\nEl viento toca las lágrimas, con un súeno triste,\nY mezcla su sabor dulce con la poesía de mi dolor.\nEn cada gota, una historia que nunca se terminó,\nUn amor perdido, un recuerdo de lo mejor y lo peor.\n\nLa luz roja es el reflejo de nuestra tristeza,\nUn signo del tiempo que pasa, una lluvia en la noche.\nEn esta lluvia roja sobre neblina blanca,\nBusco los restos de mi corazón que se pierde con el tiempo.",
+    "tipo": "Cancion_petrarquista",
+    "palabra_clave_ingresada": "Lluvia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Deja que vivan. A nosotros mismos,\na pesar de seguir nuestra jornada,\nmarchando sobre espinas y entre sombras\nla vida nos es grata.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

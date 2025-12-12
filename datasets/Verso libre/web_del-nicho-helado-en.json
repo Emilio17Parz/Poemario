@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Del nicho helado en que los hombres te pusieron,\nte bajaré a la tierra humilde y soleada.\nQue he de dormirme en ella los hombres no supieron,\ny que hemos de soñar sobre la misma almohada.\nTe acostaré en la tierra soleada con una\ndulcedumbre de madre para el hijo dormido,\ny la tierra ha de hacerse suavidades de cuna\nal recibir tu cuerpo de niño dolorido.\nLuego iré espolvoreando tierra y polvo de rosas,\ny en la azulada y leve polvareda de luna,\nlos despojos livianos irán quedando presos.\nMe alejaré cantando mis venganzas hermosas,\n¡porque a ese hondor recóndito la mano de ninguna\nbajará a disputarme tu puñado de huesos!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

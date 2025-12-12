@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Alto pinar!\nCuatro palomas por el aire van.\nCuatro palomas\nvuelan y tornan.\nLlevan heridas\nsus cuatro sombras.\n¡Bajo pinar!\nCuatro palomas en la tierra están.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

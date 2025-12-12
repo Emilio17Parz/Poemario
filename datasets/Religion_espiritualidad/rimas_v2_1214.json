@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Bendigo á Dios, que desde el alto cielo\nAl ver tu corazon envuelto en duelo,\nUn niño hizo nacer,\nPara que despertando á la alegría\nSacase de mi lira una armonía\nCon sus dedos de leche y rosicler.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

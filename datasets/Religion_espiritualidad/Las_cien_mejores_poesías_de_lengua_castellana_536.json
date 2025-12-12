@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El cielo sin duda envía\nLa lucha a la tormentosa\nJuventud;\nPues ¿qué mérito tendría\nSin esfuerzos, Blanca Rosa,\nLa virtud?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

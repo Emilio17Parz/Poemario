@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Me miré en tus ojos\npensando en tu alma.\nAdelfa blanca.\nMe miré en tus ojos\npensando en tu boca.\nAdelfa roja.\nMe miré en tus ojos.\n¡Pero estabas muerta!\nAdelfa negra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

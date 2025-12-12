@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Trino en la rama\nEl gorrión canta alegre hoy\nSol de primavera",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Canto de aves"
+  }
+}

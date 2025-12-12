@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cese la furia del rigor violento,\nTuyo, Marquino, baste, triste, baste\nLa que yo paso en la region escura,\nSin que tú crezcas mas mi desventura.\nEngañaste, si piensas que recibo\nContento de volver á esta penosa,\nMisera y corta vida, que aora vivo,\nQue ya me va faltando presurosa;\nAntes me causas un dolor esquivo,\nPues otra vez la muerte rigurosa\nTriunfará de mi vida y de mi alma,\nMi enemigo tendrá doblada palma,\nEl qual con otros del escuro vando,\nDe los que son sujetos á aguardarte,\nEstá con rabia en torno, aqui esperando\nA que acabe, Marquino, de informarte\nDel lamentable fin, del mal nefando,\nQue de Numancia puedo asegurarte,\nLa qual acabará á las mismas manos\nDe los que son á ella mas cercanos.\nNo llevarán Romanos la victoria\nDe la fuerte Numancia, ni ella menos\nTendrá del enemigo triunfo ó gloria,\nAmigos y enemigos, siendo buenos,\nNo entiendas que de paz havrá memoria,\nQue rabia alverga en sus contrarios senos:\nEl amigo cuchillo el homicida\nDe Numancia será, y será su vida,",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

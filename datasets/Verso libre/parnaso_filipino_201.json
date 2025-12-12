@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No se extinguió en los aires vuestra palabra amada;\nno faltan labios jóvenes que besen vuestra cruz;\ny la legión de apóstoles por vos fructificada\nno olvida al que en la noche cayó pidiendo luz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

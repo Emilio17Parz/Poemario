@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "El mar sus millares de olas\nmece, divino.\nOyendo a los mares amantes,\nmezo a mi niño.\nEl viento errabundo en la noche\nmece los trigos.\nOyendo a los vientos amantes,\nmezo a mi niño.\nDios Padre sus miles de mundos\nmece sin ruido.\nSintiendo su mano en la sombra\nmezo a mi niño.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

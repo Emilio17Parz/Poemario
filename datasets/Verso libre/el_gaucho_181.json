@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "153\nCuando llueve se acoquinan\ncomo perro que oye truenos.\n¡Que diablos!, Sólo son güenos\npa vivir entre maricas,\ny nunca se andan con chicas\npara alzar ponchos ajenos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Estos dos rasgos van impresos en su librito de usted: El pesimismo, como\nremate de toda descripción de lo que conocemos, y la poderosa y lozana\nproducción de seres fantásticos, evocados o sacados de las tinieblas de\nlo incognoscible, donde vagan las ruinas de las destrozadas creencias y\nsupersticiones vetustas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

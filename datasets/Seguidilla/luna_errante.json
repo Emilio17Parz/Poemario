@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "luna errante",
   "poema": {
     "texto": "Mira la luna\\ndesde la niebla\\ncruza la noche\\nsin equipaje",

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Salgo al huerto y doy gracias al Dios del día azul. ¡Libre concierto de\npicos, fresco y sin fin! La golondrina riza, caprichosa, su canto en el\npozo; silba el mirlo sobre la naranja caída; de fuego, la oropéndola\ncharla en el chaparro; el chamariz, ríe larga y menudamente en la cima\ndel eucalipto; y, en el pino grande, los gorriones discuten\ndesaforadamente.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La pupila azul de Magdalena parecía nadar en un fluido de luz\ndentro del cerco de oro de sus pestañas rubias. Y todo era en ellas\narmónico con la diversa expresión de sus ojos. Marta, enjuta de\ncarnes, quebrada de color, de estatura esbelta, movimientos rígidos y\ncabellos crespos y oscuros, que sombreaban su frente y caían por sus\nhombros como un manto de terciopelo, formaba un singular contraste\ncon Magdalena, blanca, rosada, pequeña, infantil en su fisonomía\ny sus formas, y con unas trenzas rubias que rodeaban sus sienes,\nsemejantes al nimbo dorado de la cabeza de un ángel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

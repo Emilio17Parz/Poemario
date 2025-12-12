@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un mango aislado eleva su centenaria fronda\nJunto a un _punsó_[11] enano de giba aguda y monda,\nQue las hormigas alzan para que en él se esconda\nEl _nunu_[12] vigilante que por las mieses ronda.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "26\nY apenas la madrugada\nempezaba coloriar,\nlos pájaros a cantar,\ny las gallinas a apiarse,\nera cosa de largarse\ncada cual a trabajar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

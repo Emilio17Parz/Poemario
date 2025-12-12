@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "It remains for the editor to express his profound gratitude to the\nfollowing gentlemen for their aid in collecting facts regarding\nBecquer and for their encouragement of this work: the Exc^{mo} Sr.\nConde de las Navas, the Exc^{mo} Sr. Licenciado D. Jose Gestoso y\nPerez, and the Exc^{mo} Sr. D. Francisco de Laiglesia. It is his\npleasure also to convey his thanks to Professor George L. Burr of\nCornell University for aid in certain of the historical notes, and\nmost especially to gratefully acknowledge his indebtedness to the aid,\nor rather collaboration, of Mr. Arthur Gordon of Cornell University,\nand Mr. W. R. Price of the High School of Commerce, New York City.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

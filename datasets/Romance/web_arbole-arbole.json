@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Arbolé, arbolé\nseco y verdé.\nLa niña del bello rostro\nestá cogiendo aceituna.\nEl viento, galán de torres,\nla prende por la cintura.\nPasaron cuatro jinetes\nsobre jacas andaluzas\ncon trajes de azul y verde,\ncon largas capas oscuras.\n«Vente a Córdoba, muchacha».\nLa niña no los escucha.\nPasaron tres torerillos\ndelgaditos de cintura,\ncon trajes color naranja\ny espadas de plata antigua.\n«Vente a Sevilla, muchacha».\nLa niña no los escucha.\nCuando la tarde se puso\nmorada, con luz difusa,\npasó un joven que llevaba\nrosas y mirtos de luna.\n«Vente a Granada, muchacha».\nY la niña no lo escucha.\nLa niña del bello rostro\nsigue cogiendo aceituna,\ncon el brazo gris del viento\nceñido por la cintura.\nArbolé arbolé\nseco y verdé.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

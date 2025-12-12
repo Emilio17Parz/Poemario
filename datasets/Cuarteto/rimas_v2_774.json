@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Oh Patria! así decian, y entre tanto\nTú oias esas voces con desden,\nEsperando mostrar con grandes hechos\nQue eras el pueblo de ochocientos diez.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

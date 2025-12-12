@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "PRIMERO resistió la tierra.\nLa nieve araucana quemó\ncomo una hoguera de blancura\nel paso de los invasores.\nCaían de frío los dedos,\nlas manos, los pies de Almagro\ny las garras que devoraron\ny sepultaron monarquías\neran en la nieve un punto\nde carne helada, eran silencio.\nFue en el mar de las cordilleras.\nEl aire chileno azotaba\nmarcando estrellas, derribando\ncodicias y caballerías.\nLuego el hambre caminó detrás\nde Almagro como una invisible\nmandíbula que golpeaba.\nLos caballos eran comidos\nen aquella fiesta glacial.\nY la muerte del Sur desgranó\nel galope de los Almagros,\nhasta que volvió su caballo\nhacia el Perú donde esperaba\nal descubridor rechazado,\nen el camino, con un hacha.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

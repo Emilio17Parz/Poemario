@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Ah! ¡Con que es cierto! ¡Con que ese sabio parisiense ha logrado sacar\ndel fondo de sus retortas, de sus matraces, la púrpura cristalina de que\nestán incrustados los muros de mi palacio! Y al decir esto el pequeño\ngnomo iba y venía, de un lugar a otro, a cortos saltos, por la honda\ncueva que les servía de morada; y hacía temblar su larga barba y el\ncascabel de su gorro azul y puntiagudo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

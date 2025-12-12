@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Por mi parte, no necesité mucho tiempo para conocer que entre\nambos existía algún sentimiento de afección que se revelaba en sus\ncantares, llenos de alusiones transparentes y frases enamoradas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

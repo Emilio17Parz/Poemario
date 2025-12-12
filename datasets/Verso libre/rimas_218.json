@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El sol había traspuesto la cumbre del monte; las sombras bajaban á\ngrandes pasos por su falda; la brisa gemía entre los álamos de la\nfuente, y la niebla, elevándose poco á poco de la superficie del\nlago, comenzaba á envolver las rocas de su margen.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Salve, oh patria, que adoro, amor de mis amores,\nque Natura de tantos tesoros prodigó;\nvergel do son más suaves y gentiles las flores,\ndonde el alba se asoma con más bellos colores,\ndonde el poeta contempla delicias que soñó!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

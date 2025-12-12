@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mas a uno y otro pájaro divino\nLa primitiva cárcel es extraña;\nEl barrote maltrata, el grillo daña,\nQue vuelo y libertad son su destino,",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

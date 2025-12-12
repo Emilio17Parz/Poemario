@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El sol se había puesto: las nubes, que cruzaban hechas jirones sobre\nmi cabeza, iban á amontonarse unas sobre otras en el horizonte lejano.\nEl viento frio de las tardes de otoño arremolinaba las hojas secas á\nmis pies.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El hijo del tío Lucas, que estaba ansioso de acabar pronto, se alistaba\npara ir a cobrar y desayunarse, anudándose un pañuelo de cuadros al\npescuezo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

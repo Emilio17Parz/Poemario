@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Con una lenta ondulación de raso,\ndespués de largo y febricente asedio,\nveo tu sombra deslizarse en medio\nde una esfumada claridad de ocaso.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

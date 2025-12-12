@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--No sé en el tuyo--contestó la hermosa,--pero en mi país una prenda\nrecibida compromete una voluntad. Sólo en un día de ceremonia debe\naceptarse un presente de manos de un deudo... que aun puede ir á Roma\nsin volver con las manos vacías.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

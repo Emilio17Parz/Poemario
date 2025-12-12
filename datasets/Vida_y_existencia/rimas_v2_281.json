@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Al que infame, cobarde y miserable\nDeserta su defensa inimitable\nLe estampa el sello ardiente del traidor,\nY teje siempre-viva y mustio lirio\nPara ceñir coronas de martirio\nAl que le dé su vida en oblacion.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

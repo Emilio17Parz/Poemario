@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Rimar todo un poema entero de dolores,\ncruzar todo un sendero sembrado de amarguras,\ny, entre penas y llantos y amargos sinsabores,\ngustar de un trago toda la hiel de las torturas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

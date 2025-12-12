@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "He de llamar aquí como si aquí estuvieran.\nHermanos: sabed que nuestra lucha\ncontinuará en la tierra.\nContinuará en la fábrica, en el campo,\nen la calle, en la salitrera.\nEn el cráter del cobre verde y rojo,\nen el carbón y su terrible cueva.\nEstará nuestra lucha en todas partes,\ny en nuestro corazón, estas banderas\nque presenciaron vuestra muerte,\nque se empaparon en la sangre vuestra,\nse multiplicarán como las hojas\nde la infinita primavera.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los monjes, por curiosidad, aconsejaron al abad que accediese á su\ndemanda; el abad, por compasión, aun creyéndole un loco, accedió al\nfin á ella, y el músico, instalado ya en el monasterio, comenzó su\nobra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

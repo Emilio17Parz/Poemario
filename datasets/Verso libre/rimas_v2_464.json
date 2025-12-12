@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Campeones inmortales!\nAlzad la noble frente,\nQue adornan las señales\nDe la metralla ardiente,\nAlzaos del frio lecho,\nCon voces en el pecho,\nLatiendo el corazon.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "paso incierto",
   "poema": {
     "texto": "Tiembla mi paso\\nsobre la niebla\\nmide la duda\\ncada pisada",

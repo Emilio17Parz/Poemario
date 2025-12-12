@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "The strophe is frequently of arbitrary length, yet when the poet has\nonce fixed the measure of his strophe he is supposed to preserve the\nsame measure throughout. The following are some of the strophic\narrangements in Spanish.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

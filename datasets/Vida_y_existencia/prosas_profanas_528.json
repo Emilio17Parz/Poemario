@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mi alma frágil se asoma a la ventana obscura\nDe la torre terrible en que ha treinta años sueña.\nLa gentil Primavera primavera le augura.\nLa vida le sonríe rosada y halagüeña.\nY ella exclama: «¡Oh fragante día! ¡Oh sublime día!\nSe diría que el mundo está en flor; se diría\nQue el corazón sagrado de la tierra se mueve\nCon un ritmo de dicha; luz brota, gracia llueve.\n¡Yo soy la prisionera que sonríe y que canta!»\nY las manos liliales agita, como infanta\nReal en los balcones del palacio paterno.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

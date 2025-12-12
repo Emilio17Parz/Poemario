@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Cuartetos_ are strophes of four hendecasyllables with the\nrhyme-scheme a b b a. It is not customary to put a final word that is\n_aguda_ in the uneven verses of compositions written in\nhendecasyllables, or in verses that rhyme with them. Sometimes the\nfour verses are esdrújulos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

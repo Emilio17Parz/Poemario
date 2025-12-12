@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "8\nMe siento en el plan de un bajo\nA cantar un argumento:\nComo si soplara el viento\nHago tiritar los pastos;\nCon oros, copas y bastos\nJuega allí mi pensamiento.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

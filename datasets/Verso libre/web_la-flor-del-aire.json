@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Yo la encontré por mi destino,\nde pie a mitad de la pradera,\ngobernadora del que pase,\ndel que le hable y que la vea.\nY ella me dijo: \"Sube al monte.\nYo nunca dejo la pradera,\ny me cortas las flores blancas\ncomo nieves, duras y tiernas.\"\nMe subí a la ácida montaña,\nbusqué las flores donde albean,\nentre las rocas existiendo\nmedio dormidas y despiertas.\nCuando bajé, con carga mía,\nla hallé a mitad de la pradera,\ny fui cubriéndola frenética,\ncon un torrente de azucenas.\nY sin mirarse la blancura,\nella me dijo: \"Tú acarrea\nahora sólo flores rojas.\nYo no puedo pasar la pradera.\"\nTrepe las penas con el venado,\ny busqué flores de demencia,\nlas que rojean y parecen\nque de rojez vivan y mueran.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

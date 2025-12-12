@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo adoro tu beldad y tu pureza\ncomo adoro a los ángeles del cielo;\nsólo por adorarte me desvelo\nen medio del dolor y la tristeza.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El agua debe ser tan alegre como el sol. Mira, si no, cuál corren\nfelices, los niños, bajo ella, recios y colorados, con las piernas al\naire. Ve cómo los gorriones se entran todos, en bullanguero bando\nsúbito, en la hiedra, en la escuela, Platero, como dice Darbón, tu\nmédico.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

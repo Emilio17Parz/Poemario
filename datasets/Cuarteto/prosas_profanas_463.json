@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La siesta del trópico. El lobo se adureme.\nYa todo lo envuelve la gama del gris.\nParece que un suave y enorme esfumino\nDel curvo horizonte borrara el confín.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

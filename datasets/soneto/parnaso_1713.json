@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Con uno solo que quedase vivo\nNo se me negaria el triunfo en Roma\nDe haver domado esta nacion soberbia\nEnemiga mortal de nuestro nombre,\nConstante en su opinion, presta, arrojada\nAl peligro mayor y duro trance,\nDe quien jamas se alabará Romano\nQue vió la espalda vuelta al Numantino,\nCuyo valor, cuya destreza en armas\nMe forzó con razon á usar el medio\nDe encerrarlos qual fieras indomables,\nY triunfar dellos con industria y maña,\nPues era con las fuerzas imposible.\nPero ya me parece vuelve Mario.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

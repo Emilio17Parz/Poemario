@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Arranque de dolor, de ese profundo\ndolor que se concentra en el misterio\ny huye amargado del rumor del mundo,\nfue su sangrienta sátira, cauterio\nque aplicó sollozando al patrio imperio,\nmísero, gangrenado y moribundo.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

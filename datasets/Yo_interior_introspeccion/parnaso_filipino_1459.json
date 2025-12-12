@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vuela, genio grandioso,\ny les infunde noble pensamiento,\nque lance vigoroso,\nmás rápido que el viento,\nsu mente virgen al glorioso asiento.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "pensamiento"
+  }
+}

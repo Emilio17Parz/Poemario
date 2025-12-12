@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No te hicieron tus paisanos\nUn entierro magestuoso,\nNi sepulcro esplendoroso\nTu cadáver recibió;\nPero un _Pago_ te condujo\nA la tumba silenciosa,\nY lloraron en tu fosa\nNiños y hombres con dolor.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

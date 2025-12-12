@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Este que por llevarle te fatigas,\nEs DON ANTONIO DE MENDOZA, y veo\nQuanto en llevarle al sacro Apolo obligas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

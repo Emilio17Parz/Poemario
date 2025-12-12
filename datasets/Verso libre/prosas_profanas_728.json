@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Además se hará una tirada extraordinaria de cien colecciones numeradas,\nimpresas en papel fabricado especialmente y encuadernadas en pergamino,\nque se servirán únicamente por suscripción en las mismas condiciones que\nlas anteriores, al precio de",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

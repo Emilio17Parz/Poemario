@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh rosas de lascivia!\nYo sé que os extenuais de emociones supremas\ncuando en vuestras corolas deposita sus gemmas\nel bienhechor rocío, entre la noche tibia.\nFuísteis como diademas\nen las frentes de Lais, de Salomé, de Aspasia,\nde las _cocottes_ de Europa y bayaderas de Asia\ny de las Margaritas que enfloraron América.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cual hosco toro que en lazada envuelto\nSe niega altivo á obedecer la fuerza,\nY rebramando con furor se esfuerza,\nY aspa y pezuña quiere allí clavar,\nTal Pedro Obando con poder resiste\nAl férreo brazo de que está pendiente,\nMientras el lazo entre los dos, crugiente,\nSe vé como una lámpara oscilar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

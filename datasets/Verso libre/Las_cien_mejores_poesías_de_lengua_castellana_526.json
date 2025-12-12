@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh! ¡qué bien cumple el amante,\nCuando aún tiene la inocencia,\nSu deber!\nY ¡cómo, más adelante,\nAviene con su conciencia\nSu placer!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y la contempla el mundo entusiasmado,\nCoronada, de pié sobre el altar,\nSobre el altar de joyas incrustado,\nCubierto de jazmines y azahar.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

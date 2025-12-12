@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La dulce Hija, postrándose de hinojos,\ndice a la Madre, a tiempo que sus ojos\nleve cendal de lágrimas empaña:--\nDios ha dispuesto el término del plazo\ny ya es la hora de romper el lazo\nque nos unió tres siglos, ¡Madre España!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

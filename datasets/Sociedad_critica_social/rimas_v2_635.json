@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Agrúpense los libres\nAl pié de la bandera,\nQue las legiones rotas\nAun hacen tremolar,\nY firmes, denodados,\nVelando en la trinchera,\nComo la sombra al cuerpo\nLa sigan sin cesar.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

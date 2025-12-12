@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Id por la escala luego, y vos, Ermilio,\nHaced que mi rodela se me traiga,\nY la celada blanca de las plumas,\nQue á fe que tengo de perder la vida,\nO sacar desta duda al campo todo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

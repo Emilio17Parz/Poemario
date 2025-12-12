@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Imitad su constancia y bizarría\nY el alto ejemplo que su vida abona,\nQue de la Patria en el hermoso dia\nEl pueblo os ceñirá sacra corona,\nY vuestra muerte con guerrera pompa\nPublicará la fama con su trompa.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

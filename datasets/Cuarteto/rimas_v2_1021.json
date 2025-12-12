@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Los ubajais[9] ocultan en sus ramas\nPájaros bellos, raros en matiz,\nComo tu mente abriga mil ideas\nQue hace brotar la inspiracion feliz.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

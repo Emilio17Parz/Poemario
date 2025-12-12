@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Cuánto a creer se resiste\nUna verdad tan odiosa\nTu bondad!\n¡Y esto fuera menos triste\nSi no fuera, Blanca Rosa,\nTan verdad!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

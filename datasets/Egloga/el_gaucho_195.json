@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "166\nMe parece el campo orégano\ndende que libre me veo;\ndonde me lleva el deseo\nallí mis pasos dirijo,\ny hasta en las sombras de fijo\nque donde quiera rumbeo.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

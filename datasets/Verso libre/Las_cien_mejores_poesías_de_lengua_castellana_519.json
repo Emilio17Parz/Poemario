@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Con mis coplas, Blanca Rosa,\nTal vez te cause cuidados\nPor cantar\nCon la voz ya temblorosa,\nY los ojos ya cansados\nDe llorar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

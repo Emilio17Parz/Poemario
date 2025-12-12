@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Nieve ya cae\nSilencio blanco en la sierra\nFrío cubre paz",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Invierno"
+  }
+}

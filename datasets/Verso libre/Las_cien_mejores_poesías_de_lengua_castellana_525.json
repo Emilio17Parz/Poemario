@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Que amor, de egoísmo lleno,\nA su gusto se acomoda\nBien y mal;\nEn él hasta herir es bueno,\nSe ama o no ama, aquí está toda\nSu moral.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

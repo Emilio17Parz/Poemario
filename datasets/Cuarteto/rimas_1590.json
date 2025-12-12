@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Como guarda el avaro su tesoro,\nGuardaba mi dolor;\nYo quería probar que hay algo eterno\nA la que eterno me juró su amor.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

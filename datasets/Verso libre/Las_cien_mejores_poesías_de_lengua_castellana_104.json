@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Qué se hizo el Rey Don Juan?\nLos Infantes de Aragón\n¿Qué se hicieron?\n¿Qué fue de tanto galán,\nQué fue de tanta invención\nComo truxeron?\nLas justas e los torneos,\nParamentos, bordaduras\nE cimeras,\n¿Fueron sino devaneos?\n¿Qué fueron sino verduras\nDe las eras?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No escuchas mas, cobarde? ya te escondes?\nEnfadate la igual justa batalla?\nMal con tu nombradia correspondes,\nMal podrás deste modo sustentalla;\nEn fin, como cobarde me respondes:\nCobardes sois, Romanos, vil canalla,\nEn vuestra muchedumbre confiados,\nY no en los diestros brazos levantados.\nPerfidos, desleales, fementidos,\nCrueles, revoltosos y tiranos,\nIngratos, codiciosos, mal nacidos,\nPertinaces, feroces y villanos,\nAdulteros, infames, conocidos\nPor de industriosas, mas cobardes manos,\nQué gloria alcanzareis en darnos muerte\nTeniendonos atados desta suerte?\nEncerrado escuadron, ó manga suelta\nEn la campaña rasa, do no pueda\nEstorbar la mortal fiera revuelta\nEl ancho foso y muro que la veda,\nFuera bien que sin dar el pie la vuelta\nY sin tener jamas la espada queda\nEse exercito mucho bravo vuestro,\nSe viera con el poco flaco nuestro.\nMas como siempre estais acostumbrados\nA vencer con ventajas y con mañas,\nEstos conciertos en valor fundados\nNo los admiten bien vuestras marañas:\nLiebres en pieles fieras disfrazados,\nLoad y engrandeced vuestras hazañas,\nQue espero en el gran Jupiter de veros\nSujetos á Numancia y á sus fueros.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

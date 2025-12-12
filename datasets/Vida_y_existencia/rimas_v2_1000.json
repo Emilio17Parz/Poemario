@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Triste es cruzar el mundo peregrino\nPara encontrar en medio del camino\nUna flor que nos llene de embriaguez,\nY continuar su marcha fatigosa\nDejando atras aquella flor hermosa\nQue ya no encontraremos otra vez.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

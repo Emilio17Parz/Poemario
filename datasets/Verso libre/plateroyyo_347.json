@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hay un olor al nutrido grano limpio que, bajo las frescas estrellas,\namontona en las eras sus vagas colinas amarillentas. Los trabajadores\ncanturrean por lo bajo, en un soñoliento cansancio. Sentadas en los\nzaguanes, las viudas piensan en los muertos, que duermen tan cerca,\ndetrás de los corrales. Los niños corren, de una sombra á otra, como de\nun árbol á otro los pájaros...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

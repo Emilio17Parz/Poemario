@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Brota en el cielo del amor la fuente,\nQue a fecundar el universo mana,\nY en la tierra su límpida corriente\nSus márgenes con flores engalana;\nMas, ¡ay! huid: el corazón ardiente\nQue el agua clara por beber se afana,\nLágrimas verterá de duelo eterno,\nQue su raudal lo envenenó el infierno.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En cuanto á mí, puedo asegurar á usted que en aquel templo,\nabandonado y desnudo, rodeado de tumbas silenciosas, donde descansan\nilustres próceres, sin descubrir, al pie del ara que la sostiene, más\nque las mudas é inmóviles figuras de los abades muertos, esculpidas\ngroseramente sobre las losas sepulcrales del pavimento de la capilla,\nla milagrosa imagen, cuya historia conocía de antemano, me infundió\nmás hondo respeto, me pareció más hermosa, más rodeada de una\natmósfera de solemnidad y grandeza indefinibles que otras muchas\nque había visto antes en retablos churriguerescos, muy cargadas de\njoyas ridículas, muy alumbradas de luces en forma de pirámides y\nde estrellas, muy engalanadas con profusión de flores de papel y de\ntrapo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

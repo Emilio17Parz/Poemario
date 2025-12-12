@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "LA princesa está triste... ¿qué tendrá la princesa?\nLos suspiros se escapan de su boca de fresa,\nQue ha perdido la risa, que ha perdido el color.\nLa princesa está pálida en su silla de oro,\nEstá mudo el teclado de su clave sonoro;\nY en un vaso olvidada se desmaya una flor.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

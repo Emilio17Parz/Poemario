@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tranquila a veces reposa,\nY otras se marcha volando\nNuestra fe.\nY esto pasa, Blanca Rosa,\nSin saber cómo, ni cuándo,\nNi por qué.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mañana, cuando llegues, afanosa,\ncon tus frescos laureles, a las cumbres,\nte abrazará una patria venturosa,\nante una aurora de gloriosas lumbres...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Qué selva mejor que la del sátiro, a quien él encantaría, donde sería\ntenido como un semidios; selva toda alegría, y danza y belleza y\nlujuria; donde ninfas y bacantes eran siempre acariciadas y siempre\nvírgenes; donde había uvas y rosas y ruido de sistros, y donde el rey\ncaprípede bailaba delante de sus faunos beodo y haciendo gestos como\nSileno?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

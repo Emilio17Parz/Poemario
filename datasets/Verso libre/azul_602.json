@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "He aquí el cuadro. En primer término está la negrura de los coches que\nesplende y quiebra los últimos reflejos solares; los caballos orgullosos\ncon el brillo de sus arneses, con sus cuellos estirados e inmóviles de\nbrutos heráldicos; los cocheros taciturnos, en su quietud de diferentes,\nluciendo sobre las largas libreas los botones metálicos flamantes; y en\nel fondo de los carruajes, reclinadas como odaliscas, erguidas como\nreinas, las mujeres rubias de los ojos soñadores, las que tienen\ncabelleras negras y rostros pálidos, las rosadas adolescentes que ríen\ncon alegría de pájaro primaveral; bellezas lánguidas, hermosuras\naudaces, castos lirios albos y tentaciones ardientes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

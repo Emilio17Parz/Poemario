@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Alma de Diciembre, perfume de Pascua,\nque impregnas la arcilla de mi corazón,\ny en lo frío pones de mi vida un ascua\nde alegría ingenua y otra de ilusión...!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ahora en buena hora\ncon cielo transparente y suave clima\nel mundo conmemora\naunque el pasado oprima\nestos cuarenta agostos de Hiroshima.\nLos nipones hicieron\nun survey escolar de varios usos\ny los niños dijeron\nsin mostrarse confusos\nla bomba fue arrojada por los rusos.\nSi se atiende al alcalde\nde la misma ciudad a la que exhuman\nquizá todo fue en balde\nsus palabras abruman\nmas no menciona ni una vez a Truman.\nLos muertos son ceniza\nOccidente da dólares y apoyo\nOriente olvida aprisa\nya salvado el escollo\nla bomba es un factor de desarrollo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

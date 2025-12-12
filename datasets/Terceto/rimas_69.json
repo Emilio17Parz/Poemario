@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Nada menos prodigioso, sin embargo, que el órgano de Santa Inés, ni\nnada más vulgar que los insulsos motetes que nos regaló su organista\naquella noche.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

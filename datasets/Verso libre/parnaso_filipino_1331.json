@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Nació en Batangas, 1890. Cual la mayor parte de los vates registrados\nen este _Florilegio_, cursó el bachillerato en el Ateneo de la\nCompañía, donde fomentábase el amor a las letras humanas. A los 19\naños, guiado por Fernando M.ª Guerrero, comenzó a publicar versos,\nsingularmente en \"El Renacimiento\". En tres meses compuso los\nmateriales para su libro _Bajo los cocoteros_, impreso en 1911, cuando\nRecto frisaba con los 21 años. Luego se hizo abogado y le favoreció un\nacta de representante o diputado. Bufete y política le han apartado\ndel ejercicio del Arte. Es C. de la Real Academia Española.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

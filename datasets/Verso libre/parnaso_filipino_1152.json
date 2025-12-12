@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Aquí lo tienes, toma!... te lo entrego:\nes este corazón ya moribundo,\nque se agita entre océanos de fuego,\ny que latiendo temeroso y ciego,\nte vió y te amó con un amor profundo...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

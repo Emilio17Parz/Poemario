@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "La operación se llevo á término, aunque no sin que nuevos y\naterradores prodigios llenasen de pavor el animo de los consternados\nhabitantes de Bellver.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

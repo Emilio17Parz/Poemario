@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Pájaro errante, ideal golondrina,\nVuela de Arabia a un confín solitario,\nY ve pasar en su torre argentina\nA un rey de Oriente sobre un dromedario;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "YO adoro a una sonámbula con alma de Eloisa\nVirgen como la nieve y honda como la mar;\nSu espíritu es la hostia de mi amorosa misa\nY alzo al són de una dulce lira crepuscular.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

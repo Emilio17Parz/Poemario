@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Fué ayer cuando murió la pobre Rosa.\n¡Fué ayer cuando murió! ¡la amaba tanto\nque busco siempre su olvidada fosa,\nperdida en un rincón del camposanto!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

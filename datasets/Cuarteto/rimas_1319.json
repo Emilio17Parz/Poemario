@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo sé un himno gigante y extraño\nQue anuncia en la noche del alma una aurora,\nY estas páginas son de ese himno\nCadencias que el aire dilata en las sombras.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

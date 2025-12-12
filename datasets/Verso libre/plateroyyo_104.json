@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Era la comida de los niños. Soñaba la lámpara su rosada lumbre tibia\nsobré el mantel de nieve, y los geranios rojos y las pintadas manzanas\ncoloreaban de una áspera alegría aquel sencillo idilio de caras\ninocentes. Las niñas comían como mujeres; los niños discutían como\nalgunos hombres. Al fondo, dando el pecho á un pequeñuelo, la madre,\njoven, rubia y bella, los miraba sonriendo. Por la ventana del jardín,\nla clara noche de estrellas temblaba, dura y fría.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

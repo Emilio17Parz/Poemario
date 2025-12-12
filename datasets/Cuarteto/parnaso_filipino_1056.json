@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En una vega ubérrima y tranquila,\nbajo el quemante ardor de un sol de estío,\nsonoro y riente se desliza el río\ndesde el lago de Bay hasta Manila.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

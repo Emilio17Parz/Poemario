@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Qué es tu vida, alma mía?, ¿cuál tu pago?,\n¡Lluvia en el lago!\n¿Qué es tu vida, alma mía, tu costumbre?\n¡Viento en la cumbre!\n¿Cómo tu vida, mi alma, se renueva?,\n¡Sombra en la cueva!,\n¡Lluvia en el lago!,\n¡Viento en la cumbre!,\n¡Sombra en la cueva!\nLágrimas es la lluvia desde el cielo,\ny es el viento sollozo sin partida,\npesar, la sombra sin ningún consuelo,\ny lluvia y viento y sombra hacen la vida.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

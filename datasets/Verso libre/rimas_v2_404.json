@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Blanco, que fué rechazado\nEn el encuentro primero,\nAl frente del enemigo\nOrganiza los dispersos,\nHace tocar á la carga\nY otra vez los lleva al fuego.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

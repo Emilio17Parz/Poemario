@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si fuese poeta, mi armónica lira\nPodria al amparo del ténue cendal,\nY al son de la brisa que mansa suspira\nLe diera inspirado su acorde final.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Vuelve al triste espectáculo la vista,\nVerás con quanta priesa y quanta gana\nToda Numancia en numerosa lista\nAguija á sustentar la llama insana;\nY no con verde leño y seca arista,\nNo con materia al consumir liviana,\nSino con sus haciendas mal gozadas,\nPues se ganaron para ser quemadas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

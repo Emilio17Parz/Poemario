@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Se elevarán ardientes\nAtléticas legiones\nAl pié de sus pendones,\nCuando el Omnipotente\nLes diga como á Lázaro:\n«Del polvo levantad.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

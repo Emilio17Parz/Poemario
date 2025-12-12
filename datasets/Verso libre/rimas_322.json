@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Debajo de la bóveda y enclavado en el muro, se ve un retablo con\nsu lienzo ennegrecido é imposible de descifrar, su marco dorado y\nchurrigueresco, su farolillo pendiente de un cordel y sus votos de\ncera.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

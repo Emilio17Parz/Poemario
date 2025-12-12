@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ornan los muros mosaicos y frescos,\nÁureos pedazos de un sol fragmentario,\nIris trenzados en mil arabescos,\nJoyas de un hábil cincel lapidario.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

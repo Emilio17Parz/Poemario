@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cuando llegó la tarde del otro día, las muchachas encontraron un\ncántaro roto al borde de la fuente de la alameda. Era el cántaro\nde Marta, de la cual nunca volvió á saberse. Desde entonces las\nmuchachas del lugar van por agua tan temprano, que madrugan con el\nsol. Algunas me han asegurado que de noche se ha oído en más de una\nocasión el llanto de Marta, cuyo espíritu vive aprisionado en la\nfuente. Yo no sé qué crédito dar á esta última parte de la historia,\nporque la verdad es que desde entonces ninguno se ha atrevido á\npenetrar para oirlo en la alameda después del toque del Ave-María.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

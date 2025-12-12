@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que si este mundo inclemente\nPuso en tu pálida frente:\n¡Maldicion!\nAl dejar el frio suelo\nEstampara en ella el cielo\n¡Bendicion!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

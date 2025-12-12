@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "COMO era el instante, dígalo la musa\nQue las dichas trae, que las penas lleva:\nLa tristeza pasa, velada y confusa;\nLa alegría, rosas y azahares nieva.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

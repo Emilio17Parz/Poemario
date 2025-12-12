@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Un día estaba yo triste, muy tristemente\nviendo cómo caía el agua de una fuente.\nEra la noche dulce y argentina. Lloraba\nla noche. Suspiraba la noche. Sollozaba\nla noche. Y el crepúsculo en su suave amatista,\ndiluía la lágrima de un misterioso artista.\nY ese artista era yo, misterioso y gimiente,\nque mezclaba mi alma al chorro de la fuente.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

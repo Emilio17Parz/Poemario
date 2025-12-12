@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "En el curso del tiempo, desenvuelto,\ntú, España, volverás,--¿Qué amor no ha vuelto?--\nPresa en la red del propio bien perdido:",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

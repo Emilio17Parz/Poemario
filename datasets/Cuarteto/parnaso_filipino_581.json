@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y en la paz de los bosques, en donde vuela\nel céfiro de mayo vertiendo olores,\ncon los ritmos dolientes de una vihuela\nmezclan la voz sin mancha de sus amores.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

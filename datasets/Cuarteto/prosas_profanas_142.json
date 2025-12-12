@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Blanco rey de la fuente Castalia\nSu victoria ilumina el Danubio;\nVinci fué su barón en Italia;\nLohengrín es su príncipe rubio.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

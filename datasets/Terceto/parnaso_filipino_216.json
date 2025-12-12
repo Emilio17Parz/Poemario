@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y el acuerdo de todas las flores vengativas,\nDesde las sampaguitas hasta las siemprevivas,\nQuedó temblando a modo de una hoz sobre el viento.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

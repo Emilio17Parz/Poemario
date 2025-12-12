@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "«A las armas valientes argentinos,\n«Venid á decidir vuestros destinos\n«Con grande corazon.\n«Paisanos á las armas! derroquemos\n«Al infame tirano á quien debemos\n«Llanto y desolacion.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

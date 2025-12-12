@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mas no, del fuerte Castelli\nEn medio de la pelea\nEl azul penacho ondea\nDe los sicarios terror.\nRecorriendo va á galope\nLas legiones desbandadas\nGritando: «Tenéis espadas;\n«Venid, morid con honor.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

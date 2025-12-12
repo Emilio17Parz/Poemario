@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Nadie sabe en qué noche de octubre solitario,\nde fatigados duendes que ya no ocurren,\npuede inmolarse la perdida infancia\njunto a recuerdos que se están haciendo.\nQué sorpresa sufrirse una vez desolado,\nescuchar cómo tiembla el coraje en las sienes,\nen el pecho, en los muslos impacientes\nsentir cómo los labios se desprenden\nde verbos maravillosos y descuidados,\nde cifras defendidas en el aire muerto,\ny cómo otras palabras, nuevas, endurecidas\ny desde ya cansadas se conjuran\npara impedirnos el único fantasma de veras.\nCómo encontrar un sitio con los primeros ojos,\nun sitio donde asir la larga soledad\ncon los primeros ojos, sin gastar\nlas primeras miradas,\ny si quedan maltrechas de significados,\nde cáscara de ideales, de puresas inmundas,\ncómo encontrar un río con los primeros pasos,\nun río -para lavarlos- que las lleve.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

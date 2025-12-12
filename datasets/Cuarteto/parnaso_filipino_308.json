@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No me espanta la voz del sordo trueno.\nYo no conozco el miedo ni el fracaso,\nMi alma es un sol de resplandores lleno...\nSobre la ignata muchedumbre paso.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

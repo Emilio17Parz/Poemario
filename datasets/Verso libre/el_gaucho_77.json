@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "51\nMi gala en las pulperías\nera, en habiendo más gente,\nponerme medio caliente,\npues cuando puntiao me encuentro\nme salen coplas de adentro\ncomo agua de la virtiente.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

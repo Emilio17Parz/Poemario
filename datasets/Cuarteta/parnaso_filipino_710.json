@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteta",
+  "poema": {
+    "texto": "Bien sabes que es noble y es santo\nalzar al que cae en la vía.\nNo dudes ni niegues. El llanto\nsecado es raudal de alegría.",
+    "tipo": "cuarteta",
+    "palabra_clave_ingresada": "4 versos rima abab"
+  }
+}

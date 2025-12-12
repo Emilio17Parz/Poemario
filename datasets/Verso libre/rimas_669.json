@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El conde se acercó al grupo y prestó atención. Por una coincidencia,\nal parecer extraña, el título de aquella historia respondía en un\ntodo á los lúgubres pensamientos que embargaban su ánimo. Según había\nanunciado el cantor antes de comenzar, el romance se titulaba el\n_Romance de la mano muerta_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

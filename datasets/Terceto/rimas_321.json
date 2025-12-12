@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "En su clave hay un escudo, roto ya y carcomido por la acción de los\naños, en el cual crece la hiedra, que, agitada con el aire, flota\nsobre el casco que lo corona como un penacho de plumas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

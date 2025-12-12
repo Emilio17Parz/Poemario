@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Había cerca un bello jardín, con más rosas que azaleas y más violetas\nque rosas. Un bello y pequeño jardín con jarrones, pero sin estatuas;\ncon una pila blanca, pero sin surtidores, cerca de una casita como hecha\npara un cuento dulce y feliz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Visité nuevamente muchos soberbios edificios, llenos de recuerdos\nhistóricos y artísticos; torné á vagar y á perderme entre las mil y\nmil revueltas del curioso barrio de Santa Cruz; extrañé en el curso\nde mis paseos muchas cosas nuevas que se han levantado no sé cómo;\neché de menos muchas cosas viejas que han desaparecido no sé por qué,\ny por último me dirigí á la orilla del río. La orilla del río ha sido\nsiempre en Sevilla el lugar predilecto de mis excursiones.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

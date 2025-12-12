@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Silencio. Señas hace ligero\nEl que en la tropa va delantero;\nPorque a un recodo de la campaña\nLlegan en donde Diana se baña.\nSe oye el ruido de claras linfas\nY a la algazara que hacen las ninfas.\nRisa de plata que el aire riega\nHasta sus ávidos oídos llega;\nGolpes en la onda, palabras locas,\nGritos joviales de frescas bocas,\nY los ladridos de la traílla\nQue diana tiene junto a la orilla\nDel fresco río, donde está ella\nBlanca y desnuda como una estrella.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

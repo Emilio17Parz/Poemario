@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Estaba el monte armónico y florido; lleno de trinos y de abejas; era una\ngrande y santa nupcia la que quebraba la luz, y en el árbol la savia\nardía profundamente, y en el animal todo era estremecimiento o balido de\ncántico, y en el gnomo había risa y placer.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

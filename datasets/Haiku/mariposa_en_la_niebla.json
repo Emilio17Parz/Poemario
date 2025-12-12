@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Mariposa en la niebla.",
   "poema": {
     "texto": "Mariposa en la niebla,\nsilencio brisa entrelaza,\nluz entre su delicado manto.\n\nNiebla se disipa,\nmariposa desaparece,\npermanece el cielo azul.",

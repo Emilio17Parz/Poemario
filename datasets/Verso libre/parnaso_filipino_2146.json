@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hijo de catalanes, nació en Valladolid (1879), y muy niño le llevaron\nsus padres a Filipinas, donde ha morado alrededor de treinta años.\nCursó el bachillerato en el Ateneo municipal de Manila. Allí nació su\nafición al arte literario, componiendo versos desde la adolescencia.\nAntes de cumplir los veinte años, fundó y dirigió en Manila \"El\nsoldado español\", luego \"La Unión Ibérica\" y más tarde el diario \"El\nNoticiero de Manila\". Fundó después la revista \"Cultura Filipina\", y\nfué redactor jefe de \"El Mercantil\". Volviendo a España hace pocos\naños, se estableció en Barcelona, donde dirige ahora \"La Veu de\nCatalunya\".",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

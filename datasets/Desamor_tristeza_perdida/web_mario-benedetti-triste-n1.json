@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Por la memoria vagamos descalzos\nseguimos el garabato de la lluvia\nhasta la tristeza que es el hogar destino\nla tristeza almacena los desastres del alma\no sea lo mejorcito de nosotros mismos\ndigamos esperanzas sacrificios amores.\nA la tristeza no hay quien la despoje\nes transparente como un rayo de luna\nfiel a determinadas alegrías.\nNacemos tristes y morimos tristes\npero en el entretiempo amamos cuerpos\ncuya triste belleza es un milagro.\nVamos descalzos en peregrinación\ntriste tristeza llena eres de gracia\ntu savia dulce nos acepta tristes.\nEl garabato de la lluvia nos conduce\nhasta el hogar destino que siempre has sido\ntristeza enamorada y clandestina\nY allí rodeada de tus frágiles dogmas\nde tus lágrimas secas / de tu siglo de sueños\nnos abrazas como anticipo del placer.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

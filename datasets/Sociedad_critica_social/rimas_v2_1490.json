@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La plaza de la Victoria, donde hoy se levanta la pirámide de Mayo, en\nconmemoracion de haberse reunido en ella el pueblo de Buenos Aires,\ndando así el primer paso en el sendero del sistema representativo é\niniciando con ella la emancipacion total del continente americano.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

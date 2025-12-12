@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En pleno monte. Flota en el ambiente\nla gris opacidad de una neblina,\nque a los rayos del sol se difumina\ny se rasga en girones lentamente.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

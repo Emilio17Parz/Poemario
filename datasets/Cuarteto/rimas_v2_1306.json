@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ya no se pueden levantar del suelo,\nPues son cual hojas de papel fugaz,\nQue aun despues de quemadas tienen forma,\nY si se tocan son polvo y no mas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

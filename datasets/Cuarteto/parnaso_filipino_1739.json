@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sus patas, sigilosas, se deslizan\nentre las piernas de la bailarina,\ny en inquietud sus ojos rivalizan\ncon las miradas de la danzarina.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

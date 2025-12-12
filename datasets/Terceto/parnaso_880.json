@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y con él GASPAR DE AVILA, primero\nSequáz de Apolo, á cuyo verso y pluma,\nIciar puede envidiar, temer Sincero.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

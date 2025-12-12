@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¿Fué acaso en el Norte o en el Mediodía?\nYo el tiempo y el día y el país ignoro;\nPero sé que Eulalia ríe todavía,\n¡Y es cruel y eterna su risa de oro!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

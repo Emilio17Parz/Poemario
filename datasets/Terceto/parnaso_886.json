@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Con prestos pies y con valientes manos\nCon FERNANDO CORREA DE LA CERDA,\nPisó RODRIGUEZ LOBO monte y llanos.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

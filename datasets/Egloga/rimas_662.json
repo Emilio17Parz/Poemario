@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "El real de los cristianos se extendía por todo el campo de Guadaíra,\nhasta tocar en la margen izquierda del Guadalquivir. Enfrente del\nreal y destacándose sobre el luminoso horizonte, se alzaban los muros\nde Sevilla flanqueados de torres almenadas y fuertes. Por encima de\nla corona de almenas rebosaba la verdura de los mil jardines de la\nmorisca ciudad, y entre las oscuras manchas del follaje lucían los\nmiradores blancos como la nieve, los minaretes de las mezquitas y la\ngigantesca atalaya, sobre cuyo aéreo pretil lanzaban chispas de luz,\nheridas por el sol, las cuatro grandes bolas de oro, que desde el\ncampo de los cristianos parecían cuatro llamas.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

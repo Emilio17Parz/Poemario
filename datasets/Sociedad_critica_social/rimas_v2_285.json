@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cada viejo de Mayo es flor divina\nDe la corona cívica Argentina\nY la corona cívica Oriental;\nY si el viento arrebata alguna hoja\nTu luz seca las gotas de congoja\nDe nuestra patria en la divina faz.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

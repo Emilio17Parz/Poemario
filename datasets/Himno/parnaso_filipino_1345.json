@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Es ánfora de encantos, palacio de grandezas,\ncastillo de heroísmos, santuario de bellezas,\nrefugio de los besos del oloroso Abril.\nCon su _bolo_[31] en las lides indómita guerrea\ny con su dulce flauta, cual ave que gorjea,\ncelebra sus amores bajo un tibio pensil.\n. . . . . . . . . . . . . . . . . .\nHermanos en la idea: nuestra raza es divina\n¡Es grande y sacrosanta el alma filipina!\nDigamos, pues, un himno por su gloria inmortal.\nY tú ¡oh Fama! recorre del mundo los confines,\ny al son de tus clarines\npregona las grandezas del pueblo de Rizal.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

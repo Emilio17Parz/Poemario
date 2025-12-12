@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Vendrá su hermano el inclito Filipo,\nEl qual sin duda ya venido hoviera,\nSi la cerviz indomita y erguida\nDel luterano Flandes no ofendiese\nTan sin verguenza su Real Corona.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

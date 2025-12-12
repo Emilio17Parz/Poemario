@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Abriéronse mis brazos a su áurea caravana\ny se llenó mi mesa de vaga devoción;\nfué un desfile de rosas y aves por mi ventana,\nabierta a la olorosa y dulce procesión.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

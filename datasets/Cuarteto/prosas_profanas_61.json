@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "ERA un aire suave, de pausados giros;\nEl hada Harmonía ritmaba sus vuelos;\nE iban frases vagas y tenues suspiros\nEntre los sollozos de los violoncelos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

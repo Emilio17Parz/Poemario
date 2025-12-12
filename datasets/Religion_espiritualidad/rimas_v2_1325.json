@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tu ser identifica\nCon esa blanca estrella,\nPorque de tu alma bella\nParece el resplandor;\nY así, la luz suave\nQue irradia tu semblante,\nCual lámpara brillante\nPresidirá al amor.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

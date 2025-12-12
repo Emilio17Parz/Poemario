@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Y a qué cantar, si mi canto\nha de resonar a llanto\nque a nadie conmoverá?\n¿Si del ajeno quebranto\nel mundo cansado está?",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

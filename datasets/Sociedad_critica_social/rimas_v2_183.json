@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Oh patria, oh Buenos Aires! tú ocupas hoy la mente\nDe miles de proscriptos por tierras estrangeras,\nDe grandes ciudadanos á los que el ser tu dieras\nY vagan desterrados del suelo de su amor;\nY tu eres para ellos el sueño de su vida,\nEres la blanca estrella que guia al peregrino,\nY en noche tempestuosa le enseña su camino\nComo astro de los mares que alumbra al viajador.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

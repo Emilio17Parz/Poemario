@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "140\nY pa mejor, una noche\n¡qué estaquiada me pegaron!\nCasi me descoyuntaron\npor motivo de una gresca:\n¡ahijuna, si me estiraron\nlo mesmo que guasca fresca!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

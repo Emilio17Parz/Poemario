@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Nada más extraño que aquel edificio, cuya negra silueta se dibujaba\nsobre el cielo como la de una roca erizada de mil y mil picos\ncaprichosos, hablando con sus lenguas de bronce por medio de las\ncampanas, que parecían agitarse al impulso de seres invisibles,\nuna como llorando con sollozos ahogados, la otra como riendo con\ncarcajadas estridentes, semejantes á la risa de una mujer loca.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

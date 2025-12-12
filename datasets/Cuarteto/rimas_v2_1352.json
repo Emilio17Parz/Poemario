@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ellos la mies ante su hoz rindieron,\nY el surco abrieron en la dura gleba,\nEllos al bosque secular vencieron\nY á par del buey se ataron á la esteva.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "De frente, infantería!\nLa boca en el cartucho,\nLa cara al enemigo,\nLa mano en el fusil,\nSoldados, adelante,\nRompamos esas filas:\nQuien caiga será grande,\nQuien huya será vil!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

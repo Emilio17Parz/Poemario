@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--¡Qué diantre! exclamó saliendo del estado de incertidumbre en que se\nencontraba: mayor mal del que me ha sucedido no puede sucederme, y si\npor el contrario es verdad lo que nos ha contado Esteban ... ¡oh,\nentonces, cómo he de saborear mi triunfo!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

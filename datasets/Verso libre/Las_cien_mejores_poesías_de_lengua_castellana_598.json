@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Ah! No es extraño que sin luz ni guía,\nlos humanos instintos se desborden\ncon el rugido del volcán que estalla,\ny en medio del tumulto y la anarquía,\ncomo corcel indómito el desorden\nno respete ni látigo ni valla.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

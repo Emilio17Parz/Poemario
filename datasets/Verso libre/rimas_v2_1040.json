@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Entonces por tus gracias celestes inspirado\nLa lira del poeta pulsára entusiasmado\nY á tí te dedicára mis cánticos de amor.\nOh, tú me inspirarias canciones inmortales,\nY al oirlas estasiados, del orbe los mortales,\nTu nombre repitieran con alta admiracion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

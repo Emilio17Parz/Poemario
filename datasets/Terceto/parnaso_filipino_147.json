@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Un río desenrosca las eses de su tripa,\nY asoman, allá en donde su curva se disipa,\nLas manchas trapeciales de unos techos de nipa.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

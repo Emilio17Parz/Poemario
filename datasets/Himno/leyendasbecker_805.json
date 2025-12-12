@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "[Footnote 4: Salve, Regina = 'Hail, Queen (of Mercy).' The first\nwords of a Latin antiphon ascribed to Hermannus Contractus (b.\n1013-d. 1054). In mediaeval times it was a great favorite with the\nchurch, and was appointed for use at compline, from the first\nvespers of Trinity Sunday up to nones on the Saturday before Advent\nSunday. See John Julian, _Dictionary of Hymnology_, London, 1892, p.\n991.]",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "salve"
+  }
+}

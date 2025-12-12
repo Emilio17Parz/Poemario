@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Mil puntos de luz\nEn el cielo oscuro brillan\nLuna es testigo",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Noche Estrellada"
+  }
+}

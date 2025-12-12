@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En su país de hierro vive el gran viejo,\nbello como un patriarca, sereno y santo.\nTiene en la arruga olímpica de su entrecejo,\nalgo que impera y vence con noble encanto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

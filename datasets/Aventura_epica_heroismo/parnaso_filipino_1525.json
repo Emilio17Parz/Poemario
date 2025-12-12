@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Musa que en mi edad pasada\nme inspiraste cariñosa\ncantos de amor, ve y reposa.\nHoy necesito una espada,\nríos de oro y acre prosa.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

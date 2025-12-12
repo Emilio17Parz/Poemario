@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si estando deshambridos y encerrados\nMuestran tan demasiado atrevimiento,\nQué hicieran siendo libres, y enterados\nEn sus fuerzas primeras y ardimiento?\nIndomitos, al fin sereis domados,\nPorque contra el furor vuestro violento\nSe tiene de poner la industria nuestra,\nQue de domar soberbios es maestra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

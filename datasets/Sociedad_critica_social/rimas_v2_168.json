@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El funeral del martir generoso\nLe corresponde al pueblo redimido,\nCuando libre del yugo vergonzoso\nLa pira encienda en el altar ungido,\nY cuando puedan respirar sus almas\nY sus manos alzar cívicas palmas.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Te ví un punto,[2] y, flotando ante mis ojos\nLa imagen de tus ojos se quedó,\nComo la mancha obscura, orlada en fuego,\nQue flota y ciega, si se mira al sol.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

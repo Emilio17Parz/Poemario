@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "1\nAquí me pongo a cantar\nAl compás de la vigüela,\nQue el hombre que lo desvela\nUna pena estraordinaria\nComo la ave solitaria\nCon el cantar se consuela.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Allí duerme Santos Vega:\nDe las hojas al arrullo\nImitar quiere el murmullo\nDe una fúnebre cancion.\nNo hay pendiente de sus gajos\nEnlutada y mústia lira,\nDonde la brisa suspira\nComo un acento de amor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

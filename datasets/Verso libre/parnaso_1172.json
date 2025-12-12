@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Item, se da aviso que si algun poeta fuere favorecido de algun\nprincipe, ni le visite á menudo, ni le pida nada, sino dexese llevar\nde la corriente de su ventura, que el que tiene providencia de\nsustentar las sabandijas de la tierra y los gusarapos del agua, la\ntendrá de alimentar á un poeta por sabandija que sea.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

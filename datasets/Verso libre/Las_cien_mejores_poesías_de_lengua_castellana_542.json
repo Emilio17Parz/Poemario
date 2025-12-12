@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tú eres de las almas buenas,\nCuyos honrados amores\nSiempre son\nLos que bendicen sus penas,\nPenas que se abren en flores\nDe pasión.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

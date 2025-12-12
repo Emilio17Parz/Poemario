@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Oh anhelo de esta vida transitoria!\n¡Oh perdurable gloria!\n¡Oh sed inextinguible del deseo!\n¡Oh cielo, que antes para mí tenías\nfulgores y armonías,\ny hoy tan oscuro y desolado veo!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

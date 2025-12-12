@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es río que serpea bajo cañaverales,\ncopiando en el encanto de sus claros cristales\nla azul inmensidad;\npero es también oceano que derrumba montañas\ncuando, en el seno obscuro de sus vastas entrañas,\nhieren iras volcánicas su sed de libertad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

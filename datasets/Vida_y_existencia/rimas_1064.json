@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Á todo esto no cesaba el zarandeo del carruaje; de modo que con el\naturdimiento del vinillo, el continuo vaivén, el tropezón de codos\ny rodillas, las risotadas de éstos, el gritar de aquéllos, las\npalabritas á media voz de los de más allá, un poco de sol enfilado\ná los ojos por las ventanillas, y un bastante de polvo del que\nlevantaban las mulas, las tres horas de camino que hay desde Tarazona\ná Tudela pasaron entre gloria y purgatorio, ni tan largas que me\ndieran lugar á desesperarme, ni tan breves que no viera con gusto el\ntérmino de mi segunda jornada.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

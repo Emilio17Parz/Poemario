@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "tarde dorada",
   "poema": {
     "texto": "Cae la tarde\\nsobre los techos\\narde el ocaso\\nen mil ventanas",

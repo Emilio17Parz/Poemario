@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Pedro, con un movimiento convulsive, oprimió el puño de su espada,\nlevantó la cabeza, que en efecto había inclinado, y dijo con voz\nsorda:",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

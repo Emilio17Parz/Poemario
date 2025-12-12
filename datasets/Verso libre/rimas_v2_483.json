@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y su sagrada enseña\nAl viento desplegando,\nA tiranos domeña\nPueblos emancipando,\nY concita á sus bravos\nRompan de los esclavos\nLa argolla y el cordel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Me dijiste, asceta,\nque es triste la vida,\nque amor es llorar,\nsé que no mentiste\ncuando lo dijiste;\nmas dime, poeta,\n¿hay algo en la vida\nmás dulce que amar?",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

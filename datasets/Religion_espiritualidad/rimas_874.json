@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hasta aquí todo fué bueno; pero es el caso que este hijo, que por lo\nque se verá más adelante, debió de ser de la piel del diablo, si no\nera el mismo diablo en persona, sabedor de que sus bienes estaban en\npoder de los religiosos, y de que su castillo se había transformado\nen iglesia, reunió á unos cuantos bandoleros, camaradas suyos en la\nvida de perdición que emprendiera al abandonar la casa de sus padres,\ny una noche de Jueves Santo, en que los monjes se hallaban en el\ncoro, y en el punto y hora en que iban á comenzar ó habían comenzado\nel _Miserere_, pusieron fuego al monasterio, saquearon la iglesia, y\ná éste quiero, á aquél no, se dice que no dejaron fraile con vida.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

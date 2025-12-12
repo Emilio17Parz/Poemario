@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El zagal, después de guardarse en el zurrón un medio pan blanco y un\ntrozo de carne de jabalí, y en el estómago un valiente trago de vino\nque le dió por orden de su señor uno de los palafreneros, despidióse\nde don Dionís y su hija, y apenas anduvo cuatro pasos, comenzó á\nvoltear la honda para reunir á pedradas los corderos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "158\nNos anunciaban que iríamos\nsin carretas ni bagajes\na golpiar a los salvajes\nen sus mesmas tolderías;\nque a la güelta pagarían\nlicenciándolo al gauchaje;",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

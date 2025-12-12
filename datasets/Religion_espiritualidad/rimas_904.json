@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mal envueltos en los girones de sus hábitos, caladas las capuchas,\nbajo los pliegues de las cuales contrastaban con sus descarnadas\nmandíbulas y los blancos dientes las oscuras cavidades de los ojos de\nsus calaveras, vió los esqueletos de los monjes que fueron arrojados\ndesde el pretil de la iglesia á aquel precipicio, salir del fondo\nde las aguas, y agarrándose con los largos dedos de sus manos de\nhueso á las grietas de las peñas, trepar por ellas hasta tocar el\nborde, diciendo con voz baja y sepulcral, pero con una desgarradora\nexpresión de dolor, el primer versículo del salmo de David:",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

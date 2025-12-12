@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Con la sonrisa en el labio\nY con la miel en el alma\nUn dia tuve de calma\nAl presentir la amistad.\nFalsedad!\nSus manos estaban frias,\nYertas quedaron las mias\nY volví á la soledad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

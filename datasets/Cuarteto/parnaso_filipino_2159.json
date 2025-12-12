@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Con rudo golpe mi contraria suerte\nme hirió, cuando en el cielo me creía;\nel dulce idilio interrumpió la muerte...\n¡y nadie compartió la pena mía!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

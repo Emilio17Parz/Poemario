@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Allí cae la lluvia\nCon un son eterno;\nAllí la combate\nEl soplo del cierzo.\nDel húmedo muro\nTendida en el hueco,\n¡Acaso de frío\nSe hielan sus huesos!...\n. . . . . . . . . . . . . . .",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

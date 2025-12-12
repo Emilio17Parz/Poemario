@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "En Sevilla, en el mismo atrio de Santa Inés, y mientras esperaba que\ncomenzase la Misa del Gallo, oí esta tradición á una demandadera del\nconvento.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

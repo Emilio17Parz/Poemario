@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El vivir es el _hoy_; nadie sabe el _después_:\n¿a qué tristes vivir, a qué solos vagar\nsin un lazo de unión que nos pueda estrechar\ny, aunque herida la sien y maltrechos los piés,\nnos dé amor de vivir, de soñar y cantar?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

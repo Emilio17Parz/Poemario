@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El hada más hermosa ha sonreído\nal ver la lumbre de una estrella pálida,\nque en hilo suave, blanco y silencioso\nse enrosca al huso de su rubia hermana.\nY vuelve a sonreír porque en su rueca\nel hilo de los campos se enmaraña.\nTras la tenue cortina de la alcoba\nestá el jardín envuelto en luz dorada.\nLa cuna, casi en sombra. El niño duerme.\nDos hadas laboriosas lo acompañan,\nhilando de los sueños los sutiles\ncopos en ruecas de marfil y plata.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Con paso tardo, aunque firme,\nSube por las escaleras,\nY al verle, las alabardas\nUn golpe dan en la tierra.\nGolpe de honor, y de aviso\nDe que en el alcázar entra\nUn Grande, a quien se le debe\nTodo honor y reverencia.\nAl llegar a la antesala,\nLos pajes que están en ella\nCon respeto le saludan\nAbriendo las anchas puertas.\nCon grave paso entra el conde\nSin que otro aviso preceda,\nSalones atravesando\nHasta la cámara regia.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ea')"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Se ciñe el guerrero con palma triunfante,\nEl rey con diadema circunda la sien,\nLa falsa coqueta prefiere un diamante,\nQue á par de ella, muchas prefieren tambien.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

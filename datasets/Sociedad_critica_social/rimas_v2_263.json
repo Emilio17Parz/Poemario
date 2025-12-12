@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Salvage que en sus raptos de demencia\nVolcó la hermosa antorcha de la ciencia\nPara encender con ella su fogon,\nDonde quemó del pueblo los derechos,\nY el bello libro de los grandes hechos...\nMas ¡ah! su cifra está en el corazon.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

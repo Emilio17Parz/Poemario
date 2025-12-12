@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Por los mismos dolores que sufríste,\npor lo que has de sufrir seca tu llanto,\ny a la pálida novia que a tí viene,\nsedienta de tu amor, abre los brazos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mas dirás: --¿Y en qué consiste\nQue todo a mudar convida?--\n¡Ay de mí!\nEn que la vida es muy triste...\nPero aunque triste, la vida\nEs así.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

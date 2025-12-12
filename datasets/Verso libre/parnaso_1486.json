@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Veislas aqui do vienen á rogaros,\nNo las dexeis en tantos embarazos,\nAunque seais de acero han de ablandaros.\nLos tiernos hijos vuestros en los brazos\nLas tristes traen: no veis con qué señales\nDe amor les dan los ultimos abrazos?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

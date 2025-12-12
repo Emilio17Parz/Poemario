@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "98\nTendido en el costillar,\ncimbrando por sobre el brazo\nuna lanza como un lazo,\nme atropelló dando gritos:\nsi me descuido... El maldito\nme levanta de un lanzazo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

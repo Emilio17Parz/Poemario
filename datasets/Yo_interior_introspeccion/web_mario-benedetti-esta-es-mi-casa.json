@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No cabe duda. Ésta es mi casa\naquí sucedo, aquí\nme engaño inmensamente.\nÉsta es mi casa detenida en el tiempo.\nLlega el otoño y me defiende,\nla primavera y me condena.\nTengo millones de huéspedes\nque ríen y comen,\ncopulan y duermen,\njuegan y piensan,\nmillones de huéspedes que se aburren\ny tienen pesadillas y ataques de nervios.\nNo cabe duda. Ésta es mi casa.\nTodos los perros y campanarios\npasan frente a ella.\nPero a mi casa la azotan los rayos\ny un día se va a partir en dos.\nY yo no sabré dónde guarecerme\nporque todas las puertas dan afuera del mundo.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

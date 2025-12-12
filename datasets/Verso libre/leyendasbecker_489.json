@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "There are many other and very artificial forms that exist, but their\ntreatment would be irrelevant here. During the nineteenth century the\ncaprice of the poet invented many new forms of which the arrangement\nis evident at a glance.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

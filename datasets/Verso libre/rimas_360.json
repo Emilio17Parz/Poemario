@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las cigüeñas cuelgan su nido en la veleta de la torre; los vencejos\nen el ala de los tejados; las golondrinas en los doseles de granito,\ny el buho y la lechuza escogen para su guarida los altos mechinales,\ndesde donde en las noches tenebrosas asustan á las viejas crédulas\ny á los atemorizados chiquillos, con el resplandor fosfórico de sus\nojos redondos y sus silbos extraños y agudos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

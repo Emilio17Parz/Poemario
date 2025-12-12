@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "La flor ríe en su capullo:\nSuene la gaita,--ruede la danza:\nCanta el agua en su murmullo\nEl poder santo--de la esperanza.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Aventura epica heroismo",
   "poema": {
     "texto": "La gloria es breve\ncomo este Aventura_epica_heroismo leve.",

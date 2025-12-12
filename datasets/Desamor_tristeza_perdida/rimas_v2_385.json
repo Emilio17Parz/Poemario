@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lavalle, tu cabeza\nDe penas fué calvario,\nY vaso lacrimario\nTu grande corazon:\nY los cautivos pueblos\nVertieron en tu seno\nEl llanto de amor lleno\nQue el pueblo derramó.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

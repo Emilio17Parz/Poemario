@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esta campana rota\nquiere sin embargo cantar:\nel metal ahora es verde,\ncolor de selva tiene la campana,\ncolor de agua de estanques en el bosque,\ncolor del día en las hojas.\nEl bronce roto y verde,\nla campana de bruces\ny dormida\nfue enredada por las enredaderas,\ny del color oro duro del bronce\npasó a color de rana:\nfueron las manos del agua,\nla humedad de la costa,\nque dio verdura al metal,\nternura a la campana.\nEsta campana rota\narrastrada en el brusco matorral\nde mi jardín salvaje,\ncampana verde, herida,\nhunde sus cicatrices en la hierba:\nno llama a nadie más, no se congrega\njunto a su copa verde\nmás que una mariposa que palpita\nsobre el metal caído y vuela huyendo\ncon alas amarillas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "329\nY son tantas las miserias\nen que me he salido ver,\nque con tanto padecer\ny sufrir tanta aflición,\nmalicio que he de tener\nun callo en el corazón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

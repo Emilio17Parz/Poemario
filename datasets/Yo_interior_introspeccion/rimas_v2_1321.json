@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Ella es la precursora\nDe las felicidades,\nQue en mústias soledades\nMe viene á consolar;\nLa que al venir yo al mundo\nLució en el firmamento,\nCual si el divino aliento\nLa hiciera allí brotar.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

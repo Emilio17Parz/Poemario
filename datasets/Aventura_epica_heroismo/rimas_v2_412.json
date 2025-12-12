@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuando los viles esclavos\nRiendas al caballo dieron,\nDe cadáveres y de armas\nEl campo quedó cubierto,\nEn expiacion de los libres\nQue con honor sucumbieron.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "honor"
+  }
+}

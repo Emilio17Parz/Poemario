@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cierto que estás, amigo, muy donoso\nEn pensar que tú muerto, quedaria\nYo con tal quietud y tal reposo,\nQue de consuelo alguno serviria\nA la doliente madre y triste esposa:\nPues en la tuya está la muerte mia,\nSeguirte tengo en la ocasion dudosa,\nMira como ha de ser, Morandro, amigo,\nY en el quedarme no me hables cosa.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hasta que al fin un ginete\nLo alcanza, y con mano fija\nAsiendo de la manija\nHizo el caballo cejar,\nPero Zamora con furia\nLo lleva de una pechada,\nDejando en tierra estampada\nDe su triunfo la señal.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

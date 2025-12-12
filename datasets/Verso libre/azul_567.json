@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la pila un cisne chapuzaba revolviendo el agua, sacudiendo las alas\nde un blancor de nieve, enarcando el cuello en la forma del brazo de una\nlira ó del asa de una ánfora, y moviendo el pico húmedo y con tal lustre\ncomo si fuese labrado en una ágata de color de rosa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

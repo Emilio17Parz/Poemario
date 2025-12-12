@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La pasión de la una era el deseo tenaz, hijo de un carácter\nindomable y voluntarioso; en la otra, el cariño se parecía á esa\nvaga y espontánea ternura de la adolescencia, que necesitando un\nobjeto en qué emplearse, ama el primero que se ofrece á su vista.\nAmbas guardaban el secreto de su amor, porque el hombre que lo\nhabía inspirado, tal vez hubiera hecho mofa de un cariño que se\npodía interpretar como ambición absurda en unas muchachas plebeyas\ny miserables. Ambas, á pesar de la distancia que las separaba del\nobjeto de su pasión, alimentaban una esperanza remota de poseerle.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

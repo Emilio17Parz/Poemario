@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sin armas entró en lid mi adversario,\ny afrontó con valor el rudo embate.\nLa pluma puede el púgil literario\nconvertirla en espacia de combate...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

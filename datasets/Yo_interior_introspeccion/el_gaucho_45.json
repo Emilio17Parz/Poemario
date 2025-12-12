@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "20\nNinguno me hable de penas,\nporque yo penado vivo,\ny naides se muestre altivo\naunque en el estribo esté:\nque suele quedarse a pie\nel gaucho mas alvertido.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

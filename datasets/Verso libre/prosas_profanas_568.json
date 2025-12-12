@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En el obscuro cabello\npon las perlas que conquistas;\nen el columbino cuello\npon el collar de amatistas,\ny ajorcas en los tobillos\nde topacios amarillos\ny esmeraldas nunca vistas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

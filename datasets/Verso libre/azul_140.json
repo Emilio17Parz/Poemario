@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Señor, el arte no está en los fríos envoltorios de mármol, ni en los\ncuadros lamidos, ni en el excelente señor Ohnet! ¡Señor! el arte no\nviste pantalones, ni habla en burgués, ni pone los puntos en todas las\níes. Él es augusto, tiene mantos de oro, o de llamas, o anda desnudo, y\namasa la greda con fiebre, y pinta con luz, y es opulento, y da golpes\nde ala como las águilas o _zarpazos_ como los leones. Señor, entre un\nApolo y un ganso, preferid el Apolo, aunque el uno sea de tierra cocida\ny el otro de marfil.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

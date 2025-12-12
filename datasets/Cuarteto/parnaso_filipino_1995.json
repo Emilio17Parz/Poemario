@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "la mujer amorosa cual ninguna,\ndel malayo pensil flor delicada,\nno volverá a lucir, ni la templada\nbrisa de Oriente arrullará su cuna.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

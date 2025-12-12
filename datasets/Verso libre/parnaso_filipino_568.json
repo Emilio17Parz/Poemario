@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Virgen de la Malasia, ramo de flores\nque argentan con su espuma los roncos mares:\ntuyos son mis suspiros y mis amores,\ntuyo el ritmo tembloso de mis cantares.\nYa está tu sien radiante libre de abrojos;\nya, como ayer, no arrastras veste de ilota,\ny ya el alba soñada brilla en tus ojos,\ny tu clámide limpia de manchas flota.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

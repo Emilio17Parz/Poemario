@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "«Dad á nuestros campos mieses abundosas,\n«Aunque niegues su brillo á los metales;\n«Dad naves á los puertos,\n«Pueblos á los desiertos,\n«A las armas victoria,\n«Alas al génio y á las musas gloria.»",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aunque se hizo un tiraje bastante copioso para la época, la edicion se\nagotó muy luego, al punto que á los pocos meses nos fué imposible\natender á la demanda creciente de la obra. La demanda, lejos de\ndisminuir ha ido creciendo cada vez mas, como hemos podido cerciorarnos\npor nosotros mismos en el comercio de libros de que hace veinte años que\nnos ocupamos, obteniendo precios subidos, que no ha alcanzado entre\nnosotros ningun libro, los pocos ejemplares que por casualidad se\nofrecen en venta.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

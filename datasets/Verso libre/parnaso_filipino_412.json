@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Quién empuñó con varonil denuedo,\nen los tiempos de Lope y de Quevedo,\n\"el cetro de oro y el blasón divino\";\nquién sembró de fé en la individual conciencia\ndecoro en la mujer, que es otra herencia,\nluz en las mentes y oro en el camino.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

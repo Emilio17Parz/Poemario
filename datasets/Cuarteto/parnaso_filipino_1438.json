@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "A veces la noche, como novia loca,\nme sorprende triste en el tosco umbral,\npensando en aquella muy amada boca\nque me brindó un día venturanza y paz.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

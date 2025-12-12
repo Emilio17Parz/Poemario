@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Huye también, musa! ¡Vete!\nBusca otra región más pura;\nque mi patria te promete\npor laureles el grillete\npor templo cárcel obscura.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

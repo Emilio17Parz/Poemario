@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Después vino el escudero mayor de la casa, armado de punta en blanco,\ncaballero sobre un potro morcillo, llevando en sus manos el pendón de\nricohombre con sus motes y sus calderas, y al estribo izquierdo el\nejecutor de las justicias del señorío, vestido de negro y rojo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

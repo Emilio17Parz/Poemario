@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Cementerio de flores muertas\"",
   "poema": {
     "texto": "Flores muertas en paz,\nsilencio en sus labios,\nvibran en la noche.\n\nOjos cerrados eternos,\ncorazones en el sol,\nsuspiros en viento.\n\nEn el cementerio florecido,\nespíritus en paz,\nesperando nueva vida.",

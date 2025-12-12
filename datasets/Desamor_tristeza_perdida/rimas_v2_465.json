@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rasgad con mano fuerte\nLa fúnebre mortaja\nCon que os vistió la muerte,\nY oireis la sorda caja\nQue toca ¡á bayoneta!\nLa voz de la corneta,\nY el trueno del cañon.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tú en los remedios que haces, viertes flores\nQue impregna la amistosa simpatía,\nY de tu mano brota noche y dia\nBálsamo aliviador de sinsabores.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

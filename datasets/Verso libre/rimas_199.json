@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Sí--dijo el joven;--es una cosa extraña lo que me sucede, muy\nextraña... Creí poder guardar ese secreto eternamente, pero no es ya\nposible; rebosa en mi corazón y asoma á mi semblante. Voy, pues, á\nrevelártelo... Tú me ayudarás á desvanecer el misterio que envuelve\ná esa criatura, que al parecer sólo para mí existe, pues nadie la\nconoce, ni la ha visto, ni puede darme razón de ella.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

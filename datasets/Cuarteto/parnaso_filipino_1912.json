@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Santa es tu obra y exije sacrificios,\npadeciste por ella mil dolores;\n¡salvar a las naciones de sus vicios\nes misión de los grandes redentores!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La tarde caía\ntriste y polvorienta.\nEl agua cantaba\nsu copla plebeya\nen los cangilones\nde la noria lenta.\nSoñaba la mula\n¡pobre mula vieja!,\nal compás de sombra\nque en el agua suena.\nLa tarde caía\ntriste y polvorienta.\nYo no sé qué noble,\ndivino poeta,\nunió a la amargura\nde la eterna rueda\nla dulce armonía\ndel agua que sueña,\ny vendó tus ojos,\n¡pobre mula vieja!...\nMas sé que fue un noble,\ndivino poeta,\ncorazón maduro\nde sombra y de ciencia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

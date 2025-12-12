@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Volverán las obscuras golondrinas\nEn tu balcón sus nidos á colgar,\nY, otra vez, con el ala á sus cristales\nJugando llamarán.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Las damas Orientalas y Argentinas fundaron á su costa un hospital de\nsangre, en que fueron asistidos personalmente por ellas, mas de dos mil\nheridos del sitio de Montevideo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Paseaba su gracia de sultana\nal múrice reflejo del Poniente,\ncuando en la luz de su mirada ardiente\nvi el paraiso de la vida humana.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

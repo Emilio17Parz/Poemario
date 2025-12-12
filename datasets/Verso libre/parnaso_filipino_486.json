@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "\"Hoy dormidas, sólo tienen nuestros troncos musicales\nArmonías, que el ambiente saturando van de gracia,\nY amedrentan a los niños, a los tímidos y púberes,\nQue imagínanse que oyen los gemidos de las almas.\"\n..................................................\nRetiréme de la sombra de las cañas sollozantes\nY me vine pensativo, ya muy tarde, hacia mi casa;\n¡Y en el bosque proseguía dolorida sus lamentos\nUna orquesta fabulosa de un millar de verdes flautas!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

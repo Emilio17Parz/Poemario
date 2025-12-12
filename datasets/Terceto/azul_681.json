@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Temblaba tanta verdad de amor en aquellas palabras entrecortadas y\ntrémulas, que Suzette, con los ojos enrojecidos, secos ya de lágrimas,\nse levantó irguiendo su linda cabeza heráldica.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

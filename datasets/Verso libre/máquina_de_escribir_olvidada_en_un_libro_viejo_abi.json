@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Máquina de escribir olvidada en un libro viejo abierto.",
+  "poema": {
+    "texto": "Máquina de escribir, olvida en libros antiguos,\nPensando en su tiempo y el que le faltó.\nTrabajar en paz, sin tinta, sin sonido,\nEn un mundo que pasa, aun sin su contribución.\n\nLibro viejo abierto, escena de olvido,\nTú conservas una historia inacabada.\nMáquina, en silencio, tu eras el corazón,\nAhora solo un recuerdo que no se ha podido.\n\nCuarteta antigua, contando su historia,\nEn páginas que aún esperan tus palabras.",
+    "tipo": "Verso_libre",
+    "palabra_clave_ingresada": "Máquina"
+  }
+}

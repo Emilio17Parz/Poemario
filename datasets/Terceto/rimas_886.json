@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--¿Adónde voy? Á oir esa maravillosa música, á oir el grande, el\nverdadero _Miserere_, el _Miserere_ de los que vuelven al mundo\ndespués de muertos, y saben lo que es morir en el pecado.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

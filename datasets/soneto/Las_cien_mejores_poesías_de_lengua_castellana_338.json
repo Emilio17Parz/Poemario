@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Hermosa fuente que al vecino río\nSonora envías tu cristal undoso,\nY tú, blanda cual sueño venturoso,\nYerba empapada en matinal rocío:\nAugusta soledad del bosque umbrío\nQue da y protege el álamo frondoso,\nAmparad de verano riguroso\nAl inocente y fiel rebaño mío.\nQue ya el suelo feraz de la campiña\nSelló Julio con planta abrasadora\nY su verdura a marchitar empieza;\nY alegre ve la pampanosa viña\nEn sus yemas la savia bienhechora\nNuncio feliz de la otoñal riqueza.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

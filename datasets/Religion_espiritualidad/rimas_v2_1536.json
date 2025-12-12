@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En vano viejos pueblos enervados\nEscriben por el miedo dominados\n«¡El oro! ¡El oro! es de la tierra Dios.»\nQue ella dice con hechos elocuentes:\n«En los pueblos viriles y valientes\n«El Dios es de la patria el santo amor.»",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Abre España a las nuevas corrientes de la vida,\nabre España al abrazo de sus hijos dispersos\ny surja del Pirene, como hostia bendecida,\nel sol de un culto unánime, en el que adore unida\nla progenie del inca de los cultos diversos.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

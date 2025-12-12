@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "_Con el agua de la redoma clara baña el hierro de la lanza, y luego\nhiere en la tabla, y debaxo ó sueltense cohetes, ó hagase el rumor con\nel barril de piedras_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

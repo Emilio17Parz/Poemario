@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La nueva se divulgó con la rapidez del pensamiento entre la multitud,\nque aguardaba impaciente el resultado-del juicio; y fué tal la alarma,\nla revuelta y la vocería, que ya á nadie cupo duda sobre lo que de\npública voz se aseguraba, esto es, que el diablo, á la muerte del\nseñor del Segre, había heredado los feudos de Bellver.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

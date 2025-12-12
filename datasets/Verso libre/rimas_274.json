@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--No cabe duda; aquí vive mi desconocida--murmuró el joven en voz\nbaja y sin apartar un punto sus ojos de la ventana gótica;--aquí\nvive. Ella entró por el postigo de San Saturio... por el postigo de\nSan Saturio se viene á este barrio... en este barrio hay una casa,\ndonde pasada la media noche aún hay gente en vela... ¿en vela? ¿Quién\nsino ella, que vuelve de sus nocturnas excursiones, puede estarlo á\nestas horas?... No hay más; esta es su casa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

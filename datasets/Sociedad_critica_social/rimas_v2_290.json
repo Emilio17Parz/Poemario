@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hermosa cual su vida, fué su muerte:\nCon el aliento varonil del fuerte\nPeleando por la patria sucumbió.\nEn hombros de su ejército esforzado,\nDe balazos el pecho acribillado\nEl campo de batalla abandonó.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

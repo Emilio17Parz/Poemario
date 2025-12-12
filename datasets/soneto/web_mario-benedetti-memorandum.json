@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Uno llegar e incorporarse el día\nDos respirar para subir la cuesta\nTres no jugarse en una sola apuesta\nCuatro escapar de la melancolía\nCinco aprender la nueva geografía\nSeis no quedarse nunca sin la siesta\nSiete el futuro no será una fiesta\nY ocho no amilanarse todavía\nNueve vaya a saber quién es el fuerte\nDiez no dejar que la paciencia ceda\nOnce cuidarse de la buena suerte\nDoce guardar la última moneda\nTrece no tutearse con la muerte\nCatorce disfrutar mientras se pueda.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En aquella barca había creído distinguir una forma blanca y esbelta,\nuna mujer sin duda, la mujer que había visto en los Templarios, la\nmujer de sus sueños, la realización de sus más locas esperanzas. Se\ndescolgó de las peñas con la agilidad de un gamo, arrojó al suelo\nla gorra, cuya redonda y larga pluma podía embarazarle para correr,\ny desnudándose del ancho capotillo de terciopelo, partió como una\nexhalación hacia el puente.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

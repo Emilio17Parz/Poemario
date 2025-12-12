@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En el vivac del mundo, alza tu escudo!\nEn el campo de accion, arma tu diestra!\nSé un héroe de la vida en la palestra,\nY no el rebaño que se arrea mudo!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

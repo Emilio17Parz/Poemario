@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El silencio del mar\nbrama un juicio infinito\nmás concentrado que el de un cántaro\nmás implacable que dos gotas\nya acerque el horizonte o nos entregue\nla muerte azul de las medusas\nnuestras sospechas no lo dejan\nel mar escucha como un sordo\nes insensible como un dios\ny sobrevive a los sobrevivientes\nnunca sabré que espero de él\nni que conjuro deja en mis tobillos\npero cuando estos ojos se hartan de baldosas\ny esperan entre el llano y las colinas\no en calles que se cierran en más calles\nentonces sí me siento náufrago y sólo el mar puede\nsalvarme",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

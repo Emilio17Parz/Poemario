@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Es el cisne, de estirpe sagrada,\nCuyo beso, por campos de seda,\nAscendió hasta la cima rosada\nDe las dulces colinas de Leda.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

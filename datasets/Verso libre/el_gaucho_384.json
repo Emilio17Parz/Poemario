@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "350\nLe alvertiré que en mi pago\nya no va quedando un criollo:\nse los ha tragao el hoyo,\no juido o muerto en la guerra;\nporque, amigo, en esta tierra\nnunca se acaba el embrollo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

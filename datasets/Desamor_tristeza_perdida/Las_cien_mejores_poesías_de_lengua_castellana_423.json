@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Oh! ¡crüel! ¡muy crüel!... ¡Ay! yo entre tanto\nDentro del pecho mi dolor oculto,\nEnjugo de mis párpados el llanto\nY doy al mundo el exigido culto:\nYo escondo con vergüenza mi quebranto,\nMi propia pena con mi risa insulto,\nY me divierto en arrancar del pecho\nMi mismo corazón pedazos hecho.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

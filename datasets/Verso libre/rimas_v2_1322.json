@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando perdí la senda\nQue á tí me conducia,\nYo ví nube sombría\nTurbar su claridad;\nPero brilló risueña\nCuando te hallé amorosa,\nY en tu cabeza hermosa\nVertió su claridad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

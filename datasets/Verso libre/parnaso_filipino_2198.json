@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Que triste, Lina mía,\nnuestra casa quedó! Tú te has llevado\nnuestro afán de vivir, nuestra alegría,\nla esperanza de todo lo soñado\ncuando estabas en nuestra compañía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nuestra Señora de la mañana:\ntú, que deslíes\nsobre las nieblas tu suave grana;\ntú, que te enjoyas de mil rubíes;\ntú, soberana,\nque te sonríes\ncomo una dulce Fata Morgana,\npon en mi lengua sabor de mieles\ny una sonrisa bajo mis labios.\nNo me des nunca laureles sabios...\nOdio lo amargo: gloria, laureles.\nGuíame al prado de tu optimismo,\ndonde el buen Emerson, todo sonrisa,\ndijo su misa,\nque era la misa de su pietismo...\n¡Santa mañana, reina ideal,\nvaso de lirios en eclosión,\narca de gemas y de cristal,\npor tí suspira mi corazón!\nReina inmortal,\nmanda a mi pluma tu tentación,\ntoda la excelsa luz de tu edén;\nlibra mis sueños de todo mal,\ny haz que a tu diestra me siente. Amén.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

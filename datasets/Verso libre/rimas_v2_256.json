@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Su sociedad sin leyes, desquiciada,\nY bajo férrea mano nivelada,\nTiembla ante la cuchilla del terror;\nLos nombres de patriotas eminentes,\nNo gravados en bronces relucientes\nSino en tablas de ingrata proscripcion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

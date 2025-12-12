@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vírgenes puras, como el sol hermosas,\nQue os coronais con perfumadas rosas\nLa frente virginal;\nCubrid con ellas los sepulcros yertos\nDe los valientes por la patria muertos\nQue duermen sobre almohada terrenal.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

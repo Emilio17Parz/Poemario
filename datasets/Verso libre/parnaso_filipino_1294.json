@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Y tu, la hija menor, oh, Filipinas!\nVive alerta en el seno de tu actual nodriza,\nfórmate exhuberante, potente y democrática,\ny si algún día libre te ves de la tutela,\ny falta luz a España para alumbrar sus mundos,\npuedes brindarle, entonces, el sol de tu bandera...!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

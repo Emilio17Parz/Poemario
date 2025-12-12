@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Vendrán horas serenas\nQue vuelen en pedazos\nLas últimas cadenas\nQue amarran nuestros brazos,\nAlzando los escudos\nQue con brazos membrudos\nVuestro aliento elevó.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

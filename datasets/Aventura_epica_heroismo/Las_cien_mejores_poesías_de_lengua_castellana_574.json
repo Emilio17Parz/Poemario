@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Cuántos sueños de gloria evaporados\ncomo las leves gotas de rocío\nque apenas mojan los sedientos prados!\n¡Cuánta ilusión perdida en el vacío,\ny cuántos corazones anegados\nen la amarga corriente del hastío!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

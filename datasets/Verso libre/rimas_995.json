@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La muchacha morena, esbelta y decidora que había escogido por modelo,\nllevaba la voz entre las mujeres, y componía las coplas y las decía,\nacompañada del ruido de las palmas y las risas de sus compañeras,\nmientras el tocador parecía ser el jefe de los mozos y el que entre\ntodos ellos despuntaba por su gracia y su desenfadado ingenio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

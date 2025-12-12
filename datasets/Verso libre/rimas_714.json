@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Hermosa prima--exclamó al fin Alonso rompiendo el largo silencio en\nque se encontraban:--pronto vamos á separarnos tal vez para siempre;\nlas áridas llanuras de Castilla, sus costumbres toscas y guerreras,\nsus hábitos sencillos y patriarcales sé que no te gustan; te he oído\nsuspirar varias veces, acaso por algún galán de tu lejano señorío.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

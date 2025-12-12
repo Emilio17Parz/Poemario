@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cantemos el oro, porque su voz es música encantada; porque es heroico y\nluce en las corazas de los héroes homéricos, y en las sandalias de las\ndiosas y en los coturnos trágicos y en las manzanas del Jardín de las\nHespérides.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

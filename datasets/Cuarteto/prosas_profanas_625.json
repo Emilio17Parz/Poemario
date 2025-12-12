@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La celeste unidad que presupones\nHará brotar en ti mundos diversos,\nY al resonar tus números dispersos\nPitagoriza en tus constelaciones.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

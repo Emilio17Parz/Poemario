@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Señor: Pues esta niña estaba abandonada\nPor el rajhá, ocupado en combates sin fin,\nY como ya muriera su madre, infortunada,\nAhora buscaba amor y aroma en el jardín.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

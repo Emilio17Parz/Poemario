@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Es su edad y su nombre aquí esculpido\nUna elegía para el tosco aldeano,\nY un texto por el tiempo carcomido\nConforta al moralista comarcano.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

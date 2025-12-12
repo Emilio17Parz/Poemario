@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Eh, miserables beodos, pobres de solemnidad, prostitutas, mendigos,\nvagos, rateros, bandidos, pordioseros peregrinos, y vosotros los\ndesterrados, y vosotros los holgazanes, y sobre todo, vosotros, oh\npoetas!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

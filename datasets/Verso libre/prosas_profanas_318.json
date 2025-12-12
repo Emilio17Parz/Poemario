@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Yo sé de la hembra humana la original infamia.\nVenus anima artera sus máquinas fatales,\nTras los radiantes ojos ríen traidores males,\nDe su floral perfume se exhala sutil daño;\nSu cráneo obscuro alberga bestialidad y engaño.\nTiene las formas puras del ánfora, y la risa\nDel agua que la brisa riza y el sol irisa;\nMas la ponzoña ingénita su máscara pregona:\nMejores son el águila, la yegua y la leona.\nDe su húmeda impureza brota el calor que enerva\nLos mismos sacros dones de la imperial Minerva;\nY entre sus duros pechos, lirios del Aqueronte,\nHay un olor que llena la barca de Caronte.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

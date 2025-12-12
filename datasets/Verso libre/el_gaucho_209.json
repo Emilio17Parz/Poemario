@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "180\nLos pobrecitos tal vez\nno tengan ande abrigarse,\nni ramada ande ganarse,\nni rincón ande meterse,\nni camisa que ponerse,\nni poncho con que taparse.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

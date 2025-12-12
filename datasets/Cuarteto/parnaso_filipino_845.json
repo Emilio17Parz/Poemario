@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sobre el lejano mar las negras naves\nsombras son en la calma vesperal;\nen la fronda un rumor de notas graves,\nque deslíe un liróforo oriental.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

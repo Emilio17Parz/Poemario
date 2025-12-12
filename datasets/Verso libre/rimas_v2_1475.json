@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esta composicion, escrita bajo la impresion que causó en Montevideo la\nnoticia de aquel desastre, se publicó por la primera vez en una Corona\nFúnebre dedicada á la memoria de Rufino Varela, á cuya formacion\ncontribuyeron todos los poetas argentinos que han consagrado sus cantos\ná la libertad. Don Juan María Gutierrez, que escribió la interesante\nbiografía que precede á esa coleccion, dijo con este motivo:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

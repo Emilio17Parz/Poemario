@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Piececitos de niño,\nazulosos de frío,\n¡cómo os ven y no os cubren,\nDios mío!\n¡Piececitos heridos\npor los guijarros todos,\nultrajados de nieves\ny lodos!\nEl hombre ciego ignora\nque por donde pasáis,\nuna flor de luz viva\ndejáis;\nque allí donde ponéis\nla plantita sangrante,\nel nardo nace más\nfragante.\nSed, puesto que marcháis\npor los caminos rectos,\nheroicos como sois\nperfectos.\nPiececitos de niño,\ndos joyitas sufrientes,\n¡cómo pasan sin veros\nlas gentes!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

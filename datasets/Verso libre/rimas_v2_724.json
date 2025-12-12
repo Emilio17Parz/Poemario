@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Diríanse campeones\nQue esperan la pelea\nQue anuncie con estruendo\nLas lenguas del clarin:\nLa inercia los consume\nMas si el cañon humea\nCon varonil corage\nBuscan glorioso fin.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

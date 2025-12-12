@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hijo del pabellon del Argentino\nSu bandera dió sombra al peregrino\nComo el palmero al pobre viajador;\nPero el feroz tirano, en torvo ceño,\nLos despertó de su ajitado sueño\nEn la tierra de lenta proscripcion.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

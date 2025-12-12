@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Qué tan al cabo estas? qué tal te sientes?\nLleva á tu hermano, pues que es menor carga,\nY yo á tu esposo, que mas pesa y carga.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

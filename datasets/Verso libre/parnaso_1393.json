@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Antes creo que se han endurecido,\nQual se puede inferir de las señales\nTan fieras como aqui han acontecido;\nNuestros vivos remedios son mortales,\nToda es nuestra pereza diligencia,\nY los bienes agenos nuestros males.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

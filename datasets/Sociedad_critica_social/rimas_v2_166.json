@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Los atrevidos cantos de la guerra\nResuenen en la losa del soldado,\nY de flores cubramos esa tierra\nDonde cayó sin vida, ensangrentado,\nY de la patria el estandarte santo\nSea de paz y proteccion su manto.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

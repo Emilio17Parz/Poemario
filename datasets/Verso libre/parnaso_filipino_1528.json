@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Van huyendo, poco a poco,\ncuantos amé, de mi lado;\naquél muerto, éste casado,\nporque sella cuanto toco\ncon la desventura el hado.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

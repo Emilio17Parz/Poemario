@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las ramas verdes, ramas que, erguidas, tuvieron en ellas el sol, los\nchamarices, el viento, la luna, los cuervos--¡qué horror! ¡ahí han\nestado, Platero!--, se caen, pobres, hasta el polvo blanco de las sendas\nsecas del crepúsculo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

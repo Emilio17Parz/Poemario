@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Fuiste la delicia de nuestros difuntos abuelos;\ndasnos, en el tiempo presente, un dulzor de consuelos,\nque son para el alma cual riego en muriente jardín;",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

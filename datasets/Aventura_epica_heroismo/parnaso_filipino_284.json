@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Madre, sí, más que reina, más que dueña,\nMadre de Guatemoc cuando te sueña,\nY de Kalipulako si te hiere!\n¡Madre que todo lo ama y lo perdona!\n¿Qué labio ruin tu gloria no pregona?\n¿Qué pecho es el traidor que no te quiere?",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

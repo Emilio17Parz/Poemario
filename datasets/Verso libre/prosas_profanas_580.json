@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En el baño al beso incita\nsobre el cristal de la onda\nla sonrisa de Gioconda\nen el rostro de Afrodita;\ny el cuerpo que la luz dora,\nadolescente, se hermana\ncon las formas de Diana\nla celeste cazadora.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Revolucion con cauda de cometa,\nQue atravesó el espacio, cual saeta\nDespedida del arco del Señor;\nParto de mil ideas generosas\nQue volaron en chispas luminosas\nPor todo el continente de Colon.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

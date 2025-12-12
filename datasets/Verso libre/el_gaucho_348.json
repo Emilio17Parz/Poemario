@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "315\nY como nunca al que manda\nle falta algún adulón,\nuno que en esa ocasión\nse encontraba allí presente,\nvino apretando los dientes\ncomo perrito mamón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mas ¡ay! cuando se cae la venda de los ojos,\nel bello panorama tórnase en funeral...\n¡los que gratos nos fueron, hoy nos causan enojos!\n¡lo que fué nuestra dicha, es ahora nuestro mal!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

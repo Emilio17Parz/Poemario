@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Lo que el salvaje que con torpe mano\nHace de un tronco á su capricho un dios,\nY luego ante su obra se arrodilla,\nEso hicimos tú y yo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

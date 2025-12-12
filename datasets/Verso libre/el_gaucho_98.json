@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "72\nY es lo pior de aquel enriedo\nque si uno anda hinchando el lomo\nse le apean como un plomo...\n¡quién aguanta aquel infierno!\nsi eso es servir al gobierno,\na mí no me gusta el cómo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

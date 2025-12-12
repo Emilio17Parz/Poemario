@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya lo sabemos\nes difícil\ndecir que no\ndecir no quiero\nver que el dinero forma un cerco\nalrededor de tu esperanza\nsentir que otros\nlos peores\nentran a saco por tu sueño\nya lo sabemos\nes difícil\ndecir que no\ndecir no quiero\nno obstante\ncómo desalienta\nverte bajar tu esperanza\nsaberte lejos de ti mismo\noírte\nprimero despacito\ndecir que sí\ndecir sí quiero\ncomunicarlo luego al mundo\ncon un orgullo enajenado\ny ver que un día\npobre diablo\nya para siempre pordiosero\npoquito a poco\nabres la mano\ny nunca más\npuedes cerrarla.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

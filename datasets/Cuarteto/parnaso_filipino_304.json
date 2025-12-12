@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Me encuentro solo, sin ningún recelo\nA los Zoilos pedantes y ruines.\nYo tengo por bandera el ancho cielo,\nVibra mi voz en todos los confines.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

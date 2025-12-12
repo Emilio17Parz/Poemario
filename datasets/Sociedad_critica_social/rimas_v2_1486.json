@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "No veo aquellos muros que consagró la historia,\nCuando asilado en ellos ejército estrangero\nEl pueblo omnipotente, con ademan severo,\nHizo rendir la espada del bravo Berresford.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

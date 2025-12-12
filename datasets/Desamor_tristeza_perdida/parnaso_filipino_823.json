@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No estés triste...\nQue también ha bajado\nun rayo de luna.\n¡Yo estoy siempre contigo!\nmi tristeza a tu lado\nes siempre, ¡siempre! una\ncaricia de un amigo.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

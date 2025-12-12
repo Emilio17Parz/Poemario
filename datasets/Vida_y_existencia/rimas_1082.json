@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La aproximación del correo viene siempre á interrumpir una de estas\nmaravillosas historias. En el profundo silencio que me rodea, el\nlejano rumor de los pasos de su caballo que cada vez se percibe más\ndistinto, lo anuncia á larga distancia; por fin llega adonde estoy,\nsaca el periódico de la bolsa de cuero que trae terciada al hombro,\nme lo entrega, y después de cambiar algunas palabras ó un saludo,\ndesaparece por el extremo opuesto del camino que trajo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Yo había adelantado algunos minutos á mis compañeros de viaje, y\ndeteniendo mi escuálida cabalgadura, contemplaba en silencio aquella\ncruz, muda y sencilla expresión de las creencias y la piedad de otros\nsiglos.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

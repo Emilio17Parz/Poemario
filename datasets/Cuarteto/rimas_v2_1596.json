@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y que te brinde copa reluciente\nY al apurarla llena de embriaguez,\nEn la lengua te pique una serpiente\nQue se alce enfurecida de la hez.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "De pronto se oye el eco del grito de la pampa;\nBrilla como una puesta del argentino sol;\nY un espectral jinete, como una sombra cruza,\nSobre su espalda un poncho; sobre su faz, dolor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si tu corazón de oro\nel Sol de mi amor no advierte,\ndéjame que lo despierte\nde su letargo profundo,\npara que viva en el mundo\njunto al mío hasta la muerte.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

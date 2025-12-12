@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La pólvora y la sangre siempre humea,\nDe sol á sol su ejército aun pelea,\nY uno á uno sus hijos vé caer;\nPero ella mas heróica y mas constante\nLos envuelve en su manto rutilante\nY les ciñe coronas de laurel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

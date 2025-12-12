@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "¡Madre, madre laguna! Tu nombre es una gloria,\nuna página de oro en la malaya historia,\nun destello lumínico que ilustra la memoria,\nun poema de amor, un himno de victoria.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

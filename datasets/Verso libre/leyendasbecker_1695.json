@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Yo, que á tus ojos en mi agonía\nLos ojos vuelvo de noche y día;\nYo, que incansable corro y demente\nTras una sombra, tras la hija ardiente\nDe una visión!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

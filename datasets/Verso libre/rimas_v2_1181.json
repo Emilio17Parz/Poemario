@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y de los niños fiados á tus manos\nSalgan fuertes y buenos ciudadanos\nFormados en el halda maternal,\nDonde aprendan á odiar la tiranía\nY á combatir con ínclita porfía\nPor los santos principios de igualdad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Y tuviste en la lira de Quintana\necos triunfales, resonancias bélicas\nde estoques y corazas y armaduras\nque son el timbre perennal de Iberia;\nen los versos broncíneos de Chocano,\nfragor de sordas cataratas épicas,\nalgazara de pompas coloniales,\nrumor de besos y temblor de quenas.\nDe Solís en la prosa cincelada,\nímpetus de corcel, dianas homéricas,\nestrépito de lanzas y tizonas,\nde broqueles y cascos y rodelas.\nEn Fray Luis de León fuíste cigarra\nque endulzaba el reposo de la siesta,\ny tonada de amor de la tierruca\nen los cuadros agrestes de Pereda;\ncaballero gentil de la Armonía\nen el rugiente \"Niágara\" de Heredia,\nbatir de alas de ingrávidos querubes\nen las trovas ardientes de Teresa.\nY en el arpa divina de Darío,\nruido de encajes y _frufús_ de seda,\nmúsica de cinceles sobre el mármol\ny murmurio de risas y de gemas,\ncanción de cisnes sobre el quieto estanque\nal paso de las \"púberes canéforas\",\narpegio de violines cortesanos\ny vibración de cítaras helenas.\nY cerraste la elipse de tu gloria,\ncon un estruendo de imperial proeza;\nen las perennes páginas altísimas\ndel libro de Cervantes Saavedra.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

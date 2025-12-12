@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Ya de mi amor la confesión sincera\nOyeron tus calladas celosías,\nY fue testigo de las ansias mías\nLa luna, de los tristes compañera.\nTu nombre dice el ave placentera\nA quien visito yo todos los días,\nY alegran mis soñadas alegrías\nEl valle, el monte, la comarca entera.\nSolo tú mi secreto no conoces,\nPor más que el alma con latido ardiente,\nSin yo quererlo, te lo diga a voces;\nY acaso has de ignorarlo eternamente,\nComo las ondas de la mar veloces\nLa ofrenda ignoran que les da la fuente.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

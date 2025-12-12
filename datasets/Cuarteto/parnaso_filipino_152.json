@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Fué en una hora de graves indicios,\ncuando por sobre la calma ilusoria,\ntú, que ensayabas tus vuelos novicios,\npatria, escuchaste mi voz monitoria.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Del orgullo la pompa deleznable,\nLa opulencia, el poder y la belleza,\nA todo llega su hora inevitable:\nDe la gloria el camino va á la huesa.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

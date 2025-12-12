@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "cuando, when; aun --, although; hasta --, how long; de yez en --, from\ntime to time; every now and then; at intervals; de -- en --, from time\nto time.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

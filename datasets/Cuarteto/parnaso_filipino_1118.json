@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Quiero luz, colores, vida, miel, aroma,\npues tengo en mi pecho una eterna sed\nque mi alma atormenta cual una carcoma\ny de las tristezas me pone a merced.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

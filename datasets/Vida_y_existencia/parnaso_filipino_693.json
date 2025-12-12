@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Alcé mi frente. La vida no me daba su respuesta.\nNo había una flor en toda la inmensidad de la cuesta;\nmi fatiga siempre grande, mi carga siempre molesta,\ny los labios de mi musa no me daban la respuesta...",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El viento es un caballo:\nóyelo cómo corre\npor el mar, por el cielo.\nQuiere llevarme: escucha\ncómo recorre el mundo\npara llevarme lejos.\nEscóndeme en tus brazos\npor esta noche sola,\nmientras la lluvia rompe\ncontra el mar y la tierra\nsu boca innumerable.\nEscucha como el viento\nme llama galopando\npara llevarme lejos.\nCon tu frente en mi frente,\ncon tu boca en mi boca,\natados nuestros cuerpos\nal amor que nos quema,\ndeja que el viento pase\nsin que pueda llevarme.\nDeja que el viento corra\ncoronado de espuma,\nque me llame y me busque\ngalopando en la sombra,\nmientras yo, sumergido\nbajo tus grandes ojos,\npor esta noche sola\ndescansaré, amor mío.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

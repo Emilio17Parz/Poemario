@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Luz de luna, sí; luz de luna es toda su poesía, porque luz de luna\nllevaba en el alma. Su bondad resignada fué el resplandor templado\ny celeste á cuyos rayos escribió sus páginas cautivadoras. Soñó,\ny parecieron sus sueños tocados de la quimera y de la fiebre\ndel insomnio, como hijos de la noche; amó, y fueron sus amores\nmelancólicos y dolorosamente sumisos; y poníase la mano en el corazón\npor que sus latidos no sonasen, y le temía al resplandor de la\naurora; lloró mucho, y en su inagotable ternura se confortó con el\nconsuelo de saber que aún le quedaban lágrimas. Y estos sentimientos,\nque tan inefable perfume prestan á su poesía, hallan el molde más\ndúctil y apropiado en la suave forma de sus rimas aladas, y el eco\nmás acorde en la tenue música y en el impreciso y vago ritmo de sus\nversos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

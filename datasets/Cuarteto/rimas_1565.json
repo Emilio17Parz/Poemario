@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Así, aunque ahora muriera,\nNo podría decir que no he vivido;\nQue el sayo, al parecer nuevo por fuera,\nConozco que por dentro ha envejecido.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

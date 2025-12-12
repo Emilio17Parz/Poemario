@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Silva",
+  "poema": {
+    "texto": "El rocío de nubes blanquecinas\nEterniza la _flor de las colinas_,\nEsa flor que en su cáliz peregrino\nEncierra el ósculo del amor divino,\nLlevado allí por las sublimes notas\nDel eterno cantar de los patriotas.\nBlanca flor de montañas\nQue en el azul empíreo se mece,\nCuando surgen patrióticas hazañas\nSe multiplica y por doquier florece;\nPero diz que se oculta y desparece,\nO se demuda roja,\nCuando patria postrada se sonroja,\nY vagan por las nubes sus raíces\nLloradas por las musas infelices.\nEn tanto llega el día\nEn que, unido el valor a la hidalguía,\nSurje en la excelsa cumbre\nLa cálida ambrosía\nQue, a la ignición de misteriosa lumbre,\nLa planta vitaliza\nY el amor de las musas fecundiza.",
+    "tipo": "silva",
+    "palabra_clave_ingresada": "Combinación silva (7 y 11)"
+  }
+}

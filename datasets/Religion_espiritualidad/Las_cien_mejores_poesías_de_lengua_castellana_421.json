@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Si el cuadro de tus breves glorias viste\nPasar como fantástica quimera,\nY si la voz de tu conciencia oíste\nDentro de ti gritándote severa;\nSí, en fin, entonces tú llorar quisiste\nY no brotó una lágrima siquiera\nTu seco corazón, y a Dios llamaste,\nY no te escuchó Dios, y blasfemaste.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

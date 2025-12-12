@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Así en Mayo nacieron los campeones\nQue rompieron los duros eslabones\nQue nos forjó la torpe iniquidad,\nY con la leche encima de los labios,\nFuertes guerreros, gobernantes sabios\nContempló con asombro aquella edad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Dueño, según los rumores del vulgo, de una inmensa fortuna, veíasele,\nno obstante, todo el día acurrucado en el sombrío portal de su\nvivienda, componiendo y aderezando cadenillas de metal, cintos viejos\nó guarniciones rotas, con las que traía un gran tráfico entre los\ntruanes del Zocodover, las revendedoras del Postigo y los escuderos\npobres.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

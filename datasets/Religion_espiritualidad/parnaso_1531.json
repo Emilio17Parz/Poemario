@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Pues ya tienes, Morandro, conocidos\nMis deseos, que en buena ó mala suerte\nAl sabor de los tuyos van medidos.\nSabrás que no los miedos de la muerte\nDe ti me apartarán un solo punto,\nNi otra cosa (si la hay) que sea mas fuerte.\nContigo tengo de ir, contigo junto\nHe de volver, si ya el cielo no ordena\nQue quede en tu defensa allá difunto.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

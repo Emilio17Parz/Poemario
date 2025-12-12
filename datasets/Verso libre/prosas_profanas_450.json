@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Va el pontífice hacia Oriente ¿va encontrar el áureo barco,\nDonde al brillo de la aurora viene en triunfo el rey Enero?\nYa la aljaba de Diciembre se fué toda por el arco\nDel Arquero.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

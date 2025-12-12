@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los astros menores de esta brillante constelación, formando un dorado\nsemicírculo en torno de ambos galanes, reían y esforzaban las\ndelicadas burlas; y la hermosa, objeto de aquel torneo de palabras,\naprobaba con una imperceptible sonrisa los conceptos escogidos ó\nllenos de intención, que, ora salían de los labios de sus adoradores,\ncomo una ligera onda de perfume que halagaba su vanidad, ora partían\ncomo una saeta aguda que iba á buscar para clavarse en él, el punto\nmás vulnerable del contrario, su amor propio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

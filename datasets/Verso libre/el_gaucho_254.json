@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "223\nEra un terne de aquel pago\nque naides lo reprendía,\nque sus enriedos tenía\ncon el señor comendante;\ny como era protegido,\nandaba muy entonao,\ny a cualquier desgraciao\nlo llevaba por delante.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

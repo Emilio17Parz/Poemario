@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vuestros padres, titanes todos fueron,\nQue desplegando al viento sus banderas\nContra un poder gigante combatieron,\nY encima de las altas cordilleras\nLanzaron sobre el leon de las Españas\nDel pueblo irresistible las montañas.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

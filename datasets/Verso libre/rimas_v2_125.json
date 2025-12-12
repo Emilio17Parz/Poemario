@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mucho podria decirse sobre la influencia de la poesía en el desarrollo\nde las lenguas vivas de orígen teutónico, especialmente sobre el inglés,\nque debe á Shakespeare mucho de lo que vale; pero me limitaré á\napuntarle, que el solo Milton introdujo en el lenguaje vulgar mas de\nseiscientas palabras nuevas; y que el aleman debe á sus poetas,\nespecialmente á Lessing, á Goethe y á Schiller, la asombrosa\nflexibilidad que lo hace tan propio para espresar las ideas mas\nabstractas y vaporosas, dándoles forma y color por un proceder\ncompletamente poético.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

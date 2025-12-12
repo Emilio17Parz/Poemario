@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "En el silencio que queda entre los repiques, el hervidero interno de la\nmañana de Septiembre cobra presencia y sonido. Las avispas orinegras\nvuelan en torno de la parra cargada de sanos racimos moscateles, y las\nmariposas, que andan confundidas con las flores, parece que se ríen al\nrevolar. Es la soledad como un gran pensamiento de luz.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

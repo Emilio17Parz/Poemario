@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Que si un pastor su pífano bajo el frescor del haya,\nEn amorosos días, como en Virgilio, ensaya,\nTu nombre ponga en la canción;\nY que la virgen náyade, cuando ese nombre escuche,\nCon ansias y temores entre las linfas luche,\nLlena de miedo y de pasión.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "pastor"
+  }
+}

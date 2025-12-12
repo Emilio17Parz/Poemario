@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Va el corcel de mis versos! En sus lomos cabalgo,\ny enristrando el acero de mi acrática pluma,\ncon su hierro alanceo, como el clásico Hidalgo,\nlos fantasmas y duendes de la clásica bruma.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

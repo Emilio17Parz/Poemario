@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tú, que buscando subes,\nen alas de tu rica fantasía,\ndel Olimpo en las nubes\ntiernísima Poesía,\nmás sabrosa que néctar y ambrosía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

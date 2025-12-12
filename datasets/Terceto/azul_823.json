@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Tu verso está nutrido con sabia de la tierra;\nfulgor de Ramayanas tu viva estrofa encierra,\ny cantas en la lengua del bosque colosal.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

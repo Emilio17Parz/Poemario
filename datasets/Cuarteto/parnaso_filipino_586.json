@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Solemne y honda la mudez del campo;\ncálido el aire, el término azuloso...\nTodo vibra de gloria bajo el lampo\nde un sol que es siempre, cual Apolo, hermoso.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

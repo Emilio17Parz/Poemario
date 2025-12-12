@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y envidiando el laurel de la derrota,\nY de los libres la postrera gloria,\nFuiste á vender cual miserable ilota,\nLos hijos de la patria y la memoria.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El esfuerzo regido con cordura\nAllana al suelo las mas altas sierras,\nY la fuerza feroz de loca mano\nAspero vuelve lo que está mas llano:\nMas no hay que reprimir á lo que veo.\nLa furia del exercito presente,\nQue olvidado de gloria y de trofeo\nYace embebido en la lascivia ardiente:\nEsto solo pretendo, esto deseo\nVolver á nuevo trato á nuestra gente,\nQue enmendado primero el que es amigo,\nSujetaré mas presto al enemigo.\nMario?",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

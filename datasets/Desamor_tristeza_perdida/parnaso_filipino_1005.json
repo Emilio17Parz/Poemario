@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hélas aquí, pletóricas\nde esencia consagrada...\nYo las pongo a tus plantas con mi lira enlutada,\nen el augusto nombre del rey universal...\n¡No pierdas la esperanza!\nLa muerte, en sí, no es muerte...\n¡Es sólo una vereda que nos conduce al fuerte\nimperio donde irradia el Sol de lo inmortal...!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

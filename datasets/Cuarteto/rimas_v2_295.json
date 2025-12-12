@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "«Benditos seais, para salvar la Patria\n«Y fecundar de Mayo la simiente,\n«Para adornar con palma refulgente\n«De nuestra patria el pabellon triunfal.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

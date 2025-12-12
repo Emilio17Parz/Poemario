@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "--¡Nunca se borrará ese recuerdo de mi memoria! Ella era joven,\ncasi una niña, hermosa y pálida. Él le decía con ternura:--¿Por\nqué lloras?--Perdona este involuntario sentimiento de egoísmo--le\nrespondió ella enjugándose una lágrima;--lloro por mí. Lloro la\nvida que me huye: cuando el cielo se corona de rayos de luz, y la\ntierra se viste de verdura y de flores, y el viento trae perfumes\ny cantos de pájaros y armonías distantes, y se ama y se siente una\namada, ¡la vida es buena!--¿Y por qué no has de vivir?--insistió\nél estrechándole las manos conmovido.--Porque es imposible. Cuando\ncaigan secas esas hojas que murmuran armoniosas sobre nuestras\ncabezas, yo moriré también, y el viento llevará algún día su polvo y\nel mío ¿quién sabe adónde?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

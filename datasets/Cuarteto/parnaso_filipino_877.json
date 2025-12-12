@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Es tu voz cuando cantas dulce fuente,\narroyo fresco que en la selva umbría\nel himno de cristal de su corriente\nva entonando en suave melodía.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

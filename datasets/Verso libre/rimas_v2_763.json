@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sus ojos eran estrellas,\nSus patas unas centellas,\nQue daban chispas y luz:\nCuanto su ojo divisaba\nEn su carrera alcanzaba,\nFuese tigre ó avestruz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

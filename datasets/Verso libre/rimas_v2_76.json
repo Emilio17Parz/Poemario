@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Orfeo, que hizo parte de la espedicion de los Argonautas, cuyo viage es\ntan cierto como el de Colon, domesticó á las fieras con los blandos\nsonidos de su lira, segun cuenta la misma fábula. Aun cuando pueda\nponerse en duda este milagro y el de Anfion, ahí están sus Himnos de\nIniciacion para comprobar que antes de que hubiese prosa hubo un poeta.\nAhí están para mayor abundamiento los mitos y las poesías Índicas,\nanteriores á las leyendas y á los himnos de Orfeo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

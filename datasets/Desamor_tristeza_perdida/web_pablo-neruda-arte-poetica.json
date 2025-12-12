@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "ENTRE sombra y espacio, entre guarniciones y doncellas,\ndotado de corazón singular y sueños funestos,\nprecipitadamente pálido, marchito en la frente\ny con luto de viudo furioso por cada día de vida,\nay, para cada agua invisible que bebo soñolientamente\ny de todo sonido que acojo temblando,\ntengo la misma sed ausente y  la misma fiebre fría\nun oído que nace, una angustia indirecta,\ncomo si llegaran ladrones o fantasmas,\ny en una cáscara de extensión fija y profunda,\ncomo un camarero humillado, como una campana un poco\nronca,\ncomo un espejo viejo, como un olor de casa sola\nen la que los huéspedes entran de noche perdidamente ebrios,\ny hay un olor de ropa tirada al suelo, y una ausencia de flores\n-posiblemente de otro modo aún menos melancólico-,\npero, la verdad, de pronto, el viento que azota mi pecho,\nlas noches de substancia infinita caídas en mi dormitorio,\nel ruido de un día que arde con sacrificio\nme piden lo profético que hay en mí, con melancolía\ny un golpe de objetos que llaman sin ser respondidos\nhay, y un movimiento sin tregua, y un nombre confuso.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

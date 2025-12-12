@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando, yendo á las viñas, cruzo las últimas calles, blancas de cal con\nsol, los chiquillos gitanos, aceitosos y peludos, fuera de los harapos\nverdes, rojos y amarillos, las tensas barrigas tostadas, corren detrás\nde nosotros, chillando largamente:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

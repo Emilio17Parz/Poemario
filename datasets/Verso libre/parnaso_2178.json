@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sin dubda has acertado, Silvia mia,\nQuién es este enemigo de mi gloria?\nEs caballero, ó rustico aldeano?\nQue todo lo parece en su postura,\nY dura condicion, el talle ilustre\nDe la ciudad, la condicion del monte.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

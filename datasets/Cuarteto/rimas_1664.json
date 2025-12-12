@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Del cuerpo abandonado\nAl dulce peso hundido,\nCual si de blanda pluma y raso fuera,\nSe plegaba su lecho de granito.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

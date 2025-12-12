@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las flores son las bellas mensajeras del alma\nque saben de las glorias que dora la ilusión.\nHay pájaros sin nido, hay momentos sin calma,\nmás, sin flores no tiene palabra el corazón!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

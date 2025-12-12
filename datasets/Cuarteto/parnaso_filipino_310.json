@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Me gusta combatir. Amo la lucha.\nMe siento fuerte ante el cruel tirano,\nY al torpe que mi voz no atento escucha,\nCastigo impío con nervuda mano.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

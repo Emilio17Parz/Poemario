@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Entre los pensamientos que antes ocupaban mi imaginación y los que\naquí han engendrado la soledad y el retiro, se ha trabado una lucha\ntitánica, hasta que, por último, vencidos los primeros por el número\ny la intensidad de sus contrarios, han ido á refugiarse no sé dónde,\nporque yo los llamo y no me contestan, los busco y no parecen.\nAhora bien: lo que se siente y se piensa aquí en armonía con la\nprofunda calma y el melancólico recogimiento de estos lugares, ¿podrá\nencontrar un eco en los que viven en ese torbellino de intereses\nopuestos, de pasiones sobreexcitadas, de luchas continuas, que se\nllama la Corte?",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

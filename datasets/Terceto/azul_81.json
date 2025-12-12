@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "«Todos la contemplaron asombrados, y ella me miraba como una gata,\ny se reía, se reía como una chicuela a quien se le hiciesen\ncosquillas.»",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

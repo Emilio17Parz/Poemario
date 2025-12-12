@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Luceros de radiar inextinguible!\n¡soles que apenas los humanos ven;\nalmas, felices almas! ¿es posible\nque llegue a ser estrella yo también...?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

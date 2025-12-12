@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La brilladora luz es la alegría;\nLa temerosa sombra es el pesar:\n¡Ay! en la oscura noche de mi alma,\n¿Cuándo amanecerá?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sí, que del vate la mision sagrada\nEs inflamar del bravo el ardimiento,\nDar nuevo temple á la fulmínea espada\nCon el soplo encendido de su aliento,\nY al fúnebre clamor de la derrota,\nAlzar del libre la bandera rota.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

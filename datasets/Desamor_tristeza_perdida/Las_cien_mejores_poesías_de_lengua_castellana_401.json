@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¿Quién pensara jamás, Teresa mía,\nQue fuera eterno manantial de llanto,\nTanto inocente amor, tanta alegría,\nTantas delicias y delirio tanto?\n¿Quién pensara jamás llegase un día\nEn que perdido el celestial encanto\nY caída la venda de los ojos,\nCuanto diera placer causara enojos?",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

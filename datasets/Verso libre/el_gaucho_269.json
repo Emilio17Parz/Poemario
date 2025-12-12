@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "238\nÉl nada gana en la paz\ny es el primero en la guerra;\nno le perdonan si yerra,\nque no saben perdonar,\nporque el gaucho en esta tierra\nsólo sirve pa votar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

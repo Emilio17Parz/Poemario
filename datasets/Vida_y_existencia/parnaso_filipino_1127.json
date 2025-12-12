@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El río solitario, cruzando las malezas,\nen su áspero camino tropieza sin cesar,\ny en vez de alegres odas murmura sus tristezas:\ntal navegan los hombres de la vida en el mar.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

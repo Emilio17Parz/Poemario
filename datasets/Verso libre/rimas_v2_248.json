@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Al Sud, siete Repúblicas hermanas\nEnarbolan banderas soberanas\nEn vez del estandarte colonial,\nY al soplo tempestuoso de la guerra\nFortalecen sus astas en la tierra\nComo árbol que sacude el vendabal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

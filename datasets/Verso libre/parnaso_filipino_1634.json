@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es dulce como el arpegio de una cítara pagana;\nes suave como el aroma de un jardín cuando florece,\nténue y leve cual la brisa que murmura en la mañana\ny diciendo sus murmurios nos seduce y enloquece.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

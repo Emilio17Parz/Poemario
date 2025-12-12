@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor Poema en",
+  "poema": {
+    "texto": "La verso no tiene forma\nni medida exacta\ncrece entre los espacios\ncomo musgo en la piedra\n\nEste Amor_Poema_en es apenas\nun suspiro en el viento\nuna marca en la arena",
+    "tipo": "prosa",
+    "palabra_clave_ingresada": "verso"
+  }
+}

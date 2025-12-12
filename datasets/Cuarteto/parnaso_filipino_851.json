@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Grabad entonces sobre mi fosa\ncon letras de oro esta inscripción:\n\"Yace aquí un bardo que a toda cosa\ngrande o hermosa dio el corazón\".",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Cómo decirte que un mal metabólico\nidentifica a la antigua colonia,\nque, bajo el peso de hierro simbólico,\nnuestro terruño nos es Babilonia!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

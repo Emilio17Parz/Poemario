@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Duerme, duerme, dueño mío,\nsin zozobra, sin temor,\naunque no se duerma mi alma,\naunque no descanse yo.\nDuerme, duerme y en la noche\nseas tú menos rumor\nque la hoja de la hierba,\nque la seda del vellón.\nDuerma en ti la carne mía,\nmi zozobra, mi temblor.\nEn ti ciérrense mis ojos:\n¡duerma en ti mi corazón!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

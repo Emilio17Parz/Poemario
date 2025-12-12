@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Á la luz del farolillo, cuya dudosa claridad se perdía entre las\nespesas sombras de las naves y dibujaba con gigantescas proporciones\nsobre el muro la fantástica sombra del sargento aposentador que iba\nprecediéndole, recorrió la iglesia de arriba abajo y escudriñó una por\nuna todas sus desiertas capillas, hasta que una vez hecho cargo del\nlocal, mandó echar pie á tierra á su gente, y hombres y caballos\nrevueltos, fué acomodándola como mejor pudo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

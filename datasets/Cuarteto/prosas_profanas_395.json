@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Un joven fauno robusto y violento,\nDulce terror de las ninfas incautas,\nAl son triunfante que lanzan al viento\nTímpanos, liras y sistros y flautas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

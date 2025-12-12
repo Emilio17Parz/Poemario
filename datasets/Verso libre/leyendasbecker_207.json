@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "The vowels may be divided into strong vowels (a, e, o) and weak vowels\n(i, u). For purposes of versification y as a vowel may be treated as\ni. The five vowels (a, e, o, i, u) taken in pairs may form diphthongs\nin twenty-five possible combinations, as follows:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

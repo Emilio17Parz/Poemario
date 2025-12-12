@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Qué alborozo en el jardín! Los niños saltaban, tocando las palmas,\narrebolados y rientes como auroras; Diana, loca, los seguía, ladrándole\ná su propia y riente campanilla; Platero, contagiado, en un oleaje de\ncarnes de plata, igual que un chivillo, hacía corvetas, giraba sobre sus\npatas, en un vals tosco, y, poniéndose en las manos, daba coces al aire\nclaro y tibio...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

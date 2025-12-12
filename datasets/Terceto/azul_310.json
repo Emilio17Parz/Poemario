@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Cantemos el oro, río caudaloso, fuente de la vida, que hace jóvenes y\nbellos a los que se bañan en sus corrientes maravillosas, y envejece a\naquellos que no gozan de sus raudales.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

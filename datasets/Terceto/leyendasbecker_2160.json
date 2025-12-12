@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "año, _m._, year; el -- que viene, next year; allá por los --s de mil\ntrescientos y pico, back there in the year thirteen hundred and\nsomething.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

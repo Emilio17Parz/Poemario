@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Jamás el hombre aleve podrá borrar la estela\nque tus sencillas naves dejaron en el mar;\nel genio de la historia por tu recuerdo vela\ny tu glorioso nombre los siglos guardarán.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

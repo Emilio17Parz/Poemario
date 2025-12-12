@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¿Por qué volvéis a la memoria mía,\nTristes recuerdos del placer perdido,\nA aumentar la ansiedad y la agonía\nDe este desierto corazón herido?\n¡Ay! que de aquellas horas de alegría\nLe quedó al corazón solo un gemido,\nY el llanto que al dolor los ojos niegan\nLágrimas son de hiel que el alma anegan.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

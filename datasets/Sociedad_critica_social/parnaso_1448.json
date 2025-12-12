@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Nunca, Marquino, hiciera\nDesatino tan estraño,\nSi nuestro futuro daño\nComo presente no viera:\nAvisemos este caso\nAl pueblo, que está mortal;\nMas para dar nueva tal\nQuién podrá mover el paso?",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

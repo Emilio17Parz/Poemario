@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Oh patria! como esclava suspiras en cadenas,\nCubiertas de cadalzos tus calles enlutadas,\nMarchitos tus laureles, tus glorias mancilladas,\nAjada tu bandera de gloria y esplendor;\nTu seno profanado por déspota cobarde\nQue duerme resguardado de míseros esclavos,\nQue en su calvario triste remachan férreos clavos\nAl pueblo generoso que en Mayo se elevó.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

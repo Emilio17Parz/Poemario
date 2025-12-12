@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cementerio de solitarios.",
+  "poema": {
+    "texto": "En el jardín de la soledad, vistosos monumentos,\nSe erguen en orgullo, un panteón lleno de prontuarios.\nLos árboles de llanto miran con vergüenza a la multitud,\nY la tierra enterrada se burla del desafortunado.\n\nAquí residen los solitarios que fueron vencidos por el amor,\nO por el egoísmo y la codicia, aquellos sin corazón ni valor.\nEstán enterrados en este cementerio de infelices,\nEn una prisión eterna, donde no hay posibilidad de escapes.\n\nMientras que vivían en esta tierra, nadie les miró a los ojos,\nAhora que se encuentran muertos, no hay quien les ponga flores.\nPor fin descansan en la tranquilidad eterna,\nY mientras duerman sus sueños sonados, son los últimos en ser recordados.",
+    "tipo": "Verso_libre",
+    "palabra_clave_ingresada": "solitario"
+  }
+}

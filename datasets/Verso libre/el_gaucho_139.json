@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "112\nAnsí pasaron los meses,\ny vino el año siguiente,\ny las cosas igualmente\nsiguieron del mesmo modo:\nadrede parece todo\npa atormentar a la gente.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

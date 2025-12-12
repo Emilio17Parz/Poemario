@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sones de bandolín. El rojo vino\nConduce un paje rojo. ¿Amas los sones\nDel bandolín, y un amor florentino?\nSerás la reina en los decamerones.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

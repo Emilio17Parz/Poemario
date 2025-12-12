@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ven entonces los guerreros\nde enemigos nube inmensa,\nllenando apiñada masa\ntoda la tendida cuesta\ndesde donde acaba el llano\nhasta donde el bosque empieza.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Para hacer resaltar este carácter especial de sus poesías, han sido\nclasificadas bajo un órden metódico, dividiéndolas en cinco libros y\nagrupándolas por séries segun sus afinidades.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

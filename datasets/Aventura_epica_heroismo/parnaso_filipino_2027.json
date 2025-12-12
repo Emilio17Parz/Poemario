@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El mar llora sus perlas; las nubes sus fluídos;\nllora la tierra gemas de ardiente claridad,\ny llora el firmamento luceros desprendidos,\ny llora entre sus risas también la humanidad.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

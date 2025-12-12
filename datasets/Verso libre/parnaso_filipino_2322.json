@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "ENRIQUE FERNÁNDEZ LUMBA\nLa mujer                                         95\nMientras dicen...                                96\nA Plaridel                                       97\nA Magallanes                                     98\nLas tres banderas                                99\n¿Qué más decir?                                 101",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

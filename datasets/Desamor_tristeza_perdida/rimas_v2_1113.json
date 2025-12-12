@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Antes de cerrar sus ojos\nY dar el último aliento,\nCon blando y lloroso acento\nA su lado me llamó:\nSu bello rostro cubría\nLa palidez de la muerte,\nY con mano casi inerte\nDos pensamientos me dió.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Poetas se hallarán capaces de medirse con los consagrados nuestros:\ntales Guerrero y Apóstol. Rizal, Bernabé, Recto, Palma, Balmori, Pérez\nTuells, Victoriano, Torres, Marfori, muéstranse también versificadores\nde inspiración y enjundia, sin desdeñar a los otros, ni a ninguno,\ncomo explícitamente demuestra la recolección de su cosecha pimplea.\nPero no queremos trocar en índice lo que es prólogo. Además, bueno es\ndejar un margen al leyente para que, con su propia solercia, espigue\nen el FLORILEGIO lo bello y lo galano.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

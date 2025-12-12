@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Alma de luz, de sol y de armonía,\nque en medio de este siglo de odio fiero,\ndescuellas indicando un derrotero\na la soberbia humanidad del día;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Son cual la luz bendita\nDe la columna ardiente\nDel pueblo Israelita;\nLa estrella reluciente\nCuyos reflejos vagos,\nA los tres Reyes Magos\nCondujo hasta el Señor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

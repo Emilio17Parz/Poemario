@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los álamos, cuyas plateadas hojas movía el aire con un rumor\ndulcísimo, los sauces que inclinados sobre la limpia corriente\nhumedecían en ella las puntas de sus desmayadas ramas, y los apretados\ncarrascales por cuyos troncos subían y se enredaban las madreselvas y\nlas campanillas azules, formaban un espeso muro de follaje alrededor\ndel remanso del río.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

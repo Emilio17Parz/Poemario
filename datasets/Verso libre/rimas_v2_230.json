@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Salve, página inmensa de la historia,\nDivino resplandor de la memoria,\nFuente de perennal inspiracion!\nEn tus alas de fuego me sublimas,\nY al entusiasmo sacro en que me animas\nCalientas mi cabeza y corazon.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

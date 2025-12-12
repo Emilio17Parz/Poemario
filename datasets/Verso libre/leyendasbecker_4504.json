@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "más, _adv._, more, most; -- bien, rather; á -- andar, at full speed; á\n-- de, besides; á -- y mejor, the best they could; the most possible;\nvying with one another; mientras --...--, the more .., the more; en lo\n-- mínimo, in the least; lo -- posible, as much as possible; -- que,\nmore than, other than, except, but; no -- que, no more than, no other\nthan; only; no -- (_for_ no -- que), only; por -- que, however much;\nespecially since; although; que no haya -- que oir, that nothing else\ncan be heard; -- que de prisa (_lit._, more than rapidly), as rapidly\nas possible; sobre -- ó menos, more or less; approximately, nearly,\nabout.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

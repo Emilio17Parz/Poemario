@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Valiente Numantino, sino apocas\nCon el miedo tus bravas fuerzas duras,\nToma esa espada, y matate conmigo\nAnsi como si fuese tu enemigo,\nQue esta manera de morir me aplace\nEn este trance mas que no otra alguna.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

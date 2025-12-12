@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Nobles aventureros, que puesta la lanza en la cuja, caída la visera\ndel casco y jinetes sobre un corcel poderoso, recorréis la tierra sin\nmás patrimonio que vuestro nombre clarísimo y vuestro montante,\nbuscando honra y prez en la profesión de las armas; si al atravesar el\nquebrado valle de Montagut [Foonote: 1] os han sorprendido en él la\ntormenta y la noche, y habéis encontrado un refugio en las ruinas del\nmonasterio que aún se ve en su fondo, oidme.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Durante una ó dos horas, en las calles inmediatas á estos puntos reinó\nun bullicio, una animación y un movimiento indescriptibles. Por todas\npartes se veían cruzar escuderos caracoleando en sus corceles\nricamente enjaezados; reyes de armas con lujosas casullas llenas de\nescudos y blasones: timbaleros vestidos de colores vistosos, soldados\ncubiertos de armaduras resplandecientes, pajes con capotillos de\nterciopelo y birretes coronados de plumas, y servidores de á pie que\nprecedían las lujosas literas y las andas cubiertas de ricos paños,\nllevando en sus manos grandes hachas encendidas, á cuyo rojizo\nresplandor podía verse á la multitud, que con cara atónita, labios\nentreabiertos y ojos espantados, miraba desfilar con asombro á todo lo\nmejor de la nobleza castellana, rodeada en aquella ocasión de un\nfausto y un esplendor fabulosos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

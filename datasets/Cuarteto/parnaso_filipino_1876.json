@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En la epopeya de la patria esclava,\nfuíste fuerza motriz, luz refulgente,\nformidable turbión, tempestad brava,\nque hízonos respirar el libre ambiente.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

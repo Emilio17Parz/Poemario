@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--No ha vuelto á aparecer desde que colocaron el que ahora le\nsustituye. Si á alguno de mis lectores se le ocurriese hacerme la\nmisma pregunta, después de leer esta historia, ya sabe el por qué no\nse ha continuado el milagroso portento hasta nuestros días.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

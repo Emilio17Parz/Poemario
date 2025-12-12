@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nuestras vidas son los ríos\nQue van a dar en la mar,\nQue es el morir;\nAllí van los señoríos\nDerechos a se acabar\nY consumir;\nAllí los ríos caudales,\nAllí los otros medianos\nY más chicos;\nAllegados, son iguales\nLos que viven por sus manos\nY los ricos.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Á dónde vas?--Voy á salvar al mundo\nPropagando de Dios la ley de amor.\n--Apóstol, tu labor será infecundo,\nVen al festin, y enjuga tu sudor.\n--No, no: yo voy á emancipar el mundo\nDe Dios, siguiendo santa ley de amor.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "Sus gritos y sus canciones.\nSus comparsas y sus trajes\nSus perlas, tintes y encajes\ny pompones.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos rima abba"
+  }
+}

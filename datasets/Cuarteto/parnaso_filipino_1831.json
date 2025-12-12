@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Me has herido a traición. En emboscada\nmiserable y ruín me has acechado,\ny en pleno corazón me has asestado\nsin compasión, amor, tu puñalada.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

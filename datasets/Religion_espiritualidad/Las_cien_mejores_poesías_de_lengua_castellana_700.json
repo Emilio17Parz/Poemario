@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Padres míos, mi amor! Cuando contemplo\nLa sublime bondad de vuestro rostro,\nMi alma a los trances de la vida templo,\nY ante esa imagen para orar me postro,\nCual me postro en el templo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

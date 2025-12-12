@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Vé, viajero, prosigue tu senda,\nextranjero en tu propio país;\ndeja a otros que canten amores;\nlos otros que gocen; tú vuelve a partir.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

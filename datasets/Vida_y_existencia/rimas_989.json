@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En Sevilla y en mitad del camino que se dirige al convento de\nSan Jerónimo desde la puerta de la Macarena, hay, entre otros\nventorrillos célebres, uno que, por el lugar en que está colocado\ny las circunstancias especiales que en él concurren, puede decirse\nque era, si ya no lo es, el más _neto_ y característico de todos los\nventorrillos andaluces.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

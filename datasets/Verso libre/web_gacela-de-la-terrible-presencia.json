@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Yo quiero que el agua se quede sin cauce.\nYo quiero que el viento se quede sin valles.\nQuiero que la noche se quede sin ojos\ny mi corazón sin la flor del oro.\nQue los bueyes hablen con las grandes hojas\ny que la lombriz se muera de sombra.\nQue brillen los dientes de la calavera\ny los amarillos inunden la seda.\nPuedo ver el duelo de la noche herida\nluchando enroscada con el mediodía.\nResisto un ocaso de verde veneno\ny los arcos rotos donde sufre el tiempo.\nPero no me enseñes tu limpio desnudo\ncomo un negro cactus abierto en los juncos.\nDéjame en un ansia de oscuros planetas,\n¡pero no me enseñes tu cintura fresca!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

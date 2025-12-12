@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Me enamoran los lances del combate\ny abandono a la mar mi fuerte quilla,\nbuscando, como el nauta de Castilla,\ntierra que ante mis ojos se dilate.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

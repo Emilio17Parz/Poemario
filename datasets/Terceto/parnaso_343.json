@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Vimos desde alli á poco el mas famoso\nMonte que encierra en sí nuestro emisfero,\nMas gallardo á la vista y mas hermoso.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

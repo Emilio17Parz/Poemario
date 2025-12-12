@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El remedio que en esto se me ofrece,\nEs advertir á Aurelio que no diga\nAl Rey que es caballero, sino un pobre\nSoldado que iba á Italia, y que esta Silvia\nEs su muger, y si esto el Rey resiste,\nNo querra por el tanto que costaron,\nQuitartelos, que el precio es muy subido.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

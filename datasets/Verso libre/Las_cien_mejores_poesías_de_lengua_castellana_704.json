@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La historia de los tiempos sin ventura\nEn que luchasteis con la adversa suerte,\nY en que, tras negras horas de amargura,\nMi madre se sintió más noble y pura\nY mi padre más fuerte.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

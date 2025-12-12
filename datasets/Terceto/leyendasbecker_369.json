@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "_Pentasyllabic Verse_: A verse of five syllables must have an accent\non the fourth. It may or may not have a supernumerary accent on the\nfirst or second syllable.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

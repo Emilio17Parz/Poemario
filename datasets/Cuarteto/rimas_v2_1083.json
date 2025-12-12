@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ven á mis manos, armoniosa lira:\nQuiero cantar la gracia y la belleza,\nQue el entusiasmo que arde en mi cabeza\nManda que cante á la beldad que inspira.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

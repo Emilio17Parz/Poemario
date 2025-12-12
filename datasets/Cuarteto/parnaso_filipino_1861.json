@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Así, al brillar el sol del nuevo día,\ny al ondear la enseña soberana,\npodrás cantar ante la tumba ignota\nde los caídos en la noche aciaga:",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sueños de mi niñez: sueños floridos,\nque el dolorido corazón añora;\nsueños de juventud, sueños de aurora,\nde clara luz y de ilusión vestidos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

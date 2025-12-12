@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La abadesa, murmurando algunas palabras ininteligibles, palabras que\ná su vez repetían los sacerdotes con voz sorda y profunda, le arrancó\nde las sienes la corona de flores que las ceñía y la arrojó lejos de\nsí... ¡Pobres flores! Eran las últimas que había de ponerse aquella\nmujer, hermana de las flores como todas las mujeres.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

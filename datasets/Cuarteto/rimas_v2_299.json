@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "«Himnos sin cuento os rendiran los vates,\n«Párvulos tiernos, santas bendiciones,\n«Casta doncella, puras emociones,\n«Y admiracion la noble ancianidad.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

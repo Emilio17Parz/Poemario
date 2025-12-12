@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y te amo mas que á las hermosas flores\nCuyo grato perfume nos embriaga,\nMas que á la brisa que la frente halaga\nDel estío en los cálidos rigores.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

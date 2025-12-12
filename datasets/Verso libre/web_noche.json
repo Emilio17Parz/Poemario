@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cirio, candil,\nfarol y luciérnaga.\nLa constelación\nde la saeta.\nVentanitas de oro\ntiemblan,\ny en la aurora se mecen\ncruces superpuestas.\nCirio, candil,\nfarol y luciérnaga.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

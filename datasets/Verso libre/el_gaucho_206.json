@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "177\nNo es raro que a uno le falte\nlo que a algún otro le sobre\nsi no le quedó ni un cobre\nsino de hijos un enjambre.\nQue más iba a hacer la pobre\npara no morirse de hambre?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

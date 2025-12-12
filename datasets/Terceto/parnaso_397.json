@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Por el monte se arroja, y á pie viene\nApolo á recebirnos. Yo lo creo,\nDixo Lofraso, ya llega á la Hipocrene.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

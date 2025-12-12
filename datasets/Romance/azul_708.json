@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Mira: en tus ojos los míos:\nda al viento la cabellera,\ny que bañe el sol ese aro\nde luz salvaje y espléndida.\nDame que aprieten mis manos\nlas tuyas de rosa y seda,\ny ríe, y muestren tus labios\nsu púrpura húmeda y fresca.\nYo voy a decirte rimas,\ntú vas a escuchar risueña;\nsi acaso algún ruiseñor\nviniese a posarse cerca\ny a contar alguna historia\nde ninfa, rosas o estrellas,\ntú no oirás notas ni trinos,\nsino enamorada y regia,\nescucharás mis canciones\nfija en mis labios que tiemblan.\n¡Oh, amada mía! Es el dulce\ntiempo de la primavera.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ea')"
+  }
+}

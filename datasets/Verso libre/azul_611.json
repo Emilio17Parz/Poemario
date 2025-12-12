@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Vése la dama de pies a cabeza, entre dos grandes espejos; calcula el\nefecto de la mirada, del andar, de la sonrisa, del vello casi impalpable\nque agitara el viento de la danza en su nuca fragante y sonrosada. Y\npiensa, y suspira; y flota aquel suspiro en ese aire impregnado de aroma\nfemenino que hay en un tocador de mujer.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

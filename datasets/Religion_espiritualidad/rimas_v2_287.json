@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Grande, entre los gigantes de aquel Mayo\nQue robaron á Dios su ardiente rayo\nPara decir al pueblo: _Fiat Lux_,\nHoy miró su postrer aniversario,\nSirviéndole de espléndido sudario\nDe la ciudad el estandarte azul.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

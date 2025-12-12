@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--He sufrido mucho en silencio. Creyéndome juguete de una vana\nfantasía, hasta ahora he callado por vergüenza; pero no, no es\nilusión lo que me sucede.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

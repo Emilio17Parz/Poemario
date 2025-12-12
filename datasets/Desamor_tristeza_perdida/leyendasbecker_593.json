@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dijo Fernando estas palabras con tal acento, que la lágrima que\ntemblaba en los párpados de Iñigo se resbaló silenciosa por su\nmejilla, mientras exclamó con acento sombrío: ¡Cúmplase la voluntad\ndel cielo!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

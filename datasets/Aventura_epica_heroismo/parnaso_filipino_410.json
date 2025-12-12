@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mas, ¡no es la espada omnipotente sólo\nla que al brillar del uno al otro polo,\nobró cien maravillas en el llano;\nes la esencia vital de las Españas,\nque al invadir palacios y cabañas,\nprestó eficacia al ideal cristiano.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

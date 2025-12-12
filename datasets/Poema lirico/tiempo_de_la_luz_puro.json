@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Tiempo de la luz puro",
+  "poema": {
+    "texto": "En los labios de la aurora, respira un susurro mudo,\nUn grito amoroso, un llamado a la tierra profunda.\nEl cielo se abre como una boca que besa la noche,\nY sus estrellas brillan como el corazón de la luz pura.\n\nEn mi alma resuenan huellas de un tiempo perdido,\nRecuerdos amargos como las lágrimas de una nube.\nPero en este momento, bajo esta luz sagrada,\nTodo el dolor se olvida y las sombras desaparecen.\n\nSoy un árbol sin raíces que crece al abrigo del cielo,\nUn pájaro sin hogar que canta a la aurora,\nUna flor sin sol que se abre a los rayos de luz,\nY en ese instante comprendo mi propósito:\n\nSer un testigo de este milagro,\nEn el tiempo de la luz pura.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Tiempo"
+  }
+}

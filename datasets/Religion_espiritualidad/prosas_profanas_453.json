@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Al redor de la figura del gigante se oye el vuelo\nMisterioso y fugitivo de las almas que se van,\ny el ruido con que pasa por la bóveda del cielo\nCon sus alas membranosas el murciélago Satán.\nSan Silvestre bajo el palio de un zodiaco de virtudes,\nDel celeste Vaticano se detiene en los umbrales\nMientras himnos y motetes canta un coro de laudes\nInmortales.\nReza el santo y pontifica; y al mirar que viene el barco\nDonde en triunfo llega Enero,\nAnte Dios bendice al mundo; y su brazo abarca el arco\ny el Arquero.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

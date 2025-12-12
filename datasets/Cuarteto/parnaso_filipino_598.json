@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Eso es soñar triunfando de la pena\ny mover con la fe hasta las montañas.\n¡Oh, dejadme soñar en mi hada buena\na la sombra piadosa de las cañas...!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

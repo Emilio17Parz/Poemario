@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "La aurora\nvino después. La aurora sonreía,\ncon la luz en la frente,\ncomo la joven tímida\nque abre la reja, y la sorprenden luego\nciertas curiosas, mágicas pupilas.\nY dije:--Más...--Sonriendo\nla celeste hada amiga\nprorrumpió:--¡Y bien! ¡Las flores!",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ia')"
+  }
+}

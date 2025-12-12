@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Los insensatos, en cambio, no se aquietan con el goce del mundo,\nhermoseado por la industria e inventiva humanas, ni con lo que se sabe,\nni con lo que se fabrica, y anhelan averiguar y gozar más.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todos guardamos silencio, hasta que, transcurrido el primer momento de\nestupor, le proclamamos á grandes voces nuestro capitán, ofreciéndole\nuna copa de nuestro vino, la cual rehusó por señas, acaso por no\ndescubrirse la faz, que en vano procuramos distinguir á través de las\nrejillas de hierro que la ocultaban á nuestros ojos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y al pié del mústio sepulcro\nDe la cándida María,\nMis ojos vieron un dia\nDos pensamientos brotar,\nY luego ví el huracan\nLlegar con vuelo violento,\nDeshojar un pensamiento...\nY uno tan solo dejar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

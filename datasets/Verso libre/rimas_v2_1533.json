@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No hay uno solo de los jóvenes poetas que hoy escriben, que no haya\nbebido alguna inspiracion en el Canto del Cisne que don Juan Cruz Varela\ndedicó á Mayo poco antes de morir. Por mi parte, al escribir estos\nversos he tenido muy presente la siguiente estrofa, que pertenece á ese\ncanto:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "121\nSacaron unos sus prendas,\nque las tenían empeñadas;\npor sus deudas atrasadas\ndieron otros el dinero;\nal fin de fiesta el pulpero\nse quedó con la mascada.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

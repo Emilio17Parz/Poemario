@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Los ojos de las reinas fabulosas,\nDe las reinas magníficas y fuertes,\nTenían las pupilas tenebrosas\nQue daban los amores y las muertes.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

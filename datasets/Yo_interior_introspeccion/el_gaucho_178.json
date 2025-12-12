@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "150\nNo hacen más que dar trabajo,\npues no saben ni ensillar;\nno sirven ni pa carniar:\ny yo he visto muchas veces\nque ni voltiadas las reses\nse les querían arrimar.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

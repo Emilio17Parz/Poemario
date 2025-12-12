@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El es mi fiel amigo que nunca me desdora,\nque siempre alienta al alma cuando triste la vé;\nque en mis noches de insomnio conmigo vela y ora;\nconmigo en mi destierro y en mi cabaña mora,\ny cuando todos dudan sólo él me infunde fé.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

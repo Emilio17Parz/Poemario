@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Quiero de la brisa el blando murmurio\nen campos y valles plácido escuchar,\ny de la sibila el feliz augurio\nde glorias y triunfos de mi patrio lar.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

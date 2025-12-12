@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "48\nAnsí empezaron mis males\nlo mesmo que los de tantos;\nsi gustan... en otros cantos\nles diré lo que he sufrido,\ndespués que uno está... perdido\nno lo salvan ni los santos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

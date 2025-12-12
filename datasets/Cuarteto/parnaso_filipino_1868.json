@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Para alegrarme en la hórrida cruzada\nque libro, redimiendo mi inocencia,\nme basta con mirar la cumbre ansiada\ny contemplar sin manchas mi conciencia.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y ha de surgir en el futuro ignoto,\nllevado a plenitud por el destino,\ncomo la flor del legendario loco,\ncomo el cofre del Padre Florentino;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

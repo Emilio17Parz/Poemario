@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Embajador de madre Hispania: alzo la copa\na lo alto del Ensueño por la salud de Europa,\nla Europa uncida al yugo del hado militar\nbautizada con sangre por aire, tierra y mar,\nla Europa que há rencores de hermanos entre hermanos\npero jamás de bardos indios y castellanos,\nporque es la onda que corre por la arteria del verso\npiélago de armonías que baña el Universo.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

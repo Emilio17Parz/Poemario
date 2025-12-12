@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Estas poesías, reunidas por la primera vez en un volúmen, se publicaron\nen Buenos Aires en 1854, precisamente por la imprenta en que hoy se da\nesta nueva edicion, siendo su editor el mismo que firma esta\nadvertencia.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "mismo"
+  }
+}

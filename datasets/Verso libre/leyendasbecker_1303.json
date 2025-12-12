@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Nadie osaba tocarle; pero corrían mil fábulas acerca de aquel objeto,\ncausa incesante de hablillas y terrores para los que le miraban\nllamear durante el dia, herido por la luz del sol, ó creían percibir\nen las altas horas de la noche el metálico son de sus piezas, que\nchocaban entre sí cuando las movía el viento, con un gemido prolongado\ny triste.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

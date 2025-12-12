@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Después de cuatro siglos aun tu gloria existe\naun recuerda el pueblo tu hazaña singular,\nque el tiempo ni los hombres la sangre que vertiste\nborrar no pueden ellos del suelo de Mactán.\n.............................................\n¡Oh, insigne Magallanes, bendita tu memoria!\n¡Bendito aquel instante cuando cruzaste el mar,\ntrayendo a estas regiones un nombre y una historia,\ny con la cruz de Cristo la luz de la verdad!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Estaban los dos, la amada y el amado, en un banco rústico, bajo el toldo\ndel sauce. Al frente se extendía la laguna tranquila, con su puente\nenarcado y los árboles temblorosos de la ribera; y más allá se alzaba\nentre el verdor de las hojas, la fachada del palacio de la Exposición,\ncon sus cóndores de bronce en actitud de volar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

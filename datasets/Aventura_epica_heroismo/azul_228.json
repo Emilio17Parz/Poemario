@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Allá lejos, en la línea como trazada con un lápiz azul, que separa las\naguas y los cielos, se iba hundiendo el sol, con sus polvos de oro y sus\ntorbellinos de chispas purpuradas, como un gran disco de hierro cadente.\nYa el muelle fiscal iba quedando en quietud; los guardas pasaban de un\npunto a otro, las gorras metidas hasta las cejas, dando aquí y allá sus\nvistazos. Inmóvil el enorme brazo de los pescantes, los jornaleros se\nencaminaban a las casas. El agua murmuraba debajo del muelle, y el\nhúmedo viento salado, que sopla de mar afuera a la hora en que la noche\nsube, mantenía las lanchas cercanas en un continuo cabeceo.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

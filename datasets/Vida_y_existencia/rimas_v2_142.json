@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "He terminado, pues, y sin embargo, apenas he desflorado el vasto campo\nde mi tésis. Podrian escribirse sobre ella muchos volúmenes, gastando\ntantas plumas de diamante, cuantas yo he gastado de acero en esta carta.\nDejo á otros esa agradable tarea. A mí me falta tiempo para ser\nliterato, así como me ha faltado para ser poeta, si es que hubiese\npodido serlo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

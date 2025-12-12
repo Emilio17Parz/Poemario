@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pero al volver los ojos á tu patria\nEra tu pecho de esperanza un mar,\nQue al través de la niebla de los siglos\nEl porvenir quería iluminar,\nMirándola ceñida con la oliva\nBrindar al mundo el néctar de la paz,\nDerramando el bautismo de la ciencia\nY alzando las virtudes del hogar,\nEnsalzando del hombre los derechos,\nY tributando culto á la verdad.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

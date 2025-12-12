@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No es ya contra la razon,\nSiendo tú tan buen soldado,\nAndar tan enamorado\nEn esta estrecha ocasion?\nAl tiempo que del dios Marte\nHas de pedir el furor,\nTe entretienes con amor,\nQue mil blanduras reparte?\nVes la patria consumida,\nY de enemigos cercada,\nY tu memoria turbada\nPor amor de ella se olvida?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

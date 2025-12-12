@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Por eso cuando leo las Historias,\nreyes, emperadores y magnates,\nse me figuran turba de bandidos\ncruel y sanguinaria y miserable!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

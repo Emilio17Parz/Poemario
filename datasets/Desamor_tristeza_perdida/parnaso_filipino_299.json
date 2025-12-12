@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mas, ¡nada!, esta ilusión, fugaz, ligera,\nsólo es vana esperanza\nque aumenta mi dolor y mi agonía\nque me roba la calma,\ny arranca de mis ojos melancólicos,\nsinceras, fugitivas, muchas lágrimas.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

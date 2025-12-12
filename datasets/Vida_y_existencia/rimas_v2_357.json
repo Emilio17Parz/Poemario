@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sordo fragor en sus entrañas ruge\nAl despeñarse el agua del torrente,\nCual si arrastrase en rápida corriente\nDe un mundo el esqueleto colosal.\nY allá en su cima los eternos hielos\nBrillan como el almete de un guerrero,\nCuando cubierto de fulmineo acero\nSe vé atrevido su creston ondear.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

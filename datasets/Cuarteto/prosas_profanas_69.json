@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tiene azules ojos, es maligna y bella;\nCuando mira vierte viva luz extraña;\nSe asoma a sus húmedas pupilas de estrella\nEl alma del rubio cristal de Champaña.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

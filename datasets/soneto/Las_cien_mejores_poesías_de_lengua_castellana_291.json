@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Ya formidable y espantoso suena\nDentro del corazón el postrer día,\nY la última hora, negra y fría,\nSe acerca, de temor y sombras llena.\nSi agradable descanso, paz serena,\nLa muerte en traje de dolor envía,\nSeñas da su desdén de cortesía:\nMás tiene de caricia que de pena.\n¿Qué pretende el temor desacordado\nDe la que a rescatar piadosa viene\nEspíritu en miserias añudado?\nLlegue rogada, pues mi bien previene;\nHálleme agradecido, no asustado;\nMi vida acabe y mi vivir ordene.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "En una anchurosa cuadra\nDel alcázar de Toledo,\nCuyas paredes adornan\nRicos tapices flamencos,\nAl lado de una gran mesa,\nQue cubre de terciopelo\nNapolitano tapete\nCon borlones de oro y flecos;\nAnte un sillón de respaldo\nQue entre bordado arabesco\nLos timbres de España ostentan\nY el águila del imperio,\nDe pie estaba Carlos Quinto,\nQue en España era primero,\nCon gallardo y noble talle,\nCon noble y tranquilo aspecto.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'eo')"
+  }
+}

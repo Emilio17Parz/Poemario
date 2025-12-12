@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El cuento es muy sencillo\nusted nace\ncontempla atribulado\nel rojo azul del cielo\nel pájaro que emigra\nel torpe escarabajo\nque su zapato aplastará\nvaliente\nusted sufre\nreclama por comida\ny por costumbre\npor obligación\nllora limpio de culpas\nextenuado\nhasta que el sueño lo descalifica\nusted ama\nse transfigura y ama\npor una eternidad tan provisoria\nque hasta el orgullo se le vuelve tierno\ny el corazón profético\nse convierte en escombros\nusted aprende\ny usa lo aprendido\npara volverse lentamente sabio\npara saber que al fin el mundo es esto\nen su mejor momento una nostalgia\nen su peor momento un desamparo\ny siempre siempre\nun lío\nentonces\nusted muere.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

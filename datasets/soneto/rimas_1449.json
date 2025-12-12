@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Voy contra mi interés al confesarlo;\nPero yo, amada mía,\nPienso, cual tú, que una oda sólo es buena\nDe un billete del Banco al dorso escrita.\nNo faltará algún necio que al oirlo\nSe haga cruces y diga:\n«Mujer al fin del siglo diez y nueve,\nMaterial y prosaica...» ¡Bobería!\n¡Voces que hacen correr cuatro poetas\nQue en invierno se embozan con la lira!\n¡Ladridos de los perros á la luna!\nTú sabes y yo sé que en esta vida,\nCon genio, es muy contado quien la _escribe_;\nY con oro, cualquiera _hace_ poesía.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

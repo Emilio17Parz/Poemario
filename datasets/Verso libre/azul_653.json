@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aquella mañana, cuando entró, vió que estaba su dulce Suzette,\nsoñolienta y tendida, cerca de un tazón de rosas que sostenía un\ntrípode. ¿Era la Bella del bosque durmiente? Medio dormida, el delicado\ncuerpo modelado bajo una bata blanca, la cabellera castaña apelotonada\nsobre uno de los hombros, toda ella exhalando un suave olor femenino,\nera como una deliciosa figura de los amables cuentos que empiezan: «Este\nera un rey...»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

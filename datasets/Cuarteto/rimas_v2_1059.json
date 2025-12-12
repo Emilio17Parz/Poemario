@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No te diré si tu alma resplandece\nComo diamante en urna de cristal,\nNi si tu seno blando se estremece\nComo la niebla al soplo matinal.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

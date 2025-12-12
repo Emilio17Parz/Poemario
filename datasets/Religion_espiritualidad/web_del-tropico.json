@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Qué alegre y fresca la mañanita!\nMe agarra el aire por la nariz:\nlos perros ladran, un chico grita\ny una muchacha gorda y bonita,\njunto a una piedra, muele maíz.\nUn mozo trae por un sendero\nsus herramientas y su morral:\notro con caites y sin sombrero\nbusca una vaca con su ternero\npara ordeñarla junto al corral.\nSonriendo a veces a la muchacha,\nque de la piedra pasa al fogón,\nun sabanero de buena facha,\ncasi en cuclillas afila el hacha\nsobre una orilla del mollejón.\nPor las colinas la luz se pierde\nbajo el cielo claro y sin fin;\nahí el ganado las hojas muerde,\ny hay en los tallos del pasto verde,\nescarabajos de oro y carmín.\nSonando un cuerno corvo y sonoro,\npasa un vaquero, y a plena luz\nvienen las vacas y un blanco toro,\ncon unas manchas color de oro\npor la barriga y en el testuz.\nY la patrona, bate que bate,\nme regocija con la ilusión\nde una gran taza de chocolate,\nque ha de pasarme por el gaznate\ncon la tostada y el requesón.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No eres la fuente de perenne gloria\nque dignifica el corazón humano\ny engrandece esta vida transitoria.\nNo el ángel vengador que con su mano\nimprime en las espaldas del tirano\nel hierro enrojecido de la historia.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

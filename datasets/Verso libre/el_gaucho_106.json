@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "80\nAllí sí, se ven desgracias\ny lágrimas y afliciones;\nnaides le pida perdones\nal indio: pues donde dentra,\nroba y mata cuanto encuentra\ny quema las poblaciones.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

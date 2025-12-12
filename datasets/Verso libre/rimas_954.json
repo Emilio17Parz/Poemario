@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Y las mariposas blancas y las libélulas azules, que giran por\nel aire en extraños círculos, se paraban un momento en nuestros\ndentellados bordes á contarse los secretos de ese misterioso amor\nque dura un instante y les consume la vida.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

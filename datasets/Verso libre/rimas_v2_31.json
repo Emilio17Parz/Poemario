@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aun cuando el señor Mitre no ha hecho profesion de poeta, como él mismo\nlo ha dicho, y dejó de escribir versos muy temprano, como todos sus\ncontemporáneos, Mármol, Gutierrez, Dominguez, Rivera Indarte, Irigoyen,\nThompson, Balcarce, Cuenca y otros para quienes la lira fué mas bien un\narma de combate que un instrumento artístico, precisamente por esto su\nobra poética es una página de nuestra historia revolucionaria, siéndolo\ná la vez de la literatura nacional.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

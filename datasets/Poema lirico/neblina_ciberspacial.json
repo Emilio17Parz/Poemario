@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Neblina ciberspacial",
+  "poema": {
+    "texto": "En el realma de la niebla ciberspacial,\nUn laberinto de luz y sombras teñido.\nMi alma, un reflejo en pantalla vibrante,\nPor estas calles digitales siempre guiada.\n\nUna nube en la red, anónima, solitaria,\nEn una dimensión que se desgarra.\nSusurros de códigos y silencios inaudibles,\nUn mundo lleno de misterio, donde mi espíritu vaga.\n\nNo veo el cielo ni la tierra más allá de este vértigo,\nEn este mar de datos me sumergo libremente.\nAquí nacen y mueren pensamientos sin nombre,\nUna vida digital, donde mi alma se entrelaza.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Neblina"
+  }
+}

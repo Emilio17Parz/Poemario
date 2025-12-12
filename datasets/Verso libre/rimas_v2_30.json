@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A esto se deberá poder incluir en este tomo varias composiciones que no\ntuvieron cabida en la primera edicion, y que publicadas anónimas andaban\ndispersas en los diarios; así como el poder presentar algunas otras con\ntoda correccion en su forma definitiva.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

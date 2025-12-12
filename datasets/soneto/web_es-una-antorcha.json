@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Es una antorcha al aire esta palmera,\nverde llama que busca al sol desnudo\npara beberle sangre; en cada nudo\nde su tronco cuajó una primavera.\nSin bretes ni eslabones, altanera\ny erguida, pisa el yermo seco y rudo;\npara la miel del cielo es un embudo\nla copa de sus venas, sin madera.\nNo se retuerce ni se quiebra al suelo;\nno hay sombra en su follaje; es luz cuajada\nque en ofrenda de amor se alarga al cielo;\nLa sangre de un volcán que enamorada\ndel padre sol se revistió de anhelo\ny se ofrece, columna, a su morada.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Alzando verdes palmas\nTejidas con el lirio,\nLa gloria y el martirio\nReciba su ovacion;\nY alzando patrios himnos\nQue vuelen por los aires,\nLevante Buenos Aires\nSu invicto pabellon.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

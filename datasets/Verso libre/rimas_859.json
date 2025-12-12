@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esto fué sin duda lo que me llamó la atención primeramente; pero\nluego que me fijé un poco en las hojas de música, me chocó más aún el\nobservar que en vez de esas palabras italianas que ponen en todas,\ncomo _maestoso_, _allegro_, _ritardando_, _più vivo_, _a piacere_,\nhabía unos renglones escritos con letra muy menuda y en alemán, de\nlos cuales algunos servían para advertir cosas tan difíciles de\nhacer como esto: _Crujen... crujen los huesos, y de sus médulas\nhan de parecer que salen los alaridos_; ó esta otra: _La cuerda\naúlla sin discordar, el metal atruena sin ensordecer; por eso suena\ntodo, y no se confunde nada, y todo es la humanidad que solloza y\ngime_; ó la más original de todas, sin duda, recomendaba al pie del\núltimo versículo: _Las notas son huesos cubiertos de carne: lumbre\ninextinguible, los cielos y su armonía... ¡fuerza!... fuerza y\ndulzura_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

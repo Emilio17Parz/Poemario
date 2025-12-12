@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No esperéis, no, que la confusa plebe,\ncomo santo depósito en su pecho\nnobles instintos y virtudes lleve.\nHallará el mundo a su codicia estrecho,\nque es la fuerza, es el número, es el hecho\nbrutal ¡es la materia que se mueve!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

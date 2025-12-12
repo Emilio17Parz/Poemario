@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Á dónde vas?--Á confesar mi culto\nEn presencia del Juez y sus lictores.\n--Se perderá tu voz en el tumulto\nQue alzarán los serviles oradores.\n--No, no: yo voy á predicar mi culto\nEn presencia del juez y sus lictores.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La fiesta religiosa había traído á ella una multitud inmensa de\nfieles; pero ya ésta se había dispersado en todas direcciones; ya se\nhabían apagado las luces de las capillas y del altar mayor, y las\ncolosales puertas del templo habían rechinado sobre sus goznes para\ncerrarse detrás del último toledano, cuando de entre las sombras, y\npálido, tan pálido como la estatua de la tumba en que se apoyo un\ninstante mientras dominaba su emoción, se adelantó un hombre que vino\ndeslizándose con el mayor sigilo hasta la verja del crucero. Allí la\nclaridad de una lámpara permitía distinguir sus facciones.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

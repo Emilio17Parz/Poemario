@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nada importa una derrota:\nNo hay que plegar su bandera!\nEl tigre del Plata muera!\nO ser libres ó morir!\nArgentinos, á caballo,\nY mil veces mas, vencidos,\nOtras mil veces reunidos,\nVolvamos á combatir.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

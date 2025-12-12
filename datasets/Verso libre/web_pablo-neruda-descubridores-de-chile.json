@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "DEL Norte trajo Almagro su arrugada\ncentella.\nY sobre el territorio, entre explosión y\nocaso,\nse inclinó día y noche como sobre una\ncarta.\nSombra de espinas, sombra de cardo y cera,\nel español reunido con su seca figura,\nmirando las sombrías estrategias del suelo.\nNoche, nieve y arena hacen la forma\nde mi delgada patria,\ntodo el silencio está en su larga línea,\ntoda la espuma sale de su barba marina,\ntodo el carbón la llena de misteriosos besos.\nComo una brasa el oro arde en sus dedos\ny la plata ilumina corno una luna verde\nsu endurecida forma de tétrico planeta.\nEl español sentado junto a la rosa un día,\njunto al aceite, junto al vino, junto al\nantiguo cielo\nno imaginó este punto de colérica piedra\nnacer bajo el estiércol del águila marina.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

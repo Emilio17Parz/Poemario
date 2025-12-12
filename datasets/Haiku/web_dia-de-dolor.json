@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "¡Día de dolor,\naquel en que vuela para siempre el ángel\ndel primer amor!",
+    "tipo": "haiku",
+    "palabra_clave_ingresada": "Métrica 5-7-5"
+  }
+}

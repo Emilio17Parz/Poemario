@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Adiós, padres, hermanos, trozos del alma mía,\namigos de la infancia en el perdido hogar!\n¡Dad gracias que descanso del fatigoso día...!\n¡Adiós, dulce extranjera, mi amiga, mi alegría!\n¡Adiós, queridos seres...! ¡Morir es descansar!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

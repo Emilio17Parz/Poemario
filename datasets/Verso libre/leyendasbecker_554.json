@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: Argensola. A name familiar to students of Spanish\nliterature from the writings of the illustrious brothers Bartolomé\nand Lupercio Leonardo de Argensola (sixteenth century). It is also\nthe name of a small town of some 560 inhabitants in the province of\nBarcelona.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

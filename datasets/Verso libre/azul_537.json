@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un día, a pleno sol, Inés estaba en el jardín regando trigo, entre los\narbustos y las flores, a las que llamaba sus amigas: unas palomas albas,\narrulladoras, con sus buches níveos y amorosamente musicales. Llevaba\nun traje--siempre que con ella he soñado la he visto con el mismo--gris,\nazulado, de anchas mangas, que dejaban ver casi por entero los satinados\nbrazos alabastrinos; los cabellos los tenía recogidos y húmedos, y el\nvello alborotado de su nuca blanca y rosa, era para mí como luz crespa.\nLas aves andaban a su alrededor, e imprimían en el suelo obscuro la\nestrella carminada de sus patas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

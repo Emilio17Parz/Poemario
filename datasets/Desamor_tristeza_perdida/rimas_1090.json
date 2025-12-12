@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Los diferentes y extraordinarios objetos que unos tras otros van\nhiriendo la imaginación, la impresionan de una manera tan particular,\nque cuando después de haber discurrido por aquellos patios sombríos,\naquellas alamedas misteriosas y aquellos claustros imponentes,\npenetro al fin en mi celda y desdoblo otra vez _El Contemporáneo_\npara proseguir su lectura, paréceme que está escrito en un idioma\nque no entiendo. Bailes, modas, el estreno de una comedia, un libro\nnuevo, un cantante extraordinario, una comida en la embajada de\nRusia, la compañía de Price, la muerte de un personaje, los clowns,\nlos banquetes políticos, la música, todo revuelto: una obra de\ncaridad con un crimen, un suicidio con una boda, un entierro con una\nfunción de toros extraordinaria.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

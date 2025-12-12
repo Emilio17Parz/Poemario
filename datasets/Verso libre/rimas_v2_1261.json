@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Dios abriendo sus manos desde el cielo\nDistribuye sus dones generosos:\nAl árbol dá los frutos deliciosos,\nY al valle ameno la fragante flor.\nY la mujer, cual ángel de la tierra,\nReina de la creacion que ha embellecido,\nLleva en sí como vaso bendecido\nLos gérmenes fecundos del amor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

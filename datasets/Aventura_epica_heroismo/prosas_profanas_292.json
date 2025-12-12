@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Calladas las bocinas a los tritones gratas,\nCalladas las sirenas de labios escarlatas.\nLos carrillos de Eolo desinflados, digamos\nJunto al laurel ilustre de florecidos ramos\nLa gloria inmarcesible de las Musas hermosas\nY el triunfo del terrible misterio de las cosas.\nHe aquí que renacen los lauros milenarios;\nVuelven a dar su lumbre los viejos lampadarios;\nY anímase en mi cuerpo de Centauro inmortal\nLa sangre del celeste caballo paternal.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

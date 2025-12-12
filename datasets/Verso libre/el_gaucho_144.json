@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "117\n¡Ah, pulpero habilidoso!\nNada le solía faltar.\n¡Ahijuna!, Para tragar\ntenía un buche de ñandú;\nla gente le dio en llamar\nel boliche de virtú.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

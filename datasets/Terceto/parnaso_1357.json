@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "O Jupiter! qué es esto que pretende\nDe hacer en nuestro daño el hado esquivo?\nCómo el fuego en la tea no se enciende?",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

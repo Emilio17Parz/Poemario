@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La composicion que hoy se publica difiere algun tanto de la primitiva,\npues ha sido limada por su autor al tiempo de correjir las pruebas, que\nsin agregarle ninguna estrofa nueva ha suprimido de ella muchas que no\ncorrespondian á la entonacion general del canto, lo que le ha hecho\nconocer la verdad de aquella observacion de Alfieri en sus _Memorias_,\ncuando hablando de los tres años que empleó en correjir las pruebas de\nsus obras poéticas, dice que sin esta última correccion todo el trabajo\nde su vida habria sido perdido, «tan cierto es, añade, que el colorido y\nla lima forman una parte esencial de toda poesía.» El título tambien ha\nsido variado.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

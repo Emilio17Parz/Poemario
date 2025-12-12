@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Zamora entonces levantando en alto\nEl pato, cual si fuese una bandera,\nDetiene del caballo la carrera\nY le hace el freno con furor tascar,\nY así parado en medio de la pampa\nCon su ademan á todos desafia;\nMas viendo que ninguno se movia\nDirige á todos la señal de paz.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

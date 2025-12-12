@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Señor de los poetas, de los desventurados\nDe todos los de ensueño de libertad turbados,\nDe los que han hambre y sed de justicia en la tierra!\nSeñor de los esclavos, señor de las zagalas,\nEn cuya frente baten las águilas sus alas,\nY en cuyo pecho España su corazón encierra!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

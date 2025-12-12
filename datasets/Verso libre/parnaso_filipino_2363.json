@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "MANUEL ROMERO DE AQUINO\nPerdóname                                       380\n¡Adiós la nave!                                 384\nA mi lira                                       386\nRomancero filipino                              389",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

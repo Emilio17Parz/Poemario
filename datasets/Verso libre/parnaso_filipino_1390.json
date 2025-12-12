@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tus hermosas cascadas, al caer espumantes,\nengarzan en el aire millones de diamantes,\ny en las noches parecen sus rugidos vibrantes\nmonótonos quejidos de fantasmas errantes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sangre que vierte el cazador. El cuerno.\nFurias escarlatas y rojos destinos\nForjan en las fraguas del obscuro Infierno\nLas fatales armas de los asesinos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

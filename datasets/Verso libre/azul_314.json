@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cantemos el oro, porque él da los palacios y los carruajes, los vestidos\na la moda, y los frescos senos de las mujeres garridas; y las\ngenuflexiones de espinazos aduladores y las muecas de los labios\neternamente sonrientes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

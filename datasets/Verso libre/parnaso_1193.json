@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Haz que á noticia venga\nDe todo nuestro exercito en un punto,\nQue sin que estorbo alguno le detenga\nParezca en este sitio todo junto,\nPorque una breve platica ó arenga\nLes quiero hacer.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vibrará su cristal una voz de mujer\ncomo un ¡ay! de pasión o un suspiro de Abril,\ny el poeta alzará, fresca, gaya y gentil,\nsu canción al amor, a la vida, al placer,\ny entre todos harán un edén del pensil.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

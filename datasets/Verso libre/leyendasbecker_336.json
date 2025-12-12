@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "This extraordinary accentual stress, which strengthens periodically\ncertain naturally accented syllables of a verse, is known as _rhythmic\naccent_. It plays somewhat the same rôle as did quantity in Latin\nverse. All other accents and pauses in the verse are subservient to\nthe rhythmic accent.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

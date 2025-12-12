@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El pavimiento de mi taller se asemejaba a los restos de un sol hecho\ntrizas. La mujer amada descansaba a un lado, rosa de carne entre\nmaceteros de zafir, emperatriz del oro, en un lecho de cristal de roca,\ntoda desnuda y espléndida como una diosa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

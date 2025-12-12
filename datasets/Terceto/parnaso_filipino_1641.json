@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y sus ojos, que parecen dos sagitarios brillantes,\nnos arrojan por el arco de sus párpados soñantes\nflechas de amor que se clavan, temblando, en el corazón...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Él es como nube que cruza su frente,\nCual cruza los cielos la bruma fugaz,\nRealzando en el fondo su rostro esplendente\nQue adornan matices del iris de paz.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tú diste al mundo tus caducas leyes,\ncon cien coronas se ciñó tu frente;\nhollaste cetros, destronaste reyes,\ny ebria de gloria se durmió tu gente...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

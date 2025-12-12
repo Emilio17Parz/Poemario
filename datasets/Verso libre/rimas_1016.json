@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Después que hube admirado el magnífico panorama que ofrece en el\npunto por donde une sus opuestas márgenes el puente de hierro;\ndespués que hube recorrido, con la mirada absorta, los mil detalles,\npalacios y blancos caseríos; después que pasé revista á los\ninnumerables buques surtos en sus aguas, que desplegaban al aire los\nligeros gallardetes de mil colores, y oí el confuso hervidero del\nmuelle, donde todo respira actividad y movimiento, remontando con la\nimaginación la corriente del río, me trasladé hasta San Jerónimo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

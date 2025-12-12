@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Una tarde, la última que por entonces debía permanecer en Toledo,\ndespués de una de estas largas excursiones á través de lo\ndesconocido, no sabré decir siquiera por qué calles llegué hasta\nuna plaza grande, desierta, olvidada al parecer aun de los mismos\nmoradores de la población, y como escondida en uno de sus más\napartados rincones.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Llueve torrencialmente, y el chubasco\nes tan pródigo en agua que sepulta\nlos caminos en lodo. El sol se oculta\ntras cortinas de nubes. De un peñasco,",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

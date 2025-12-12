@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Había muerto de fatiga, había muerto cuando la carrera del herido\njabalí comenzaba á acortarse; cuando bastaba un solo esfuerzo más para\nalcanzarlo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

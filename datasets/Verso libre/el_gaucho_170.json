@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "142\nEra un gringo tan bozal,\nque nada se le entendía,\n¡quién sabe de ande sería!\nTal vez no juera cristiano,\npues lo único que decía\nes que era papolitano.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cede ¡oh Dios! cede en tu ira\ny mis desventuras mira\ncon inmensa compasión.\nDerrama en mí tu luz pura,\ny libra de su amargura\na mi triste corazón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya se ha borrado la estela\nque bordaba aquella nave,\nque al impulso de su vela,\nsobre los abismos rueda\nráuda y gentil como el ave.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

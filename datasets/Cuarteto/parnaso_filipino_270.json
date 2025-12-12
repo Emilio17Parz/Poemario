@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y siempre en lo alto del ideal que enfloras,\nY del amor divino que sustentas,\nTe besaron sonriendo las auroras,\nY te escupieron su ira las tormentas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

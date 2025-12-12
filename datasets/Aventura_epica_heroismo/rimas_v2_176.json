@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En esa triste y yerma sepultura\nEntonad los cantares de la gloria,\nEnsalzad el martirio y la bravura\nY volad en seguida á la victoria\nA recoger laureles inmortales,\nCantando con denuedo: «Oid mortales!»",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

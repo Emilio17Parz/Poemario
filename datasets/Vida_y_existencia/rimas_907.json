@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Siguió la ceremonia; el músico que la presenciaba, absorto y\naterrado, creía estar fuera del mundo real, vivir en esa región\nfantástica del sueño en que todas las cosas se revisten de formas\nextrañas y fenomenales.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

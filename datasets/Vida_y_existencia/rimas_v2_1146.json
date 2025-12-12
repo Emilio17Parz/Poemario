@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Qué importa morir, si solo,\nHe vivido en este mundo,\nDonde corre un aire inmundo\nQue no puedo respirar:\nSi mis lágrimas cayeron\nConfundidas en el cieno,\nSin bañar el tibio seno\nDel amor á la amistad!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

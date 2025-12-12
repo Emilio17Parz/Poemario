@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Una vez reedificado el templo, comenzó á oirse un acorde lejano que\npudiera confundirse con el zumbido del aire, pero que era un conjunto\nde voces lejanas y graves, que parecía salir del seno de la tierra é\nirse elevando poco á poco, haciéndose cada vez más perceptible.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

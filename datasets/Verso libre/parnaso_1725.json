@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si eso fuese verdad, eso bastaba\nPara triunfar en Roma de Numancia,\nQue es lo que mas agora deseaba.\nLleguemonos allá, y haced instancia\nComo el muchacho vuelva á nuestras manos\nVivo, que es lo que agora es de importancia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

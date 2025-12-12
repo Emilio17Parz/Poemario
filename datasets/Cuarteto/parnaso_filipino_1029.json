@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Y que lección encierra\naquel sueño opresor!\nAnte una sepultura pusiéronme en la tierra,\nabrieron mi ataud y después... ¡oh dolor!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "324\na otros les brotan las coplas\ncomo agua de manantial;\npues a mí me pasa igual;\naunque las mías nada valen,\nde la boca se me salen\ncomo ovejas de corral.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

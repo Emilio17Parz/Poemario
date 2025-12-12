@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mis sueños cuando apenas niño o adolescente,\nmis sueños cuando joven, ya lleno de vigor,\nfueron el verte un día, ¡joya del mar de Oriente!\nsecos los ojos negros, alta la tersa frente,\nsin ceño, sin arrugas, sin manchas de rubor.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

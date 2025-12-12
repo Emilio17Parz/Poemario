@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "»Silfos invisibles, dejad el cáliz de los entreabiertos lirios,\ny venid en vuestros carros de nácar á los que vuelan uncidas las\nmariposas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

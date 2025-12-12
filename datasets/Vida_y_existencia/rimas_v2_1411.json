@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Los ojos secos y sin voz los lábios\nNo recuerdo del mundo los agravios,\nQue agravios nunca ha habido entre los dos;\nPero al tenderte cariñosa mano\nAcuérdate que te he adorado en vano\nPara decirte al fin ¡adios, adios!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

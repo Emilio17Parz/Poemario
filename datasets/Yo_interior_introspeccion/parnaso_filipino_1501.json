@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Yo la tengo, y yo espero que ha de brillar un día\nen que venza la idea a la fuerza brutal;\nque después de la lucha y la lenta agonía,\notra voz más sonora y más felíz que la mía\nsabrá cantar entonces el cántico triunfal.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

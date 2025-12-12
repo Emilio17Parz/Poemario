@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esto diciendo el buen hombre, sentándose en su barca aparejó los\nremos, y cuando Sara, que no era otra la persona á quien al parecer\nhabía aguardado hasta entonces, hubo saltado al barquichuelo, soltó\nla amarra que lo sujetaba y comenzó á bogar en dirección á la orilla\nopuesta.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

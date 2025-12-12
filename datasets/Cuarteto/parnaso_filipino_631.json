@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y aunque ciego el raudal se precipite\ny parezca el Derecho una quimera,\nnadie, mientras la fe no se marchite,\npodrá decir que ha muerto esa bandera...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

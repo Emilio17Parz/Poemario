@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "A los pocos minutos se oyó el rumor de un caballo que se alejaba al\ngalope. La hermosa, con una radiante expresión de orgullo satisfecho\nque coloreó sus mejillas, prestó atento oído á aquel rumor, que se\ndebilitaba, que se perdía, que se desvaneció por último.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Una de invierno había temporal. Padre e hijo, en la pequeña embarcación,\nsufrían en el mar la locura de la ola y del viento. Difícil era llegar a\ntierra. Pesca y todo se fué al agua, y se pensó en librar el pellejo.\nLuchaban como desesperados por ganar la playa. Cerca de ella estaban;\npero una racha maldita les empujó contra una roca, y la canoa se hizo\nastillas. Ellos salieron sólo magullados, ¡gracias a Dios! como decía\nel tío Lucas al narrarlo. Después, ya son ambos lancheros.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

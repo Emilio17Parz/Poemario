@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "1\nDe los cuatro muleros\nque van al campo,\nel de la mula torda,\nmoreno y alto.\n2\nDe los cuatro muleros\nque van al agua,\nel de la mula torda\nme roba el alma.\n3\nDe los cuatro muleros\nque van al río,\nel de la mula torda\nes mi marío.\n4\n¿A qué buscas la lumbre\nla calle arriba,\nsi de tu cara sale\nla brasa viva?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

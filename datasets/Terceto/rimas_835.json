@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y exclamaba Magdalena mirando brillar los luceros en la\naltura:--Esos son los nimbos de luz de los ángeles invisibles que nos\ncustodian.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Pradera, feliz día! Del regio Buenos Aires\nQuedaron allá lejos el fuego y el hervor;\nHoy en tu verde triunfo tendrán mis sueños vida,\nRespiraré tu aliento, me bañaré en tu sol.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se oscureció la luz pura y radiante,\nSe apagó la suavísima armonía,\nSe evaporó el perfume penetrante...\nTodo se encierra tíbio y palpitante\nBajo esa tumba fria.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

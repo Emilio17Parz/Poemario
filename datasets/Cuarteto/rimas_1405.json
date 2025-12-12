@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tu pupila es azul, y si en su fondo\nComo un punto de luz radia una idea,\nMe parece en el cielo de la tarde\n¡Una perdida estrella!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

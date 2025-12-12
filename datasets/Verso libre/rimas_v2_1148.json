@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mis ecos se han confundido\nCon la música lejana,\nQue se alza cada mañana\nDel seno de la creacion;\nY entre el canto de las aves,\nY el aroma de las flores,\nDel valle de los dolores\nHan subido á otra mansion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

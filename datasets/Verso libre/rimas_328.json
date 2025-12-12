@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Una tarde, sin embargo, al pasar frente á un caserón antiquísimo y\noscuro, en cuyos altos paredones se veían tres ó cuatro ventanas\nde formas desiguales, repartidas sin orden ni concierto, me fijé\ncasualmente en una de ellas. La formaba un gran arco ojival, rodeado\nde un festón de hojas picadas y agudas. El arco estaba cerrado\npor un ligero tabique, recientemente construído y blanco como la\nnieve, en medio del cual se veía, como contenida en la primera, una\npequeña ventana con un marco y sus hierros verdes, una maceta de\ncampanillas azules, cuyos tallos subían á enredarse por entre las\nlabores de granito, y unas vidrieras con sus cristales emplomados y\nsu cortinilla de una tela blanca, ligera y transparente.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

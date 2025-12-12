@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La madre idolatrada, la esposa que adoramos,\nel hijo que es pedazo de nuestro corazón,\npor defender tu causa todo lo abandonamos:\nesperanzas y amores, la dicha que anhelamos,\ntodos nuestros ensueños, toda nuestra ilusión.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

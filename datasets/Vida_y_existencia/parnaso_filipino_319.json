@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo es mentira en el mundo.\nEl desengaño encontraste,\nTu que mi afán despertaste,\nCon tu desprecio profundo.\n¡Todo en la vida es contraste,\nTodo es mentira en el mundo!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

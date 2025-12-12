@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "138\nY colijo que no quieren\nla barunda componer;\npara eso no ha de tener,\nel jefe que esté de estable,\nmás que su poncho y su sable,\nsu caballo y su deber.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

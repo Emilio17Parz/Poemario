@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Entonces repercuten los montes en la altura,\nlos árboles se agitan de confín a confín;\naullan los ganados, retumba la espesura,\nsus espíritus dicen que van a la llanura\nllamados por los muertos a fúnebre festín.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

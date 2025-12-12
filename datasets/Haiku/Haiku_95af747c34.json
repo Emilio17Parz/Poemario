@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Sol que despierta\nRocío en la tela araña\nNuevo día azul",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Amanecer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sigue el buque francés su derrotero\nImpelido del soplo del Pampero\nPor el piélago azul.\nEn tanto que el Corsario navegaba\nY al divisar sus velas esclamaba\n«A los libres, salud.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

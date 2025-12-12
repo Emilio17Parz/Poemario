@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Primera.                                                 179\nSegunda.                                                 197\nTercera.                                                 207\nCuarta.                                                  221\nQuinta.                                                  231\nSexta.                                                   241\nSéptima.                                                 255\nOctava.                                                  269\nNovena.                                                  283",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

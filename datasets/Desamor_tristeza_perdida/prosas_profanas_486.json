@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Que púberes canéforas te ofrenden el acanto,\nQue sobre tu sepulcro no se derrame el llanto,\nSino rocío, vino, miel:\nQue el pámpano allí brote, las flores de Citeres,\nY que se escuchen vagos suspiros de mujeres\nBajo un simbólico laurel!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

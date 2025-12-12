@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "43\nEstaba el gaucho en su pago\ncon toda siguridá,\npero aura... ¡barbaridá!,\nLa cosa anda tan fruncida,\nque gasta el pobre la vida\nen juir de la autoridá.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

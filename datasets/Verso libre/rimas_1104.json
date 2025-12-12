@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En Sevilla, y en la margen del Guadalquivir que conduce al convento\nde San Jerónimo, hay cerca del agua una especie de remanso que\nfertiliza un valle en miniatura formado por el corte natural de la\nribera, que en aquel lugar es bien alta y tiene un rápido declive.\nDos ó tres álamos blancos, corpulentos y frondosos, entretejiendo sus\ncopas, defienden aquel sitio de los rayos del sol, que rara vez logra\ndeslizarse entre las ramas, cuyas hojas producen un ruido manso y\nagradable cuando el viento las agita y las hace parecer ya plateadas,\nya verdes, según del lado que las empuja. Un sauce baña sus raíces\nen la corriente del río, hacia el que se inclina como agobiado de\nun peso invisible, y á su alrededor crecen multitud de juncos y de\nesos lirios amarillos y grandes que nacen espontáneos al borde de los\narroyos y las fuentes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

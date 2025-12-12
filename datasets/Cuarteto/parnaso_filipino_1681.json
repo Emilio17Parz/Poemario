@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Discípulos de Hipócrates, juristas,\nministros del altar, notables hombres\nlegaron de la patria las conquistas\nde su saber y sus preclaros nombres.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

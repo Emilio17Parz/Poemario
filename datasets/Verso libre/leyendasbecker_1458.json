@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Nobles caballeros, sencillos pastores, hermosas niñas que escucháis mi\nrelato, si os maravilla lo que os cuento, no creáis que es una fábula\ntejida á mi antojo para sorprender vuestra credulidad; de boca en boca\nha llegado hasta mí esta tradición, y la leyenda del sepulcro[1] que\naún subsiste en el monasterio de Montagut, es un testimonio\nirrecusable de la veracidad de mis palabras.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

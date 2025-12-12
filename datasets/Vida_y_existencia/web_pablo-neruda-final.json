@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Matilde, años o días\ndormidos, afiebrados,\naquí o allá,\nclavando\nrompiendo el espinazo,\nsangrando sangre verdadera,\ndespertando tal vez\no perdido, dormido:\ncamas clínicas, ventanas extranjeras,\nvestidos blancos de las sigilosas,\nla torpeza en los pies.\nLuego estos viajes\ny el mío mar de nuevo:\ntu cabeza en la cabecera,\ntus manos voladoras\nen la luz, en mi luz,\nsobre mi tierra.\nFue tan bello vivir\ncuando vivías!\nEl mundo es más azul y más terrestre\nde noche, cuando duermo\nenorme, adentro de tus breves manos.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

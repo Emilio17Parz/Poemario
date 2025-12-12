@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Cuando cada monarca de la tierra\nSobre un cráter de horror su espada afila,\nY muere en flor la pompa de la tierra\nBajo los potros del moderno Atila;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

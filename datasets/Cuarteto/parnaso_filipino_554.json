@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La enseña que en Malolos vióse erguida\nColmando de mi patria los anhelos;\nLa que a mi pueblo préstale consuelos\nEn tanto espera verla enaltecida...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Comprende este tomo cien poesías líricas escogidas entre lo mejor de la\nliteratura española antigua y moderna, excluyendo los autores vivos. No\nse nos oculta la dificultad de esta selección, en que tanta parte puede\ntener el gusto individual, ni presumimos tanto del nuestro que estemos\nseguros de haber logrado constantemente el acierto. Hemos procurado,\nsin embargo, no omitir ninguna de las poesías ya consagradas por la\nuniversal admiración, ni dar entrada a ninguna que no tenga a nuestros\nojos mérito positivo, aunque no siempre llegue a la absoluta perfección\nformal. Hay en algunas de estas composiciones rasgos de mal gusto\npropios de una época o escuela determinada, pero hubiera sido temeridad\nborrarlos, porque la integridad de los textos es la primera obligación\nque la crítica impone al colector de toda antología por diminuta y\npopular que sea.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

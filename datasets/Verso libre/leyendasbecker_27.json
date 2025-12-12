@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "The Life of Becquer, though concise, is perhaps the most complete that\nhas yet been published, for it embodies all the data given by previous\nbiographers and a certain number of facts gathered by the writer at\nthe time of his last visit to Spain (in 1905-1906), from friends of\nBecquer who were then living.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

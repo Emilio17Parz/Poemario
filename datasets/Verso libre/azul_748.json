@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En las pálidas tardes\nme cuenta un hada amiga\nlas historias secretas\nllenas de poesía;\nlo que cantan los pájaros,\nlo que llevan las brisas,\nlo que vaga en las nieblas\nlo que sueñan las niñas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

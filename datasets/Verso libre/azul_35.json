@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Leídas las 132 páginas de _Azul..._ lo primero que se nota es que está\nusted saturado de toda la más flamante literatura francesa: Hugo,\nLamartine, Musset, Baudelaire, Leconte de Lisle, Gautier, Bourget,\nSully-Prouhomme, Daudet, Zola, Barbey d’Aurevilly, Catulle Mendes,\nRollinat, Goncourt, Flaubert y todos los demás poetas y novelistas han\nsido por usted bien estudiados y mejor comprendidos. Y usted no imita a\nninguno: ni es usted romántico, ni naturalista, ni _neurótico_, ni\ndecadente, ni simbólico, ni parnasiano. Usted lo ha revuelto todo: lo ha\npuesto a cocer en el alambique de su cerebro, y ha sacado de ello una\nrara quinta esencia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

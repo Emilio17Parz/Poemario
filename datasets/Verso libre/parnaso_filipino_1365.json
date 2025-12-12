@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya agotaron sus flechas nuestras viejas aljabas\ncon el león hispano en rudo batallar,\ny con aquellas águilas que viéndonos inermes,\ncruzaron el Pacífico en un vuelo triunfal.\nPor eso te pedimos que prestes el acento\nde tu lira a estos hijos de indómitos rajáhs,\npara que, ahogando el grito de nuestras penas íntimas,\nambulemos cantando por no querer matar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

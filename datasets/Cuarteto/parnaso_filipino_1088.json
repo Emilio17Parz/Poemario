@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Nativos ruiseñores hacen nido\nen sus frondas de eterna primavera,\ny aunque enfurece la ventisca fiera,\nen la arada social seguirá erguido.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

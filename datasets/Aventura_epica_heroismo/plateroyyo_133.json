@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El claro viento del mar sube por la cuesta roja, llega al prado del\ncabezo, ríe entre las tiernas florecillas blancas; después, se enreda\npor los pinetes sin limpiar y mece las encendidas telarañas celestes,\nrosas, de oro... Toda la tarde es ya viento marino. Y el sol y el viento\n¡dan un blando bienestar al corazón!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

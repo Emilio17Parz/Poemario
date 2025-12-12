@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En esa portezuela está un rostro apareciendo de modo que semeja el de un\nquerubín; por aquélla ha salido una mano enguantada que se dijera de\nniño, y es de morena tal que llama los corazones; más allá se alcanza a\nver un pie de Cenicienta con zapatito obscuro y media lila, y acullá,\ngentil con sus gestos de diosa, bella con su color de marfil amapolado,\nsu cuello real y la corona de su cabellera, está la Venus de Milo, no\nmanca, sino con dos brazos, gruesos como los músculos de un querubín de\nMurillo, y vestida a la última moda de París.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Roto el encanto, la conciencia fría\nve alzarse, hoy burladora, ayer risueños,\ntiempos que fueron ya--sueño de sueños--\ndel porvenir la negación sombría.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

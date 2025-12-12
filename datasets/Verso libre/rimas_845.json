@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El gnomo era como un hombrecillo transparente: una especie de enano\nde luz, semejante á un fuego fatuo, que se reía á carcajadas, sin\nruido, y saltaba de peña en peña, y mareaba con su vertiginosa\nmovilidad. Unas veces se sumergía en el agua y continuaba brillando\nen el fondo como una joya de piedras de mil colores; otras salía á la\nsuperficie y agitaba los pies y las manos, y sacudía la cabeza á un\nlado y á otro con una rapidez que tocaba en prodigio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

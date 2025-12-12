@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Que sopló el viento y se llevó las nubes\ny que en las nubes iba un pavo real,\nque el pavo real era para mi mano\ny que la mano se me va a secar,\ny que la mano le di esta mañana\nal rey que vino para desposar.\n¡Ay que el cielo, ay que el viento, y la nube\nque se van con el pavo real!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

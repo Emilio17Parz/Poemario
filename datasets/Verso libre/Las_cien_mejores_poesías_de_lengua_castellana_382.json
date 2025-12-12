@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Dónde volaron ¡ay! aquellas horas\nDe juventud, de amor y de ventura,\nRegaladas de músicas sonoras,\nAdornadas de luz y de hermosura?\nImágenes de oro bullidoras.\nSus alas de carmín y nieve pura,\nAl sol de mi esperanza desplegando,\nPasaban ¡ay! a mi alredor cantando.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

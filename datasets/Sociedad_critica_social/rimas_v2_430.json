@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cual rinde su alta frente\nEl sol al Océano,\nComo el audaz torrente\nQue baja al ancho llano,\nDebe ser la caida\nDel que rinde la vida\nDel pueblo en el altar.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

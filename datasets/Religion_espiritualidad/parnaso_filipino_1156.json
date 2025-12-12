@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Cuántas veces sentí su horrible clavo\ngolpearme con áspera sevicia,\ny sentí a su furor cómo temblaba\nel cielo de las dichas que soñaba,\ncomo un mundo de luz que se desquicia!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

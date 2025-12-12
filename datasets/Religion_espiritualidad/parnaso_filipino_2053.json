@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Movido de anhelo santo,\nvoy rebuscando en tu historia\nlos anales de tu gloria,\ncopiándolos en mi canto.\nDe su encanto,\nque ninguna sombra empaña\ntendrá valor y nobleza,\nporque al cantar tu grandeza\ntambién canto la de España.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es tu acento el susurro que adormece\ndel aura al retozar en la floresta,\ny el blando caramillo que solloza,\nbajo el beso lunar en primavera.\nTe remeda el gorjeo de la alondra,\nla imperativa voz de las trompetas,\nel quejido que emerge de la cuna\ny el doliente \"kundiman\" de mi tierra,\nel raudo vendaval que avanza indómito\npor cima de las altas cordilleras,\ny brama en los barrancos y hondonadas\ny en las rocas que hendieron las centellas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pues la sangre de los godos,\nEl linaje y la nobleza\nTan crecida,\n¡Por cuántas vías e modos\nSe pierde su gran alteza\nEn esta vida!\n¡Unos por poco valer,\nPor cuán bajos y abatidos\nQue los tienen!\nOtros que por no tener,\nCon oficios no debidos\nSe mantienen.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

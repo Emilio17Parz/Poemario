@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vamos, vamos al sitio donde la vi la primera y única vez que la he\nvisto... ¿Quién sabe si, caprichosa como yo, amiga de la soledad y\nel misterio, como todas las almas soñadoras, se complace en vagar por\nentre las ruinas, en el silencio de la noche?",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y fué al Cid y le dijo: «Alma de amor y fuego,\nPor Jimena y por Dios un regalo te entrego,\nEsta rosa naciente y este fresco laurel.»",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

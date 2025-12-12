@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La escarcha se desprende cual lágrimas de frío;\nlloran de la neblina los impalpables lutos;\nson lágrimas del alba las gotas de rocío\ny los arbustos lloran las mieles de sus frutos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

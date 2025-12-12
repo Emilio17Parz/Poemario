@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El provenzal, que en el siglo X produjo millares de poetas, dando á luz\nuna literatura original que en nada se parece á la griega ni á la\nlatina, fué por el espacio de tres siglos la lengua de la poesía y del\ncanto en Europa, así como hoy lo es el italiano. Hoy es una lengua\nmuerta y solo se conoce por los cantos de sus trovadores.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

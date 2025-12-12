@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "No eres la vaga aparición que sigo\ncon hondo afán desde mi edad primera,\nsin alcanzarla nunca... Mas ¿qué digo?\nNo eres la libertad, disfraces fuera,\n¡licencia desgreñada, vil ramera\ndel motín, te conozco y te maldigo!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

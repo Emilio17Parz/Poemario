@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "When two weak vowels (i, u) are united in a diphthong, the second\npredominates. Thus _triunfo_ and _chulo_ assonate in ú-o; _cuido_ and\n_bendito_ assonate in i-o.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Una rata corrió a un venado\ny los venados al jaguar,\ny los jaguares a los búfalos,\ny los búfalos a la mar...\n¡Pillen, pillen a los que se van!\n¡Pillen a la rata pillen al venado,\npillen a los búfalos y a la mar!\nMiren que la rata de la delantera\nse lleva en las patas lana de bordar,\ny con la lana bordo mi vestido,\ny con el vestido me voy a casar.\n¡Suban y pasen la llanada,\ncorran sin aliento, sigan sin parar.\nVuelen por la novia, y por el cortejo,\ny por la carroza y el velo nupcial.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Era imposible seguirlas en sus ágiles movimientos, imposible abarcar\ncon una mirada los infinitos detalles del cuadro que formaban, unas\ncorriendo, jugando y persiguiéndose con alegres risas por entre el\nlaberinto de los árboles; otras surcando el agua como un cisne, y\nrompiendo la corriente con el levantado seno; otras, en fin,\nsumergiéndose en el fondo, donde permanecían largo rato para volver á\nla superficie, trayendo una de esas flores extrañas que nacen\nescondidas en el lecho de las aguas profundas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

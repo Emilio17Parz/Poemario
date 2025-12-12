@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡La nave, adios! Muere el dia\ny plácida noche en calma\nsu primer beso te envía:\nal mundo paz, a mi alma\nprofunda melancolía....",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

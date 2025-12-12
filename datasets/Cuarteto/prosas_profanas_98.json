@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Verlaine es más que Sócrates; y Arsenio\nHoussaye supera al viejo Anacreonte.\nEn París reinan el Amor y el Genio.\nHa perdido su imperio el dios bifronte.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

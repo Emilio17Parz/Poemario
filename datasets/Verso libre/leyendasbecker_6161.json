@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "voz, _f._, voice, tone, sound, cry, word; á grandes voces, in a loud\nvoice; loudly; á -- herida, in clanging tones; á media --, in a low\ntone; softly; á toda --, at the top of their voices; dar una gran --,\nto call out loudly.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

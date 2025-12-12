@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El remanso del aire\nbajo la rama del eco.\nEl remanso del agua\nbajo fronda de luceros.\nEl remanso de tu boca\nbajo espesura de besos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

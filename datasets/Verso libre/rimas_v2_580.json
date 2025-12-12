@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Eres la voz del destino\nQue presides á las horas,\nQue con sus alas sonoras\nTe golpean sin cesar,\nY tú, su vuelo marcando,\nGenerosa en demasía,\nDevuelves una armonía\nPor el golpe que te dan.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

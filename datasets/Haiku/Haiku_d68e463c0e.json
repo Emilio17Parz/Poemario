@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Agua que murmura,\npiedras pulidas en su\nlecho tranquilo.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ya han hollado mis pies muchas espinas,\ny aunque avanzo llorando en mi camino,\nsólo encuentro doquier sombras y ruinas,\ntristes, como las tintas vespertinas,\ny obscuras, cual la voz de mi destino.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

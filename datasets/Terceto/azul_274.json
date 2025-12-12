@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "[Illustration: Los cuatro hombres se quejaban. Al uno le había tocado en\nsuerte una cantera, al otro el iris, al otro el ritmo, al otro el cielo\nazul.]",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

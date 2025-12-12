@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Resplandor en el crepusculo",
+  "poema": {
+    "texto": "Resplandor en crepusculo\n\nEn el cielo se teje un trapecio,\nLuna a medida que baja, se enciende.\nEl sol muda sus trajes brillantes,\nY la noche se abre sus alas en blanco.\n\nRíos de luz que dibujan el horizonte,\nSilencio en el aire, acompaña el espectáculo.\nUn resplandor, un hermoso despertar,\nEn la tranquilidad se desata un sueño.",
+    "tipo": "Verso_libre",
+    "palabra_clave_ingresada": "Resplandor"
+  }
+}

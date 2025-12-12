@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Los primeros civilizadores de la Grecia fueron músicos y poetas. Los\nsacerdotes, los sábios los médicos los filósofos y los matemáticos,\nfueron los primeros poetas griegos.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

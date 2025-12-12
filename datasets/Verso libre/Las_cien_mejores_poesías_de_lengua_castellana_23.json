@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aunque se titulan _líricos_ los poemas de esta colección, no ha de\nentenderse esta palabra en sentido tan riguroso que excluya algunas\nnarraciones poéticas breves en que se entremezcla lo épico con lo\nlírico. Esta salvedad, que a todas las literaturas alcanza, tiene más\npropio lugar en la castellana, que siempre ha conservado rastros de\nsu origen épico. Por eso incluimos algunos romances antiguos, de los\nde tono más lírico, y un par de leyendas de los dos grandes poetas\nrománticos Zorrilla y el Duque de Rivas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

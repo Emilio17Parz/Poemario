@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Poeta, que cual sombra fugitiva\nCruzaste por el valle mundanal,\nDuerme, mientras un hombre á tu sepulcro\nLlega á entonar un himno funeral.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

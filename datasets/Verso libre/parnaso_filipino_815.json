@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Otra vez el silencio. Ahora es un gorjeo\nque sobre mi cabeza sueña un verso de amor...\nVuelve a chillar la prosa: mugriento y sin aseo\nel tren silba ya el grito carnal de un estertor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

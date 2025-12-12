@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No existe esponja para lavar el cielo\npero aunque pudieras enjabonarlo\ny luego echarle baldes y baldes de mar\ny colgarlo al sol para que se seque\nsiempre faltaría el pájaro en silencio\nno existen métodos para tocar el cielo\npero aunque te estiraras como una palma\ny lograras rozarlo en tus delirios\ny supieras al fin como es al tacto\nsiempre te faltaría la nube de algodón\nno existe un puente para cruzar el cielo\npero aunque consiguieras llegar a la otra orilla\na fuerza de memoria y pronósticos\ny comprobaras que no es tan dificil\nsiempre te faltaría el pino del crepusculo\neso es por que se trata de un cielo que no es tuyo\naunque sea impetuoso y desgarrado\nen cambio cuando llegue al que te pertenece\nno lo querrás lavar ni tocar ni cruzar\npero estarán el pájaro y la nube y el pino.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

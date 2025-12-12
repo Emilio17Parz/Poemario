@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Allá enfrente se divisa de la Fuerza de Santiago\nel histórico recinto, de almenaje señorial,\nque con fúnebres tapices enlútose el día aciago\nque vió arder entre sus muros la capilla de Rizal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

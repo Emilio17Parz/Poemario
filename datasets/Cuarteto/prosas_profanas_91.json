@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Pasa en busca de Adonis; sus aromas\nDeleitan a las rosas y los nardos;\nSíguela una pareja de palomas\nY hay tras ella una fuga de leopardos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

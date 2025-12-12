@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Bien dices, y camina, que se tarda\nEl tiempo de morir como deseo,\nOra me mate el hierro, ó el fuego me arda,\nQue gloria nuestra en qualquier muerte veo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Triste es la vida, sí, bella criatura,\nPero tambien en ella hay gratas flores,\nQue llenan con suavísimos olores\nEl sendero, que lleva á la virtud;\nHay tambien sus delicias inefables\nEn llenar los deberes de la esposa,\nLa mision de la madre cariñosa,\nY aliviar la cansada senectud.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

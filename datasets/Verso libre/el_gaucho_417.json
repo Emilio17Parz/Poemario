@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "382\nAllá habrá siguridá\nya que aquí no la tenemos;\nmenos males pasaremos\ny ha de haber grande alegría\nel día que nos descolguemos\nen alguna toldería.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

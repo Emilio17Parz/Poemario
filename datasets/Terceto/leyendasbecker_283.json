@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "The vowels contracted by synalepha are each pronounced, except when\nthe same vowel is repeated, when only a prolonged sound is heard, as\nin _onda^azul_ or _sé^es_ above.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

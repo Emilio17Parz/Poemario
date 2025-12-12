@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando el sol en mi ventana\nRojo brilla á la mañana,\nY mi amor tu sombra evoca,\nSi en mi boca de otra boca\nSentir creo la impresión;\nDime: ¿es que ciego deliro,\nÓ que un beso en un suspiro\nMe envía tu corazón?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

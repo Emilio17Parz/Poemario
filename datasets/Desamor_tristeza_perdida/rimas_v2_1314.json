@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mas antes de hacer esto, mira el caliz\nDe la flor que te ofresco, y escondida\nHallarás una lágrima vertida,\nQue en la aurora cayó sobre el vergel:\nVierte otra gota en tu sereno ocaso,\nQue dos gotas de llanto derramadas\nSon amargas, si se hallan separadas,\nY juntas son dos lágrimas de miel.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

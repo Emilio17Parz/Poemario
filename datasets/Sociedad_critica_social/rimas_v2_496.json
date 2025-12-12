@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Guerreros, por la sangre consagrados,\nDe inmarcesibles lauros coronados\nEn el campo de honor;\nDespertad del cañon al estampido,\nQue hoy rememora un pueblo agradecido\nQue os debe de su gloria el esplendor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

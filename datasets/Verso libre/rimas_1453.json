@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Dormida, los extremos de tu boca\nPliega sonrisa leve,\nSuave como el rastro luminoso\nQue deja un sol que muere...\n--¡Duerme!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

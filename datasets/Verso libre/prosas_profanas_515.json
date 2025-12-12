@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "...Cuando los toros\nDe las campañas, bajo los oros\nQue vierte el hijo de Hiperión,\nPasan mugiendo, y en las eternas\nRocas salvajes de las cavernas\nEsperezándose ruge el león;",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

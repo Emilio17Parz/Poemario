@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mirad cual lo saludan del muro los cañones,\nCual alzan los guerreros sus ínclitos pendones,\nEn que la estrella luce cual signo de hermandad;\nMirad como se riza del mar la blanca espuma,\nCual se disipa en torno la misteriosa bruma,\nY cual se tiñen de oro los Andes, ¡contemplad!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

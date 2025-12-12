@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi madre tiende las rugosas manos\nAl nieto que huye por la blanda alfombra;\nHablan de pie mi padre y mis hermanos,\nMientras yo, recatándome en la sombra,\nPienso en hondos arcanos.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

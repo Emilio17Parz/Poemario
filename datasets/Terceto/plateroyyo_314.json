@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "¡Cómo sopla el Norte! Mira, por el suelo, las ramitas caídas; es el\nviento tan agudo, tan derecho, que están todas paralelas, apuntadas al\nSur.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

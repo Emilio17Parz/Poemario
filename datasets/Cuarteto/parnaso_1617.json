@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Hacer lo que me mandas está llano\nCon condicion que en el camino cuentes,\nQuién á tu amado esposo y caro hermano\nTruxo á los postrimeros accidentes.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

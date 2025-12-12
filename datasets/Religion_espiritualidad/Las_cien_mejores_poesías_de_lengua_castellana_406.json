@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Cómo caíste despeñado al suelo,\nAstro de la mañana luminoso?\nÁngel de luz, ¿quién te arrojó del cielo\nA este valle de lágrimas odioso?\nAun cercaba tu frente el blanco velo\nDel serafín, y en ondas fulguroso\nRayos al mundo tu esplendor vertía,\nY otro cielo el amor te prometía.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

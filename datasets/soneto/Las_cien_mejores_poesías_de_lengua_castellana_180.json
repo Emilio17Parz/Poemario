@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Agora con la aurora se levanta\nmi luz, agora coge en rico ñudo\nel hermoso cabello, agora el crudo\npecho ciñe con oro, y la garganta.\nAgora vuelta al cielo pura y santa\nlas manos y ojos bellos alza, y pudo\ndolerse agora de mi mal agudo;\nagora incomparable tañe y canta.\nAnsí digo, y del dulce error llevado,\npresente ante mis ojos la imagino,\ny lleno de humildad y amor la adoro.\nMas luego vuelve en sí el engañado\nánimo, y conociendo el desatino,\nla rienda suelta largamente al lloro.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

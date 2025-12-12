@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El montero, sin despegar los labios, arrastró su banquillo hasta\ncolocarlo junto al escaño de su señor, del que no apartaba un punto\nlos espantados ojos. Éste, después de coordinar sus ideas, prosiguió\nasí:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

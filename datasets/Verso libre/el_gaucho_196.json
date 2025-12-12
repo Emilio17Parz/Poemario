@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "167\nEntro y salgo del peligro\nsin que me espante el estrago,\nno aflojo al primer amago\nni jamás fi gaucho lerdo:\nsoy pa rumbiar como el cerdo,\ny pronto caí a mi pago.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

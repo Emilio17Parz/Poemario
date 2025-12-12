@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En vano, muchas veces, temerario,\nintenté refrenar con valla ruda\nel cauce de mis penas tumultuario:\nno he logrado desviarme del calvario\ndonde sucumbo sin piedad ni ayuda.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

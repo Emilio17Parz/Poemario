@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Séte decir, señor, que no hay soldado\nQue no te tema juntamente y te ame;\nY porque ese valor tuyo estremado\nDe Antartico á Calisto se derrame,\nCada qual con feroz animo osado,\nQuando la trompa á la ocasión le llame,\nPiensa de hacer en tu servicio cosas\nQue pasen las hazañas fabulosas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

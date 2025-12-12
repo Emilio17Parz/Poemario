@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Qué te importa! si has vivido\nCantando cual la cigarra,\nAl son de humilde guitarra\nBajo el ombú colosal!\nSi tus ojos se han nublado\nEntre mil aclamaciones,\nSi tus _cielos_ y canciones\nEn el pueblo vivirán!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

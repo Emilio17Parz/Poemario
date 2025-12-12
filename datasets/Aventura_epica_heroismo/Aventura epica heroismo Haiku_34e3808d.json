@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Aventura epica heroismo",
   "poema": {
     "texto": "Cae un pétalo\nsobre la tierra húmeda y negra.\nGesta del jardín.",

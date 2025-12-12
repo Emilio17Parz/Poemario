@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En el estudio, lleno de tristeza,\nla mujer y la fiera son tan bellas,\nque parece tangible su belleza\ncual si la vida palpitase en ellas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

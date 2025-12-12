@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Suspira así! Revuelen las abejas\nAl olor de la olímpica ambrosía,\nEn los perfumes que en el aire dejas;\nY el dios de piedra se despierte y ría.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--En verdad que esto es extraño, murmuró Lope mirando al farolillo,\nque espontaneamente habia vuelto á encenderse, y se mecía con lentitud\nen el aire, derramando una claridad trémula y extraña sobre el\namarillo craneo de la calavera colocada a los pies de Cristo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

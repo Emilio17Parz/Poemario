@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Sólo tu corazón caliente,\nY nada más.\nMi paraíso, un campo\nSin ruiseñor\nNi liras,\nCon un río discreto\nY una fuentecilla.\nSin la espuela del viento\nSobre la fronda,\nNi la estrella que quiere\nSer hoja.\nUna enorme luz\nQue fuera\nLuciérnaga\nDe otra,\nEn un campo de\nMiradas rotas.\nUn reposo claro\nY allí nuestros besos,\nLunares sonoros\nDel eco,\nSe abrirían muy lejos.\nY tu corazón caliente,\nNada más.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "239\nPara el son los calabozos,\npara el las duras prisiones,\nen su boca no hay razones\naunque la razón le sobre;\nque son campanas de palo\nlas razones de los pobres.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

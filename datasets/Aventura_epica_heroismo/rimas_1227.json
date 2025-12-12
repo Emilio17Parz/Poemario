@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La noche comenzaba, en efecto, á entrarse fría y oscura. De pico á\npico de la elevada cresta del Moncayo, se extendían largas bandas\nde nubes color de plomo, que, arrolladas hasta aquel momento por la\ninfluencia del sol, parecían haber esperado á que se ocultase para\ncomenzar á removerse con lentitud, como esos monstruos deformes\nque produce el mar y que se arrastran trabajosamente en las playas\ndesiertas. El ancho horizonte que se descubría desde las alturas,\niba poco á poco palideciendo y pasando del rojo al violado por un\npunto, mientras por el contrario asomaba la luna, redonda, encendida,\ngrande, como un escudo de batallar, y por el dilatado espacio del\ncielo las estrellas aparecían unas tras otras, amortiguada su luz por\nla del astro de la noche.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

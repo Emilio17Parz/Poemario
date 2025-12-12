@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Está abierto el jardín... ¡Cómo invita su olor\na subir al azul y olvidar el fangal,\nlo que tiene de vil nuestra arcilla mortal,\nlo que pone en la miel de la vida un sabor\nparecido al cruel de las \"flores del mal\".",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

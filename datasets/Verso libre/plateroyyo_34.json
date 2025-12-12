@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La cumbre. Ahí\nestá el ocaso,\ntodo empurpurado,\nherido por sus propios\ncristales, que le\nhacen sangre por\ndoquiera. A su esplendor,\nel pinar\nverde se agria, vagamente\nenrojecido;\ny las hierbas y las\nflorecillas, encendidas\ny transparentes,\nembalsaman el instante\nsereno de una\nesencia mojada, penetrante y luminosa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

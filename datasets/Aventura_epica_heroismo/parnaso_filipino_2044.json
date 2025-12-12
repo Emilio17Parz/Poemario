@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Años ha que mi navío,\ndespués de tender la lona\ny recorrer la ancha zona\nde la mar a su albedrío,\ncedió pío\nde mi afán al hondo anhelo.\nA tus playas se acercó\ny benigno me dejó,\nManila, sobre tu suelo.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

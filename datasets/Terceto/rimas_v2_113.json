@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Queda establecido que el idioma italiano es hijo de la poesía, y esta\ncreacion bastaría por sí sola para inmortalizar á su progenitor, y\ndesmentir las imputaciones de esterilidad que se le hacen.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

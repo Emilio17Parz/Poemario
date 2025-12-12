@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Me contestó la esquiva amada de los vates\nque tú vives muy lejos, que fué tu amor un mito,\nque en tu corazón tierno\nha muerto aquel cariño\nque hizo feliz un día a tu caro poeta\ny dió a sus locos versos un eternal prestigio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

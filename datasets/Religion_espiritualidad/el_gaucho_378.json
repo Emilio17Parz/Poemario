@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "345\nNo hay juerza contra el destino\nque le ha señalao el cielo,\ny aunque no tenga consuelo,\n¡aguante el que está en trabajo!\n¡Nadies se rasca pa abajo,\nni se lonjea contra el pelo!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida, que desalada,\nDe un vértigo del infierno\nCorre en pos:\nElla corre hacia la nada;\n¿Quieres ir hacia lo eterno?\nVe hacia Dios.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

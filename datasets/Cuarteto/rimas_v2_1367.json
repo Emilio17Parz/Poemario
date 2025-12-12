@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¿Por qué el despojo de este ser inquieto\nNo se resigna al misterioso olvido,\nY el mundo deja con pavor secreto\nMirando atras con ojo amortecido?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

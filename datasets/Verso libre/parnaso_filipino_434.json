@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si están ahitos de llorar tus ojos,\ny en otros días te causara enojos,\nla era de paz y de perdón se inicie.\n¡Oh, qué mejor que tras la despedida,\nseamos como el agua, en dos partida,\nque se torna a juntar en la planicie!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

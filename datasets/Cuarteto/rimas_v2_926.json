@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ayer á mi patria miré que gozaba\nLos bienes preciosos de paz é igualdad,\nY hoy veo que esclava, y en sangre revuelta\nSe ofrece á los rayos del gran luminar.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

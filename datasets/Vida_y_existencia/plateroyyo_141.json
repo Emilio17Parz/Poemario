@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La luna viene con nosotros, grande, redonda, pura. En los prados\nsoñolientos se ven, vagamente, no sé qué cabras negras, entre las\nzarzamoras... Alguien se esconde, tácito, á nuestro pasar... Sobre el\nvallado, un almendro inmenso, níveo de flor y de luna, revuelta la copa\ncon una nube blanca, cobija el camino asaeteado de estrellas de Marzo...\nUn olor penetrante á naranjas..., humedad y silencio... La cañada de\nlas Brujas...",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

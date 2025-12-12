@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Poeta, mi lira gime,\nPero ni un canto sublime\nViene á mí,\nQue solo, el genio divino,\nQue arrastra cual torbellino,\nTe dió á tí.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

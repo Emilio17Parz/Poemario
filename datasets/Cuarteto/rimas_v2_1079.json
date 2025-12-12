@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¿Cómo pintar tu rubia cabellera\nQue en ondas de oro baja de tu frente,\nSin las hebras de luz del sol ardiente\nCuando espléndido brilla en alta esfera?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

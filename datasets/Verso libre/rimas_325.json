@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El palacio de un magnate convertido en corral de vecindad; la casa de\nun alfaquí habitada por un canónigo; una sinagoga judía transformada\nen oratorio cristiano; un convento levantado sobre las ruinas de una\nmezquita árabe, de la que aún queda en pie la torre; mil extraños\ny pintorescos contrastes, mil y mil curiosas muestras de distintas\nrazas, civilizaciones y épocas compendiadas, por decirlo así, en cien\nvaras de terreno. He aquí todo lo que se encuentra en esta calle:\ncalle construída en muchos siglos, calle estrecha, deforme, oscura y\ncon infinidad de revueltas, donde cada cual al levantar su habitación\ntomaba una saliente, dejaba un rincón ó hacía un ángulo con arreglo á\nsu gusto, sin consultar el nivel, la altura ni la regularidad; calle\nrica en no calculadas combinaciones de líneas, con un verdadero lujo\nde detalles caprichosos, con tantos y tantos accidentes, que cada vez\nofrece algo nuevo al que la estudia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

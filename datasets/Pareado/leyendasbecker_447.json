@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "There are twenty possible assonances in Spanish: á, ó, é, i, ú, á-a,\ná-e, á-o, é-a, é-e, é-o, ó-a, ó-e, ó-o, i-a, i-e, i-o, ú-a, ú-e, ú-o.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Para alcanzar la gloria, son una misma cosa\nel pincel elegante y el mohoso fusil,\nla melena del vate y el casco del guerrero,\nel son de los cañones y el llanto del violín.\nLo mismo premia el mundo con lauros al artista\nque al valiente soldado que sucumbió en la lid;\nporque si la lid siembra de mártires la historia,\nel Arte la convierte en florido pensil.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

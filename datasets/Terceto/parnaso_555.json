@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "FRAY JUAN BAPTISTA CAPATAZ se llama,\nDescalzo y pobre, pero bien vestido,\nCon el adorno que le da la fama.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

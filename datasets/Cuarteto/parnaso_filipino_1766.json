@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "De la lectura de sus versos goza\nbesando aquellos que le mienten gozo,\ny ante los tristes con pesar solloza\nponiendo el alma toda en un sollozo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

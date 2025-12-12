@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La blanca aurora rompe el denso velo\nQue sobre sus espaldas se ve ondear,\nCual tú, graciosa, al despertar apartas\nEl pelo de oro que robó tu faz.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

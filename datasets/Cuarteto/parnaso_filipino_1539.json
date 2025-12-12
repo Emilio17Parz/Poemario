@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mas tú vendrás inspiración sagrada,\nde nuevo a caldear mi fantasía\ncuando mustia la fé, rota la espada,\nmorir no pueda por la patria mía...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

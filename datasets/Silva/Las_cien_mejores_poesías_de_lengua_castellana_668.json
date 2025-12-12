@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Silva",
+  "poema": {
+    "texto": "Envuelta en el sudario\nDe un vergonzoso olvido,\nFuera la Tierra el miserable osario\nDe las humanas razas, si el gemido\nO el cántico de gloria\nDe los antiguos vates,\nEco veraz de la solemne historia,\nNo nos trajera en clamoroso ruido\nSus fragorosas ruinas y combates,\nAyes de muerte y gritos de victoria.\nDe un siglo al otro siglo el viento lleva\nEn las vibrantes cuerdas de la lira,\nLa predicción de la esperanza nueva\nO el triste llanto de la edad que expira,\nY como en la callada\nSoledad de las noches de astro en astro\nVuela el pálido rastro\nDe la luz increada,\nAsí el vate, en la oscura\nNoche del tiempo que el pasado esconde,\nHabla a los bardos de la edad futura,\nY Osián los cantos de Ilión murmura\nY Dante al salmo de David responde.",
+    "tipo": "silva",
+    "palabra_clave_ingresada": "Combinación silva (7 y 11)"
+  }
+}

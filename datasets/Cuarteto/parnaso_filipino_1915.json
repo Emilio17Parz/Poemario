@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Loor al que salva al pueblo corrompido\ndel mal que le esclaviza y le pervierte!\nPor rescatar al mundo envilecido\nCristo aceptó la cruz hasta la muerte.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

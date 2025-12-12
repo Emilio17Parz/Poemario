@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--No es esto decir que yo le tenga miedo á la bruja, pues de los\nmíos sólo á mi hermana la mayor, al _pequeñico_ y á mi padre puede\nhacerles mal.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

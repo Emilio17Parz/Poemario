@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Había transcurrido un año más. La abadesa del convento de Santa\nInés y la hija de maese Pérez hablaban en voz baja, medio ocultas\nentre las sombras del coro de la iglesia. El esquilón llamaba á voz\nherida á los fieles desde la torre, y alguna que otra rara persona\natravesaba el atrio silencioso y desierto esta vez, y después de\ntomar el agua bendita en la puerta, escogía un puesto en un rincón\nde las naves, donde unos cuantos vecinos del barrio esperaban\ntranquilamente que comenzara la Misa del Gallo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

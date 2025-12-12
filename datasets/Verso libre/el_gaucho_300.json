@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "268\nA otro que estaba apurao\nacomodando una bola,\nle hice una dentrada sola\ny le hice sentir el Fierro,\ny ya salió como el perro\ncuando le pisan la cola.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Oh vaso de dolor! ¡oh pecho mío\nque sabes convertir tu muerte en vida!\nsi has de seguir amando sin hastío\n¿quién habrá de curar tu eterna herida?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y con acento suave\nSe queja una simple ave,\nY en amorosa prision\nAsí aliviarse pretende;\nQue al fin la queja se entiende\nSi se ignora la cancion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

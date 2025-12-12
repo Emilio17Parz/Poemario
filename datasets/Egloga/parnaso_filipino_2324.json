@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "ADELINA GURREA\nEl nido                                         143\nA mis primos                                    147\nEl fantasma de María Clara                      151\nDel prado amigo                                 154\nNo estés triste                                 155",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "prado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Eco en botella marina.",
+  "poema": {
+    "texto": "Botella marina, tú voz llena de ecos,\nTu soledad en las olas reflejada.\nLlanto del mar, cantos desesperados,\nEco mudo que se une a la sombra.\n\nMarinero fantasma, tu tristeza,\nSe esparce por el cielo sin fin.\nRecuerdo de tiempo perdido,\nEn tus oídos, ecos trágicos se escuchan.\n\nEspuma blanca que brilla en la noche,\nTú llevas a las estrellas un recuerdo.\nEl mar es el olvido y el fin del comienzo,\nEco de amor perdido en la botella.",
+    "tipo": "Verso_libre",
+    "palabra_clave_ingresada": "Eco"
+  }
+}

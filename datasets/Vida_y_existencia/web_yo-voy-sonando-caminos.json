@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Yo voy soñando caminos\nde la tarde. ¡Las colinas\ndoradas, los verdes pinos,\nlas polvorientas encinas!...\n¿Adónde el camino irá?\nYo voy cantando, viajero\na lo largo del sendero...\n-la tarde cayendo está-.\n\"En el corazón tenía\n\"la espina de una pasión;\n\"logré arrancármela un día:\n\"ya no siento el corazón\".\nY todo el campo un momento\nse queda, mudo y sombrío,\nmeditando. Suena el viento\nen los álamos del río.\nLa tarde más se oscurece;\ny el camino que serpea\ny débilmente blanquea\nse enturbia y desaparece.\nMi cantar vuelve a plañir:\n\"Aguda espina dorada,\n\"quién te pudiera sentir\n\"en el corazón clavada\".",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

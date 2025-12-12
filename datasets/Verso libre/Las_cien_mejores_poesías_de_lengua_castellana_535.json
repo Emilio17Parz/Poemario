@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Cuán inútil es que huyamos\nDe los fáciles amores\nCon horror,\nSi cuanto más las pisamos,\nMás nos embriagan las flores\nCon su olor!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

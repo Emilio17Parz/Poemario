@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "LIRA.\nQue me tiene tal la hambre,\nQue de mi vital estambre\nLlevará presto la palma.\nQué tálamo has de esperar\nDe quien está en tal estremo,\nQue te aseguro que temo\nAntes de un hora espirar.\nMi hermano ayer espiró\nDe la hambre fatigado,\nY mi madre ya ha acabado,\nQue la hambre la acabó.\nY si la hambre y su fuerza\nNo ha rendido mi salud,\nEs porque la juventud\nContra su rigor se esfuerza.\nPero como ha tantos dias\nQue no le hago defensa,\nNo pueden contra su ofensa\nLas debiles fuerzas mias.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

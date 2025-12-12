@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Confieso que al principio, a pesar de la amable dedicatoria con que\nusted me envía un ejemplar, miré el libro con indiferencia... casi con\ndesvío. El título _Azul..._ tuvo la culpa.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Qué te importa si en el mundo\nTu fama no se pregona?\nTú ya tienes la corona\nDel poeta popular.\nY es mas bello, que en el bronce,\nEn el mármol ó granito,\nHaber sus obras escrito\nEn la memoria tenaz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

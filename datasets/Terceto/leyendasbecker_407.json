@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Verses of ten syllables are used with those of twelve (p. 164, I); and\nalso with those of six (p. 167, VII). These meters lend themselves to\nregularly recurring stress more readily than any others.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

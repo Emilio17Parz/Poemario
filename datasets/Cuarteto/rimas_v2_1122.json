@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Se ciñen los montes coronas de hielo,\nDe blancas espumas las olas del mar,\nDe fresco rocío las plantas del suelo,\nDe llamas rojizas la esfera solar.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

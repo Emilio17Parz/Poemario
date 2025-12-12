@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "1\nEn el café de Chinitas\ndijo Paquiro a su hermano:\n«Soy más valiente que tú,\nmás torero y más gitano».\n2\nEn el café de Chinitas\ndijo Paquiro a Frascuelo:\n«Soy más valiente que tú,\nmás gitano y más torero».\n3\nSacó Paquiro el reló\ny dijo de esta manera:\n«Este toro ha de morir\nantes de las cuatro y media».\n4\nAl dar las cuatro en la calle\nse salieron del café\ny era Paquiro en la calle\nun torero de cartel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

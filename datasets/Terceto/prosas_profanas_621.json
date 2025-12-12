@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "«Sois un hada», le dije: «Soy un hada, me dijo:\nY de la primavera celebro el regocijo\nDándoles vida y vuelo a estas hojas de rosa.»",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

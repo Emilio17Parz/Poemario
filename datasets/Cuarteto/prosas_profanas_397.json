@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y de la eterna Belleza en el ara,\nAnte su sacra y grandiosa escultura,\nHay una lámpara en albo carrara.\nDe una eucarística y casta blancura.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ni yo sé que te diga, Silvia mia,\nSino que á tal estremo soi venida,\nQue le tengo de amar sea quien se fuere;\nSolo te ruego, que procures, Silvia,\nDe ablandar esta fiera tigre Hircana,\nY atraerle con dulces sentimientos\nA que sienta la pena que padece\nEsta misera esclava de su esclavo:\nY si esto, Silvia, haces, yo te juro\nPor todo el Alcoran de buscar modo\nComo con brevedad alegre vuelvas\nAl patrio dulce suelo deseado.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

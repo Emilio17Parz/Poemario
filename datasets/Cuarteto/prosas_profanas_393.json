@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tiene por templo un alcázar marmóreo,\nGuárdalo esfinge de rostro egipciaco,\nY cual labrada en un bloque hiperbóreo,\nVenus enfrente de un triunfo de Baco.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

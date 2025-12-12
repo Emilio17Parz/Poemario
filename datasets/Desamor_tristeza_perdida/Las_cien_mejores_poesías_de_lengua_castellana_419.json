@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Pobre Teresa! Cuando ya tus ojos\nÁridos ni una lágrima brotaban;\nCuando ya su color tus labios rojos\nEn cárdenos matices se cambiaban;\nCuando de tu dolor tristes despojos\nLa vida y su ilusión te abandonaban,\nY consumía lenta calentura\nTu corazón al par de tu amargura;",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

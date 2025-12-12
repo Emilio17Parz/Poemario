@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ella movió la cabeza:--No. ¿Por la ricachona Gabriela, de largos\ncabellos negros, blanca como un alabastro y cuyo busto había hecho? ¿O\npor aquella Luisa, la danzarina, que tenía una cintura de avispa, un\nseno de buena nodriza y unos ojos incendiarios? ¿O por la viudita\nAndrea, que al reir sacaba la punta de la lengua, roja y felina, entre\nsus dientes brillantes y amarfilados?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

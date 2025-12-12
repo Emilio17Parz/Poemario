@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Yo no acertaré nunca á dar la razón; pero es el caso que la historia\nde las armas vacías me pareció siempre una fábula tejida en favor de\nalgún noble personaje, á quien tal vez altas razones de conveniencia\npública no permitían ni descubrir ni castigar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

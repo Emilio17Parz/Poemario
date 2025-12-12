@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Bajo tu dirección, la masa estoica\nse redimió con el esfuerzo suyo;\nsi Bonifacio y su legión heroica\ntriunfo obtuvieron, ¡fué ese triunfo tuyo!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

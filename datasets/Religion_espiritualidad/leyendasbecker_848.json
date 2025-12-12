@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La catedral estaba llena de estatuas, estatuas que, vestidas con\nluengos y no vistos ropajes, habían descendido de sus huecos, y\nocupaban todo el ámbito de la iglesia, y le miraban con sus ojos sin\npupila.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

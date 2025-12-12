@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "In (iii) there will be a combination of two vowels before the accent,\nand one of two vowels with the second accented. In _rehuí_, for\nexample, the e and u might be in the same syllable by a (1), or in\nseparate syllables by dieresis by a (1) (a), and the u and í might be\nin separate syllables or not by b (3) (b). Therefore, _rehuí_ might be\na monosyllable, a dissyllable, or a trisyllable.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Me sucede una cosa muy extraña, exclamó Esteban. Cuando después de\nescuchar las palabras que dejo referidas, me incorporé con prontitud\npara sorprender á la persona que las había pronunciado, una corza\nblanca como la nieve salió de entre las mismas matas en donde yo\nestaba oculto, y dando unos saltos enormes por cima de los carrascales\ny los lentiscos, se alejó seguida de una tropa de corzas de su color\nnatural, y así estas como la blanca que las iba guiando, no arrojaban\nbramidos al huir, sino que se reían con unas carcajadas, cuyo eco\njuraría que aún me está soñando en los oídos en este momento.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

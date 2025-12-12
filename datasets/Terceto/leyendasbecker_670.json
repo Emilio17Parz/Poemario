@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Entre los monteros de don Dionís habla uno llamado Garcés, hijo de un\nantiguo servidor de la familia, y por tanto el más querido de sus\nseñores.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

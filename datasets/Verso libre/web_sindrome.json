@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todavía tengo casi todos mis dientes\ncasi todos mis cabellos y poquísimas canas\npuedo hacer y deshacer el amor\ntrepar una escalera de dos en dos\ny correr cuarenta metros detrás del ómnibus\no sea que no debería sentirme viejo\npero el grave problema es que antes\nno me fijaba en estos detalles.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

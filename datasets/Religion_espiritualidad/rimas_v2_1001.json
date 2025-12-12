@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Así al cruzar el valle de la vida\nTe miré y admiré flor bendecida,\nCaida de la corona de mi Dios,\nY seria feliz al contemplarte\nSi no tuviese pronto que dejarte\nY decirte por siempre: ¡Adios! Adios!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

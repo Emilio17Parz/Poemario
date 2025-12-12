@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Dichosas las manos de los pequeñuelos\nque aun aroma el óleo de la tradición,\ny dejan zapatos como barquichuelos\nen espera de algo, sobre algún balcón...!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

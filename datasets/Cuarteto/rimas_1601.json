@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Qué hermoso es cuando en copos\nLa blanca nieve silenciosa cae,\nDe las inquietas llamas\nVer las rojizas lenguas agitarse!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

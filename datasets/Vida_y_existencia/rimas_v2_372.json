@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "«Su grande destino la muerte ha cortado!\nLa causa camina, pero ¡ay! está helado\nEl soplo de fuego que vida le dió!\nAsí en otros tiempos en circo estendido\nEl fuerte guerrero yacia caido\nY el carro que hollaba seguir triunfador!»",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Los niños han ido con Platero al arroyo de los chopos, y ahora lo traen\ntrotando, entre juegos y risas, todo cargado de flores amarillas. Allá\nabajo les ha llovido--aquella nube fugaz que veló el campo verde con sus\nhilos de oro y plata--. Y sobre la empapada lana del asnucho las mojadas\ncampanillas gotean todavía.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "fugaz"
+  }
+}

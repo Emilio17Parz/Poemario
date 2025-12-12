@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "La noche de difuntos me despertó á no sé qué hora el doble de las\ncampanas; su tañido monótono y eterno me trajo á las mientes esta\ntradición que oí hace poco en Soria.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

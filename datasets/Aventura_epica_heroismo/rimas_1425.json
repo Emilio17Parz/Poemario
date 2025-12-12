@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Como en cuna de nácar\nQue empuja el mar y que acaricia el céfiro,\nTal vez allí dormía\nAl soplo de sus labios entreabiertos.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

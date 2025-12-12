@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Llegó, y al punto della desembarca\nEl gran DON JUAN DE ARGOTE Y DE GAMBOA\nEn compañia de DON DIEGO ABARCA,",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

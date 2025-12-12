@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Había allí aire fresco para sus pulmones, casas sobre cumbres, como\nnidos al viento, donde bien podía darse el gusto de colocar parejas\nenamoradas, y tenía además el inmenso espacio azul, del cual--él lo\nsabía perfectamente--los que hacen los salmos y los himnos pueden\ndisponer como les venga en antojo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

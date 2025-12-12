@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Frente color de aurora, donde bellas florecen,\ncon aromas de cielo, flores de castidad;\nmejillas sonrosadas que en su gracia parecen\nvírgenes de los lienzos de la pasada edad.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

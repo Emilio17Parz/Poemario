@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Amo tu delicioso alejandrino\ncomo el de Hugo, espíritu de España;\néste vale una copa de champaña\ncomo aquél vale «un vaso de bon vino».\nMas a uno y otro pájaro divino\nla primitiva cárcel es extraña;\nel barrote maltrata, el grillo daña,\nque vuelo y libertad son su destino.\nAsí procuro que en la luz resalte\ntu antiguo verso, cuyas alas doro\ny hago brillar con mi moderno esmalte;\ntiene la libertad con el decoro\ny vuelve, como al puño el gerifalte,\ntrayendo del azul rimas de oro.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

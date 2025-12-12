@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Por las fieras hambrientas perseguido\nCruza indómito potro las llanuras,\nY amarrado con fuertes ligaduras\nEn sus hombros Mazzepa va tendido.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

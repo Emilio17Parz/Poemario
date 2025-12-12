@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Olas que vienen\nrompen con fuerza en la arena\ncanto del océano",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

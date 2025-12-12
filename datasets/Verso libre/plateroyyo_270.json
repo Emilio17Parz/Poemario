@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ahora que viene la primavera, pienso en el niño tonto, que desde la\ncalle de San José se fué al cielo. Estará sentado en su sillita, al lado\nde las rosas, viendo con sus ojos, abiertos otra vez, el dorado pasar de\nlos gloriosos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

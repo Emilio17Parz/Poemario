@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡No! No esa humanidad tan corrompida\nque pisotea la honra y el decoro;\n¡e hipoteca el amor y hasta la vida\npor la ruindad, el cálculo y el oro!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

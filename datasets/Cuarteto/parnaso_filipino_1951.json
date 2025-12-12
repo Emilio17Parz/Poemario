@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Aún respiran los viejos corazones\nque arrullaron al mundo en sus ternezas,\ny ante quienes bajaron las cabezas\nel orgullo de cien Napoleones;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

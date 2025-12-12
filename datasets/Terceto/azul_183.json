@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "¿Faltaba su opinión? Pues bien, ante la selva enorme y sonora, bajo el\nazul sagrado, el asno movió la cabeza de un lado a otro, grave, terco,\nsilencioso, como el sabio que medita.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

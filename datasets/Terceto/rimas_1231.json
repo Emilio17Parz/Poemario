@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--¡Espíritus de las aguas y de los aires, vosotros, que sabéis\nhoradar las rocas y abatir los troncos más corpulentos, agitaos y\nobedecedme!",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

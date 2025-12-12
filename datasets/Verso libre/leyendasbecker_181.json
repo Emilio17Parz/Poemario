@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Juan Valera. In _Florilegio de Poesías Castellanas del Siglo XIX, Tomo\nI, Madrid, Fernando Fé, 1902_, pp. 182-191, may be found an excellent\nappreciation of the poet by one of the most capable of Spanish critics\nand a personal friend of Becquer.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

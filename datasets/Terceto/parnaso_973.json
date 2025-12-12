@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Tal huvo, que cayendo se resuelve\nDe asirse de una zarza ó cabrahigo,\nY en llanto á lo de Ovidio se disuelve.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

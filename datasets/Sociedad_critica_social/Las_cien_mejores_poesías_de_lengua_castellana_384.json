@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mi vida entonces, cual guerrera nave\nQue el puerto deja por la vez primera,\nY al soplo de los céfiros suave\nOrgullosa desplega su bandera,\nY al mar dejando que a sus pies alabe\nSu triunfo en roncos cantos, va velera,\nUna ola tras otra bramadora\nHollando y dividiendo vencedora.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

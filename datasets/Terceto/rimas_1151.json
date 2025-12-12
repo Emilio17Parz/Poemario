@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Dios, aunque invisible, tiene siempre una mano tendida para levantar\npor un extremo la carga que abruma al pobre. Si no, ¿quién subiría la\náspera cumbre de la vida con el pesado fardo de la miseria al hombro?",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

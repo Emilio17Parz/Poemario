@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando me asaltan estas ideas, en vano hago esfuerzos por templarme\ncomo ustedes y entrar á compás en la danza. No oigo la música\nque lleva á todos envueltos como en un torbellino; no veo en esa\nagitación continua, en ese ir y venir, más que lo que ve el que mira\nun baile desde lejos, una pantomima muda é inexplicable, grotesca\nunas veces, terrible otras.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Alma de Diciembre, beso de la Pascua\nque aromas la arcilla de mi corazón!\n¿Por qué en nuestras vidas no pones un ascua\nde candor eterno y eterna ilusión?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

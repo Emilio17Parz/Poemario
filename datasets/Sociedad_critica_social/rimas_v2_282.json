@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Y sus hijas tambien, con patriotismo,\nBendan al que cayó con heroismo\nDefendiendo su hogar y castidad;\nY comprendiendo su mision inmensa\nSe entregan de la patria á la defensa\nOfreciendo sus hijos en su altar.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

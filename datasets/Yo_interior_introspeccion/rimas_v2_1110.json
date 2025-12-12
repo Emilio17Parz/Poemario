@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Un dia que en un jardin\nIvamos juntando flores\n(Emblemas de los amores\nQue en la tierra puso Dios)\nUn pensamiento la di,\nY ella me dió un pensamiento,\nY animada de contento\nFormó un ramo de los dos.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "pensamiento"
+  }
+}

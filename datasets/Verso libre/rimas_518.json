@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La luna, que había ido remontándose con lentitud por el ancho\nhorizonte, estaba inmóvil y como suspendida en la mitad del cielo.\nSu dulce claridad inundaba el soto, abrillantaba la intranquila\nsuperficie del río y hacía ver los objetos como á través de una gasa\nazul.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

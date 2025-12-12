@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Virgen con miriñaque,\nvirgen de Soledad,\nabierta como un inmenso\ntulipán.\nEn tu barco de luces\nvas\npor la alta marea\nde la ciudad,\nentre saetas turbias\ny estrellas de cristal.\nVirgen con miriñaque\ntú vas\npor el río de la calle,\n¡hasta el mar!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

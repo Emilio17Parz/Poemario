@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Yo he visto los lemures flotar, en los nocturnos\nInstantes, cuando escuchan los bosques taciturnos\nEl loco grito de Atis que su dolor revela\nO la maravillosa canción de Filomela.\nEl galope apresuro, si en el boscaje miro\nManes que pasan, y oigo su fúnebre suspiro.\nPues de la Muerte el hondo, desconocido Imperio,\nGuarda el pavor sagrado de su fatal misterio.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

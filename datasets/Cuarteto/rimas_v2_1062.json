@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No te diré si tus cabellos rubios\nQue circundan tu frente cual capuz,\nLlamas son de magnéticos efluvios\nQue de tu mente vuelan á la luz.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

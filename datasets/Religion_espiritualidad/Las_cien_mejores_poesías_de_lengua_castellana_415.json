@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Y tan joven, y ya tan desgraciada!\nEspíritu indomable, alma violenta,\nEn ti, mezquina sociedad, lanzada\nA romper tus barreras turbulenta.\nNave contra las rocas quebrantada,\nAllá vaga, a merced de la tormenta,\nEn las olas tal vez náufraga tabla,\nQue solo ya de sus grandezas habla.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

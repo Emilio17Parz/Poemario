@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si D. Francisco de Quevedo no huviere partido para venir á Sicilia,\ndonde le esperan, toquele vm. la mano, y digale que no dexe de llegar\ná verme, pues estaremos tan cerca; que quando aqui vino, por la subita\npartida no tuve lugar de hablarle.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

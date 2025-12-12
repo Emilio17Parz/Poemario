@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Al compás de un canto de artista de Italia\nQue en la brisa errante la orquesta deslíe,\nJunto a los rivales, la divina Eulalia,\nLa divina Eulalia, ríe, ríe, ríe.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Soplo entre cañas\nDanzan los juncos del río\nMurmullo es paz",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

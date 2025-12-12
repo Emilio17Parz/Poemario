@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tengo miedo. La tarde es gris y la tristeza\ndel cielo se abre como una boca de muerto.\nTiene mi corazón un llanto de princesa\nolvidada en el fondo de un palacio desierto.\nTengo miedo -Y me siento tan cansado y pequeño\nque reflojo la tarde sin meditar en ella.\n(En mi cabeza enferma no ha de caber un sueño\nasí como en el cielo no ha cabido una estrella.)\nSin embargo en mis ojos una pregunta existe\ny hay un grito en mi boca que mi boca no grita.\n¡No hay oído en la tierra que oiga mi queja triste\nabandonada en medio de la tierra infinita!\nSe muere el universo de una calma agonía\nsin la fiesta del Sol o el crepúsculo verde.\nAgoniza Saturno como una pena mía,\nla Tierra es una fruta negra que el cielo muerde.\nY por la vastedad del vacío van ciegas\nlas nubes de la tarde, como barcas perdidas\nque escondieran estrellas rotas en sus bodegas.\nY la muerte del mundo cae sobre mi vida.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

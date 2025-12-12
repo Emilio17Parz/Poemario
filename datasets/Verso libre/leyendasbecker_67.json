@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: The complete title of the work is _Historia de los\nTemplos de España, publicada bajo la protección de SS. MM. AA. y muy\nreverendos señores arzobispos y obispos--dirigida por D. Juan de la\nPuerta Vizcaino y D. Gustavo Adolfo Becquer. Tomo I, Madrid, 1857.\nImprenta y Estereotipia Española de los Señores Nieto y Compañía._]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

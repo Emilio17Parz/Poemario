@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Yo admiro el alto vuelo de tu ideal conquista\nque, alzándose del lodo de la mortal miseria,\nabarca el mundo hispano con ojo imperialista,\ny aspira, por la magia del sabio y del artista,\na establecer las bases de una mayor Iberia.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

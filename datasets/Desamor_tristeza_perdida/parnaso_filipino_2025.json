@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¿Sabéis dónde ha nacido la plácida corriente?\nBrotaron de las rocas sus gotas de cristal\ny cáliz son las rocas en el que lentamente\ncayendo van las lágrimas de un llanto universal.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

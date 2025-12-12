@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "mientras de Marte bélicas canciones\nel pecho llenan de feroz bravura,\ntornando en lobo al hombre en la espesura\ny en rayo el galopar de los bridones,",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Pues en la paz del campo la faz de Dios asoma.\nDe las floridas urnas místico incienso aroma\nEl vastor altar en donde triunfa la azul sonrisa;",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

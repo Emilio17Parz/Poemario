@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Abajo estaban las techumbres del Valparaíso que hace transacciones, que\nanda a pie como una ráfaga, que puebla los almacenes e invade los\nbancos, que viste por la mañana terno crema o plomizo, a cuadros, con\nsombreros de paño, y por la noche bulle en la calle del Cabo con\nlustroso sombrero de copa, abrigo al brazo y guantes amarillos, viendo a\nla luz que brota de las vidrieras los lindos rostros de las mujeres que\npasan.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

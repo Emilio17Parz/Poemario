@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "De luces coronada\nLa sombra de los fuertes,\nEn túmulos inertes\nRelucirá animada,\nCual la vision fantástica\nDel Cristo Salvador.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cristo"
+  }
+}

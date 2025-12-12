@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Jamás escelso circundó tu frente\nEl lauro hermoso que la patria dá,\nY que en la sien augusta del poeta\nSemeja una aureola celestial.\nLa corona de espinas del martirio\nEnsangrentó tu macilenta faz,\nComo á Jesus clavado en el madero\nPorque dijo: «vivimos para amar».\nIgnoto y melancólico pasaste\nPara volar al cielo á descansar;\nPorque el genio es un pobre jornalero\nQue fecunda la tierra con afan,\nY la hace producir sabrosos frutos\nQue no es dado á sus labios el gustar.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

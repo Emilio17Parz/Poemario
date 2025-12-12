@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "¡Tarde equívoca de Abril!... Los ojos brillantes y vivos de Platero\ncopian todo el paisaje de sol y de lluvia. En ocaso, sobre el campo de\nSan Juan, se ve llover, deshilachada, otra nube rosa...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

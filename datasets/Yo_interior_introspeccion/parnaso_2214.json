@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Pues qué quieres que haga, Saavedra?\nQue mis ancianos padres ya son muertos,\nY un hermano que tengo, se ha entregado\nEn la hacienda y bienes que dexaron,\nEl qual es tan avaro, que aunque sabe\nLa esclavitud amarga que padezco,\nNo quiere dar para librarme della\nUn real de mi mismo patrimonio.\nComo esto considero, y veo que tengo\nUn amo cruel, como tu sabes,\nEl qual piensa que soi yo caballero,\nY que no hay modo que limosna alguna\nLlegue á dar el dinero que él me pide,\nY la insufrible vida que padezco,\nDe hambre, desnudez, cansancio y frio,\nDetermino morir antes huyendo,\nQue vivir una vida tan mezquina.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "mismo"
+  }
+}

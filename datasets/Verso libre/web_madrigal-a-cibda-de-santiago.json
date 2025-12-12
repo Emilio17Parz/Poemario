@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Chove en Santiago\nmeu doce amor.\nCamelia branca do ar\nbrila entebrecida ô sol.\nChove en Santiago\nna noite escura.\nHerbas de prata e de sono\ncobren a valeira lúa.\nOlla a choiva pol-a rúa,\nlaio de pedra e cristal.\nOlla no vento esvaído\nsoma e cinza do teu mar.\nSoma e cinza do teu mar\nSantiago, lonxe do sol.\nÃgoa da mañán anterga\ntrema no meu corazón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

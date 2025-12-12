@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "¡Muera yo así en mi Patria redimida\nDejándola con gloria y libertad!\n¡Muera yo así cantando en mi caida\nEl himno de la Paz y la Igualdad!\n¡Pueda llegar hasta el hermoso dia,\nEn que suba mi Patria á su alto asiento,\nY ábranse con estruendo en el momento\nLas puertas de la negra eternidad!",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

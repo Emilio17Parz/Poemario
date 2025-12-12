@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Descansa en esa almohada\nCon la frente coronada\nDe laurel;\nY no te importe que el hombre\nNo haya gravado tu nombre\nCon cincel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

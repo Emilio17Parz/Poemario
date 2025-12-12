@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los amorosos son los que abandonan,\nson los que cambian, los que olvidan.\nJaime Sabines\nCada ciudad puede ser otra\ncuando el amor la transfigura\ncada ciudad puede ser tantas\ncomo amorosos la recorren\nel amor pasa por los parques\ncasi sin verlos amándolos\nentre la fiesta de los pájaros\ny la homilía de los pinos\ncada ciudad puede ser otra\ncuando el amor pinta los muros\ny de los rostros que atardecen\nunos es el rostro del amor\ny el amor viene y va y regresa\ny la ciudad es el testigo\nde sus abrazos y crepúsculos\nde sus bonanzas y aguaceros\ny si el amor se va y no vuelve\nla ciudad carga con su otoño\nya que le quedan sólo el duelo\ny las estatuas del amo",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

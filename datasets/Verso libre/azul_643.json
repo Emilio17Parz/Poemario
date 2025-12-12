@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hermoso el día dorado, después de lo del cura. Habían ido luego al campo\nnuevo; a gozar libres del gozo del amor. Murmuraban allá en sus\nventanas de hojas verdes, las campanillas y las violetas silvestres que\nolían cerca del riachuelo, cuando pasaban los dos amantes, el brazo de\nél en la cintura de ella, el brazo de ella en la cintura de él, los\nrojos labios en flor dejando escapar los besos. Después, fué la vuelta a\nla gran ciudad, al nido lleno de perfume, de juventud y de calor\ndichoso.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

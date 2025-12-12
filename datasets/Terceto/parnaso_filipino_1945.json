@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Poeta nuevo. Ha escrito poco. Colabora en \"La Defensa\", diario\ncatólico de Manila. Muestra la gentileza de cantar en sus primeros\nversos a la patria de la colonización.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

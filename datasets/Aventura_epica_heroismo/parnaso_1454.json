@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En forma estoy contento en mirar como\nCorresponde á mi gusto la ventura,\nY esta libre nacion soberbia domo\nSin fuerzas, solamente con cordura.\nEn viendo la ocasion, luego la tomo,\nPorque sé que si corre, y se apresura,\nY si se pasa, en cosas de la guerra\nEl credito consume y vida atierra.\nJuzgabades á loco desvario\nTener los enemigos encerrados,\nY que era mengua del Romano brio,\nNo vencerlos con modos mas usados:\nBien sé que lo havrán dicho, mas yo fio\nQue los que fueren practicos soldados,\nDiran que es de tener en mayor cuenta\nLa victoria que menos es sangrienta.\nQué gloria puede haver mas levantada\nEn las cosas de guerra que aqui digo,\nQue sin quitar de su lugar la espada\nVencer y sujetar al enemigo?\nQue quando la victoria es grangeada\nCon la sangre vertida del amigo,\nEl gusto mengua que causar pudiera\nLa que sin sangre tal, ganada fuera.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

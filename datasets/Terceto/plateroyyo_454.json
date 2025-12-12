@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Cantaban los chamarices allá arriba, en la cúpula verde, toda pintada de\ncenit azul, y su trino menudo, florido y reidor, se iba en el aire de\noro de la tarde tibia, como un claro sueño de amor nuevo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

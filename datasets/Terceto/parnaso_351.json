@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Que yo no soy; sé bien que negociase\nMejor. Dixo Mercurio: no te entiendo,\nY has de ir antes que el tiempo mas se pase.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Así lanza Rizal su primer reto\nAl amor monacal en esqueleto...\nY ya a Dámaso Ponce le vengaba\nY a su historia infeliz se anticipaba.\nBorremos esa escena\nDo el arte lucha en la mortal gangrena.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

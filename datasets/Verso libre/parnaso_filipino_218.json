@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y aquí viene lo triste, señor, de todo esto;\nPorque una tarde Flora cortó y cortó más flores,\nY luego de apiñarlas en su tagalo cesto,\nSe fué a su lecho para contarlas sus amores.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

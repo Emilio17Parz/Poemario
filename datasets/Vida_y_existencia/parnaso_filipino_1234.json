@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ante su vista, en el espacio inmenso\nque descubre su ardiente fantasía,\nven, entre nubes de aromado incienso,\nlos dioses que abortó la idolatría;\nde esclavos viles el rebaño denso\nsujetos a nefanda tiranía,\ny entre bosques de picas apiñados,\nlos monarcas del mundo y potentados.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

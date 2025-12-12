@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Tomad esa moneda para que compréis unas cebollas y un pedazo de pan\ncon que desayunaros, señor alcaide de la improvisada fortaleza de\nTrasmoz, y dejadnos en paz proseguir nuestro camino.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

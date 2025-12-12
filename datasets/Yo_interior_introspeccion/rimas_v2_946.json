@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Permite que á tus ojos ponga venda,\nY que en el fondo de tu mente encienda\nLa antorcha de la fé,\nPara que pueda ver tu inteligencia\nLos mundos que se ocultan á la ciencia,\nY lo que el hombre al despertar no ve.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "mente"
+  }
+}

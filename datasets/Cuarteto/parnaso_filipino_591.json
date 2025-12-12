@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Soñar que el corazón es siempre joven\ny que esa juventud es una gloria,\nsin cuitas que en el vértigo nos roben\nlo más caro escondido en la memoria.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

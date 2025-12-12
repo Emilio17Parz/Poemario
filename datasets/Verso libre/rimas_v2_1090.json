@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es una cosa sin nombre\nComo esas blancas visiones,\nQue en largas meditaciones\nPasan con vuelo fugaz;\nÓ como el blando murmullo\nQue se oye en la selva umbría,\nCuando de la noche fria\nSopla la brisa fugaz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

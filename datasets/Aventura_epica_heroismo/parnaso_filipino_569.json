@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tú eres hoy la sirena del mar malayo,\nel hada rozagante que endechas quiere\ny vive de los astros al níveo rayo,\ncantando su amor puro que nunca muere.\n¡Escúchame! En las rimas del bardo errante\nflamea el sacro fuego del sol de Oriente;\ndeja que al son del arpa tu nombre cante,\nporque beses siquiera su mustia frente.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

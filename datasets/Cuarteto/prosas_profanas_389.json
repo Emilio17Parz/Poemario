@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ritma los pasos, modula los sones,\nEbria risueña de un vino de luz,\nHace que brillen los ojos gachones,\nNegros diamantes del patio andaluz.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

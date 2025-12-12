@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Llore tambien el mísero mendigo,\nY el desvalido en miserable lecho,\nCayó sin vida el que con voz de amigo\nDefendiera su pan y su derecho.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

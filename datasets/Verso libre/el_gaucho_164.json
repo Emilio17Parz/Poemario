@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "136\nAllí tuito va al revés;\nlos milicos son los piones,\ny andan en las poblaciones\nemprestaos pa trabajar;\nlos rejuntan pa peliar\ncuando entran indios ladrones.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Plena primavera! ¡Los árboles florecidos, las nubes rosadas en el alba\ny pálidas por la tarde; el aire suave que mueve las hojas y hace aletear\nlas cintas de los sombreros de paja con especial ruido! Garcín no ha ido\nal campo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

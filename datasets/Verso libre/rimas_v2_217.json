@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mas ¡ay! bala traidora\nDe pronto silvadora\nSu pecho traspasó;\nY con ferrea pujanza\nApretando la lanza\nMoribundo cayó.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

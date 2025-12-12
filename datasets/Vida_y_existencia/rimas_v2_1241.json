@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En el seno de tu madre\nTu frente oculta, ángel mio,\nCual la gota de rocío\nEn el cáliz de la flor,\nY mientras el mundo torpe\nNo empañe de tu cabeza\nEl sello de la pureza,\nDuerme tranquila, Leonor.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

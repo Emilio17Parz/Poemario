@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nada importa el que clama que su esfuerzo es locura,\nQue es inútil su arrojo, que es fatal su aventura\n¡Don Quijote discute todo eso con su lanza!\nY, en tanto ya ensartando malandrines follones,\nCargado de esperanzas, de ensueños, de visiones,\nPor los campos del mundo avanza, avanza, avanza....",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

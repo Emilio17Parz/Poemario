@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Soñar! ¡Vivir! ¡Soñar allí a la sombra,\ncon la vista clavada en el celaje,\nque cuanto se contempla y aun se nombra\nes filipino todo en el paisaje...!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

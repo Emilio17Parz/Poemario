@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Extracto de Proverbios y cantares (XXIX)\nCaminante, son tus huellas\nel camino y nada más;\nCaminante, no hay camino,\nse hace camino al andar.\nAl andar se hace el camino,\ny al volver la vista atrás\nse ve la senda que nunca\nse ha de volver a pisar.\nCaminante no hay camino\nsino estelas en la mar.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "[Footnote 1: This poem is composed of hendecasyllabic verses of\nboth classes, with a closing pentasyllabic verse. The even verses\nhave the same assonance throughout.]",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

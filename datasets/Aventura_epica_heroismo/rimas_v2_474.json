@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En las eternas páginas\nDel libro de los hombres,\nComo inmortal espíritu\nRevivirán sus nombres,\nY las coronas pálidas\nDe las edades áridas\nDe gloria teñirán.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

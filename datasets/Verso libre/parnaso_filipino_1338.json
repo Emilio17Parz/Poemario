@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es sílfide ligera de fantásticos vuelos,\nvirgen como sus selvas, azul como sus cielos,\nciclón en los combates y céfiro en la paz.\nTiene furias de trueno y trinos de canario.\nOveja, más no teme al león sanguinario;\npaloma, más no huye del águila rapaz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Allí todas las almas se expansionan\ny se abren al amor los corazones,\ny hasta las frentes tristes se coronan\ncon flores, muy abiertas, de ilusiones.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mirad las pupilas azules y húmedas, la boca de dibujo maravilloso, con\nuna sonrisa enigmática de esfinge, quizá un recuerdo del amor galante,\ndel madrigal recitado junto al tapiz de figuras pastoriles o\nmitológicas, o del beso a furto, tras la estatua de algún silvano, en la\npenumbra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

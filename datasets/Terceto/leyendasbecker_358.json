@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Besides the necessary accent on the next to the last syllable, all\nverses of seven syllables or more must have other necessary accents,\nwhich are determined by the number of syllables in the line.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

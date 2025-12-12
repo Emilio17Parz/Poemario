@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Absorto en estos pensamientos, doblo el periódico y me dirijo á mi\nhabitación. Cruzo la sombría calle de árboles y llego á la primera\ncerca del monasterio, cuya dentellada silueta se destaca por oscuro\nsobre el cielo en un todo semejante á la de un castillo feudal;\natravieso el patio de armas con sus arcos redondos y timbrados, sus\nbastiones llenos de saeteras y coronados de almenas puntiagudas,\nde las cuales algunas yacen en el foso, medio ocultas entre los\njaramagos y los espinos. Entre dos cubos de muralla, altos, negros\né imponentes, se alza la torre que da paso al interior: una cruz\nclavada en la punta indica el carácter religioso de aquel edificio,\ncuyas enormes puertas de hierro y muros fortísimos, más parece que\ndeberían guardar soldados que monjes.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

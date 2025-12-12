@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Como el antiguo guerrero\nCaído sobre su escudo,\nSobre tu instrumento mudo\nEntregaste tu alma á Dios;\nY es fama, que al mismo tiempo\nQue tu vida se apagaba,\nLa bordona reventaba\nProduciendo triste son.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

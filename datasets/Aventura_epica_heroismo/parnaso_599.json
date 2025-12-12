@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Por entre dos fructiferos collados\n(Habrá quien esto crea, aunque lo entienda?)\nDe palmas y laureles coronados,\nEl grave aspecto del ABAD MALUENDA\nPareció, dando al monte luz y gloria,\nY esperanzas de triunfo en la contienda.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

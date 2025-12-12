@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "dia, _m._, day; al otro --, the next day; aún en el --, to this day;\nde noche y --, night and day; en otros --s, in other (_or_ former)\ndays; formerly; un -- y otro, day after day; constantly.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

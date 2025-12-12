@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "He heredado mi roja rebeldía\nDe un valiente sultán invicto moro.\nEs mi sola heredad, y a fe mía,\nYo la guardo como único tesoro...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Cuando el viejecito concluyó de contarme esta historia, no pude menos\nde volver otra vez los ojos al empolvado y antiguo manuscrito del\n_Miserere_, que aún estaba abierto sobre una de las mesas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Por eso guardo mi modesta ofrenda\nQue es la silvestre y solitaria flor,\nQue á tu corona, de las gracias prenda,\nDar no puede fragancia ni esplendor.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

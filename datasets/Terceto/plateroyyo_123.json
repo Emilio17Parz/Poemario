@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "...¡Sí, sí! ¡Cantad, soñad, niños pobres! Pronto, al amanecer vuestra\nadolescencia, la primavera os asustará, como un mendigo, enmascarada de\ninvierno.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

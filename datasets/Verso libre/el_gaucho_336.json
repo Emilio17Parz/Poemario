@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "303\nSi es güena, no lo abandona\ncuando lo ve desgraciao,\nlo asiste con su cuidao,\ny con afán cariñoso,\ny usté tal vez ni un rebozo\nni una pollera le ha dao.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

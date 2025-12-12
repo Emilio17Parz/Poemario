@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Nevares de datos",
+  "poema": {
+    "texto": "En datos nevadas laberintos,\nun universo en mi mente entra.\nMi alma se pierde entre símbolos,\ndonde la luz y el vacío se entremezclan.\n\nPorque cada bit es una historia\ny cada byte, un corazón que vibrara.\nAquel silencio que resonaba\nes ahora mi voz que se rompe en gritos.\n\nEn este mundo de información\nquiero encontrarme en la oscuridad,\ndonde los sentimientos no se diluyen\ny las emociones son más fuertes que nunca.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Nevares"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Imitemos nosotros su alto ejemplo:\nEl pendon de la patria enarbolando\nMarchemos de la gloria al sacro templo\n«O muerte ó libertad» todos clamando;\nY apoyando la planta en los escombros\nLa libertad alcemos en los hombros.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

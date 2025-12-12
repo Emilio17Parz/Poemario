@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "La priora fué á ocupar su sillón en el coro en medio de la comunidad.\nLa hija de maese Pérez abrió con mano temblorosa la puerta de la\ntribuna para sentarse en el banquillo del órgano, y comenzó la Misa.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

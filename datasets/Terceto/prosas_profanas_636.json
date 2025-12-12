@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El marfil de las frentes, la brasa de las bocas,\ny la autumnal tristeza de las vírgenes locas\nPor la Lujuria, madre de la Melancolía.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

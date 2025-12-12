@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Nunca con alabanzas fementidas\nIncensaré las luces de tu faz,\nSolo palabras tiernas y sentidas\nEn vez de incienso mentidor tendrás.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

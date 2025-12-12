@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Pero lo que en los antiguos era un progreso, en Vd. es un retroceso; y\npara demostrarle claramente esto que parecerá una paradoja, necesito\nentrar en algunos detalles técnicos sobre la versificacion.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

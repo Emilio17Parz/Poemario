@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "10\nCon la guitarra en la mano\nNi las moscas se me arriman,\nNaides me pone el pie encima,\nY cuando el pecho se entona,\nHago gemir a la prima\nY llorar a la bordona.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

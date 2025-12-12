@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "OTRO.\nLloremos pues en son tan lamentable\nNuestra desdicha, que en la edad postrera\nDél y de nuestro esfuerzo siempre se hable.\nMarquino haga la experiencia entera\nDe todo su saber, y sepa quanto\nNos promete de mal la lastimera\nSuerte, que ha vuelto nuestra risa en llanto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

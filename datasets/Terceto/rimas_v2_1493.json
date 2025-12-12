@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "La galeria desde donde anunció el Cabildo la instalacion de la primera\nJunta Revolucionaria, nombrada á peticion del pueblo el 25 de Mayo de\n1810.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

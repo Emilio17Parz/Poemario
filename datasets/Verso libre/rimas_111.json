@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Una nube de incienso que se desenvolvía en ondas azuladas llenó\nel ámbito de la iglesia; las campanillas repicaron con un sonido\nvibrante, y maese Pérez puso sus crispadas manos sobre las teclas del\nórgano.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

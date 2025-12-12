@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Nuestra tarea era relativamente fácil tratándose del siglo XVIII,\nel mas prosaico de nuestra historia literaria, pero se tornaba\ndificilísima respecto de la opulenta producción poética del siglo XIX,\nque sin ser superior a la antigua como lo ha sido en Francia y en otras\npartes, ha continuado con nuevo espíritu la tradición de las formas\nlíricas, las ha remozado a veces merced al impulso genial de los poetas\ny al contacto con extrañas literaturas, y ofrece buen numero de obras\nya sancionadas por el común aplauso. En esta parte más que en ninguna\nsolicitamos y esperamos indulgencia.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

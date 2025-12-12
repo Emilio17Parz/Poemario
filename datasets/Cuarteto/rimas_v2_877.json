@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y la musa que vela en tu sepulcro\nEn medio de la negra tempestad,\nAun hace estremecer tu dulce lira\nAgitando sus alas al pasar.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

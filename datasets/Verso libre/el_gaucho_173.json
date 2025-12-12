@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "145\nAhi no más, ¡cristo me valga!,\nRastrillar el jusil siento:\nme agaché, y en el momento\nel bruto me largó un chumbo;\nmamao, me tiró sin rumbo,\nque si no, no cuento el cuento.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

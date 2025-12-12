@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Á dónde vas?--Voy á entregar mi cuello\nSobre el cadalso donde Dios me aguarda.\n--Dí una palabra y de tu gracia el sello\nPondrá la mano que las leyes guarda.\n--No, no: yo voy á doblegar mi cuello\nSobre el cadalso donde Dios me aguarda.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

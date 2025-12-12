@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cerebro de acero",
+  "poema": {
+    "texto": "El cerebro de acero, laberinto nocturno,\nUn reino sombrío donde se confunden los sentidos.\nEn este mundo metálico resuenan sus golpes,\nCada palpitar un grito, cada silencio una herida.\nAquí nacen ideas, armadas con acero y fuego,\nUn ejército invisible que conquista el espacio,\nEntre las sombras, la luz de la razón brilla,\nEl cerebro de acero, santuario en donde reside mi alma.\n\nYo soy un poeta del metal, un artesano de la lucha,\nEn el forjado de mi mente he creado una nueva realidad,\nUn mundo de hierro y fuego, donde las emociones se funden,\nSusurran a mis oídos como un río en su caída,\nEl cerebro de acero es el escudo que me protege,\nDel dolor y la tristeza, del miedo y la desesperación.\nEn este mundo forjado en mi alma encuentro fuerza,\nPara superar los obstáculos y sobrevivir a lo imposible.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Cerebro"
+  }
+}

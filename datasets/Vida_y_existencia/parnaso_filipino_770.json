@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Oh triste corazón! ¿por qué vas ciego\ntropezando en las sombras del camino,\ncuando tu propio sino\nte grita:--\"¡Aún no! Tu ruego\nno llegó a su destino\ny tu tiempo de amar no es hoy, es luego\"?",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

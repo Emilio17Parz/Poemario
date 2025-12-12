@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Como la brisa que la sangre orea\nSobre el oscuro campo de batalla,\nCargada de perfumes y armonías\nEn el silencio de la noche vaga;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Tengo miedo a perder la maravilla\nde tus ojos de estatua y el acento\nque de noche me pone en la mejilla\nla solitaria rosa de tu aliento.\nTengo pena de ser en esta orilla\ntronco sin ramas; y lo que más siento\nes no tener la flor, pulpa o arcilla,\npara el gusano de mi sufrimiento.\nSi tú eres el tesoro oculto mío,\nsi eres mi cruz y mi dolor mojado,\nsi soy el perro de tu señorío,\nno me dejes perder lo que he ganado\ny decora las aguas de tu río\ncon hojas de mi otoño enajenado.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

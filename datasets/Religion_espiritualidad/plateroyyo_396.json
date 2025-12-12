@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Qué fuerza de adentro me eleva, cual si fuese yo una torre de piedra\ntosca con remate de plata! ¡Mira cuánta estrella! De tantas como son,\nmarean. Se diría que el cielo le está rezando á la tierra un encendido\nrosario de amor ideal.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

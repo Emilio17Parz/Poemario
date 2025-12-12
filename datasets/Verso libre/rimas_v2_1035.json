@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Adios, adios por siempre, celestes fantasías\nQue al corazon tranquilo, y en mas serenos días,\nBrindaron halagüeñas, dichoso porvenir,\nPasad engañadoras visiones peregrinas:\nEn vez de frescas rosas tan solo piso espinas,\nY el sol de mi esperanza no veo ya lucir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

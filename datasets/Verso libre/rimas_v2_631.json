@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un dia fué en la Grecia\nQue en medio á la derrota\nLos cantos de Tirteo\nSe oyeron resonar,\nY revolviendo al punto\nLos escuadrones rotos,\nEl lauro de victoria\nSupieron rescatar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

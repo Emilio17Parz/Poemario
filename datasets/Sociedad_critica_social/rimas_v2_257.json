@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Los principios de Mayo conculcados,\nLos derechos del hombre pisoteados,\nSin que pueda decir: «yo tengo un pan»;\nUn pueblo destinado al sacrificio\nSobre el horrendo tajo del suplicio\nQue sangre pura destilando está.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

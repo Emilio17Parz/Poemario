@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Es so la arena de oro de la Ermita\ndonde mi musa su canción ensaya,\nperla de luz y rosa que palpita\nbajo el beso del Sol sobre la playa.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

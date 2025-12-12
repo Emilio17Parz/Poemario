@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Viva la Patria! Viva!\nGuerra al tirano! guerra!\nPor todo el llano y sierra\nSe siente retumbar.\nTres mil libertadores\nPor la cruz de su espada\nA la Patria adorada\nJuraron libertar.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

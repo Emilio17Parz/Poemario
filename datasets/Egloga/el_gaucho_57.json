@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "32\nY mientras domaban unos,\notros al campo salían\ny la hacienda recogían,\nlas manadas repuntaban,\ny ansí sin sentir pasaban\nentretenidos el día.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Una noche obscura, muy obscura, en que no se oía ni un rumor en la\ntierra ni brillaba un solo astro en el cielo, los señores de la\nfortaleza, engreídos por una reciente victoria, se repartían el botín,\ny ebrios con el vapor de los licores en mitad de la loca y estruendosa\norgía, entonaban sacrílegos cantares en loor de su infernal patrono.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "359\nLo miran al pobre gaucho\ncomo carne de cogote:\nlo tratan al estricote\ny si ansí las cosas andan,\nporque quieren los que mandan,\naguantemos los azotes.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

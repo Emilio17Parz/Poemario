@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mas no en batallas se probó tu aliento:\nEn pulperías fueron tus campañas,\nArmado con un naipe mas mugriento\nQue el corazon que abrigan tus entrañas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

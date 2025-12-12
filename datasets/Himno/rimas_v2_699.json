@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Santos Vega, tus cantares\nNo te dieron fama y gloria,\nMas viven en la memoria\nDe la turba popular;\nY sin tinta ni papel\nQue los salve del olvido\nDe padre á hijo han venido\nPor la tradicion oral.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "salve"
+  }
+}

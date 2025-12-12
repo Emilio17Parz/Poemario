@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Era la cueva ancha, y había en ella una claridad extraña y blanca. Era\nla claridad de los carbunclos que en el techo de piedra centelleaban,\nincrustados, hundidos, apiñados, en focos múltiples; una dulce luz lo\nilumina todo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

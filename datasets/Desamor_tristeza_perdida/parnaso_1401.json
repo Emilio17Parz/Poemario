@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Morandro, al que es buen soldado\nAgueros no le dan pena,\nQue pone la suerte buena\nEn el animo esforzado;\nY esas vanas apariencias\nNunca le turban el tino,\nSu brazo es su estrella y signo,\nSu valor sus influencias;\nPero si quieres creer\nEn este notorio engaño,\nAun quedan, si no me engaño,\nExperiencias mas que hacer,\nQue Marquino las hará,\nLas mejores de su ciencia,\nY el fin de nuestra dolencia\nSer bueno, ó malo sabrá.\nPareceme que le veo:\nEn que estraño trage viene!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

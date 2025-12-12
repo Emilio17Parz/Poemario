@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Aquel cobarde que del triunfo dude,\nQuien al tirano eternizado crea,\nEl que á los gritos del honor no acude\nY do el pendon de libertad flamea,\nEse es un vil de corazon cobarde\nDo el entusiasmo de la patria no arde.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

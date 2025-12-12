@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ondulando en el éter, sobre los campos,\ndespliega la neblina su blanco tul,\ny la apolínea antorcha, con vivos lampos,\narrebola del cielo la veste azul.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Entregarse a merced del torbellino\ny en la duda incesante que la aqueja\nel secreto inquirir de su destino,\nsi a cada paso que adelanta deja\nsu fe inmortal, como el vellón la oveja,\nenredada en las zarzas del camino?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

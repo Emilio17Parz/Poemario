@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Quién hubiese tal ventura\nsobre las aguas del mar,\ncomo hubo el conde Arnaldos\nla mañana de San Juan!\nCon un falcón en la mano\nla caza iba a cazar,\nvio venir una galera\nque a tierra quiere llegar.\nLas velas traía de seda,\nla jarcia de un cendal,\nmarinero que la manda\ndiciendo viene un cantar\nque la mar facía en calma,\nlos vientos hace amainar,\nlos peces que andan nel hondo\narriba los hace andar,\nlas aves que andan volando\nnel mástel las faz posar.\nAllí fabló el conde Arnaldos,\nbien oiréis lo que dirá:\n--Por Dios te ruego, marinero,\ndígasme ora ese cantar.--\nRespondiole el marinero,\ntal respuesta le fue a dar:\n--Yo no digo esta canción\nsino a quien conmigo va.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

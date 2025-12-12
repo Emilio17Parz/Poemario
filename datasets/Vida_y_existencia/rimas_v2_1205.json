@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tú, madre, que has sentido las santas alegrías\nDe ver brotar la vida del seno maternal,\nEspera: aun no ha pasado la aurora de tus dias\nY ha de brillar un dia de gozo sin igual.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

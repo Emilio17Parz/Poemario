@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y el eco se llevó aquel himno, mezcla de gemido, ditirambo y carcajada;\ny como ya la noche obscura y fría había entrado, el eco resonaba en las\ntinieblas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

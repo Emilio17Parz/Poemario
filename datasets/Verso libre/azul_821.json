@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tú tienes en tu canto como ecos de Océano;\nse ve en tu poesía la selva y el león;\nsalvaje luz irradia la lira que en tu mano\nderrama su sonora, robusta vibración.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

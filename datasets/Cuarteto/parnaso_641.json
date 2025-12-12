@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mas no se espere que yo aqui la escriba,\nSino en la parte quinta, en quien espero\nCantar con voz tan entonada y viva,\nQue piensen que soy cisne, y que me muero.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y cuando estoy a solas, dueño mío,\ndoy rienda suelta a mis mortales ansias,\ny aquel precioso rizo que tu frente\nun día engalanara,\nbeso mil y mil veces amoroso,\nevocando tu imagen adorada.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

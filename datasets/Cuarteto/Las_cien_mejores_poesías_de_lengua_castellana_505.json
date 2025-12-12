@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "_Y si volver tu afecto no procura,_\n_Tanto me harás sufrir..._\n--¿Sufrir y nada más? No, señor Cura,\n¡Que me voy a morir!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

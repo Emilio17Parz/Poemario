@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Gotas en cristal\nLa tierra sedienta ya bebe\nFrescor después",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Lluvia"
+  }
+}

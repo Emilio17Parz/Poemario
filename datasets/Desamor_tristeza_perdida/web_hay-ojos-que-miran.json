@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hay ojos que miran, -hay ojos que sueñan,\nhay ojos que llaman, -hay ojos que esperan,\nhay ojos que ríen  -risa placentera,\nhay ojos que lloran -con llanto de pena,\nunos hacia adentro -otros hacia fuera.\nSon como las flores -que cría la tierra.\nMas tus ojos verdes, -mi eterna Teresa,\nlos que están haciendo -tu mano de hierba,\nme miran, me sueñan, -me llaman, me esperan,\nme ríen rientes -risa placentera,\nme lloran llorosos -con llanto de pena,\ndesde tierra adentro, -desde tierra afuera.\nEn tus ojos nazco, -tus ojos me crean,\nvivo yo en tus ojos -el sol de mi esfera,\nen tus ojos muero, -mi casa y vereda,\ntus ojos mi tumba, -tus ojos mi tierra.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

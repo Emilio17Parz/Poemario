@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Un silencio de muerte reinaba á su alrededor; un silencio que sólo\ninterrumpía el lejano bramido de los ciervos, el temeroso murmullo de\nlas hojas, y el eco de una campana distante que de vez en cuando traía\nel viento en sus ráfagas.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

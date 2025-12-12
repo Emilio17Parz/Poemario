@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "cual si fueran de una flama los lumínicos reflejos,\nque convergen hacia un foco por la acción de los espejos\nconvergen los más hermosos, los más santos ideales.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

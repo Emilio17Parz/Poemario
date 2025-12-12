@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Llegó JUAN DE MEZTANZA, cifra y suma\nDe tanta erudicion, donaire y gala,\nQue no hay muerte, ni edad que la consuma.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

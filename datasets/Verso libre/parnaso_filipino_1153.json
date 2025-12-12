@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es este corazón de fibras rotas,\nanémico y enfermo, siempre triste...\ndonde circulan de la hiel las gotas\ny vibran melancólicas las notas\nde un mal tenaz que en maltratar insiste.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

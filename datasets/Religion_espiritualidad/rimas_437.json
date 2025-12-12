@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "--Es el caso, señor, que según me dijo un preste de Tarazona, al\nque acudí no ha mucho para consultar mis dudas, con el diablo no\nsirven juegos, sino punto en boca, buenas y muchas oraciones á San\nBartolomé, que es quien le conoce las cosquillas, y dejarle andar;\nque Dios, que es justo y está allá arriba, proveerá á todo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

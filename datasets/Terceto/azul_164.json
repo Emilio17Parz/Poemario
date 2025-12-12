@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Tenía dos consejeros áulicos: una alondra y un asno. La primera perdió\nsu prestigio cuando el sátiro se volvió sordo. Antes, si cansado de su\nlascivia soplaba su flauta dulcemente, la alondra le acompañaba.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

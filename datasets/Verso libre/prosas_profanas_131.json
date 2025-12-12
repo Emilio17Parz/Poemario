@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Pobrecita princesa de los ojos azules!\nEstá presa en sus oros, está presa en sus tules,\nEn la jaula de mármol del palacio real;\nEl palacio soberbio que vigilan los guardas,\nQue custodian cien negros con sus cien alabardas,\nUn lebrel que no duerme y un dragón colosal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

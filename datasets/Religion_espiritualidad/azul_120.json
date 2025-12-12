@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El rey tenía un palacio soberbio donde había acumulado riquezas y\nobjetos de arte maravillosos. Llegaba a él por entre grupos de lilas y\nextensos estanques, siendo saludado por los cisnes de cuellos blancos,\nantes que por los lacayos estirados. Buen gusto. Subía por una escalera\nllena de columnas de alabastro y de esmaragdina, que tenía a los lados\nleones de mármol, como los de los troncos salomónicos. Refinamiento. A\nmás de los cisnes, tenía una vasta pajarera, como amante de la armonía,\ndel arrullo, del trino; y cerca de ella iba a ensanchar su espíritu,\nleyendo novelas de M. Ohnet, o bellos libros sobre cuestiones\ngramaticales, o críticas hermosillescas. Eso sí: defensor acérrimo de la\ncorrección académica en letras, y del modo lamido en artes; alma sublime\namante de la lija y de la ortografía.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

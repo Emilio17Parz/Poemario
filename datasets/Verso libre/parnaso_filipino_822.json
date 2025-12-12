@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No estés triste...\n¡que tú nunca estás sola!\nha bajado una estrella\ny ha llegado a tu lecho.\n¿Conoces su aureola?\nmi amor hecho centella\nse refugia en tu pecho.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

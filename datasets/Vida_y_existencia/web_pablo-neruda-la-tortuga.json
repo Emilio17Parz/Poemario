@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "LA TORTUGA que\nanduvo\ntanto tiempo\ny tanto vio\ncon\nsus\nantiguos\nojos,\nla tortuga\nque comió\naceitunas\ndel más profundo\nmar,\nla tortuga que nadó\nsiete siglos\ny conoció\nsiete\nmil\nprimaveras,\nla tortuga\nblindada\ncontra\nel calor\ny el frío,\ncontra\nlos rayos y las olas,\nla tortuga\namarilla\ny plateada,\ncon severos\nlunares\nambarinos\ny pies de rapiña,\nla tortuga\nse quedó\naquí\ndurmiendo,\ny no lo sabe.\nDe tan vieja\nse fue\nponiendo dura,\ndejó\nde amar las olas\ny fue rígida\ncomo una plancha de planchar.\nCerró\nlos ojos que\ntanto\nmar, cielo, tiempo y tierra\ndesafiaron,\ny se durmió\nentre las otras\npiedras.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

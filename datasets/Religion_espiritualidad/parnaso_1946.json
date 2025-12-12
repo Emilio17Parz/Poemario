@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hay quien compre los chiquitos,\nY el viejo que es el grandazo,\nY la vieja y su embarazo?\nPues á fe que son bonitos.\nDeste me dan ciento y dos,\nDeste docientos me dan.\nPero no le llevarán.\nPasa acá, perrazo, vos.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "314\nUn puntazo me largó,\npero el cuerpo le saqué,\ny en cuanto se lo quité,\npara no matar un viejo,\ncon cuidado, medio de lejos\nun palazo le asenté.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

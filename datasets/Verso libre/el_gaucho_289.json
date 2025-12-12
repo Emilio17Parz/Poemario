@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "257\nCuando el hombre está en peligro\nno debe tener confianza;\nansí tendido de panza\npuse toda mi atención\ny ya escuché sin tardanza\ncomo el ruido de un latón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

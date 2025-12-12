@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "como, as, like, as if, as it were, as though, so to speak, apparently,\nif, if only, provided that, as soon as; -- de, at (_or_ of) about;\nabout; á distancia de, something like a distance of; at about the\ndistance of; distant about; así --, as well as; as also; así ... --,\nboth ... and; -- no sea, unless it be; except; -- para, as if to; --\nque, as; -- as if; inasmuch as; it was as if; he was as it were; --\nquiera que, although; notwithstanding the fact that; tanto --, as much\nas; tal --, just as; tan --, as.. as; tan pronto ... -- ..., now ...\nnow ...; ¡-- ha'de ser! that's the way of the world! what can you\nexpect? what is to be expected? -- pudo, as best he could; -- las\ngasta, how he acts.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

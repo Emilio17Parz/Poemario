@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo por ti formara, Blanca deliciosa,\nEl regalo lírico de un blanco _bouquet_,\nCon la blanca estrella, con la blanca rosa\nQue en los bellos parques del azul se ve.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Si el vigor juvenil volver de nuevo\nPudiese a vuestra edad, ¿por qué estas penas?\nYo os daría mi sangre de mancebo,\nTornando así con ella a vuestras venas\nEsta vida que os debo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

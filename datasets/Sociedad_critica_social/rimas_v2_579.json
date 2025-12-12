@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Y cuando por un tirano\nEl pueblo se vió oprimido,\nTú articulaste un gemido\nCon tu lengua de metal,\nY otra vez sobre tu torre\nSonaras estrepitosa,\nCuando mires victoriosa\nLa bandera azul flotar.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "voz quebrada",
   "poema": {
     "texto": "Tiembla tu voz\\ncuando me hablas\\nrompe el silencio\\ncomo el cristal",

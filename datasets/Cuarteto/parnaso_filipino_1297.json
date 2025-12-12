@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Una nostalgia azul de primaveras\nteje en el cielo su ilusión de encaje,\ny languidece el alma del paisaje\nasomada al balcón de sus ojeras.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

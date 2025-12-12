@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pastores, que seguís con lento paso vuestras ovejas que pacen\nderramadas por las colinas y las llanuras; si al conducirlas al borde\ndel transparente riachuelo que corre, forcejea y salta por entre los\npeñascos del valle de Montagut en el rigor del verano, y en una\nsiesta de fuego habéis encontrado la sombra y el reposo al pie de las\nderruídas arcadas del monasterio, cuyos musgosos pilares besan las\nondas, oidme.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

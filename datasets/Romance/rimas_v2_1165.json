@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Oh, cuantas veces paseando.\nEn una tarde tranquila,\nAl sentarnos cavilosos\nDel ancho mar á la orilla\nCon el baston, en la arena\nMil caractéres ponia:\nYa una palabra aislada\nSigno de melancolía;\nYa una linea caprichosa\nCual la idea fugitiva:\nYa una letra mutilada\nCual del infeliz la vida.\nY sin pensar de repente,\nSi estas lineas recorria\nEncontraba escrito en ellas:\n«¡Ay, no tener una hija!»",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ia')"
+  }
+}

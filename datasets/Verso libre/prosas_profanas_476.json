@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es el momento en que el salvaje caballero\nSe ve pasar. La tribu aulla y el ligero\nCaballo es un relámpago, veloz como una idea.\nA su paso, asustada, se para la marea;\nLa náyade interrumpe la labor que ejecuta\nY el director del bosque detiene la batuta.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

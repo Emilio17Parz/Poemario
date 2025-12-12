@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El gnomo tocó un cuerno, el que llevaba a su cintura, y el eco resonó\npor las vastas concavidades. Al rato, un bullicio, un tropel, una\nalgazara. Todos los gnomos habían llegado.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

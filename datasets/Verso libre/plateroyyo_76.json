@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Qué pura, Platero, y qué bella es esta flor del camino! Pasan a su lado\ntodos los tropeles--los toros, las cabras, los potros, los hombres--, y\nella, tan tierna y tan débil, sigue enhiesta, malva y fina, en su\nvallado triste, sin contaminarse de impureza alguna.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todos se alejan de mí\nComo de un hombre maldito,\nQue lleva en su frente escrito\nSigno de reprobacion.\nCorazon!\nTriste estás y solitario,\nComo vaso funerario\nEn túmulo de expiacion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

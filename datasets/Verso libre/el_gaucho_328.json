@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "295\nA mí no me matan penas\nmientras tenga el cuero sano;\nvenga el sol en el verano\ny la escarcha en el invierno\n¿por qué afligirse el cristiano?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

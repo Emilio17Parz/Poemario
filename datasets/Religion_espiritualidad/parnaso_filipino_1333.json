@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi sangre tiene un alma que es alma de titanes.\nSangre de Solimanes\ncorre por sus arterias, que siempre latirán.\nTiene el pecho templado al fragor de la guerra.\nBajo sus pies de atleta se estremece la tierra,\nporque enciende sus nervios la flama de un volcán.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

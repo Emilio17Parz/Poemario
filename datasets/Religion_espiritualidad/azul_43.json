@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Natural es que el linaje humano se haya ensoberbecido con tamaños\ndescubrimientos e invenciones; pero, no sólo en torno y fuera de la\nesfera de lo conocido y circunscribiéndola, sino también llenándola en\nlo esencial y substancial, queda un infinito inexplorado, una densa e\nimpenetrable obscuridad, que parece más tenebrosa por la misma\ncontraposición de la luz con que ha bañado la ciencia la pequeña suma de\ncosas que conoce. Antes, ya las religiones con sus dogmas, que aceptaba\nla fe, ya la especulación metafísica con la gigante máquina de sus\nbrillantes sistemas, encubrían esa inmensidad incognoscible, o la\nexplicaban y la daban a conocer a su modo. Hoy priva el empeño de que no\nhaya ni metafísica ni religión. El abismo de lo incognoscible queda así\ndescubierto y abierto, y nos atrae y nos da vértigo, y nos comunica el\nimpulso, a veces irresistible, de arrojarnos en él.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

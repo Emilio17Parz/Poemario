@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Con un amor ardiente e infinito,\nenarbola la enseña de la ciencia...\nEn las hojas del libro allí está escrito\nel poema inmortal: la independencia!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La selva umbría que lo guarda en torno\nImpide ver sus ondas de cristal,\nCual del pudor el velo misterioso\nSombrea tu semblante sin igual.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

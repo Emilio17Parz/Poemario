@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mientras cantaba la alondra, Orfeo le acompañaba con su instrumento, y\nun vasto y dominante soplo lírico se escapaba del bosque verde y\nfragante. El sátiro sordo comenzaba a impacientarse. ¿Quién era aquel\nextraño visitante? ¿Por qué ante él había cesado la danza loca y\nvoluptuosa? ¿Qué decían sus dos consejeros?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

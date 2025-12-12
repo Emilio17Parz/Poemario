@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Este largo cansancio se hará mayor un día\ny el alma dirá al cuerpo que no quiere seguir\narrastrando su masa por la rosada vía\npor donde van los hombres, contentos de vivir...\nSentirás que a tu lado cavan briosamente,\nque otra dormida llega a la quieta ciudad.\nEsperaré que me hayan cubierto totalmente...\n¡y después hablaremos por una eternidad!\nSólo entonces sabrás el por qué, no madura\npara las hondas huesas tu carne todavía,\ntuviste que bajar, sin fatiga, a dormir.\nSe hará luz en la zona de los sinos, oscura:\nsabrás que en nuestra alianza signo de astros había\ny, roto el pacto enorme, tenías que morir...",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

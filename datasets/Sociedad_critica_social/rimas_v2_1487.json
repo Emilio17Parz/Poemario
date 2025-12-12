@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La Fortaleza de Buenos Aires, antigua morada de los Vireyes. En la\nprimera invasion de los ingleses, Berresford, atacado por todas partes\npor el pueblo, tuvo que encerrarse dentro de sus muros con todo su\nejército, resuelto á hacer resistencia, ó por lo menos con el objeto de\nobtener una capitulacion honrosa; pero al aspecto del pueblo armado que\nse disponia á marchar al asalto, arrió la bandera inglesa y se rindió á\ndiscrecion entregando su espada, terminando así la célebre jornada de la\nReconquista, en que los argentinos se midieron por la primera vez con la\nprimera potencia del mundo.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

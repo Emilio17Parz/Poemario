@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por los tenebrosos rincones de mi cerebro, acurrucados y desnudos,\nduermen los extravagantes hijos de mi fantasía, esperando en silencio\nque el arte los vista de la palabra para poderse presentar decentes\nen la escena del mundo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

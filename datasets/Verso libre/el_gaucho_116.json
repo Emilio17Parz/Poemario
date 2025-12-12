@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "90\nHabían estao escondidos\naguaitando atrás de un cerro...\n¡lo viera a su amigo Fierro\naflojar como un blandito!\nsalieron como maíz frito\nen cuanto sonó un cencerro.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

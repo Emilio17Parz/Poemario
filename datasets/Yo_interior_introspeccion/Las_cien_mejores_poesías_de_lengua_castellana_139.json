@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "--Rosa fresca, rosa fresca,\ntan garrida y con amor,\ncuando vos tuve en mis brazos,\nno vos supe servir, no;\ny agora que os serviría\nno vos puedo haber, no.\n--Vuestra fue la culpa, amigo,\nvuestra fue, que mía no;\nenviástesme una carta\ncon un vuestro servidor,\ny en lugar de recaudar\nél dijera otra razón:\nque érades casado, amigo,\nallá en tierras de León;\nque tenéis mujer hermosa\ny hijos como una flor.\n--Quien os lo dijo, señora,\nno vos dijo verdad, no;\nque yo nunca entré en Castilla\nni allá en tierras de León,\nsino cuando era pequeño,\nque no sabía de amor.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Sí! corre hacia Dios, y Él haga\nQue tengas siempre una vieja\nJuventud.\nLa tumba todo lo traga;\nSolo de tragarse deja\nLa virtud.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

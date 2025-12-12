@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "De la ciudad moruna\ntras las murallas viejas,\nyo contemplo la tarde silenciosa,\na solas con mi sombra y con mi pena.\nEl río va corriendo,\nentre sombrías huertas\ny grises olivares,\npor los alegres campos de Baeza\nTienen las vides pámpanos dorados\nsobre las rojas cepas.\nGuadalquivir, como un alfanje roto\ny disperso, reluce y espejea.\nLejos, los montes duermen\nenvueltos en la niebla,\nniebla de otoño, maternal; descansan\nlas rudas moles de su ser de piedra\nen esta tibia tarde de noviembre,\ntarde piadosa, cárdena y violeta.\nEl viento ha sacudido\nlos mustios olmos de la carretera,\nlevantando en rosados torbellinos\nel polvo de la tierra.\nLa luna está subiendo\namoratada, jadeante y llena.\nLos caminitos blancos\nse cruzan y se alejan,\nbuscando los dispersos caseríos\ndel valle y de la sierra.\nCaminos de los campos...\n¡Ay, ya, no puedo caminar con ella!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

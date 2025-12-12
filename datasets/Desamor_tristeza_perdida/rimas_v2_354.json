@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Su vida fué un invierno, sañudo, interminable:\nEnvuelto por el hielo, luchando brazo á brazo,\nY el fuego de la patria guardando en su regazo\nPara encender la antorcha de gloria y libertad.\nPor eso para libro de sus heróicos hechos\nLos Andes han abierto su inmensurable seno,\nComo para la tumba del inmortal Moreno\nBastar pudo tan solo la inmensidad del mar.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

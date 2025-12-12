@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Jóvenes y heridos por el dolor de la vida cayeron ambos. Con el\núltimo suspiro de Bécquer comenzó el resplandor creciente de su\ngloria: en la trágica muerte de Susillo pensamos todos que aquella\nmano, siempre dócil como esclava sumisa á su pensamiento, sólo una\nvez debió serle rebelde.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

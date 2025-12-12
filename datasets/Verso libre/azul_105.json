@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Me había propuesto no citar nada, y he citado algo, aunque poco. La\ncomposición es una letanía inorgánica, y, sin embargo, ni la ironía, ni\nel amor y el odio, ni el deseo y el desprecio simultáneos que el oro\ninspira al poeta en la inopia (achaque crónico y epidémico de los\npoetas), resaltan bien sino de la plenitud de cosas que dice del oro, y\nque se suprimen aquí por amor a la brevedad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

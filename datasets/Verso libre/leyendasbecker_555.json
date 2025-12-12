@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--¿Qué haces? exclamó dirigiéndose á su montero, y en tanto, ya se\npintaba el asombro en sus facciones, ya ardía la cólera en sus ojos.\n¿Qué haces, imbécil? ¡Ves que la pieza está herida, que es la primera\nque cae por mi mano, y abandonas el rastro y la dejas perder para que\nvaya á morir en el fondo del bosque! ¿Crees acaso que he venido á\nmatar ciervos para festines de lobos?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

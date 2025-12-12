@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "noche, _f._, night, evening; en la alta--, in the dead of night; late\nat night; Noche-Buena, Christmas eve; mass of Christmas eve; de -- y\ndía, night and day; esta -- pasada, last night; la -- había cerrado,\nthe night had come (_or_ fallen); night had closed in (around him);\n¡hasta la --! (good-by) till to-night; goodby; -- de luna, moonlight\nnight; de la -- á la mañana, all of a sudden, when (you) least\nexpected (it); media --, midnight; por las --s, in the night; at\nnight; una -- y otra, night after night.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

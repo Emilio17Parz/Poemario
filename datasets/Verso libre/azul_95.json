@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y por último, para dar al discurso más animación y movimiento, se ha\ndiscurrido hacer enumeración de todo aquello que se semeja en algo al\nobjeto de que queremos hablar. Y terminada la enumeración, o cansado el\nautor de enumerar, pues no hay otra razón para que termine, dice: eso\nsoy yo; eso es la poesía; eso es la crítica; eso es la mujer, etc. Puede\ntambién el autor, para prestar mayor variedad y complicación a su obra,\ndecir lo que no es el objeto que describe antes de decir lo que es. Y\npuede decir lo que no es como quien pregunta. Fórmula: ¿Será esto, será\naquello, será lo de más allá? No; no es nada de eso. Luego... la\nretahila de cosas que se ocurran. Y por remate: eso es.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

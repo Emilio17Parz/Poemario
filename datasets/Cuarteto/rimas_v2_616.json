@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El mas cobarde escúpate á la cara,\nTu nombre sea voz de deshonor,\nMientras mi musa con candente vara\nFija en tu frente el nombre de TRAIDOR!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

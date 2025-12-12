@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cantemos el oro, calificado de vil por los hambrientos; hermano del\ncarbón, oro negro que incuba el diamante; rey de la mina, donde el\nhombre lucha y la roca se desgarra; poderoso en el poniente, donde se\ntiñe en sangre; carne de ídolo, tela de que Fidias hace el traje de\nMinerva.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

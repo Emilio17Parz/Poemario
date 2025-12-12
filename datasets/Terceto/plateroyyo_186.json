@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El viento... Platero, que anda, manso, entre los pinos quemados, se\nllega, poco á poco... Luego se echa en la tierra fosca y, á la larga\ncopla de madre, se adormila, igual que un niño.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

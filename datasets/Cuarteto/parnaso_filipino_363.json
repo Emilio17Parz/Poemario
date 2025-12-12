@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Lo imposible es un ala que nos roza\ncreando en el dolor fuertes enojos.\n¡Ay! No poder volver hasta mi choza,\nllevando la presea de tus ojos!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

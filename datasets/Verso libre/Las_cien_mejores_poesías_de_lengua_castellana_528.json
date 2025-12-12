@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Verdad que es abominable\nQue el corazón vagabundo\nMude así,\nSin ser por ello culpable,\nPorque esto pasa en el mundo\nPorque sí?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

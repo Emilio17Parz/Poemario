@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "250\nSu esperanza es el coraje,\nsu guardia es la precaución,\nsu pingo es la salvación,\ny pasa uno en su desvelo,\nsin más amparo que el cielo\nni otro amigo que el facón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

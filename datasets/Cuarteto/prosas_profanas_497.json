@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Oh sangre de las vírgenes! La lira.\nEncanto de abejas y de mariposas.\nLa estrella de Venus desde el cielo mira\nEl purpúreo triunfo de las reinas rosas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

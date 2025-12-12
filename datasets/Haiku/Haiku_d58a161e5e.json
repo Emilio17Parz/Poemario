@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Gotas de cristal\nBrillan en la hoja verde\nSol ya despierta",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Rocío matinal"
+  }
+}

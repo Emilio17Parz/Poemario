@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Ex. _Los sus'pires son 'aire, y van al 'aire.\nLas 'lágrimas son 'agua, y van al 'mar._ p. 178, XXXVIII, ll.\n1-2.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

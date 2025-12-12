@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Bajo tus blancas alas la nueva Poesía,\nConcibe en una gloria de luz y de harmonía\nLa Helena eterna y pura que encarna el ideal.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

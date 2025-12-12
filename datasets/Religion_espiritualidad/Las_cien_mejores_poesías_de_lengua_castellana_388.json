@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El valor y la fe del caballero,\nDel trovador el arpa y los cantares,\nDel gótico castillo el altanero\nAntiguo torreón, do sus pesares\nCantó tal vez con eco lastimero,\n¡Ay! arrancada de sus patrios lares,\nJoven cautiva, al rayo de la luna,\nLamentando su ausencia y su fortuna:",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

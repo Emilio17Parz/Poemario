@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No te diré si el labio que enamora\nEn sus palabras desparrama miel,\nNi si al caer, cual perlas del aurora,\nHacen brotar las flores del vergel.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

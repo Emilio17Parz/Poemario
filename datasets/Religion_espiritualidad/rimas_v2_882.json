@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Quién como tú sembró, noble poeta,\nEsa semilla fértil y vivaz,\nQue en los hermosos dias venideros\nHa de regenerar la humanidad?\nRepublicano de alma incontrastable\nCantaste á la divina libertad,\nCon una voz tonante y poderosa\nQue los tronos podia hacer temblar,\nY estremecer las masas populares\nCual las furiosas olas de la mar,\nY despertar el alta inteligencia\nQue al cielo remontaba en vuelo audaz,\nMientras tranquilo el mundo contemplando,\nComo estátua sobre alto pedestal,\nPodias con los ojos del espíritu\nVer los hombres y dias de otra edad!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

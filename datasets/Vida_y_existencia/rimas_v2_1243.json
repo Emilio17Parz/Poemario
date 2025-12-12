@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En esa edad infantil\nExenta de sinsabores,\nEs tu camino de flores,\nTu vida sueño de amor;\nPero antes de penetrar\nA otro camino de abrojos,\nCerrando tus bellos ojos\nDuerme tranquila, Leonor.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

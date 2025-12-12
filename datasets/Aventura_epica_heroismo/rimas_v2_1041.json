@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Entonces fuera grande, por tu esplendor guiado;\nCon el laurel del genio me viera coronado\nPara arrojar coronas de glorias á tus piés...\nQué digo de coronas de gloria en mi delirio?\nYo siento la corona del perennal martirio\nClavando sus espinas en mi marchita sien.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

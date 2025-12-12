@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Si fuese rey, te diera mi corona,\nY mi imperio desde una á la otra zona,\nDel mar undoso las flotantes quillas,\nMis vasallos postrados de rodillas,\nPor obtener de tí, mujer amada,\nTan solo una mirada!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

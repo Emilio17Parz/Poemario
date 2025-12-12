@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El símil es la base de este método. Sencillo es no mentar nada sin\nsímil; todo es como algo. Luego se ha visto que salen de esta manera\nmuchísimos _comos_, y en vez de los _comos_ se han empleado los _eses_ y\nlas _esas_. Ejemplo: la tierra: esa madre fecunda de todos los\nvivientes; el aire, ese manto azul que envuelve el seno de la tierra, y\ncuyos flecos son las nubes; el cielo, ese campo sin límites por donde\ngiran las estrellas, etcétera. De este modo es fácil llenar mucho papel.\nA veces los _eses_ y las _esas_ se suprimen, aunque es menos enfático y\nmenos francés, y sólo se dice el pájaro, flor del aire; la luna, lámpara\nnocturna, hostia que se eleva en el templo del espacio, etc.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

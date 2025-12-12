@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "[Footnote 1: _Florilegio de Poesías Castellanas del Siglo XIX_, con\nintroducción y notas, por Juan Valera. Madrid, 1902, vol. I, pp.\n186-188.]",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

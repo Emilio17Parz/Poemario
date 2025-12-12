@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "De España es el espíritu de mi nación querida,\nes rosa de su carne, pedazo de su vida,\ny es de ella el mismo rayo de nuestro ardiente sol.\nCorren por nuestra sangre glóbulos españoles\ny hasta el sagrado loto nimbado de arreboles\nse fecundó en las islas con polen español.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

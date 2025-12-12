@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "hoja caída",
   "poema": {
     "texto": "Cae la hoja\\nsin despedirse\\nmarca su viaje\\nsobre la tierra",

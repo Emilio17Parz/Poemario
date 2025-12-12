@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Al fin llegó el esperado momento, el momento solemne en que el\nsacerdote, después de inclinarse y murmurar algunas palabras santas,\ntomó la Hostia en sus manos... Las campanillas repicaron, semejando\nsu repique una lluvia de notas de cristal; se elevaron las diáfanas\nondas de incienso, y sonó el órgano.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

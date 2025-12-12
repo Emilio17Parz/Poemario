@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "»No se os haga tan amarga\nLa batalla temerosa\nQue esperáis,\nPues otra vida más larga\nDe fama tan gloriosa\nAcá dexáis:\nAunque esta vida de honor\nTampoco no es eternal\nNi verdadera,\nMas con todo es muy mejor\nQue la otra temporal\nPerecedera.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

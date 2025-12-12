@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Una república prosáica, tal cual Vd. parece desearla, tendria mucha\nsemejanza con aquella pálida mansion de los héroes de la antigüedad, que\nel Dante nos describe en su _Infierno_: imágen debilitada de la vida, en\nque las sombras vagan sin esperanzas de un bien mejor, llorando la\npérdida de una felicidad que nunca conocieron. Sería un cuerpo sin alma;\nsería la bella estátua de Prometeo sin el fuego sagrado que la dió vida\ny movimiento. Desheredados de la poesía, ¿qué voz simpática responderia\ná las armonías secretas del corazon? ¿qué potencia sobrenatural nos\nelevaria á la contemplacion de lo infinito? ¿qué relámpago iluminaria\ncon sus resplandores pasageros las profundidades de nuestro ser? ¿por\nqué medio se dirigirian los instintos, una vez quebrado el instrumento\nusual con que se forma y desarrolla el sentimiento y la inteligencia de\nlo bello? Preguntas son estas que pondrian en bárbaros aprietos al\nlegislador en teoría de esa soñada república platónica.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

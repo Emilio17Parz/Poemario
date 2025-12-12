@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Donde un mortal sucumbe, un héroe se levanta,\nSus formas luminosas se animan lentamente....\nRelámpagos y nubes coronan su alta frente\nA par de los gigantes que doman la creacion:\nLos Andes, atrevidas pirámides del mundo\nVestidas por la pompa severa del invierno;\nInmensos pedestales que levantó el Eterno\nDe pedestal le sirven y de eternal panteon.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

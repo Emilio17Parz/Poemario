@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sí. De un templo en las gradas\nFundó Rizal sus obras celebradas,\n!Texto o arquitectura\nDe un amor infinito, legendario,\nQue revela en artística hermosura\nSu noble corazón humanitario.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

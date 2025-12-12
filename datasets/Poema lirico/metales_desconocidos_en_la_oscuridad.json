@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Metales desconocidos en la oscuridad",
+  "poema": {
+    "texto": "En la penumbra, misteriosos metales viven,\nEspantados por la oscuridad que los veló.\nEn su corazón, se esconde un secreto profundo,\nUn silencio mágico que sólo ellos sienten.\n\nDiamantes de la noche, refulgentes en el abismo,\nSus pálidos reflejos no son solo luz.\nPiedras preciosas del sueño,\nEn su interior guardan un corazón helado y mudo.\n\nUn desconocido baúl en el cielo oscuro,\nNinguna mano lo ha tocado ni sintió su peso.\nSon metales llenos de emociones que no se pueden expresar,\nUn mundo aparte de los sueños y el tiempo.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Metales"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Aún para combatir mi firme empeño\nTiene á mi mente su visión tenaz...\n¡Cuándo podré dormir con ese sueño\nEn que acaba el soñar!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

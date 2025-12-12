@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo soy el vate de inmortal salterio;\nalma sublime a la emoción nacida,\nque vuela de hemisferio en hemisferio\nsiempre a los rayos de tu luz asida.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

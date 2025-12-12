@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El terror llego á apoderarse de los ánimos en un grado tal, que al\ntoque de oraciones nadie se aventuraba á salir de su casa, en la que\nno siempre se creían seguros de los bandidos del peñón.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

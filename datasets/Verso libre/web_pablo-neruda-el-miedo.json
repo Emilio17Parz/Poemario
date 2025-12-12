@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todos me piden que dé saltos,\nque tonifique y que futbole,\nque corra, que nade y que vuele.\nMuy bien.\nTodos me aconsejan reposo,\ntodos me destinan doctores,\nmirándome de cierta manera.\nQué pasa?\nTodos me aconsejan que viaje,\nque entre y que salga, que no viaje,\nque me muera y que no me muera.\nNo importa.\nTodos ven las dificultades\nde mis vísceras sorprendidas\npor radioterribles retratos.\nNo estoy de acuerdo.\nTodos pican mi poesía\ncon invencibles tenedores\nbuscando, sin duda, una mosca,\nTengo miedo.\nTengo miedo de todo el mundo,\ndel agua fría, de la muerte.\nSoy como todos los mortales,\ninaplazable.\nPor eso en estos cortos días\nno voy a tomarlos en cuenta,\nvoy a abrirme y voy a encerrarme\ncon mi más pérfido enemigo,\nPablo Neruda.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

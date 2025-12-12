@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "224\n¡Ah pobre! Si él mismo creiba\nque la vida le sobraba;\nninguno diría que andaba\naguaitándolo la muerte.\nPero ansí pasa en el mundo,\nes ansí la triste vida:\npa todos está escondida\nla güena o la mala suerte.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

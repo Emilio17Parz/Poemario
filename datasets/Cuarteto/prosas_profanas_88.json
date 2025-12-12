@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En el gesto ritual que en las hermosas\nNinfalias guía a la divina hoguera,\nHoguera que hace llamear las rosas\nEn las manchadas pieles de pantera.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

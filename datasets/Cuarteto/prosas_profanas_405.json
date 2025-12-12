@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y de la brega tornar vióle un día\nDe su victoria en los bravos tropeles,\nBajo el gran sol de la eterna Harmonía,\nDueño de verdes y nobles laureles.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

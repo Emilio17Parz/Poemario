@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ea pues, caminemos, vamos, vamos,\nY abrasense en un punto los trofeos\nQue pudieran hacer ricas las manos,\nY aun hartar la codicia de Romanos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

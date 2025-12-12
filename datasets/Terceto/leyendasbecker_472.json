@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "_Octavas reales_ are strophes of eight hendecasyllabic verses\n(_llanos_), of which the first six rhyme alternately and the last two\nform a _pareado_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

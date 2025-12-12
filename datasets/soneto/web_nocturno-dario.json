@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Silencio de la noche, doloroso silencio\nnocturno... ¿Por qué el alma tiembla de tal manera?\nOigo el zumbido de mi sangre,\ndentro de mi cráneo pasa una suave tormenta.\n¡Insomnio! No poder dormir, y, sin embargo,\nsoñar. Ser la auto-pieza\nde disección espiritual, ¡el auto-Hamlet!\nDiluir mi tristeza\nen un vino de noche\nen el maravilloso cristal de las tinieblas...\nY me digo: ¿a qué hora vendrá el alba?\nSe ha cerrado una puerta...\nHa pasado un transeúnte...\nHa dado el reloj trece horas... ¡Si será Ella!...",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En efecto, era así, pues á poco de haberse oído la esquililla,\nempezaron á saltar por entre las apiñadas matas de cantueso y tomillo,\ny á descender á la orilla opuesta del riachuelo, hasta unos cien\ncorderos, blancos como la nieve, detrás de los cuales, con su caperuza\ncalada para libertarse la cabeza de los perpendiculares rayos del sol,\ny su atillo al hombro en la punta de un palo, apareció el zagal que\nlos conducía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

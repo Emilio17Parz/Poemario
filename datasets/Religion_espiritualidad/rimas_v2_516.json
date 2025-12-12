@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Andes, en cuya frente encanecida\nLa historia americana está esculpida\nEn cifra colosal;\nTú que levantas la cabeza al cielo,\nPídele á Dios la lluvia del consuelo\nY á la América baña en su raudal.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

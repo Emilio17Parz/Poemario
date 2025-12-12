@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Allí, sobre un mezquino altar, hecho de los despedazados restos\nde otros altares, recogidos por alguna mano piadosa, y alumbrado\npor una lamparilla de cristal con más agua que aceite, cuya luz\nchisporrotea próxima á extinguirse, se descubre la santa imagen,\nobjeto de tanta veneración en otras edades, á la sombra de cuyo\naltar duermen el sueño de la muerte tantos próceres ilustres, á la\npuerta de cuyo monasterio dejó su espada como en señal de vasallaje\nun monarca español, que, atraído por la fama de sus milagros, vino\ná rendirle, en época no muy remota, el tributo de sus oraciones. De\ntanto esplendor, de tanta grandeza, de tantos días de exaltación y de\ngloria, sólo queda ya un recuerdo en las antiguas crónicas del país,\ny una piadosa tradición entre los campesinos que de cuando en cuando\natraviesan con temor los medrosos claustros del monasterio para ir\ná arrodillarse ante Nuestra Señora de Veruela, que para ellos, así\nen la época de su grandeza como en la de su abandono, es la santa\nprotectora de su escondido valle.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

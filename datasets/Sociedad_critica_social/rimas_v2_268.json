@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Y dijo:--«Al otro lado de este rio\n«Se levanta con fuerte poderío\n«El odiado pendon de libertad;\n«Corred allí, mis bravos federales,\n«Y quemad esos libros infernales\n«En que se habla de Patria y de Igualdad.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

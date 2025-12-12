@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es una linda goleta\nLigera como la brisa,\nQue en el Plata se desliza\nCual fantástica vision.\nRuge el viento enfurecido\nEn la blanquecina vela,\nMientras ligero revuela\nDel corsario el pabellon.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

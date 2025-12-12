@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Lanzó el anciano horrible carcajada\ny con temblona voz, como un lamento,\n--\"También yo un día--dijo--crucé el mundo\nllagado por terribles sufrimientos....",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

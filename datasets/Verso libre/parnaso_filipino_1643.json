@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es un ángel del hogar, que sabiamente interpreta\nen su modo de pensar la vital filosofía,\ny en su modo de sentir el suspiro de Julieta,\nel gemido de Desdémona y el delirio de Lucía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "La luna, que sube, redonda, sobre la ermita de Montemayor, se ha ido\nderramando suavemente por el prado, donde aún yerran vagas claridades\ndel día; y el suelo florido parece ahora de ensueño, no sé qué encaje\nprimitivo y bello; y las rocas son más grandes y más inminentes y más\ntristes; y llora más el agua del regato escondido...",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "prado"
+  }
+}

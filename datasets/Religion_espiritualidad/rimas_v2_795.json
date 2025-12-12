@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Castelli los convoca á la pelea\nAl pié del pabellon que al aire ondea,\nY que en Mayo nació;\nY en su serena faz resplandecia\nEl entusiasmo santo en que él ardia\nCuando «Igualdad!» gritó.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

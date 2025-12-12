@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Aquí á la sombra de olmos y de abetos\nEn tumbas que la grama festonea,\nDuermen en tierra, ya por siempre quietos,\nLos rústicos abuelos de la aldea.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

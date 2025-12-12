@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El conde de Gómara, acompañado de su fiel escudero, atravesó por\nentre los animados grupos sin levantar los ojos de la tierra,\nsilencioso, triste, como si ningún objeto hiriese su vista ni llegase\ná su oído el rumor más leve. Andaba maquinalmente, á la manera que un\nsonámbulo, cuyo espíritu se agita en el mundo de los sueños, se mueve\ny marcha sin la conciencia de sus acciones y como arrastrado por una\nvoluntad ajena á la suya.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

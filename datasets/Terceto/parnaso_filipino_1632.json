@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Natural de la isla de Luzón, tal vez manileño. Cursó la segunda\nenseñanza en el Ateneo de los jesuitas. Dirigió \"La Vanguardia\". Luego\nfué redactor del diario nacionalista \"El Ideal\", que ya no se publica.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

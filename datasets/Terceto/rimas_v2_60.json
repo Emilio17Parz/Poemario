@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Esto es la poesía, esto es el arte divino, del cual ha dicho Vd. que\nsolo tiene sacerdotes entre los hombres incapaces de accion, esto es lo\nque Vd. ha llamado «monólogo sublime á veces, estéril siempre».",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

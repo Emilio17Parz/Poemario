@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Pobre consuelo el mío;\nel de juntar de tu fecundo númen\nlas frases que leer no puedo en calma\ne imprimir con mi orgullo este volúmen\nen el que van pedazos de tu alma!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

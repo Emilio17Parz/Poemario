@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Al ver la misma luna, cual antes argentada,\nla antigua melancolía siento en mí renacer;\ndespiertan mil recuerdos de amor y fé jurada...\nUn patio, una azotea, la playa, una enramada,\nsilencios y suspiros, rubores de placer...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

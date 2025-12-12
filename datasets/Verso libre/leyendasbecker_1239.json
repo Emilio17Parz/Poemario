@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: Pirineos = 'Pyrenees.' A mountain range which separates\nFrance from Spain, and extends from the Bay of Biscay to the\nMediterranean. The highest points are about 11,000 feet. A visit to\nthe Eastern Pyrenees from the Spanish side is much more difficult\nthan from France, as both traveling and hotel accommodations are\nsadly lacking.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

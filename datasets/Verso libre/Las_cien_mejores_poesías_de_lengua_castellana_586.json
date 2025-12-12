@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Triste y sola, es verdad! ¿Dónde hay miseria\nmayor? ¿Dónde más rudo desconsuelo?\n¿De qué la sirve desgarrar el velo\nque envuelve y cubre la vivaz materia,\ny con profundo, inextinguible anhelo\nsondar la tierra, escudriñar el cielo;",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

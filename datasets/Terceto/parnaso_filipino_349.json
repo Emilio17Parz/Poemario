@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y al fin, emocionado, hablé:--Mayo, ¿qué quieres?\n(El me miraba como miran esas mujeres\nque están enamoradas o enfermas de soñar).",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

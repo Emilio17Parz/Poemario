@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Al fin me he decidido a que mi pobre \"MARTÍN FIERRO\", que me ha ayudado\nalgunos momentos a alejar al fastidio de la vida del hotel, salga a\nconocer el mundo, y allá va acogido al amparo de su nombre.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

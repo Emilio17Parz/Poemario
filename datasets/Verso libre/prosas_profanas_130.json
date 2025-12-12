@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya no quiere el palacio, ni la rueca de plata,\nNi el halcón encantado, ni el bufón escarlata,\nNi los cisnes unánimes en el lago de azur.\nY están tristes las flores por la flor de la corte;\nLos jazmines de Oriente, los nelumbos del Norte,\nDe Occidente las dalias y las rosas del Sur.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

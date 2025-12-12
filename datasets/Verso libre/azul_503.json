@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mi prima Inés era rubia como una alemana. Fuimos criados juntos, desde\nmuy niños, en casa de la buena abuelita que nos amaba mucho y nos hacía\nvernos como hermanos, vigilándonos cuidadosamente, viendo que no\nriñésemos. ¡Adorable, la viejecita, con sus trajes a grandes flores, y\nsus cabellos crespos y recogidos, como una vieja marquesa de Bouchez!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

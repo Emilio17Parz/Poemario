@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "¡Cuántas veces al pie de las musgosas\nParedes que la guardan,\nOí la esquila que al mediar la noche\nA los maitines llama!",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

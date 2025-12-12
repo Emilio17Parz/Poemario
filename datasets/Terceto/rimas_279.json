@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--En esta casa vive el muy honrado señor D. Alonso de Valdecuellos,\nmontero mayor de nuestro señor el rey, que herido en la guerra contra\nmoros, se encuentra en esta ciudad reponiéndose de sus fatigas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Otro frente lo constituía un paredón negruzco, lleno de grietas y\nhendiduras, en donde algunos reptiles asomaban su cabeza de ojos\npequeños y brillantes por entre las hojas de musgo; un paredón\naltísimo, formado de gruesos sillares, sembrado de huecos de puertas\ny balcones, tapiados con piedra y argamasa, y á uno de cuyos extremos\nse unía, formando ángulo con él, una tapia de ladrillos, desconchada\ny llena de mechinales, manchada á trechos de tintas rojas, verdes ó\namarillentas, y coronada de un bardal de heno seco, entre el cual\ncorrían algunos tallos de enredaderas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Las muelles danzas en las alcatifas\nDonde la mora sus velos desata,\nLos pensativos y viejos kalifas\nDe ojos obscuros y barbas de plata.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

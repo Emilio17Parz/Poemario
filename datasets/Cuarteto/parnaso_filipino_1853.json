@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Venga el golpe hacia ti! Espera firme\ny sitúate siempre a la vanguardia...\nProcura no caer en la refriega\nsin coronar la cumbre suspirada.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

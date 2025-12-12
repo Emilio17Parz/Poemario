@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Galerías del alma... ¡El alma niña!\nSu clara luz risueña;\ny la pequeña historia,\ny la alegría de la vida nueva...\n¡Ah, volver a nacer, y andar camino,\nya recobrada la perdida senda!\nY volver a sentir en nuestra mano\naquel latido de la mano buena\nde nuestra madre... Y caminar en sueños\npor amor de la mano que nos lleva.\n*\nEn nuestras almas todo\npor misteriosa mano se gobierna.\nIncomprensibles, mudas,\nnada sabemos de las almas nuestras.\nLas más hondas palabras\ndel sabio nos enseñan\nlo que el silbar del viento cuando sopla\no el sonar de las aguas cuando ruedan.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

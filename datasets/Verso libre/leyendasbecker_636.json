@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esto, sobre poco mas ó menos, era Esteban en cuanto al físico;\nrespecto á su moral, podía asegurarse sin temor de ser desmentido ni\npor él ni por ninguna de las personas que le conocían, que era\nperfectamente simple, aunque un tanto suspicaz y malicioso como buen\nrústico.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

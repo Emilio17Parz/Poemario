@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dando de alarma el grito\nCon eco poderoso,\nEl pueblo generoso\nLa espada desnudó;\nY destrozó cadenas,\nY derribó coronas,\nY en las opuestas zonas\nLaureles conquistó.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

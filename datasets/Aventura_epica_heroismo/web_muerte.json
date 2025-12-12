@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Qué esfuerzo!\n¡Qué esfuerzo del caballo por ser perro!\n¡Qué esfuerzo del perro por ser golondrina!\n¡Qué esfuerzo de la golondrina por ser abeja!\n¡Qué esfuerzo de la abeja por ser caballo!\nY el caballo,\n¡qué flecha aguda exprime de la rosa!,\n¡qué rosa gris levanta de su belfo!\nY la rosa,\n¡qué rebaño de luces y alaridos\nata en el vivo azúcar de su tronco!\nY el azúcar,\n¡qué puñalitos sueña en su vigilia!\nY los puñales dimínutos,\n¡qué luna sin establos, qué desnudos,\npiel eterna y rubor, andan buscando!\nY yo, por los aleros,\n¡qué serafín de llamas busco y soy!\nPero el arco de yeso,\n¡qué grande, qué invisible, qué diminuto!,\nsin esfuerzo.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

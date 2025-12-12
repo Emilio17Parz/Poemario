@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En vano la desidia pretenderá olvidarte,\nque el eco de tu nombre resuena sin cesar;\nse oye entre las ruinas que sirven de baluarte\na un ayer glorioso que nunca cederá;",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

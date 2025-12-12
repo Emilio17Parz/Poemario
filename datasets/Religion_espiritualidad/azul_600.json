@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Primavera. Ya las azucenas floridas y llenas de miel han abierto sus\ncálices pálidos bajo el oro del sol. Ya los gorriones tornasolados, esos\namantes acariciadores, adulan a las rosas frescas, esas opulentas y\npurpuradas emperatrices; ya el jazmín, flor sencilla, tachona los\ntupidos ramajes como una blanca estrella sobre un cielo verde. Ya las\ndamas elegantes visten sus trajes claros, dando al olvido las pieles y\nlos abrigos invernales.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

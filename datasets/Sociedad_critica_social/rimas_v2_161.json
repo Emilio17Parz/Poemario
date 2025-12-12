@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "En la derrota el pueblo valeroso\nTempla su brazo y su robusta lanza,\nPara volver despues mas ardoroso\nY entre el polvo, la sangre y la matanza,\nY entre el humo que envuelve la pelea\nDesafiar el cañon que centellea.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

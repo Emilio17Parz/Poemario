@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tú que en las nubes tienes alto nido,\nTiende tu vuelo, condor atrevido,\nQue sustentas de Chile el paladion;\nSigue del sol la luminosa huella,\nY trae cual Prometeo una centella\nPara incendiar con ella á la nacion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

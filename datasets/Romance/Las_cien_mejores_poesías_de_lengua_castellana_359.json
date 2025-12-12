@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "De brocado de oro y blanco\nViste tabardo tudesco,\nDe rubias martas orlado,\nY desabrochado y suelto,\nDejando ver un justillo\nDe raso jalde, cubierto\nCon primorosos bordados\nY costosos sobrepuestos,\nY la excelsa y noble insignia\nDel Toisón de oro, pendiendo\nDe una preciosa cadena\nEn la mitad de su pecho.\nUn birrete de velludo\nCon un blanco airón, sujeto\nPor un joyel de diamantes\nY un antiguo camafeo,\nDescubre por ambos lados,\nTanta majestad cubriendo,\nRubio, cual barba y bigote,\nBien atusado el cabello.\nApoyada en la cadera\nLa potente diestra ha puesto,\nQue aprieta dos guantes de ámbar\nY un primoroso mosquero,\nY con la siniestra halaga\nDe un mastín muy corpulento,\nBlanco y las orejas rubias,\nEl ancho y carnoso cuello.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'eo')"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Anduvo toda la mañana entre los granados del huerto, en el pino de la\npuerta, por las lilas. Los niños estuvieron, toda la mañana también,\nsentados en la galería, absortos en los breves vuelos del pajarillo\namarillento. Libre, Platero, holgaba junto á los rosales, jugando con\nuna mariposa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

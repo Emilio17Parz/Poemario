@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Unas veces me siento\ncomo pobre colina\ny otras como montaña\nde cumbres repetidas.\nUnas veces me siento\ncomo un acantilado\ny en otras como un cielo\nazul pero lejano.\nA veces uno es\nmanantial entre rocas\ny otras veces un árbol\ncon las últimas hojas.\nPero hoy me siento apenas\ncomo laguna insomne\ncon un embarcadero\nya sin embarcaciones\nuna laguna verde\ninmóvil y paciente\nconforme con sus algas\nsus musgos y sus peces,\nsereno en mi confianza\nconfiando en que una tarde\nte acerques y te mires,\nte mires al mirarme.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

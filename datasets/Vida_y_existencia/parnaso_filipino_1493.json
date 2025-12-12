@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡De noche es un arcano...! Su diáfano elemento\nse cubre de millares refulgencias de luz;\nla brisa vaga fresca, reluce el firmamento,\nlas olas en suspiros cuentan al manso viento\nhistorias que se pierden del tiempo en el capúz.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esperando que el viento\ndoble tus ramas\nque el nivel de las aguas\nllegue a tu arena\nesperando que el cielo\nforme tu barro\ny que a tus pies la tierra\nse mueva sola\npueblo\nestás quieto\ncómo\nno sabes\ncómo no sabes\ntodavía\nque eres el viento\nla marea\nque eres la lluvia\nel terremoto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

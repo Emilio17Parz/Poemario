@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Fueron tres chispas ténues de la divina hoguera\nQue vuestros corazones de casto amor llenó,\nChispas que remontaron á la celeste esfera,\nY que en estrellas fijas el cielo convirtió.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

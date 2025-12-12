@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hace ya muchos años, en una noche lluviosa y oscura, llegó á la\npuerta claustral de esta abadía un romero, y pidió un poco de lumbre\npara secar sus ropas, un pedazo de pan con que satisfacer su hambre,\ny un albergue cualquiera donde esperar la mañana y proseguir con la\nluz del sol su camino.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "<i>Dulce Platero trotón, burrillo mío, que llevaste mi alma tantas\nveces--¡sólo mi alma!--por aquellos hondos caminos de nopales, de malvas\ny de madreselvas; á ti este libro que habla de ti, ahora que puedes\nentenderlo.</i>",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh, quién fuera hipsipila que dejó la crisálida!\n(La princesa está triste. La princesa está pálida)\n¡Oh, visión adorada de oro, rosa y marfil!\n¡Quien volara a la tierra donde un príncipe existe\n(La princesa está pálida. La princesa está triste)\nMás brillante que el alba, más hermoso que Abril!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

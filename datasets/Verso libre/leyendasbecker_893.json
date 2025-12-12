@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Alonso y Lope, el uno estrujando en silencio entre sus manos el\nbirrete de terciopelo, cuya pluma arrastraba por la alfombra, y el\notro mordiéndose los labios hasta hacerse brotar la sangre, se\nclavaron una mirada tenaz é intensa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

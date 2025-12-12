@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ojos de gato, lengua de serpiente,\nGarras de tigre, boca de lagarto!\nSatan sin duda con un beso ardiente\nSelló tu rostro en la hora de tu parto.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

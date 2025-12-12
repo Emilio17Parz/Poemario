@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Todo es allí grande. La soledad con sus mil rumores desconocidos, vive\nen aquellos lugares y embriaga el espíritu en su inefable melancolía.\nEn las plateadas hojas de los álamos, en los huecos de las peñas, en\nlas ondas del agua, parece que nos hablan los invisibles espíritus de\nla naturaleza, que reconocen un hermano en el inmortal espíritu del\nhombre.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

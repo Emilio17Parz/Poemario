@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hoy me he tendido junto a una joven pura\ncomo a la orilla de un océano blanco,\ncomo en el centro de una ardiente estrella\nde lento espacio.\nDe su mirada largamente verde\nla luz caía como un agua seca,\nen transparentes y profundos círculos\nde fresca fuerza.\nSu pecho como un fuego de dos llamas\nardía en dos regiones levantado,\ny en doble río llegaba a sus pies,\ngrandes y claros.\nUn clima de oro maduraba apenas\nlas diurnas longitudes de su cuerpo\nllenándolo de frutas extendidas\ny oculto fuego.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

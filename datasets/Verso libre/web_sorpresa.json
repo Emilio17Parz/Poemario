@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Muerto se quedó en la calle\ncon un puñal en el pecho.\nNo lo conocía nadie.\n¡Cómo temblaba el farol!\nMadre.\n¡Cómo temblaba el farolito\nde la calle!\nEra madrugada. Nadie\npudo asomarse a sus ojos\nabiertos al duro aire.\nQue muerto se quedó en la calle\nque con un puñal en el pecho\ny que no lo conocía nadie.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

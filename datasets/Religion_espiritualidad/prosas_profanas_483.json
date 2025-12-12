@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "PADRE y maestro mágico, liróforo celeste\nQue al instrumento olímpico y a la siringa agreste\nDiste tu acento encantador;\nPanida! Pan tú mismo, que coros condujiste\nHacia el propíleo sacro que amaba tu alma triste,\nAl són del sistro y del tambor!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

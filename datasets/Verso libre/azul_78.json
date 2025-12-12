@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los cuentos en prosa son más singulares aún. Parecen escritos en París,\ny no en Nicaragua ni en Chile. Todos son brevísimos. Usted hace gala de\nlaconismo. _La Ninfa_ es quizá el que más me gusta. La cena en la quinta\nde la cortesana está bien descrita. El discurso del sabio prepara el\nánimo del lector. Los límites, que tal vez no existan, pero que todos\nimaginamos, trazamos y ponemos entre lo natural y sobrenatural, se\nesfuman y desaparecen. San Antonio vió en el yermo un hipocentauro y un\nsátiro. Alberto Magno habla también de sátiros que hubo en su tiempo.\n¿Por qué ha de ser esto falso? ¿Por qué no ha de haber sátiros, faunos y\nninfas? La cortesana anhela ver un sátiro vivo; el poeta, una ninfa. La\naparición de la ninfa desnuda al poeta, en el parque de la quinta, a la\nmañana siguiente, en la umbría apartada y silenciosa, entre los blancos\ncisnes del estanque, está pintada con tal arte que parece verdad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

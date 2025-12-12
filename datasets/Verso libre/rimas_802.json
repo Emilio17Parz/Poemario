@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando llegó la hora de costumbre, Magdalena tomó su cántaro y\nle dijo á su hermana:--¿Vamos á la fuente?--Marta no contestó, y\nMagdalena volvió á decirle:--¿Vamos á la fuente? Mira que si no nos\napresuramos, se pondrá el sol antes de la vuelta.--Marta exclamó\nal fin con un acento breve y áspero:--Yo no quiero ir hoy.--Ni yo\ntampoco--añadió Magdalena después de un instante de silencio, durante\nel cual mantuvo los ojos clavados en los de su hermana, como si\nquisiera adivinar en ellos la causa de su resolución.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

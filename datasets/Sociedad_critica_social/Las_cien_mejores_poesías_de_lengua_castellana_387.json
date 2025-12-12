@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El puñal de Catón, la adusta frente\nDel noble Bruto, la constancia fiera\nY el arrojo de Scévola valiente,\nLa doctrina de Sócrates severa,\nLa voz atronadora y elocuente\nDel orador de Atenas, la bandera\nContra el tirano Macedonio alzando,\nY al espantado pueblo arrebatando:",
+    "tipo": "social",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

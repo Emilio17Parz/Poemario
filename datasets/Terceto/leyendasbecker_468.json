@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "There are also _sextinas_ which have the third and sixth verses with a\nconsonantal rhyme in words that are _agudas_, while the first and\nsecond, and the fourth and fifth, form _pareados_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

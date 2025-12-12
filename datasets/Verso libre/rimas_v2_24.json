@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hace treinta años que el ilustre poeta D. Estéban Echeverría consignó\nestas palabras en un libro dedicado á la jóven generacion de sus dias:\n«El señor Mitre, artillero científico, soldado en Cagancha y en el sitio\nde Montevideo, ha adquirido, aunque muy jóven, títulos bastantes como\npensador y poeta. Su musa se distingue de los contemporáneos por la\nfranqueza varonil de sus movimientos, y por cierto temple de voz marcial\nque nos recuerda la entonacion robusta de Calímaco y Tirteo. Se ocupa\nactualmente de trabajos históricos que le granjearán, sin duda, nuevos\nlauros.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

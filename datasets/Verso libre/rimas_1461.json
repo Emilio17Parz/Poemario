@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando entre la sombra oscura\nPerdida una voz murmura\nTurbando su triste calma,\nSi en el fondo de mi alma\nLa oigo dulce resonar;\nDime: ¿es que el viento en sus giros\nSe queja, ó que tus suspiros\nMe hablan de amor al pasar?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

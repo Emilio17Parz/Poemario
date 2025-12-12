@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Era francés el buque que venia,\nY allá en su mástil ondear se via\nDe Julio el pabellon.\nViva la Francia! gritan muchas veces;\nVivan los libres! gritan los franceses\nDe noble corazon.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

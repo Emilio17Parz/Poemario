@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A la puerta de la iglesia\nRememora sus hazañas,\nY las gloriosas campañas\nQue en otros siguió;\nY mostrando con orgullo\nDe su frente un ancha herida,\nPide con voz dolorida\n_Una limosna por Dios!_",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

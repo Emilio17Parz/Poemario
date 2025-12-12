@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y sobre el agua azul el caballero\nLohengrín; y su cisne, cual si fuese\nUn cincelado témpano viajero,\nCon su cuello enarcado en forma de S.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

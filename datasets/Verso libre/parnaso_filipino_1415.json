@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por las manos que tienen mansedumbre de tules,\npor las sampagas niveas del malayo vergel,\npor las místicas garzas de los lagos azules\ncoloco en vuestras frentes esta hoja de laurel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

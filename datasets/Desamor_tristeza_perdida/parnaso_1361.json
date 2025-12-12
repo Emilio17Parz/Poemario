@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quítate afuera, ó flaca llama escura,\nQue dolor en mirarte ansi, recibo.\nNo miras como el humo se apresura\nA caminar al lado del Poniente,\nY la amarilla llama mal sigura\nSus puntas encamina acia el Oriente?\nDesdichada señal, señal notoria\nQue nuestro mal y daño está presente.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

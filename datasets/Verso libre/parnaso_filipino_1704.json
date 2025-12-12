@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Entonces, de la cúspide mas alta\nde los grandes ensueños que acaricia\nla juventud, que tu labor exalta,\nhabrá de bendecirte... Y si hace falta\nla misma humanidad te hará justicia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

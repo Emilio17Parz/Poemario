@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es algo formidable que vio la vieja raza:\nrobusto tronco de árbol al hombro de un campeón\nsalvaje y aguerrido, cuya fornida maza\nblandiera el brazo de Hércules, o el brazo de Sansón.\nPor casco sus cabellos, su pecho por coraza,\npudiera tal guerrero, de Arauco en la región,\nlancero de los bosques, Nemrod que todo caza,\ndesjarretar un toro, o estrangular un león.\nAnduvo, anduvo, anduvo. Le vio la luz del día,\nle vio la tarde pálida, le vio la noche fría,\ny siempre el tronco de árbol a cuestas del titán.\n«¡El Toqui, el Toqui!» clama la conmovida casta.\nAnduvo, anduvo, anduvo.  La aurora dijo: «Basta»,\ne irguióse la alta frente del gran Caupolicán.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

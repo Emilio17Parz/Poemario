@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La tarde está muriendo\ncomo un hogar humilde que se apaga.\nAllá, sobre los montes,\nquedan algunas brasas.\nY ese árbol roto en el camino blanco\nhace llorar de lástima.\n¡Dos ramas en el tronco herido, y una\nhoja marchita y negra en cada rama!\n¿Lloras?... Entre los álamos de oro,\nlejos, la sombra del amor te aguarda.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

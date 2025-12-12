@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mas esto es muy triste, tal vez distraido\nSu frente he podido de nieblas cubrir,\nY al velo que lleva solo es permitido\nCon nubes lijeras su frente circuir.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un camarín te decoro\ndonde sabrás la lección\nque dió a Angélica Medoro\ny a Belkiss dió Salomón;\narderá mi sangre loca,\ny en el vaso de tu boca\nte sorberé el corazón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

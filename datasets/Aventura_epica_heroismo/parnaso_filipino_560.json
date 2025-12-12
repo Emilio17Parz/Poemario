@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Por cantar tu excelsa gloria los poetas ya agotaron\nlos acentos de sus liras, los vocablos del lenguaje...\n¿Qué poetas, inspirados por tu historia, no cantaron\nla nobleza de tus hechos, la virtud de tu linaje?",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

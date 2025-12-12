@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Renuncio, pues, á describir el panorama del mercado con sus extensos\nsoportales, formados de arcos macizos y redondos sobre los que\ngravitan esas construcciones voladas tan propias del siglo XVI,\nllenas de tragaluces circulares, de rejas de hierro labradas á\nmartillo, de balcones imposibles de todas formas y tamaños, de\naleros puntiagudos y de canes de madera, ya medio podrida y cubierta\nde polvo, que deja ver á trechos el costoso entalle, muestra de su\nprimitivo esplendor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

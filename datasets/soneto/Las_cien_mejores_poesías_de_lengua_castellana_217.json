@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Tú, a quien ofrece el apartado polo,\nHasta donde tu nombre se dilata,\nPreciosos dones de luciente plata,\nQue envidia el rico Tajo y el Pactolo;\nPara cuya corona, como a solo\nRey de los ríos, entreteje y ata\nPalas su oliva con la rama ingrata\nQue contempla en tus márgenes Apolo;\nClaro Guadalquivir, si impetuoso\nCon crespas ondas y mayor corriente\nCubrieres nuestros campos mal seguros,\nDe la mejor ciudad, por quien famoso\nAlzas igual al mar la altiva frente,\nRespeta humilde los antiguos muros.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

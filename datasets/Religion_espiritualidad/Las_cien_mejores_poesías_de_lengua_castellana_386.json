@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Yo amaba todo: un noble sentimiento\nExaltaba mi ánimo, y sentía\nEn mi pecho un secreto movimiento,\nDe grandes hechos generoso guía:\nLa libertad con su inmortal aliento,\nSanta diosa, mi espíritu encendía,\nContino imaginando en mi fe pura\nSueños de gloria al mundo y de ventura.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

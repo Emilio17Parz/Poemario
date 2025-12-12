@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No es menester acudir a sabios profundos: cualquier sabio adocenado y\nmedianejo de nuestra edad conoce hoy, clasifica y ordena los fenómenos\nque hieren los sentidos corporales, auxiliados estos sentidos por\ninstrumentos poderosos que aumentan su capacidad de percepción. Además\nse han descubierto, a fuerza de paciencia y de agudeza y por virtud de\nla dialéctica y de las matemáticas, gran número de leyes que dichos\nfenómenos siguen.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

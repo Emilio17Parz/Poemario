@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Si á alguno de mis lectores se le ocurriese hacerme la misma\npregunta, después de leer esta historia, ya sabe el por qué no se ha\ncontinuado el milagroso portento hasta nuestros días.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

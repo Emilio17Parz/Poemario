@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La falsa confianza mil engaños\nConsigo trae: advierte lo que haces,\nSeñor, que esa arrogancia que nos muestras,\nRenovará el valor en nuestras diestras;\nY pues niegas la paz, que con buen zelo\nTe ha sido por nosotros demandada,\nDe hoy mas la causa nuestra con el cielo\nQuedará por mejor calificada,\nY antes que pises de Numancia el suelo,\nProbarás do se estiende la indignada\nFuria de aquel que siendote enemigo,\nQuiere serte vasallo y fiel amigo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ámame, japonesa, japonesa\nAntigua, que no sepa de naciones\nOccidentales; tal una princesa\nCon las pupilas llenas de visiones,",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Roída de recuerdos de amargura,\nÁrido el corazón, sin ilusiones,\nLa delicada flor de tu hermosura\nAjaron del dolor los aquilones:\nSola, y envilecida, y sin ventura,\nTu corazón secaron las pasiones:\nTus hijos ¡ay! de ti se avergonzaran,\nY hasta el nombre de madre te negaran.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

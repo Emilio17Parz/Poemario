@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Que bajo el sol dorado de Manzanilla\nQue esta azulada concha del cielo baña,\nPolítona y triunfante, la seguidilla\nEs la flor del sonoro Pindo de España.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

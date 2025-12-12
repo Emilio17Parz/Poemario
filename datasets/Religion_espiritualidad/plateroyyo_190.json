@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El primer canto del grillo, en el crepúsculo, es vacilante, bajo y\náspero. Muda de tono, aprende de si mismo y, poco á poco, va subiendo,\nva poniéndose en su sitio, como si fuera buscando la armonía del lugar y\nde la hora. De pronto, ya las estrellas en el cielo verde y\ntransparente, cobra el canto un dulzor melodioso de cascabel libre.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

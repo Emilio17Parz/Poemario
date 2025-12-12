@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y cuando las gentes, ¡las pobres gentes!, se van á misa, los domingos,\nellos, en un alegre ejemplo, se vienen de pronto, con su algarabía\nfresca y jovial, al jardín de las casas cerradas, en las que algún\npoeta, que ya conocen bien, y algún burrillo tierno, los contemplan\nfraternales.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

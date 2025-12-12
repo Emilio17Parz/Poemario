@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Y ese Dios no eres tú! No tu serena\nfaz, de consuelos llena,\nalumbra y guía nuestro incierto paso.\nEs otro Dios incógnito y sombrío:\nsu cielo es el vacío,\nSacerdote el error, ley el Acaso.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

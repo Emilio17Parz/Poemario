@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Dejad que siga y bogue la galera\nbajo la tempestad, sobre las olas:\nva con rumbo a una Atlántida española,\nen donde el porvenir calla y espera.\nNo se apague el rencor ni el odio muera\nante el pendón que el bárbaro enarbola:\nsi un día la justicia estuvo sola,\nlo sentirá la humanidad entera.\nY bogue entre las olas espumeantes,\ny bogue la galera que ya ha visto\ncómo son las tormentas de inconstantes.\nQue la raza está en pie y el brazo listo,\nque va en el barco el capitán Cervantes,\ny arriba flota el pabellón de Cristo.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

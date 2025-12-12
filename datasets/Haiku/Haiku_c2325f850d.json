@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Alta en el cielo\nla luna llena nos mira\nnoche silenciosa",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "¿Quién era el dueño de aquel delicioso pájaro alegre, de ojos negros y\nboca roja? ¿Para quién cantaba su canción divina, cuando la señorita\nPrimavera mostraba en el triunfo del sol su bello rostro riente, y abría\nlas flores del campo, y alborotaba la nidada? Suzette se llamaba la\navecita que había puesto en jaula de seda, peluches y encajes, un\nsoñador artista cazador, que la había cazado una mañana de Mayo en que\nhabía mucha luz en el aire y muchas rosas abiertas.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Las aguas del mar envuelve\nen su seno y sube, sube,\ny otra vez se las devuelve\ncuando en lluvia se resuelve,\nlimpias y dulces la nube.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

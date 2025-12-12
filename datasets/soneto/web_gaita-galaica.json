@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Gaita galaica, sabes cantar\nlo que profundo y dulce nos es.\nDices de amor, y dices después\nde un amargor como el de la mar.\nCanta. Es el tiempo. Haremos danzar\nal fino verso de rítmicos pies.\nYa nos lo dijo el Eclesiastés:\ntiempo hay de todo: hay tiempo de amar,\ntiempo de ganar, tiempo de perder,\ntiempo de plantar, tiempo de coger,\ntiempo de llorar, tiempo de reír,\ntiempo de rasgar, tiempo de coser,\ntiempo de esparcir y de recoger,\ntiempo de nacer, tiempo de morir.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

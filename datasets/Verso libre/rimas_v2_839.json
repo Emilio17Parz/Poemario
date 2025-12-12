@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por las llanuras del Sud\nYacen do quier esparcidas\nLas semillas bendecidas\nDel árbol de libertad.\nCon la sangre del martirio\nHa sido ese árbol regado:\nSi sus ramas han cortado\nEl tronco intacto quedó.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

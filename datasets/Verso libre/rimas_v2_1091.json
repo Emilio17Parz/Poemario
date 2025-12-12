@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sol, estrella, luna, flor,\nAurora, sílfide, brisa,\nQue alumbra con su sonrisa\nY alumbra con su mirar,\nEs original sin tipo\nQue encierra en sí al universo,\nY que no es dado, ni al verso,\nNi al pincel el retratar!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La ciencia audaz, cuando de ti se aleja,\nen nuestras almas deja\nel germen de recónditos dolores,\ncomo al tender el vuelo hacia la altura,\ndeja su larva impura\nel insecto en el cáliz de las flores.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

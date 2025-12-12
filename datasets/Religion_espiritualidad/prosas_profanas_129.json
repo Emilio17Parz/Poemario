@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Ay! la pobre princesa de la boca de rosa,\nQuiere ser golondrina, quiere ser mariposa.\nTener alas ligeras, bajo el cielo volar,\nIr al sol por la escala luminosa de un rayo,\nSaludar a los lirios con los versos de Mayo,\nO perderse en el viento sobre el trueno del mar.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

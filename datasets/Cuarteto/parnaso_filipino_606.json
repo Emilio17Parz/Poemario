@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sonajas y parches alzarán en coro\nfrente a los belenes pastoril canción,\ny sobre el establo, una estrella de oro\nmarcará la senda de la adoración.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

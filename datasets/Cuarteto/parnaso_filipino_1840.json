@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ha pasado la noche dolorosa,\nnuestra noche fatídica y amarga...\nAuras de paz retozan en la tierra\ny platean el cielo nuevas albas...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

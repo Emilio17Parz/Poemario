@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Compañera\nusted sabe\npuede contar\nconmigo\nno hasta dos\no hasta diez\nsino contar\nconmigo\nsi alguna vez\nadvierte\nque la miro a los ojos\ny una veta de amor\nreconoce en los míos\nno alerte sus fusiles\nni piense qué delirio\na pesar de la veta\no tal vez porque existe\nusted puede contar\nconmigo\nsi otras veces\nme encuentra\nhuraño sin motivo\nno piense qué flojera\nigual puede contar\nconmigo\npero hagamos un trato\nyo quisiera contar\ncon usted\nes tan lindo\nsaber que usted existe\nuno se siente vivo\ny cuando digo esto\nquiero decir contar\naunque sea hasta dos\naunque sea hasta cinco\nno ya para que acuda\npresurosa en mi auxilio\nsino para saber\na ciencia cierta\nque usted sabe que puede\ncontar conmigo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

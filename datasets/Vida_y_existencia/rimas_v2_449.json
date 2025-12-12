@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Y hoy sus huesos dispersos,\nEn la estéril llanura,\nBlanqueados por los cierzos,\nSe estiman mas que el oro\nY forman el tesoro\nDel mundo de Colon.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

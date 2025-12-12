@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tus despojos después enriquecieron\npróvidas flores que en cercano día\nen ánforas tus manos dispusieron,\nlas mismas que en tus últimos delirios\nimpetrabas la amable compañía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

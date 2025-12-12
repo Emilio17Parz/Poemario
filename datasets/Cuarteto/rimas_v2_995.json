@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El pueblo que en silencio te escuchaba\nAnte tu genio doblegó la frente,\nY escuchó reverente\nDe tu arco la inmortal revelacion;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

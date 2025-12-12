@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sangre que la Ley vierte.\nTambor a la sordina.\nBrotan las adelfas que riega la Muerte\ny el rojo cometa que anuncia la ruina.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

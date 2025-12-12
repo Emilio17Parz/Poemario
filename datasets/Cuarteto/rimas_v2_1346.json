@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Resuena el bronce al apagarse el dia,\nMuge el rebaño en torno del vallado,\nY el labrador regresa á su alqueria\nDejándome de sombras circundado.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

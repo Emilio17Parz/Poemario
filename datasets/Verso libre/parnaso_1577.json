@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Qué es esto, capitanes? quién nos toca\nAl arma en tal sazon? es por ventura\nAlguna gente desmandada y loca\nQue viene á procurar su sepultura?\nO no sea algun motin el que provoca\nTocar al arma en recia coyuntura:\nQue tan seguro estoy del enemigo,\nQue tengo mas temor al que es amigo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

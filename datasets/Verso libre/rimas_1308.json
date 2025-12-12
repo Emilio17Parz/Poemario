@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Yo oí por primera vez referir la historia que á mi vez he contado,\nal pie del humilde pilar que la recuerda, y antes de haber visto\nel monasterio que ocultaban aún á mis ojos las altas alamedas de\nárboles, entre cuyas copas se esconden sus puntiagudas torres.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

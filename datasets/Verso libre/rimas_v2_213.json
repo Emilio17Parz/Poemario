@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Escúchase un redoble:\nLa infantería inmoble\nSus armas descargó.\nY al ver sus bayonetas\n«Á la carga, cornetas!»\nZacarías gritó.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

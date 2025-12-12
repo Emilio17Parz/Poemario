@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Entregando al verdugo dos cabezas\nTe has hecho en nuestros fastos inmortal,\nQue si no tienes que contar proezas,\nTienes una traicion ¡vil Sandoval!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

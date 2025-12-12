@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Estriba con bizarría,\nY la _espuela nazarena_\nSuspira en dulce armonía,\nComo grillos que á porfía\nLloran del preso la pena.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

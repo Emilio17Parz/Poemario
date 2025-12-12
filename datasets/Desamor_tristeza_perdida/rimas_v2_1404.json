@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hay un seno todo mio\nDonde reclino mi frente,\nCuando el dolor inclemente\nViene mi pecho á turbar;\nHay lábios que solo se abren\nÁ mis lábios con encanto,\nY ojos que vierten un llanto\nQue al mio se vá á mezclar.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

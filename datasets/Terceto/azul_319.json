@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Cantemos el oro, porque de él son las cuerdas de las grandes liras, la\ncabellera de las más tiernas amadas, los granos de la espiga y el peplo\nque al levantarse viste la olímpica aurora.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

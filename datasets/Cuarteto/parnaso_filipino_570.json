@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sobre un lecho, adormida, de piedras finas,\nte arrullan de los bosques las auras suaves;\nvelan tus sueños de oro castas ondinas,\nte murmuran mil trovas parleras aves.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

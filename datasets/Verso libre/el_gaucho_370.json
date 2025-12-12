@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "337\nHay gauchos que presumen\nde tener damas;\nno digo que presumen,\npero se alaban,\ny a lo mejor los dejan\ntocando tablas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

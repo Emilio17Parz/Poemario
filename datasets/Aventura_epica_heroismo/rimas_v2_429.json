@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Qué importan á los bravos\nLa pompa de los templos\nQue compran los esclavos!\nLes bastan sus ejemplos,\nSu inmarcesible gloria,\nSu tumba, su victoria,\nSus lauros, su valor!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

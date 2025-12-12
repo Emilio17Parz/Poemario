@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Envio á vm. unos privilegios, ordenanzas y advertimientos, tocantes á\nlos poetas: vm. los haga guardar y cumplir al pie de la letra, que\npara todo ello doy á vm. mi poder cumplido quanto de derecho se\nrequiere.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

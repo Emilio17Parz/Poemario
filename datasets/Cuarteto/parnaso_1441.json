@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "O tristes signos, signos desdichados,\nSi esto ha de suceder del pueblo, amigo,\nPrimero que mirar tal desventura,\nMi vida acabe en esta sepultura.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

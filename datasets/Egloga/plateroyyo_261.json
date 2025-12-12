@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "El campo está solo con sus árboles y con la sombra de sus árboles. Hay\nun canto roto de grillo, una conversación sonámbula de aguas ocultas,\nuna blandura húmeda, como si se deshiciesen las estrellas... Platero,\ndesde la tibieza de su cuadra, rebuzna tristemente.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

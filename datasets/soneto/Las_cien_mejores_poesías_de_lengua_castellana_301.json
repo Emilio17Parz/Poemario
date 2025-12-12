@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Estas que fueron pompa y alegría\nDespertando al albor de la mañana,\nA la tarde serán lástima vana\nDurmiendo en brazos de la noche fría.\nEste matiz que al cielo desafía,\nIris listado de oro, nieve y grana,\nSerá escarmiento de la vida humana:\n¡Tanto se emprende en término de un día!\nA florecer las rosas madrugaron,\nY para envejecerse florecieron:\nCuna y sepulcro en un botón hallaron.\nTales los hombres sus fortunas vieron:\nEn un día nacieron y expiraron;\nQue pasados los siglos, horas fueron.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

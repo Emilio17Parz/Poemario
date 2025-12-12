@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un castillo de blancas azucenas\ndonde una mano leve\ncoloque entre armonías y rumores\nrocío transparente;\nun rayo misterioso de la luna\nempapada en el éter;\nun eco de las arpas que resuenan\ny el corazón conmueven;\nun beso de un querube en tus mejillas;\nalgo apacible y leve,\ny escrita sobre la hoja de albo lirio,\nuna rima de Bécquer.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

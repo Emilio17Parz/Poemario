@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cada arruga que surca ese semblante\nEs del trabajo la profunda huella,\nO fue un dolor de vuestro pecho amante.\nLa historia fiel de una época distante\nPuedo leer yo en ella.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

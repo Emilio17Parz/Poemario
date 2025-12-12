@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y esto lo sabes bien, ¡oh entraña mía!\ny sabes del sendero que es muy largo\n¡oh entraña! y, sin embargo,\nvas cruzando el sendero en tu porfía.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

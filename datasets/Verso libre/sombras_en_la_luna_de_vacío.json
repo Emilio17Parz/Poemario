@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sombras en la luna de vacío",
+  "poema": {
+    "texto": "Luna vacía, sombras te pintan\nMiradas perdidas en tu frente blanco,\nEn el silencio nada resonar,\nVestida de misterio y encantos.\n\nEl ojo de la noche se pierde en ti,\nTus cuerpos oscuros en el cielo brillante,\nEn tu misterio nos hemos perdido,\nTus sombras nos traen recordatorios.\n\nLa luna vacía, nuestra historia,\nNuestros pasados y nostálgicos recuerdos,\nEn tu frente blanco, se nos refleja la muerte,\nY la vida que aún buscamos en ti.",
+    "tipo": "Verso_libre",
+    "palabra_clave_ingresada": "Sombras"
+  }
+}

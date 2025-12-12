@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Era la noche de luna. Fuera decían los vientos\nel suspiro milenario de sus plácidos lamentos.\nEn mi frente había un loco florecer de pensamientos\ny de tristezas nocturnas... ¡Fuera lloraban los vientos!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

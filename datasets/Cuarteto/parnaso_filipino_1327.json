@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Salta en collar de rotas melodías,\nque en musicales ópalos ondulan,\nla risa entre sus dientes que simulan\nun éxtasis de esclavas perlerías.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

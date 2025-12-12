@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Se marchitó como rosa\nQue su perfume derrama,\nComo fosfórica llama\nUn solo instante vivió;\nPorque faltaba á su alma\nEl aire puro del cielo,\nY tomando raudo vuelo\nOtra atmósfera buscó.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

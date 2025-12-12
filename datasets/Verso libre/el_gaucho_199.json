@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "170\n¡Quién no sentirá lo mesmo\ncuando ansí padece tanto!\nPuedo asigurar que el llanto\ncomo una mujer largué:\n¡ay, mi Dios: si me quedé\nmás triste que jueves santo!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Y mas, que á cada paso se me ofrecen\nInfinitas secretas ocasiones.\nCerrar quiero con una. Aurelio, paso,\nQue no es de caballero lo que piensas,\nDe lo que á Cristo y á su sangre debes.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cristo"
+  }
+}

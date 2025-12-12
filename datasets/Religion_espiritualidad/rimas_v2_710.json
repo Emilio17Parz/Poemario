@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tu alma puebla los desiertos,\nY del Sud en la campaña\nAl lado de una cabaña\nSe eleva fúnebre cruz;\nEsa cruz, bajo de un tala\nSolitario, abandonado,\nEs un símbolo adorado\nEn los campos del Tuyú.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

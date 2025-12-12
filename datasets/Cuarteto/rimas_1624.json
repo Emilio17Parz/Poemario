@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En este punto resonó en mi oído\nUn rumor semejante al que en el templo\nVaga confuso, al terminar los fieles\nCon un _amén_ sus rezos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "A verse is called _agudo, llano_ (or grave), or _esdrújulo_ according\nto whether its final word is _aguda, llana_ (or grave), or\n_esdrújula_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

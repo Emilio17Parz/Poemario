@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "En las contiendas civiles\nEsclava de las facciones,\nTe ha arrancado tristes sones\nLa espada del vencedor,\nY dominando el murmullo\nDel pueblo desenfrenado,\nAnte el mundo has protestado\nCon dolorido clamor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

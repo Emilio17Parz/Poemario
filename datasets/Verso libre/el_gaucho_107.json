@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "81\nNo salvan de su juror\nni los pobres angelitos;\nviejos, mozos y chiquitos\nlos mata del mesmo modo:\nque el indio lo arregla todo\ncon la lanza y con gritos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

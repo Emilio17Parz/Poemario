@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "97\nY pa mejor de la fiesta\nen esa aflición tan suma,\nvino un indio echando espuma,\ny con la lanza en la mano,\ngritando: acabáu cristiano,\nmetau el lanza hasta el pluma.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

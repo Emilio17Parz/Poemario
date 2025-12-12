@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La aurora asomaba\nlejana y siniestra.\nEl lienzo de Oriente\nsangraba tragedias,\npintarrajeadas\ncon nubes grotescas.\n.....................................................\nEn la vieja plaza\nde una vieja aldea,\nerguía su horrible\npavura esquelético\nel tosco patíbulo\nde fresca madera...\nLa aurora asomaba\nlejana y siniestra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

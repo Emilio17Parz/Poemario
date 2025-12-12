@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Podría seguir bosquejando otra porcion de cuadros del mismo género, por\nmedio de rápidos perfiles, pero la multiplicidad de ellos no probaria\nmas que los nombres de Homero, de Corneille y de Shakespeare, á quienes\ntendríamos que clasificar de hombres incompletos, si hubiésemos de\njuzgar con el criterio de los hombres positivos, que cuando les\npresentan un libro de poesía preguntan ¿y esto qué prueba? Esos tres\ngénios prueban, por lo menos, el poder del hombre; y no es poco probar,\npues sin ellos no sabríamos de lo que somos capaces. Las ciencias y las\nartes nos han revelado ó hecho presentir todo aquello que podemos\npercibir ó alcanzar por medio de los sentidos, menos los límites del\nentendimiento, que, como dice Leibnitz, es lo único que no entra por los\nsentidos. Lo primero está fuera del hombre, corresponde á una vida\nesterior que no es la suya. Lo segundo pertenece al hombre mismo, y,\ncomo lo dice Leroux, es la espresion de su propia vida, ó mas bien, su\npropia vida que se realiza, comunicándose á los demas, y esforzándose en\neternizarse.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

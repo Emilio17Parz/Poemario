@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Pequeña ánfora lírica de vino llena\nCompuesto por la dulce musa Alegría\nCon uvas andaluzas, sal macarena,\nFlor y canela frescas de Andalucía.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

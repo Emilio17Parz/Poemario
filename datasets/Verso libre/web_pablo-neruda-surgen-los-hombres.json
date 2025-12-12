@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "ALLÍ germinaban los toquis.\nDe aquellas negras humedades,\nde aquella lluvia fermentada\nen la copa de los volcanes\nsalieron los pechos augustos,\nlas claras flechas vegetales,\nlos dientes de piedra salvaje,\nlos pies de estaca inapelable,\nla glacial unidad del agua.\nArauco fue un útero frío,\nhecho de heridas, machacado\npor el ultraje, concebido\nentre las ásperas espinas,\narañado en los ventisqueros,\nprotegido por las serpientes.\nAsí la tierra extrajo al hombre.\nCreció como una fortaleza.\nNació de la sangre agredida.\nAmontonó su cabellera\ncomo un pequeño puma rojo\ny los ojos de piedra dura\nbrillaban desde la materia\ncomo fulgores implacables\nsalidos de la cacería.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No, no; nunca estés triste...\nA través del espacio,\nque guarda los arcanos\nde nuestro amor sin calma,\nenlacemos, despacio,\nel alma de las manos\ny las manos del alma.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

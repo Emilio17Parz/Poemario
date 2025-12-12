@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Como una flor purísima y hermosa\nNacida en estancado cenegal,\nAsí vivias tú, genio sublime,\nEn medio de este páramo glacial;\nY cual se eleva del pantano infecto\nDe su perfume grata suavidad,\nAsí tu acento se elevaba puro\nA la mansion de la eternal bondad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

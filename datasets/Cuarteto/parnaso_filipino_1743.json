@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Dulac y Miguel Nieto han presentido\nla vida de este símbolo, y han dado\nla tristeza febril de lo vivido\na la quimera de lo que han pintado.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

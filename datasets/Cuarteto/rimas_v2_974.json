@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Llorad, llorad en torno de la fosa\nDel bardo fiel que su mision llenó,\nY que las plantas de su Patria hermosa\nCon versos aromáticos bañó.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

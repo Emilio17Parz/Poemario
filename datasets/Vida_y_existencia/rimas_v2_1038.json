@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Oh, si el destino crudo de tí no me apartara,\nSi de los patrios lares ¡ay Dios! no me arrojara,\nMi porvenir entero se cifraría en tí!\nPorque al mirar tu rostro tan cándido y divino\nVeo que mi destino se liga á tu destino;\nVeo que para amarte tan solo yo nací.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Yo interior introspeccion",
   "poema": {
     "texto": "La emoción brilla\nen el agua del estanque\nbajo la luna llena\nun recuerdo se desliza\nsuave como seda antigua",

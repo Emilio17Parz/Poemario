@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi pobre alma pálida\nera una crisálida.\nLuego, mariposa\nde color de rosa.\nUn céfiro inquieto\ndijo mi secreto...\n?¿Has sabido tu secreto un día?\n¡Oh Mía!\nTu secreto es una\nmelodía de un rayo de luna...\n?¿Una melodía?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

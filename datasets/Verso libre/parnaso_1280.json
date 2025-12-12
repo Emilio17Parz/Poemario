@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pareceme, varones esforzados,\nQue en nuestros daños con rigor influyen\nLos tristes signos y contrarios hados,\nPues nuestra fuerza y maña desminuyen:\nTienennos los Romanos encerrados,\nY con cobardes mañas nos destruyen,\nNi con matar muriendo no hay vengarnos,\nNi podemos sin alas escaparnos.\nY no solo á vencernos se despiertan\nLos que havemos vencido veces tantas,\nQue tambien Españoles se conciertan\nCon ellos á segar nuestras gargantas.\nTan gran maldad los cielos no consientan;\nCon rayos hieran las ligeras plantas\nQue se mueven en daño del amigo,\nFavoreciendo al perfido enemigo.\nMirad si imaginais algún remedio\nPara salir de tanta desventura,\nPorque este largo y trabajoso asedio\nSolo promete presta sepultura.\nEl ancho foso nos estorva el medio\nDe probar con las armas la ventura,\nAunque á veces valientes, fuertes brazos,\nRompen mil contrapuestos embarazos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y con vosotros toda la grey hija del día,\nA quien habla el amante corazón de la rosa,\nAbejas que fabrican sobre la humana prosa\nEn sus Himetos mágicos mieles de poesía:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

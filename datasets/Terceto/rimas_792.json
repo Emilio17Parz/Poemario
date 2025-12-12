@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Marta tenía los ojos más negros que la noche, y de entre sus oscuras\npestañas diríase que á intervalos saltaban chispas de fuego como de\nun carbón ardiente.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

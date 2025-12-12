@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "The contiguous vowels may belong to a single word (see A); or they may\nbe the final vowel or vowels of one word and the initial vowel or\nvowels of a following word or words (see B).",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

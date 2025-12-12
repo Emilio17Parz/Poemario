@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando toquéis la playa,\nel beso que os imprimo\ndepositadlo en alas de la brisa,\nporque con ella vaya,\ny bese cuando adoro, amo y estimo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

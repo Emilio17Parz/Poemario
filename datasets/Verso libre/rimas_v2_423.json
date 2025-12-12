@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "De América las vírgenes\nCon mano temblorosa,\nLa cabellera frígida,\nSangrienta y polvorosa\nDe las heróicas víctimas,\nCon flores ceñirán.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

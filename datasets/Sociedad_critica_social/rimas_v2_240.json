@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Tuvo ejércitos, grandes generales,\nQue pasearon gloriosas y triunfales\nSus banderas, del pueblo paladion;\nY de los Andes en la blanca cima,\nEn Chile hermoso y opulenta Lima\nPostraron al ibérico leon.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

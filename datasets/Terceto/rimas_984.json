@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Silbó el aire que había permanecido un momento callado, y las hojas\nse levantaron en confuso remolino, perdiéndose á lo lejos entre las\ntinieblas de la noche.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

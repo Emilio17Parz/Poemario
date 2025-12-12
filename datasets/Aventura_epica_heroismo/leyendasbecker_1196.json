@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "--Ya véis, le dijo este último cuando le trajeron á su presencia;\nvengo desde mi palacio aquí sólo por escucharos. ¿Seréis tan cruel\ncomo maese Pérez, que nunca quiso excusarme el viaje, tocando la\nNoche-Buena en la Misa de la catedral?",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

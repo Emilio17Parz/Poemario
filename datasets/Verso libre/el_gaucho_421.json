@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "386\nEl que maneja las bolas,\nel que sabe echar un pial\ny sentársele a un bagual\nsin miedo de que lo baje,\nentre los mesmos salvajes\nno puede pasarlo mal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

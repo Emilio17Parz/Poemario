@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Suspiros del viento, yo os conozco: vosotros me acariciabais dormida\ncuando, fatigada por el llanto, me rendía al sueño en mi niñez, y\nvuestro rumor se me figuraban las palabras de una madre que arrulla á\nsu hija.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

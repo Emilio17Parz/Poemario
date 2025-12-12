@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sacerdotes del Dios crucificado,\nQuemad sobre el altar inmaculado\nInciensos al Señor,\nY suba entre la nube de humo denso\nLa sublime oracion de un pueblo inmenso\nQue ensalza de la patria al Redentor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El ejército de Don Fernando, después de salir de Córdoba, había\nvenido por sus jornadas hasta Sevilla, no sin haber luchado antes en\nÉcija, Carmona y Alcalá del Río de Guadaíra, donde una vez expugnado\nel famoso castillo, puso los reales á la vista de la ciudad de los\ninfieles.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

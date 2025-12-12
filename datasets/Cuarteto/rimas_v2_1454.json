@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si te dijese:--«En tí tan solo pienso,\n«Ángel hermoso de cabellos de oro!»--\nAl ver brotar de la pasion el lloro\n¿Rechazarías mi amoroso incienso?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

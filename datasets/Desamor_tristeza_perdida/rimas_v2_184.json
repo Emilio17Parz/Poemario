@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pasaron ¡ay! pasaron las puras alegrias,\nY errante y solitario por playas estrangeras\nPoeta peregrino, con quejas lastimeras,\nAl pais de mis recuerdos dirijo esta cancion.\nEn vez de ornar con flores las cuerdas de mi lira,\nPensando en Buenos Aires las riego con mi llanto,\nY encuentro entre esas gotas amargas de quebranto\nEn los recuerdos nobles viril consolacion.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

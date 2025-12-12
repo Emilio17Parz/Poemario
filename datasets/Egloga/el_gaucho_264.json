@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "233\nY se cría viviendo al viento\ncomo oveja sin trasquila;\nmientras su padre en las filas\nanda sirviendo al gobierno,\naunque tirite en invierno,\nnaides lo ampara ni asila.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "oveja"
+  }
+}

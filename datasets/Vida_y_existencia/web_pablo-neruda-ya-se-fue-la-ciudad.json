@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cómo marcha el reloj sin darse prisa\ncon tal seguridad que se come los años:\nlos días son pequeñas y pasajeras uvas,\nlos meses se destiñen descolgados del tiempo.\nSe va, se va el minuto hacia atrás, disparado\npor la más inmutable artillería\ny de pronto nos queda sólo un año para irnos,\nun mes, un día, y llega la muerte al calendario.\nNadie pudo parar el agua que huye,\nno se detuvo con amor ni pensamiento,\nsiguió, siguió corriendo entre el sol y los sseres,\ny nos mató su estrofa pasajera.\nHasta que al fin caemos en el tiempo, tendidos,\ny nos lleva, y ya nos fuimos, muertos,\narrastrados sin ser, hasta no ser ni sombra,\nni polvo, ni palabra, y allí se queda todo\ny en la ciudad en donde no viviremos más\nse quedaron vacíos los trajes y el orgullo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Te he visto una noche aparecer en el horizonte sobre el mar, y el\ngigantesco viejo, ebrio de sal, te saludó con las salvas de sus olas\nsonantes y roncas. Tú caminabas con un manto tenue y dorado; tus\nreflejos alegraban las vastas aguas palpitantes.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

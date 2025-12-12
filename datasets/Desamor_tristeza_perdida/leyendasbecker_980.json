@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "--Ha habido de todo, contestó el interpelado; pues si bien es verdad\nque no he dormido gran cosa, el origen de mi vigilia merece la pena de\nla velada. El insomnio junto á una mujer bonita no es seguramente el\npeor de los males.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

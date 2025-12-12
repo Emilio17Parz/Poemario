@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Oyese entonces en el vecino bosque\nEl fuego de las armas estridente,\nY apretando la espada fuertemente\nCon ademan resuelto se erguió;\nY vió venir á él, husmeando sangre,\nLos feroces lebreles del tirano,\nComo á la hambrienta jauría que en el llano\nA su víctima acosa con furor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

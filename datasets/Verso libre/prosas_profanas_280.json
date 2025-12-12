@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ojos de evocadora, gesto de profetisa,\nEn ella hay la sagrada frecuencia del altar;\nSu risa es la sonrisa suave de Monna Lisa.\nSus labios son los únicos labios para besar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

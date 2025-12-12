@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sobre los rosales, aún con flor, cae la tarde, lentamente. Las lumbres\ndel ocaso prenden las últimas rosas, y el jardín, alzando como una llama\nde fragancia hacia el incendio del Poniente, huele todo á rosas\nquemadas. Silencio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quiero bajar al pozo\nquiero subir los muros de Granada\npara mirar el corazón pasado\npor el punzón oscuro de las aguas.\nEl niño herido gemía\ncon una corona de escarcha.\nEstanques, aljibes y fuentes\nlevantaban al aire sus espadas.\n¡Ay qué furia de amor! ¡qué hiriente filo!\n¡qué nocturno rumor! ¡qué muerte blanca!,\n¡qué desiertos de luz iban hundiendo\nlos arenales de la madrugada!\nEl niño estaba solo\ncon la ciudad dormida en la garganta.\nUn surtidor que viene de los sueños\nlo defiende del hambre de las algas.\nEl niño y su agonía, frente a frente\neran dos verdes lluvias enlazadas.\nEl niño se tendía por la tierra\ny su agonía se curvaba.\nQuiero bajar al pozo\nquiero morir mi muerte a bocanadas\nquiero llenar mi corazón de musgo\npara ver al herido por el agua.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

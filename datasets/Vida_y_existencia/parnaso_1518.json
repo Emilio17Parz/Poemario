@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En vano trabajas, Lira,\nDe impidirme este camino,\nDo mi voluntad y signo\nAllá me convida y tira.\nTu rogarás entretanto\nA los Dioses, que me vuelvan\nCon despojos que resuelvan\nTu miseria y mi quebranto.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Al celaje caprichoso\nque de mil raras visiones\nformas toma;\ny al arrullo cariñoso\ncon que alegra a sus pichones\nla paloma.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Oh ciego sin guitarra\ny con envidia,\ncocido\nen\ntu\nveneno,\ndesdeñado\ncomo\nesos\nzapatos\nentreabiertos y raídos\nque a veces\nabren la boca como si quisieran\nladrar, ladrar desde la acequia sucia.\nOh atado\nde lo que nunca fue, no pudo serlo,\nde lo que no será, no tendrá boca,\nni voz, ni voto,\nni recuerdo,\nporque así suma y resta\nla vida en su pizarra:\nal inocente el don,\nal nudo ciego\nsu cuerda y su castigo.\nYo pasé y no sabía\nque allí estaba esperando\ncon su brasa,\ny como no podía\nquemarme\ny me buscaba\nadentro de su sombra,\nme fui\ncon mis canciones\na la luz\nde la vida.\nPobre!\nAllí transcurre,\nallí estaba transcurrido,\npreparando\nsu sopa de vinagre,\nsu queso de escorbuto,\ncociéndose\nen su nata corrosiva,\nen esa oscura olla\nen que cayó\ny fue condenado\na consumir su propio\nvitalicio brebaje.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

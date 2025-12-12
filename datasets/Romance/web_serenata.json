@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Por las orillas del río\nse está la noche mojando\ny en los pechos de Lolita\nse mueren de amor los ramos.\nSe mueren de amor los ramos.\nLa noche canta desnuda\nsobre los puentes de marzo.\nLolita lava su cuerpo\ncon agua salobre y nardos.\nSe mueren de amor los ramos.\nLa noche de anís y plata\nrelumbra por los tejados.\nPlata de arroyos y espejos.\nAnís de tus muslos blancos.\nSe mueren de amor los ramos.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Este es el ruego digno de un pueblo generoso,\nEl único que al sólio del Todo-Poderoso\nEn alas de los ángeles la brisa llevará;\nRoguemos, que templados por el sublime ruego,\nEl alma encandecida del entusiasmo al fuego\nA otras generaciones su ardor trasmitirán.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

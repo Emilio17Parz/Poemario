@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "«El cuello atado á la servil cadena\n«Del tirano postrándose á los piés,\n«Buenos Aires esclava y miserable\n«Ya no es el pueblo de ochocientos diez.»",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

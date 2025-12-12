@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tú traes, sacerdote ungido por la Fama,\nel copón milagroso que guarda sacra llama\na este florón de Iberia del oriental vergel.\nComulgue nuestra alma, hincada la rodilla,\nante el altar del Arte, la hostia de Castilla,\njurando amor a España, ser a ella siempre fiel.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

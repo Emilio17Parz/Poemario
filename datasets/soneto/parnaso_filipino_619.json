@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Yo, mientras tanto, buscaré en las cosas\nuna lágrima oculta, una tristeza.\nEs justo. En mis jardines ya no hay rosas\nsino espinas: ¡las lleva mi cabeza!\nHe cambiado las llaves del cariño\npor las llaves del cofre del dolor,\ny voy, o como un viejo o como un niño,\nmuerto para las glorias del amor.\nQuede en tus manos, pues, la mariposa,\nquede en tus manos la divina rosa,\nel agua mansa y la celeste luz,\ny déjame en limosna la tristeza,\nlas espinas que ciñen mi cabeza,\ny, más que todo, mi sangrienta cruz.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

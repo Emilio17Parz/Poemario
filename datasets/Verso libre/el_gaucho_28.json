@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "4\nYo he visto muchos cantores,\nCon famas bien obtenidas,\nY que después de adquiridas\nNo las quieren sustentar\nParece que sin largar\nse cansaron en partidas",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

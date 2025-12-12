@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Que tu sepulcro cubra de flores Primavera,\nQue se humedezca el áspero hocico de la fiera,\nDe amor si pasa por allí;\nQue el fúnebre recinto visite Pan bicorne;\nQue de sangrientas rosas el fresco Abril te adorne\nY de claveles de rubí.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

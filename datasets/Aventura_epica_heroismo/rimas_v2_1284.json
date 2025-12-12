@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Todos dicen, Señora:--«Álbum sin versos\nEs arpa no encordada todavía,\nDonde duerme tranquila la armonía\nEsperando la suave vibracion;\nY que si el vate arroja una palabra\nEn el mar de sus hojas incoloras,\nSe estremecen sus páginas sonoras\nCual árbol que sacude el aquilon.»",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

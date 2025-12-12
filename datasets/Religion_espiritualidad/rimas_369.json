@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El día estaba triste, con esa tristeza que alcanza á todo lo que\nse oye, se ve y se siente. El cielo era de color de plomo, y á su\nreflejo melancólico los edificios parecían más antiguos, más extraños\ny más oscuros. El aire gemía á lo largo de las revueltas y angostas\ncalles, trayendo en sus ráfagas, como notas perdidas de una sinfonía\nmisteriosa, ya palabras ininteligibles, clamor de campanas ó ecos de\ngolpes profundos y lejanos. La atmósfera húmeda y fría helaba el alma\ncon su soplo glacial.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

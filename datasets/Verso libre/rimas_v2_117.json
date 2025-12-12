@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El roman-wallon, que tambien fué en su orígen un dialecto poético,\naunque mas áspero y seco que el provenzal, produjo los _troveros_ ó\n_trouveres_, que no deben de confundirse con los _trovadores_ ó\n_trouvadours_, que son provenzales. Son los troveros los que primero\ncompusieron los _fabliaux_, y los _lais_ de amor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

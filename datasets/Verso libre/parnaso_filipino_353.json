@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un requiescat a todos los temblores,\ny a todos los dolores,\nde los niños, ancianos y mujeres,\nque mató ese maldito, ese loco criminal\nque en el mapa se llama el volcán de Taal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

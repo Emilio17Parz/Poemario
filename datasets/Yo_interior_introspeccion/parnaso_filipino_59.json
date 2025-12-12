@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Héroe inmortal, coloso legendario,\nemerge del abismo del osario\nen que duermes el sueño de la gloria!\nVen. Nuestro amor, que tu recuerdo inflama,\nde la sombrosa eternidad te llama\npara ceñir de flores tu memoria.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

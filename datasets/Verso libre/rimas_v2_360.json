@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Asi velaba en medio de dos mundos\nLos vivos y los muertos custodiando,\nCuando un rumor los ámbitos llenando\nLa montaña en su base conmovió.\n_¿Quién vive?_ preguntó, y tristes voces\n«_Quien murió por la Patria_,» contestaron,\nY cuarenta adalides avanzaron\nAlzando un desgarrado pabellon.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

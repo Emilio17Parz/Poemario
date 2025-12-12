@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Por eso, aunque designios fatales del destino\nrompieron la cadena de amor que nos unía.\ncaballeros andantes por el mismo camino\nmarcharán juntas siempre vuestra patria y la mía.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

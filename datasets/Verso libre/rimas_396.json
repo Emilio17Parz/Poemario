@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_¡Dies iræ, dies illa!_ le contestaban los sacerdotes con eco\natronador y profundo, y en tanto las campanas tañían lentamente\ntocando á muerto, y de campanada á campanada se oía vibrar el bronce\ncon un zumbido extraño y lúgubre.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

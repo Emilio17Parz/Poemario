@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La pálida claridad celeste nos iluminaba. El ambiente nos llevaba\nperfumes tibios que a mí se me imaginaban propicios para los fogosos\namores. ¡Cabellos aúreos, ojos paradisíacos, labios encendidos y\nentreabiertos!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Que no hay alma? ¡Insensatos!\nYo la he visto: es de luz...\n(Se asoma a tus pupilas\ncuando me miras tú.)\n¿Que no hay cielo? ¡Mentira!\n¿Queréis verle? Aquí está.\n(Muestra, niña gentil,\nese rostro sin par,\ny que de oro lo bañe\nel sol primaveral.)\n¿Que no hay Dios? ¡Qué blasfemia!\nYo he contemplado a Dios...\n(En aquel casto y puro\nprimer beso de amor,\ncuando de nuestras almas\nlas nupcias consagró.)\n¿Que no hay infierno? Sí, hay...\n(Cállate, corazón,\nque esto bien por desgracia,\nlo sabemos tú y yo.)",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

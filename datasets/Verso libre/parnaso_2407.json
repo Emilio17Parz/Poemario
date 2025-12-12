@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Dicha llamas renegar?\nSi él lo viene á efectuar,\nEllo será por desdicha.\nHa dado ya la palabra,\nQue esto, hermano, es lo que siento,\nDe ser turco, y este intento\nCon regalos siempre labra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

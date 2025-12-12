@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si nos das, buen señor, grata licencia\nDe decir la embaxada que traemos,\nDo estamos, ó ante sola tu presencia,\nTodo á lo que venimos te diremos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

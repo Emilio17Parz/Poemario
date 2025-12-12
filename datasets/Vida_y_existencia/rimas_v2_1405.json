@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hay dos puros corazones\nTan estrechamente unidos,\nQue de los dos los latidos\nSe responden á la par:\nUnos mismos sentimientos\nÁ los dos á un tiempo agitan,\nY si á un tiempo no palpitan\nCesarán de palpitar.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

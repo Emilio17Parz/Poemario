@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Su luna de pergamino\nPreciosa tocando viene\npor un anfibio sendero\nde cristales y laureles.\nEl silencio sin estrellas,\nhuyendo del sonsonete,\ncae donde el mar bate y canta\nsu noche llena de peces.\nEn los picos de la sierra\nlos carabineros duermen\nguardando las blancas torres\ndonde viven los ingleses.\nY los gitanos del agua\nlevantan por distraerse,\nglorietas de caracolas\ny ramas de pino verde.\n*\nSu luna de pergamino\nPreciosa tocando viene.\nAl verla se ha levantado\nel viento que nunca duerme.\nSan Cristobalón desnudo,\nlleno de lenguas celestes,\nmira la niña tocando\nuna dulce gaita ausente.\nNiña, deja que levante\ntu vestido para verte.\nAbre en mis dedos antiguos\nla rosa azul de tu vientre.\n*\nPreciosa tira el pandero\ny corre sin detenerse.\nEl viento-hombrón la persigue\ncon una espada caliente.\nFrunce su rumor el mar.\nLos olivos palidecen.\nCantan las flautas de umbría\ny el liso gong de la nieve.\n¡Preciosa, corre, Preciosa,\nque te coge el viento verde!\n¡Preciosa, corre, Preciosa!\n¡Míralo por dónde viene!\nSátiro de estrellas bajas\ncon sus lenguas relucientes.\n*\nPreciosa, llena de miedo,\nentra en la casa que tiene,\nmás arriba de los pinos,\nel cónsul de los ingleses.\nAsustados por los gritos\ntres carabineros vienen,\nsus negras capas ceñidas\ny los gorros en las sienes.\nEl inglés da a la gitana\nun vaso de tibia leche,\ny una copa de ginebra\nque Preciosa no se bebe.\nY mientras cuenta, llorando,\nsu aventura a aquella gente,\nen las tejas de pizarra\nel viento, furioso, muerde.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

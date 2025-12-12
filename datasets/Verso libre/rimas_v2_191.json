@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡El valz! silfos alados sin duda lo inventaron\nAl ver entretegida la madreselva airosa\nEn torno de la encina que altiva y vigorosa\nSe viste con sus galas cuando sus brazos dá!\nAsí te me presentas ciudad fuerte y hermosa\nPendientes de tus brazos tus hijas hechiceras,\nComo guirnaldas ténues que adornan las palmeras,\nY al recibir su apoyo le dan su emanacion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

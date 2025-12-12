@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "The thought in the poem recalls that of Heine's _Ich hab' im Traum\ngeweinet_. Becquer's verses are less musical, but the sentiment\nexpressed by them is less artificial, and gives evidence of more\nreal bitterness of heart.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

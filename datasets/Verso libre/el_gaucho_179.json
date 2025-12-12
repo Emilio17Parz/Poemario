@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "151\nY lo pasan sus mercedes\nlengüetiando pico a pico\nhasta que viene un milico\na servirles al asao-\ny eso sí, en lo delicaos,\nparecen hijos de rico.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

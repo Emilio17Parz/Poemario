@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Rompieron la marcha los farautes, que deteniéndose de trecho en\ntrecho, pregonaban en alta voz y á son de caja las cédulas del rey\nllamando á sus feudatarios á la guerra de moros, y requiriendo á las\nvillas y lugares libres para que diesen paso y ayuda á sus huestes.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hijos destas tristes madres,\nQué es esto? cómo no hablais?\nY con lagrimas rogais\nQue no os dexen vuestros padres?\nBasta que la hambre insana\nOs acabe con dolor,\nSin esperar el rigor\nDe la aspereza Romana.\nDecildes que os engendraron\nLibres, y libres nacistes,\nY que vuestras madres tristes\nTambien libres os criaron.\nDecildes que pues la suerte\nNuestra va tan de caida,\nQue como os dieron la vida,\nAnsi mismo os den la muerte.\nO muros desta ciudad,\nSi podeis hablad, decid,\nY mil veces repetid:\nNumantinos, libertad.\nLos templos, las casas nuestras\nLevantadas en concordia\nOs piden misericordia,\nHijos y mugeres vuestras.\nAblandad, claros varones,\nEsos pechos diamantinos,\nY mostrad qual Numantinos\nAmorosos corazones:\nQue no por romper el muro\nRemediais un mal tamaño,\nAntes en ello está el daño\nMas propincuo y mas seguro.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

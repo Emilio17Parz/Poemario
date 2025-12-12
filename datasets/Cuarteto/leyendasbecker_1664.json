@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Je suis dans un salon comme une mandoline\nOubliée en passant sur le bord d'un coussin.\nElle renferme en elle une langue divine,\nMais si son mattre dort, tout reste dans son sein.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

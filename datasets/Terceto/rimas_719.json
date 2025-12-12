@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Lo sé, prima; pero hoy se celebran Todos los Santos, y el tuyo\nentre todos; hoy es día de ceremonias y presentes. ¿Quieres aceptar\nel mío?",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

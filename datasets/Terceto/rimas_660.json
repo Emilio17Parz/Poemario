@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Venid... salgamos un momento de la tienda; acaso la brisa de la\ntarde refrescará vuestras sienes, calmando ese incomprensible dolor,\npara el que yo no hallo palabras de consuelo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

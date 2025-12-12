@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y del divino Enrique Heine un canto,\nA la orilla del Rhin; y del divino\nWolfgang la larga cabellera, el manto;\nY de la uva teutona el blanco vino.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

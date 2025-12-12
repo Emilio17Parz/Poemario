@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Solo una vez brillaron sus espadas:\nPara romper cadenas execradas,\nY sostener las tablas de la Ley;\nPara postrar esclavos y tiranos,\nPara afirmar los vínculos de hermanos,\nY atarlos con cadenas de laurel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

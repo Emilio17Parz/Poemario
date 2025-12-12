@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Te lo dice esta fiesta de la Raza,\nRosal de luz que en rosas se te enlaza;\nY de onda a onda, en rebrincar mirífico\nTe lo clama vibrando en aureo cántico,\nCristóforo Colombo en el Atlántico,\nY Hernán de Magalhaes en el Pacífico.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

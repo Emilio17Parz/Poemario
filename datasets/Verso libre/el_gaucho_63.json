@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "38\nAquello no era trabajo,\nmas bien era una junción,\ny después de un güen tirón\nen que uno se daba mana,\npa darle un trago de cana\nsolía llamarlo el patrón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

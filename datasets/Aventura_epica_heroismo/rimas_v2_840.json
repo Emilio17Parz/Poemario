@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuando en los campos del Sud\nClave su pendon la gloria,\nY el arcángel de victoria\nBata su palma inmortal,\nCon potente lozanía\nBrotarán esos raigones,\nY gigantes dimensiones\nEl árbol adquirirá.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

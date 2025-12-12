@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Oh tú, que con profética mirada\nTrajiste á esta comarca desolada,\nEl hermoso rebaño, cuyo seno\nDe noble sangre y de riquezas lleno,\nVertió á raudales la simiente rica\nQue nuestra innoble raza purifica!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

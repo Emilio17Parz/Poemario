@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Al oir las quejas de sus caballeros\nRíe, ríe, ríe, la divina Eulalia,\nPues son su tesoro las flechas de Eros,\nEl cinto de Cipria, la rueca de Onfalia.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

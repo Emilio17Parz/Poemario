@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Item, se advierte que todo poeta no se desprecie de decir que lo es,\nque si fuere bueno, será digno de alabanza, y si malo, no faltará\nquien lo alabe, que quando nace la escoba &c.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

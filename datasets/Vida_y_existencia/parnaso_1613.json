@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Puesto que es el decreto del Senado\nQue ninguna muger quede con vida,\nQuál será el bravo pecho acelerado\nQue en ese hermoso vuestro dé herida?\nYo, señora, no soy tan mal mirado\nQue me precie de ser vuestro homicida:\nOtra mano, otro hierro ha de acabaros,\nQue yo solo naci para adoraros.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

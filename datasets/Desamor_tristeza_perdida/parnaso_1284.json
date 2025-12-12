@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "O sea por el foso ó por la muerte\nDe abrir tenemos paso á nuestra vida;\nQue es dolor insufrible el de la muerte,\nSi llega quando mas vive la vida;\nRemedio á las miserias es la muerte,\nSi se acrecientan ellas con la vida,\nY suele tanto mas ser excelente,\nQuanto se muere mas honradamente.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

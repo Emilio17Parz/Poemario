@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Vuela y vuelve á dormir tranquilamente\nDe la esperanza en la divina almohada,\nPor el amor materno perfumada,\nVuela y vuelve paloma á reposar;\nY ojalá que al abrir tus ojos bellos,\nPor la razon fulgente iluminados,\nDe lágrimas no se hallen empañados,\nNi puedan estas páginas borrar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

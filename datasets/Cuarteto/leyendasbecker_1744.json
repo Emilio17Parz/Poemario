@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Pero fué lo peor de aquella historia\nQue al fin de la jornada,\nÁ ella tocaron lágrimas y risas,\nY á mí sólo las lágrimas!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

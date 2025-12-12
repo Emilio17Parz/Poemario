@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El verso de fuego de D'Anunzio era\nComo un son divino que en las saturnales\nGuiara las manchadas pieles de pantera.\nA fiestas soberbias y amores triunfales.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

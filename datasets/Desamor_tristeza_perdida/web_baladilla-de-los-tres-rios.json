@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El río Guadalquivir\nva entre naranjos y olivos.\nLos dos ríos de Granada\nbajan de la nieve al trigo.\n¡Ay, amor\nque se fue y no vino!\nEl río Guadalquivir\ntiene las barbas granates.\nLos dos ríos de Granada\nuno llanto y otro sangre.\n¡Ay, amor\nque se fue por el aire!\nPara los barcos de vela,\nSevilla tiene un camino;\npor el agua de Granada\nsólo reman los suspiros.\n¡Ay, amor\nque se fue y no vino!\nGuadalquivir, alta torre\ny viento en los naranjales.\nDauro y Genil, torrecillas\nmuertas sobre los estanques,\n¡Ay, amor\nque se fue por el aire!\n¡Quién dirá que el agua lleva\nun fuego fatuo de gritos!\n¡Ay, amor\nque se fue y no vino!\nLleva azahar, lleva olivas,\nAndalucía, a tus mares.\n¡Ay, amor\nque se fue por el aire!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

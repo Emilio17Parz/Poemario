@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "5 (después)\nEl futuro no es\nuna página en blanco\nes una fé\nde erratas.\n8 (previsión)\nDe vez en cuando es bueno\nser consciente\nde que hoy\nde que ahora\nestamos fabricando\nlas nostalgias\nque descongelarán\nalgún futuro.\n9 (plurales)\nHay\nayeres\ny mañanas\npero no hay\nhoyes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La inspiracion del alta inteligencia,\nEl calor de la intrépida elocuencia\nEn el astro de Mayo concentró;\nY del ardiente labio de Moreno\nSe desprendió de su palabra el trueno\nY el programa de Mayo formuló.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

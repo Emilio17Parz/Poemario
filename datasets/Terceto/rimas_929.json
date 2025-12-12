@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Estas eran las palabras de la página que tenía ante mi vista, y que\nparecía mofarse de mí con sus notas, sus llaves y sus garabatos\nininteligibles para los legos en la música.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Una tutela que no demandamos\npone a las ansias el freno del hecho.\nY tras dos guerras por no tener amos,\n¡somos mendigos del propio derecho!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

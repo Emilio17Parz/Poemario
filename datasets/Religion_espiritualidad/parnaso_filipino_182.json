@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ignoro este misterio tan triste de mi vida\nQue a veces con mis lloros, yo quisiera morir...\nIgnoro si hay otra alma sensible y dolorida\nQue en esta vida quiera mis penas compartir.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

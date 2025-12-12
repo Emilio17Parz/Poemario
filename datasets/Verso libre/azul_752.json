@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sobre la cima\nde un monte, a media noche,\nme mostró las estrellas encendidas.\nEra un jardín de oro\ncon pétalos de llamas que titilan.\nExclamé:--Más...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

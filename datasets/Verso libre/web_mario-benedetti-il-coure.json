@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya nadie graba\nen las paredes\nen los troncos\nLuis y María\nRaquel y Carlos\nMarta y Alfonso\njunto a dos corazones\nenlazados\nhora las parejas\nleen esas vetustas\nincomodas ternuras\nen las paredes\nen los troncos\ny comentan\nque años\nantes de separarse\npara siempre.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "5\nEx. _Y^entre^aquella sombra\n2         5\nVeíase^á^intérvalos\n3     5\nDibujarse rígida\n2          5\nLa forma del cuerpo_, p. 188, LXXIII, ll. 13-16.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

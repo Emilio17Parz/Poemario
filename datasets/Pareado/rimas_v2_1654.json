@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "La isla de Santa Elena. Estos versos fueron escritos en 1837, cuando aun\nno se habian trasladado á Francia las cenizas de Napoleon.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

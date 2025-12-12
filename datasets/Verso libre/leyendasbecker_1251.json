@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Era uno de nuestros guías, natural del país, el cual, con una\nindescriptible expresión de terror pintada en el rostro, pugnaba por\narrastrarme consigo y cubrir mi cabeza con el fieltro que aún tenía en\nmis manos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

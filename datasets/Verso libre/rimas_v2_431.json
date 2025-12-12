@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cantemos á los muertos\nEn la feral pelea,\nQue sus despojos yertos\nDe América presea,\nValen mas que la pompa\nQue celebra la trompa\nDel poeta servil.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "273\nUno que en una tacuara\nhabía atao una tijera,\nse vino como si juera\npalenque de atar terneros,\npero en dos tiros certeros\nsalió aullando campo ajuera.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

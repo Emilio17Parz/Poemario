@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "--No sabemos--respondían sus servidores:--acaso estará en el claustro\ndel monasterio de la Peña, sentado al borde de una tumba, prestando\noído á ver si sorprende alguna palabra de la conversación de los\nmuertos; ó en el puente, mirando correr unas tras otras las olas del\nrío por debajo de sus arcos; ó acurrucado en la quiebra de una roca y\nentretenido en contar las estrellas del cielo, en seguir una nube con\nla vista, ó contemplar los fuegos fatuos que cruzan como exhalaciones\nsobre el haz de las lagunas. En cualquiera parte estará menos en\ndonde esté todo el mundo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

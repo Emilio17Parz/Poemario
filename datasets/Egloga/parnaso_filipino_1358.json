@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Padre de la Armonía, fuente de gracias líricas,\nque en piafantes corceles exploras el azur:\ndetén el nervioso ímpetu de tus fuertes bridones\nante el himno que reza por tí la Juventud.\nTe amamos, padre Apolo, por tu tirso de rosas,\npor tus bellos pegasos, por tu carro de luz,\nporque tienes la lira, y la flauta y el pífano,\nla siringa, el salterio, el sistro y el laud.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "flauta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Oh, la mision de la mujer es santa!\nElla la flor de las virtudes planta\nDel niño en el fecundo corazon,\nY cuando vé á la patria que agoniza\nDesprende de su seno á el ancha liza\nDe patriotas audaz generacion.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

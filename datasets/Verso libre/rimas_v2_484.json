@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y por eso los nombres\nDe redentores fuertes\nAlientan á los hombres,\nY cuando caen inertes\nLas almas se electrizan,\nY gratas divinizan\nSu nombre y su laurel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

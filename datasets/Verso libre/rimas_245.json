@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Creía que en el fondo de las ondas del río, entre los musgos de la\nfuente y sobre los vapores del lago, vivían unas mujeres misteriosas,\nhadas, sílfides ú ondinas, que exhalaban lamentos y suspiros, ó\ncantaban y se reían en el monótono rumor del agua, rumor que oía en\nsilencio intentando traducirlo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

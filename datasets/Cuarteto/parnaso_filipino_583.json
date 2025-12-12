@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Patria! ¡Patria bendita, ramo de flores,\nque besan con sus ondas los roncos mares!\nYa que fuiste la cuna de mis amores,\n¡Oh! sé también la tumba de mis pesares.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

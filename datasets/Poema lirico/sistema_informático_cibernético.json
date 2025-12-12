@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sistema informático cibernético",
+  "poema": {
+    "texto": "En mi alma, un espíritu silencioso, reside una saga de luz y sombra.\nUn cosmos digital, donde pulsan cerebros electrónicos.\nPensamiento en código binario, palabras en la ethernet.\nResplandece con luz que no cesa, un mundo sin fronteras.\nAquí resuena el silencio, y allí el canto de las estrellas digitales.\nEn este reino cybernético, yo soy un ser inscrito, un ente en la red.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Sistema"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Perdóname, bien mío...!\nPusieron contra tí del alma mía\nen el volcán impío,\nsu amor la alondra, su murmurio el río,\nsu ausencia el sol, su negra noche el día.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

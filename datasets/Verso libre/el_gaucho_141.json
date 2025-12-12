@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "114\nY cáibamos al cantón\ncon los fletes aplastaos,\npero a veces medio aviaos\ncon plumas y algunos cueros,\nque pronto con el pulpero\nlos teníamos negociaos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

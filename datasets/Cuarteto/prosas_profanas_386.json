@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Busca del pueblo las penas, la flores,\nMantos bordados de alhajas de seda,\nY la guitarra que sabe de amores,\nCálida y triste querida de Rueda;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

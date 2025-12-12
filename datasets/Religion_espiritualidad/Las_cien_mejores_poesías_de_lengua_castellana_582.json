@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Pero hoy ¿dónde mirar? Un golpe mismo\nhiere al César y a Dios. Sorda carcoma\nprepara el misterioso cataclismo,\ny como en tiempo de la antigua Roma,\ntodo cruje, vacila y se desploma\nen el cielo, en la tierra, en el abismo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

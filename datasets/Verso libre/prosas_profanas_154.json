@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Rigiendo su cuadriga de mágicas libélulas,\nDe sueños millonarios, pasa el travieso Puck;\nY, espléndida sportwoman, en su celeste carro,\nLa emperatriz Titania seguida de Oberón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

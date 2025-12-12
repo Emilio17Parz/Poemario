@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Reclínate en el ala misteriosa\nDel imantado sueño, niña hermosa,\nPara soñar de amor;\nQue la mujer que sueña es como el ave,\nQue oculta su cabeza en ala suave\nBlanca como los velos del pudor.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

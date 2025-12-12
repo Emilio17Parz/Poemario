@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "CUENTA Barbey, en versos que valen bien su prosa\nUna hazaña del Cid, fresca como una rosa,\nPura como una perla. No se oyen en la hazaña\nResonar en el viento las trompetas de España,\nNi el azorado moro las tiendas abandona\nAl ver al sol el alma de acero de Tizona.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "Amigo, bien puedes irte,\nQue yo estoy tan flaco y laso\nDe hambre, que un solo paso\nNo puedo dar ni seguirte.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

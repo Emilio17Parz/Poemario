@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Yo vi del rojo sol la luz serena\nTurbarse, y que en un punto desparece\nSu alegre faz, y en torno se oscurece\nEl cielo con tiniebla de horror llena.\nEl austro proceloso airado suena,\nCrece su furia, y la tormenta crece,\nY en los hombros de Atlante se estremece\nEl alto olimpo y con espanto truena;\nMas luego vi romperse el negro velo\nDeshecho en agua, y a su luz primera\nRestituirse alegre el claro día,\nY de nuevo esplendor ornado el cielo\nMiré, y dije: ¿Quién sabe si le espera\nIgual mudanza a la fortuna mía?",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

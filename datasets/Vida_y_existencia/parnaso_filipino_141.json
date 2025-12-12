@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Bendito será el día en que a la vida brote\ndel suelo de Pelayo un nuevo y fuerte imperio\nque pase de Galicia, que pase del islote\nde Gibraltar, el día en que medio hemisferio\nraye con larga sombra la lanza de Quijote.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

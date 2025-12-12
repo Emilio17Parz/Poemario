@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Después de puesta la vida\nTantas veces por su ley\nAl tablero;\nDespués de tan bien servida\nLa corona de su Rey\nVerdadero;\nDespués de tanta hazaña\nA que no puede bastar\nCuenta cierta,\nEn la su villa de Ocaña\nVino la muerte a llamar\nA su puerta.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Guíete el misterioso eco de su murmullo,\nAsciende por los riscos ásperos del orgullo,\nBaja por la constancia y desciende al abismo",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

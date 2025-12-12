@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En la huella lunar de sus encajes\npuso, al pasar su sombra bizantina,\nun perfume de rosa alejandrina\nel extasis azul de los celajes.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

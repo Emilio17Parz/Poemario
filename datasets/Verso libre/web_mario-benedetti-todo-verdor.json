@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todo verdor perecerá\ndijo la voz de la escritura\ncomo siempre\nimplacable\npero también es cierto\nque cualquier verdor nuevo\nno podría existir\nsi no hubiera cumplido su ciclo\nel verdor perecido\nde ahí que nuestro verdor\nesa conjunción un poco extraña\nde tu primavera\ny de mi otoño\nseguramente repercute en otros\nenseña a otros\nayuda a que otros\nrescaten su verdor\npor eso\naunque las escrituras\nno lo digan\ntodo verdor\nrenacerá.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

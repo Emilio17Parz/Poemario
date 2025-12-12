@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las muchachas se miraron entre sí con una imperceptible sonrisa\nde burla, no faltando algunas de las que estaban colocadas á sus\nespaldas que se tocasen la frente con el dedo, acompañando su acción\ncon un gesto significativo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

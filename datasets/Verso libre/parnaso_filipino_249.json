@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh, señor, ve que es cosa de gran desesperanza\nsalir por esos campos empuñando la lanza,\nA desfacer entuertos en sin igual empresa!\n¡Luchar con la quimera hasta rendir los brazos,\nY azotarse las carnes hasta hacerlas pedazos,\nPor romper el encanto que aduerme a una princesa!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

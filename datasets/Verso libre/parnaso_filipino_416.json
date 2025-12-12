@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "España, la invencible soñadora,\nque monta rocinantes a deshora,\nlos toros lidia, viste la mantilla,\nama la jota y al _danzón_ se entrega,\nmas cuyo acero no es una hoz que siega,\nsino arado que pone la semilla;",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

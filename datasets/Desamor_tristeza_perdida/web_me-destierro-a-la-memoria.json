@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me destierro a la memoria,\nvoy a vivir del recuerdo.\nBuscadme, si me os pierdo,\nen el yermo de la historia,\nque es enfermedad la vida\ny muero viviendo enfermo.\nMe voy, pues, me voy al yermo\ndonde la muerte me olvida.\nY os llevo conmigo, hermanos,\npara poblar mi desierto.\nCuando me creáis más muerto\nretemblaré en vuestras manos.\nAquí os dejo mi alma-libro,\nhombre-mundo verdadero.\nCuando vibres todo entero,\nsoy yo, lector, que en ti vibro.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

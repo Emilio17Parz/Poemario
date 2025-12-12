@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Río que murmura\nPeces saltan en el río\nFluir sin cesar",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Río"
+  }
+}

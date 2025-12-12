@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Item, se advierte que no ha de ser tenido por ladron el poeta que\nhurtare algun verso ageno, y le encajare entre los suyos, como no sea\ntodo el concepto y toda la copla entera, que en tal caso tan ladron es\ncomo Caco.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

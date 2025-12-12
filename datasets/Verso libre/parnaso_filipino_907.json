@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿De qué sirve que, perla de virginal pureza,\nluzcas en tu blancura la riqueza oriental,\nsi toda tu hermosura, si toda tu belleza,\nen mortíferos hierros de sin igual dureza\nengastan los tiranos, gozándose en tu mal?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Y mientras el gaucho errante\nAl cruzar por la pradera,\nSe detenga en su carrera\nY baje del alazan;\nY ponga el poncho en el suelo\nA guisa de pobre alfombra,\nY rece bajo esa sombra,\n¡Santos Vega, duerme en paz!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

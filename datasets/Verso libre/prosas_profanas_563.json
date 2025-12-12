@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la fruta misteriosa,\námbar, rosa,\nsu deseo sacia el labio,\ny en viva rosa se posa,\nmariposa,\nbeso ardiente o beso sabio.\n¡Bien haya el sátiro griego\nque me enseñó el dulce juego!\nEn el reino de mi aurora\nno hay ayer, hoy ni mañana;\ndanzo las danzas de ahora\ncon la música pagana.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

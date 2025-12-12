@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Fíate en Dios cuando los mares sondas,\nQue si no existen mundos ignorados,\nHan de surgir del seno de las ondas:\nNaturaleza y genio son aliados,\nY todo cuanto el genio ha prometido\nNaturaleza siempre lo ha cumplido.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

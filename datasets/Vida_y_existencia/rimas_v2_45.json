@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La diatriva es un poco fuerte, y aunque algo merecida, hace tiempo que\nle guardo rencor por la parte que me toca como soldado raso en la\nfalange de poetas del Rio de la Plata, que ha divinizado hasta la\ndesesperacion y el desencanto. Monólogo estéril, mentes decaidas,\nhombres incapaces para la accion, inhábiles para el trabajo,\nderrochadores de la inteligencia, tales son los calificativos que\nprodiga á la poesía y á los poetas, deplorando que la fuerza creadora\naplicada á ensanchar los límites del mundo inmaterial no se hubiese\naplicado esclusivamente á hacer alguna nueva conquista sobre el mundo\nmaterial. Para confusion de sus detractores y para honor de la poesía,\nha tenido que valerse de su propio lenguaje al atacarla, como esos\ncaudillos de la montonera, que al mismo tiempo que procuraban\ndesacreditar la táctica europea, se servian para contrarrestarla de sus\npropias maniobras mal aprendidas y peor enseñadas.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

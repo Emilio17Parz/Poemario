@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sus lívidos cadáveres\nVeranse entre humo denso,\nDel pueblo, del incienso,\nY entre la pompa nítida\nDel templo de Israel.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

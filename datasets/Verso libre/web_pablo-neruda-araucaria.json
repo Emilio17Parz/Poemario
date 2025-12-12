@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "TODO el invierno, toda la batalla,\ntodos los nidos del mojado hierro,\nen tu firmeza atravesada de aire,\nen tu ciudad silvestre se levantan.\nLa cárcel renegada de las piedras,\nlos hilos sumergidos de la espina,\nhacen de tu alambrada cabellera\nun pabellón de sombras minerales.\nLlanto erizado, eternidad del agua,\nmonte de escamas, rayo de herraduras,\ntu atormentada casa se construye\ncon pétalos de pura geología.\nEl alto invierno besa tu armadura\ny te cubre de labios destruidos:\nla primavera de violento aroma\nrompe su sed en tu implacable estatua:\ny el grave otoño espera inútilmente\nderramar oro en tu estatura verde.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Llegó hasta donde estaba el sátiro velludo y montaraz, y para pedirle\nhospitalidad, cantó. Cantó del gran Jove, de Eros y de Afrodita, de los\ncentauros gallardos y de las bacantes ardientes: cantó la copa de\nDionisio, y el tirso que hiere el aire alegre, y a Pan, Emperador de las\nmontañas, Soberano de los bosques, dios-sátiro que también sabía cantar.\nCantó de las intimidades del aire y de la tierra, gran madre. Así\nexplicó la melodía de un arpa eolia, el susurro de una arboleda, el\nruido ronco de un caracol y las notas armónicas que brotan de una\nsiringa. Cantó del verso, que baja del cielo y place a los dioses, del\nque acompaña el bárbitos en la oda y el tiempo en el peán. Cantó los\nsenos de nieve tibia y las copas del oro labrado, y el buche del pájaro\ny la gloria del sol.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

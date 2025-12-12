@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En un pequeño lugar de Aragón, y allá por los años de mil trescientos\ny pico, vivía retirado en su torre señorial un famoso caballero\nllamado don Dionís, el cual, después de haber servido á su rey en la\nguerra contra infieles, descansaba á la sazón, entregado al alegre\nejercicio de la caza, de las rudas fatigas de los combates.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Prodigio de tu ínclito talento\nfué el libro que logró inmortalizarte;\ncon él alzas a España un monumento\ny un monumento a España erige el Arte...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

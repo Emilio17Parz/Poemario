@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo yo aquel mechón de tus cabellos\ncomo el devoto la reliquia santa,\ncomo el sórdido avaro su tesoro,\ncomo el proscrito guarda,\nen su triste destierro, los recuerdos\ndulces y halagadores de la patria.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

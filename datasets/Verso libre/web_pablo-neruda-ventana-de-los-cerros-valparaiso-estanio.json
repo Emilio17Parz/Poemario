@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "VENTANA de los cerros! Valparaíso, estaño\nfrío,\nroto en un grito y otro de piedras populares!\nMira conmigo desde mi escondite\nel puerto gris tachonado de barcas,\nagua lunar apenas movediza,\ninmóviles depósitos del hierro.\nEn otra hora lejana,\npoblado estuvo tu mar, Valparaíso,\npor los delgados barcos del orgullo,\nlos Cinco Mástiles con susurro de trigo,\nlos diseminadores del salitre,\nlos que de los océanos nupciales\na ti vinieron, colmando tus bodegas.\nAltos veleros del día marino,\ncomerciales cruzados, estandartes\nhenchidos por la noche marinera,\ncon vosotros el ébano y la pura\nclaridad del marfil, y los aromas\ndel café y de la noche en otra luna,\nValparaíso, a tu paz peligrosa\nvinieron envolviéndote en perfume.\nTemblaba el \"Potosí\" con sus nitratos\navanzando en el mar, pescado y flecha,\nturgencia azul, ballena delicada,\nhacia otros negros puertos de la tierra.\nCuánta noche del Sur sobre las velas\nenrolladas, sobre los empinados\npezones de la máscara del buque,\ncuando sobre la Dama del navío,\nrostro de aquellas proas balanceadas,\ntoda la noche de Valparaíso,\nla noche austral del mundo, descendía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

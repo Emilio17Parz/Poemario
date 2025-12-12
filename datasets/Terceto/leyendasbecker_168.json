@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Obras de Gustavo A. Becquer. _Quinta edición aumentada con varias\npoesías y leyendas. Madrid, Librería de Fernando Fé, 1898._ Three\nvolumes.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

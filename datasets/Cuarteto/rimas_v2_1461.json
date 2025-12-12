@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si es una ofensa amarte en el secreto,\nYo rogaré á tu bondad inmensa,\nQue como Dios perdona toda ofensa\nPerdones un amor puro y discreto.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

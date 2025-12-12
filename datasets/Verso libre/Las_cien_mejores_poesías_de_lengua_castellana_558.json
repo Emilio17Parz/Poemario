@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La generosa musa de Quevedo\ndesbordose una vez como un torrente\ny exclamó llena de viril denuedo:\n«No he de callar, por más que con el dedo,\nya tocando los labios, ya la frente,\nsilencio avises o amenaces miedo.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

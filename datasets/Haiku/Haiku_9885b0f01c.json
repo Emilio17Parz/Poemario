@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Vuelo de color\nFlor a flor, un suave beso\nVida en el aire",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Mariposa"
+  }
+}

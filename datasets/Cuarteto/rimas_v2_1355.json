@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sobérbios de la tierra! nada importa\nQue estas tumbas no ostenten un trofeo,\nNi que en templo que mármoles soporta\nNo se eleve en su honor un clamoreo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

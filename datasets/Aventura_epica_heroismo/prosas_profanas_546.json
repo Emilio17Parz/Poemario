@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Frente a frente, el soberbio príncipe del estrago\nY la victoria, joven, bello como Santiago,\nY el horror animado, la viviente carroña\nQue infecta los suburbios de hedor y de ponzoña.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

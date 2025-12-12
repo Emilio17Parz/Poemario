@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 3: Ave Maria. \"A form of devotion used in the Church of\nRome, comprising the salutation addressed by the angel Gabriel to\nthe Blessed Virgin Mary. (Luke i. 28.) The words Ave Maria are the\nfirst two, in Latin, of the form as it appears in the manuals of the\nRoman Church, thus: ' Hail Mary (Ave Maria), full of grace, the Lord\nis with thee, etc.' To which is appended the following petition:\n'Holy Mary, mother of God, pray for us sinners now, and in the hour\nof our death. Amen.'... It was not used before the Hours, until the\nsixteenth century, in Romish offices.\" Hook's _Church Dict._,\nLondon, 1887, p. 72. Some say earlier.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

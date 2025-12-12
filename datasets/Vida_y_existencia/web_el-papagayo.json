@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El papagayo verde y amarillo,\nel papagayo verde y azafrán,\nme dijo «fea» con su habla gangosa\ny con su pico que es de Satanás.\nYo no soy fea, que si fuese fea,\nfea es mi madre parecida al sol,\nfea la luz en que mira mi madre\ny feo el viento en que pone su voz,\ny fea el agua en que cae su cuerpo\ny feo el mundo y Él que lo crió...\nEl papagayo verde y amarillo,\nel papagayo verde y tornasol,\nme dijo «fea» porque no ha comido\ny el pan con vino se lo llevo yo,\nque ya me voy cansando de mirarlo\nsiempre colgado y siempre tornasol...",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

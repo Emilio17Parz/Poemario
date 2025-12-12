@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Había en una ciudad inmensa y brillante un rey muy poderoso, que tenía\ntrajes caprichosos y ricos, esclavas desnudas, blancas y negras,\ncaballos de largas crines, armas flamantísimas, galgos rápidos y\nmonteros con cuernos de bronce, que llenaban el viento con sus\nfanfarrias. ¿Era un rey poeta? No, amigo mío: era el Rey Burgués.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Por la marina,\nQue agora como es tiempo de verano,\nLos alarbes todos á la sierra\nSe retiran, buscando el fresco viento.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

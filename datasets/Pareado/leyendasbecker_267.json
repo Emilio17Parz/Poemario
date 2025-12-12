@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "(3) If a weak vowel is followed by a strong vowel after the accented\nsyllable, they form a diphthong, e.g. _histor^i^a, ans^i^a_.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

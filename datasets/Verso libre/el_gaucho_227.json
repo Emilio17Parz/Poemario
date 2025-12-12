@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "197\nY dentró al baile muy tiesa\ncon más cola que una zorra,\nhaciendo blanquiar los dientes\nlo mesmo que mazamorra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

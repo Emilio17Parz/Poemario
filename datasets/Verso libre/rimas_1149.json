@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Quién puede sospechar que á la misma hora en que nuestras grandes\ndamas de la corte se agrupan en el peristilo del teatro Real,\nenvueltas en sus calientes y vistosos albornoces, y esperan el\ncarruaje que ha de conducirlas sobre blandos almohadones de seda á\nsu palacio, otras mujeres, hermosas quizás como ellas, como ellas\ndébiles al nacer, sacuden de cuando en cuando la cabeza de un lado á\notro para desparcir la nieve que se les amontona encima, en tanto\nque rodeadas de oscuridad profunda, de peligros y de sobresaltos,\nhacen resonar el bosque con el crujido de los troncos que caen\nderribados á los golpes del hacha?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

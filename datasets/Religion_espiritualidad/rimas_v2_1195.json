@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Fueron tres flores bellas en un rosal brotadas\nQue al ostentar ufanas su grato rosicler,\nCruzaron por el cielo nubes encapotadas\nY el viento tempestuoso las arrancó al nacer.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

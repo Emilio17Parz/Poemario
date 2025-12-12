@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Si pudiesemos\nEscaparnos, señor, por otra via,\nEl cielo sabe si me holgaria;\nMas pues no puede ser segun yo veo,\nY está ya mi muerte tan cercana,\nLleva de nuestras vidas tú el trofeo,\nY no la espada perfida Romana,\nMas pues que he de morir, morir deseo\nEn el sagrado templo de Diana:\nAlla nos lleva, buen señor, y luego\nEntreganos al hierro, al lazo y fuego.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

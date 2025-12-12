@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El cielo nocturnal, azul de Oriente,\ndosela su figura. Orientales\nperfumes la circundan, y sus chales\nresbalan de sus hombros lentamente.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

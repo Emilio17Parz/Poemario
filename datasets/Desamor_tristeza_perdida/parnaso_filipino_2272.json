@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cuando cumple a la Fortuna\nmostrarse con él espléndida,\nle asalta traidora muerte,\nle aguarda salvaje huesa;\npero logra el buen Hernando,\npor preciada recompensa,\n¡aquí abajo eterna fama\ny allá arriba gloria eterna!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

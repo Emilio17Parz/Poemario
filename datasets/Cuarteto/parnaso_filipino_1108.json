@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El tierno hechizo de su faz radiosa\nme sonreía en mi amargo aislamiento,\nañoranza celeste que al momento\nremozaba mi vida tumultuosa.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Corta la flor al paso, deja la dura espina;\nEn el río de oro lleva a compás el remo;\nSaluda el rudo arado del rudo Triptolemo,\nY sigue como un dios que sus sueños destina...",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

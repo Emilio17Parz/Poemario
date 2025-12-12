@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Isla maravillosa,\nsultana bella y grácil a quien vemos ansiosa\nponer oro y corales sobre el nativo altar,\ny buscar en la arena de sus sonoras playas,\ncomo sus dos hermanas, cual Luzón y Bisayas,\nla perla de un ensueño que no quiere llegar...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

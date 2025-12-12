@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Buen hombre--exclamó la hermosa hebrea arrojando algunas monedas\ná su conductor y señalando un camino estrecho y tortuoso que subía\nserpenteando por entre las rocas,--¿es ese el camino que siguen?",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

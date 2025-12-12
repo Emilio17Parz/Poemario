@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "When the vowels from the accented syllable to the end of the word are\nthe same, but the consonants are different, the rhyme is called\nassonance. Therefore, _inflaman_ and _pasa_ assonate in á-a; _negros_\nand _creo_ in e-o.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

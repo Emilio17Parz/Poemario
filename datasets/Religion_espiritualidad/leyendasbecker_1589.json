@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "--¡Oh! ¡Qué hermoso era ver correr el agua del río que lamía las\nretorcidas raíces del añoso tronco que nos sustentaba, aquel agua\nlimpia y trasparente que copiaba como un espejo el azul del cielo, de\nmodo que creíamos vivir suspendidas entre dos abismos azules!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

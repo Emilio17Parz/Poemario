@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "128\nVide el pleito mal parao\ny no quise aguardar más...\nes güeno vivir en paz\ncon quien nos ha de mandar;\ny reculando pa atrás\nme le empecé a retirar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

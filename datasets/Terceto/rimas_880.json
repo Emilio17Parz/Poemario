@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Son los monjes, los cuales, muertos tal vez sin hallarse preparados\npara presentarse en el tribunal de Dios limpios de toda culpa, vienen\naún del purgatorio á impetrar su misericordia cantando el _Miserere_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

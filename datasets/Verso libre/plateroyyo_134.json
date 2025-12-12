@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Platero me lleva, contento, ágil, dispuesto. Se dijera que no le peso.\nSubimos, como si fuésemos cuesta abajo, á la colina. A lo lejos, una\ncinta brillante, incolora, vibra, entre Los últimos pinos, en un aspecto\nde paisaje isleño. En los prados verdes, allá abajo, saltan los asnos\ntrabados, de mata en mata.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

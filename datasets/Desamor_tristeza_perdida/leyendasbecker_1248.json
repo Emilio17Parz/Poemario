@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Impulsado de un pensamiento religioso, espontáneo é indefinible, eché\nmaquinalmente pie á tierra, me descubrí, y comencé á buscar en el\nfondo de mi memoria una de aquellas oraciones que me enseñaron cuando\nniño; una de aquellas oraciones que, cuando más tarde se escapan\ninvoluntarias de nuestros labios, parece que aligeran el pecho\noprimido, y semejantes á las lágrimas, alivian el dolor, que también\ntoma estas formas para evaporarse.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

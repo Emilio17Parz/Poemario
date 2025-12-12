@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Todo libro, que desde América llega a mis manos, excita mi interés y\ndespierta mi curiosidad; pero ninguno hasta hoy la ha despertado tan\nviva como el de usted, no bien comencé a leerlo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los estados y riqueza\nQue nos dexan a deshora\n¿Quién lo duda?\nNo les pidamos firmeza,\nPues que son de una señora\nQue se muda.\nQue bienes son de fortuna\nQue revuelve con su rueda\nPresurosa,\nLa cual no puede ser una,\nNi ser estable ni queda\nEn una cosa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

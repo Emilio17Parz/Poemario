@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Y decía el otro:--Perdida mi alma en la gran ilusión de mis sinfonías,\ntemo todas las decepciones. Yo escucho todas las armonías, desde la lira\nde Terpandro hasta las fantasías orquestales de Wagner. Mis ideales\nbrillan en medio de mis audacias de inspirado. Yo tengo la percepción\ndel filósofo que oyó la música de los astros. Todos los ruidos pueden\naprisionarse, todos los ecos son susceptibles de combinaciones. Todo\ncabe en la línea de mis escalas cromáticas.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

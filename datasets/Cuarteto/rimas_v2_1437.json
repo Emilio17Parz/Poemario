@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Marcha, marcha derecho al Occidente:\nAllí de un nuevo mundo está el arcano,\nQue adivinó tu genio soberano,\nY que ves con los ojos de la mente.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

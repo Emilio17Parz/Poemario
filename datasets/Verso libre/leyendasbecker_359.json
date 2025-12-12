@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "The syllable directly preceding the one that has the rhythmical accent\nshould never be accented, for it obstructs the proper accentuation of\nthe constituent syllable. A syllable so accented is called\n_obstruccionista_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "_Endechas reales_ are _cuartetas_ in which three heptasyllables are\nfollowed by a hendecasyllable. The even verses are usually in\nassonance, although the verses may have the rhyme-scheme a b a b.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

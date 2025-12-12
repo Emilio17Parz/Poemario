@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "379\nDe hambre no pereceremos,\npues, sigún otros me han dicho,\nen los campos se hallan bichos\nde los que uno necesita-\ngamas, matacos, mulitas\navestruces y quirquinchos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

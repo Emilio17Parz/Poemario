@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y huya el tropel equino por la montaña vasta;\nTu rostro de ultratumba bañe la luna casta\nDe compasiva y blanca luz;\nY el Sátiro contemple sobre un lejano monte\nUna cruz que se eleve cubriendo el horizonte\nY un resplandor sobre la cruz!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

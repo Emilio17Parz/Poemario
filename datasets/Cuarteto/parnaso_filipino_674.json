@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si tus hojas, bajo el ala de la brisa,\ndan al aire de la noche madrigales,\nno hay un labio que no enflore una sonrisa\nni una fuente que no azule sus cristales.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Entre las cuatro composiciones en las estaciones del año, todas bellas y\nraras, sobresale la del verano. Es un cuadro simbólico de los dos polos\nsobre los que rueda el eje de la vida: el amor y la lucha; el prurito de\ndestrucción y el de reproducción. La tigre virgen en celo está\nmagistralmente pintada, y mejor aún acaso el tigre galán y robusto que\nllega y la enamora.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

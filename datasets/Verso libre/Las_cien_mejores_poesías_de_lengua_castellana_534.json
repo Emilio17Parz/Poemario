@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Este ir y venir sin tasa,\nY este moverse impaciente,\nPasa así,\nPorque así ha pasado y pasa,\nPorque sí, y ¡ay! solamente\nPorque sí.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

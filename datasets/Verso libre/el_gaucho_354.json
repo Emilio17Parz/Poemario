@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "321\nCuando la mula recula,\nseñal que quiere cociar,\nansí se suele portar\naunque ella lo disimula;\nrecula como la mula\nla mujer, para olvidar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

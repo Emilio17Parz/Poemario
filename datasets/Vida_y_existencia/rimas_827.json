@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El agua enmudeció por algunos instantes, y no sonaba sino como agua\nque se rompe entre peñas El viento calló también, y su ruido no\nfué otra cosa que ruido de hojas movidas. Así pasó algún tiempo, y\ndespués volvieron á hablar, y hablaron así:",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Haz por los hijos lo que en otros dias\nHiciste por sus padres, cuando hendias\nLas esferas con ímpetu veloz,\nPara traer la centella salvadora\nQue de ese sol, que el universo adora,\nBrotó, y en tus pupilas puso Dios.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

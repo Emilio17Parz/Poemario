@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Están así hasta hoy nuestras banderas.\nEl pueblo las bordó con su ternura,\ncosió los trapos con su sufrimiento.\nClavó la estrella con su mano ardiente.\nY cortó, de camisa o firmamento,\nazul para la estrella de la patria.\nEl rojo, gota a gota, iba naciendo.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

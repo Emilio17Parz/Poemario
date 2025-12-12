@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tu cuerpo cercaré de espesas nieblas,\nPara que tu alma brille en las tinieblas\nCual faro celestial;\nY se estiendan las alas de tu alma,\nPara volar á la region de calma\nDonde se olvida el mundo terrenal.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

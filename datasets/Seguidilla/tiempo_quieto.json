@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "tiempo quieto",
   "poema": {
     "texto": "Gira el reloj\\nsin hacer ruido\\nse queda el alma\\nmirando horas",

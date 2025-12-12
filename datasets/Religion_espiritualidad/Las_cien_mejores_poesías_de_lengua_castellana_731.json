@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ya lo ves: las canciones que te consagro,\nEn mi mente han nacido por un milagro.\nNada en ellas es mío, todo es don tuyo:\nPor eso a ti, de hinojos, las restituyo.\n¡Pobres hojas caídas de la arboleda,\nSin su verdor el alma desnuda queda!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

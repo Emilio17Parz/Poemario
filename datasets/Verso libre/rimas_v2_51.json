@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No puede negarse que la línea, el colorido y la palabra tiene sus\nlímites, y que á la pintura y á la escultura les está vedado lo que es\npermitido á la poesía, pero esto no destruye la regla general de que,\npara escitar la admiracion, la pintura necesita ser poética, así como la\npoesía necesita ser pintoresca. La razon de esto es muy clara: la idea\nque escapa á la pintura, es decir, la idea que no es pintoresca ó que no\ntiene cierto movimiento dramático, se presenta confusamente á la\nimaginacion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tu gloria es como el astro que intenso resplandece;\nmirar tal vez no quieran su bello fulgurar,\npero su clara lumbre ni muere ni decrece,\ny en los espacios célicos luciendo siempre está.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

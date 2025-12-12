@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Dormirse en el olvido del recuerdo,\nen el recuerdo del olvido,\ny que en el claustro maternal me pierdo\ny que en él desnazco perdido!\n¡Tú, mi bendito porvenir pasado,\nmañana eterno en el ayer;\ntú, todo lo que fue ya eternizado,\nmi madre, mi hija, mi mujer!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

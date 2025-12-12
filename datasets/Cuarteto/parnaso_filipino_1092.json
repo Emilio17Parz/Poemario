@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La gratitud es una flor que brota\nde la pureza del sentir humano,\ny no hay sarcasmo ni atrevida mano\nque la marchite en mísera picota.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

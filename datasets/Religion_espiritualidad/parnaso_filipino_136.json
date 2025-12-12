@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "España: nos desune del piélago la anchura;\ntambién la propia sangre de tí nos diferencia.\nMas tuyo es nuestro idioma, es tuya la cultura\nque a remontar nos lleva tu nacional altura;\nque nutre el santo anhelo de nuestra independencia.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

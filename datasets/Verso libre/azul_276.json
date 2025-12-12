@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La reina Mab, en su carro hecho de una sola perla, tirado por cuatro\ncoleópteros de petos dorados y alas de pedrería, caminando sobre un rayo\nde sol, se coló por la ventana de una boardilla donde estaban cuatro\nhombres flacos, barbudos e impertinentes, lamentándose como unos\ndesdichados.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

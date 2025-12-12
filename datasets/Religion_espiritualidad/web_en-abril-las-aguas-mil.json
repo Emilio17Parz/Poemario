@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Son de abril las aguas mil.\nSopla el viento achubascado,\ny entre nublado y nublado\nhay trozos de cielo añil.\nAgua y sol. El iris brilla.\nEn una nube lejana,\nzigzaguea\nuna centella amarilla.\nLa lluvia da en la ventana\ny el cristal repiqueteo.\nA través de la neblina\nque forma la lluvia fina,\nse divisa un prado verde,\ny un encinar se esfumina,\ny una sierra gris se pierde.\nLos hilos del aguacero\nsesgan las nacientes frondas,\ny agitan las turbias ondas\nen el remanso del Duero.\nLloviendo está en los habares\ny en las pardas sementeras;\nhay sol en los encinares,\ncharcos por las carreteras.\nLluvia y sol. Ya se oscurece\nel campo, ya se ilumina;\nallí un cerro desparece,\nallá surge una colina.\nYa son claros, ya sombríos\nlos dispersos caseríos,\nlos lejanos torreones.\nHacia la sierra plomiza\nvan rodando en pelotones\nnubes de guata y ceniza.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

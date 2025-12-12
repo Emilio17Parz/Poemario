@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Su luz, los nombres dora\nDe la urna funeraria,\nDonde enlutada llora\nLa musa solitaria,\nLos mártires valientes\nCuyas soberbias frentes\nHumeando sangre estan.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Oh laguna que encarnas las grandezas de Lipa,\n--pueblo de ardientes niñas y buen vino de nipa--[35]\ncuando cruzo tus aguas mi dolor se disipa\ny hasta siento que el pueblo de Rizal se emancipa!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

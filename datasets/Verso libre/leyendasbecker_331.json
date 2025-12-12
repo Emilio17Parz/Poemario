@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "When both vowels are accented hiatus is more common than synalepha,\neven though there is no close syntactical relation, although the\nvowels may be joined by synalepha if they do not come in a constituent\nsyllable.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

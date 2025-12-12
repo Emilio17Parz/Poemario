@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Lejos de la contienda fratricida\nSus deseos jamas se descarriaron,\nY á lo largo del valle de la vida\nUna quieta existencia atravesaron.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

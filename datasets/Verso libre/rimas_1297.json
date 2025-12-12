@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aconteció una vez que, habiendo salido el señor de Borja, rodeado\nde sus más hábiles ballesteros, sus pajes y sus ojeadores, á\nrecorrer esta parte de sus dominios, en busca de la caza en que\nera tan abundante, sobrevino la tarde sin que, cosa verdaderamente\nextraordinaria, dadas las condiciones del sitio, encontrasen una\nsola pieza que llevar á la vuelta de la jornada como trofeo de la\nexpedición.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

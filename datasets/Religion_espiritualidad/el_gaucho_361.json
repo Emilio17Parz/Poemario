@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "327\nY emprésteme su atención;\nme oirá relatar las penas\nde que traigo la alma llena;\nporque en toda circustancia,\npaga el gaucho su inorancia\ncon la sangre de sus venas.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando llegó el día, las macizas puertas del arco que daba entrada\nal caserón, y sobre cuya clave se veían esculpidos los blasones de\nsu dueño, giraron pesadamente sobre los goznes, con un chirrido\nprolongado y agudo. Un escudero apareció en el dintel con un manojo\nde llaves en la mano, restregándose los ojos, y enseñando al bostezar\nuna caja de dientes capaces de dar envidia á un cocodrilo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

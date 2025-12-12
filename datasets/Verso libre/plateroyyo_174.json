@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando habla, le faltan notas, cual á los pianos viejos; otras veces, en\nlugar de palabra, le sale un escape de aire. Y estas pifias llevan un\nacompañamiento de inclinaciones de cabeza, de manotadas ponderativas, de\nvacilaciones chochas, de quejumbres de garganta y salivas en el pañuelo,\nque no hay más que pedir. Un amable concierto para antes de la cena.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sus linfas puras entre fango nacen\nMas cristalinas caminar se ven,\nCual tú nacida de la tierra impura,\nPura te miro caminar tambien.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Eduardo de Lustono. Becquer is the titie of a sketch by this writer,\npublished in _Alrededor del Mundo_, No. 109, July 4, 1901, pp. 11-13,\nand No. 110, July 11, 1901, pp. 22-23. It is largely a copy of the\narticle by Narciso Campillo, mentioned above, and of the following by\nRodriguez Correa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

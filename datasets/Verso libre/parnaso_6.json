@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Credits: Produced by Miranda van de Heijning and the Online\nDistributed Proofreading Team. This file was produced from\nimages generously made available by the Bibliothèque\nnationale de France (BnF/Gallica)",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

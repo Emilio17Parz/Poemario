@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "129\nSupo todo el comendante\ny me llamó al otro día,\ndiciéndome que quería\naviriguar bien las cosas...\nque no era el tiempo de rosas,\nque aura a naides se debía.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

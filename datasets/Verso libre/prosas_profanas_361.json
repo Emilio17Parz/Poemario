@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A ti las blancas dianas de los parques ducales;\nLos cuellos de los cisnes,\nLas místicas estrofas de cánticos celestes\nY en el sagrado empíreo la mano de las vírgenes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

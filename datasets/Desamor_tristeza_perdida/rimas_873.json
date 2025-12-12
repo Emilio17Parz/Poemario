@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Es el caso, que en lo más fragoso de esas cordilleras de montañas\nque limitan el horizonte del valle, en el fondo del cual se halla\nla abadía, hubo hace ya muchos años, ¡qué digo muchos años! muchos\nsiglos, un monasterio famoso; monasterio que, á lo que parece,\nedificó á sus expensas un señor con los bienes que había de legar á\nsu hijo, al cual desheredó al morir, en pena de sus maldades.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Allí tambien reverberó tu lumbre\nCuando bajó rodando de la cumbre\nDesmelenado el iracundo leon,\nA par que retumbaba en la eminencia\nEl grito atronador de independencia\nQue repetia el mundo de Colon.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

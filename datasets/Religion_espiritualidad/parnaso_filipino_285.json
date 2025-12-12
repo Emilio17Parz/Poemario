@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Oh, España! ¡Porque en tu alma nos enlazas,\nQue te troven su amor todas las razas!\n¡Y pues sus grandes gestas altaneras\nCreó el mundo al calor de tus leones,\nQue te echen flores todas las naciones,\nY que te besen todas las banderas!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

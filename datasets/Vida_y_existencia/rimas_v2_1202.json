@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Felices esos seres, que nunca calentaron\nLas engañosas manos de la amistad infiel,\nQue nunca las miserias del mundo presenciaron\nNi el dictamo sagrado vieron trocarse en hiel.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

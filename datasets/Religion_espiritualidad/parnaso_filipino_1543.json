@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Id a mi patria, id extranjeras flores\nsembradas del viajero en el camino,\ny bajo su azul cielo,\nque guarda mis amores,\ncontad del peregrino\nla fé que alienta por su patrio suelo!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

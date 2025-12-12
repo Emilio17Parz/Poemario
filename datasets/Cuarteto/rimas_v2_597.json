@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Siete veces traidor, tú, miserable,\nDe la historia en el libro vivirás,\nComo en jardín ameno y deleitable\nVive entre flores el reptil audaz.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "16\nMi gloria es vivir tan libre\nComo el pájaro del cielo:\nNo hago nido en este suelo\nAnde hay tanto que sufrir,\nY naides me ha de seguir\nCuando yo remuento el vuelo.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

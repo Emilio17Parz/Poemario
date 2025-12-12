@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "De guerreros cubierta la llanura,\nY la bandera azul cual siempre pura\nSe miró relucir;\nY á la sombra del símbolo divino\nPronunció juramento el argentino\nDe ser libre ó morir.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

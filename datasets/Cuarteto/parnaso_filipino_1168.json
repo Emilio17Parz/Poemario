@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo te leí cien veces. Noble amigo,\nhallé siempre flotando en cada página,\nun paño para el llanto del esclavo,\npara el tirano vengadora tralla.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

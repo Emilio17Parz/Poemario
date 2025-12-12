@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Un día, nosotros, los escuadrones que tenemos a nuestro cargo las\nminas de diamantes, tuvimos una huelga que conmovió toda la tierra, y\nsalimos en fuga por los cráteres de los volcanes.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

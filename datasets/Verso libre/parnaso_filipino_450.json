@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Manzana filipina,\nSonrosada, aromosa, pequeñina,\nY para dar una cabal idea,\nDe la infantil presea,\nTe diré los coloquios que en la infancia\nSostuve con Rizal, en una estancia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

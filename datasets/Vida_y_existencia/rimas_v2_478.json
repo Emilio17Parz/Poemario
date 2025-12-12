@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Del tiempo la corriente\nBramando se derrumba,\nComo la voz rugiente\nDel huracan retumba,\nY en rápida carrera\nLa humanidad lijera\nSe hunde en la eternidad.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En la veloz carrera apresuradas\nLas horas del ligero tiempo veo\nContra mí con el cielo conjuradas.\nQueda atras la esperanza y no el deseo,\nY ansi la vida de la muerte della\nEl mal, el daño augmentan que poseo.\nAy dura, iniqua, inexorable estrella!\nComo por los cabellos me has traido\nAl terrible dolor que me atropella!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

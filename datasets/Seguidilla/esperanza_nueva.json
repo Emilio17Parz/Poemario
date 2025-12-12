@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "esperanza nueva",
   "poema": {
     "texto": "Rompe la noche\\nun rayo tibio\\nlate la vida\\ntras el olvido",

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Del porvenir los pasos son inciertos:\nVive y obra sin tregua en el presente,\nTu corazon en tí, Dios en tu mente!\nDeja al pasado sepultar sus muertos!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

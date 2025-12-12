@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Si el dolor con su agonía\ntorna pura el alma mía\n¡viva el dolor siempre en mí!\n¡Y si es la herida honda y fiera,\nmás y más y más me hiera,\nque quiero la muerte así!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Yo interior introspeccion",
   "poema": {
     "texto": "Camino sin mapa\ndescalzo sobre la tierra\nque me nombra y me olvida\nen cada paso\n\nLa sombra es un río\nque fluye entre mis dedos\nsin pedir permiso\nni dar explicaciones",

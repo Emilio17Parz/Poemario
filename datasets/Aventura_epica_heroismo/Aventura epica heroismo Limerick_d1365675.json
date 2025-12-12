@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Aventura epica heroismo",
   "poema": {
     "texto": "Había un señor de Roma\ncon afición a los glorias.\nBailaba tango y flamenco\ny también algo de Aventura_epica_heroismo\n¡qué artista el de Tokio!",

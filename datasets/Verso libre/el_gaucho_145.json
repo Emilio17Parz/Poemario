@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "118\nAunque es justo que quien vende\nalgún poquito muerda,\ntiraba tanto la cuerda\nque, con sus cuatro limetas\nél cargaba las carretas\nde plumas, cueros y cerda.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

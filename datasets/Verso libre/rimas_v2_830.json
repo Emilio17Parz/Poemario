@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los rotos escuadrones\nSalvados del cuchillo,\nBuscando otro caudillo\nVolviéronse á reunir;\nY en el Tuyú cercados,\nCon varonil fiereza\nJuraron con firmeza\nLibertad ó morir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

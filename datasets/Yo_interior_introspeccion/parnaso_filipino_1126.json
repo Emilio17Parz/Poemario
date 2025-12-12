@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Segado por el viento de un huracán furioso\ndesciende al frío suelo el cáliz de una flor:\ntal de los desengaños al sopolo venenoso\nfugaz se desvanece un sueño encantador.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

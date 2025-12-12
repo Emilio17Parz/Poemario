@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Las ideas, que en ronda silenciosa\nDaban vueltas en torno á mi cerebro,\nPoco á poco en su danza se movían\nCon un compás más lento.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y vino el desfile de ensueños y sombras.\nY fueron mujeres de rostros de estatua,\nMujeres de rostros de estatuas de mármol,\n¡Tan tristes, tan dulces, tan suaves, tan pálidas!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En vano aplico el oido:\nEnmudece la memoria,\nY á mis cánticos de gloria\nNo responde el porvenir;\nQue al descender al abismo\nLa corteza de mi alma,\nNo se verá ni una palma\nSobre la frente lucir!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

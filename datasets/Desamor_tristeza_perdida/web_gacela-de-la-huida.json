@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me he perdido muchas veces por el mar\ncon el oído lleno de flores recién cortadas.\nCon la lengua llena de amor y de agonía\nmuchas veces me he perdido por el mar,\ncomo me pierdo en el corazón de algunos niños.\nNo hay nadie que al dar un beso\nno sienta la sonrisa de la gente sin rostro,\nni nadie que al tocar un recién nacido\nolvide las inmóviles calaveras de caballo.\nPorque las rosas buscan en la frente\nun duro paisaje de hueso\ny las manos del hombre no tienen más sentido\nque imitar a las raíces bajo tierra.\nComo me pierdo en el corazón de algunos niños,\nme he perdido muchas veces por el mar.\nIgnorante del agua, voy buscando\nuna muerte de luz que me consuma.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

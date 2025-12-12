@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: Castilla = 'Castile.' An old kingdom of Spain, in the\nnorthern and central part of the peninsula. The kingdoms of Castile\nand Leon, after several unions and separations, were finally united\nunder Ferdinand III in 1230. Isabella of Castile married Ferdinand\nof Aragon in 1469, and in 1479 the two kingdoms of Castile and\nAragon were united.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

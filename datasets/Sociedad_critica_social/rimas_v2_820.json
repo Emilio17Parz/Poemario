@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Por los llanos inmensos de la pampa\nVaga Castelli triste y silencioso,\nY en su semblante pálido y ansioso\nEstá grabado el sello del dolor:\nFiel adalid de un pueblo generoso\nCayó con él en medio del combate,\nMas la derrota que al cobarde abate\nNo ha destemplado el varonil valor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

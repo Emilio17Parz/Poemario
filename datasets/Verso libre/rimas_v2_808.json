@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mirad la extensa laguna\nDe Chascomús: magestuosa\nSobre la pampa reposa\nBajo esa bóveda azul.\nAllí fué que en otros tiempos\nSobre el indio fugitivo,\nLlegó el español altivo\nY alzó la gigante cruz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

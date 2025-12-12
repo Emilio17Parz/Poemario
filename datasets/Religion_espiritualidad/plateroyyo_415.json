@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Llueve. Hoy no vamos al campo. Es día de contemplaciones. Mira cómo\ncorren las canales del tejado. Mira cómo se limpian las hojas verdes,\ncómo torna á navegar por la cuneta el barquillo de los niños, parado\nayer entre la hierba. Mira ahora, en este sol instantáneo y débil, cuan\nbello el arco iris que sale de la iglesia y muere, en una vaga\nirisación, á nuestro lado.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

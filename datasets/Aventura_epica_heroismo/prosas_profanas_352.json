@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La virgen de las vírgenes es inviolable y pura.\nNadie su casto cuerpo tendrá en la alcoba obscura,\nNi beberá en sus labios el grito de victoria,\nNi arrancará a su frente las rosas de su gloria.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

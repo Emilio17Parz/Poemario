@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Haley te precedió con valentía,\nPero víctima fué de su osadía.\nSu rebaño no bien aclimatado,\nFué por ardiente fuego devorado:\nAl resplandor de rojas llamaradas\nSe alzan las vacas, y huyen espantadas,\nY el toro mujidor, despavorido,\nHuye y deja al ternero desvalido.\nPero la oveja del incendio al brillo,\nNo abandona á su débil corderillo,\nY en el círculo ardiente y chispeante\nBusca á sus compañeras anhelante!\nY la majada muere en la llanura,\nVíctima de su union y su ternura!\n¡Ay! no se vé en el herial humeante\nSino el rebaño unido y espirante,\nY un pastor que entre ruinas se lamenta\nCuando los muertos de su campo cuenta!\nAsí arrastra su cruz en este mundo\nEl promotor de todo bien fecundo:\nQue no alcanzamos nunca un adelanto\nQue no reguemos con amargo llanto.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

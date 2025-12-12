@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "1\nDebajo de la hoja\nde la verbena\ntengo a mi amante malo.\n¡Jesús, qué pena!\n2\nDebajo de la hoja\nde la lechuga\ntengo a mi amante malo\ncon calentura.\n3\nDebajo de la hoja\ndel perejil\ntengo a mi amante malo\ny no puedo ir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

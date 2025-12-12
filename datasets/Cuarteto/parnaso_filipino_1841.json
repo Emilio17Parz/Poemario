@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En las yermas campiñas y en las selvas\ncon la sangre del pueblo bautizadas,\nlanza el toque de diana la corneta\ny resucita la moderna Esparta...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

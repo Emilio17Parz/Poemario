@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "El sol en su ebriedad suprema el suelo muerde.\nPorque todo en la hora canicular concuerde,\nNi un hálito de brisa cruza la extensa y verde\nPaz del campo, ni un ave en el azúl se pierde.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

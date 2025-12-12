@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "In words _llanas_ or _esdrújulas_ the assonance is of two vowels only.\nIn diphthongs the accented vowel only is considered if the diphthong\noccur in an accented syllable. Therefore, _verte_ and _duermes_\nassonate in e-e; _baile_ and _parte_ assonate in a-e.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

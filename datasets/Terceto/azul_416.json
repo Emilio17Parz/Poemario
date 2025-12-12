@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Después, sobre sus rubíes, sobre sus ópalos, entre aquellas paredes\nresplandecientes empezaron a bailar asidos de las manos una farándula\nloco y sonora.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

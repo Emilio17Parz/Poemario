@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La abuelita me recibió con los brazos abiertos. Inés se negó a\nabrazarme, me tendió la mano. Después no me atreví a invitarla a los\njuegos de antes. Me sentía tímido. ¡Y qué! ella debía sentir algo de lo\nque yo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

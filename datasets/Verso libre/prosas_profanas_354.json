@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mas he aquí que Apolo se acerca al meridiano.\nSus truenos prolongados repite el Oceano.\nBajo el dorado carro del reluciente Apolo\nVuelve a inflar sus carrillos y sus odres Eolo.\nA lo lejos, un templo de mármol se divisa\nEntre laureles-rosa que hace cantar la brisa.\nCon sus vibrantes notas de Céfiro desgarra\nLa veste transparente la helénica cigarra,\nY por el llano extenso van en tropel sonoro\nLos Centauros, y al paso, tiembla la Isla de Oro.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

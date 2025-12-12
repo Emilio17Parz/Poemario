@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Yo quise llenar el pliego, casto por sus resplandores,\nde mis locuras de niño, de mis risas y dolores,\ndel aroma inolvidado de no sé qué santas flores,\ny así convertir el pliego en libro de mis amores.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

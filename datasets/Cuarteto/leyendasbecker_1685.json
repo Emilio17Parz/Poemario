@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo sé que hay fuegos fátuos que en la noche\nLlevan al caminante á perecer:\nYo me siento arrastrado por tus ojos,\nPero adónde me arrastran, no lo sé.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

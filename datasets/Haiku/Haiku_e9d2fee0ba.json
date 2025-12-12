@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Viento que susurra\nMueve hojas de los árboles\nFrío trae el sur",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

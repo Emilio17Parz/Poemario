@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En sus ondas azules se reflejan\nDel cielo la bonanza y tempestad,\nCual tus ojos azules reproducen\nDe otros ojos la sombra y claridad.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

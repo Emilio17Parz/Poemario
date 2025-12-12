@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Adios, mas no por siempre: un mundo hay mas hermoso,\nY cuando al seno vueles del Todo-Poderoso\nVolverte á ver espero tan bella como aquí;\nPero si en el inmenso celeste paraiso\nA tí no te encontrase, mi celestial hechizo,\nLos celestiales goces tristes serán sin tí.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

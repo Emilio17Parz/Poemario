@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mientras ruge el fragor de los cañones\ny retiembla la tierra con pavura,\ny encaramado en la nubosa altura\nescudriña el avión los batallones;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

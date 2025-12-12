@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Cantemos el oro, porque podemos ser unos perdidos, y él nos pone\nmamparas para cubrir las locuras abyectas de la taberna y las vergüenzas\nde las alcobas adúlteras.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "116\nSólo tenía cuatro frascos\ny unas barricas vacías,\ny a la gente le vendía\ntodo cuanto precisaba...\nalgunos creiban que estaba\nallí la proveduría.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

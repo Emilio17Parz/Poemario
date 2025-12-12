@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Tarde, cruel, ofreces tu clemencia,\nPues no hay en quien usarla, que yo quiero\nPasar por el rigor de la sentencia.\nQue consuelo amargo lastimero\nDe mis padres y patria tan querida\nCausó el ultimo fin terrible y fiero.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

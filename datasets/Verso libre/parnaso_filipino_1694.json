@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En medio de los rudos episodios\ndel despertar de aquellas multitudes\nvieron pasar las familiares glebas,\nsobre el torrente de encontrados odios,\nla racha formidable de virtudes,\nla tempestad de las ideas nuevas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

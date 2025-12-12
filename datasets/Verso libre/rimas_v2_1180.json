@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El genio de la paz y la armonía\nCubriendo tu cabeza noche y dia\nTe guarde del aliento del dolor;\nY el ángel puedas ser de tu familia\nQue en las eternas noches de vigilia\nDés amparo á las prendas de tu amor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

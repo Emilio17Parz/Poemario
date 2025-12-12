@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi débil voz te anuncia que tu gloriosa hazaña\ntrayendo a Filipinas--¡a mi adorado lar!--\nla lengua de Castilla, la fe de aquella España,\nlos buenos filipinos jamás olvidarán.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

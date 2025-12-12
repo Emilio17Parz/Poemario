@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Olas en el viento.",
   "poema": {
     "texto": "Olas en viento se mezclan,\nbrisa suave susurra,\nen el aire dan paso.",

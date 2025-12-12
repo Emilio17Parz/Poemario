@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Pobre asno! ¡Tan bueno, tan noble, tan agudo como eres!\nIrónicamente.,.. ¿Por qué? ¿Ni una descripción seria mereces, tú, cuya\ndescripción cierta sería un cuento de primavera? ¡Si al hombre que es\nbueno debieran decirle asno! ¡Si al asno que es malo debieran decirle\nhombre! Irónicamente... De ti, tan intelectual, amigo del viejo y del\nniño, del arroyo y de la mariposa, del sol y del perro, de la flor y de\nla luna, paciente y reflexivo, melancólico y amable, Marco Aurelio de\nlos prados...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

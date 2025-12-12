@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Y en sueño dice: «¡Oh dulces delicias de los cielos!\n¡Oh tierra sonrosada que acarició mis ojos!\n--¡Princesas, envolvedme con vuestros blancos velos!\n--¡Príncipes, estrechadme con vuestros brazos rojos!»",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

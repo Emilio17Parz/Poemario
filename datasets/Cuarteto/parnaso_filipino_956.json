@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "De tu lira, poeta, yo diría\nque los pechos embriaga con su canto\ncuando llora las penas, el quebranto,\ndel hijo por la madre en agonía.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

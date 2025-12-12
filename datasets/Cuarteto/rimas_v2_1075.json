@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Quiero hacer tu retrato, mujer bella\nMirando de tu rostro la hermosura,\nQue irradia en torno suyo la luz pura\nComo desde los cielos una estrella...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

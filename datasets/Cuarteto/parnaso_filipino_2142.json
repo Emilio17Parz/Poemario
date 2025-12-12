@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Llena la Huerta tu gentil presencia\ny encantas con tu gracia al mundo entero,\nhaciendo resbalar por el pandero\ntus dedos, que de nardos son la esencia.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

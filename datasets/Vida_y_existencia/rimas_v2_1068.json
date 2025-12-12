@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En el libro inmortal de nuestra historia\nBusco un nombre que guarda mi memoria\nY tu filial amor,\nY al encontrar la página enlutada\nLa veo al mismo tiempo señalada\nPor una fresca y perfumada flor.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Lira, hermana, ya espiró\nMi padre, y mi madre está\nEn terminos que ya, ya\nMorira qual muero yo.\nLa hambre los ha acabado.\nHermana mia, pan tienes?\nO pan, y quan tarde vienes\nQue ya no hay pasar bocado!\nTiene la hambre apretada\nMi garganta en tal manera,\nQue aunque este pan agua fuera,\nNo pudiera pasar nada.\nTomalo, hermana querida,\nQue por mas crecer mi afan,\nVeo que me sobra el pan\nQuando me falta la vida.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

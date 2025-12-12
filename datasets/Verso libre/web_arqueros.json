@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los arqueros oscuros\na Sevilla se acercan.\nGuadalquivir abierto.\nAnchos sombreros grises,\nlargas capas lentas.\n¡Ay, Guadalquivir!\nVienen de los remotos\npaíses de la pena.\nGuadalquivir abierto.\nY van a un laberinto.\nAmor, cristal y piedra.\n¡Ay, Guadalquivir!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

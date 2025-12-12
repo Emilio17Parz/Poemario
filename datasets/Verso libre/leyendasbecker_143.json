@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "In one of Becquer's most beautiful writings in prose, in a _Prológo_\nto a collection of _Cantares_ by Augusto Ferran y Forniés, our author\ndescribes two kinds of poetry that present themselves to one's choice:\n\"There is a poetry which is magnificent and sonorous, the offspring of\nmeditation and art, which adorns itself with all the pomp of language,\nmoves along with a cadenced majesty, speaks to the imagination,\nperfects its images, and leads it at will through unknown paths,\nbeguiling with its harmony and beauty.\" \"There is another poetry,\nnatural, rapid, terse, which springs from the soul as an electric\nspark, which strikes our feelings with a word, and flees away. Bare of\nartificiality, free within a free form, it awakens by the aid of one\nkindred idea the thousand others that sleep in the bottomless ocean of\nfancy. The first has an acknowledged value; it is the poetry of\neverybody. The second lacks any absolute standard of measurement; it\ntakes the proportions of the imagination that it impresses; it may be\ncalled the poetry of poets.\"[1]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

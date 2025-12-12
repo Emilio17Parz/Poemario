@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "245\nBala el tierno corderito\nal lao de la blanca oveja,\ny a la vaca que se aleja\nllama el ternero amarrao;\npero el gaucho desgraciao\nno tiene a quien dar su oveja.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "oveja"
+  }
+}

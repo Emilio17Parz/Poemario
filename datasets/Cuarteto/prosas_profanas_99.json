@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Monsieur Prudhomme y Homais no saben nada.\nHay Chipres, Pafos, Tempes y Amatuntes,\nDonde el amor de mi madrina, un hada,\nTus frescos labios a los míos juntes.)",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

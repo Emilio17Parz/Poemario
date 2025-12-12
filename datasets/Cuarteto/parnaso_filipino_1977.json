@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Joven bardo que encerró poesía\nen pagodas de marfil y de plata:\ntempla el sistro de celeste armonía\ny tus sáficos cantares desata...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

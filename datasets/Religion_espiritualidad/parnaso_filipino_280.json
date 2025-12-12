@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Y nos queda el amor. ¡Lo que no muere!\nLo que es igual cuando nos besa o hiere!\n¡Rosa inmortal rodeada de espinas!\nEl santo amor que te empujó quimérica\nA vender tu corona por América,\nY a abrirte el corazón por Filipinas.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

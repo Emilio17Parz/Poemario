@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Puck sonreía curioso. Todos los gnomos rodearon al anciano cuyas canas\npalidecían a los resplandores de la pedrería, y cuyas manos extendían su\nmovible sombra en los muros, cubiertos de piedras preciosas, como un\nlienzo lleno de miel donde se arrojasen granos de arroz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mas allá de ese sueño hay otra vida,\nQue como flor á todos escondida\nTe dá tu emanacion:\nNueva tierra de América ignorada,\nQue en alas de la brisa perfumada\nAnuncia su existencia á otro Colon.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "existencia"
+  }
+}

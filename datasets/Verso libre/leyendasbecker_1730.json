@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Creació de Dante era el libro,\nEra su _Infierno_.[2]\nCuando á él bajamos los ojos,\nYo dije trémulo:\n--¿Comprendes ya que un poema\nCabe en un verso?[3]\nY ella respondió encendida:\n--¡Ya lo comprendo!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

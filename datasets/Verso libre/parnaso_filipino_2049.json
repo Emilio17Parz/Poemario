@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No le pareces sultana\nde belleza caprichosa:\nle pareces, más hermosa,\nantigua virgen cristiana...\nSoberana,\nal ver doblar tu cabeza\nsobre tu brazo a la noche,\nflor eres que cierra el broche\npara ocultar su belleza.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

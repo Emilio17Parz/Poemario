@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Juventud de mi patria, los laureles\nSe conquistan peleando con bravura,\nY la lira, la pluma ó los cinceles\nNo eternizan jamás progenie impura:\nLos genios á los fuertes divinizan\nY á los cobardes con su planta pisan.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

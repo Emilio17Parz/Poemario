@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando a media noche sus notas arranque\nY en arpegios áureos gima Filomela,\nY el ebúrneo cisne, sobre el quieto estanque,\nComo blanca góndola imprima su estela,",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

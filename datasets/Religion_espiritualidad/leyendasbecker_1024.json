@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La noche había cerrado sombría y amenazadora; el cielo estaba cubierto\nde nubes de color de plomo; el aire, que zumbaba encarcelado en las\nestrechas y retorcidas calles, agitaba la moribunda luz del farolillo\nde los retablos, ó hacia girar con un chirrido agudo las veletas de\nhierro de las torres.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

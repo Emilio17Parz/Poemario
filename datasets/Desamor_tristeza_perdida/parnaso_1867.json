@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Con eso el falso se atreve.\nVe, señora, al aposento,\nQue en esta pena crecida\nO yo perderé la vida,\nO tu tendrás tu contento.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

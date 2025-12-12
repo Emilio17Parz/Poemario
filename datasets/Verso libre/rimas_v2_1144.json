@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya del carro de la vida\nLos corceles fatigados\nCaen al suelo postrados\nCon anheloso estertor;\nY ya el genio de la muerte\nGira en torno á mi cabeza,\nCual ave que de su presa\nVa volando en derredor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

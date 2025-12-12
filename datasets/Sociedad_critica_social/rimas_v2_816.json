@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Gloria y honor y laureles\nAl que muere batallando,\nY que sus ojos cerrando\nAun exclama: _Libertad!_\nGloria eterna á los que alzaron\nLa bandera de esperanza,\nY elevaron en su lanza\nLos dogmas de la Igualdad.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

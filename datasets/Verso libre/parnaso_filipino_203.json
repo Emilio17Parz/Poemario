@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Brotan frutos del suelo que el germen vuestro encierra;\nlas almas aprendieron a amar en vuestro honor...\n¡Gloria al que abrió los surcos para labrar su tierra!\n¡Gloria al que abrió las almas para enseñar su amor!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y si del cielo el estrellado manto\nLigera nube empaña su esplendor,\nLa faz hermosa de los astros luce\nSi un viento leve limpia ese vapor.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

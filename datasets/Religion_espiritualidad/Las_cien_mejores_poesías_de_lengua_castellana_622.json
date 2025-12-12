@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Todo elevaba mi ánimo intranquilo\na más sereno asilo:\nreligión, arte, soledad, misterio...\ntodo en el templo secular hacía\nvibrar el alma mía,\ncomo vibran las cuerdas de un salterio.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

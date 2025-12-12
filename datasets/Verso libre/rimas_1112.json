@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "He aquí hoy por hoy todo lo que ambiciono. Ser un comparsa en la\ninmensa comedia de la humanidad; y concluído mi papel de hacer bulto,\nmeterme entre bastidores sin que me silben ni me aplaudan, sin que\nnadie se dé cuenta siquiera de mi salida.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

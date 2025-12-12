@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«Predicad que á los pies de mi caballo\n«He borrado los códigos que en Mayo\n«Una turba de locos escribió,\n«Y he formado en la palma de mi mano\n«Un famoso sistema americano\n«Para reinar sobre las leyes, yo!»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

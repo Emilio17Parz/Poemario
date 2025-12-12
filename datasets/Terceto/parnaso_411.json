@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Entre ellos abrazó á DON JUAN DE ARGUIJO,\nQue no sé en qué, ó como, ó quando hizo\nTan aspero viage y tan prolijo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "147\nEntre cuatro bayonetas\nme tendieron en el suelo;\nvino el mayor medio en pedo\ny allí se puso a gritar:\n¡pícaro, te he de enseñar\nandar reclamando sueldos!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Turbado estoy, de miedo estoy temblando,\nO qué señales en el ayre veo!\nQué amargo fin nos van pronosticando!\nNo ves un esquadron airado y feo\nDe unas aguilas fieras, que pelean\nCon otras aves en marcial rodeo?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

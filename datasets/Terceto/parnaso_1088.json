@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Este, que sus haberes nunca esconde,\nPues siempre los reparte, ó los derrama,\nYa sepa adonde, ó ya no sepa adonde:",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

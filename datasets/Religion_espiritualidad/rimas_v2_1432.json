@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Si fuese Dios, te diera los espacios,\nY las nubes de grana y de topacios,\nEsos astros que pueblan los confines,\nY el coro de celestes serafines,\nEl mar, la luz, del cielo el embeleso,\nTan solo por un beso!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

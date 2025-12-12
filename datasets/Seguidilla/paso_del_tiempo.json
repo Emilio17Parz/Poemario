@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "paso del tiempo",
   "poema": {
     "texto": "Pasa el tiempo\\nsin hacer ruido\\nborra las huellas\\nsobre la arena",

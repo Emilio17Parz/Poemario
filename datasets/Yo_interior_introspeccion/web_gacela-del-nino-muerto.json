@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Todas las tardes en Granada,\ntodas las tardes se muere un niño.\nTodas las tardes el agua se sienta\na conversar con sus amigos.\nLos muertos llevan alas de musgo.\nEl viento nublado y el viento limpio\nson dos faisanes que vuelan por las torres\ny el día es un muchacho herido.\nNo quedaba en el aire ni una brizna de alondra\ncuando yo te encontré por las grutas del vino.\nNo quedaba en la tierra ni una miga de nube\ncuando te ahogabas por el río.\nUn gigante de agua cayó sobre los montes\ny el valle fue rodando con perros y con lirios.\nTu cuerpo, con la sombra violeta de mis manos,\nera, muerto en la orilla, un arcángel de frío.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

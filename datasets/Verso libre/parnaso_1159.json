@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Item, se ordena que todo poeta de qualquier calidad y condicion que\nsea, sea tenido y le tengan por hijodalgo en razon del generoso\nexercicio en que se ocupa, como son tenidos por cristianos viejos los\nniños que llaman de la piedra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

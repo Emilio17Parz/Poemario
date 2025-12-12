@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pero transcurrió el tiempo que había de permanecer en la ciudad. Un\ndía, pesaroso y cabizbajo, guardé todos mis papeles en la cartera; me\ndespedí del mundo de las quimeras, y tomé un asiento en el coche para\nMadrid.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

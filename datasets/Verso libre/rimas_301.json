@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Habían pasado algunos años. Manrique, sentado en un sitial junto á la\nalta chimenea gótica de su castillo, inmóvil casi y con una mirada\nvaga é inquieta como la de un idiota, apenas prestaba atención ni á\nlas caricias de su madre, ni á los consuelos de sus servidores.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

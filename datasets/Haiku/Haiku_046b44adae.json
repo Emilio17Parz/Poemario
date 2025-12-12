@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Agua que fluye\nEl pez salta en su cauce\nSigue su rumbo",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Río"
+  }
+}

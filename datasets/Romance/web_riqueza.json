@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Tengo la dicha fiel\ny la dicha perdida:\nla una como rosa,\nla otra como espina.\nDe lo que me robaron\nno fui desposeída;\ntengo la dicha fiel\ny la dicha perdida,\ny estoy rica de púrpura\ny de melancolía.\n¡Ay, qué amante es la rosa\ny qué amada la espina!\nComo el doble contorno\nde dos frutas mellizas\ntengo la dicha fiel\ny la dicha perdida.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Señor: Pues ésta era una gentil chiquilla\nHija de un primitivo y autóctono rajhá,\nMás bella que la estrella que sobre el viento brilla,\nMás dulce que este cuento que a tí brindado vá.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Están todos los que son y son todos los que están? Creemos\nsinceramente que sí. De los \"inolvidables\" no debe de faltar ninguno.\nSi se advierte llenura en la selección, entiéndase que el editor tiene\nsus exigencias y que este volumen ha de contar predeterminado número\nde páginas. Por añadidura, tratándose de exhumar una literatura\ninédita para muchedumbre de españoles, pide la discreción entregar al\nlector los mayores elementos de juicio en cantidad y calidad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Asi sucede en la colmena rota\nCuando el invierno asolador agota\nLa balsámica miel:\nSiempre queda el perfume, y mas nutrida\nLlega á encontrarla estacion florida\nRica con los productos del vergel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "¡Oh! ¡bien haya el brasero\nlleno de pedrería!\nTopacios y carbunclos,\nrubíes y amatistas\nen la ancha copa etrusca\nrepleta de ceniza.\nLos lechos abrigados,\nlas almohadas mullidas,\nlas pieles de Astrakán, los besos cálidos\nque dan las bocas húmedas y tibias.\n¡Oh, viejo Invierno, salve!\npuesto que traes con las nieves frígidas\nel amor embriagante\ny el vino del placer en tu mochila.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ia')"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "¡Pobre poeta! Ni un hermano tierno\nLlegó tu mano cándida á estrechar,\nMientras que en tu volcánica cabeza\nGerminaba la idea fraternal,\nQue debian los hombres agruparse\nEn torno de un pendon universal,\nY ayudándose todos como hermanos\nConquistar la anhelada libertad.\nHoy sobre el yerto polvo que te cubre\nNadie su llanto viene á derramar,\nPorque proscripto por feroz tirano\nMoriste lejos del pais natal...\nY al estrangero muerto en el destierro\nNadie llega su ofrenda á tributar.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

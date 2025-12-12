@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Lucho, aunque el fardo del pesar me abrume,\ny bajo a la palestra sin recelos...\n¡Triunfaré al fin! No soy cual ave implume\nincapaz de elevarse hasta los cielos...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

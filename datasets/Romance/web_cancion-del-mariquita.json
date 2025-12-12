@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "El mariquita se peina\nen su peinador de seda.\nLos vecinos se sonríen\nen sus ventanas postreras.\nEl mariquita organiza\nlos bucles de su cabeza.\nPor los patios gritan loros,\nsurtidores y planetas.\nEl mariquita se adorna\ncon un jazmín sinvergüenza.\nLa tarde se pone extraña\nde peines y enredaderas.\nEl escándalo temblaba\nrayado como una cebra.\n¡Los mariquitas del Sur,\ncantan en las azoteas!",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

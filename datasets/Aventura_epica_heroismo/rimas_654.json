@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ya los moros, cerrando sus escuadrones, apoyaban en tierra el cuento\nde sus largas picas para recibirme en ellas; una nube de saetas\nsilbaba en mis oídos; el caballo estaba á algunos pies de distancia\ndel muro de hierro en que íbamos á estrellarnos, cuando... créeme, no\nfué una ilusión, vi una mano que agarrándole de la brida lo detuvo\ncon una fuerza sobrenatural, y volviéndole en dirección á las filas\nde mis soldados, me salvó milagrosamente.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

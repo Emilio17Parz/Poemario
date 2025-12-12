@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Reina en tu mundo, despreciaste el mío,\ny cuanto te ofrecí resultó en vano.\n¡Poseedora del cetro cortesano,\nun hogar de virtud te causa frío!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

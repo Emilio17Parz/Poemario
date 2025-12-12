@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Ay, petenera gitana!\n¡Yayay petenera!\nTu entierro no tuvo niñas\nbuenas.\nNiñas que le dan a Cristo muerto\nsus guedejas,\ny llevan blancas mantillas\nen las ferias.\nTu entierro fue de gente\nsiniestra.\nGente con el corazón\nen la cabeza,\nque te siguió llorando\npor las callejas.\n¡Ay, petenera gitana!\n¡Yayay petenera!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cristo"
+  }
+}

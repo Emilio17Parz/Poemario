@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Blanca sois, señora mía,\nmás que no el rayo del sol:\n¿si la dormiré esta noche\ndesarmado y sin pavor?\nque siete años había, siete,\nque no me desarmo, no.\nMás negras tengo mis carnes\nque un tiznado carbón.\n--Dormilda, señor, dormilda,\ndesarmado sin temor,\nque el conde es ido a la caza\na los montes de León.\n--Rabia le mate los perros,\ny águilas el su halcón,\ny del monte hasta casa\na él arrastre el morón.--\nEllos en aquesto estando\nsu marido que llegó:\n--¿Qué hacéis, la Blanca-niña,\nhija de padre traidor?\n--Señor, peino mis cabellos,\npéinolos con gran dolor,\nque me dejéis a mi sola\ny a los montes os vais vos.\n--Esa palabra, la niña,\nno era sino traición:\n¿cúyo es aquel caballo\nque allá bajo relinchó?\n--Señor, era de mi padre,\ny envióoslo para vos.\n--¿Cúyas son aquellas armas\nque están en el corredor?\n--Señor, eran de mi hermano,\ny hoy os las envió.\n--¿Cúya es aquella lanza,\ndesde aquí la veo yo?\n--Tomalda, conde, tomalda,\nmatadme con ella vos,\nque aquesta muerte, buen conde\nbien os la merezco yo.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

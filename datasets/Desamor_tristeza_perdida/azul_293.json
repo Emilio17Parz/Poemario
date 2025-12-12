@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Y desde entonces, en las boardillas de los brillantes infelices, donde\nflota el sueño azul, se piensa en el porvenir como en la aurora, y se\noyen risas que quitan la tristeza, y se bailan extrañas farándulas\nalrededor de un blanco Apolo, de un lindo paisaje, de un violín viejo,\nde un amarillento manuscrito.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

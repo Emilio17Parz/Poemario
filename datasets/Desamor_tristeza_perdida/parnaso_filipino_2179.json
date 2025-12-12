@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Ah! ¡Que apague la Discordia de su tea fratricida\nlos impúdicos fulgores, el maldito resplandor!\n¡Que la Muerte no separe lo que júntase en la Vida!\n¡Que los hombres no desunan lo que uniera el Creador!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

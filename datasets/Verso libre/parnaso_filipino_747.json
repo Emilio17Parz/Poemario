@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Va el corcel de mis versos! Y azotando sus ancas\ncon la tralla flamígera de mi audaz fantasía,\nllego, al fin, a unas tierras ideales y blancas;\nllego, y beso entre auroras a la musa del día...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

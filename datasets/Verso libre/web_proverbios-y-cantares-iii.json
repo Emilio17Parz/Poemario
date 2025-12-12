@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A quien nos justifica nuestra desconfianza\nllamamos enemigo, ladrón de una esperanza.\nJamás perdona el necio si ve la nuez vacía\nque dio a cascar al diente de la sabiduría.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

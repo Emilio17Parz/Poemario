@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Te diré donde está: bajo una losa\nSu blando cuerpo trémulo reposa,\nTibio aun con tu calor.\n¡Blanca flor que cayó de tu guirnalda\nY que al bajar á la maternal falda\nLlevó marchita el viento del dolor!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

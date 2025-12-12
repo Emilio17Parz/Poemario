@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Desde la débil iluminación amarilla de mi cuarto de convaleciente,\nblando de alfombras y tapices, oigo pasar por la calle nocturna, como en\nun sueño con relente de estrellas, ligeros burros que retornan del\ncampo, niños que juegan y gritan.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

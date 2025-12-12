@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Se vió agitar del mártir la cabeza,\nY su ojo frio se volvió á encender,\nY desatado el labio á la palabra,\nClamó: «Sois hijos de ochocientos diez!»",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

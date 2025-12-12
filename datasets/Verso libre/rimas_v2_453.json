@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No necesitan urnas\nNi estátuas levantadas,\nPorque las horas diurnas\nDe estrellas coronadas\nGuardan el monumento,\nQue cubre el firmamento\nDel hemisferio austral.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

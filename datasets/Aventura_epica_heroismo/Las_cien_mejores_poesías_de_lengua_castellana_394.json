@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Una mujer! Deslízase en el cielo\nAllá en la noche desprendida estrella.\nSi aroma el aire recogió en el suelo,\nEs el aroma que le presta ella.\nBlanca es la nube que en callado vuelo\nCruza la esfera, y que su planta huella.\nY en la tarde la mar olas le ofrece\nDe plata y de zafir, donde se mece.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

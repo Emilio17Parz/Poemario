@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "poner, to put, place, take on, assume; -- atención, to pay attention;\n-- en alarma, to alarm; -- encuidado, to cause apprehension (_or_\ncare); -- fuego, to set fire (to); -- por obra, to carry out, execute;\n-- en planta, to put on foot; to arrange (_or_ execute); -- por\ntestigos, to call upon to witness; _refl._, to be, become; (of the\nsun) to set; estar al -se, to be about to set; -se de bote en bote, to\nget cram full; -- Be de pie, to stand (_or_ get) up; -se de punta, to\nstand on end.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Salta Diana, ágil y elegante, delante\ndel burro, sonando su leve campanilla,\ny hace como que le muerde\nlos hocicos. Y Platero, poniendo las\norejas en punta, cual dos cuernos de\npita, la embiste blandamente y la hace\nrodar sobre la hierba en flor.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "hierba"
+  }
+}

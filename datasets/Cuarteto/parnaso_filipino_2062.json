@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Qué importa que a su paso rasgue el pecho\nde la que fué su generosa madre!\nDecís que es un mal hijo... ¿a qué ser bueno,\ncuando es tan fácil el hacerse grande?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

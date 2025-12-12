@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "DE endurecer la tierra\nse encargaron las piedras:\npronto\ntuvieron alas:\nlas piedras\nque volaron:\nlas que sobrevivieron\nsubieron\nel relámpago,\ndieron un grito en la noche,\nun signo de agua,\nuna espada violeta,\nun meteoro.\nEl cielo\nsuculento\nno sólo tuvo nubes,\nno sólo espacio con olor a oxigeno,\nsino una piedra terrestre\naquí y allá, brillando,\nconvertida en paloma,\nconvertida en campana,\nen magnitud, en viento\npenetrante:\nen fosfórica flecha, en sal del cielo.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

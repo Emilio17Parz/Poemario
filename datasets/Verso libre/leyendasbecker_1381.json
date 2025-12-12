@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En vano procuré observarlas á través de un pequeño agujero producido\nen el muro; arrojadas sobre un poco de paja y en uno de los más\nobscuros rincones, permanecian un día y otro descompuestas é\ninmóviles.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Dodecasyllable Verse_: A verse of twelve syllables, with\nthe stress on the second, fifth, eighth, and eleventh syllables,\nmakes a dodecasyllable of amphibrachs. This dodecasyllable\nhas a short metrical pause after the sixth syllable, and a longer\none after the twelfth.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

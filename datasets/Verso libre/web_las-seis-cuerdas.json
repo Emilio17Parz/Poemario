@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La guitarra,\nhace llorar a los sueños.\nEl sollozo de las almas\nperdidas,\nse escapa por su boca\nredonda.\nY como la tarántula\nteje una gran estrella\npara cazar suspiros,\nque flotan en su negro\naljibe de madera.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

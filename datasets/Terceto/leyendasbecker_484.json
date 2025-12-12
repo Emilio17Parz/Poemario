@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "The _Lira_ is a strophe of five verses, of which the first, third, and\nfourth are heptasyllables, and the second and fifth are\nhendecasyllables. The rhyme-scheme is a b a b b.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

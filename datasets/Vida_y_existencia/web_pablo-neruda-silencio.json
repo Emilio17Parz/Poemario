@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Yo que crecí dentro de un árbol\ntendría mucho que decir,\npero aprendí tanto silencio\nque tengo mucho que callar\ny eso se conoce creciendo\nsin otro goce que crecer,\nsin más pasión que la substancia,\nsin más acción que la inocencia,\ny por dentro el tiempo dorado\nhasta que la altura lo llama\npara convertirlo en naranja.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

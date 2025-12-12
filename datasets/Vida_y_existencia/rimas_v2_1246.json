@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tal vez el mundo te brinde\nLa copa de los amores,\nY en ella en vez de dulzores\nBebas amargo dolor;\nTal vez serias dichosa,\nMas mi cariño te dice\nQue hoy cual nunca eres felice...\nDuerme tranquila, Leonor.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

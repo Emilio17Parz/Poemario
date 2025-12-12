@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "220\nY dicen que dende entonces,\ncuando es la noche serena\nsuele verse una luz mala\ncomo de alma que anda en pena.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Las versalitas (letras mayúsculas de tamaño igual a las minúsculas)\nhan sido sustituidas por letras mayúsculas de tamaño normal.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

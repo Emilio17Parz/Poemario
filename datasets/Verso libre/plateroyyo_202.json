@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando, al mediodía, voy á ver á Platero, un transparente rayo del sol\nde las doce enciende un gran lunar de oro en la plata blanda de su lomo.\nBajo su barriga, por el obscuro suelo, vagamente verde, el techo viejo\nllueve claras monedas de fuego.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

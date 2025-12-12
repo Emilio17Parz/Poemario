@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Este lleva\nuna carga\nDe dolores y angustias antiguas,\nAngustias de pueblos, dolores de razas;\n¡Dolores y angustias que sufren los Cristos\nQue vienen al mundo de víctimas trágicas!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

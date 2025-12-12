@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Verterás la dulce euritmia del verso\nen prestigio de los lares nativos,\ncual aroma de grandeza, en el terso\ny aureo yelmo de patriotas altivos...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y en su alma suprasensible, de romántica señora,\ncomo en un cofre de encanto ella guarda y atesora,\nla pasión de aquella \"Elvira\", de los versos de Espronceda...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

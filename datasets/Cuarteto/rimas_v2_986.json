@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Descendió como un mártir á la arena\nAtleta de la Paz y la Igualdad:\nDestrozando del hombre la cadena\nDió consuelo á la triste humanidad.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Cuando las huestes de Rosas\nPisaron de Oriente el suelo,\nAl toque de la corneta\nSeis mil bravos acudieron:\nA su cabeza se vió\nAl héroe antiguo de Haedo,\nAcaudillando los bravos\nQue de la patria en el seno\nHeróicos se levantaron\nEn sosten de sus derechos.\nTodo Oriental que abrigaba\nDe la libertad el fuego,\nBajo el pendon de la gloria\nIba á desnudar su acero,\nLleno de noble energía,\nY de patriotismo lleno.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'eo')"
+  }
+}

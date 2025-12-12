@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: This poem is composed of alternating octosyllabic and\npentasyllabic verses, the latter having the same assonance\nthroughout. Notice that the 5th verse from the end is _a verso\nesdrújulo_.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

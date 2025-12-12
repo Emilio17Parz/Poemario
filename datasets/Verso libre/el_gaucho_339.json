@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "306\nPero, amigo, el comendante\nque mandaba la milicia,\ncomo que no desperdicia\nse fue refalando a casa;\nyo le conocí en la traza\nque el hombre traiba malicia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

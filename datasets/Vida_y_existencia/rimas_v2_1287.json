@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Aquí toda tu vida está en compendio\nDonde dice con cifra misteriosa:\nBella argentina, madre cariñosa,\nEsposa tierna... ¿qué mas quieres, dí?\nYo te juro que todo cuanto he dicho\nDiciendo está tu libro en su pureza,\nY en su nivea blancura hay mas belleza\nQue la que el númen puede darte á tí.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

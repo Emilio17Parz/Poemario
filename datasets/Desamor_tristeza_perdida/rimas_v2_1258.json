@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tú dejaste el mundo, virgen pura,\nPorque al probar del mundo la amargura\nLloró tu corazon,\nY en su llanto se ahogó, como esas flores\nQue al derramar suavísimos olores\nSe ahogan con su propia emanacion.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

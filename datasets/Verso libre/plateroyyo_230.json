@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Frente á sus ojos cansados, mis ojos se me cansan otra vez... Torna la\nbrisa, cual una mariposa que quisiera volar y á la que, de pronto, se le\ndoblaran las alas... las alas... mis párpados flojos, que, de pronto, se\ncerraran...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

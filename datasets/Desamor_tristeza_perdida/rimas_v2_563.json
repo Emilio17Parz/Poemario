@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "«Dónde están mis camaradas\n«Del Cerrito y Ayacucho,\n«Que mordian el cartucho\n«Con indomable valor?\n«Dónde están? tal vez ahora\n«Duermen en la tumba helada,\n«Ó piden con voz quebrada\n«_Una limosna por Dios!_",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

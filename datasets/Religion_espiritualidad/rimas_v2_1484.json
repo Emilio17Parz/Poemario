@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Las torres de la iglesia de Santo Domingo, donde se refugió la columna\ndel coronel Pack que fué hecha prisionera en la segunda invasion de los\ningleses, y que conserva todavia las cicatrices de las balas de cañon\ndisparadas desde la fortaleza.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

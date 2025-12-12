@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Quiéres sentir su espíritu invisible?\nEn el hogar doméstico apacible,\nNido de la quietud,\nSentirás un perfume penetrante,\nEse es de tu hijo el corazon amante\nImpregnado en tu amor y tu virtud.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

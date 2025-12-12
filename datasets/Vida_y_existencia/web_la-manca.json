@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que mi dedito lo cogió una almeja,\ny que la almeja se cayó en la arena,\ny que la arena se la tragó el mar.\nY que del mar la pescó un ballenero\ny el ballenero llegó a Gibraltar;\ny que en Gibraltar cantan pescadores:\n«Novedad de tierra sacamos del mar,\nnovedad de un dedito de niña:\n¡la que esté manca lo venga a buscar!»\nQue me den un barco para ir a traerlo,\ny para el barco me den capitán,\npara el capitán que me den soldada,\ny que por soldada pide la ciudad:\nMarsella con torres y plazas y barcos,\nde todo el mundo la mejor ciudad,\nque no será hermosa con una niñita\na la que le robó su dedito el mar,\ny los balleneros en pregones cantan\ny están esperando sobre Gibraltar...",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

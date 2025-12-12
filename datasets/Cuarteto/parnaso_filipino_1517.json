@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y le envidian al triste viajero\ncuando cruza la tierra veloz...\n¡Ay! ¡no saben que dentro del alma\nexiste un vacío do falta el amor!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

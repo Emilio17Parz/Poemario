@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si fuese viajero deseara una palma\nQue sombra tranquila me diese á su pié,\nComo esa que el velo, con plácida calma,\nDerrama en la frente que el ojo entrevé.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

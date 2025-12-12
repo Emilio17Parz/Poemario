@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Como hay una que llaman _flor del aire_,\nHay otra que se llama _flor del alma_,\nQue á veces brota en apacible calma,\nO al soplo de la recia tempestad:\nNacida en horas quietas y serenas\nHoy te ofresco una flor del alma mia,\nBañada en el raudal de simpatía\nQue la vieja amistad hace brotar.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

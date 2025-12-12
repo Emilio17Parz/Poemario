@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La que libre, feliz y soberana\nBebia la virtud republicana\nEn el soplo viril del huracan;\nLa que en alas del rápido pampero\nParecía decir al mundo entero:\n«Adonde vá mi viento el brazo vá.»",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

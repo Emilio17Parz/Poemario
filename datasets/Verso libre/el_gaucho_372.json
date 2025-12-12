@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "339\nAl punto salió de adentro\nun gringo con un jusil;\npero nunca he sido vil,\npoco el peligro me espanta;\nyo me refalé la manta\ny la eché sobre el candil.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

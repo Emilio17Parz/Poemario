@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Esto diciendo le entregó la botija, no sin haberle puesto antes en\nel dedo de la misma mano con que la tomara un anillo de oro, con una\npiedra hermosa sobre toda ponderación.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

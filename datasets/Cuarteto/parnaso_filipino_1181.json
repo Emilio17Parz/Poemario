@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No quiero que padezcan esas flores,\ncomo padece, lejos de tí, mi alma,\nno quiero que al contacto de mis manos\nperezcan marchitadas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

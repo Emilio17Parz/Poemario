@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Lanzado a una peña de la patria que adoro,\nel porvenir destruído, sin hogar, sin salud,\nvenís a mí de nuevo, sueños de rosa y oro,\nde toda mi existencia el único tesoro,\ncreencias de una sana, sincera juventud.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

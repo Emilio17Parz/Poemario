@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "AMÉRICA, no invoco tu nombre en vano.\nCuando sujeto al corazón la espada,\ncuando aguanto en el alma la gotera,\ncuando por las ventanas\nun nuevo día tuyo me penetra,\nsoy y estoy en la luz que me produce,\nvivo en la sombra que me determina,\nduermo y despierto en tu esencial aurora:\ndulce como las uvas, y terrible,\nconductor del azúcar y el castigo,\nempapado en esperma de tu especie,\namamantado en sangre de tu herencia.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

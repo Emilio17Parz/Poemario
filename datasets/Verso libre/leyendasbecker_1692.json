@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cendal flotante de leve bruma,\nRizada cinta de blanca espuma,\nRumor sonoro\nDe arpa de oro,\nBeso del aura, onda de luz,\nÉso eres tú.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

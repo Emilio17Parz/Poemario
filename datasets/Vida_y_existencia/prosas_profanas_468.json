@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "ALBERTO, en el propíleo del tiempo soberano\nDonde Renan rezaba, Verlaine cantado hubiera.\nPrimavera una rosa de amor tiene en la mano\nY cerca de la joven y dulce Primavera",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

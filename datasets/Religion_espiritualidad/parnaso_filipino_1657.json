@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿El hombre es un conjunto de espíritu y materia?\n¡Combinación que pasma! ¡Dualismo que contrasta!\nPara explicar la vida con toda su miseria,\nel espíritu sobra, pues la materia basta.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

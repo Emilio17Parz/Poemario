@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Fueron jóvenes los viejos\npero la vida se ha ido\ndesgranando en el espejo\ny serán viejos los jóvenes\npero no lo divulguemos\nque hasta las paredes oyen.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

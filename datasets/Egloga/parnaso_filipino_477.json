@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Cada caña es una flauta que solloza inconsolable\nSi Céfiro agita blando sus penachos de esmeralda,\nY en el tedio de las siestas, si cruzamos los senderos,\nNos convidan a la sombra de sus plañideras ramas.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "flauta"
+  }
+}

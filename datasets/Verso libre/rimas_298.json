@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Corre, corre en su busca, llega al sitio en que la ha visto\ndesaparecer; pero al llegar se detiene, fija los espantados ojos\nen el suelo, permanece un rato inmóvil; un ligero temblor nervioso\nagita sus miembros, un temblor que va creciendo, que va creciendo, y\nofrece los síntomas de una verdadera convulsión, y prorrumpe al fin\nen una carcajada, en una carcajada sonora, estridente, horrible.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

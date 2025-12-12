@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sueña la luz crepuscular del cielo\nen la difusa paz de sus salones,\ny es su mano en los rojos almohadones\nuna magnolia astral de terciopelo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

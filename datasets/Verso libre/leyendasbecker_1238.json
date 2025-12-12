@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Bellver es una pequeña población situada á la falda de una colina, por\ndetrás de la cual se ven elevarse, como las gradas de un colosal\nanfiteatro de granito, las empinadas y nebulosas crestas de los\nPirineos.[1]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

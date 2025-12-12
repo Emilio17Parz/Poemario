@@ -1,8 +1,9 @@
 {
-    "subcategoria": "Animales",
-    "poema": {
-        "texto": "Pasos callados,\nojos como luceros,\nrey de la casa.",
-        "tipo": "Haiku",
-        "palabra_clave_ingresada": "Gato"
-    }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Animales",
+  "poema": {
+    "texto": "Pasos callados,\nojos como luceros,\nrey de la casa.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Gato"
+  }
 }

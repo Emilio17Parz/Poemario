@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Adios, mujer nacida para inspirar amores,\nNacida como nacen en el jardin las flores,\nPara esparcir en torno su misterioso olor;\n¡Adios! palabra amarga que sale de mi seno,\nY que mis labios quema como letal veneno,\nCuando en mis ojos brilla la gota del dolor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

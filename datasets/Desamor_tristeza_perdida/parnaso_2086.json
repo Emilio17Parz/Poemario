@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Esme ya tan natural,\nSeñor, el llanto y tormento,\nQue si me dexa un momento,\nLo tengo por mayor mal;\nAunque sí estoi y estaré\nAlegre al obedeceros,\nPues distes tantos dineros\nPor mí, sin saber por que.\nPorque os prometo, señor,\nQue de miseria y pobreza\nTengo quanto de riqueza,\nSi la riqueza es dolor.\nY de dolor soi tan rica,\nQuanto por darme pasion\nEste caudal, la ocasion\nPor puntos le multiplica.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Olas gigantes que os rompéis bramando\nEn las playas desiertas y remotas,\nEnvuelto entre la sábana de espumas,\n¡Llevadme con vosotras!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

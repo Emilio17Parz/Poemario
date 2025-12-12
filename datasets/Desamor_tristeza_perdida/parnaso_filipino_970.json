@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Así podría abrir camino a cintarazos\nal paso de su potro que corre como el viento\nmientras, acongojada, desmáyase en sus brazos\nuna dama arrancada al dolor de un convento.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

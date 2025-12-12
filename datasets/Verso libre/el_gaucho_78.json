@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "52\nCantando estaba una vez\nen una gran diversión,\ny aprovecho la ocasión\ncomo quiso el juez de paz...\nse presentó, y ahi nomás\nhizo arriada en montón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

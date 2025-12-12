@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "75\nRecién entonces salía\nla orden de hacer la riunión,\ny caíbamos al cantón\nen pelos y hasta enancaos,\nsin armas, cuatro pelaos\nque íbamos a hacer jabón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

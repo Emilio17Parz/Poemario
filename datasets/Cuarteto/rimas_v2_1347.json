@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ya se borra el paisage entre las nieblas:\nCallada está la atmósfera tranquila:\nEl insecto murmura en las tinieblas,\nY se oye el éco de lejana esquila.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El asta y los brazos son de hierro; la redonda base en que se apoya,\nde mármol, y la escalinata que á ella conduce, de obscuros y mal\nunidos fragmentos de sillería.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

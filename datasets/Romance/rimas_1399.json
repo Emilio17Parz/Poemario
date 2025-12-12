@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Es tu mejilla temprana\nRosa de escarcha cubierta,\nEn que el carmín de los pétalos\nSe ve al través de las perlas.\nY sin embargo,\nSé que te quejas,\nPorque tus ojos\nCrees que la afean:\nPues no lo creas;\nQue parecen tus pupilas,\nHúmedas, verdes é inquietas,\nTempranas hojas de almendro,\nQue al soplo del aire tiemblan.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ea')"
+  }
+}

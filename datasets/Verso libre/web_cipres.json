@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ciprés.\n(Agua estancada.)\nChopo\n(Agua cristalina.)\nMimbre.\n(Agua profunda.)\nCorazón.\n(Agua de pupila.)",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "acabar, to finish, end, close, succeed in; -- de, to have just; lo que\nacababa de suceder, what had just happened; lo que acabamos de\nescuchar, what we have just listened to; ¡Acabáramos de una vez! well\nand good! quien (en) mal anda, (en) mal acaba, a bad beginning makes a\nbad ending.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

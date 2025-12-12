@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¿Fué acaso en el tiempo del rey Luis de Francia,\nSol con corte de astros, en campos de azur,\nCuando los alcázares llenó de fragancia\nLa regia y pomposa rosa Pompadour?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

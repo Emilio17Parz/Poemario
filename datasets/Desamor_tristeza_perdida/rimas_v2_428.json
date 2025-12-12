@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La tumba del valiente\nNo pide débil llanto,\nSino del vate ardiente\nEl estridente canto,\nQue imite en su armonía,\nVibrante vocería\nDel campo del honor.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

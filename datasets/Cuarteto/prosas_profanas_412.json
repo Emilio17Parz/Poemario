@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Vibras al aire alegre como una cinta,\nEl músico te adula, te ama el poeta;\nRueda en ti sus fogosos paisajes pinta\nCon la audaz policromia de su paleta.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

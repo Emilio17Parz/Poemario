@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Hércules loco que a los pies de Onfalia\nla clava deja y el luchar rehúsa,\nhéroe que calza femenil sandalia,\nvate que olvida la vibrante musa.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

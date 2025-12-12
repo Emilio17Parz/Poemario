@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Ciudad digital en desorden",
+  "poema": {
+    "texto": "En la ciudad digital, un laberinto de luz,\nCiudades que se desmoronan bajo mi paso.\nUn río de datos, corriente roja y fiera,\nNo hay tiempo para mirar atrás, solo hacia adelante.\n\nEl cielo se vuelve un pantallón de luces,\nMi alma se pierde entre sus reflejos.\nUn murmullo sin final de información,\nEn una búsqueda infinita y en vano.\n\nAquel sonido triste de la soledad,\nEs como un hilo que se deshace.\nYo me lamento por mi corazón perdido,\nEn esta ciudad digital de desorden.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Ciudad"
+  }
+}

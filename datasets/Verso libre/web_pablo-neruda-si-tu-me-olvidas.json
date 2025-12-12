@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "QUIERO que sepas\nuna cosa.\nTú sabes cómo es esto:\nsi miro\nla luna de cristal, la rama roja\ndel lento otoño en mi ventana,\nsi toco\njunto al fuego\nla impalpable ceniza\no el arrugado cuerpo de la leña,\ntodo me lleva a ti,\ncomo si todo lo que existe,\naromas, luz, metales,\nfueran pequeños barcos que navegan\nhacia las islas tuyas que me aguardan.\nAhora bien,\nsi poco a poco dejas de quererme\ndejaré de quererte poco a poco.\nSi de pronto\nme olvidas\nno me busques,\nque ya te habré olvidado.\nSi consideras largo y loco\nel viento de banderas\nque pasa por mi vida\ny te decides\na dejarme a la orilla\ndel corazón en que tengo raíces,\npiensa\nque en ese día,\na esa hora\nlevantaré los brazos\ny saldrán mis raíces\na buscar otra tierra.\nPero\nsi cada día,\ncada hora\nsientes que a mí estás destinada\ncon dulzura implacable.\nSi cada día sube\nuna flor a tus labios a buscarme,\nay amor mío, ay mía,\nen mí todo ese fuego se repite,\nen mí nada se apaga ni se olvida,\nmi amor se nutre de tu amor, amada,\ny mientras vivas estará en tus brazos\nsin salir de los míos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

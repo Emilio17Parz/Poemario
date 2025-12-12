@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Gocemos, sí; la cristalina esfera\nGira bañada en luz: ¡bella es la vida!\n¿Quién a parar alcanza la carrera\nDel mundo hermoso que al placer convida?\nBrilla radiante el sol, la primavera\nLos campos pinta en la estación florida:\nTruéquese en risa mi dolor profundo...\nQue haya un cadáver más ¿qué importa al mundo?",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

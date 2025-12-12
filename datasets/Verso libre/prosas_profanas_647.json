@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ornábase con rojos claveles detonantes\nLa redondez obscura del casco del cabello,\nY la cabeza firme sobre el bronce del cuello\nTenía la patina de las horas errantes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

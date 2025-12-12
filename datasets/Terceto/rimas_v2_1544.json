@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Todas estas notas, hasta el número 22 fueron escritas en 1844, y la\npublicacion en el mismo año, con la composicion á que le refieren en un\nlibro que lleva por título _Cantos de Mayo_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

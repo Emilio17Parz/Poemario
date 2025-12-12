@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Era de noche; una noche de verano, templada, llena de perfumes y de\nrumores apacibles, y con una luna blanca y serena, en mitad de un\ncielo azul, luminoso y transparente.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

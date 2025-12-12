@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dulcissime vanus Homems\nAl amor de la lumbre cuya llama\ncomo una cresta de la mar ondea.\nSe oye fuera la lluvia que gotea\nsobre los chopos. Previsora el ama\nsupo ordenar se me temple la cama\ncon sahumerio. En tanto la Odisea\nmontes y valles de mi pecho orea\nde sus ficciones con la rica trama\npreparándome el sueño. Del castaño\nque más de cien generaciones de hoja\ncriara y vio morir, cabe el escaño\nabrasándose el tronco con su roja\nbrasa me reconforta. ¡Dulce engaño\nla ballesta de mi inquietud afloja!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

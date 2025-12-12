@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El bueno de mosén Gil podía considerar perdido su sermón, aunque no\npredicase en desierto, pues Dorotea, aunque callada y no convencida,\nseguía mirando de mal ojo á los pobres que continuamente asediaban la\npuerta de su tío, y prefiriendo un buen jubón y unas agujetas azules\nde las que miraba suspirando en la _calle de Botigas_, cuando por\ncasualidad iba á Tarazona, á todos los adornos y galas que en un\nfuturo, más ó menos cercano, pudieran prometerle en el Paraíso en\ncambio de su presente resignación y desprendimiento.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

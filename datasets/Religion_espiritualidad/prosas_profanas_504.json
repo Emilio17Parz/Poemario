@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "CABE una fresca viña de corinto\nQue verde techo presta al simulacro\nDel Dios viril, que artífice de Atenas\nEn intacto pentélico labrara,\nUn día alegre, al deslumbrar el mundo\nLa harmonía del carro de la Aurora,\nY en tanto que arrullaban sus ternezas\nDos nevadas palomas venusinas\nSobre rosal purpúreo y pintoresco,\nComo Olímpica flor de gracia llena,\nVi el bello rostro de la rubia Eunice.\nNo más gallarda se encamina al templo\nCanéfora gentil, ni más riente\nLlega la musa a quien favor prodiga\nEl divino Sminteo, que mi amada\nAl tender hacia mí sus tersos brazos.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Phocás el campesino, hijo mío, que tienes\nen apenas escasos meses de vida, tantos\ndolores en tus ojos que esperan tantos llantos\npor el fatal pensar que revelan tus sienes...\nTarda a venir a este dolor adonde vienes,\na este mundo terrible en duelos y en espantos;\nduerme bajo los Ángeles, sueña bajo los Santos,\nque ya tendrás la Vida para que te envenenes...\nSueña, hijo mío, todavía, y cuando crezcas,\nperdóname el fatal don de darte la vida\nque yo hubiera querido de azul y rosas frescas;\npues tú eres la crisálida de mi alma entristecida,\ny te he de ver, en medio del triunfo que merezcas\nrenovando el fulgor de mi psique abolida.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

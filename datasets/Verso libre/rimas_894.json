@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La lluvia había cesado; las nubes flotaban en oscuras bandas,\npor entre cuyos girones se deslizaba á veces un furtivo rayo de\nluz pálida y dudosa; y el aire, al azotar los fuertes machones y\nextenderse por los desiertos claustros, diríase que exhalaba gemidos.\nSin embargo, nada sobrenatural, nada extraño venía á herir la\nimaginación. Al que había dormido más de una noche sin otro amparo\nque las ruinas de una torre abandonada ó un castillo solitario; al\nque había arrostrado en su larga peregrinación cien y cien tormentas,\ntodos aquellos ruidos le eran familiares.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

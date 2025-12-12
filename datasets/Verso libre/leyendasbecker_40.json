@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "So mused the poet Becquer[1] in the golden days of his youth, when his\nveins were swelling with health, when his heart was fired with\nambition, and in his ears was ringing the joyous invitation of his\nmuse.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Recabarren, hijo de Chile,\npadre de Chile, padre nuestro,\nen tu construcción, en tu línea\nfraguada en tierras y tormentos\nnace la fuerza de los días\nvenideros y vencedores.\nTú eres la patria, pampa y pueblo,\narena, arcilla, escuela, casa,\nresurrección, puño, ofensiva,\norden, desfile, ataque, trigo,\nlucha, grandeza, resistencia.\nRecabarren, bajo tu mirada\njuramos limpiar las heridas\nmutilaciones de la patria.\nJuramos que la libertad\nlevantará su flor desnuda\nsobre la arena deshonrada.\nJuramos continuar tu camino\nhasta la victoria del pueblo.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

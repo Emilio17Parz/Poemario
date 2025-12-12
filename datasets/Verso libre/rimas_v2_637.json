@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Verán á los bandidos\nSus puertas derribando,\nVioladas en su lecho\nLas prendas de su amor,\nY en medio á la algazara\nDe torpes asesinos\nLos cráneos de sus hijos\nColmados de licor!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

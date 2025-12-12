@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Ranas cantando\nLuna que se mira en aguas\nNoche de calma",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Estanque"
+  }
+}

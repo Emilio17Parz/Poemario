@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Llorad, llorad, poetas orientales,\nAl que cantó las penas del Esclavo,\nAl que en la Cruz, con versos celestiales\nCantó, pendiente del sangriento clavo;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

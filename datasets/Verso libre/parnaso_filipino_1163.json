@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh! en tí está mi esperanza; no la mates;\ndéjame acariciar mis ilusiones,\ny no me arranques ¡ay! no me arrebates\nla dicha que me anima en los combates\ny rompe de mi mal los eslabones.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

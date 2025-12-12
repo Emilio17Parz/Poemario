@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No le queda muela ni diente y casi sólo come migajón de pan, que amasa\nprimero en la mano. Hace una bola y ¡á la boca roja! Allí la tiene,\nrevolviéndola, una hora. Luego, otra bola, y otra. Masca con las\nencías, y la barba le llega á la aguileña nariz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

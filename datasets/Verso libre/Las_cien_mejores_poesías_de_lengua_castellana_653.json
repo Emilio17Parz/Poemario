@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La piqueta al hombro,\nEl sepulturero\nCantando entre dientes\nSe perdió a lo lejos.\nLa noche se entraba,\nReinaba el silencio;\nPerdido en las sombras,\nMedité un momento:\n«_¡Dios mío, qué solos_\n_Se quedan los muertos!_»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

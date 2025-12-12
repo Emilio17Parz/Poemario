@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "«Como serlo! Ya el bravo miliciano\n«Monta á caballo, y con el sable en mano\n«Se apresta á combatir!\n«Ya el pueblo entero se alza como un hombre,\n«Invocando de Patria el santo nombre\n«Con éco varonil!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

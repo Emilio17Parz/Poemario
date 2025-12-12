@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hay quien ha pretendido oscurecer la diáfana gloria de Bécquer,\nhaciendo pasar sobre ella una ligera nube; motejándolo de imitador de\nEnrique Heine. Nada más injusto ni más inexacto tampoco. Hace falta\npadecer la obsesión de los parentescos literarios, de las afinidades\ny analogías, cuando no la manía persecutoria del plagio, que suele\ntrastornar á muchos adoradores de este ó el otro ídolo, para no ver\nla esencial diferencia, la absoluta disparidad que existe entre estos\ndos espíritus, cualquiera que sea la medida de su grandeza. Fueron\nnotas características del genio de Heine el sarcasmo, la burla y la\nironía; fuéronlo del de Bécquer la resignación y la ternura. Se ha\ndicho de la musa de Heine que era un ruiseñor de Alemania que anidó\nen la peluca de Voltaire. De la de Bécquer, enamorada, creyente y\npiadosa, no podrá decirse en verdad sino que fué una golondrina, que\nsi á veces rozó la tierra con su alas, pronto voló á los espacios\nlibres y puros, y formó su nido bajo el balcón de una mujer hermosa ó\nen la ventana ojival de un templo cristiano.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

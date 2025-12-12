@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Ya están en mis manos las dos sacras hoces\nque el herrero anónimo para mí forjó:\nla de hierro duro, que es mi fortaleza,\ny la de oro fino, que es mi ensoñación.\nLa segur más grácil, para cuando quiera\ncercenar un lauro o una flor de amor,\npara el santo muérdago de la vida íntima\ny para el ensueño de mi corazón;\ny la más robusta, para las podridas\nramas que del árbol la ignominia son;\npara las raíces de la mala yerba\nque la gloria roban de la mies en flor,\ny para los cuellos del halcón y el lobo\ny el áspid traidor.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

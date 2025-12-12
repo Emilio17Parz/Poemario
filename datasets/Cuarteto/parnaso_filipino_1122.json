@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Porque hay que engañarse si el alma queremos\nque no se deshaga en girones mil,\ny siempre pensemos y siempre forjemos\nque nunca se mueren las rosas de Abril.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

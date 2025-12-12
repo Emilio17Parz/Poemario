@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Escarbemos\nla tierra inculta como unidos potros,\ny bienvenidos sean los supremos\ny francos sacrificios de los otros:\nporque en el campo inmenso de la Historia\ny en la vasta expansión de sus periodos\nhay tiempo y hay lugar para la gloria,\npara la gloria, por igual, de todos.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

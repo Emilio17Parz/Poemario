@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Como antes de la victoria\nSuele caer el guerrero,\nTú caiste, jornalero,\nSin concluir tu mision;\nY como aquel, que tranquilo\nSobre sus armas espira,\nCaiste sobre tu lira\nCon noble resignacion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

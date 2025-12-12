@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Adiós, patria adorada, región del sol querida,\nperla del mar de Oriente, nuestro perdido edén!\na darte voy alegre, la triste mustia vida:\nsi fuera más brillante, más fresca, más florida,\ntambién por tí la diera, la diera por tu bien.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

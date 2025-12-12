@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "La mañana de Santiago está nublada de blanco y gris, como guardada en\nalgodón. Todos se han ido á misa. Nos hemos quedado en el jardín los\ngorriones, Platero y yo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

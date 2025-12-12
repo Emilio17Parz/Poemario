@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Au fait, se disait-il a lui-même, il parait que\nmon destin est de mourir en rêvant.\n(Stendhal, Le Rouge et le Noir, LXX,\n«La tranquillité»)\nMorir soñando, sí, mas si se sueña\nmorir, la muerte es sueño; una ventana\nhacia el vacío; no soñar; nirvana;\ndel tiempo al fin la eternidad se adueña.\nVivir el día de hoy bajo la enseña\ndel ayer deshaciéndose en mañana;\nvivir encadenado a la desgana\n¿es acaso vivir? ¿y esto qué enseña?\n¿Soñar la muerte no es matar el sueño?\n¿Vivir el sueño no es matar la vida?\n¿A qué poner en ello tanto empeño?:\n¿aprender lo que al punto al fin se olvida\nescudriñando el implacable ceño\n-cielo desierto- del eterno Dueño?",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

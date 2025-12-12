@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En medio de la noche\nAl contemplar tu estrella,\nEn su fulgente huella\nMi alma te busca á tí;\nY pienso que al mirarla\nBrillando placentera\nEn celeste esfera,\nTe acordarás de mí.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

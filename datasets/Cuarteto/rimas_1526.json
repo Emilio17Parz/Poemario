@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Del altar que le alcé en el alma mía\nLa voluntad su imagen arrojó,\ny la luz de la fe que en ella ardía\nAnte el ara desierta se apagó.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

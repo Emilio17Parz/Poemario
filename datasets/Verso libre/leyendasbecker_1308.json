@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Entre las sombras, á lo lejos, ya subiendo las retorcidas cuestas del\npeñón del Segre, ya vagando entre las ruinas del castillo, ya\ncerniéndose al parecer en los aires, se veían correr, cruzarse,\nesconderse y tornar á aparecer para alejarse en distintas direcciones\nunas luces misteriosas y fantásticas cuya procedencia nadie sabía\nexplicar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

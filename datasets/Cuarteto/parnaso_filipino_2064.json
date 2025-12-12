@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Roma era noble, y como noble, altiva...\nRoma fué esclava, y como esclava, infame...\n¡Y el mundo entero doblegó la frente\nante el mal hijo que humilló a su madre!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

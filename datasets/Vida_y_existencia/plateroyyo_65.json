@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Parece, Platero, mientras suena el <i>Angelus</i>, que esta vida nuestra\npierde su fuerza cotidiana, y que otra fuerza de adentro, más altiva,\nmás constante y más pura, hace que todo, como en surtidores de gracia,\nsuba á las estrellas, que se encienden ya entre las rosas... Más\nrosas.... Tus ojos, que tú no ves, Platero, y que alzas mansamente al\ncielo, son dos bellas rosas.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

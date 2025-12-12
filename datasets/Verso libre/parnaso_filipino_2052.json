@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Salve, cristiana amazona\nque tras de tantos afanes\ndió el ilustre Magallanes\nde mi España a la corona!\nSi blasona\ntu pecho de real nobleza,\nrica perla de dos mares,\nno desdeñes los cantares\ncon que ensalzo tu grandeza.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

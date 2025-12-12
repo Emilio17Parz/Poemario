@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La luna brilla hermosa\nCual lámpara divina\nRielando misteriosa;\nEn la region Andina\nSu genio se levanta,\nY en torno se quebranta\nLa tierra con fragor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

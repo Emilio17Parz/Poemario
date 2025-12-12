@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Y qué es de la República que un dia\nHizo surgir de entre la noche fria\nDe esclavitud, un mundo colosal;\nLa que dando patrióticas lecciones\nFundó en el Continente tres Naciones\nSobre el polvo del trono colonial?",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

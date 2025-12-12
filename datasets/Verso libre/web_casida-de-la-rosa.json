@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La rosa\nno buscaba la aurora:\nCasi eterna en su ramo\nbuscaba otra cosa.\nLa rosa\nno buscaba ni ciencia ni sombra:\nConfín de carne y sueño\nbuscaba otra cosa.\nLa rosa\nno buscaba la rosa:\nInmóvil por el cielo\n¡buscaba otra cosa!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

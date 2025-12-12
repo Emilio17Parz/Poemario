@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Al nombrar dos célebres oradores Argentinos no he querido en ningun modo\nestablecer la supremacia suya sobre los demas. He tenido en vista al\nelegirlos, el tomar el nombre del orador mas popular que ha tenido cada\nuno de los partidos en la arena parlamentaria y manifestar en este\namalgama, que la herencia que nosotros hemos recojido es la de la patria\ny no la de los partidos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

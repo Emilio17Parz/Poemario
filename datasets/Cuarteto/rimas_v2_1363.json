@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No negaron su oido á la conciencia,\nNi el pudor sofocaron torpemente,\nNi tributaron culto á la opulencia\nCon inciensos quemados en la mente.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Y me dijo:--«Dulce amigo,\n«Solo en el mundo te dejo:\n«Del valle triste me alejo,\n«Y no te veré ya mas,\n«Y hasta que llegue el instante\n«De oir de Dios los acentos,\n«Guarda esos dos pensamientos,\n«Y no me olvides jamas!»",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

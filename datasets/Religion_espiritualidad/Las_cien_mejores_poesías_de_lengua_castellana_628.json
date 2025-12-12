@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hijo del siglo, en vano me resisto\na su impiedad, ¡oh Cristo!\nSu grandeza satánica me oprime.\nSiglo de maravillas y de asombros,\nlevanta sobre escombros\nun Dios sin esperanza, un Dios que gime.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

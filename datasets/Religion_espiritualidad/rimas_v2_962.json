@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "«Esos ojos que derraman\nAmores y poesía\nConsuelan el alma mia,\nMitigan mi cruel dolor.\nDe esos astros de mi cielo\nSobre mi frente marchita\nCaiga una gota bendita,\nUna lágrima de amor.»",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

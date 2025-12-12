@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "--Yo soy un sueño, un imposible,\nvano fantasma de niebla y luz;\nsoy incorpórea, soy intangible;\nno puedo amarte.--¡Oh, ven, ven tú!\nBECQUER.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

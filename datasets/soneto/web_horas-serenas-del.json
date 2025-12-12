@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Horas serenas del ocaso breve,\ncuando la mar se abraza con el cielo\ny se despierta el inmortal anhelo\nque al fundirse la lumbre, la lumbre bebe.\nCopos perdidos de encendida nieve,\nlas estrellas se posan en el suelo\nde la noche celeste, y su consuelo\nnos dan piadosas con su brillo leve.\nComo en concha sutil perla perdida,\nlágrima de las olas gemebundas,\nentre el cielo y la mar sobrecogida\nel alma cuaja luces moribundas\ny recoge en el lecho de su vida\nel poso de sus penas más profundas.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

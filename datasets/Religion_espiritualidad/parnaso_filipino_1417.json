@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ojos negros, refugio de hechizos y embelesos,\ndolientes, langorosos, plenos de soñación\ncomo noches sin luna; pero con rojos besos\nque vierten en el alma perfumes de ilusión.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

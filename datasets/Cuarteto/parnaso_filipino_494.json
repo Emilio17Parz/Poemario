@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si tanta gloria sin igual tuviste\ny lauros cien tu señorial cabeza,\ndeja que diga que si al fin caíste,\nfué tu caída tu mayor grandeza.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "De las eternas musas el reino soberano\nrecorres, bajo un soplo de vasta inspiración,\ncomo un rajah soberbio que en su elefante indiano\npor sus dominios pasa de rudo viento al son.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

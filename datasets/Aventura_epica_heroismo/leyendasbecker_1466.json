@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Y subió más alto, y creyó divisar á lo lejos las tormentosas nubes\nsemejantes á un mar de lava, y oyó mugir el trueno á sus pies como\nmuge el océano azotando la roca desde cuya cima le contempla el\natónito peregrino.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

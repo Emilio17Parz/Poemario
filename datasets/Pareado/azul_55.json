@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Nada de esto, con todo, me sirve hoy para juzgar a usted, pues yo nada\nde esto conozco. Tengo que contraerme al libro _Azul_.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

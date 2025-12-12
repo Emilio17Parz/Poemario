@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Dad, Condesa, a los cisnes cariño,\nDioses son de un país halagüeño,\nY hechos son de perfume, de armiño,\nDe luz alba, de seda y de sueño.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

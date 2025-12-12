@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pues por su honra y estado\nEn otros tiempos pasados\n¿Cómo se hubo?\nQuedando desamparado,\nCon hermanos y criados\nSe sostuvo.\nDespués que hechos famosos\nHizo en esta dicha guerra\nQue hacía,\nHizo tratos tan honrosos,\nQue le dieron muy más tierra\nQue tenía.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

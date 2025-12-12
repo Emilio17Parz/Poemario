@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Como soy reina y fui mendiga, ahora\nvivo en puro temblor de que me dejes,\ny te pregunto, pálida, a cada hora:\n«¿Estás conmigo aún? ¡Ay, no te alejes!»\nQuisiera hacer las marchas sonriendo\ny confiando ahora que has venido;\npero hasta en el dormir estoy temiendo\ny pregunto entre sueños: «¿No te has ido?».",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

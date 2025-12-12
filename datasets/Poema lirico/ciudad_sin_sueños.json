@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Ciudad sin sueños",
+  "poema": {
+    "texto": "En la cuna de la noche, ciudades desiertas,\nun silencio profundo que miente y entierro sueños.\nSombra a sombra camino sin destino,\nla tristeza se esconde en cada rincón escondido.\n\nLuz apagada en los ojos de la madrugada,\nel corazón herida por los recuerdos perdidos.\nMis pies arrastrados por el suelo pesado,\nes un lamento incesante que el olvido no siente.\n\nVestigios del pasado en las calles tristes,\nun recuerdo doloroso de lo que nunca será.\nLa ciudad sin sueños, una soledad viva,\nun paisaje desolado que me arrastra a la muerte.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Ciudad"
+  }
+}

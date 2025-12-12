@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Nada tememos más sino la muerte...\n¿Y si tuvieran esas flores alma?\n¡Quién sabe si sintieran asimismo\ntemor de verse lacias!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

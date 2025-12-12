@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "67\nA naides le dieron armas,\npues toditas las que había\nel coronel las tenía,\nsigún dijo esa ocasión,\npa repartirlas el día\nen que hubiera una invasión.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

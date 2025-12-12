@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "99\nSi me atribulo o me encojo,\nsiguro que no me escapo:\nsiempre he sido medio guapo,\npero en aquella ocasión\nme hacía buya el corazón\ncomo la garganta al sapo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,8 +1,9 @@
 {
-    "subcategoria": "Primavera",
-    "poema": {
-        "texto": "Brota la vida,\npétalos de colores,\nsol en la rama.",
-        "tipo": "Haiku",
-        "palabra_clave_ingresada": "Flor"
-    }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Primavera",
+  "poema": {
+    "texto": "Brota la vida,\npétalos de colores,\nsol en la rama.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Flor"
+  }
 }

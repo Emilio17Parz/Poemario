@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Granadino. Comenzó a escribir en \"Madrid Cómico\". Residió en Filipinas\n(donde casó), más de veinte años, publicando allí sus libros _Bajo el\ncielo de Manila_ (1908), _Palomicas de mi palomar_ (1915) y _Cadena de\namor_ (1918). Ultimamente residía en su ciudad natal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

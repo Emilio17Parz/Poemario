@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Veo brillar el cielo tan puro y refulgente\ncomo cuando forjaba mi primera ilusión,\nel mismo soplo siento besar mi mustia frente,\nel mismo que encendía mi entusiasmo ferviente\ny hacía hervir la sangre del joven corazón.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

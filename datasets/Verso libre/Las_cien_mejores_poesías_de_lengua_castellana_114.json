@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Qué amigo de sus amigos!\n¡Qué señor para criados\nY parientes!\n¡Qué enemigo de enemigos!\n¡Qué Maestre de esforçados\nY valientes!\n¡Qué seso para discretos!\n¡Qué gracia para donosos!\n¡Qué razón!\n¡Cuán benigno a los subjectos,\nY a los bravos y dañosos\nUn león!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

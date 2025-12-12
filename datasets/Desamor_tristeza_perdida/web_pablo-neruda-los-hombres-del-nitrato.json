@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Yo estaba en el salitre, con los héroes oscuros,\ncon el que cava nieve fertilizante y fina\nen la corteza dura del planeta,\ny estreché con orgullo sus manos de tierra.\nEllos me dijeron: \"Mira,\nhermano, cómo vivimos,\naquí en «Humberstone», aquí en «Mapocho»,\nen «Ricaventura», en «Paloma»,\nen «Pan de Azúcar», en «Piojillo»\".\nY me mostraron sus raciones\nde miserables alimentos,\nsu piso de tierra en las casas,\nel sol, el polvo, las vinchucas,\ny la soledad inmensa.\nYo vi el trabajo de los derripiadores,\nque dejan sumida, en el mango\nde la madera de la pala,\ntoda la huella de sus manos.\nYo escuché una voz que venía\ndesde el fondo estrecho del pique,\ncomo de un útero infernal,\ny después asomar arriba\nuna criatura sin rostro,\nuna máscara polvorienta\nde sudor, de sangre y de polvo.\nY ése me dijo: \"Adonde vayas,\nhabla tú de estos tormentos,\nhabla tú, hermano, de tu hermano\nque vive abajo, en el infierno\".",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

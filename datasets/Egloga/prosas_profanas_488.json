@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "De noche, en la montaña, en la negra montaña\nDe las Visiones, pase gigante sombra extraña,\nSombra de un Sátiro espectral;\nQue ella al centauro adusto con su grandeza asuste;\nDe una extra-humana flauta la melodía ajuste\nA la harmonía sideral.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "flauta"
+  }
+}

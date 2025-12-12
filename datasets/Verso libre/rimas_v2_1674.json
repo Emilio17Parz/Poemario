@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El _Esclavo_ fué la primera composicion poética que Berro dió á luz, y\npor la cual conquistó en un solo dia el merecido nombre de poeta. Es\ntambien la mas bella de todas cuantas componen la coleccion que de sus\nobras formó don Andres Lamas, haciéndolas preceder de un interesante\ndiscurso preliminar. En ella se encuentran estos hermosos y sentidos\nversos:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

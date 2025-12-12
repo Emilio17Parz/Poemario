@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Desde entonces Garcín cambió de carácter. Se volvió charlador, se dió un\nbaño de alegría, compró levita nueva y comenzó un poema en tercetos,\ntitulado: _El pájaro azul_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

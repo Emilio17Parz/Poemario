@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La libertad no ha muerto,\nY en la sangrienta arena\nDonde se vé postrada\nSu aliento no rindió:\nDe heridas traspasada,\nY en rojo humor teñida,\nEn sus convulsas manos\nNuestro laurel salvó.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

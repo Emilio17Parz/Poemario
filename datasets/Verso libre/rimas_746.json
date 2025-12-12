@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Primero unas, y luego las otras más cercanas, todas las puertas que\ndaban paso á su habitación iban sonando por su orden, éstas con un\nruido sordo y grave, aquéllas con un lamento largo y crispador.\nDespués silencio, un silencio lleno de rumores extraños, el silencio\nde la media noche, con un murmullo monótono de agua distante,\nlejanos ladridos de perros, voces confusas, palabras ininteligibles,\necos de pasos que van y vienen, crujir de ropas que se arrastran,\nsuspiros que se ahogan, respiraciones fatigosas que casi se sienten,\nestremecimientos involuntarios que anuncian la presencia de algo que\nno se ve, y cuya aproximación se nota no obstante en la oscuridad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

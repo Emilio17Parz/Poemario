@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Y vosotros, qué sois? flojos pigmeos\nSin brazos, sin espada, sin creencia,\nTemblando ante el tirano como reos\nSofocando la voz de la conciencia...!\nY bebereis oprobio eternamente\nSin levantar la deslustrada frente!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

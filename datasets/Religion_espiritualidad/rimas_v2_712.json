@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Pero las ramas del tala\nSon mil arpas sin modelo,\nQue formó Dios en el cielo\nY arrojó á la soledad;\nSi el pampero brama airado\nY estremece al firmamento,\nForma místico concento\nEl árbol y el vendaval.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

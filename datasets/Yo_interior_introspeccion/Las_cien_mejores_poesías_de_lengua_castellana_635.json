@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Llegar! ¿Adónde?... El pensamiento humano\nen vano lucha, en vano\nsu ley oculta y misteriosa infringe.\nEn la lumbre del sol sus alas quema,\ny no aclara el problema,\nni penetra el enigma de la Esfinge.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "pensamiento"
+  }
+}

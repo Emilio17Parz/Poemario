@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Soy el tigre.\nTe acecho entre las hojas\nanchas como lingotes\nde mineral mojado.\nEl río blanco crece\nbajo la niebla. Llegas.\nDesnuda te sumerges.\nEspero.\nEntonces en un salto\nde fuego, sangre, dientes,\nde un zarpazo derribo\ntu pecho, tus caderas.\nBebo tu sangre, rompo\ntus miembros uno a uno.\nY me quedo velando\npor años en la selva\ntus huesos, tu ceniza,\ninmóvil, lejos\ndel odio y de la cólera,\ndesarmado en tu muerte,\ncruzado por las lianas,\ninmóvil, lejos\ndel odio y de la cólera,\ndesarmado en tu muerte,\ncruzado por las lianas,\ninmóvil en la lluvia,\ncentinela implacable\nde mi amor asesino.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

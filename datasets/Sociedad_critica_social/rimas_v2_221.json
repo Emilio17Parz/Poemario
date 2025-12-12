@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Y su bandera viendo\nÉl esclamó muriendo:\n«¡Oh de mi Patria sol!»\nY su cabeza noble\nComo gigante roble\nAl polvo descendió.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

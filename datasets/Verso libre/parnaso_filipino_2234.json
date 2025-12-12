@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Volemos, nave querida,\nlejos del mundano lodo;\nla inmensidad nos convida,\ny siento que es dulce todo\nlo que aleja de la vida.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

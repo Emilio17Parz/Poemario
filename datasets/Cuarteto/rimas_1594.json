@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Estaba en un desierto! Aunque á mi oído\nDe las turbas llegaba el ronco hervir,\nYo era huérfano y pobre... ¡El mundo estaba\nDesierto... para mí!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

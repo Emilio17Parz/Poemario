@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El gemido del agua se pierde en una\nvaguedad por la senda de las acacias;\ny las ruinas adquieren, bajo la luna,\nesplendor de remotas aristocracias.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

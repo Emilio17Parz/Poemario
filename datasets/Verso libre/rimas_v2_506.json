@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ancianos, cuya mano temblorosa\nNos indica la ruta misteriosa\nQue debemos seguir;\nBendecid con amor á vuestros hijos,\nPara que sigan con los ojos fijos\nLa estrella que los lleve al porvenir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

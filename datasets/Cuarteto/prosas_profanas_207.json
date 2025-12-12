@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Hoy que tú celebras tus bodas de nieve,\n(Tus bodas de virgen con el sueño son)\nTodas sus blancuras, Primavera, llueve\nSobre la blancura de tu corazón.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

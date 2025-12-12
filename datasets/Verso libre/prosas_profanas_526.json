@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "UNA selva suntuosa\nEn el azul celeste su rudo perfil calca.\nUn camino. La tierra es de color de rosa,\nCual la que pinta fra Doménico Cavalca\nEn sus Vidas de santos. Se ven extrañas flores\nDe la flora gloriosa de los cuentos azules,\nY entre las ramas encantadas, papemores\nCuyo canto extasiara de amor a los bulbules.\n(_Papemor_: ave rara, _Bulbules_: ruiseñores.)",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

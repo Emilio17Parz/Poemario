@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Precisamente en la época en que las líneas que acaban de leerse se\npublicaban, (año de 1846) la musa del señor Mitre enmudecía, pues, como\nél lo ha dicho en su conocida _Carta-Prefacio_, casi todas las poesías\nlíricas que forman su coleccion fueron escritas por él á la edad de\nveinte años.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

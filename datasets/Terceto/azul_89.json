@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "_La canción del oro_, sería el mejor de los cuentos de usted si fuera\ncuento, y sería el más elocuente de todos si no emplease en él demasiado\nuna _ficelle_, de que se usa y de que se abusa muchísimo en el día.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Empieza el llanto\nde la guitarra.\nSe rompen las copas\nde la madrugada.\nEmpieza el llanto\nde la guitarra.\nEs inútil callarla.\nEs imposible\ncallarla.\nLlora monótona\ncomo llora el agua,\ncomo llora el viento\nsobre la nevada.\nEs imposible\ncallarla.\nLlora por cosas\nlejanas.\nArena del Sur caliente\nque pide camelias blancas.\nLlora flecha sin blanco,\nla tarde sin mañana,\ny el primer pájaro muerto\nsobre la rama.\n¡Oh, guitarra!\nCorazón malherido\npor cinco espadas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "A woman's coffin uncovered by the sexton, while a lover standing by\nexclaims, \"¡¡Cáscaras!! ¡cómo ha cambiado!\"",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

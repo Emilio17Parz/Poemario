@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Esa música espontánea\nQue produce la natura,\nCual tus cantos, sin cultura,\nY ruda como tu voz,\nTal vez en noche callada,\nDe blanco cráneo en los huecos,\nProduce los tristes ecos\nQue oye el pueblo con pavor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

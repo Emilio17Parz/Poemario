@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tu cuarteto es cuadriga de águilas bravas\nque aman las tempestades, los Océanos;\nlas pesadas tizonas, las férreas clavas,\nson las armas forjadas para tus manos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

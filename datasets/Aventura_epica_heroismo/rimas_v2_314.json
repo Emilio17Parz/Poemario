@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "«Númen del libre, signo de victoria,\n«Luz de los pueblos, astro de la gloria,\n«Que das al genio noble inspiracion:\n«Tú, la divina imágen que soñaron,\n«Los hombres que tus luces invocaron,\n«Realizas con tu sola emanacion.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

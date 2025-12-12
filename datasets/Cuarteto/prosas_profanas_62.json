@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sobre la terraza, junto a los ramajes,\nDiríase un trémolo de liras eolias\nCuando acariciaban los sedosos trajes,\nSobre el tallo erguidas, las blancas magnolias.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

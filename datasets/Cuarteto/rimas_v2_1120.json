@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La mies se corona de espigas doradas,\nY el cielo se esmalta con nubes de azul,\nLas flores se envuelven con hojas variadas,\nY en gajos flexibles el verde abedul.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Vuelve, pues, a tu barca, que tienes lista la vela--(resuena,\nlira, Céfiro, vuela)--y parte, harmoniosa\nhermana, a donde un príncipe bello, a la orilla del\nmar, pide liras, y versos y rosas, y acaricia sus rizos\nde oro bajo un regio azul parasol,\nen el país del sol.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

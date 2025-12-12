@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sí llevo, y sé que he de pasar primero\nDos rios, el uno dellos es nombrado\nEl rio del Azafran, que está aqui junto,\nEl otro, de Hiquina, que es mas lexos,\nCerca de Mostagan, y aunque derecha,\nEstá una levantada y alta cuesta,\nQue dicen que se llama el cerro Gordo,\nY puesto encima della se descubre\nFrente por frente un monte, que es la silla\nQue sobre Oran levanta la cabeza.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hoy la víctima y verdugo\nSe han mirado frente á frente,\nY van en batalla ardiente\nA deslindar la cuestion.\n¡Oh señor, tú que los orbes\nSustentas entre tus manos,\nDispénsale á mis hermanos\nTu divina proteccion!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Á dónde vas?--Á las humanas almas\nVoy á enseñar la senda de los cielos.\n--Busca otro triunfo entre gloriosas palmas\nConsagrando á la musa tus desvelos.\n--No, no: yo voy á las humanas almas\nA enseñar el camino de los cielos.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

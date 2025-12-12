@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No veo el alta torre del magestuoso templo,\nCuyo círculo cubre la gloria con sus alas,\nPorque está acribillada de las rujientes balas\nQue el cañon argentino lanzára á Wicteloke.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

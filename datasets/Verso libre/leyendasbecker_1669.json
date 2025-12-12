@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: This poem, of the form called Octava _real_, with the\nregular rhyme scheme _a b a b a b c c_, is composed of\nhendecasyllabic verses of the first class, save the 2d, which is\nof the second class.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

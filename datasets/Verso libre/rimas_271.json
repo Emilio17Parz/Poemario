@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las calles de Soria eran entonces, y lo son todavía, estrechas,\noscuras y tortuosas, un silencio profundo reinaba en ellas, silencio\nque sólo interrumpían, ora el lejano ladrido de un perro, ora el\nrumor de una puerta al cerrarse, ora el relincho de un corcel que\npiafando hacía sonar la cadena que le sujetaba al pesebre en las\nsubterráneas caballerizas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

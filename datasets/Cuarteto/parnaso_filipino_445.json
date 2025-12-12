@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Genio inmortal que velas noche y día\nPor la ventura de la patria mía:\n¿Cuando hallarás la _flor de los colinas_\nEn las altas montañas filipinas?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

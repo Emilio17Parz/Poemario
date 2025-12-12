@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cuando tremolen patrios pabellones\nAnunciando del pueblo la victoria,\nEntone el vate bélicas canciones\nY cante los guerreros y la gloria;\nMas si la patria yace en agonía\nRompa el canto á la fúnebre elegía.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

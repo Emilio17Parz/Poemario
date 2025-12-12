@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escala cubiertas cumbres, conquista hondos abismos,\njamás sucumbe en lucha contra los despotismos\ndel extraño poder.\nSe lanza cantando himnos a la tumba enemiga,\nel ideal por gladio y por triple loriga\nla gloria de su patria, el honor y el deber.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "honor"
+  }
+}

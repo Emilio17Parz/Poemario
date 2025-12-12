@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Produced by Chuck Greif and the Online Distributed\nProofreading Team at http://www.pgdp.net (This book was\nproduced from scanned images of public domain material\nfrom the Google Print project.)",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

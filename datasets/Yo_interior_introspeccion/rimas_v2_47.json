@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tal es el objeto que me propongo en esta carta, y creo que lo\nconseguiré, haciendo resonar en el fondo de su conciencia aquella voz\nmisteriosa que gritó á San Pablo, perseguidor de los\ncristianos:--«Saulo, ¿por qué me persigues?»",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

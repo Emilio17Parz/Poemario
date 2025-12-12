@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ese plazo fatal, sordo, inflexible,\nMiro acercarse con profundo espanto,\nY en dudas grita el corazón sensible:\n«Si aplacar al destino es imposible,\n¿Para qué amarnos tanto?»",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "destino"
+  }
+}

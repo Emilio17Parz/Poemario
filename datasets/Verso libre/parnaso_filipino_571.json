@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Palpita en tus entrañas, arde en tu suelo\nla áurea y candente lava de los volcanes;\nsierpes de escamas ígneas hienden tu cielo\ncuando ruedan crujiendo los huracanes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

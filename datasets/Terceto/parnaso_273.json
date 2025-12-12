@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Entre ellos parecióme de haver visto\nA DON ANTONIO DE GALARZA el bravo,\nGentilhombre de Apolo, y muy bien quisto.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

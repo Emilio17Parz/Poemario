@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todo adquiere en mi boca\nun sabor persistente de lágrimas;\nel manjar cotidiano, la trova\ny hasta la plegaria.\nYo no tengo otro oficio\ndespués del callado de amarte,\nque este oficio de lágrimas, duro,\nque tú me dejaste.\n¡Ojos apretados\nde calientes lágrimas!,\n¡boca atribulada y convulsa,\nen que todo se me hace plegaria!\n¡Tengo una vergüenza\nde vivir de este modo cobarde!\n¡Ni voy en tu busca\nni consigo tampoco olvidarte!\nUn remordimiento me sangra\nde mirar un cielo\nque no ven tus ojos,\n¡de palpar las rosas\nque sustenta la cal de tus huesos!\n¡Carne de miseria,\ngajo vergonzante, muerto de fatiga,\nque no baja a dormir a tu lado,\nque se aprieta, trélmulo,\nal impuro pezón de la Vida!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

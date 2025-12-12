@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--\"Qué dichosos instantes,\nviendo el alba nacer en esos otros\nhorizontes distantes,\nlas almas gozarán de dos amantes\ntan felices tal vez como nosotros.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

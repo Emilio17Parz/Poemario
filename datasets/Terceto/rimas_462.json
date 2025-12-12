@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Garcés tenía poco más ó menos la edad de Constanza, y desde muy niño\nhabíase acostumbrado á prevenir el menor de sus deseos, y á adivinar\ny satisfacer el más leve de sus antojos.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

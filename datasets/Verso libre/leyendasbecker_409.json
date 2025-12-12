@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "The caesura is an important, though not essential, element in Spanish\nverse. In verses of eleven or twelve syllables, however, the caesura\nis usually employed to give a break in a determined place. The caesura\nrequires a strong accent on the syllable preceding it, and does not\nprevent synalepha.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

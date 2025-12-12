@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Por lo demás, había el salón griego, lleno de mármoles: diosas, musas,\nninfas y sátiros; el salón de los tiempos galantes, con cuadros del gran\nWatteau y de Chardin; dos, tres, cuatro, ¡cuántos salones!",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

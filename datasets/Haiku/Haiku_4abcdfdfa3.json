@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Río, espejo gris\nPeces nadan sin apuro\nPaz del momento",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Río sereno"
+  }
+}

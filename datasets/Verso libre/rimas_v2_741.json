@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Picaron todos de espuelas\nGalopando á rienda suelta\nQueriendo tomar la vuelta\nDel ginete vencedor;\nMas en vano corren, vuelan,\nGritan, pegan, forcejean,\nY resudan, y espolean,\nY le siguen con furor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

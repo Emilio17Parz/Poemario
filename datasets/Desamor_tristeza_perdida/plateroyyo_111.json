@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Con una solicitud mayor, sin duda, que la del viejo Darbón, su médico,\nle he doblado la mano y le he mirado la ranilla roja. Una espina larga y\nverde, de naranjo sano, está clavada en ella como un redondo puñalillo\nde esmeralda. Estremecido del dolor de Platero, he tirado de la espina;\ny me lo he llevado al pobre al arroyo de los lirios amarillos, para que\nel agua corriente le lama, con su larga lengua pura, la heridilla.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

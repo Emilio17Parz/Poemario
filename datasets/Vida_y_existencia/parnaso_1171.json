@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Item, que todo buen poeta, aunque no haya compuesto poema heroico, ni\nsacado al teatro del mundo obras grandes, con qualesquiera aunque sean\npocas pueda alcanzar renombre de Divino, como le alcanzaron Garci Laso\nde la Vega, Francisco de Figueroa, el capitan Francisco de Aldana, y\nHernando de Herrera.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

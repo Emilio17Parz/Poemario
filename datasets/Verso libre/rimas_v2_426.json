@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El Bardo de la América\nInvocará sus manes,\nY al son de la arpa armónica\nQue pulsan los titanes,\nSobre su frente pálida\nLa inspiracion caerá.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

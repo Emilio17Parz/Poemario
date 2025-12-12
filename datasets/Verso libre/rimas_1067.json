@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A la derecha, y perdiéndose en la media luz que penetraba de la\ncalle, veíase una multitud de arcos chatos y macizos que se cruzaban\nentre sí, dejando espacio en sus huecos á una larga fila de pesebres,\nformados de tablas mal unidas al pie de los postes; y diseminados\npor el suelo, tropezábase aquí con las enjalmas de una caballería,\nallá con unos cuantos pellejos de vino ó gruesas sacas de lana, sobre\nlas que merendaban sentados en corro y con el jarro en primer lugar,\nalgunos arrieros y trajinantes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

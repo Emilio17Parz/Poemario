@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "o in a final unaccented syllable predominates over a preceding e in\nthe same syllable. Therefore, _óleo_ and _erróneo_ assonate in ó-o;\nbut o in a final unaccented syllable is dominated by a following e in\nthe same syllable, and the e counts in the assonance. Therefore,\n_héroe_ and _veces_ assonate in é-e.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

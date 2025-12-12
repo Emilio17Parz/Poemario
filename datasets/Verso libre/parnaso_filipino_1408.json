@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los secretos de alcoba\nlos que sabéis vosotras: el espasmo que arroba,\nel deseo que mata, los contactos sutiles,\nlas caricias de seda\ny el estremecimiento de las carnes febriles.\nHabéis mirado al cisne, prodigador de halagos,\nensangrentar su pico en los muslos de Leda\nsobre la mansedumbre de los dormidos lagos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

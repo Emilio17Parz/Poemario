@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Platero, entonces, rebuzna. Y su mansedumbre se asocia, con la campana,\ncon el cohete, con el latín y con la música, al claro misterio del día,\ny el rebuzno se le endulza, altivo, y, rastrero, se le diviniza...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

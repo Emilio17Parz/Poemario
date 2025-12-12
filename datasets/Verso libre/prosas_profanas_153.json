@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un pájaro poeta, rumia en su buche versos;\nChismoso y petulante, charlando va un gorrión;\nLas plantas trepadoras conversan de política;\nLas rosas y los lirios, del arte y del amor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

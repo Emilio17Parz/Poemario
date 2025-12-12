@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Egregia lira mi tumba exorne,\npara que preste vida a mis huesos,\ny allí una virgen y Pan bicorne\nderramen ritmos, flores y besos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

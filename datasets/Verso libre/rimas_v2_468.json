@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mil ecos fragorosos\nProducen los aceros,\nLos potros ardorosos\nRelinchan altaneros,\nY en masas apiñadas\nDe sombras laureadas\nSe forma una legion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

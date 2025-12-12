@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ya todo terminó; ya te marchaste;\nya no estás a mi lado;\nya se abrieron tus alas y volaste\na la inmensa región de lo ignorado.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

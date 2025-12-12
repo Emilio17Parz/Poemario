@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Griega es su sangre, su abuelo era ciego;\nSobre la cumbre del Pindo sonoro\nEl sagitario del carro de fuego\nPuso en su lira las cuerdas de oro.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

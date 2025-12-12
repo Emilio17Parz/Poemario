@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dulce vecino de la verde selva,\nHuésped eterno del abril florido,\nVital aliento de la madre Venus,\nCéfiro blando;\nSi de mis ansias el amor supiste,\nTú, que las quejas de mi voz llevaste,\nOye, no temas, y a mi ninfa dile,\nDile que muero.\nFilis un tiempo mi dolor sabía;\nFilis un tiempo mi dolor lloraba;\nQuísome un tiempo, mas agora temo,\nTemo sus iras.\nAsí los dioses con amor paterno,\nAsí los cielos con amor benigno,\nNieguen al tiempo que feliz volares\nNieve a la tierra.\nJamás el peso de la nube parda\nCuando amanece en la elevada cumbre,\nToque tus hombros ni su mal granizo\nHiera tus alas.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

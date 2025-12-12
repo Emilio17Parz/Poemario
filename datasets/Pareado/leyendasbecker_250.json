@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Ex. _Cre^es que la afe|an_. Becquer.\n_Cre|es que suspirando pasa el viento_, p. 171, XVI, l. 3.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

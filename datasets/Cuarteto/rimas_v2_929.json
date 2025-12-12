@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ayer un poeta cantaba inspirado,\nMas vino la muerte con soplo letal,\nY hoy frio y vacío su cráneo potente\nSe ofrece á los rayos del gran luminar.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

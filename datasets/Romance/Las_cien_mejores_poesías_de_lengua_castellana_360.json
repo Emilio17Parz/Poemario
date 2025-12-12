@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Con el Condestable insigne,\nApaciguador del reino,\nDe los pasados disturbios\nAcaso está discurriendo;\nO del trato que dispone\nCon el Rey de Francia preso,\nO de asuntos de Alemania\nAgitada por Lutero;\nCuando un tropel de caballos\nOye venir a lo lejos\nY ante el alcázar pararse,\nQuedando todo en silencio.\nEn la antecámara suena\nRumor impensado luego,\nÁbrese al fin la mampara\nY entra el de Borbón soberbio,\nCon el semblante de azufre\nY con los ojos de fuego,\nBramando de ira y de rabia\nQue enfrena mal el respeto;\nY con balbuciente lengua,\nY con mal borrado ceño,\nAcusa al de Benavente,\nUn desagravio pidiendo.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'eo')"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cuando el pobre viejo llegaba á este punto de su narración,\nentraron en la venta dos enterradores de siniestra figura y aspecto\nrepugnante. Acabada su tarea, venían á echar un trago «_á la salud de\nlos muertos_», como dijo uno de ellos, acompañando el chiste con una\nestúpida sonrisa. El ventero se enjugó una lágrima con el dorso de la\nmano, y fué á servirles.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

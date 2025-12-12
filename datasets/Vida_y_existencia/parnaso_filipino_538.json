@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "lo lleva entre los labios el hijo de esta tierra:\nnombrar a Filipinas tu nombre es pronunciar;\nsi el tiempo borra un día la losa que te encierra,\nno temas, pues tu nombre jamás se perderá.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

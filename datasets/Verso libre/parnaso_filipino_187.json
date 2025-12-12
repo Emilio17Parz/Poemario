@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hermosa está Natura. Albarizos encajes\npueblan el azúl cielo. En amorosas citas\nlas aves mañaneras juegan en los ramajes\ny se inebrian de esencias de suaves sampaguitas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

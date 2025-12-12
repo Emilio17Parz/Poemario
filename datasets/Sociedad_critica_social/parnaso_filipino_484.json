@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "--\"En los pechos y en los brazos falta ya el viril denuedo\nY en la frente el entusiasmo y en las bocas la palabra:\nY la patria llora, llora, de sufrir el cautiverio,\nY no hay hombres, no hay soldados, no hay valientes no hay espadas...\"",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

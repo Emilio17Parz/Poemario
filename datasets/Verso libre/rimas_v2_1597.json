@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Al hablar de las torturas del infierno, era imposible no traer á la\nmemoria los admirables versos del Dante en el Canto XXV de su poema, en\nque describe el suplicio de los ladrones, pintando á las culebras,\ndevorando á aquellos, cambiando de forma y transformándose recíproca y\nsucesivamente unos y otros, ya en culebras ya en hombres, oprimidos por\nlos anillos de los reptiles.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

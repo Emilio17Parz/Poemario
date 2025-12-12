@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Prendiendo fuego á un templo portentoso\nErostrato su nombre eternizó;\nVendiendo Judas á Jesus piadoso\nSu fama en el Madero se esculpió.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

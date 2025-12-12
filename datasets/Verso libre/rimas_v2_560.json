@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«Fuí soldado de los Andes,\n«En Maipo Cabo me hicieron,\n«Y las balas deshicieron\n«Mi brazo en Ituzaingó:\n«Entonces mi voz se oia\n«En medio del fuego recio,\n«Y hoy me arrojan con desprecio\n«_Una limosna por Dios!_",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

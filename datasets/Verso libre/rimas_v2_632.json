@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Será que ya en el mundo\nNo exista el entusiasmo,\nNi acorran á la patria\nLos hombres de esta edad?\n¡Oh, no! los corazones\nSacudan ese pasmo,\nY asiendo de la espada\nGritemos: «¡Libertad!»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Si no me engaña el pensamiento mio,\nO salen mentirosas las señales,\nQue haveis visto en Numancia, del estruendo\nY lamentable son, y ardientes llamas,\nSin duda alguna que recelo y temo\nQue el barbaro furor del enemigo\nContra su propio pecho no se vuelva:\nYa no parece gente en la muralla,\nNi suenan las usadas centinelas,\nTodo está en calma y en silencio puesto\nComo si en paz tranquila y sosegada\nEstuviesen los fieros Numantinos.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "pensamiento"
+  }
+}

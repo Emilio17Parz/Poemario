@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Oid como resuenan los _¡vivas!_ nacionales,\nCual desde el alta torre sus glorias inmortales\nPublica la campana con lenguas de metal;\nOid como retumban los bélicos tambores,\nLos cantos de la infancia, del pueblo los clamores,\nQue llenan todo el templo cual coro universal.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

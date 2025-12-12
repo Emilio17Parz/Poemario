@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando de tí me aleje\nY á los combates vaya,\nEn medio á la batalla\nMe acordaré de tí,\nY esperaré la noche\nPara calmar mi anhelo,\nInterrogando al cielo:--\n¿Se acordará de mí?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

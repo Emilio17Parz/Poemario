@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Apenas los oficiales dieron vista á la plaza en que se hallaba situado\nel alojamiento de su nuevo amigo, este, que les aguardaba impaciente,\nsalió á encontrarles; y después de cambiar algunas palabras á media\nvoz, todos penetraron juntos en la iglesia, en cuyo lóbrego recinto la\nescasa claridad de una linterna luchaba trabajosamente con las\nobscuras y espesísimas sombras.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

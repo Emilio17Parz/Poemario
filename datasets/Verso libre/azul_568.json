@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la puerta de la casa, como extraída de una novela de Dickens, estaba\nuna de esas viejas inglesas, únicas, solas, clásicas, con la cofia\nencintada, los anteojos sobre la nariz, el cuerpo encorvado, las\nmejillas arrugadas; mas con color de manzana madura y salud rica. Sobre\nla saya obscura, el delantal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

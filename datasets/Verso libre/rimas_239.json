@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los que quisieran encontrarle, no lo debían buscar en el anchuroso\npatio de su castillo, donde los palafreneros domaban los potros, los\npajes enseñaban á volar á los halcones, y los soldados se entretenían\nlos días de reposó en afilar el hierro de su lanza contra una piedra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

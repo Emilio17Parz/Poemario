@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Felices esos seres, que nunca conocieron\nLa punzadora espina que labra el corazon,\nY el inocente labio jamas humedecieron\nEn la dorada copa que mana corrupcion.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

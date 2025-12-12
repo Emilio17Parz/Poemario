@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sonrióme la amada,\nla esquiva, la imposesa, la que vió nuestro idilio\nbajo el frescor amable\nde un emparrado lírico;\nla que encantó mi celda cuando escribí el elogio\nde tus labios divinos\nen unos versos tristes que sabían a lágrimas;\nla que besó tu frente en el blanco camino\nde la silente aldea, cuando ibas a jurarme\nla eternidad sublime de tu santo cariño.\nSonrióme la amada,\ny floreció en el alma la ilusión que se ha ido,\ny tuve sueños plácidos de corderos que triscan\ncamino del aprisco,\nde soles que agonizan tras montañas azules,\nde cristalinos ríos\nque arrastran hojas secas\nsobre sus ondas suaves como bucles de niño.\nFué en una noche blanca en que las susurrantes\nmelodías del viento eran largos suspiros;\nfué una noche en que mi alma, recostada en tu seno,\nadmiraba tus formas con mágico delirio;\nfué en una hora romántica en que el cielo del trópico\nera un arpa encantada, cuyos lejanos cirios\nalumbraban unánimes\ntu efigie soberana de mayestático ídolo.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

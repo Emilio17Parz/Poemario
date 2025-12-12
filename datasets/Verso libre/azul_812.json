@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El fino angora blanco, junto a ella se reclina,\nrozando con su hocico la falda de Alençón,\nno lejos de las jarras de porcelana china\nque medio oculta un biombo de seda del Japón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¿Quién reunió la tarde á la mañana?\nLo ignoro: sólo sé\nQue en una breve noche de verano\nSe unieron los crepúsculos, y... «_fué_.»",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

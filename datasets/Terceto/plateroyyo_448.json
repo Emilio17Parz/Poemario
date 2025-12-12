@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Por las vacaciones, los niños se van á jugar al granero. Hacen coches,\ncon interminables tiros de sillas caídas; hacen teatros, con periódicos\npintados de almagra, iglesias, colegios...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

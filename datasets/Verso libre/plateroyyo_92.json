@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sobre el tejadillo, húmedo de las blanduras de septiembre, dormía el\ncampo lejano, que mandaba un fuerte aliento de pinos. Una gran nube\nnegra, como una gigantesca gallina que hubiese puesto un huevo de oro,\npuso la luna sobre una colina.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

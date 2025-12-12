@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pimpollo apenas abierto,\nAlgun dia serás rosa,\nQue derramará pomposa\nSu perfume embriagador...\nPero ¡ay! entonces tal vez\nTe oprimirán las congojas!...\nAntes que esparsas tus hojas\nDuerme tranquila, Leonor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

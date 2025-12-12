@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¿Te acuerdas del día de nuestro encuentro con los moros de Nebrija\nen el aljarafe de Triana? Éramos pocos; la pelea fué dura, y yo\nestuve á punto de perecer. Tú lo viste: en lo más reñido del combate,\nmi caballo herido y ciego de furor se precipitó hacia el grueso de\nla hueste mora. Yo pugnaba en balde por contenerle; las riendas se\nhabían escapado de mis manos, y el fogoso animal corría llevándome á\nuna muerte segura.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

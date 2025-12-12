@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mas ¡ay! que es la mujer ángel caído,\nO mujer nada más y lodo inmundo,\nHermoso ser para llorar nacido,\nO vivir como autómata en el mundo.\nSí, que el demonio en el Edén perdido,\nAbrasara con fuego del profundo\nLa primera mujer, y ¡ay! aquel fuego\nLa herencia ha sido de sus hijos luego.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

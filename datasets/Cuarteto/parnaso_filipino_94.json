@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Madura en hechos la rebelde idea,\nmútilo el cetro de la noble España,\nla reconquista levantó su tea\npara alumbrar tu constructiva hazaña.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

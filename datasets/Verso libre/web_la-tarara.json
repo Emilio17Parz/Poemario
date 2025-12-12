@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La Tarara, sí;\nla tarara, no;\nla Tarara, niña,\nque la he visto yo.\nLleva la Tarara\nun vestido verde\nlleno de volantes\ny de cascabeles.\nLa Tarara, sí;\nla tarara, no;\nla Tarara, niña,\nque la he visto yo.\nLuce mi Tarara\nsu cola de seda\nsobre las retamas\ny la hierbabuena.\nAy, Tarara loca.\nMueve, la cintura\npara los muchachos\nde las aceitunas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

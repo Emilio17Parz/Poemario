@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tenemos una paciencia verde y sólida como un caimán\nuna paciencia a prueba de balas y promesas\nsabemos aguantar con los delirios en acecho\nhacer almácigos con nuestros odios mejores\ntenemos una esperanza blanca y prójima\ncomo una paloma que ya no es mensajera\ntenemos una esperanza a prueba\nde terremotos y congojas\nsabemos esperar rodeados por la muerte\nsabemos desvelarnos por la vida\ntenemos una alegría temprana como un gallo\nuna alegría convicta maniatada y rabiosa\nsabemos cómo desatarla y sabemos\nque al alba cantarán los gallísimos sueños.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

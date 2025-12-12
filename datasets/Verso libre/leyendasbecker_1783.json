@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: This poem is composed of hendecasyllabic verses of\nboth classes, with a heptasyllabic verse closing the first stanza,\nand a pentasyllable verse closing the second stanza. The even\nverses of each Stanza are _agudos_ and assonanced.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

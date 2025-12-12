@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El viento zumbaba y hacía crujir las puertas, como si una mano\npoderosa pugnase por arrancarlas de sus quicios; la lluvia caía en\nturbiones, azotando los vidrios de las ventanas, y de cuando en\ncuando la luz de un relámpago iluminaba por un instante todo el\nhorizonte que desde ellas se descubría.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

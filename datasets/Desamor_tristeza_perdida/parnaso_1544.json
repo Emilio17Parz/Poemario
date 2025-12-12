@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Bien poco durarán estos enojos,\nQue ya la muerte viene apercebida\nPara llevar en presto y breve vuelo\nA quantos pisan de Numancia el suelo:\nPrincipios veo que prometen presto\nAmargo fin á nuestra dulce tierra,\nSin que tengan cuidado de hacer esto\nLos contrarios ministros de la guerra;\nNosotros mismos á quien ya es molesto\nY enfadoso el vivir que nos atierra,\nHemos dado sentencia inrevocable\nDe nuestra muerte, aunque cruel, loable.\nEn la plaza mayor ya levantada\nQueda una ardiente codiciosa hoguera,\nQue de nuestras riquezas ministrada\nSus llamas sube hasta la quarta esfera:\nAlli con triste priesa acelerada\nY con mortal y timida carrera,\nAcuden todos, como á santa ofrenda,\nA sustentar sus llamas con su hacienda.\nAlli la perla del rosado Oriente,\nY el oro en mil vasijas fabricado,\nY el diamante y rubí mas excelente,\nY la extremada purpura y brocado\nEn medio del rigor fogoso ardiente\nDe la encendida llama es arrojado:\nDespojos do pudieran los Romanos\nHenchir los senos y ocupar las manos.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

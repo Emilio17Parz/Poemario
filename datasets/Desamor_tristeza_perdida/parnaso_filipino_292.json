@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "He mirado tus ojos serenos,\nme he bañado en su luz tardecina,\ny he logrado saber tus angustias,\ny he logrado leer tus desdichas.\nHay un dardo mortal en tu pecho\ny en tu frente una sombra querida,\nuna tenue tristeza en tu rostro\ny en tu boca una vaga sonrisa...\nalgo raro que es todo un misterio,\nque nadie lo acierta y no lo adivina.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

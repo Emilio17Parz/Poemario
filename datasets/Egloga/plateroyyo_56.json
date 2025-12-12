@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "En mi duermevela matinal, me malhumora una endiablada chillería de\nchiquillos. Por fin, sin poder dormir más, me echo, desesperado, de la\ncama. Entonces, al mirar el campo por la ventana abierta, me doy cuenta\nde que los que alborotan son los pájaros.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

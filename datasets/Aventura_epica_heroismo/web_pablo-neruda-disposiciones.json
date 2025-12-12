@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Compañeros, enterradme en Isla Negra,\nfrente al mar que conozco, a cada área rugosa\nde piedras y de olas que mis ojos perdidos\nno volverán a ver.\nCada día de océano\nme trajo niebla o puros derrumbes de\nturquesa,\no simple extensión, agua rectilínea, invariable,\nlo que pedí, el espacio que devoró mi frente.\nCada paso enlutado de cormorán, el vuelo\nde grandes aves grises que amaban el\ninvierno,\ny cada tenebroso círculo de sargazo\ny cada grave ola que sacude su frío,\ny más aún, la tierra que un escondido herbario\nsecreto, hijo de brumas y de sales, roído\npor el ácido viento, minúsculas corolas\nde la costa pegadas a la infinita arena:\ntodas las llaves húmedas de la tierra marina\nconocen cada estado de mi alegría,\nsaben\nque allí quiero dormir entre los párpados\ndel mar y de la tierra . . .\nQuiero ser arrastrado\nhacia abajo en las lluvias que el salvaje\nviento del mar combate y desmenuza,\ny luego por los cauces subterráneos, seguir\nhacia la primavera profunda que renace.\nAbrid junto a mí el hueco de la que amo, y\nun día\ndajadla que otra vez me acompañe en la\ntierra.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

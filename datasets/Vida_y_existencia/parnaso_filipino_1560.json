@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Deja a la luna verme con luz tranquila y suave,\ndeja que el alba envíe su resplandor fugaz,\ndeja gemir al viento con su murmullo grave;\ny si desciende y posa sobre mi cruz un ave,\ndeja que el ave entone su cántico de paz.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "fugaz"
+  }
+}

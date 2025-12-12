@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "There are two classes of words that have a variable accentuation:\nfirst, those in which an unaccented weak vowel is followed by an\naccented strong vowel, e.g. _majestu^oso_, _majestu|oso_; second,\nthose in which an accented strong vowel is followed by an unaccented\nstrong vowel, e.g. _tra|e, tra^e._",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "_Aqui entran quatro ó mas mugeres de Numancia, y con ellas_ LIRA, _las\nmugeres traen unas figuras de niños en los brazos, y otros de las\nmanos, excepto_ LIRA _que no trae ninguno_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

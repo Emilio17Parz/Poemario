@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Mi patria idolatrada, dolor de mis dolores,\nquerida Filipinas, oye el postrer adiós!\nAhí te lo dejo todo: mis padres, mis amores;\nvoy a do no hay esclavos, verdugos ni opresores;\ndonde la fe no mata, ¡donde el que reina es Dios!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

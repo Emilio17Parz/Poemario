@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Estaba por ventura el pecho mio\nDe barbara arrogancia y muertes lleno,\nY de crueldad justisima vacio?\nEs por ventura de mi condicion ageno\nUsar benignidad con el rendido,\nComo conviene al vencedor que es bueno?\nMal por cierto tenìades conocido\nEl valor en Numancia de mi pecho,\nPara vencer y perdonar nacido.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

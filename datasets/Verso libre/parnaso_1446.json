@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Que todas son ilusiones,\nQuimeras y fantasias,\nAgueros y hechicerias,\nDiabolicas invenciones:\nNo muestres que tienes poca\nCiencia en creer desconciertos,\nQue poco cuidan los muertos\nDe lo que á los vivos toca.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

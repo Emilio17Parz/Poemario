@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Y el pescador con ánimo sereno\nDel mar se precipita al hondo seno...\n¡Al sepulcro talvez!\nY por las frias ondas arrastrado\nArranca su tesoro al mar airado,\nQue lleva de su reina ante los piés.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

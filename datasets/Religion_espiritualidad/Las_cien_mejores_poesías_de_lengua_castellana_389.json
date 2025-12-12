@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El dulce anhelo del amor que aguarda,\nTal vez inquieto y con mortal recelo;\nLa forma bella que cruzó gallarda,\nAllá en la noche, entre medroso velo;\nLa ansiada cita que en llegar se tarda\nAl impaciente y amoroso anhelo,\nLa mujer y la voz de su dulzura,\nQue inspira al alma celestial ternura:",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

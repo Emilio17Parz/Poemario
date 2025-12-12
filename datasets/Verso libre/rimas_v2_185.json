@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh patria! Aunque de lodo te cubran la cabeza\nYo siempre con orgullo pronunciaré tu nombre,\nDiré que con tus hechos ganaste un gran renombre\nQue oscurecer no pueden mil siglos de baldon.\n¡Ah! vuélvante la espalda degenerados hijos:\nYo inclinaré mi frente ante tu altar caído,\nY besaré la orla del manto carcomido,\nLlorando tus desdichas, cantando tu esplendor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

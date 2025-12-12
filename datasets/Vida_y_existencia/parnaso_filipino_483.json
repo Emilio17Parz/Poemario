@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "--\"¿Dónde están aquellos fuertes y valientes Solimanes\nQue cruzaron otros tiempos estas selvas solitarias\nA la guerra? Todo duerme bajo el polvo de la muerte\nY la voz del tiempo rudo va segando nuestra raza\".",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

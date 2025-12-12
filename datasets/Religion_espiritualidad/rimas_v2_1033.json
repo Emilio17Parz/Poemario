@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Adios, vuelvo á decirte, adios ángel divino,\nA quien pusiera el cielo delante mi camino\nPara calmar mis horas de doloroso afan;\nDesde el momento mismo que pude contemplarte,\nMi corazon ardiente tan solo supo amarte,\nComo en la vida se ama, solo una vez no mas.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

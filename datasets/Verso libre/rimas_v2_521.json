@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Estiende, estiende el ala vigorosa,\nCual la vela que en noche procelosa\nAlza la nave en negra tempestad;\nVuela á traer la vívida centella\nQue en ochocientos diez, fulgente y bella,\nLa antorcha reanimó de libertad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Oh llama santa! ¡celestial anhelo!\n¡Sentimiento purísimo! ¡memoria\nAcaso triste de un perdido cielo,\nQuizá esperanza de futura gloria!\n¡Huyes y dejas llanto y desconsuelo!\n¡Oh qué mujer, qué imagen ilusoria\nTan pura, tan feliz, tan placentera,\nBrindó el amor a mi ilusión primera!...",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

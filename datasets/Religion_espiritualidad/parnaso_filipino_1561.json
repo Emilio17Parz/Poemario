@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Deja que el sol ardiendo las lluvias evapore,\ny al cielo tornen puras con mi clamor en pos;\ndeja que un ser amigo mi fin temprano llore,\ny en las serenas tardes, cuando por mí alguien ore,\nora también, ¡oh patria! por mi descanso a Dios.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Aguas claras van\nReflejan el cielo azul\nPaz en la quietud",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Río"
+  }
+}

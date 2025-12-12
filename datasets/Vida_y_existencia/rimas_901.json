@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo pareció animarse, pero con ese movimiento galvánico que\nimprime á la muerte contracciones que parodian la vida, movimiento\ninstantáneo, más horrible aún que la inercia del cadáver que agita\ncon su desconocida fuerza. Las piedras se reunieron á las piedras;\nel ara, cuyos rotos fragmentos se veían antes esparcidos sin orden,\nse levantó intacta como si acabase de dar en ella su último golpe de\ncincel el artífice, y al par del ara se levantaron las derribadas\ncapillas, los rotos capiteles y las destrozadas é inmensas series\nde arcos que, cruzándose y enlazándose caprichosamente entre sí,\nformaron con sus columnas un laberinto de pórfido.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

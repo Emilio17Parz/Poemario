@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: Each stanza of this poem is composed of two\nheptasyllabic verses followed (except in the case of the third\nstanza which ends in a heptasyllabic verse) by two hendecasyllabic\nverses. The even verses have the same assonance throughout. Notice\nthe _esdrújulo_ ending the poem.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

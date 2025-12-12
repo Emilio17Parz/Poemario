@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Aunque siembren de espinas su camino\ny a palmos se disputen el terreno,\ncumplirán como bravos su destino,\npredicando la ley del Nazareno.\n¿Quién se opondrá al espíritu divino\nde que su corazón se siente lleno?\nY a la Cruz santa que en sus diestras brilla\n¿quién habrá que no doble la rodilla?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

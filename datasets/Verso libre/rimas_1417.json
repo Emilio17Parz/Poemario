@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si al mecer las azules campanillas\nDe tu balcón,\nCrees que suspirando pasa el viento\nMurmurador,\nSabe que, oculto entre las verdes hojas,\nSuspiro yo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

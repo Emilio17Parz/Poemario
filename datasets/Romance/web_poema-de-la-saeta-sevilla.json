@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Sevilla es una torre\nllena de arqueros finos.\nSevilla para herir.\nCórdoba para morir.\nUna ciudad que acecha\nlargos ritmos,\ny los enrosca\ncomo laberintos.\nComo tallos de parra\nencendidos.\n¡Sevilla para herir!\nBajo el arco del cielo,\nsobre su llano limpio,\ndispara la constante\nsaeta de su río.\n¡Córdoba para morir!\nY loca de horizonte,\nmezcla en su vino\nlo amargo de Don Juan\ny lo perfecto de Dioniso.\nSevilla para herir.\n¡Siempre Sevilla para herir!",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

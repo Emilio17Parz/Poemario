@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "a ambrosio y silvia\nLos árboles\n¿serán acaso solidarios?\n¿digamos el castaño de los campos elíseos\ncon el quebrancho de entre ríos\no los olivos de jaén\ncon los sauces de tacuarembó?\n¿le avisará la encina de westfalia\nal flaco alerce de tirol\nque administre mejor su trementina?\ny el caucho de pará\no el baobab en las márgenes del cuanza\n¿provocarán al fin la verde angustia\nde aquel ciprés de la mission dolores\nque cabeceaba en frisco\ncalifornia?\n¿se sentirá el ombú en su pampa de rocío\ncasi un hermano de la ceiba antillana?\nlos de este parque o aquella floresta\n¿se dirán de copa a copa que el muérdago\notrora tan sagrado entre los galos\nahora es apenas un parásito\ncon chupadores corticales?\n¿sabrán los cedros del líbano\ny los caobos de corinto\nque sus voraces enemigos\nno son la palma de camagüey\nni el eucalipto de tasmania\nsino el hacha tenaz del leñador\nla sierra de las grandes madereras\nel rayo como látigo en la noche?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

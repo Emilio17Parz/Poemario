@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En cada tomo se harán constar los nombres de los suscriptores a todas\nlas colecciones, tanto de la edición corriente como de ésta,\nespecialmente dedicada a bibliófilos, la cual llevará además, si así lo\ndesea el interesado, su nombre o iniciales en la tapa de encuadernación,\nsin ningún otro adorno; pero si el suscriptor desea que la tapa vaya\ndecorada a mano por el Sr. Ochoa, habrá de aumentar otras 10 ptas. por\neste trabajo. Cada tomo llevará distinta decoración.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

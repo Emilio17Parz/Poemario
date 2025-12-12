@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las dueñas referían, á propósito de la noche de difuntos, cuentos\ntemerosos en que los espectros y los aparecidos representaban el\nprincipal papel, y las campanas de las iglesias de Soria doblaban á\nlo lejos con un tañido monótono v triste.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

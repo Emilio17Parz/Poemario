@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Así va el orgulloso, llega, halaga;\ncorresponde la tigre que le espera,\ny con caricias las caricias paga\nen su salvaje ardor, la carnicera.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

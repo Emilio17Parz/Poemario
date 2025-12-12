@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "que, _conj._, let, for, since, that; bien -- ... bien --, whether ...\nor; either because ... or because; de --, of (_or_ at) the fact that;\nthat; (ello) es --, the fact is that; entonces --, then while (_or_\nwhen); puesto --, since; -- lo creas o no, whether you believe it or\nnot; -- quieras -no, willy-nilly; no --, whilst; sin --, without; sino\n--, but, but rather, except that; en tanto --, while; hasta tanto --,\nuntil, until such time as; ya --, since.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

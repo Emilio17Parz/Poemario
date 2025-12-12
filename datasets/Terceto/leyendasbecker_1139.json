@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Maese Pérez se ha puesto malo, muy malo, y será imposible que asista\nesta noche á la Misa de media noche. Esta fué la respuesta del\nfamiliar.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

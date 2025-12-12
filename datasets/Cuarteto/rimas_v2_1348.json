@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Allí en la torre que vistió la yedra\nSu luz derrama la naciente luna,\nY el buho errante de una en otra piedra\nCon su queja las ruinas importuna.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

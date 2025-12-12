@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y cien cadalsos ven en el vacío\nlevantando sus moles altaneras,\ny ven el hacha y el ecúleo impío,\ny los potros, los hierros, las hogueras,\ny escuchan de los circos el gentío,\nmezclando su rugir al de las fieras;\nmás al ver los aprestos del combate\nsu noble corazón con fuego late.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

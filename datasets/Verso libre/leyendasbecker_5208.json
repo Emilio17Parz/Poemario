@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "que, _rel._, who, which, that; el --, he who, that which, which; la\n--, she who, that which, which; lo --, that which, what; á lo --, as\nfar as; from what; as; á lo -- parece, as it seems; evidently; lo --\nesde, as for; as far as ... is (_or_ are) concerned; lo -- tiene --,\nbut; the fact is that; con --, therefore, wherefore, so then.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

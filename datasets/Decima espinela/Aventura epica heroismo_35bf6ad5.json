@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo Décima",
+  "poema": {
+    "texto": "Camino sin mapa\ndescalzo sobre la tierra\nque me nombra y me olvida\nen cada paso\n\nLa palabra es un río\nque fluye entre mis dedos\nsin pedir permiso\nni dar explicaciones",
+    "tipo": "espinela",
+    "palabra_clave_ingresada": "palabra"
+  }
+}

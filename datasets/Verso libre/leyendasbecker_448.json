@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Words that have in the final unaccented syllable i or u, not in\ndiphthongs, are considered for purposes of assonance as if ending in e\nor o respectively. Therefore, _fácil_ and _nave_ assonate in á-e;\n_espíritu_ and _líquido_, in i-o.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

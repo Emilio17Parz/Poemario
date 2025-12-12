@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "343\nPara prestar un socorro\nlas mujeres no son lerdas:\nantes que la sangre pierda\nlo arrimaron a unas pipas;\nahi lo dejé con las tripas\ncomo pa que hiciera cuerdas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

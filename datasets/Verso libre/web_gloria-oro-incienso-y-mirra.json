@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Fresquísimas violas.\nBandadas de rubores levantados\npor este don de lágrimas que enlaza\nla muchedumbre de las viejecillas\ncon la niña y el niño de mi frente.\nFresquísimas violas. Sí. Del aire,\ndel aire por el aire sin tu cristal,\ncoros en aspa fija en un punto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Las personas que viven siempre unidas\nSuelen á veces contemplar caidas\nLas hojas del amor y del placer;\nHojas que de la espléndida guirnalda,\nBajan de la belleza hasta la falda,\nY el viento del dolor viene á barrer.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

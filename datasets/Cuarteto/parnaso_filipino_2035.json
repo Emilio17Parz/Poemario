@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En la bahía entró.--¡Le \"embotellaron!\"--\ntodos a voz en grito prorrumpieron\nLos enemigos _yankees_ le siguieron\ny con potente escuadra le cercaron.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

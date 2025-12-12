@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tú eres la flor que he visto en este valle,\nY cuando de él me aleje mi destino\nRecordaré en el áspero camino\nTus virtudes, tu gracia y candidez;\nY este recuerdo en tu álbum estampado\nEs la huella fugaz del pasagero,\nQue al pasar á la sombra del palmero\nSu cifra misteriosa grava al pié.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "fugaz"
+  }
+}

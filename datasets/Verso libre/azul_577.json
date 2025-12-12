@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mostraba Mary su falda llena como de iris hechos trizas, que revolvía\ncon una de sus manos gráciles de ninfa, mientras sonriendo su linda boca\npurpurada, sus ojos abiertos en redondo dejaban ver un color de\nlapizlázuli y una humedad radiosa. El poeta siguió adelante.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

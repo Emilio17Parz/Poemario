@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los vendimiadores lo miraban de reojo, en un mal disimulado desprecio;\nlas mujeres, más por los hombres que por ellas, lo evitaban. Antes, al\npasar por el lagar, se había peleado ya con un muchacho que le había\npartido una oreja de un mordisco.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Homero y Hesiodo, su contemporáneo, que ennoblecieron el dialecto\njónico, reasumieron en sus poemas toda la civilizacion de un mundo,\nconcretaron todo un ciclo histórico, y ensanchando los límites del\ncorazon y de la intelijencia, pusieron al hombre en relacion con todos\nlos objetos de la naturaleza de que estaba rodeado.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

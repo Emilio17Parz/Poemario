@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "O amor lleno de sol, amor de España,\nAmor lleno de púrpuras y oros;\nAmor que da el clavel, la flor extraña\nRegada con la sangre de los toros;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

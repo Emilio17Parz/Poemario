@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Oh calor de la siesta filipina,\ncalor de corazón, calor de fragua,\nen que hierve en la copa cristalina,\ncon temblores estuosos, hasta el agua!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

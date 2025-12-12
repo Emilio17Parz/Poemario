@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: This poem is an _Octava_ composed, with the exception\nof the concluding heptasyllabic verse, of hendecasyllabic verses,\nall of which are of the first class, save the 6th, which is of the\nsecond class. Note the hiatus in the 6th verse. The even verses\nhave the same assonance.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

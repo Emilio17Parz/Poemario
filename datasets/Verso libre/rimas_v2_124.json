@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Qué me dice ahora del monólogo estéril y sublime de esta musa, que\ndespues de obrar tantos prodijios, vuelca su urna y derrama de su seno\ncuatro idiomas inmortalizados por la poesía, y que han sido por espacio\nde cuatro siglos, los agentes poderosos de la civilizacion moderna?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

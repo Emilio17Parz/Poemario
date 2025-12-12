@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Niños, alzad las inocentes palmas\nY ardan en entusiasmo vuestras almas\nHonrando á la virtud,\nQue niños cual vosotros vuestros padres\nDescendieron del seno de sus madres\nPara destruir la dura esclavitud.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

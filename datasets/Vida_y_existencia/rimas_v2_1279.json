@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Yo soy el peregrino que cruzando\nDel Andes la region encanecida,\nAdmiré entre las nieves escondida\nUna flor de bellísimo color:\nAquella flor en medio del desierto\nMe hizo olvidar de la aridez del suelo,\nY encontré en el camino algun consuelo\nRecordando lo suave de su olor.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

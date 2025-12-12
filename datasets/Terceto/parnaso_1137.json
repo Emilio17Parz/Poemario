@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "A Miguel de Cervantes Saavedra, en la calle de las Huertas, frontero\nde las casas donde solia vivir el Principe de Marruecos, en Madrid. Al\nporte: medio real, digo diez y siete maravedís.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

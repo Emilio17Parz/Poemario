@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A la orilla del abismo misterioso de lo Eterno\nEl inmenso Sagitario no se cansa de flechar;\nLe sustenta el frío Polo, lo corona el blanco Invierno,\nY le cubre los riñones el vellón azul del mar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

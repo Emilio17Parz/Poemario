@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Poeta y filósofo, religioso y libre pensador, hombre de concepcion y\ncapaz de accion y sacrificio, Lamennais tiene algo de San Pablo cuyo\nnombre llevaba, y muchos de los hombres de todas las edades y de todas\nlas creencias unidas por el doble vínculo del sentimiento y de la idea,\ny mancomunados por el culto de las verdades eternas que forman el\npatrimonio del género humano.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

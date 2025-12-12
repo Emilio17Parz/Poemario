@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Como la nave sin timón y rota\nque el ronco mar azota,\nincendia el rayo y la borrasca mece\nen piélago ignorado y proceloso,\nnuestro siglo --coloso--\ncon la luz que le abrasa, resplandece.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

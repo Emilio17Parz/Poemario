@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Es hermosa? Sí; es hermosa. Al mirar su tez morena,\nsiento la embriaguez sagrada que produce la ternura,\ny en mi deliquio la veo como lánguida sirena\ncuando en la paz de los mares tristes canciones murmura.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

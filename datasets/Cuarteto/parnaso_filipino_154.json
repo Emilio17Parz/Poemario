@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sobrevivimos con harto desdoro\na los horrores del fiero desastre;\nsobrevivimos y un áureo decoro\ncubre un harapo de vida en arrastre.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

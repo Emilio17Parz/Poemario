@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "160\nque iba a riunir el ejército\ny tuitos los batallones,\ny que traiba unos cañones\ncon más rayas que un cotín;\n¡pucha!- Las conversaciones\npor allá no tenían fin.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

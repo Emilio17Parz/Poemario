@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mi táctica es\nmirarte\naprender como sos\nquererte como sos\nmi táctica es\nhablarte\ny escucharte\nconstruir con palabras\nun puente indestructible\nmi táctica es\nquedarme en tu recuerdo\nno sé cómo ni sé\ncon qué pretexto\npero quedarme en vos\nmi táctica es\nser franco\ny saber que sos franca\ny que no nos vendamos\nsimulacros\npara que entre los dos\nno haya telón\nni abismos\nmi estrategia es\nen cambio\nmás profunda y más\nsimple\nmi estrategia es\nque un día cualquiera\nno sé cómo ni sé\ncon qué pretexto\npor fin me necesites.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Veía a poco su cuerpo de azucena\navanzar indeciso, lentamente,\nmientras un ansia de pasión ardiente\ndaba a mi pecho hervores de colmena.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

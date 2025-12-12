@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y Elías es mi hermano. Su firmeza\narde en todas las almas filipinas,\nya la ciñan de flores o de espinas,\ny satura de fe nuestra cabeza.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

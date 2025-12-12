@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "menos, _adv._, less, least; except, with the exception of; á lo --, at\nleast; al --, at least; la cosa no era para --, nothing less could be\nexpected; no poder (por) -- de, not to be able to help; sobre más ó\n--, more or less; approximately, nearly, about; vuelven -- de los que\nvan, fewer return than go.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A aquellos resplandores podía verse la maravillosa mansión en todo su\nesplendor. En los muros, sobre pedazos de plata y oro, entre venas de\nlapizlázuli, formaban caprichosos dibujos, como los arabescos de una\nmezquita, gran muchedumbre de piedras preciosas. Los diamantes blancos y\nlimpios como gotas de agua, emergían los iris de sus cristalizaciones;\ncerca de calcedonias colgantes en estalactitas, las esmeraldas esparcían\nsus resplandores verdes, y los zafiros, en amontonamientos raros, en\nramilletes que pendían del cuarzo, semejaban grandes flores azules y\ntemblorosas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

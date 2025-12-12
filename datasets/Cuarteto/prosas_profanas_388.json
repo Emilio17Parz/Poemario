@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Va del tablado flamenco a la orilla\nY ase en sus palmas los crótalos negros,\nMientras derrocha la audaz seguidilla\nBruscos acordes y raudos alegros.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

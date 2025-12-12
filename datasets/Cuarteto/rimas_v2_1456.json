@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si dijese: «Por tí tan solo vivo!\n«Esbelta ninfa, la del talle airoso!»--\nTal vez volviendo tu semblante hermoso\nMe contestáras con acento esquivo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

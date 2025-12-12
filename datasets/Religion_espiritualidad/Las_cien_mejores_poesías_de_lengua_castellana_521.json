@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En tus fiestas seductoras\n¿No oyes del alma en lo interno\nUn rumor,\nQue lúgubre a todas horas,\nNos dice que no es eterno\nNuestro amor?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Y vencieron. Y el Lábaro divino,\npresagio de una gloria verdadera,\nhizo triunfar, al par que a Constantino\nla causa santa del que en él muriera.\nY tuvo desde allí mejor destino\nel que un suplicio vil tan sólo fuera,\nbrillando con fulgores celestiales\nen las mismas coronas imperiales.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

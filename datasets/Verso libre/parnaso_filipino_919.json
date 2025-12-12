@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y la labor penosa en la calma aparente\nque al huracán precede y volverá a bramar,\ncon la tarea siguiendo más firme, más prudente,\nprovocará otra lucha aun más tenaz y ardiente\nhasta que consigamos tus lágrimas secar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

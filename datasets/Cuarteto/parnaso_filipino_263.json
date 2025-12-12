@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mujer de fresa y nieve y terciopelo,\nSuave como los besos de las brisas,\nEn cuyos ojos el azul del cielo\nEs una flor de luz rota en sonrisas;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

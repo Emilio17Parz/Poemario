@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Así corrió muchas horas, atravesó las cañadas del valle y el pedregoso\nlecho del río, é internándose en un bosque inmenso, se perdió entre\nsus sombrías revueltas, siempre fijos los ojos en la codiciada res,\nsiempre creyendo alcanzarla, siempre viéndose burlado por su agilidad\nmaravillosa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

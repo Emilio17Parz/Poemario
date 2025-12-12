@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Recapitulación de tildes. Es frecuente en los filipinos, aun los\nilustrados, el sesear, defecto emergente de carecer del fonetismo de\nla _ce_ sus lenguas vernáculas. De ahí el aconsonantar _besos_ con\n_rezos_ y _sonrisa_ con _sinfoniza_. Otro vate consuena _jazmín_ con\n_jardín_, lo que es menos explicable. Un tercero, queriendo decirle\n\"rimador\" a Rueda le dice _rimero_, cosa bien distinta... Pero no\ndesmenucemos. En la construcción, es anomalía reiterada la de emplear\nlos varios modos de los verbos cual si tuvieran igual valor en el\ntiempo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

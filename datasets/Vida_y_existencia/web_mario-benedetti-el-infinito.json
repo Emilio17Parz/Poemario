@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "De un tiempo a esta parte\nel infinito\nse ha encogido\npeligrosamente.\nQuién iba a suponer\nque segundo a segundo\ncada migaja\nde su pan sin límites\niba así a despeñarse\ncomo canto rodado\nen el abismo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

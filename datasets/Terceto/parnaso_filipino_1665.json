@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y tanto ya he dudado, que a concebir no alcanzo\nsi en el mar de la vida, con mi bajel avanzo\ncomo un hombre juicioso o como un hombre loco.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

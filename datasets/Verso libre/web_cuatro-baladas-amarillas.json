@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "I\nEn lo alto de aquel monte\nhay un arbolillo verde.\nPastor que vas,\npastor que vienes.\nOlivares soñolientos\nbajan al llano caliente.\nPastor que vas,\npastor que vienes.\nNi ovejas blancas ni perro\nni cayado ni amor tienes.\nPastor que vas.\nComo una sombra de oro\nen el trigal te disuelves.\npastor que vienes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

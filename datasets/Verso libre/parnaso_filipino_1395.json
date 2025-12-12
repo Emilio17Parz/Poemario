@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "\"¿Ya no hay nobles hidalgos\nni bravos caballeros?\n¿Callaremos ahora\npara llorar después?\"\n(RUBEN DARIO, \"Los Cisnes\")",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los poetas de este PARNASO, por lo general, no parecen descubrir en su\nsolar motivos de inspiración. Porque los encuentra, elogia Guerrero a\nMarfori en el proemio de _Aromas de ensueño_. Ni el paisaje, tan\nsugeridor, les tienta, de lo que se duele el ya citado erudito de los\nSantos Cristóbal en el prólogo a _Palomicas de mi palomar_, de Felipe\nA. de la Cámara. Acaso lamentos tales obraron como nervino sobre\nalgunas idiosincrasias, pues Apóstol, Recto, Valdés, Marfori, en\ncomposiciones recientes, plasman sensaciones de aquella prodigiosa\nNaturaleza.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

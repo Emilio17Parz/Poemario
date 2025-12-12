@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Los suspiros son aire, y van al aire.\nLas lágrimas son agua, y van al mar.\nDime, mujer: cuando el amor se olvida,\n¿Sabes tú adónde va?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

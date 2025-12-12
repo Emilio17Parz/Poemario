@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Y con su manto de hielo\nLa eternidad nos envuelve,\nY en ancho mar de consuelo\nSe sacia el ardiente anhelo\nQue la existencia revuelve.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "existencia"
+  }
+}

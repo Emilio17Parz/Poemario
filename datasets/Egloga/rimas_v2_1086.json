@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Es blanca como la luna,\nEs pura como una estrella,\nEs tan cándida y tan bella\nCual la primer luz del sol,\nComo esa luz que se mezcla\nA los tintes de la aurora,\nY el verde campo colora\nCon espléndido arrebol.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

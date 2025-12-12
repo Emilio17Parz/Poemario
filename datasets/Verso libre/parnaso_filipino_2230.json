@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡La nave...! ¿Quién sabe cierto\nsi los que surcando van\nde los mares el desierto\nllegarán salvos al pueblo?\n¿Quién sabe si volverán?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

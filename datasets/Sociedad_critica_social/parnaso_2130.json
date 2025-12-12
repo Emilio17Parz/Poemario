@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "En el Duan,\nMetido en grande agonia.\nAmés, Xemí, Zaragá,\nY los Balucos Baxies,\nY todos los Debaxies,\nY el Daxés están allá.\nHanse juntado á consejo\nSobre que se ha averiguado\nQue el Rey de España ha juntado\nDe guerra grande aparejo.\nDicen que va á Portugal,\nMas temese no sea maña,\nY es bien que tema su saña\nArgel, que le hace mas mal.\nEn la guerra hay mil ensayos,\nDe fraudes y astucias llenos,\nAcullá suenan los truenos,\nAca disparan los rayos.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

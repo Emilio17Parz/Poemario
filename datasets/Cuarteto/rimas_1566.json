@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ha envejecido, sí; ¡pese á mi estrella!\nHarto lo dice ya mi afán doliente;\nQue hay dolor que al pasar, su horrible huella\nGraba en el corazón, si no en la frente.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

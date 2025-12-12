@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Pues en ese cabezo se halla, porque allí están las piedras, y donde\nestán las piedras está el castillo, como está la gallina en el huevo\ny la espiga en el grano--insistió el extraño personaje, á quien\nsus interlocutores, irresolutos hasta aquel punto, no dudaron en\ncalificar de loco de remate.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

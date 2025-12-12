@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Suelta mi manso, mayoral extraño,\nPues otro tienes tú de igual decoro:\nSuelta la prenda que en el alma adoro,\nPerdida por tu bien y por mi daño.\nPonle su esquila de labrado estaño,\nY no le engañen tus collares de oro:\nToma en albricias este blanco toro\nQue a las primeras yerbas cumple un año.\nSi pides señas, tiene el vellocino\nPardo, encrespado, y los ojuelos tiene\nComo durmiendo en regalado sueño.\nSi piensas que no soy su dueño, Alcino,\nSuelta, y verasle si a mi choza viene;\nQue aun tienen sal las manos de su dueño.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

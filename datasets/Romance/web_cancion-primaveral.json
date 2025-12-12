@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "I\nSalen los niños alegres\nDe la escuela,\nPoniendo en el aire tibio\nDel abril, canciones tiernas.\n¡Que alegría tiene el hondo\nSilencio de la calleja!\nUn silencio hecho pedazos\npor risas de plata nueva.\nII\nVoy camino de la tarde\nEntre flores de la huerta,\nDejando sobre el camino\nEl agua de mi tristeza.\nEn el monte solitario\nUn cementerio de aldea\nParece un campo sembrado\nCon granos de calaveras.\nY han florecido cipreses\nComo gigantes cabezas\nQue con órbitas vacías\nY verdosas cabelleras\nPensativos y dolientes\nEl horizonte contemplan.\n¡Abril divino, que vienes\nCargado de sol y esencias\nLlena con nidos de oro\nLas floridas calaveras!",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

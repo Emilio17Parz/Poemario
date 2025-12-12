@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Duerme en un lecho de azuladas nubes\nPara ir á despertar entre querubes\nEn la region de luz,\nCual ave peregrina que se ausenta\nDonde la noche el negro trono asienta\nPara buscar regiones sin capuz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

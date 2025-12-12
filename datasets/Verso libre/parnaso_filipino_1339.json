@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sabe pulsar la cítara con melodioso acento,\nlúgubre como un cisne, triste como un lamento\nsi se siente morir.\nSabe pulsar la cítara en arpegios bullentes,\ncomo del _champagne_ rubios los topacios hirvientes,\ncuando su pecho embriaga la dicha del vivir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

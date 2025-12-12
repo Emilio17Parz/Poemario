@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No en la trípode de oro del poeta\nBelleza celestial te cantaré,\nPero tendrás mi admiracion secreta,\nY poseerás del corazon la fé.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

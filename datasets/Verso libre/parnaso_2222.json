@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No, porque tengo ya hecha una pasta\nDe harina y huevos, y con miel mezclada,\nY cocida muy bien, la qual me dicen,\nQue dá muy poco della gran sustento.\nSi aquesto me faltare, algunas yerbas\nPienso comer con sal, que tambien llevo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

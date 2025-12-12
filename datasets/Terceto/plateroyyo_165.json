@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y he escrito al margen del libro; \"<i>Asnografía: s. f.: se debe decir,\ncon ironía, ¡claro está!, por descripción del hombre imbécil que escribe\nDiccionarios.</i>\"",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

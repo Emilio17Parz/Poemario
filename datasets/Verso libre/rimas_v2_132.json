@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Qué dice Vd. de Shakespeare? ¿Quién ha penetrado mas hondamente que él\nen los arcanos del corazon humano? ¿Quién con mas sabiduría y mas\nprofundidad que él ha sabido crear esos tipos inmortales, que\npersonifican las pasiones de tal modo, que á no haber surgido de su\nmente, el hombre no se conocería á sí mismo? Shakespeare, puede decirse,\nque, no solo nada de lo que tenia relacion con el hombre le era\nindiferente, sino que sabia todo cuanto al hombre concernia. ¡Lástima\nque fuese poeta! dirá Vd., y que en vez de escribir dramas no haya\nempleado su fuerza de voluntad en buscar alguna aplicacion útil de las\nfuerzas físicas, en vez de estasiarse en un monólogo estéril y sublime!\n¿Esto es sério?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

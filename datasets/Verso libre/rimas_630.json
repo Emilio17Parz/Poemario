@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Margarita siguió á Pedro con los ojos hasta que su sombra se\nconfundió entre la niebla de la noche; y cuando ya no pudo\ndistinguirle, se volvió lentamente al lugar, donde la aguardaban sus\nhermanos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

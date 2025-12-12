@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡La Cruz! Esa es la luz que los encanta\npor los tristes desiertos de la tierra.\n¡La Cruz! Esa es el alma sacrosanta;\nque les hace invencibles en la guerra.\nCuando, erguida en sus manos, se levanta,\nlos más alzados ídolos aterra.\nIdolos fuertes que a los ciegos doman\ntiemblan ante la cruz y se desploman.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

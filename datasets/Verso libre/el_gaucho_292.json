@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "260\nMe refalé las espuelas,\npara no peliar con grillos;\nme arremangué el calzoncillo,\ny me ajusté bien la faja,\ny en una mata de paja\nprobé el filo del cuchillo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

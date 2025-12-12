@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Id y decid...; decid que cuando el alba\nvuestro cáliz abrió por vez primera,\ncabe el Neckar helado,\nle vísteis silencioso a vuestro lado\npensando en su constante primavera.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

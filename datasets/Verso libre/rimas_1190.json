@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Verá usted... después de las doce de la noche, pues las brujas,\nque lo quisieran impedir no tienen poder sino desde las ocho hasta\nesa hora, se toma el cedazo, se hacen sobre él tres cruces con la\nmano izquierda, y suspendiéndole en el aire, cogido por el aro\ncon las puntas de unas tijeras, se le pregunta. Si se ha olvidado\nalguna palabra del credo, da vueltas por sí solo, y si no, se está\n_quietico, quietico_, como la hoja en el árbol cuando no se mueve una\npaja de aire.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

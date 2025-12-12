@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A su eco se alza el pueblo\nRompiendo sus cadenas,\nCon brazos vigorosos\nMas duros que el metal,\nY si en la dura lucha\nDan vuelta las espaldas,\nVuelven, si dá la lira\nDe alarma la señal.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

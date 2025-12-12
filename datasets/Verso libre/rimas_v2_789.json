@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El gaucho! noble tipo Americano,\nQue desdeña doblar ante un tirano\nSu indómita cerviz,\nQue despreciando halagos femeniles\nConserva los alientos juveniles\nDe una raza viril.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

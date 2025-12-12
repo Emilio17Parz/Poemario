@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Feliz el que pueda colgar á su estremo\nLa escelsa corona de rosa y laurel,\nCual símbolo hermoso del genio supremo\nQue indique á la reina de todo el verjel.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

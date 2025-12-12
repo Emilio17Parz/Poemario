@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Ay! No recuerda el ánimo suspenso\nun siglo más inmenso,\nmás rebelde a tu voz, más atrevido;\nentre nubes de fuego alza su frente,\ncomo Luzbel, potente;\npero también, como Luzbel, caído.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

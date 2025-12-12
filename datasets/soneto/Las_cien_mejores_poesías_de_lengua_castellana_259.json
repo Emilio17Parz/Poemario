@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "¿Qué tengo yo, que mi amistad procuras?\n¿Qué interés se te sigue, Jesús mío,\nQue a mi puerta, cubierto de rocío,\nPasas las noches del invierno escuras?\n¡Oh cuánto fueron mis entrañas duras,\nPues no te abrí! ¡Qué extraño desvarío\nSi de mi ingratitud el hielo frío\nSecó las llagas de tus plantas puras!\n¡Cuántas veces el ángel me decía:\n«Alma, asómate agora a la ventana;\nVerás con cuánto amor llamar porfía!»\nY ¡cuántas, hermosura soberana,\n«Mañana le abriremos,» respondía,\nPara lo mismo responder mañana!",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

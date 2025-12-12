@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya le he demostrado que la prosa fué hija de la poesía. Ahora voy á\ndemostrarle que la prosa ha hecho progresos alumbrada por la antorcha de\nla poesía, que ha sido para ella la columna de fuego que la ha conducido\nhasta la tierra de promision.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

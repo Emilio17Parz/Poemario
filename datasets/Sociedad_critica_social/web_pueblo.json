@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sobre el monte pelado\nun calvario.\nAgua clara\ny olivos centenarios.\nPor las callejas\nhombres embozados,\ny en las torres\nveletas girando.\nEternamente\ngirando.\n¡Oh pueblo perdido,\nen la Andalucía del llanto!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

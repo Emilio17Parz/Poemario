@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El choque engendra luz; por eso libras\ncontiendas con la pluma o con la espada;\nbrota el rayo del choque de dos nubes\ny al golpe del martillo el fuego salta...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

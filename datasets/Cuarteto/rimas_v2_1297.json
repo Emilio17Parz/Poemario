@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Mas, nada importa que mis pobres versos\nEn este libro vuestro ya no estén,\nCuando otros astros de esplendor eterno\nEntre sus hojas relucir se ven;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

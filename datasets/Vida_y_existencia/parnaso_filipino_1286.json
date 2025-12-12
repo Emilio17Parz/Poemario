@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es el tiempo propicio de segar las espigas doradas\nque en ya próximos días, formarán las hogazas del mortal sacrificio.\nEn la áurea patena, y formado con trigos de América,\nyazga el pan de la Misa sobre el cáliz teñido con la sangre de España.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Á dónde vas?--En medio á las ciudades\nVoy á purificar los corazones.\n--Deten, que si al impío no persuades\nLa rabia exaltarás de las pasiones.\n--No, no: yo voy en medio á las ciudades\nÁ curar los viciados corazones.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y en un sublime exceso\nde su amor inmortal,\nmi madre fué la única mujer que un sacro beso\ndepositó en las ruinas de mi carne mortal.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Dios puso el fuego en los volcanes como galas,\npara que su humo trémulo, a modo de un favor,\nle incensase;\ncomo puso dos alas en el ave y cien alas\nen la flor\npara que le perfumase.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ella era hermosa, hermosa con esa hermosura que inspira el vértigo;\nhermosa con esa hermosura que no se parece en nada á la que soñamos en\nlos ángeles, y que, sin embargo, es sobrenatural; hermosura diabólica,\nque tal vez presta el demonio á algunos seres para hacerlos sus\ninstrumentos en la tierra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

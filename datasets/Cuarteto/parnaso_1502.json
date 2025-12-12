@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Nosotras desde aqui ya comenzamos\nA dar con voluntad nuestros arreos,\nY á la vida las vuestras entregamos\nComo se han entregado los deseos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Fueron tres mariposas de alas tornasoladas,\nQue al encontrar amargas las flores del jardin,\nAl cielo se elevaron, buscando atribuladas\nLas flores con que ciñe su frente el serafin.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

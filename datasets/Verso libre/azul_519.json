@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Oía, oreja atenta, el ruido de las ropas. Por la puerta entreabierta\nveía salir la pareja que hablaba en voz alta. Cerca de mí pasaba el\nfrufú de las polleras antiguas de mi abuela y del traje de Inés,\ncoqueto, ajustado, para mí siempre revelador.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mariposa sedienta de luz y de colores,\nsoñando en otros cielos y en más vasto pensil,\ndejé, joven apenas, mi patria y mis amores,\ny errante por doquiera, sin dudas, sin temores,\ngasté en tierras extrañas de mi vida el abril.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

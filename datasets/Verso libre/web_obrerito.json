@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Madre, cuando sea grande,\n¡ay..., qué mozo el que tendrás!\nTe levantaré en mis brazos,\ncomo el zonda al herbazal.\nO te acostaré en las parvas\no te cargaré hasta el mar\no te subiré las cuestas\no te dejaré al umbral.\n¿Y qué casal ha de hacerte\ntu niñito, tu titán,\ny qué sombra tan amante\nsus aleros van a dar?\nYo te regaré una huerta\ny tu falda he de cansar\ncon las frutas y las frutas\nque son mil y que son más.\nO mejor te haré tapices\ncon la juncia de trenzar;\no mejor tendré un molino\nque te hable haciendo el pan.\nCuenta, cuenta las ventanas\ny las puertas del casal;\ncuenta, cuenta maravillas\nsi las puedes tú contar...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

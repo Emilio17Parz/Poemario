@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En su entusiasmo de héroes,\nEn sus nobles facciones,\nConoceis los campeones\nDe Salta y de Maipú?\nSon ellos, que atrevidos\nCon grande fé en el alma\nAdornarán con palma\nEl estandarte azul;\nÓ morirán como héroes\nLegando un alto ejemplo,\nQue brillará en el templo\nDe la inmortalidad.\nHonor para la Patria\nSi rompen sus cadenas!\nHonor si de sus venas\nLa sangre solo dan!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

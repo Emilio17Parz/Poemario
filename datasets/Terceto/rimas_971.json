@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Á poco volaron los pájaros, y con ellos sus pequeñuelos ya vestidos\nde plumas; y quedó el nido solo, columpiándose lentamente, y triste\ncomo la cuna vacía de un niño muerto.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

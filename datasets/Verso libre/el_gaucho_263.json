@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "232\nLe echan la agua del bautismo\naquél que nació en la selva;\nbusca madre que te envuelva,\nle dice el fraire y lo larga.\nY dentra a cruzar el mundo\ncomo burro con la carga.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

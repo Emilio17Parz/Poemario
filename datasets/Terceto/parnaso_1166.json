@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Item, se ordena que ningun poeta grave haga corrillo en lugares\npúblicos, recitando sus versos, que los que son buenos en las aulas de\nAtenas se havian de recitar, que no en las plazas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

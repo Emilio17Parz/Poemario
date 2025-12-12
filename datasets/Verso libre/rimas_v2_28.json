@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esta circunstancia nos ha determinado á hacer de las _Rimas de don\nBartolomé Mitre_ una edicion mas completa y correcta que la anterior, á\nla vez que mas lujosa, satisfaciendo así la demanda del público y\nenriqueciendo con ella la Biblioteca de Escritores Argentinos que hemos\nemprendido y de que llevamos publicados ya algunos volúmenes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En este libro no sé qué debo preferir: si la prosa o los versos. Casi me\ninclino a ver mérito igual en ambos modos de expresión del pensamiento\nde usted. En la prosa hay más riqueza de ideas; pero es más afrancesada\nla forma. En los versos la forma es más castiza. Los versos de usted se\nparecen a los versos españoles de otros autores, y no por eso dejan de\nser originales; no recuerdan a ningún poeta español, ni antiguo, ni de\nnuestros días.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

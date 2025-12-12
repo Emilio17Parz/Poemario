@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En ti el hábil orfebre cincela el marco\nEn que la idea-perla su oriente acusa,\nO en tu cordaje harmónico formas el arco\nCon que lanza sus flechas la airada musa.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

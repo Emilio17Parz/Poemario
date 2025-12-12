@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--¿Te acuerdas de los hermosos días en que brotamos; de aquella\napacible mañana en que, roto el hinchado botón que nos servía de\ncuna, nos desplegamos al templado beso del sol como un abanico de\nesmeraldas?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

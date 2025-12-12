@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Pero la hermosa causa que proclama\nMillares de hombres á su lado llama,\nQue no saben quien es.\nVuelan á las banderas de la gloria,\nY en su frente presagios de victoria\nCreeríanse leer.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

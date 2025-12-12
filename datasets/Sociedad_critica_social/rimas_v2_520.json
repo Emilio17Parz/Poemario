@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Para incendiarla en alto patriotismo,\nPara animar la antorcha del civismo\nPara encender del pueblo la virtud;\nPara templar los tibios corazones,\nPara quemar los últimos girones\nDel manto de la torpe esclavitud.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "100\nDios le perdone al salvaje\nlas ganas que me tenía...\ndesaté las tres marías\ny lo engatusé a cabriolas...\n¡pucha...! Si no traigo bolas\nme achura el indio ese día.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

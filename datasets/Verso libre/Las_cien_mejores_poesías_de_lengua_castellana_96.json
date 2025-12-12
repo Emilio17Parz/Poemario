@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Decidme: la hermosura,\nLa gentil frescura y tez\nDe la cara,\nLa color y la blancura,\nCuando viene la vejez\n¿Cuál se para?\nLas mañas y ligereza\nY la fuerça corporal\nDe juventud,\nTodo se torna graveza\nCuando llega al arrabal\nDe senectud.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

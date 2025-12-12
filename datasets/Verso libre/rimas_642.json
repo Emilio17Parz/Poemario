@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando dejó de herir al viento el agudo clamor de la formidable\ntrompetería, comenzó á oirse un rumor sordo, compasado y uniforme.\nEran los peones de la mesnada, armados de largas picas y provistos\nde sendas adargas de cuero. Tras éstos no tardaron en aparecer los\naparejadores de las máquinas, con sus herramientas y sus torres de\npalo, las cuadrillas de escaladores y la gente menuda del servicio de\nlas acémilas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

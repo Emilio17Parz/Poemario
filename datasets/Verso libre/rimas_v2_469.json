@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Descance con mi plectro\nMi cítara de acero,\nDesfile cada espectro\nCon ademan severo,\nAl son de los clarines\nQue llenan los confines\nCon son atronador!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

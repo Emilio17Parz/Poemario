@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Lamartine, c'est la, dans cette rue obscure,\nAssis sur une borne, au fond d'un carrefour,\nLes deux mains sur mon coeur, et serrant ma blessure,\nEt sentant y saigner un invincible amour;\nC'est là, dans cette nuit d'horreur et de detresse,\nAu milieu des transports d'un peuple furieux\nQui semblait en passant crier à ma jeunesse:\n\"Toi qui pleures ce soir, n'as-ta pas ri comme eux?\"\nC'est là, devant ce mur, où j'ai frappe ma tete,\nOù j'ai posé deux fois le fer sur mon sein nu;\nC'est là, le croiras-tu? chaste et noble poète,\nQue de tes chants divins je me suis souvenu.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

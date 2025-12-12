@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Cantemos el oro, porque tapa las bocas que nos insultan; detiene las\nmanos que nos amenazan, y pone vendas a los pillos que nos sirven.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

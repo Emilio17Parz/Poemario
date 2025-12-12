@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Oh, no lloreis, esposos: mejor es su destino;\nSu vida es mas tranquila y exenta de dolor;\nSentadas en las gradas del trono diamantino\nEn torno de sí vierten mas suave resplandor.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

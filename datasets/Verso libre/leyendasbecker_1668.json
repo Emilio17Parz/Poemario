@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Besa el aura que gime blandamente\nLas leves ondas que jugando riza;\nEl sol besa á la nube en occidente\nY de púrpura y oro la matiza;\nLa llama en derredor del tronco ardiente\nPor besar á otra llama se desliza,\nY hasta el sáuce, inclinándose á su peso,\nAl río, que le besa, vuelve un beso.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

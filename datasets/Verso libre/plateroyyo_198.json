@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la tarde que cae, se alza, claro, el latín andaluz de los salmos. El\nsol, ya rosa, quiebra su rayo bajo, que viene por la calle del Río, en\nla cargazón de oro de las viejas capas pluviales. Arriba, en derredor de\nla torre escarlata, sobre el ópalo terso de la hora serena de Junio, las\npalomas tejen sus altas guirnaldas de nieve encendida...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

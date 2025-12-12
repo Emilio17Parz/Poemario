@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Caña de voz y gesto,\nuna vez y otra vez\ntiembla sin esperanza\nen el aire de ayer.\nLa niña suspirando\nlo quería coger;\npero llegaba siempre\nun minuto después.\n¡Ay sol! ¡Ay luna, luna!\nUn minuto después.\nSesenta flores grises\nenredaban sus pies.\nMira cómo se mece\nuna vez y otra vez,\nvirgen de flor y rama,\nen el aire de ayer.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

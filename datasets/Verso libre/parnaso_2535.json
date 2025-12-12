@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Bien lo muestras en ser tan atrevido,\nO tu Raxa caud, dalde seiscientos palos\nEn las espaldas muy bien dados,\nY luego le dad otros quinientos\nEn la barriga, y en los pies cansados.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

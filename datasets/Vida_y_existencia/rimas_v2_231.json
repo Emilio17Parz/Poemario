@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hoguera abrasadora del gran Mayo,\nDo se incendió terrible como el rayo\nEl fuego de un pensar generador;\nQue el corazon templó cual hierro fuerte,\nY dió existencia á la materia inerte,\nComo el soplo divino del Creador.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "existencia"
+  }
+}

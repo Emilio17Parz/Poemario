@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ningún padre de la iglesia\nha sabido explicar\npor qué no existe\nun mandamiento once\nque ordene a la mujer\nno codiciar al hombre\nde su prójima.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

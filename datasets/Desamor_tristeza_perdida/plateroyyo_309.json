@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "En los largos días en que la niña navegó en su cuna alba, río abajo,\nhacia la muerte, nadie se acordaba de Platero. Ella, en su delirio, lo\nllamaba, triste: ¡Platerillo...! Desde la casa obscura y llena de\nsuspiros, se oía, á veces, la lejana llamada lastimera del amigo. ¡Oh,\nestío melancólico!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

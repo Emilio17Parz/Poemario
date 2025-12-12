@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ha bajado la nieve, divina criatura,\nel valle a conocer.\nHa bajado la nieve, mejor que las estrellas.\n¡Mirémosla caer!\nViene calla-callando, cae y cae a las puertas\ny llama sin llamar.\nAsí llega la Virgen, y así llegan los sueños.\n¡Mirémosla llegar!\nElla deshace el nido grande que está en los cielos\ny ella lo hace volar.\nPlumas caen al valle, plumas a la llanada,\nplumas al olivar.\nTal vez rompió, cayendo y cayendo, el mensaje\nde Dios Nuestro Señor.\nTal vez era su manto, tal vez era su imagen,\ntal vez no más su amor.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

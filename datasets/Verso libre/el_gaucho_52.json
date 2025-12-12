@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "27\nEste se ata las espuelas,\nse sale el otro cantando,\nuno busca un pellón blando,\neste un lazo, otro un rebenque,\ny los pingos relinchando\nlos llaman dende el palenque.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

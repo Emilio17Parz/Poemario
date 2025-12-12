@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Nevarosa estación\"",
   "poema": {
     "texto": "Montaña blanca neva,\nVientos suaves caen llanto,\nMundo tranquilo en nieve.\n\nRío congelado duerme,\nPajaros desaparecen,\nSólo silencio reinan.\n\nNieve roja y pura,\nAurora en el cielo se abre,\nCubriendo al mundo de luz.",

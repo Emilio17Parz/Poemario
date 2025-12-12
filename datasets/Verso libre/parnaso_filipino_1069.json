@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Preguntádselo a las tribus que moran en sus laderas\ny os dirán que el Apo duerme con sus ansiedades fieras\nque las lavas de sus hornos sólo se desbordarán\nel año en que ellos olviden, en su propio menoscabo,\nla tradición milenaria de dar a feudo un esclavo\narrojándole a las fauces insaciables del volcán.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

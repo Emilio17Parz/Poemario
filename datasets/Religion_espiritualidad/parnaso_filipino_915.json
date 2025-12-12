@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No importa que suframos destierros y prisiones,\ntormentos infernales con salvaje furor;\nante el altar sagrado que en nuestras corazones\njuntos te hemos alzado, sin mancha de pasiones,\njuramentos te hicieron el alma y el honor.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

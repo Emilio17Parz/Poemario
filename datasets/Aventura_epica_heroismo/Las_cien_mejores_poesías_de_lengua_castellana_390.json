@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "A un tiempo mismo en rápida tormenta\nMi alma alborotaban de contino,\nCual las olas que azota con violenta\nCólera impetuoso torbellino:\nSoñaba al héroe ya, la plebe atenta\nEn mi voz escuchaba su destino;\nYa al caballero, al trovador soñaba,\nY de gloria y de amores suspiraba.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

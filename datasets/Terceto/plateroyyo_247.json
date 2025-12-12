@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Agua, sol y frío. Los redondos papelillos de colores van rodando\nparalelamente por la acera, al viento agudo de la tarde, y las máscaras,\nateridas, hacen bolsillos de cualquier cosa para las manos azules.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

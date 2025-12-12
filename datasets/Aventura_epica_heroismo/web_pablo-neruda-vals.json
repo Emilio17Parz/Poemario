@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Yo toco el odio como pecho diurno,\nyo sin cesar, de ropa en ropa vengo\ndurmiendo lejos.\nNo soy, no sirvo, no conozco a nadie,\nno tengo armas de mar ni de madera,\nno vivo en esta casa.\nDe noche y agua está mi boca llena.\nLa duradera luna determina\nlo que no tengo.\nLo que tengo está en medio de las olas.\nUn rayo de agua, un día para mí:\nun fondo férreo.\nNo hay contramar, no hay escudo, no hay traje,\nno hay especial solución insondable,\nni párpado vicioso.\nVivo de pronto y otras veces sigo.\nToco de pronto un rostro y me asesina.\nNo tengo tiempo.\nNo me busquéis entonces descorriendo\nel habitual hilo salvaje o la\nsangrienta enredadera.\nNo me llaméis: mi ocupación es ésa.\nNo preguntéis mi nombre ni mi estado.\nDejadme en medio de mi propia luna,\nen mi terreno herido.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

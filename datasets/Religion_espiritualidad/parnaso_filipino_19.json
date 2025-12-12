@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No te alebres, lector, al afrontar el título de este volumen,\nimaginando que van a servirte versos escritos en todas o algunas de\nlas treinta y tantas lenguas vernáculas del Archipiélago Filipino. Ni\nyo sabría aderezar ese manjar, ni tú cómo catarle. Sobre que tal\npoesía es parva, \"difícil de exponer\", según el ilustrado erudito de\nallá Don Epifanio de los Santos Cristóbal, y con la antinomia de ser\nsus cultivadores, tanto o más que los autóctonos, misioneros\nespañoles, en rimas \"a lo divino\", enderezadas a inyectar la fe de\nCristo en los corazones isleños.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

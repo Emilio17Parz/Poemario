@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Nuestros días sin sol, de retiro y mudez,\nen que el alma sufrió de congoja o esplín,\nhan pasado a ser ya cosa muerta, y, al fin,\nnuevos besos de luz nos encienden la tez\ny florece otra vez el antiguo jardín.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Anacreonte, padre de la sana alegría;\nOvidio, sacerdote de la ciencia amorosa;\nQuevedo, en cuyo cáliz licor jovial rebosa;\nBanville, insigne orfeo de la sacra Harmonía,",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

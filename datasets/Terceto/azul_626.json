@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Hay allá, en las orillas de la laguna de la Quinta, un sauce melancólico\nque moja de continuo su cabellera verde en el agua que refleja el cielo\ny los ramajes, como si tuviese en su fondo un país encantado.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "María exclamó:--No me preguntes por qué lloro, no me lo preguntes;\npues ni yo sabré contestarte, ni tú comprenderme. Hay deseos que se\nahogan en nuestra alma de mujer, sin que los revele más que un\nsuspiro; ideas locas que cruzan por nuestra imaginación, sin que ose\nformularlas el labio, fenómenos incomprensibles de nuestra naturaleza\nmisteriosa, que el hombre no puede ni aún concebir. Te lo ruego, no me\npreguntes la causa de mi dolor; si te la revelase, acaso te arrancaría\nuna carcajada.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

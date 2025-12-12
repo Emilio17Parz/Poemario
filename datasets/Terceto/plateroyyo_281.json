@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "¡Qué sonreir el de la chiquilla! Fué como si el sol de la tarde, que se\nrompía, al ponerse entre las nubes de agua, en amarillos cristales, le\nencendiese una aurora tras sus tiznadas lágrimas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

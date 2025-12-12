@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "241\nVamos suerte, vamos juntos\ndende que juntos nacimos;\ny ya que juntos vivimos\nsin podernos dividir-\nyo abriré con mi cuchillo\nel camino pa seguir",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Pues yo de mi intencion os diré el resto\nDespues que sea lo que digo hecho.\nVamos á ser ministros todos luego\nDe encender el ardiente y rico fuego.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Las gotas de agua que se filtraban por entre las grietas de los rotos\narcos y caían sobre las losas con un rumor acompasado, como el de\nla péndola de un reloj; los gritos del buho, que graznaba refugiado\nbajo el nimbo de piedra de una imagen, de pie aún en el hueco de un\nmuro; el ruido de los reptiles, que despiertos de su letargo por\nla tempestad sacaban sus disformes cabezas de los agujeros donde\nduermen, ó se arrastraban por entre los jaramagos y los zarzales\nque crecían al pie del altar, entre las junturas de las lápidas\nsepulcrales que formaban el pavimento de la iglesia, todos esos\nextraños y misteriosos murmullos del campo, de la soledad y de la\nnoche, llegaban perceptibles al oído del romero que, sentado sobre\nla mutilada estatua de una tumba, aguardaba ansioso la hora en que\ndebiera realizarse el prodigio.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

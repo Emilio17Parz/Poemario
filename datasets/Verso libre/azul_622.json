@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "De pronto, volví la vista cerca de mí, al lado de un ángulo de sombra.\nHabía una mujer que oraba. Vestida de negro, envuelta en un manto, su\nrostro se destacaba severo, sublime, teniendo por fondo la vaga\nobscuridad de un confesonario. Era una bella faz de ángel, con la\nplegaria en los ojos y en los labios. Había en su frente una palidez de\nflor de lis, y en la negrura de su manto resaltaban juntas, pequeñas,\nlas manos blancas y adorables. Las luces se iban extinguiendo, y a cada\nmomento aumentaba lo obscuro del fondo, y entonces por un ofuscamiento\nme parecía ver aquella faz iluminarse con una luz blanca misteriosa,\ncomo la que debe de haber en la región de los coros prosternados y de\nlos querubines ardientes; luz alba, polvo de nieve, claridad celeste,\nonda santa que baña los ramos de lirio de bienaventurados.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

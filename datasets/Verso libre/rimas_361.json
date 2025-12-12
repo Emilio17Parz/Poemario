@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todas estas revoluciones, todas estas circunstancias especiales,\nhubieran podido únicamente dar por resultado un edificio tan\noriginal, tan lleno de contrastes, de poesía y de recuerdos, como el\nque aquella tarde se ofreció á mi vista y hoy he ensayado, aunque en\nvano, describir con palabras.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

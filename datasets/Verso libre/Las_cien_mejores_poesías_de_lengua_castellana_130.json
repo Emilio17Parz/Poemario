@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tú que por nuestra maldad\nTomaste forma civil\nY bajo nombre;\nTú que en tu divinidad\nJuntaste cosa tan vil\nComo el hombre;\nTú que tan grandes tormentos\nSufriste sin resistencia\nEn tu persona,\nNo por mis merecimientos,\nMas por tu sola clemencia\nMe perdona.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

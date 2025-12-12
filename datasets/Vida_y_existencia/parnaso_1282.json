@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "A Jupiter pluguiera soberano\nQue nuestra juventud sola se viera\nCon todo el bravo exercito Romano\nA donde el brazo rodear pudiera!\nQue alli el valor de la Española mano\nLa mesma muerte poco estorvo fuera\nPara dexar de abrir ancho camino\nA la salud del pueblo Numantino.\nMas pues en tales terminos nos vemos,\nQue estamos como damas encerrados,\nHagamos todo quanto hacer podremos\nPara mostrar los animos osados:\nA nuestros enemigos convidemos\nA singular batalla, que cansados\nDe este cerco tan largo, ser podría\nQuisiesen acabarle por tal via.\nY quando este remedio no suceda\nA la justa medida del deseo,\nOtro camino de intentar nos queda,\nAunque mas trabajoso á lo que creo:\nEste foso y muralla que nos veda\nEl paso al enemigo que alli veo,\nEn un tropel de noche le rompamos\nY por ayuda á los amigos vamos.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

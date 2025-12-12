@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Soy de los hombres que el dolor no abate\nni la implacable adversidad humilla;\nluz de esperanza en mis pupilas brilla,\nhirviente sangre en mis arterias late.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

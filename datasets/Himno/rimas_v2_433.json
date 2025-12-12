@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Llegad, nubes de incienso\nBañando vuestras frentes,\nOireis el himno inmenso\nQue pueblos reverentes\nCantan en el osario,\nNo al génio sanguinario,\nNi al Régulo opresor.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "himno"
+  }
+}

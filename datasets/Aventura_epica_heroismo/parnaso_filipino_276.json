@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Vieja y noble leona castellana!\nTuya será la norma del mañana,\nComo es hoy, por la gloria de tus hechos.\n¡Te lo rujen unidos los cachorros\nQue se amamantaron con los chorros\nDe las divinas fuentes de tus pechos!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

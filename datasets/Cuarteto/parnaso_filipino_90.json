@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "El tiempo, que devora despiadado\nnobles recuerdos dignos de la historia,\nsobre el rojo horizonte del pasado\nconserva y magnifica tu memoria.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

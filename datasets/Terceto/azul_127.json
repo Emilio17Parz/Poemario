@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Un día le llevaron una rara especie de hombre ante su trono, donde se\nhallaba rodeado de cortesanos, de retóricos y de maestros de equitación\ny de baile.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

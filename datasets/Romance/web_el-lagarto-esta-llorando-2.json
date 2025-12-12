@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "El lagarto está llorando.\nLa lagarta está llorando.\nEl lagarto y la lagarta\ncon delantalitos blancos.\nHan perdido sin querer\nsu anillo de desposados.\n¡Ay, su anillito de plomo,\nay, su anillito plomado!\nUn cielo grande y sin gente\nmonta en su globo a los pájaros.\nEl sol, capitán redondo,\nlleva un chaleco de raso.\n¡Miradlos qué viejos son!\n¡Qué viejos son los lagartos!\n¡Ay, cómo lloran y lloran,\n¡ay! ¡ay! cómo están llorando!",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

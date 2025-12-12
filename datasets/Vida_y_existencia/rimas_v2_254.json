@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La que Atenas del mundo Americano\nDistribuyó con generosa mano\nDe ilustracion y de verdad el pan,\nY en la mente sin luz de la criatura\nEncerraba la ardiente levadura\nQue con la edad debia fermentar?",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

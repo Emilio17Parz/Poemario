@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Un día en que salió de caza, y que, como era su costumbre, hizo entrar\ná guarecerse de la lluvia á toda su endiablada comitiva de pajes\nlicenciosos, arqueros desalmados y siervos envilecidos, con perros,\ncaballos y gerifaltes, en la iglesia de una aldea de sus dominios, un\nvenerable sacerdote, arrostrando su cólera y sin temer los violentos\narranques de su carácter impetuoso, le conjuro en nombre del cielo y\nllevando una hostia consagrada en sus manos, á que abandonase aquel\nlugar y fuese á pie y con un bordón de romero á pedir al Papa la\nabsolución de sus culpas.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

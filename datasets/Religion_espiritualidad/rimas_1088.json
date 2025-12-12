@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Pero apenas las puertas se abren rechinando sobre sus goznes\nenmohecidos, la abadía aparece con todo su carácter. Una larga fila\nde olmos, entre los que se elevan algunos cipreses, deja ver en el\nfondo la iglesia bizantina con su portada semicircular llena de\nextrañas esculturas: por la derecha se extiende la remendada tapia de\nun huerto, por encima de la cual asoman las copas de los árboles, y á\nla izquierda se descubre el palacio abacial, severo y majestuoso en\nmedio de su sencillez. Desde este primer recinto se pasa al inmediato\npor un arco de medio punto, después del cual se encuentra el sitio\ndonde en otro tiempo estuvo el enterramiento de los monjes. Un\narroyuelo, que luego desaparece y se oye gemir por debajo de tierra,\ncorre al pie de tres ó cuatro árboles viejos y nudosos: á un lado se\ndescubre el molino medio agazapado entre unas ruinas, y más allá,\noscura como la boca de una cueva, la portada monumental del claustro\ncon sus pilastras platerescas llenas de hojarascas, bichos, ángeles,\ncariátides y dragones de granito que sostienen emblemas de la Orden,\nmitras y escudos.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

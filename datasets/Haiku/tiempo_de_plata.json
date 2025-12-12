@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Tiempo de plata.",
   "poema": {
     "texto": "Plata, brisa suave,\nResplandecer en olas,\nTiempo de silencio.",

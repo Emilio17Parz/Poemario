@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sangre de los martirios. El salterio.\nHogueras; leones, palmas vencedoras;\nLos heraldos rojos con que del misterio\nVienen precedidas las grandes auroras.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

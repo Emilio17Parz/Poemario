@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Manrique estaba loco; por lo menos, todo el mundo lo creía así. A mí,\npor el contrario, se me figura que lo que había hecho era recuperar\nel juicio.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

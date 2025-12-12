@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cristiana, de donde eres?\nEres pobre, ó eres rica?\nDe suerte ensalzada ó chica?\nNo me lo niegues, si quieres;\nPorque soi qual tú muger,\nY no de entrañas tan duras,\nQue tus tristes desventuras\nNo me hayan de enternecer.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

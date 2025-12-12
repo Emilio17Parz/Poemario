@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ya hay un español que quiere\nvivir y a vivir empieza,\nentre una España que muere\ny otra España que bosteza.\nEspañolito que vienes\nal mundo te guarde Dios.\nuna de las dos Españas\nha de helarte el corazón.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

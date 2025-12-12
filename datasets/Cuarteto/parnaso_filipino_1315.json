@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Atruenan el patio ligeros corceles,\nsus locas fanfárrias la trompa sonora\nune al argentino ladrar de lebreles\nen la cristalina quietud de la aurora.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

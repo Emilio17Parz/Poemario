@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Desde entonces dicen, que cuando llega la noche de difuntos, se\noye doblar sola la campana de la capilla, y que las ánimas de los\nmuertos, envueltas en girones de sus sudarios, corren como en una\ncacería fantástica por entre las breñas y los zarzales. Los ciervos\nbraman espantados, los lobos aúllan, las culebras dan horrorosos\nsilbidos, y al otro día se han visto impresas en la nieve las huellas\nde los descarnados pies de los esqueletos. Por eso en Soria le\nllamamos el Monte de las Ánimas, y por eso he querido salir de él\nantes que cierre la noche.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

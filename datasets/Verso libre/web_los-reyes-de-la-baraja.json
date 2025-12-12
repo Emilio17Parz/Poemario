@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si tu madre quiere un rey,\nla baraja tiene cuatro:\nrey de oros, rey de copas,\nrey de espadas, rey de bastos.\nCorre que te pillo,\ncorre que te agarro,\nmira que te lleno\nla cara de barro.\nDel olivo\nme retiro,\ndel esparto\nyo me aparto,\ndel sarmiento\nme arrepiento\nde haberte querido tanto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

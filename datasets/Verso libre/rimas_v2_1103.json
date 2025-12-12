@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si á la vez, la mansa brisa\nQue á los jazmines halaga\nY entre su copa se embriaga,\nViene mi rostro á besar,\nCreo que alguna sílfide\nQue cruza por el ambiente\nToca mi pálida frente\nCon sus alas al pasar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

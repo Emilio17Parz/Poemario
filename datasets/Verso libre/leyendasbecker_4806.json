@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "otro, -a, other, another, else, next; alguno que --, here and there\none; a very few; some; el -- día, the next day; un día y --, day after\nday; constantly; en --s días, in other (_or_ former) days; once,\nformerly; una noche y --, night after night; (el) uno y (el) --, both;\notras tantas (veces), as many (times); otra vez, again; una vez y\notra, again and again.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

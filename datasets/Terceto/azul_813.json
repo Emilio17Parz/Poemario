@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Con sus sutiles filtros la invade un dulce sueño;\nentro, sin hacer ruido; dejo mi abrigo gris;\nvoy a besar su rostro, rosado y halagüeño",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

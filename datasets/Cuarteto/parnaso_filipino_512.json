@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Es del artista inspiración fecunda;\nflor divina en el huerto de la vida;\ndel bardo en el laud nota escogida\nque de armonías la existencia inunda.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ni es del hombre la senda ó el destino\nEl reposo, el dolor ni la alegria,\nSino la accion, para que cada dia\nAvance una jornada en su camino.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

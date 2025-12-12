@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Signe por esa huella ensangrentada\nQue el verdugo señala con su planta,\nY encontrarás al fin de la jornada\nUn buen cordel que oprima tu garganta.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Por aquel tiempo, las hadas habían repartido sus dones a los mortales. A\nunos habían dado las varitas misteriosas que llenan de oro las pesadas\ncajas del comercio; a otros unas espigas maravillosas que al\ndesgranarlas colmaban las trojes de riqueza; a otros unos cristales que\nhacían ver en el riñón de la madre tierra, oro y piedras preciosas; a\nquiénes, cabelleras espesas y músculos de Goliat, y mazas enormes para\nmachacar el hierro encendido; y a quiénes, talones fuertes y piernas\nágiles para montar en las rápidas caballerías que se beben el viento y\nque tienden las crines en la carrera.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

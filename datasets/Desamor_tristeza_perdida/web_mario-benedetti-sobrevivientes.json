@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cuando en un accidente\nuna explosión\nun terremoto\nun atentado\nse salvan cuatro o cinco\ncreemos\ninsensatos\nque derrotamos a la muerte\npero la muerte nunca\nse impacienta\nseguramente porque\nsabe mejor que nadie\nque os sobrevivientes\ntambién muerten.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

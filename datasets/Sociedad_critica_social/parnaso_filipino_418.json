@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La patria de la vid y la verbena,\nque fía a la guitarra su honda pena,\ndominadora de la Argel moruna,\nla que las tierras incas civiliza,\nhidalgo pueblo, de otros cien nodriza,\núnica madre que meció mi cuna.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

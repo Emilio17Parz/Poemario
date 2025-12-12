@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Si en tu penosa y última agonía\nVolviste a lo pasado el pensamiento;\nSi comparaste a tu existencia un día\nTu triste soledad y tu aislamiento;\nSi arrojó a tu dolor tu fantasía\nTus hijos ¡ay! en tu postrer momento\nA otra mujer tal vez acariciando,\nMadre tal vez a otra mujer llamando;",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

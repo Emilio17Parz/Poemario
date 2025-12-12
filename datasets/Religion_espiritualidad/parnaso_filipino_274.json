@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El alma del poeta filipino\nSe detiene en la aurora del camino\nY llama con sus alas a tu puerta\n¡Es la hora en que el amor abre sus galas\nSi has oido los golpes de mis alas,\nSeñora de mis cánticos, despierta!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

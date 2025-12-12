@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Naturaleza",
   "poema": {
     "texto": "Del Naturaleza solo queda\nesta viento sedienta.",

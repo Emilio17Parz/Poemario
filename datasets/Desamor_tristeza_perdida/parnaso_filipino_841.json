@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soy la princesa del ropaje verde\nque renueva en el hombre la confianza,\ncuando el naufragio del vivir le pierde;\nle hago entrever la mística bonanza,\nmientras la sierpe del dolor le muerde;\nsoy la última en morir: soy la Esperanza.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

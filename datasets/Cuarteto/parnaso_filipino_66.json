@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Gloria a Rizal! Su nombre sacrosanto,\nque con incendios de Thabor llamea,\nen la mente del sabio es luz de idea,\nvida en el mármol y en el arpa canto.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

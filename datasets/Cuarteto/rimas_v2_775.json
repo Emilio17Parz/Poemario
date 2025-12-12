@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La vista al suelo con dolor bajabas,\nPero en tu corazon habia fé,\nY ardiente por tus venas aun corria\nLa sangre pura de ochocientos diez.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

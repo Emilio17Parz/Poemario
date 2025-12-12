@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Y te arrojó la patria de su seno\nPorque rendiste culto á la verdad!\nNo la patria, los monstruos que su cuello\nOprimieron con planta criminal.\nErrante por el mundo con tu lira\nFuiste sus infortunios á cantar.\nOra en las ruinas de la antigua Roma\nDo se asienta la inercia y liviandad,\nEvocando la sombra de los Gracos\nEn las tumbas te vieron meditar:\nQue impelida del soplo democrático\nMidió el mundo con paso colosal,\nPero cayó sin fuerzas cuando airada\nSu escudo le quitó la libertad,\nQue deserta las glorias de los pueblos\nSi la virtud su apoyo no le dá.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

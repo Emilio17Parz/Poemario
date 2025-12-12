@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--Eso dicen los señores de la ciudad, porque á ellos no les molestan;\ny fundados en que todo es puro cuento, echaron á presidio á algunos\ninfelices que nos hicieron un bien de caridad á la gente del\nSomontano, despeñando á esa mala mujer.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

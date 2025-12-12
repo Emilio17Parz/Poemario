@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las Repúblicas hijas de Bolívar\nBeben en copa de oro miel y acíbar\nCaminando á un hermoso porvenir,\nY Chile cual fanal del marinero\nNos muestra mas seguro derrotero\nPorque debe la América seguir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

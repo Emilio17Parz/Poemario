@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cuando en noches serenas despierta el alma mía\ntras un sueño de rosa,--dulce sueño de amor--,\nque en suave desvarío recreó mi fantasía\npor mundos ignorados y jardines en flor;",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

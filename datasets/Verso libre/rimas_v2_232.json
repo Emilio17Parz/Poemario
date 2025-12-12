@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Al vivífico rayo de tu lumbre\nSe estremeció la inmensa muchedumbre\nY el polvo del esclavo sacudió;\nAllí surgió la dignidad humana\nEn la nacion potente y soberana\nQue el soplo democrático animó.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

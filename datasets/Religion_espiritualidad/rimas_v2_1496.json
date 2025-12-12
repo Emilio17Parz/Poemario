@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Alusion á las banderas inglesas, brasileras y españolas conquistadas por\nla República Argentina en sus guerras con estas tres naciones; las\ncuales existen en los templos de Santo Domingo, La Merced y la Catedral\ny solo se desplegan en las grandes festividades cívicas.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

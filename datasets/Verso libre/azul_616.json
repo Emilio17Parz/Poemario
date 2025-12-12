@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "He visto ayer por una ventana un tiesto lleno de lilas y de rosas\npálidas, sobre un trípode. Por fondo tenía uno de esos cortinajes\namarillos y opulentos, que hacen pensar en los mantos de los príncipes\norientales. Las lilas recién cortadas resaltaban con su lindo color\napacible, junto a los pétalos esponjados de las rosas té.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

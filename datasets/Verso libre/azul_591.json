@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Bajo un cortinaje de madreselvas, entre plantas olorosas y maceteros\nfloridos, estaba una mujer pálida, augusta, madre, con un niño tierno y\nrisueño. Sosteníale en uno de sus brazos, el otro lo tenía en alto, y en\nla mano una paloma, una de esas palomas albísimas que arrullan a sus\npichones de alas tornasoladas, inflando el buche como un seno de virgen,\ny abriendo el pico de donde brota la dulce música de su caricia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

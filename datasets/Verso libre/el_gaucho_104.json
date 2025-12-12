@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "78\nY un sargento chamuscao\nme contó que las tenían\npero que ellos la vendían\npara cazar avestruces;\ny así andaban noche y día\ndele bala a los ñanduces.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

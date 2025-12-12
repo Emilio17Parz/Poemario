@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pero tres nuevos atlétas\nDispútanle su presea,\nY él en tremenda pelea\nLa disputa á todos tres.\nForcejean, y tendidos\nFuriosos luchan en vano\nPor quebrantar una mano\nQue hierro parece ser.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

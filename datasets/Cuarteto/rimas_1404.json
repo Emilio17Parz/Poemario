@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "_Tu pupila es azul, y cuando lloras,_\n_Las transparentes lágrimas en ella_\n_Se me figuran gotas de rocío_\n_Sobre una violeta._",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No hubo rincón en el mundo en que no ondearas,\nIzada por la gloria de una hazaña;\nNo hubo ciudad ni yermo en que no hablaras,\nCon tu oro y con tu púrpura, de España.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

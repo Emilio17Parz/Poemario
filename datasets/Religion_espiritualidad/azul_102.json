@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El modelo más egregio del género, el ejemplar arquetipo, es la letanía.\nLa virgen es puerta del cielo, estrella de la mañana, torre de David,\narca de la alianza, casa de oro, y mil cosas más en el orden que se nos\nantoje decirlas.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

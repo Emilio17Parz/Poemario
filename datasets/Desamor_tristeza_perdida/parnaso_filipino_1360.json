@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "En estos días trágicos en que el bárbaro esquilmo\nen esta tierra idílica alza su pabellón,\nen que nos hiere el fuerte, porque nacimos débiles\ny tiramos del carro del colonizador;\ndanos el ritmo olímpico de tu música sacra\ny la dulce armonía de tu nueva canción,\ny ante el dolor, estóicos, el mundo cruzaremos\ndel Ideal incólume volando siempre en pos.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

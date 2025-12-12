@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "161\nPero esas trampas no enriedan\na los zorros de mi laya;\nque esa ganza venga o vaya,\npoco le importa a un matrero.\nYo también dejé las rayas-\nen los libros del pulpero.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

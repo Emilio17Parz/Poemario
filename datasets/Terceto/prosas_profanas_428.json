@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "¡Oh Cisne! ¡Oh sacro pájaro! Si antes la blanca Helena\nDel huevo azul de Leda brotó de gracia llena,\nSiendo de la Hermosura la princesa inmortal,",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

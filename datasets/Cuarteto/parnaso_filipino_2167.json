@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y desde entonces, de la noche umbrosa,\nenvuelta la ciudad en el misterio,\nasí me atrae la olvidada fosa\nperdida en un rincón del cementerio.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

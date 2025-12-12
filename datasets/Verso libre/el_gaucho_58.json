@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "33\nY verlos al cair la tarde\nen la cocina riunidos,\ncon el juego bien prendido\ny mil cosas que contar,\nplaticar muy divertidos\nhasta después de cenar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

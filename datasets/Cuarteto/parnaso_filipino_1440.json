@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Es la confidente de mis hondas cuitas\nla luna que argenta mi amado jardín,\ny me habla de aquellas prestigiosas citas\nque tuve con ella en un mes de Abril.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

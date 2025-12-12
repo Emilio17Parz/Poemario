@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si al menos este afán que me devora\nalejarlo del alma consiguiera...!\nMás, ¡ay! que esta ilusión engañadora\nhasta en el sueño me persigue fiera.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

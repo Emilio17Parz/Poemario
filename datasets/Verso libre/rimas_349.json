@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por un lado la cerraba una hilera de casucas oscuras y pequeñas,\ncon sus tejados dentellados de chimeneas, veletas y cobertizos,\nsus guardacantones de mármol sujetos á las esquinas con una anilla\nde hierro, sus balcones achatados ó estrechos, sus ventanillos con\ntiestos de flores, y su farol rodeado de una red de alambre que\ndefiende los ahumados vidrios de las pedradas de los muchachos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

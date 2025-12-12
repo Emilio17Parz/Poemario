@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "O las solares pompas, o los fastos de Oriente,\nPreseas bizantinas diademas de Theodoras,\nO la lejana Cólquida que el soñador presiente\nY adonde los Jasones dirigirán las proras.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

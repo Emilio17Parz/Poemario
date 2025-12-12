@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Darbón, el médico de Platero, es grande como el buey pío, rojo como una\nsandía. Pesa once arrobas. Cuenta, según él, tres duros de edad.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

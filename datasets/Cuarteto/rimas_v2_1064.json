@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Solo diré:--«Jamas á tu cabeza\nFalte la eterna flor de la virtud,\nNi la sonrisa falte á tu belleza,\nNi al corazon le falte su quietud.»",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

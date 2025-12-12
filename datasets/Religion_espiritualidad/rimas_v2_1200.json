@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Esas estrellas puras son vuestras tres Marías:\nFlores de una mañana que no tuvo su ayer,\nMariposas que huyeron de las regiones frias,\nGotas de agua perdidas del cielo al descender.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

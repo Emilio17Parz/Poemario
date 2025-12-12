@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "No por cierto, señores, no ha nacido\nNuestra desenvoltura de ocasiones\nLascivas segun dan las muestras dello,\nSino que á Silvia le rogaba ahora\nMe hiciese una merced, que ha muchos dias\nQue se la pido, y no por mi interese,\nY ella tambien á mí me havia persuadido\nQue un servicio le hiciese, que conviene\nPara servir mejor la casa vuestra,\nY por havernos concedido entrambos\nAquello que pedia el uno al otro,\nEn señal de contento nos hallastes\nDe aquel modo que vistes, abrazados,\nSin manchar los honestos pensamientos.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

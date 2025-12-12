@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Ay! aquella mujer, tan solo aquella,\nTanto delirio a realizar alcanza,\nY esa mujer tan cándida y tan bella\nEs mentida ilusión de la esperanza:\nEs el alma que vívida destella\nSu luz al mundo cuando en él se lanza,\nY el mundo con su magia y galanura\nEs espejo no más de su hermosura:",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

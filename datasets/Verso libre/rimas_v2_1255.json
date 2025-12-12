@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya de tu rostro no verán, Eliza,\nResplandecer la plácida sonrisa,\nComo el rayo de luz\nCuando brilla la estrella vespertina,\nQue halaga dulcemente y que ilumina\nCuando la noche tiende su capuz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

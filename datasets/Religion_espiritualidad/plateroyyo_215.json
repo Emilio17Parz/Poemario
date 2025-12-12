@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tímido, el espanto mira; por la ventana entreabierta á Dios, que se\nalumbra trágicamente. Allá en oriente, entre desgarrones de nubes, se\nven malvas y rosas tristes, sucios, fríos, que no pueden vencer la\nnegrura.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

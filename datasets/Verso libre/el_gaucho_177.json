@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "149\nYo no sé porqué el gobierno\nnos manda aquí a la frontera\ngringada que ni siquiera\nse sabe atracar a un pingo.\n¡Si creerá al mandar un gringo\nque nos manda alguna fiera!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

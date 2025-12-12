@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡No me admiró tu olvido! Aunque de un día\nMe admiró tu cariño mucho más;\nPorque lo que hay en mí que vale algo,\nEso... ¡ni lo pudiste sospechar!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

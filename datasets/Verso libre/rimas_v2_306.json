@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Bebiendo el entusiasmo de sus hechos\nBuscaremos del hombre los derechos\nÁ la radiante luz de la verdad;\nEn el templo de Mayo elevaremos\nHostia de paz y allí profesaremos\nSu doctrina de amor y de hermandad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

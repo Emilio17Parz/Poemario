@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "Es cuestión de palabras, y no obstante,\nNi tú ni yo jamás,\nDespués de lo pasado, convendremos\nEn quién la culpa está.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

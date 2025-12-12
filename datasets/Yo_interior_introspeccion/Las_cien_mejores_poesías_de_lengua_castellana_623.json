@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Y a esta voz interior que solo entiende\nquien crédulo se enciende\nen fervoroso y celestial cariño,\nenvuelta en sus flotantes vestiduras\nvolaba a las alturas,\nvirgen sin mancha, mi oración de niño.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "interior"
+  }
+}

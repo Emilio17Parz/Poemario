@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En tanto el Corsario la costa admirando\nSaluda aquel rio de gracia inmortal,\nY en alto levanta, su sien desnudando,\nTres fajas de blanco y azul celestial.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

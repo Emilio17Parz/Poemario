@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Quien desquijaba los robustos leones,\nhilando esclavo con la débil rueca;\nsin labor, sin empuje, sin acciones:\npuños de fierro y áspera muñeca!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

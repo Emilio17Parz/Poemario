@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y tu sed de gozar te lleva lejos,\ncentuplica las plumas de tus alas\ny hasta te olvidas de las cosas malas\ncual si te alucinasen mil espejos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

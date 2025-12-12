@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "(Las rosas francesas, porque fué allá en Francia\nDonde en el retiro de la dulce estancia\nEsas frescas rosas dieron su fragancia.)",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Padres míos, mi amor! Mi alma quisiera\nPagaros hoy la que en mi edad primera\nSufristeis sin gemir, lenta agonía,\nY que cada dolor de entonces fuera\nGermen de una alegría.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

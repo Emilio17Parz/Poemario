@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por qué llorais, esposos, la prematura muerte\nDe las criaturas bellas, frutos de vuestro amor,\nCuando al morir cambiaron perecedera suerte\nPor la que goza el ángel en torno del Señor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

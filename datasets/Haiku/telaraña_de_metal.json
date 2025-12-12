@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Telaraña de metal\"",
   "poema": {
     "texto": "Metal telaraña teje\nCielo negro, luz roja resplende\nFuerte y delicado.",

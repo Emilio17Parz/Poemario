@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No llores ¡virgen mía! si el destino\nde negras gasas recubrió tu suerte;\nno llores, que mi amor hasta la muerte\nluchando seguirá por tu camino.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

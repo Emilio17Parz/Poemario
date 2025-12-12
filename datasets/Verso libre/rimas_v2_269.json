@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«A la carga! á degüello! mis sicarios,\n«Que mueran los salvages unitarios\n«Por mi mazhorca á filo de puñal;\n«Despedazad sus cráneos con la bola\n«Y arrastrad de los potros á la cola\n«Sus cabezas en medio de un cardal!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

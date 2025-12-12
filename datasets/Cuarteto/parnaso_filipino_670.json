@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Son tus flores glaucos astros pensativos\ny eres todo, cuando ondulas, incensario\nante el ara de los dioses primitivos\nen el templo de algún bosque milenario.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y cuando están así ¿qué hombre puede\ncontener de los ojos una lágrima?\n¿Quién no se acuerda de los tristes seres\nque mueren de nostalgia?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

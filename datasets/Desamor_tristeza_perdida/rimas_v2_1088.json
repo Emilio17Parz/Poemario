@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Es una cosa sin nombre\nCual las quejas del amante,\nCuando suspira anhelante\nDe la música al compas;\nComo el perfume que exhala\nEl cáliz de una flor pura,\nQue inspira amor y ventura,\nY alivia el dolor tenaz.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

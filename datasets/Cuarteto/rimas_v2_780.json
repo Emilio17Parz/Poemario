@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En sus lanzas filosas levantaron\nLos sicarios del déspota cruel,\nDel inmortal Castelli la cabeza,\nDel hijo noble de ochocientos diez.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Madre de veinte pueblos que hablan tu hermoso idioma\nyo te saludo en este tu embajador poeta\ny ansío que tu sueño, análogo al de Roma,\nlo vivifique un mundo que te ama y te respeta\neterno sea el triunfo de tu vital axioma.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

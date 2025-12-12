@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Una de estas espadas os presenta\nMi airada furia, mi dolor insano,\nQue muriendo en batalla no se siente\nTanto el rigor del ultimo acidente:\nY el que privare del vital sosiego\nAl otro, por señal de beneficio\nEntregue el desdichado cuerpo al fuego,\nQue este será bien piadoso oficio.\nVenid, qué os deteneis? acudid luego,\nHaced ya de mi vida sacrificio,\nY esa terneza que teneis de amigos,\nVolved en rabia fiera de enemigos.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

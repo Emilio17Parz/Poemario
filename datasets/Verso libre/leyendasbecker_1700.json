@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Si se turba medroso en la alta noche\nTu corazón,\nAl sentir en tus labios un aliento\nAbrasador,\nSabe que, aunque invisible, al lado tuyo\nRespire yo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

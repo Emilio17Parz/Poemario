@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Idilio fresco, alegre, sentimental! ¡Hasta el rebuzno de Platero se\nhace tierno bajo la dulce carga llovida! De cuando en cuando, vuelve la\ncabeza y arranca las flores á que su boca alcanza. Las campanillas,\nníveas y gualdas, le cuelgan, un momento, entre el blanco babear verdoso\ny luego se le van á la barrigota cinchada. ¡Quién, como tú, Platero,\npudiera comer flores,... y que no le hicieran daño!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

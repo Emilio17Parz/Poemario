@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Las pobres sampaguitas se resienten\ncuando alguien de su tallo las separa;\nal hallarse en el pecho o en las trenzas,\nsufren; se tornan pálidas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

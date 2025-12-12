@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Torció las riendas del sobérbio bruto\nY á trote largo adelantóse al rato\nLlevando al lado el disputado pato\nQue á gruesas gotas de sudor ganó;\nY al acercarse ante el vencido corro\nSe desciñó del rostro su barbijo,\nY estas palabras atrevidas dijo\nQue la turba entre aplausos recibió.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

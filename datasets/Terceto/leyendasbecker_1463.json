@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El corcel corría, ó mejor dicho nadaba en aquel océano de vapores\ncaliginosos y encendidos, y las maravillas del cielo ro comenzaron á\ndesplegarse unas tras otras ante los espantados ojos de su jinete.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

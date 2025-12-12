@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tú te has hecho justicia con tu crimen:\nMi noble patria batirá las manos,\nAl ver que en tí sacuden sucio limen\nLos libres que combaten á tiranos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

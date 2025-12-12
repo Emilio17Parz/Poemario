@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "_¿Qué es sin ti el mundo? Un valle de amargura._\n_¿Y contigo? Un edén._\n--Haced la letra clara, señor Cura;\nQue lo entienda eso bien.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

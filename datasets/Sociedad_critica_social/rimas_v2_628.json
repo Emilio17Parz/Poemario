@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mas si temblais cobardes,\nEn vez de altivos cantos\nViriles maldiciones\nLevantará mi voz;\nY en vez de alzar la copa\nDel génio de la patria,\nOs lanzaré mi lira\nCon ímpetu feroz.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

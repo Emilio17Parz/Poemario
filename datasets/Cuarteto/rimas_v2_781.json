@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "De la sangre del mártir de la Patria\nDe cada gota un héroe ha de nacer,\nSangre fecunda, como fué fecunda\nLa de los muertos de ochocientos diez.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En el momento en que Constanza salió del bosquecillo, sin velo\nalguno que ocultase á los ojos de su amante los escondidos tesoros\nde su hermosura, sus compañeras comenzaron nuevamente á cantar estas\npalabras con una melodía dulcísima:",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

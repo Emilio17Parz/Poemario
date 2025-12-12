@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "A la tarde, el canario se vino al tejado de la casa grande, y allí se\nquedó largo tiempo, latiendo en el suave sol que declinaba. De pronto, y\nsin saber nadie cómo ni por qué, apareció en la jaula, otra vez alegre.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

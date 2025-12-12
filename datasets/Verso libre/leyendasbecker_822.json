@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Figuraos un caos incomprensible de sombra y luz, en donde se mezclan y\nconfunden con las tinieblas de las naves los rayos de colores de las\nojivas; donde lucha y se pierde con la obscuridad del santuario el\nfulgor de las lámparas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

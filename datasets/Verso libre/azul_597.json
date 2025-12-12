@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Qué silvas! ¡Qué sonetos! La cabeza del poeta lírico era una orgía de\ncolores y de sonidos. Resonaban en las concavidades de aquel cerebro\nmartilleos de cíclope, himnos al son de tímpanos sonoros, fanfarrias\nbárbaras, risas cristalinas, gorjeos de pájaros, batir de alas y\nestallar de besos, todo como en ritmos locos y revueltos. Y los colores\nagrupados, estaban como pétalos de capullos distintos confundidos en una\nbandeja, o como la endiablada mezcla de tintas que llena la paleta de un\npintor...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Basta lo dicho para demostrar que la poesía precedió á la prosa, y que\nesta no es otra cosa en realidad, que el verso roto y descompuesto\najustado á otra cadencia mas grave y menos vibrante.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

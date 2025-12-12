@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Venus tuvo el azur en sus pupilas\nPero su hijo no. Negros y fieros\nEncienden a las tórtolas tranquilas\nLos dos ojos de Eros.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

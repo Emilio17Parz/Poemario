@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y proclamemos, de cara al Destino\ny ante cañones de gruesos calibres,\nque existe un nuevo derecho divino:\nel de los pueblos a ser todos libres.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

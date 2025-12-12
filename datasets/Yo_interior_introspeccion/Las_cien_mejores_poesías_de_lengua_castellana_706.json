@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cuando la noche toda en la cansada\nLabor tuvísteis vuestros ojos fijos,\nY, al venceros el sueño a la alborada,\nFuerzas os dio posar vuestra mirada\nEn los dormidos hijos.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

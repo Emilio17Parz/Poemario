@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Y es culpable el que, sediento,\nBuscando va en nuevos lazos\nOtro amor?\n¡Sí! culpable como el viento\nQue, al pasar, hace pedazos\nUna flor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

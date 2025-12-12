@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cabe anchurosa playa de fina y suave arena,\ny al pié de una montaña cubierta de verdor,\nplanté mi choza humilde bajo arboleda amena,\nbuscando de los bosques en la quietud serena\nreposo a mi cerebro, silencio a mi dolor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

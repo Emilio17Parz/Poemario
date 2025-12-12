@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hemos prescindido de las poesías anteriores al siglo XV porque\nexigirían comentario filológico, inoportuno en la ocasión presente. Las\npocas que insertamos del siglo XV son de belleza indudable y de fácil\nlectura para todo el mundo. El mayor espacio de nuestra colección va\ndedicado naturalmente a la edad de oro de nuestra lírica (siglo XVI\ny principios del XVII). Se notarán en ella omisiones que nos duelen\nmucho, pero que eran inevitables dentro de los estrechos límites\nimpuestos a nuestro plan: _spatiis exclusas iniquis_. Nada hemos puesto\nde Castillejo, de Acuña, de Valbuena, de Jáuregui, y otros preclaros\ningenios, y hemos tenido que reducir a muy pocas muestras el tesoro\npoético de Góngora, de Lope de Vega y de Quevedo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "While we cannot and do not solicit contributions from states where we\nhave not met the solicitation requirements, we know of no prohibition\nagainst accepting unsolicited donations from donors in such states who\napproach us with offers to donate.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

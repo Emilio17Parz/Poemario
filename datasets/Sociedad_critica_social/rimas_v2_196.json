@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "No veo la tribuna do ardientes oradores,\nEl pan de la palabra caliente derramaban,\nY desde lo alto de ella terribles fulminaban,\nRayos á los tiranos con santa indignacion;\nNo veo el pueblo inmenso la catedral llenando,\nOyendo los sonidos del órgano, suaves,\nNi entre nubes de incienso cruzando por las naves\nLeopardos, quinas, leones, mirar con emocion.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Á fuer de buen cazador y práctico en el oficio, antes de elegir un\npunto á propósito para colocarse al acecho de las reses, anduvo un\ngran rato de acá para allá examinando las trochas y las veredas\nvecinas, la disposición de los árboles, los accidentes del terreno,\nlas curvas del río y la profundidad de sus aguas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

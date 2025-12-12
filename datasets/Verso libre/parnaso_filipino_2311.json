@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "CECILIO APOSTOL\nA Rizal                                          19\nA Emilio Jacinto                                 21\nSobre el Plinto                                  24\nA España imperialista                            29\nPaisaje filipino                                 31\nLíneas actuales                                  32",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

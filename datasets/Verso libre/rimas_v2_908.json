@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pronto en el negro horizonte\nDe nubes inmenso monte\nSe alazará:\nEl Señor que las concita\nEl relámpago vomita\n¡Hosaná!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

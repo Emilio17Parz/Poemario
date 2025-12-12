@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Ala de color\nBaila sobre la amapola\nViento la despide",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Mariposa"
+  }
+}

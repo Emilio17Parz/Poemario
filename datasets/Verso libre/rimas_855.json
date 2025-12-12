@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hace algunos meses que visitando la célebre abadía de Fitero y\nocupándome en revolver algunos volúmenes en su abandonada biblioteca,\ndescubrí en uno de sus rincones dos ó tres cuadernos de música\nbastante antiguos, cubiertos de polvo y hasta comenzados á roer por\nlos ratones.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

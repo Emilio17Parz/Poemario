@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Más, si alguno me cuenta tu pasado,\ncon su lengua traidora cual la hiedra,\nle diré: \"Si estás limpio de pecado\nsé tu el que arrojes la primera piedra\".",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

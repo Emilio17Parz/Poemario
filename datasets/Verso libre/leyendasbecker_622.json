@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aconteció una vez á este caballero, hallándose en su favorita\ndiversión acompañado de su hija, cuya belleza singular y\nextraordinaria blancura le habían granjeado el sobrenombre de la\nAzucena, que como se les entrase á más andar el día engolfados en\nperseguir á una res en el monte de su feudo, tuvo que acogerse,\ndurante las horas de la siesta, á una cañada por donde corría un\nriachuelo, saltando de roca en roca con un ruido manso y agradable.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

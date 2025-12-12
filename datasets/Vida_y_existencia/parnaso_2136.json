@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Señora, soi de Granada,\nY de suerte ansi abatida,\nQual lo muestra el ser vendida,\nY á cada paso comprada.\nDicen que fui rica un tiempo,\nPero toda mi riqueza\nSe ha vuelto en mayor pobreza,\nY ha pasado con el tiempo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

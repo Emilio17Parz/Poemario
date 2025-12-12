@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Gracias, oh madre antigua, por el presente regio\nque a la abundancia sumas de tus pasados dones.\n¿Qué más que la embajada de tu poeta egregio,\nqué más que su exquisito y vasto florilegio\npara sellar afectos y sugerir uniones?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

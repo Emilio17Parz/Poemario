@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Ola que vuelve\nArena blanca mojada está\nGaviota vuela",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

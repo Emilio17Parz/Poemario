@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Cuántas veces también alzó en mi pecho,\nla indómita borrasca de la angustia,\ny por las noches le encontré en acecho\npara robar mi sueño, sobre el lecho\nen que gemía por mi vida mustia!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Que tal vacío dejas\nen el pecho de cuantos te han querido,\nque aunque inútiles son todas sus quejas,\nañoran siempre el dulce bien perdido,\ny más te adoran cuanto más te alejas...",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

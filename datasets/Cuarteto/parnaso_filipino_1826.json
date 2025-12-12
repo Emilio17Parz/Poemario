@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Entre las sombras del pesar me pierdo.\nMi deseo recuerda tu hermosura,\ny aumento intensamente mi amargura\ncon el opio sutil de su recuerdo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

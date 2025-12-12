@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "60\nAl mandarnos nos hicieron\nmás promesas que a un altar,\nel juez nos jue a proclamar\ny nos dijo muchas veces:\nmuchachos, a los seis meses\nlos van a ir a relevar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Y de qué sirve ¡ay, patria! triste, desventurada,\nque sea límpido y puro tu cielo de zafir,\nque tu luna se ostente con luz más argentada,\nde que sirve, si en tanto lloras esclavizada,\nsi cuatro siglos hace que llevas de sufrir?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

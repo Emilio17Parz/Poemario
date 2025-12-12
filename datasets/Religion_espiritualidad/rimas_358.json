@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sobre la portada de la iglesia, en donde se ven como envueltos\nen el crepúsculo misterioso en que los bañan las sombras de sus\ndoseles, una andanada de santos, ángeles y vírgenes, á cuyos pies se\nretuercen, entre las hojas de acanto, sierpes, vestiglos y endriagos\nde piedra, se mira elevarse un minarete esbelto y afiligranado con\nlabores moriscas; junto á las saeteras del murallón, cuyas almenas\nestán ya rotas, ponen un retablo, y tapian los grandes huecos con\ntabiques cuajados de pequeños agujeritos, y semejantes á una tabla\nde ajedrez; colocan cruces sobre todos los picos, y fabrican, por\núltimo, un campanario de espadaña con sus campanas, que tañen\nmelancólicamente noche y día llamando á la oración, campanas que\nvoltean al impulso de una mano invisible, campanas cuyos sonidos\nlejanos arrancan á veces lágrimas de involuntaria tristeza.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

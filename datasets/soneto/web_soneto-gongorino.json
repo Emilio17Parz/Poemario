@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Este pichón del Turia que te mando,\nde dulces ojos y de blanca pluma,\nsobre laurel de Grecia vierte y suma\nllama lenta de amor do estoy pasando.\nSu cándida virtud, su cuello blando,\nen limo doble de caliente espuma,\ncon un temblor de escarcha, perla y bruma\nla ausencia de tu boca está marcando.\nPasa la mano sobre tu blancura\ny verás qué nevada melodía\nesparce en copos sobre tu hermosura.\nAsí mi corazón de noche y día,\npreso en la cárcel del amor oscura,\nllora, sin verte, su melancolía.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

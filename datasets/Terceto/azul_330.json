@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Cantemos el oro, hecho sol, enamorado de la noche, cuya camisa de\ncrespón riega de estrellas brillantes, después del último beso como con\nuna gran muchedumbre de libras esterlinas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

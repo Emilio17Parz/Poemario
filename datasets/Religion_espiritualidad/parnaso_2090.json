@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Aunque tamaña mudanza\nHa hecho el cielo en mi estado,\nNo entiendas se me ha olvidado\nEl termino de crianza.\nBien sé como he de llamarte,\nY sé que es de obligacion,\nQue en lo que fuere razon,\nProcure de contentarte.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

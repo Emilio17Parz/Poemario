@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Puede venir el águila altanera\ny hundir el corvo pico en la bandera\nde gualda y oro, que nos da alegría;\npodrán poner a mi garganta un nudo,\nque cuando ¡el labio se retuerza mudo,\nirá a gritar el alma: ¡Madre mía!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

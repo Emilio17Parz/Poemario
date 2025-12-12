@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Nos libertará el Arte de la opresión extraña,\nsaltarán las cadenas al compás del laud,\npoblará los espacios nuestro armónico himno,\nnuestra enseña ultrajada flotará en el azul;\nel estro del poeta abrirá las mazmorras,\nla paleta y el ritmo rasgarán el capúz,\ny luego tu voz única bajará del Olimpo,\ny nos dirá a nosotros: \"hermanos, _Fiat Lux_.\"",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "himno"
+  }
+}

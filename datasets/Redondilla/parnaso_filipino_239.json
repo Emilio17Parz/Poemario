@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "He dado mi plata, a los ruegos\ndel viejo que llama a mi puerta\ny clava sus ojos, ya ciegos,\nen mi alma al amor siempre abierta.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Van en galope rítmico. Junto a un fresco boscaje,\nFrente al gran Océano, se paran. El paisaje\nRecibe de la urnal matinal luz sagrada\nQue el vasto azul suaviza con límpida mirada.\nY oyen seres terrestres y habitantes marinos\nLa voz de los criados cuadrúpedos divinos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

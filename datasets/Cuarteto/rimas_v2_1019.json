@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En el lecho pedroso do descansa\nSe deslizan sus aguas con quietud,\nComo tus horas corren no sentidas\nPor el sendero fiel de la virtud.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

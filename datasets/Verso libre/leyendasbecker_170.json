@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La Ilustración de Madrid, January 12-October 12, 1870, contains a\nlarge number of articles by Becquer that have never been published in\nbook form. The same can be said of other periodicals for which Becquer\ncollaborated.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

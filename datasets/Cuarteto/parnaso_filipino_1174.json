@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y fué obra tuya, tuya solamente;\nque, sin tí, aún no viera nuestra patria\nroto el dogal que le estrujaba el cuello\ny en sus cielos brillando la alborada.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

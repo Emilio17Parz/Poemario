@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Toda tu vida ha sido un ansia eterna\n--moribundo y en cruz puestas las manos--\nesperando el amor de los amores\npara abarcarlo con tus brazos cárdenos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

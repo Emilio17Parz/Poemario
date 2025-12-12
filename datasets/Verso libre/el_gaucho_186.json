@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "157\nSe empezó en aquel entonces\na rejuntar caballada,\ny riunir la milicada\nteniéndola en el cantón,\npara una despedición\na sorprender a la indiada.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

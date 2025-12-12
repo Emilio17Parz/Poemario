@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Allí vaya la vírgen\nA derramar sus flores,\nPara jurar amores\nAl que combata al vil;\nAcérquese allí el niño\nY en su dolor templado\nLevante el grito osado\nDe lucha varonil.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

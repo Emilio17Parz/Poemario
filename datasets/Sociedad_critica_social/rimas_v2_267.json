@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Al mirar levantarse agigantado\nUn pueblo por las leyes gobernado,\nVió su trono sangriento bambolear;\nAnte la ley retrocedió el salvage\nY sus hordas hambrientas de pillage\nBajo rojo pendon hizo juntar.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

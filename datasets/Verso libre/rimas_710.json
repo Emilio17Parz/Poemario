@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los servidores acababan de levantar los manteles; la alta chimenea\ngótica del palacio de los condes de Alcudiel despedía un vivo\nresplandor iluminando algunos grupos de damas y caballeros que\nalrededor de la lumbre conversaban familiarmente, y el viento azotaba\nlos emplomados vidrios de las ojivas del salón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

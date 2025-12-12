@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "66\nEn la lista de la tarde\nel jefe nos cantó el punto\ndiciendo: quinientos juntos\nllevará el que se resierte;\nlo haremos pitar del juerte,\nmas bien dese por dijunto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

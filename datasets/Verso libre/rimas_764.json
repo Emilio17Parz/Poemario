@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--No os contaré una historia, porque aunque recuerdo algunas en este\nmomento, atañen á cosas tan graves, que ni vosotras, que sois unas\nlocuelas, me prestaríais atención para escucharlas, ni á mí, por lo\navanzado de la tarde, me quedaría espacio para referirlas. Os daré en\nsu lugar un consejo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

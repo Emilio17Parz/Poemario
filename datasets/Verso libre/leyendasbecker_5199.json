@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "punto, _m._, point (of time or place), point, jot, moment, instant,\nmatter, object; estar á -- (de), to be ready (to); to be on the point\nof, be about to; -- en boca, silence, hush; hasta el -- de, up to the\npoint of; until, till; al -- y hora de, on the stroke of, at exactly;\ná -- de la media noche, at midnight precisely; at exactly twelve\no'clock at night; de --, see subir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

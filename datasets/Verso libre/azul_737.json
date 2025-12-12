@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Acallando el tropel de los vasallos,\ndeteniendo traíllas y caballos,\ncon la mirada inquieta,\ncontempla a los dos tigres, de la gruta\na la entrada. Requiere la escopeta,\ny avanza, y no se inmuta.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

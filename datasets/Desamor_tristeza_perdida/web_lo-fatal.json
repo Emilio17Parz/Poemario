@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dichoso el árbol, que es apenas sensitivo,\ny más la piedra dura porque esa ya no siente,\npues no hay dolor más grande que el dolor de ser vivo,\nni mayor pesadumbre que la vida consciente.\nSer y no saber nada, y ser sin rumbo cierto,\ny el temor de haber sido y un futuro terror...\nY el espanto seguro de estar mañana muerto,\ny sufrir por la vida y por la sombra y por\nlo que no conocemos y apenas sospechamos,\ny la carne que tienta con sus frescos racimos,\ny la tumba que aguarda con sus fúnebres ramos,\n¡y no saber adónde vamos,\nni de dónde venimos!...",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cuando cubra las montañas\nDe plata y nieve el enero\nTenga yo lleno el brasero\nDe bellotas y castañas,\nY quien las dulces patrañas\nDel rey que rabió me cuente,\n_Y ríase la gente_.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

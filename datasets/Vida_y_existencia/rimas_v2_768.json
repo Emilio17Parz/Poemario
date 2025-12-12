@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ya no vamos de carrera\nPor la estendida pradera,\nPues somos viejos los dos.\n¡Oh mi moro! quiera el cielo\nCaigamos juntos al suelo\nAl decir al mundo A dios!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

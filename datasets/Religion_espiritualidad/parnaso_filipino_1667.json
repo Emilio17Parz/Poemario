@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "..................................................\nMedia la noche. Hasta el mundo me parece que dormida.\nColumpiado por los brazos de Dios mismo, blandamente,\nsólo en vela me mantengo. Una amarga y honda cuita\nme carcome el alma toda, lentamente... lentamente.\nCalma intensa. Nada turba el descanso de la noche\nmás que el rápido descenso del insólito aguacero,\nel monótono chirrido de las ruedas de algun coche\nque resbala quietamente sobre el barro del sendero,\nel crujir de las persianas azotadas por el viento,\nla canturria discordante de los hierros del tejado\n(donde cuando el sol los días alegraba, como un cuento,\nlas parleras avecillas sus nidales han labrado),\ny el suspiro que flotando en los aires va cautivo\ninspirado por la pena que en secreto me acongoja\nel suspiro que se escapa en un vuelo fugitivo\nde mis labios, por mi ensueño que en sollozos se deshoja.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

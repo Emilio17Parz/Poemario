@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "187\nAunque muchos creen que el gaucho\ntiene alma de reyuno,\nno se encontrará a ninguno\nque no le dueblen las penas;\nmas no debe aflojar uno\nmientras hay sangre en las venas",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

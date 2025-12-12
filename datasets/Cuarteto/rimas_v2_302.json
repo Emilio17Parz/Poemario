@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "«Benditos seais, para salvar la Patria\n«Y dar al mundo ese inmortal ejemplo\n«Volar de gloria al sacrosanto templo\n«Y de Mayo las aras levantar.»",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

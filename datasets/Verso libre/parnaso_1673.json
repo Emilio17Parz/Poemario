@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tambien á mí me agrada y satisface,\nPues que lo quiere ansi nuestra fortuna;\nMas vamos á la plaza adonde yace\nLa hoguera á nuestras vidas importuna,\nPorque el que alli venciere, pueda luego\nEntregar el vencido al duro fuego.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

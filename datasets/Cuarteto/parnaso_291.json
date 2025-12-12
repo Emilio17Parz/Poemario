@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "De nuevo resonaron los clarines,\nY asi Mercurio lleno de contento,\nSin darle mal aguero los delfines,\nRemos al agua dió, velas al viento.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

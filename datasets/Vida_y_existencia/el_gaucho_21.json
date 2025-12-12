@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Una palabra más, destinada a disculpar sus defectos. Páselos Ud. por\nalto, porque quizá no lo sean todos los que, a primera vista, puedan\nparecerlo, pues no pocos se encuentran allí como copia o imitación de\nlos que lo son realmente. Por lo demás, espero, mi amigo, que Ud. lo\njuzgará con benignidad, siquiera sea porque MARTÍN FIERRO no va de la\nciudad a referir a sus compañeros lo que ha visto y admirado en un 25\nde Mayo u otra función semejante, referencias algunas de las cuales,\ncomo en Fausto y varias otras, son de mucho mérito ciertamente, sino\nque cuenta sus trabajos, sus desgracias, los azares de su vida de\ngaucho, y Ud. no desconoce que el asunto es más difícil de lo que\nmuchos se lo imaginarán.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

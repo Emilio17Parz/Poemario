@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Diz que narran del mundo la primera alborada,\ndel sol el primer beso que su seno encendió,\ncuando miles de seres surgieron de la nada,\ny el abismo poblaron y la cima encumbrada\ny doquiera su beso fecundante estampó.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

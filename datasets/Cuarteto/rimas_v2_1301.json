@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Al reemplazar mis versos con mis versos\nPienso que los dedico á la amistad,\nY si en el cambio poco se adelanta\nEn algo apreciareis la voluntad:",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

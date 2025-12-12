@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Mujer!... ¡mujer!... óyeme... óyeme y acércate para oirme, que yo\nbesaré tus pies mientras tiemblo al copiar tu imagen en el fondo\nsombrío de mis ondas. ¡Mujer!... óyeme, que mis murmullos son\npalabras.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

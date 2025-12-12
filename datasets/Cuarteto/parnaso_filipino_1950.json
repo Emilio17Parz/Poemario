@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La gloria de los grandes batallones,\nque a la tierra asombró con sus grandezas,\nresplandece de nuevo en las proezas\nafricanas de sus ínclitos leones;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

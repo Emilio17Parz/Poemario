@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Platero; acaso ella se iba--¿adonde?--en aquel tren negro y soleado que,\npor la vía alta, cortándose sobre los nubarrones blancos, huía hacia el\nnorte.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

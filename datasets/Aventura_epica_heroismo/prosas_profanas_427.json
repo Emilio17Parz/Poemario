@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sobre las tempestades del humano oceano\nSe oye el canto del Cisne; no se cesa de oir,\nDominando el martillo del viejo Thor germano\nO las trompas que cantan la espada de Argantir.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

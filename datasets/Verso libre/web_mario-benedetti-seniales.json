@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En las manos te traigo\nviejas señales\nson mis manos de ahora\nno las de antes\ndoy lo que puedo\ny no tengo vergüenza\ndel sentimiento\nsi los sueños y ensueños\nson como ritos\nel primero que vuelve\nsiempre es el mismo\nsalvando muros\nse elevan en la tarde\ntus pies desnudos\nel azar nos ofrece\nsu doble vía\nvos con tus soledades\nyo con las mías\ny eso tampoco\nsi habito en tu memoria\nno estaré solo\ntus miradas insomnes\nno dan abasto\ndónde quedó tu luna\nla de ojos claros\nmírame pronto\nantes que en un descuido\nme vuelva otro\nno importa que el paisaje\ncambie o se rompa\nme alcanza con tus valles\ny con tu boca\nno me deslumbres\nme basta con el cielo\nde la costumbre\nen mis manos te traigo\nviejas señales\nson mis manos de ahora\nno las de antes\ndoy lo que puedo\ny no tengo vergüenza\ndel sentimiento.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

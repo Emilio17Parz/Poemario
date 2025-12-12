@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "35\nRicuerdo ¡qué maravilla!\nCómo andaba la gauchada\nsiempre alegre y bien montada\ny dispuesta pa el trabajo...\npero hoy en día... ¡barajo!\nNo se la ve de aporriada.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

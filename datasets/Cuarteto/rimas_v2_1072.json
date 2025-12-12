@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Si faltase una hoja á tu corona\nY colocarla fuese dado á mí,\nSea ese lauro que á tus sienes falta\nLa admiracion que te consagro á tí.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

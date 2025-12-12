@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lentamente se mustian mis pobres ilusiones\nTristemente se mueren mis ensueños en flor...\nY en todas mis endechas y en todas mis canciones\nSolo hay cantos de pena y quejas de dolor.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

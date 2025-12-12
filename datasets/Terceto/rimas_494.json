@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Oculto tras los matojos, con el oído atento al más leve rumor y la\nvista clavada en el punto en donde según sus cálculos debían aparecer\nlas corzas, Garcés esperó inútilmente un gran espacio de tiempo.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ya la pálida novia que esperabas\nen busca de tus brazos ha llegado\na enfriar los ardores de tu carne\ny a calentar las nieves de tu tálamo.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

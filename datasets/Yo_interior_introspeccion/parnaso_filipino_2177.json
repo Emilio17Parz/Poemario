@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Con monjiles atavíos, tras las tapias del convento,\nse presiente que va pronto María Clara a parecer,\nevocando soñadora, ya dormido el pensamiento,\nla azotea do hizo Ibarra sus mejillas florecer.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "pensamiento"
+  }
+}

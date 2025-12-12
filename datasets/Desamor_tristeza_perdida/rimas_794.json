@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Á pesar de la inexplicable repulsión que sentían la una por la\notra, las dos hermanas habían vivido hasta entonces en una especie\nde indiferencia, que hubiera podido confundirse con la paz y el\nafecto: no habían tenido caricias que disputarse, ni preferencias\nque envidiar; iguales en la desgracia y el dolor, Marta se había\nencerrado para sufrir en un egoísta y altivo silencio; y Magdalena,\nencontrando seco el corazón de su hermana, lloraba á solas cuando las\nlágrimas se agolpaban involuntariamente á sus ojos.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

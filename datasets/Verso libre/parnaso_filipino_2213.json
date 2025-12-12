@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El astro soberano\nal descender tras el roquero monte\nque cierra el fertil llano,\ntrasunto hermoso del Edén cristiano\ndibujaba en el mágico horizonte.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

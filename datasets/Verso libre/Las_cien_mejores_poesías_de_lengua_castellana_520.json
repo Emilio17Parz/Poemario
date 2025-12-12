@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hoy para ti solo hay glorias,\nY danzas y flores bellas;\nMas después,\nSe alzarán tristes memorias,\nHasta de las mismas huellas\nDe tus pies.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

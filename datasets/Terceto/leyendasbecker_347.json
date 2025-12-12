@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "_Anapestic_ verse consists of a regular recurrence of two unstressed\nsyllables preceding a stressed syllable, -- -- /. This is sometimes\nfound in ten-syllable lines (p. 164, I, 1. i).",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

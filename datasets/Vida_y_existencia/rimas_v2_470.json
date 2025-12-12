@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Silencio! los tambores\nYa la señal han dado,\nY rayo de fulgores\nEl campo ha iluminado.\n¡Gloria á los inmortales\nQue pisan los umbrales\nDe un mundo superior!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

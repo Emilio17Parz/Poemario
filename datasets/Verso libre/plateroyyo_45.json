@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Claras tardes del otoño moguereño!\nCuando el aire puro de Octubre\nafila los límpidos sonidos, sube del\nvalle un alborozo idílico de balidos,\nde rebuznos, de risas de niños, de ladridos\ny de campanillas...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

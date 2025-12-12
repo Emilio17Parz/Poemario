@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Así pasan los días en mi obscuro retiro,\ndesterrado del mundo donde un tiempo viví;\nde mi rara fortuna la providencia admiro:\n¡guijarro abandonado que al musgo sólo aspiro\npara ocultar a todos el mundo que hay en mí!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

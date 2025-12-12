@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Dieron solaz las dulces melodías\nde tu garganta a los proscriptos fieles,\ny gozó la fragancia de claveles\nque de tu dulce cuerpo despedías.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

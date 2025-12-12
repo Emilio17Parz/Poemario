@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¿Y quién no abriga fuego sacrosanto\nY vuela con ardor á la batalla?\n¿A quién detiene ni el amor, ni el llanto,\nNi el silbo de la bala y la metralla?\n¿Quién por la patria perecer no jura\nDe Varela en la yerta sepultura?",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

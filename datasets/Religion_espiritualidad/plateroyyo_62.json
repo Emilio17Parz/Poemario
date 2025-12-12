@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mira, Platero, qué de rosas caen por todas partes: rosas azules, rosas,\nblancas, sin color... Diríase que el cielo se deshace en rosas. Mira\ncómo se me llenan de rosas la frente, los hombros, las, manos... ¿Qué\nharé yo con tantas rosas?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

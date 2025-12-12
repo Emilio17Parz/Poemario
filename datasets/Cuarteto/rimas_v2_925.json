@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ayer el almendro cargado de flores\nEstaba, mas vino furioso huracan,\nY hoy roto y marchito, sin flores, sin hojas,\nSe ofrece á los rayos del gran luminar.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

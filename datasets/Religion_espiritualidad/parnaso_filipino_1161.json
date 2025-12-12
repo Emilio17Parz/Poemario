@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿Qué me resta sufrir?... En mi amargura,\n¿Dónde tender la vista lacrimosa\nsin que encuentre mi propia desventura?\n¡oh!... ¿Como descansar de esta tortura\nel alma que no vive ni reposa?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

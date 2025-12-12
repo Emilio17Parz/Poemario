@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Y yo no temo al César! Por mis venas\ncorre sangre de mártires malayos...\n¿Quién dijo que con balas o cadenas\npuede atajarse el vuelo de los rayos?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

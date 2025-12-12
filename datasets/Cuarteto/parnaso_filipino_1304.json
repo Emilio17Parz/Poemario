@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Leve se agita en el temblor de un vuelo\nla rosa que agoniza en los jarrones.\nEs la hora santa de las ilusiones,\nque llega y pasa sin rozar el suelo...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

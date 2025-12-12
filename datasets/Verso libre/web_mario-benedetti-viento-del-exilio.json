@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un viento misionero sacude las persianas\nno sé qué jueves trae\nno sé qué noche lleva\nni siquiera el dialecto que propone\ncreo reconocer endechas rotas\ntrocitos de hurras\ny batir de palmas\npero todo se mezcla en un aullido\nque también puede ser deleite o salmo\nel viento bate franjas de aluminio\nllega de no sé dónde a no sé dónde\ny en ese rumbo enigma soy apenas\nuna escala precaria y momentánea\nno abro hospitalidad\nno ofrezco resistencia\nsimplemente lo escucho\narrinconado\nmientras en el recinto vuelan nombres\npapeles y cenizas\ndespués se posarán en su baldosa\nen su alegre centímetro\nen su lástima\nahora vuelan cómo barriletes\ncomo murciélagos como hojas\nlo curioso lo absurdo es que a pesar\nde que aguardo mensajes y pregones\nde todas las memorias y de todos\nlos puntos cardinales\nlo raro lo increíble es que a pesar\nde mi desamparada expectativa\nno sé qué dice el viento del exilio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

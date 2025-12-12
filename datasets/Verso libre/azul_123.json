@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Bien podía darse el placer de un salón digno del gusto de un Goncourt y\nde los millones de un Creso: quimeras de bronce con las fauces abiertas\ny las colas enroscadas, en grupos fantásticos y maravillosos; lacas de\nKioto con incrustaciones de hojas y ramas de una flora monstruosa, y\nanimales de una fauna desconocida; mariposas de raros abanicos junto a\nlas paredes, peces y gallos de colores; máscaras de gestos infernales y\ncon ojos como si fuesen vivos; partesanas de hojas antiquísimas y\nempuñaduras con dragones devorando flores de loto; y en conchas de\nhuevo, túnicas de seda amarilla, como tejidas con hilos de araña,\nsembrada de garzas rojas y de verdes matas de arroz; y tibores,\nporcelanas de muchos siglos, de aquellas en que hay guerreros tártaros\ncon una piel que les cubre hasta los riñones, y que llevan arcos\nestirados y manojos de flechas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

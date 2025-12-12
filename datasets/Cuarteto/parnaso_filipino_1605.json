@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No sé por qué mis lágrimas contengo\ncercándome tan negra desventura;\ndentro del pecho fluctuando tengo\nel corazón en olas de amargura.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

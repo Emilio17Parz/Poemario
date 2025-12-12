@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Tus cantos serán oidos\nEn el pueblo americano,\nComo el nombre de Belgrano,\nDe Bolívar, San Martin,\nComo se oyó en otros dias\nLa corneta atronadora,\nY la armonía sonora\nDe Chacabuco y Junin.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

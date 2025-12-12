@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Cuando concluyó el alcaide, reinó un silencio profundo, al que siguió\nluego un infernal concierto de lamentaciones, gritos y amenazas.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

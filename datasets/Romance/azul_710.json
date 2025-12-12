@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Allá hay una clara fuente\nque brota de una caverna,\ndonde se bañan desnudas\nlas blancas ninfas que juegan.\nRíen al son de la espuma,\nhienden la linfa serena;\nentre polvo cristalino\nesponjan sus cabelleras;\ny saben himnos de amores\nen hermosa lengua griega,\nque en glorioso tiempo antiguo\nPan inventó en las florestas.\nAmada, pondré en mis rimas\nla palabra más soberbia\nde las frases de los versos\nde los himnos de esa lengua;\ny te diré esa palabra\nempapada en miel hiblea...\n¡oh, amada mía! en el dulce\ntiempo de la primavera.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ea')"
+  }
+}

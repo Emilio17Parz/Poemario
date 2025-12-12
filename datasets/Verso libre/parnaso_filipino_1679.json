@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la tardía anunciación del verbo,\nque gestó en sus entrañas redentoras,\nsintió la madre aquel afán acerbo,\nque, sin que ya su corazón taladre,\nfué sólo las angustias precursoras\nde la mujer que pronto iba a ser madre!\ny madre fué; y el hijo que nacía,\ncomo bautismo recibió en la frente\nel ósculo de luz del nuevo día,\nque ya apuntaba en el extremo Oriente.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

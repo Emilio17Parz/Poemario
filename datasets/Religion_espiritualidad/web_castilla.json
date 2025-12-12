@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tú me levantas, tierra de Castilla,\nen la rugosa palma de tu mano,\nal cielo que te enciende y te refresca,\nal cielo, tu amo,\nTierra nervuda, enjuta, despejada,\nmadre de corazones y de brazos,\ntoma el presente en ti viejos colores\ndel noble antaño.\nCon la pradera cóncava del cielo\nlindan en torno tus desnudos campos,\ntiene en ti cuna el sol y en ti sepulcro\ny en ti santuario.\nEs todo cima tu extensión redonda\ny en ti me siento al cielo levantado,\naire de cumbre es el que se respira\naquí, en tus páramos.\n¡Ara gigante, tierra castellana,\na ese tu aire soltaré mis cantos,\nsi te son dignos bajarán al mundo\ndesde lo alto!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

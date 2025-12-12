@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Como duermen de los mares\nlos monstruos en el abismo\ndeja dormir mis pesares,\nmis caprichos, mis cantares,\nsepultados en mí mismo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

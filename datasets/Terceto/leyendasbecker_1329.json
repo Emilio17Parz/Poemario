@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Entre nosotros, unos le creen un extravagante; otros un noble\narruinado, que por un resto de pudor se tapa la cara; y no falta quien\nse encuentra convencido de que es el mismo diablo en persona.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

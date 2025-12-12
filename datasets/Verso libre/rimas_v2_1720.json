@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«Seigneur! préservez moi, préservez ceux que j'aime,\n«Frères, parents, amis, et mes ennemis même\n«Dans le mal triomphants,\n«De jamais voir, Seigneur! l'été sans fleurs nouvelles,\n«La cage sans oiseaux, la ruche sans abeilles,\n«La maison sans enfants.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

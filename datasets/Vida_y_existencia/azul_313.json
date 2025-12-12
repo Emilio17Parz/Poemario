@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cantemos el oro, porque al saltar del cuño lleva en su disco el perfil\nsoberbio de los césares; y va a repletar las cajas de sus vastos\ntemplos, los bancos, y mueve las máquinas, y da la vida, y hace engordar\nlos tocinos privilegiados.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

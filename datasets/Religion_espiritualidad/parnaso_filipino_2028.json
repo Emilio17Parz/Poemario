@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Benditas sean las lágrimas! Cayendo persistentes\nen río se convierten tras lenta filtración,\ny en ese río santo, ocúltanse latentes\ntesoros no apreciados de luz y redención.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

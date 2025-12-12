@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "25\nY sentao junto al jogón\na esperar que venga el día,\nal cimarrón le prendía\nhasta ponerse rechoncho,\nmientras su china dormía\ntapadita con su poncho.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

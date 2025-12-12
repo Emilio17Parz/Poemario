@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "162\nNunca juí gaucho dormido;\nsiempre pronto, siempre listo,\nyo soy un hombre, ¡qué cristo!,\nQue nada me ha acobardao,\ny siempre salí parao\nen los trances que me he visto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

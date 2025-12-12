@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Synalepha usually occurs when the initial vowel of the second word is\naccented, especially when the first word ends in a weak vowel, and\nalso in the combinations aá, oá, oa, eá, eó, eé.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

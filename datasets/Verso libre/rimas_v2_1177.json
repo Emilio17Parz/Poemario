@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Nadie comprenderá ahora mi acento:\nMas llegará, hija mia, algun momento\nQue se verán las rosas jerminar,\nY alzando ufanas sus cabezas rojas\nEl viento murmurando entre sus hojas\nSe bañará en lo que hizo fecundar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

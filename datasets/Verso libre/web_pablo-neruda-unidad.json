@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "HAY algo denso, unido, sentado en el fondo,\nrepitiendo su número, su señal idéntica.\nCómo se nota que las piedras han tocado el tiempo,\nen su fina materia hay olor a edad,\ny el agua que trae el mar, de sal y sueño.\nMe rodea una misma cosa, un solo movimiento:\nel peso del mineral, la luz de la miel,\nse pegan al sonido de la palabra noche:\nla tinta del trigo, del marfil, del llanto,\nenvejecidas, desteñidas, uniformes,\nse unen en torno a mí como paredes.\nTrabajo sordamente, girando sobre mí mismo,\ncomo el cuervo sobre la muerte, el cuervo de luto.\nPienso, aislado en lo extremo de las estaciones,\ncentral, rodeado de geografía silenciosa:\nuna temperatura parcial cae del cielo,\nun extremo imperio de confusas unidades\nse reúne rodeándome.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

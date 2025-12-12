@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Esperemos los dias venideros:\nEl rocío la flor fecundará,\nEl sol relucirá tras negra noche,\nY el cielo nos dará la libertad!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

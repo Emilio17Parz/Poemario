@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la calle de los palacios, donde todo es esplendor y opulencia, donde\nse ven llegar a sus moradas, de vuelta de festines y bailes, a las\nhermosas mujeres y a los hombres ricos, hay un mendigo extraño,\nhambriento, tiritando de frío, mal cubierto de harapos. Este mendigo\ntira un mordisco a un pequeño mendrugo de pan bazo: se inspira y canta\nla canción del oro.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

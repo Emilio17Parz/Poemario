@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Y excitando su afán calenturiento\ntanta grandeza y tanto poderío,\nde la codicia el persuasivo acento\ngrítale audaz: --¡El cielo está vacío!\n¿A quién temer?-- Y ronca y sin aliento\nla muchedumbre grita: --¡Todo es mío!--",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

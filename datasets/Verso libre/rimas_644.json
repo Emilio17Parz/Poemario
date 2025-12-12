@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por último, precedido de los timbaleros que montaban poderosas mulas\ncon gualdrapas y penachos, rodeado de sus pajes que vestían ricos\ntrajes de seda y oro y seguido de los escuderos de su casa, apareció\nel conde.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

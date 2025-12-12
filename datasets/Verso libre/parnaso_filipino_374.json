@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La España de hoy es sorda a irrumpir de metralla\nahita de laureles en cesáreas batallas,\nno quiere ya ser cuna del Cid y de Pelayo,\nde la Armada Invencible, los Tercios, Dos de Mayo,\nla que hizo de los pueblos haz de suelo español\nen que no se ponía la hipérbola del sol;\nramo de oliva porta en sus divinas manos,\nque no quieren teñirse en sangre de cristianos,\nconsiguiendo el arrullo de la fabla rimada\nlo que soñara en vano tiranizar la espada.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

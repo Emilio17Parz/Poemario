@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La noche siguiente á la tarde del encuentro con el tío Gregorio,\ntodas las muchachas del lugar hicieron conversación en sus casas\nde la estupenda historia que les había referido. Marta y Magdalena\nguardaron un profundo silencio, y ni en aquella noche, ni en todo\nel día que amaneció después, volvieron á cambiar una sola palabra\nrelativa al asunto, tema de todas las conversaciones y objeto de los\ncomentarios de sus vecinas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

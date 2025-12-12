@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Pasó el tropel. En la cercana selva\nLúgubre resonaba el grito de Atis,\nTriste pavor de la inviolada ninfa.\nDeslizaba su paso misterioso\nEl apacible coro de las Horas.\nEco volvía la acordada queja\nDe la flauta de Pan. Joven gallardo,\nMás hermoso que Adonis y Narciso,\nCon el aire gentil de los efebos\nY la lira en las manos, al boscaje\nComo lleno de luz se dirigía.\nAmor pasó con su dorada antorcha.\nY no lejos del nido en que las aves,\nLas dos aves de Cipris, sus arrullos\nCual tiernas rimas a los aires dieran,\nFuí más feliz que el luminoso cisne\nQue vió de Lada la inmortal blancura,\nY Eunice pudo al templo de la diosa\nPurpúrea ofrenda y tórtolas amables\nLlevar el día en que mi regio triunfo\nVió el Dios viril en mármol cincelado\nCabe la fresca viña de Corinto.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

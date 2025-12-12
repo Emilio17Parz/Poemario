@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "23\nYo he conocido esta tierra\nen que el paisano vivía\ny su ranchito tenía\ny sus hijos y mujer...\nera una delicia el ver\ncomo pasaba sus días.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

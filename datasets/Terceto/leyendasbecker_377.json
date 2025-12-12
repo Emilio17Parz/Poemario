@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "_Octosyllabic Verse_: A verse of eight syllables must have an accent\non the seventh, and at least one other accent, which may fall on any\nsyllable except the sixth.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

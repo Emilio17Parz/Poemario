@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Un perro ladra en la tormenta\ny su aullido me alcanza entre relámpagos\ny al son de los postigos en la lluvia\nyo sé lo qu convoca noche adentro\nesa clamante voz en la casona\ntal vez deshabitada\ndice sumariamente el desconcierto\nla soledad sin vueltas\nun miedo irracional que no se aviene\na enmudecer en paz\ny tanto lo comprendo\na oscuras / sin mi sombra\nincrustado en mi pánico\npobre anfitrión sin huéspedes\nque me pongo a ladrar en la tormenta.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Deje Sansón de Dálila el regazo:\nDálila engaña y corta los cabellos.\nNo pierda el fuerte el rayo de su brazo\npor ser esclavo de unos ojos bellos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

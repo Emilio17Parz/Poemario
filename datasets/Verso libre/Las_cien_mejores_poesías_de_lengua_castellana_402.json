@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aun parece, Teresa, que te veo\nAérea como dorada mariposa,\nEnsueño delicioso del deseo,\nSobre tallo gentil temprana rosa,\nDel amor venturoso devaneo,\nAngélica, purísima y dichosa,\nY oigo tu voz dulcísima, y respiro\nTu aliento perfumado en tu suspiro.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

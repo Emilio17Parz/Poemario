@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Ponte tus vestidos de gala--le dijo uno de ellos al entrar,--que\nmañana vamos á Gómara con todos los vecinos del pueblo para ver al\nconde que se marcha á Andalucía.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

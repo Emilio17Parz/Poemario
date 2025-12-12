@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "_Salen_ PEDRO ALVAREZ _que se va, y otro_ CAUTIVO _que huye, y dos_\nMOROS _que le cogen y le vuelven_.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En el solar de nuestra madre patria\nTe miraron su historia interrogar:\nDo quier hallar la religion y gloria,\nSin encontrar jamas la libertad:\nFlor que ostenta del iris los colores\nSin el perfume que la rosa dá.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

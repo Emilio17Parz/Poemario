@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El aire azotaba los vidrios del balcón; el agua de la fuente lejana\ncaía y caía con un rumor eterno y monótono; los ladridos de los\nperros se dilataban en las ráfagas del aire, y las campanas de la\nciudad de Soria, unas cerca, otras distantes, doblaban tristemente\npor las ánimas de los difuntos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

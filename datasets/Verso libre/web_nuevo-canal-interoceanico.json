@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Te propongo construir\nun nuevo canal\nsin esclusas\nni excusas que comunique por fin\ntu mirada\natlántica\ncon mi natural\npacífico.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

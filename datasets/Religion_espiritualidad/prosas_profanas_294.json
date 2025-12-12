@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Arquero luminoso, desde el zodiaco llegas;\nAun presas en las crines tiene avejas griegas;\nAun del dardo herakleo muestras la roja herida\nPor do salir no pudo la esencia de tu vida.\n¡Padre y Maestro excelso! Eres la fuente sana\nDe la verdad que busca la triste raza humana:\nAun Esculapio sigue la vena de tu ciencia;\nSiempre el veloz Aquiles sustenta su existencia\nCon el manjar salvaje que le ofreciste un día,\ny Herakles, descuidando su masa, en la harmonía\nDe los astros, se eleva bajo el cielo nocturno...",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

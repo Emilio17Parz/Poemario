@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Veterano poeta cuyo plectro ha golpeado la lira bajo las dos\nsoberanías. Nació en Biñán (Laguna), en 1860, Fué condiscípulo y\n_alter ego_ de Rizal en el Ateneo municipal, y juntos se graduaron de\nbachiller en 1877. Hacía versos a los catorce años. Cursó la carrera\nde ingeniero industrial, y para perfeccionar sus estudios viajó por\nEuropa, Años residió en Barcelona. Son sus pasiones, además de la\nmatemática, el ajedrez y la música. Fué general de ingenieros con el\nejército revolucionario. Sus poetas dilectos son Campoamor y\nVillaespesa. Mora en Manila actualmente, siendo profesor de guitarra\ndel Conservatorio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

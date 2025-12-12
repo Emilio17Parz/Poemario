@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ahora que empecé el día\nvolviendo a tu mirada,\ny me encontraste bien\ny te encontré más linda.\nAhora que por fin\nestá bastante claro\ndónde estás y dónde estoy.\nSé por primera vez\nque tendré fuerzas\npara construir contigo\nuna amistad tan piola,\nque del vecino\nterritorio del amor,\nese desesperado,\nempezarán a mirarnos\ncon envidia,\ny acabarán organizando\nexcursiones\npara venir a preguntarnos\ncómo hicimos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

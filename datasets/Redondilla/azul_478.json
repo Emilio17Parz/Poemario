@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "¡Sí, seré siempre un gandul,\nlo cual aplaudo y celebro,\nmientras sea mi cerebro\njaula del pájaro azul!",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

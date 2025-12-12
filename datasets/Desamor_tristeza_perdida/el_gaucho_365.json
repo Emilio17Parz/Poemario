@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "331\nEra la casa del baile\nun rancho de mala muerte,\ny se enllenó de tal suerte\nque andábamos a empujones:\nnunca faltan encontrones\ncuando un pobre se divierte.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

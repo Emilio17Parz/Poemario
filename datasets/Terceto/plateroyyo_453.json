@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Esta tarde he ido con los niños á visitar la sepultura de Platero, que\nestá en el huerto de la Pina, al pie del pino paternal. En torno, Abril\nhabía adornado la tierra húmeda de grandes lirios amarillos.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

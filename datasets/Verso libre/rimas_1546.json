@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Pero aquellas cuajadas de rocío,\nCuyas gotas mirábamos temblar\nY caer, como lágrimas del día...\nÉsas... ¡no volverán!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

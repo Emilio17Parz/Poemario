@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mas ¡ay! llegaréis, flores,\nconservaréis, quizás, vuestros colores;\npero lejos del patrio, heroico suelo,\na quién debeis la vida\nperderéis los olores;",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

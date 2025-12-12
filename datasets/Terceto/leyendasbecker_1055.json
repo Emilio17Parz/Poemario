@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "[Footnote 1: el emperador. Napoleon Bonaparte, born at Ajaccio,\nCorsica, August 15, 1769; died on the island of St. Helena, May 5,\n1821. At this time he was at the height of his power.]",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

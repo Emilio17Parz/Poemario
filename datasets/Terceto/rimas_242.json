@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "En efecto, Manrique amaba la soledad, y la amaba de tal modo, que\nalgunas veces hubiera deseado no tener sombra, por que su sombra no\nle siguiese á todas partes.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

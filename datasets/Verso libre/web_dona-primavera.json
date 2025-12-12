@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Doña Primavera\nviste que es primor,\nviste en limonero\ny en naranjo en flor.\nLleva por sandalias\nunas anchas hojas,\ny por caravanas\nunas fucsias rojas.\nSalid a encontrarla\npor esos caminos.\n¡Va loca de soles\ny loca de trinos!\nDoña Primavera\nde aliento fecundo,\nse ríe de todas\nlas penas del mundo...\nNo cree al que le hable\nde las vidas ruines.\n¿Cómo va a toparlas\nentre los jazmines?\n¿Cómo va a encontralas\njunto de las fuentes\nde espejos dorados\ny cantos ardientes?\nDe la tierra enferma\nen las pardas grietas,\nenciende rosales\nde rojas piruetas.\nPone sus encajes,\nprende sus verduras,\nen la piedra triste\nde las sepulturas...\nDoña Primavera\nde manos gloriosas,\nhaz que por la vida\nderramemos rosas:\nRosas de alegría,\nrosas de perdón,\nrosas de cariño,\ny de exultación.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

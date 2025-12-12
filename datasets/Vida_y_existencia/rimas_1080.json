@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todas las tardes, y cuando el sol comienza á caer, salgo al camino\nque pasa por delante de las puertas del monasterio para aguardar al\nconductor de la correspondencia que me trae los periódicos de Madrid.\nFrente al arco que da entrada al primer recinto de la abadía, se\nextiende una larga alameda de chopos tan altos, que cuando agita\nlas ramas el viento de la tarde, sus copas se unen y forman una\ninmensa bóveda de verdura. Por ambos lados del camino, y saltando y\ncayendo con un murmullo apacible por entre las retorcidas raíces de\nlos árboles, corren dos arroyos de agua cristalina y transparente,\nfría como la hoja de una espada y delgada como su filo. El terreno\nsobre el cual flotan las sombras de los chopos, salpicadas de manchas\ninquietas y luminosas, está á trechos cubierto de una yerba alta,\nespesa y finísima, entre la que nacen tantas margaritas blancas, que\nsemejan á primera vista esa lluvia de flores con que alfombran el\nsuelo los árboles frutales en los templados días de Abril. En los\nribazos, y entre los zarzales y los juncos del arroyo, crecen las\nvioletas silvestres, que, aunque casi ocultas entre sus rastreras\nhojas, se anuncian á gran distancia con su intenso perfume; y por\núltimo, también cerca del agua y formando como un segundo término,\ndéjase ver por entre los huecos que quedan de tronco á tronco una\ndoble fila de nogales corpulentos con sus copas redondas, compactas y\noscuras.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

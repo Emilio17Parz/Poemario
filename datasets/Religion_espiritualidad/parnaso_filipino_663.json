@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿No son tus noches bellas\nlas mismas que las nuestras? ¿No es luz de tus estrellas\nla que reciben juntas Bisayas y Luzón?\n¿No es aroma indígena del _ilang-ilang_ regio\nel que a leer nos mueve un solo florilegio\ny a sentir, alma adentro, una sola emoción?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

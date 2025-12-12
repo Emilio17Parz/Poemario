@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Terrible mar de la vida!\nFiera sirte aborrecida,\ncuanto apacible falaz,\n¿qué ley aquí nos encierra,\nque nos tiene siempre en guerra\nsin darnos nunca la paz?",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

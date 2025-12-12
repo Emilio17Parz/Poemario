@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Yo muero cuando veo que el cielo se colora\ny al fin anuncia el día tras lóbrego capúz:\nsi granas necesitas para teñir tu aurora,\n¡vierte la sangre mía, derrámala en buena hora,\ny dórela un reflejo de su naciente luz!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

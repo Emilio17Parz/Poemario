@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Allá la noble España, madre nuestra,\naquí su noble hija del Oriente,\nque a los extraños y a los propios muestra\nque de ella supo levantar la frente...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Como la flor hermosa\nDe cáliz recojido,\nQue se abre al estallido\nDel rayo destructor,\nLa Patria, al ronco estruendo\nDel rayo de la guerra,\nEn Mayo dió á la tierra\nSu aroma y esplendor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

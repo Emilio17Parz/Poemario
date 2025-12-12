@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Los ojos escaldados de tu llanto,\nTu rostro cadavérico y hundido;\nÚnico desahogo en tu quebranto,\nEl histérico ¡ay! de tu gemido:\n¿Quién, quién pudiera en infortunio tanto\nEnvolver tu desdicha en el olvido,\nDisipar tu dolor y recogerte\nEn su seno de paz? ¡Solo la muerte!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

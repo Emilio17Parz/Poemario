@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cementerio vacío bajo la luna creciente.",
+  "poema": {
+    "texto": "En un cementerio vacío, bajo la luna creciente,\nSilencio profundo se viste de misticismo.\nTomas el camino sin trazas, en busca de respuestas,\nEn una noche que te embruja con su presencia.\n\nBajo la luz del astro, tus pensamientos viajan,\nCaminando por la oscuridad, sin saber dónde acabarán.\nEl espíritu se despierta en ti, y quisiera hablar,\nSin embargo, nada se oye, solo el sueno de un recuerdo viejo.\n\nYa no se escucha tu risa ni tus últimas palabras,\nPero tu corazón sigue latiendo en la memoria.\nEn este cementerio vacío, bajo la luna creciente,\nTu presencia continúa y me hace sentir que tienes aliento.",
+    "tipo": "Verso_libre",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

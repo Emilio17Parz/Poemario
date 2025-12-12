@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "1\nLa caricia es un lenguaje\nsi tus caricias me hablan\nno quisiera que se callen\n2\nLa caricia no es la copia\nde otra caricia lejana\nes una nueva versión\ncasi siempre mejorada\n3\nEs la fiesta de la piel\nla caricia mientras dura\ny cuando se aleja deja\nsin amparo a la lujuria\n4\nLas caricias de los sueños\nque son prodigio y encanto\nadolecen de un defecto\nno tiene tacto\n5\nComo aventura y enigma\nla caricia empieza antes\nde convertirse en caricia\n6\nEs claro que lo mejor\nno es la caricia en sí misma\nsino su continuación",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

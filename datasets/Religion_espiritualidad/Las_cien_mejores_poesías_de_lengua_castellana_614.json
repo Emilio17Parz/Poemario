@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cuando recuerdo la piedad sincera\ncon que en mi edad primera\nentraba en nuestras viejas catedrales,\ndonde postrado ante la cruz de hinojos\nalzaba a Dios mis ojos,\nsoñando en las venturas celestiales;",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

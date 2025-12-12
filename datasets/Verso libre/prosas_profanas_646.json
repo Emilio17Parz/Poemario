@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Maravillosamente danzaba. Los diamantes\nNegros de sus pupilas vertían su destello;\nEra bello su rostro, era un rostro tan bello\nComo el de las gitanas de don Miguel Cervantes.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

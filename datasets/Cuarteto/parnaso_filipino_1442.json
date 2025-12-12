@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Huyo del tumulto de la vida urbana,\nla fiebre del oro, la fraterna lid;\nla ciudad es fosa de la gleba humana,\nde los hombres-fieras madriguera vil.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

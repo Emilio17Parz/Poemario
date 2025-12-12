@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las huestes innumerables,\nLos pendones y estandartes\nY banderas,\nLos castillos impunables,\nLos muros e baluartes\nY barreras,\nLa cava honda chapada,\nO cualquier otro reparo\n¿Qué aprovecha?\nCuando tú vienes airada\nTodo lo pasas de claro\nCon tu flecha.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

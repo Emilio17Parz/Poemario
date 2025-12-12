@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "--El cielo me lo envía, dijo el cazador, lanzándose sobre sus lomos\nágil como un gamo. El paje, que era delgado, muy delgado, y amarillo\ncomo la muerte, se sonrió de una manera extraña al presentarle la\nbrida.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

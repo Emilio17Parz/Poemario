@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Que incómodo es venir\nde un país que no tiene\ndesfiladero de las termópilas\nni machu picchu\nni roca tarpeya\nni popocatépetl\nni galeria degli uffizi\nni gran muralla china\nni place des vosges\nni barrio gótico\nni palenque\nni paseo del prater\nni columnata de bernini\nni cañon del colorado\nni piramide de keops\nni rijksmuseum\nni sainte chapelle\nni popul vuh\nni venus del espejo\nni cuevas de altamira\nni philosophenweg\nni tenochtitlán\nni manekken pis\nni tal mahal\ndiríase que es incómodo\nno por complejo de inferioridad\nsino porque uno realmente no sabe\nsi está viviendo\nantes del prólogo\no después del epílogo\ny tampoco intuye\nsi es peor o mejor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

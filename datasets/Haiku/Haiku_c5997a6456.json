@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Azul cristal,\nVuela sobre el agua quieta,\nBreve instante.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Libélula estanque"
+  }
+}

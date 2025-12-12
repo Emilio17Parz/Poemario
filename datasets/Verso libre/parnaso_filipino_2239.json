@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Amaremos a la aurora\nque arrulla tierna a los días\nen la cuna,\ny a la tibia luz que llora,\nllena de melancolías,\nblanca luna.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

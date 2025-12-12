@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Viento entre pinos\nsusurra viejas melodías\nfrío al anochecer",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

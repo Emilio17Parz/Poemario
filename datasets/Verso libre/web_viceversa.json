@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tengo miedo de verte\nnecesidad de verte\nesperanza de verte\ndesazones de verte\ntengo ganas de hallarte\npreocupación de hallarte\ncertidumbre de hallarte\npobres dudas de hallarte\ntengo urgencia de oírte\nalegría de oírte\nbuena suerte de oírte\ny temores de oírte\no sea\nresumiendo\nestoy jodido\ny radiante\nquizá más lo primero\nque lo segundo\ny también\nviceversa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

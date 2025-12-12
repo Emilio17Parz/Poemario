@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Presto podrás salir de aquesa duda,\nPorque si tu lo quieres, yo me ofrezco\nDe subir sobre el muro, aunque me ponga\nAl riguroso trance que se ofrece,\nSolo por ver aquello que en Numancia\nHacen nuestros soberbios enemigos.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "(_Si hay poesía en nuestra América, ella está en las cosas viejas: en\nPalenke y Utatlán, en el indio legendario, y en el inca sensual y fino,\ny en el gran Moctezuma de la silla de oro. Lo demás es tuyo, demócrata\nWalt Whitman._)",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

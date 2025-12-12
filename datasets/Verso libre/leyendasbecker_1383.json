@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mi primer movimiento fué arrojarme á la puerta para cerrar el paso,\npero al asir sus hojas, sentí sobre mis hombros una mano formidable\ncubierta-con un guantelete, que después de sacudirme con violencia me\nderribó sobre el dintel. Allí permanecí hasta la mañana siguiente, que\nme encontraron mis servidores falto de sentido, y recordando sólo que\ndespues de mi caída, había creído percibir confusamente como unas\npisadas sonoras, al compás de las cuales resonaba un rumor de\nespuelas, que poco á poco se fué alejando hasta perderse.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

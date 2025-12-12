@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Donaire es lo que dices, risa, juego,\nY loco el que pensase de hacello.\nUsad el medio del humilde ruego,\nSi quereis que se escape vuestro cuello\nDe probar el rigor y filos diestros\nDel Romano cuchillo y brazos nuestros.\nLa fiera que en la jaula está encerrada\nPor su selvatiquez y fuerza dura,\nSi puede alli con maña ser domada\nY con el tiempo y medios de cordura,\nQuien la dexase ir libre y desatada,\nDaria grandes muestras de locura:\nBestias sois, y por tales encerrados\nOs tengo donde haveis de ser domados:\nMia será Numancia á pesar vuestro,\nSin que me cueste un minimo soldado,\nY el que teneis vosotros por mas diestro\nRompa por ese foso trincheado,\nY si en esto os parece que yo muestro\nUn poco mi valor acobardado,\nEl viento lleve agora esta verguenza,\nY vuelvale la fama quando os venza.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

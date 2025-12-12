@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Amar! Había nacido para soñar el amor, no para sentirlo. Amaba á\ntodas las mujeres un instante: á ésta porque era rubia, á aquélla\nporque tenía los labios rojos, á la otra porque se cimbreaba al andar\ncomo un junco.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

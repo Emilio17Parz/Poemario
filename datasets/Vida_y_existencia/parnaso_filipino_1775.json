@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hundido en las tinieblas, muero calladamente.\nEs la vida espejismo de sueños y palabras,\ny su embriaguez me ha puesto amargor en la boca,\nvomitan el veneno por sus bocas macabras.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y triunfarán de los verdugos fieros\nde cien persecuciones al estrago,\nde las garras de tigres carniceros,\nde falaces serpientes al halago;\ny aunque derramen, embotando aceros,\npara ahogar la verdad, de sangre un lago,\nque si la Cruz al lago es arrojada,\nsobre el lago de sangre sobrenada.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

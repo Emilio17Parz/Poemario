@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Otra allá, con el cabello suelto sobre los hombros, mecíase\nsuspendida de la rama de un sauce sobre la corriente del río,\ny sus pequeños pies color de rosa, hacían una raya de plata\nal pasar rozando la tersa superficie. En tanto que éstas\npermanecían recostadas aún al borde del agua con los azules ojos\nadormidos, aspirando con voluptuosidad el perfume de las flores y\nestremeciéndose ligeramente al contacto de la fresca brisa, aquéllas\ndanzaban en vertiginosa ronda, entrelazando caprichosamente sus\nmanos, dejando caer atrás la cabeza con delicioso abandono, é\nhiriendo el suelo con el pie en alternada cadencia.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

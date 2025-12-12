@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "De la viva y creciente incertidumbre\nque en lucha estéril nuestra fuerza agota;\ndel huracán de sangre que alborota\nel mar de la revuelta muchedumbre;\nde la insaciable y honda podredumbre\nque el rostro y la conciencia nos azota;",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

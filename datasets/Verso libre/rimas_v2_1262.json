@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tú, Catalina, eres el dulce fruto\nDe una mujer, que cual lozana planta,\nEn su corona fresca flor levanta,\nMientras el fruto de sus ramas dá;\nEres la prenda del cariño tierno\nDe un noble amigo, que con blando anhelo,\nGuarda esa planta del rigor del cielo\nCuidándola con amoroso afan.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

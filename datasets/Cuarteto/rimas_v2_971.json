@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Marchita está su frente luminosa\nSellada por el genio del dolor,\nPero aun brilla la chispa misteriosa\nQue estampó con su dedo el Hacedor.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

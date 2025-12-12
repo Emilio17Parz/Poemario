@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Adios! nunca me olvides,\nY que tu estrella amiga\nSiempre á tu mente diga\nQue estoy pensando en tí:\nY si en el campo caigo\nPor la metralla muerto,\nMira ese rayo incierto\nY acuérdate de mí.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "mente"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Niñita de pescadores\nque con viento y olas puedes,\nduerme pintada de conchas,\ngarabateada de redes.\nDuerme encima de la duna\nque te alza y que te crece,\noyendo la mar-nodriza\nque a más loca mejor mece.\nLa red me llena la falda\ny no me deja tenerte,\nporque si rompo los nudos\nserá que rompo tu suerte...\nDuérmete mejor que lo hacen\nlas que en la cuna se mecen,\nla boca llena de sal\ny el sueño lleno de peces.\nDos peces en las rodillas,\nuno plateado en la frente,\ny en el pecho, bate y bate,\notro pez incandescente...",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Como he dicho, transcurrieron muchos años después que abandoné á\nSevilla, sin que olvidase del todo aquella tarde, cuyo recuerdo\npasaba algunas veces por mi imaginación como una brisa bienhechora\nque refresca el ardor de la frente.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Amo tu delicioso alejandrino\nComo el de Hugo, espíritu de España;\nEste vale una copa de champaña\nComo aquél vale «un vaso do bon vino».",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

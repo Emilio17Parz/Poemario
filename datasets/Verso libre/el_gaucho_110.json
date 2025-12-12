@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "84\nSabe manejar las bolas\ncomo naides las maneja;\ncuanto el contrario se aleja,\nmanda una bola perdida,\ny si lo alcanza, sin vida\nes siguro que lo deja.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

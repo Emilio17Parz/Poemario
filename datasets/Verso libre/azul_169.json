@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando Orfeo tañía su lira había sonrisa en el rostro apolíneo. Demeter\nsentía gozo. Las palmeras derramaban su polen, las semillas reventaban,\nlos leones movían blandamente su crin. Una vez voló un clavel de su\ntallo hecho mariposa roja, y una estrella descendió fascinada y se tornó\nflor de lis.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Nácar de luna que en los cielos, riela,\noriflama brillante sobre el mar,\nnieve en la cima que el calor deshiela,\npebetero encendido ante el altar,\npresto a los caminantes mi consuelo,\nacompañando a Fé y a Caridad;\nlas tres llevamos por camino el cielo,\nformando una gloriosa trinidad.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

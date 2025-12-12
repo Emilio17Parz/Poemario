@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Los recios flabelos de los cocoteros\nmeciendo mi sueño, cantan sin cesar.\nLos \"nunus\" del bosque me dicen sinceros\nque soy muy dichoso en mi soledad.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

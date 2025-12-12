@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Alzóse hasta las cumbres\nDel alto Chimborazo,\nY allí con fuerte brazo\nTu corazon clavó;\nY cual en noble túmulo\nBrilla la urna de oro,\nLa urna de nuestro lloro\nAllí vierte esplendor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

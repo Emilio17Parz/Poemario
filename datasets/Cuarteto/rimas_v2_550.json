@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Herido por un dardo en la pelea\nEpaminondas cae sobre su escudo,\nAbierto el pecho por el dardo agudo\nQue mata el cuerpo, pero no la idea.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

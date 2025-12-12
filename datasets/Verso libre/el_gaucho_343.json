@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "310\nEs triste a no poder más\nel hombre en su padecer,\nsi no tiene una mujer\nque lo ampare y lo consuele:\nmas pa que otro se la pele\nlo mejor es no tener.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "A esta distancia y en este lugar me parece mentira que existe aún\nese mundo que yo conocía, el mundo del Congreso y las redacciones,\ndel Casino y de los teatros, del Suizo y de la Fuente Castellana,\ny que existe tal como yo lo dejé, rabiando y divirtiéndose, hoy en\nuna broma, mañana en un funeral, todos de prisa, todos cosechando\nesperanzas y decepciones, todos corriendo detrás de una cosa que\nno alcanzan nunca, hasta que corriendo den en uno de esos lazos\nsilenciosos que nos va tendiendo la muerte, y desaparezcan como por\nescotillón con una gacetilla por epitafio.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

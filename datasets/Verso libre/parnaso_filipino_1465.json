@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y tú, que el vario encanto\nde Febo, amado del divino Apeles,\ny de Natura el manto,\ncon mágicos pinceles\ntrasladar al sencillo lienzo sueles;",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

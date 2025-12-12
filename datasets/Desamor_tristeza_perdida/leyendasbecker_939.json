@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Este descubrimiento no dejaba de inquietarla algo, sobre todo teniendo\nen cuenta las ruidosas carcajadas que la noche anterior había creído\npercibir á lo lejos y en uno de los ángulos de la plaza, cuando\ncerraba el balcón y despedia á su amante; pero al mirar aparecer entre\nlas filas de los combatientes, que pasaban por debajo del estrado\nlanzando chispas de fuego de sus brillantes armaduras, y envueltos en\nuna nube de polvo, los pendones reunidos de las casas de Carrillo y\nSandoval; al ver la significativa sonrisa que al saludar á la reina le\ndirigieron los dos antiguos rivales que cabalgaban juntos, todo lo\nadivinó, y la púrpura de la vergüenza enrojeció su frente, y brilló en\nsus ojos una lágrima de despecho.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

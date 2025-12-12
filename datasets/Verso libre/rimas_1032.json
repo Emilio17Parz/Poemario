@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sentéme en una de las desiertas mesas; pedí algo de beber, que me\nsirvió el ventero, y de una en otra palabra suelta vinimos al cabo á\nentrar en una conversación tirada acerca de la historia de amores,\ncuyo último capítulo ignoraba todavía, á pesar de haber intentado\nadivinarlo varias veces.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

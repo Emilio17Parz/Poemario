@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Sabe Vd. lo que Napoleon decía del poeta Corneille? Pues bien, decía\nque á haber vivido en su tiempo le habria nombrado su primer ministro.\nNapoleon, que fué un gran poeta á la manera de Alejandro, era digno de\ncomprender cuánta ciencia política había en el creador de esos grandes\ncaracteres de la antigüedad, en cuya boca ha puesto palabras que han\ninmortalizado á su autor, y que prueban que quien tan profundamente\nconocía á los hombres bien pudo atinar con el mejor modo de dirigirlos.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

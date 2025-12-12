@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Un día, el canario verde, no sé cómo ni por qué, voló de su jaula. Era\nun canario viejo, recuerdo triste de una muerta, al que yo no había dado\nlibertad por miedo de que se muriera de hambre ó de frío, ó de que se lo\ncomieran los gatos.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

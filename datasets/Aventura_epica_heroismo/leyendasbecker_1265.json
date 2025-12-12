@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[Footnote 1: condes = 'counts,' 'earls.' The word conde comes from\nthe Latin _comes, comitem_, 'companion,' and during the Roman empire\nin Spain was a title of honor granted to certain officers who had\njurisdiction over war and peace. During the reign of the Goths it\nwas likewise an official and not a nobiliary title. Later, with the\ngrowth of the feudal system, the counts became not merely royal\nofficers, but hereditary rulers, with coronets and arms and an\nassumption of absolute authority in their counties. In some of these\ncounties the title developed later into that of king.]",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "honor"
+  }
+}

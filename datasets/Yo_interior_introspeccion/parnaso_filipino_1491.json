@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Del perro los ladridos, de las aves el trino,\ndel calao la voz ronca sólo se oyen allí;\nno hay hombre vanidoso ni importuno vecino\nque se imponga a mi mente, ni estorbe mi camino;\nsólo tengo las selvas y el mar cerca de mí.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "mente"
+  }
+}

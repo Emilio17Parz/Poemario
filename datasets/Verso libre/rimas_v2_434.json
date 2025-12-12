@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Generaciones nuevas\nRicas de independencia,\nTras dolorosas pruebas\nPor fecundar tu herencia,\nSe acercan á las aras\nQue con tu sombra amparas\nDel Plata al Ecuador.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

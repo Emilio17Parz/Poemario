@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pidamos para el campo las mieses abundosas,\nEl pan para los pobres, virtud á las hermosas,\nY para el pueblo todo, la luz de la razon;\nY ante la tumba fria do yacen nuestros padres,\nQue de laurel eterno cubrieron nuestras madres,\nPidamos para todos de paz la bendicion!",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

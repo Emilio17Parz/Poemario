@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "A visit to the cemetery. A skeleton thrusting out his head from his\nburial niche, and a young man presenting his card. \"DIFUNTO: No\nrecibo. VISITANTE: Pues hai (_sic_) queda la targeta (_sic_).\"",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

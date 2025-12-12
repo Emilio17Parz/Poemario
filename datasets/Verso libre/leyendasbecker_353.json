@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "In a _verso esdrújulo_, the intermediate syllable between the accented\nsyllable and the final syllable does not count, either in enumerating\nthe syllables in the verse or for the rhyme (assonance). Therefore,\n_Umbrales de su pórtico_, p. 180, XL, l. 32, is a heptasyllable.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Envuelto en un pendon ensangrentado\nEn el pendon azul de la Nacion,\nConducirán el cuerpo de un soldado\nTendido en la cureña de un cañon,\nY al pié de la pirámide de Mayo\nEl cadáver del mártir colocando,\nDe laureles su frente coronando\nLe votarán espléndida ovacion!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

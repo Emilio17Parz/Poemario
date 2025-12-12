@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No para hacer de mi pasión alarde,\npara hallar fuerzas en la lucha acaso,\nal templo de la muerte por la tarde\ndel triste día dirigí mi paso.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

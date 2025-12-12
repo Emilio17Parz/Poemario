@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Derrama, ó dulce hermano, por los ojos\nEl alma en llanto amargo convertida,\nVenga la muerte y lleve los despojos\nDe nuestra miserable y triste vida.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

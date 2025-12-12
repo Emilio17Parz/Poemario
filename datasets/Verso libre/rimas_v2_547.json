@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Asi América gime entre cordeles\nAl rudo potro colonial atada,\nSeguida por la jauría de lebreles;\nY exánime, y sangrienta y lacerada\nCorre, cae, se levanta y de laureles,\nResplandece su frente coronada.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

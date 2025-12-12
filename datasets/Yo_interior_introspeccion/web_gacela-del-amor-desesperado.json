@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La noche no quiere venir\npara que tú no vengas\nni yo pueda ir.\nPero yo iré\naunque un sol de alacranes me coma la sien.\nPero tú vendrás\ncon la lengua quemada por la lluvia de sal.\nEl día no quiere venir\npara que tú no vengas\nni yo pueda ir.\nPero yo iré\nentregando a los sapos mi mordido clavel.\nPero tú vendrás\npor las turbias cloacas de la oscuridad.\nNi la noche ni el día quieren venir\npara que por ti muera\ny tú mueras por mí.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

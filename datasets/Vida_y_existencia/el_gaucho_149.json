@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "122\nYo me arrescosté a un horcón\ndando tiempo a que pagaran,\ny poniendo güena cara\nestuve haciéndome el poyo,\na esperar que me llamaran\npara recibir mi boyo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

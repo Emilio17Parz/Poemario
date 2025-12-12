@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dicen que después de acaecido este suceso, un cazador extraviado que\npasó la noche de difuntos sin poder salir del Monte de las Ánimas,\ny que al otro día, antes de morir, pudo contar lo que viera, refirió\ncosas horribles. Entre otras, asegura que vió á los esqueletos de los\nantiguos templarios y de los nobles de Soria enterrados en el atrio\nde la capilla, levantarse al punto de la oración con un estrépito\nhorrible, y caballeros sobre osamentas de corceles, perseguir como á\nuna fiera á una mujer hermosa, pálida y desmelenada, que con los pies\ndesnudos y sangrientos, y arrojando gritos de horror, daba vueltas\nalrededor de la tumba de Alonso.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

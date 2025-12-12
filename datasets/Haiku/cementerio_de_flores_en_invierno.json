@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Cementerio de flores en invierno.",
   "poema": {
     "texto": "Florece en invierno,\nRosas de lápidas heladas,\nSilencio, reina.",

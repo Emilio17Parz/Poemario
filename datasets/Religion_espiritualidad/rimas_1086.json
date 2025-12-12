@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ya todo pasó. Madrid, la política, las luchas ardientes, las miserias\nhumanas, las pasiones, las contrariedades, los deseos, todo se ha\nahogado en aquella música divina. Mi alma está ya tan serena como el\nagua inmóvil y profunda. La fe en algo más grande, en un destino\nfuturo y desconocido, más allá de esta vida, la fe de la eternidad,\nen fin, aspiración absorbente, única é inmensa, mata esa fe al por\nmenor que pudiéramos llamar personal, la fe en el mañana, especie\nde aguijón que espolea los espíritus irresolutos, y que tanto se\nnecesita para luchar y vivir y alcanzar cualquier cosa en la tierra.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

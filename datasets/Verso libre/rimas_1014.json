@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando el azar me condujo de nuevo á la gran ciudad que con tanta\nrazón es llamada _reina de Andalucía_, una de las cosas que más\nllamaron mi atención, fué el notable cambio verificado durante mi\nausencia. Edificios, manzanas de casas y barrios enteros habían\nsurgido al contacto mágico de la industria y el capital: por\ntodas partes fábricas, jardines, posesiones de recreo, frondosas\nalamedas; pero, por desgracia, muchas venerables antiguallas habían\ndesaparecido.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

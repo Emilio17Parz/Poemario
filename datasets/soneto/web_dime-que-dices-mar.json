@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "¡Dime qué dices, mar, qué dices, dime!\nPero no me lo digas; tus cantares\nson, con el coro de tus varios mares,\nuna voz sola que cantando gime.\nEse mero gemido nos redime\nde la letra fatal, y sus pesares,\nbajo el oleaje de nuestros azares,\nel secreto secreto nos oprime.\nLa sinrazón de nuestra suerte abona,\ncalla la culpa y danos el castigo;\nla vida al que nació no le perdona;\nde esta enorme injusticia sé testigo,\nque así mi canto con tu canto entona,\ny no me digas lo que no te digo.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

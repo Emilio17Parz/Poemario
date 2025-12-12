@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Suprimo, como dije ya, los versos que siguen y que no pasan de ocho,\ndonde se habla de la risa que le dió a Satanás de resultas del lance y\nde lo pensativo que se quedó el Señor en su trono.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

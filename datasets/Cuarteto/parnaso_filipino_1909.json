@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tu apostolado, en méritos fecundo,\nconquistará la admiración humana.\nMás que buscar, como Colón, un mundo.\n¡Tú formarás el mundo de mañana!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

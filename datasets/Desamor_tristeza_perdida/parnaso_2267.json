@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dado me ha la fortuna por discuento\nDe todo mi trabajo, Silvia mia,\nLa gloria del mirarte, y el contento.\nMi pena será vuelta en alegria\nDe hoy mas, pues que te veo, Silvia amada,\nY mi cerrada noche en claro dia.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

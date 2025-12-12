@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hoy que yaces envuelta en la inocencia\nY no puede abarcar tu inteligencia\nLo que es la maternal contemplacion.\nEntenderás la voz del sentimiento\nQue inoculada en mi amoroso aliento\nDescenderá á tu puro corazon.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

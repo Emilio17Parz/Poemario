@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Gotas del rocío\ncubren la verde hoja al sol\nbrillo del amanecer",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Rocío"
+  }
+}

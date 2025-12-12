@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "De un reloj se oía\nCompasado el péndulo,\nY de algunos cirios\nEl chisporroteo.\nTan medroso y triste,\nTan oscuro y yerto\nTodo se encontraba...\nQue pensé un momento:\n«_¡Dios mío, qué solos\n_Se quedan los muertos!_»",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

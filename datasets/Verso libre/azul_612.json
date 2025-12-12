@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Entre tanto, la contempla con sus ojos de mármol una Diana que se alza\nirresistible y desnuda sobre su plinto; y le ríe con audacia un sátiro\nde bronce que sostiene entre los pámpanos de su cabeza un candelabro; y\nen el ansa de un jarrón de Rouen lleno de agua perfumada, le tiende los\nbrazos y los pechos una sirena con la cola corva y brillante de escamas\nargentinas, mientras en el plafón en forma de óvalo, va por el fondo\ninmenso y azulado sobre el lomo de un toro robusto y divino, la bella\nEuropa, entre los delfines áureos y tritones corpulentos, que sobre el\nvasto ruido de las ondas hacen vibrar el ronco estrépito de sus\nresonantes caracoles.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En el jardín del rey de la isla de Oro--(¡oh, mi\nensueño que adoro!)--fuera mejor que tú, harmoniosa\nhermana, amaestrases tus aladas flautas, tus\nsonoras arpas; tú que naciste donde más lindos nacen\nel clavel de sangre y la rosa de arrebol,\nen el país del sol!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

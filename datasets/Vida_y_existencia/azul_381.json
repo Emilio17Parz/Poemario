@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El mundo estaba alegre, todo era vigor y juventud; y las rosas, y las\nhojas verdes y frescas, y los pájaros en cuyos buches entra el grano y\nbrota el gorjeo, y el campo todo, saludaban al sol y a la primavera\nfragante.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

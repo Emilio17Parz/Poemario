@@ -1,8 +1,9 @@
 {
-    "subcategoria": "Naturaleza",
-    "poema": {
-        "texto": "Luz en la noche,\nla luna nos observa,\nduerme el jardín.",
-        "tipo": "Haiku",
-        "palabra_clave_ingresada": "Luna"
-    }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Luz en la noche,\nla luna nos observa,\nduerme el jardín.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Luna"
+  }
 }

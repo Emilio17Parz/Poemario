@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Dando un salto al través de los siglos, trasladémonos á la risueña\nItalia, que Vd. ha visitado con religioso respeto, segun nos cuenta en\nsus Viages.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

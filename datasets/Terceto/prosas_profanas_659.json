@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Ramos de la Esperanza surgen primaverales,\nAtraviesa impertérrita por el bosque de males\nSin temer las serpientes; y sigue, como un dios...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

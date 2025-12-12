@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "El tío Gregorio pronunció estas últimas palabras con un tono tan\nlleno de misterio, que las muchachas abrieron los ojos espantadas\npara mirarle, y con mezcla de curiosidad y burla tornaron á insistir:",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

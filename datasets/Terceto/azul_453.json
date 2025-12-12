@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Sucedió también que gustaba de ir a las campiñas nuevas, al entrar la\nprimavera. El aire del bosque hacía bien a sus pulmones, según nos decía\nel poeta.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

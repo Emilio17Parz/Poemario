@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Al dar de las ánimas[3]\nEl toque postrero,\nAcabó una vieja\nSus últimos rezos;\nCruzó la ancha nave,\nLas puertas gimieron,\nY el santo recinto\nQuedóse desierto;",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

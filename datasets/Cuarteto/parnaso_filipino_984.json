@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No lamentes, España, tu caída,\nsi te hirió con su hachazo el elemento;\ntambién lograste que impregnase el viento\nla rica esencia que exhaló tu herida.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

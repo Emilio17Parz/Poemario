@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Señor galan, parezca: á qué se asconde?\nPues á fé por llevarle, si él no gusta,\nQue ni le busque, aseche, ni le ronde.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

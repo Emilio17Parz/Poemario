@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En el libro hay _Cuentos en prosa_ y seis composiciones en verso. En los\ncuentos y en las poesías todo está cincelado, burilado, hecho para que\ndure, con primor y esmero, como pudiera haberlo hecho Flaubert, o el\nparnasiano más atildado. Y, sin embargo, no se nota el esfuerzo, ni el\ntrabajo de la lima, ni la fatiga del rebuscar: todo parece espontáneo y\nfácil y escrito al correr de la pluma, sin mengua de la concisión, de la\nprecisión y de la extremada elegancia. Hasta las rarezas extravagantes y\nsalidas de tono, que a mí me chocan, pero que acaso agraden en general,\nestán hechas adrede. Todo en el librito está meditado y criticado por el\nautor, sin que su crítica previa o simultánea de la creación perjudique\nal brío apasionado y a la inspiración del que crea.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

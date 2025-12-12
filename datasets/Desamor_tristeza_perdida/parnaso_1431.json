@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Qué es esto? no respondes? no revives?\nOtra vez has gustado de la muerte?\nPues yo haré que con tu pena avives,\nY tengas el hablar á buena suerte,\nPues eres de los nuestros, no te esquives\nDe hablarme y responderme, mira, advierte\nQue si callas, haré que con tu mengua\nSueltes la atada y encogida lengua.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "pena"
+  }
+}

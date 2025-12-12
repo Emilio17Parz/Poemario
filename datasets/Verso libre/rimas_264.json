@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Llegó á la cima, desde la que se descubre la ciudad en lontananza y\nuna gran parte del Duero que se retuerce á sus pies, arrastrando una\ncorriente impetuosa y oscura por entre las corvas márgenes que lo\nencarcelan.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

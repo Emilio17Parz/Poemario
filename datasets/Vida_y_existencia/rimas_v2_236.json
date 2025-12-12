@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Esta palabra el entusiasmo inflama,\nPrende en los corazones noble llama,\nQue como chispa eléctrica cundió:\nY cual hierve entre escollos la marea,\nHirvió entre las cabezas una idea\nQue dió vida á la gran revolucion.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

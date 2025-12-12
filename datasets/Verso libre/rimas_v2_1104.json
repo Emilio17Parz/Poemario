@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y si una mujer hermosa\nDe blanca tela vestida,\nAnte mi vista abstraida\nPasa como aparicion,\nEn éxtasis arrobado\nBajo influjo de un hechizo,\nCreo que del paraiso\nLa puerta abre una vision.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

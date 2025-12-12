@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Anduvo, anduvo, anduvo. Le vió la luz del día,\nle vió la tarde pálida, le vió la noche fría,\ny siempre el tronco de árbol a cuestas del titán.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

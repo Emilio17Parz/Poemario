@@ -1,8 +1,9 @@
 {
-    "subcategoria": "Invierno",
-    "poema": {
-        "texto": "Manto de blanco,\nsilencio en la montaña,\nfrío que abraza.",
-        "tipo": "Haiku",
-        "palabra_clave_ingresada": "Nieve"
-    }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Invierno",
+  "poema": {
+    "texto": "Manto de blanco,\nsilencio en la montaña,\nfrío que abraza.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Nieve"
+  }
 }

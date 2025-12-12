@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Bellas promesas que un rato recrean\nluego se fugan con gestos ausentes,\ny en combativas arenas chispean\ncruentos reproches, cual gladios fulgentes.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

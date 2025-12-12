@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hay un hilo misterioso\nTan unido al de mi vida,\nComo liana entretegida\nDe grueso tronco al redor;\nNunca el hacha del destino\nConseguirá separarlos,\nQue á los dos ha de cortarlos\nÓ conservar á los dos.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

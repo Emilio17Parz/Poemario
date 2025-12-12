@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Atañe este tema de los poetas filipinos pronunciándose por el\ncastellano, a otro de transcendencia nacional: la perdurabilidad de\nnuestro idioma en el lejano Oriente.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

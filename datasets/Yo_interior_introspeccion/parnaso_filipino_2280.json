@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Allá me encaminé, trepé a la cumbre,\ncoronada de aliagas y romeros,\ny al tender la mirada en lontananza,\nmedio oculta entre sauces gigantescos,\nerguida, vi una cruz, la cruz bendita\nque el hondo sueño vela de los muertos.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

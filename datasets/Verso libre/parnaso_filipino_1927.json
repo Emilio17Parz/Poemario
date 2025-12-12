@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Somos floridas ramas del roble milenario:\nconserve nuestra raza el poder legendario,\nque trasmitióle España, de su progenie audaz.\nLos lazos que nos unen a ella en la ventura,\nde religión, de sangre, de idéntica cultura,\nson vínculos eternos ¡no se rompen jamás!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

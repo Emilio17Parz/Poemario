@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Y aun a veces aplacan mis amarguras\nOtras más misteriosas, otras más puras:\nCanciones sin palabra, sin pensamiento,\nVagas emanaciones del sentimiento;\nSilencioso gemido de amor y pena\nQue, en el fondo del pecho, callado suena;\nAspiración confusa que, en vivo anhelo,\nYa es canción, ya plegaria que sube al cielo;\nInquietudes del alma, de amor herida;\nVagos presentimientos de la otra vida;\nÉxtasis de la mente que a Dios se lanza;\nLuminosos destellos de la esperanza;\nVoces que me aseguran que podré verte\nCuando al mundo mis ojos cierre la muerte:\n¡Canciones que, por santas, no tienen nombres\nEn la lengua grosera que hablan los hombres!\nEsas son las que endulzan mi amargo duelo;\nEsas son las que el alma llaman al cielo;\nEsas de mi esperanza fijan el polo,\n¡Y esas son las que guardo para mí solo!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "plegaria"
+  }
+}

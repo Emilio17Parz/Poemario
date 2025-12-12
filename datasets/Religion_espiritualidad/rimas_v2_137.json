@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Alejandro, Tácito, Sócrates, Platon, Herodoto, Napoleon, Tito-Livio,\nColon, Bolívar, han sido poetas á su manera, y si no escribieron poemas,\nfué porque dieron otra direccion á las fuerzas poéticas de que podian\ndisponer. El primero, las aplicó á las grandes conquistas civilizadoras;\nel segundo, á las pinturas dramáticas que lo han inmortalizado. Sócrates\ny Platon presintieron, por intuicion poética, las sublimes verdades del\nprogreso moral. Herodoto es el verdadero rival de Homero, y Tito-Livio\neclipsa muchas veces á Virgilio. Para comprender la idea poética que\nhizo á Colon descubrir el Nuevo Mundo, es necesario leer su _Diario de\nViaje_, publicado por Navarrete, en el cual se ve al visionario, al\nespíritu entusiasta, mirando con los ojos del alma la tierra prometida\nde que se reian los espíritus positivos. Además, es bien sabido que\nColon hizo realmente versos, habiéndose salvado algunos de los que le\ninspiró la musa cristiana en su _Libro de las Profecías_. Bolívar, que\ncarecía del genio metódico de la guerra y de las calidades sólidas del\npolítico, derramó toda la poesía que rebosaba en su alma en bríndis,\nproclamas, discursos, boletines y acciones grandiosas dignas de la\nepopeya; procurando en esto marchar tras la huella de Napoleon, poeta en\naccion, cuyo genio militar se dilataba en presencia de las Pirámides ó\nevocando los recuerdos de la antigua Roma: y que se dormia bajo su\ntienda militar leyendo á Corneille ó á Ossian, como Alejandro leyendo á\nHomero, y derramando lágrimas de dolor á la idea de que no tendría un\npoeta semejante que cantase sus hazañas.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

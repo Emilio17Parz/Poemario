@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La luz tiembla, porque siente el martirio de los vientos,\nque irrumpieron desde fuera en la calma de mi estancia,\na encerrarse prisioneros en elásticos fragmentos\ny perderse, en un bostezo, vagamente, en la distancia.\nParpadea la luz trémula. Y de súbito se apaga,\nentre espasmos convulsivos de un cuerpo que lento muere.\nSigue el viento en mi aposento que de negruras se embriaga,\nmascullando monofónico un extraño _Miserere_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

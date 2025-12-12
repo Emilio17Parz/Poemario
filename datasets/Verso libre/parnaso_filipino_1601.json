@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tranquilo duerme el mar: la tenue brisa\nriza apenas su líquida planicie,\ny jugando en las ondas indecisa\nresbala por la inmensa superficie;\ncopia a lo lejos el cristal tembloso,\ncomo entre guijas de oro, la luz pura\ncon que el sidéreo coro esplendoroso\nbrilla en otra región. ¡Cuánta hermosura!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Después, ¡oh flor de Histeria! llorabas y reías;\nTus besos y tus lágrimas tuve en mi boca yo;\nTus risas, tus fragancias, tus quejas, eran mías.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

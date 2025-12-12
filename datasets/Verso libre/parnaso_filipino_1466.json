@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Corred! que sacra llama\ndel genio el lauro coronar espera,\nesparciendo la Fama\ncon trompa pregonera\nel nombre del mortal por la ancha esfera.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

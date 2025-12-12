@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "zambomba, _f._, zambomba, a kind of rustic drum consisting of a skin\nstretched over the mouth of a jar, with a reed fastened at the center.\nThis rubbed up and down with the moistened hand produces a strong,\nhoarse, monotonous sound.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Sabéis lo que es el río al parecer inerme,\ncuyas dormidas aguas espejan lozanías?\nEs el titán pacífico en cuyo seno duerme\nun nunca sospechado tesoro de energías.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

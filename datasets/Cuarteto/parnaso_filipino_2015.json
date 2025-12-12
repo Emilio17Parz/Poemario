@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Calma te pido, padecer constante;\ncalma te pido, inhóspito sufrir:\ncomo el héroe al marchar hacia adelante\nquiero cara al peligro sucumbír.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--¿Y si al dispararle te saluda con alguna risa del género de\nla que oyó Esteban, ó se te ríe en la nariz, y al escuchar sus\nsobrenaturales carcajadas se te cae la ballesta de las manos, y antes\nde reponerte del susto ya ha desaparecido la corza blanca más ligera\nque un relámpago?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

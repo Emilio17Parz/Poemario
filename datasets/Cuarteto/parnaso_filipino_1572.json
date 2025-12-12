@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Quizás de mi alma en sus nostalgias haya\n--lucero, golondrina o sampaguita,--\nel verso alado que a besarte vaya,\no la canción que en mi ilusión dormita.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

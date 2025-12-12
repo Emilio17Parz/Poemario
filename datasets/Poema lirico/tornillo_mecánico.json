@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Tornillo Mecánico",
+  "poema": {
+    "texto": "El tornillo mecánico, encerrado en la oscuridad,\nEspera su turno, busca un hueco de luz.\nUn grito silencioso, que murmura en sus labores,\nUna voz oculta, que busca soledad en el ruido.\n\nUn círculo en la arena, una marca a medir el tiempo,\nCada revolución, una vida entera consumida.\nSus esfuerzos desesperados son silenciosamente admirados,\nPor un mundo inmóvil, que se detiene a observarlo.\n\nUn sello en la tierra, un testigo de su paso,\nUn símbolo de resistencia, una lección de lucha y coraje.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Tornillo"
+  }
+}

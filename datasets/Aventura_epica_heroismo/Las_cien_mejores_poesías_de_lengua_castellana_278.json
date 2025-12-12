@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Pues Amor es tan cruel\nQue de Píramo y su amada\nHace tálamo una espada,\nDo se junten ella y él,\nSea mi Tisbe un pastel,\nY la espada sea mi diente,\n_Y ríase la gente_.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "espada"
+  }
+}

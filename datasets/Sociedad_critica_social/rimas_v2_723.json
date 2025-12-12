@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sus ojos resplandecen\nRadiantes de alegria,\nQue templa con sus sombras,\nDel rostro la altivez,\nCon juegos herculáneos\nFestejaran el dia,\nQue el pueblo hasta jugando\nRespira robustez.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

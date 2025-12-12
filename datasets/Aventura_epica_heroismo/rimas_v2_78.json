@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Solo ochocientos años despues de Orfeo, y cuatrocientos años despues de\nHomero y Hesiodo, apareció por primera vez la prosa en Grecia, en el año\n600 (antes de J. C.) Segun algunos eruditos, el honor de esta invencion\ncorresponde á un indio llamado Bidpai; segun otros, á un esclavo frigio\nllamado Lokman, que no falta quien diga que es el mismo Esopo. Plinio\nsostiene que la gloria de la prosa corresponde al filósofo Pherecydes, y\ná Cadmo de Mileto la de la historia. Otros piensan con Strabon que deba\ndarse la prioridad á Cadmo. Ambas opiniones encontradas convienen empero\nen un punto, y es, que tanto la prosa de Cadmo como la de Pherecydes, su\ncontemporáneo, eran todavia una imitacion del lenguaje poético,\nconsistiendo toda su innovacion en romper la medida del verso.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "honor"
+  }
+}

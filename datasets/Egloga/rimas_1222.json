@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "--¿Y cómo puede ser eso--dijo entonces el pastor,--si por aquí no\nhay castillo ni fortaleza alguna, y la primera sombra que envuelve\nnuestro lugar, es la del cabezo del monte en cuya falda se ha\nlevantado?",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "pastor"
+  }
+}

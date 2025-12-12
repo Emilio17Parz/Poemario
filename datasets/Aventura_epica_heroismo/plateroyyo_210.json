@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Platero miraba al perro fijamente, erguida la cabeza. Diana, temerosa,\nandaba escondiéndose de uno en otro. El guarda, arrepentido quizás, daba\nlargas razones no sabía á quién, indignándose sin poder, queriendo\nacallar su remordimiento. Un velo parecía enlutecer el sol; un velo\ngrande, como el velo pequeñito que nubló el ojo sano del perro\nasesinado. Abatidos por el viento del mar, los eucaliptos lloraban más\nreciamente en el hondo silencio aplastante que la siesta tendía por el\ncampo de oro, sobre el perro muerto.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

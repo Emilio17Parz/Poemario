@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Muchos años han pasado\ndesde que con beso ardiente\nhas abrasado mi frente...\nAquel beso se ha enfriado\ny hasta lo tengo olvidado.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "(Los abates refieren aventuras\nA las rubias marquesas. Soñolientos\nFilósofos defienden las ternuras\nDel amor, con sutiles argumentos,",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

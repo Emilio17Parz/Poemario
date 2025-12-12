@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hiatus is most likely to occur when the accented vowel is the initial\nvowel of the final word in a phrase or verse, or of a word that has a\nstrongly accented position in the verse; as, for example, when the\nsyllable is the next to the last syllable in a verse, or is the fourth\nor eighth syllable of a hendecasyllabic verse of the second class.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

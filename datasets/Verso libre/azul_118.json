@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando iba a la floresta, junto al corzo o jabalí herido y sangriento,\nhacía improvisar a sus profesores de retórica canciones alusivas; los\ncriados llenaban las copas de vino de oro que hierve, y las mujeres\nbatían palmas con movimientos rítmicos y gallardos. Era un rey sol, en\nsu Babilonia llena de músicas, de carcajadas y de ruido de festín.\nCuando se hastiaba de la ciudad bullente, iba de caza atronando el\nbosque con sus tropeles; y hacía salir de sus nidos a las aves\nasustadas, y el vocerío repercutía en lo más escondido de las cavernas.\nLos perros de patas elásticas iban rompiendo la maleza en la carrera, y\nlos cazadores, inclinados sobre el pescuezo de los caballos, hacían\nondear los mantos purpúreos y llevaban las caras encendidas y las\ncabelleras al viento.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

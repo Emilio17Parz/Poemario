@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La imaginación inquieta,\nal contemplar tal unión,\nenciende la inspiración\nen la mente del poeta.\nNoble, reta\nal bardo, que acude al duelo\ny al herir la egregia lira\ncopia, a la luz que le inspira,\ncantares que oyó en el cielo.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "mente"
+  }
+}

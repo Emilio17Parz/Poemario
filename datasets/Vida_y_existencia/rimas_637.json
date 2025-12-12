@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La multitud corrió á agolparse en los ribazos del camino para ver más\ná su sabor las brillantes armaduras y los lujosos arreos del séquito\ndel conde de Gómara, célebre en toda la comarca por su esplendidez y\nsus riquezas.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

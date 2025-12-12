@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Las Tirsis campesinas de ti están llenas\nY aman, radiosa abeja, tus bordoneos;\nAsí riegas tus chispas las nochebuenas\nComo adornas la lira de los Orfeos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

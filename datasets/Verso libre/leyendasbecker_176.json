@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Narciso Campillo. _Gustavo Adolfo Becquer_ is the title of an\nexcellent article on the Seville poet, by one who knew him well, in\n_La Ilustración Artística_, Barcelona, December 27, 1886, pp. 358-360.\nThis number (261--Año V) is dedicated to Becquer, and contains many\nprose articles and much verse relative to him.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

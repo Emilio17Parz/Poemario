@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es tu ritmo la ronda bulliciosa\nde crótalos y locas panderetas,\nde guitarras que dicen el elogio\nde unos ojos reidores que asaetan;\nes la risa que en notas se desata\ncual cristalino desgranar de perlas,\nel madrigal sonoro que deslíe\nsus estrofas de amor en las verbenas,\ny el chocar de las copas musicales\ndonde hierve la sangre de las cepas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En la paz de los viejos parques ducales,\njunto al lago que irradia verdes reflejos,\nel alma pensativa de los rosales\nflota en un azulado temblor de espejos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

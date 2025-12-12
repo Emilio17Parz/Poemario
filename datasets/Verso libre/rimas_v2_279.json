@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Funde cañones, arma ciudadanos,\nY al niño, á la muger y los ancianos\nLes infunde su aliento varonil;\nAmasa con su sangre su muralla\nBajo el fuego de la hórrida metralla\nY el mortífero plomo del fusil.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

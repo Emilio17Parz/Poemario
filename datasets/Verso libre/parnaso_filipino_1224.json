@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cruzaron el espacio en raudo vuelo\nlas águilas que Roma ostentó un día;\ncuanto cobija el anchuroso cielo\nsintió de su poder la tiranía.\nHundióse Roma; retembló su suelo;\nse escuchó el estertor de su agonía,\ny esparcieron sus restos funerales\ndel Septentrión los recios vendavales.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

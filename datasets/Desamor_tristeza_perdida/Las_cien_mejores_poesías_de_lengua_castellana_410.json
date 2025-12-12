@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Los años ¡ay! de la ilusión pasaron,\nLas dulces esperanzas que trajeron\nCon sus blancos ensueños se llevaron,\nY el porvenir de oscuridad vistieron:\nLas rosas del amor se marchitaron,\nLas flores en abrojos convirtieron,\nY de afán tanto y tan soñada gloria\nSolo quedó una tumba, una memoria.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

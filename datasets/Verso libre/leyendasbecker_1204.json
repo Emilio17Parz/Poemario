@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: capuchinos= 'Capuchins.' An order of mendicant friars\nfounded in 1528 by Matteo di Bassi, and named from the pointed\ncapouch or cowl that distinguishes their dress. Honesty, as well as\npoverty and humility, is supposed to be one of their crowning\nvirtues.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

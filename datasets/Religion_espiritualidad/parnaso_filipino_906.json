@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¿De que sirve que cubran tus campos tantas flores,\nque en tus selvas se oiga al pájaro trinar,\nsi el aire que trasporta sus cantos, sus olores,\nen alas también lleva quejidos y clamores\nque el alma sobrecogen y al hombre hacen pensar?",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

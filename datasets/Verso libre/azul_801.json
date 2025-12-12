@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es algo formidable que vió la vieja raza:\nrobusto tronco de árbol al hombro de un campeón\nsalvaje y aguerrido, cuya fornida maza\nblandiera el brazo de Hércules, o el brazo de Sansón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

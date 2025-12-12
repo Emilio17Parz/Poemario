@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo te veo en el rayo delicado\ncon que flota la luna en el vacío,\ny en las hojas del lirio perfumado\ncuando esconde una gota de rocío.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Joven, te ofrezco el don de esta copa de plata\nPara que un día puedas calmar la sed ardiente,\nLa sed que con fuego más que la muerte mata.\nMas debes abrevarte tan sólo en una fuente,\nOtro agua que la suya tendrá que serte ingrata,\nBusca su oculto origen en la gruta viviente\nDonde la interna música de su cristal desata,\nJunto al árbol que llora y la roca que siente.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

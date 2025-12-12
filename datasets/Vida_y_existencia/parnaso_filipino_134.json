@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En la extensión del tiempo aquel sueño aquilino\nque presidió las hoestes del Quinto de los Cárlos,\nen forma renovada, prosigue su camino.\nSi a pueblos de tu raza no intentas sojuzgarlos,\nsus rumbos enderezas hacia un común destino.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

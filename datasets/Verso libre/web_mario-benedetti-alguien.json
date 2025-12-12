@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Alguien limpia la celda\nde la tortura\nque no quede la sangre\nni la amargura\nalguien pone en los muros\nel nombre de ella\nya no cabe en la noche\nninguna estrella\nalguien limpia su rabia\ncon un consejo\ny la deja brillante\ncomo un espejo\nalguien piensa hasta cuando\nalguien camina\nsuenan lejos las risas\nuna bocina\ny un gallo que propone\nsu canto en hora\nmientras sube la angustia\nla voladora\nalguien piensa en afuera\nque allá no hay plazo\npiensa en niños de vida\ny en un abrazo\nalguien quiso ser justo\nno tuvo suerte\nes difícil la lucha\ncontra la muerte\nalguien limpia la celda\nde la tortura\nlava la sangre pero\nno la amargura.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

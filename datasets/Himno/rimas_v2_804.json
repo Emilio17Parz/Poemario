@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Castelli, Rico y Olmos\nAl frente de sus bravos\nA los torpes esclavos\nPrometen humillar.\nY en alto los aceros\n_Al combate!_ gritaron,\nY al combate volaron\nAl son de himno triunfal.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "himno"
+  }
+}

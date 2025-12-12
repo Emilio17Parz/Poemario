@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "163\nDende chiquito gané\nla vida con mi trabajo,\ny aunque siempre estuve abajo\ny no sé lo que es subir\ntambién el mucho sufrir\nsuele cansarnos, ¡barajo!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

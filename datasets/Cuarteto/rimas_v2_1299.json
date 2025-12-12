@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Pero diréisme que un lunar es bello,\nY en blanco seno fúnebre crespon,\nO en negros rizos un jazmin nevado\nQue en su contraste forma la ilusion.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

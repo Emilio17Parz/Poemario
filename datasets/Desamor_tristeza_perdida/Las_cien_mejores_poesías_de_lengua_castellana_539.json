@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Y si no es amor el vaso\nDonde el sobrante se vierte\nDel dolor,\nPregunto yo: --¿Es digno acaso\nDe ocuparnos vida y muerte\nTal amor?--",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

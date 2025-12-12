@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Miradlos sobre el suelo\nQue hollamos con la planta,\nMirad: en raudo velo\nSu espíritu levanta\nLa célica bandera,\nQue ondear hace altanera\nLa ráfaga veloz.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

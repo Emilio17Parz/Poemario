@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Una brisa seca, embalsamada de derretida jara, me acaricia el sudoroso\ndespertar. Las grandes hojas, levemente movidas, del blando árbol viejo,\nme enlutan ó me deslumbran. Parece que me mecieran suavemente en una\ncuna que fuese del sol á la sombra, de la sombra al sol.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

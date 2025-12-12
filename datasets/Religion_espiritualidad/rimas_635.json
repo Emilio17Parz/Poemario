@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Apenas rayaba en el cielo la primera luz del alba, cuando empezó\ná oirse por todo el campo de Gómara la aguda trompetería de los\nsoldados del conde, y los campesinos que llegaban en numerosos grupos\nde los lugares cercanos vieron desplegarse al viento el pendón\nseñorial en la torre más alta de la fortaleza.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

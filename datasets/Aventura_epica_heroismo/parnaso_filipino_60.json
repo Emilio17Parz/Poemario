@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Esta es la fecha, el día funerario\nen el cual el tirano sanguinario\nte hizo sufrir el último tormento,\ncual, si al romper el ánfora de tierra,\nla esencia que en el ánfora se encierra\nno hubiera, acaso, de impregnar el viento.\n¡Cuánto te debe el pueblo! En tu calvario\neras ayer el astro solitario\nque alumbraba los campos de batalla,\nla dulce aparición, rizo del cielo,\nque infundía a los mártires consuelo,\nvalor al héroe y miedo a la canalla.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

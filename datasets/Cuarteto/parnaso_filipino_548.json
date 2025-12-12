@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ved la otra que se ostenta dominante\nLlena de juventud y de vigor,\nY porque es ella fuerte va delante\nDeslumbrando con su áurico fulgor.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

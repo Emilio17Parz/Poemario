@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cabe anchurosa playa de fina y suave arena\ny al pié de una montaña cubierta de verdor,\nhallé en mi patria asilo bajo arboleda amena,\ny en sus umbrosos bosques, tranquilidad serena,\nreposo a mi cerebro, silencio a mi dolor.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

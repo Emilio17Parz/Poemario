@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cantemos el oro, esclavo, despreciado por Jerónimo, arrojado por\nAntonio, vilipendiado por Macario, humillado por Hilarión, maldecido por\nPablo el Ermitaño, quien tenía por alcázar una cueva bronca, y por\namigos las estrellas de la noche, los pájaros del alba y las fieras\nhirsutas y salvajes del yermo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

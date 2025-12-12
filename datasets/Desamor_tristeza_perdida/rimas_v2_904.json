@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tus páginas inspiradas\nRelucirán salpicadas\nDe dolor,\nSin que se estrellen tus ecos\nEn cráneos y pechos huecos\nSin amor.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

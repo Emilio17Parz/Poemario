@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Escribió uno, dos, cien, doscientos borradores: todo inútil. Su\nmúsica no se parecía á aquella música ya anotada, y el sueño huyó\nde sus párpados, y perdió el apetito, y la fiebre se apoderó de su\ncabeza, y se volvió loco, y se murió, en fin, sin poder terminar el\n_Miserere_, que, como una cosa extraña, guardaron los frailes á su\nmuerte y aún se conserva hoy en el archivo de la abadía.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

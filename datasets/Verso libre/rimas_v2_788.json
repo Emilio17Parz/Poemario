@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Levanta erguida el gaucho su cabeza,\nCual soberbio pendon que el viento besa\nDesplegado á la luz,\nCuya negra melena al aire flota,\nEn la tostada frente á la que azota\nEl ábrego del sud.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

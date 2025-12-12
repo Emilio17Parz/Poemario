@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La musa idolatrada\nde mi ardiente querer,\ny aquella novia enferma de ilusión, tan amada,\ngimieron mucho, pero resistiéndose a ver...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

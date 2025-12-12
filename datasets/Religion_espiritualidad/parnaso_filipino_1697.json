@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tres siglos han pasado. ¡Tres centurias\nque desataron las tremendas furias\nde condensadas iras en sufragio\ndel alma popular! Viejos prestigios\ncayeron con los últimos vestigios\ndespués de aquel providencial naufragio.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

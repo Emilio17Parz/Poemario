@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Máquina de vapor en desintegración.",
+  "poema": {
+    "texto": "En la cátedra del olvido,\nun vapor aflora de las grietas.\nUn resplandor azuloso, que traza una historia\nde tiempos antiguos y laberintos.\n\nYo, espectador de sus últimas horas,\nmirando la decadencia con desesperanza,\nsiento el vapor seco en las manos,\nun testigo de la deriva inevitable.\n\nLa máquina que una vez brilla y humea,\nahora se desintegra en ruinas,\ny sus piezas caen como llanto en mi corazón,\nuna lágrima para cada armonía perdida.\n\nYo solo escucho su silencio,\nque me hace sentir tan fragil como un hueso,\nun eco de la vida que ya no es más,\nun recordatorio de lo que era y ya no es.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Máquina"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pueblo, aquí decidiste dar tu mano\nal perseguido obrero de la pampa, y llamaste,\nllamaste al hombre, a la mujer, al niño,\nhace un año, a esta Plaza.\nY aquí cayó tu sangre.\nEn medio de la patria fue vertida,\nfrente al palacio, en medio de la calle,\npara que la mirara todo el mundo\ny no pudiera borrarla nadie,\ny quedaron sus manchas rojas\ncomo planetas implacables.\nFue cuando mano y mano de chileno\nalargaron sus dedos a la pampa,\ny con el corazón entero\niría la unidad de sus palabras:\nfue cuando ibas, pueblo, a cantar\nuna vieja canción con lágrimas,\ncon esperanza y con dolores:\nvino la mano del verdugo\ny empapó de sangre la plaza!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "obrero"
+  }
+}

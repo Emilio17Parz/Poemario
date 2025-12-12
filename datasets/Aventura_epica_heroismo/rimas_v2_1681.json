@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Esta composicion fué inserta en la página 362 del tomo 3º de las «Obras\ncompletas de don Estéban Echeverría» como perteneciente á este autor. A\neste respecto dice su biógrafo el Sr. D. Juan María Gutierrez en el vol.\nIV. pág. LXVIII lo que sigue, apropósito de algunas líneas escritas por\nel autor en honor de la memoria de Echeverría:--«El General Mitre ha\nescrito estos recuerdos con el cariño del amigo y la gratitud del\ndiscípulo. Los primeros trabajos literarios se revisten de la influencia\ndel maestro, y ha acertado á veces á imitarle tan de cerca en las\ncomposiciones lijeras, que aprovechamos esta ocasion para devolverle la\npropiedad de la poesía titulada--«Noches de Diciembre»--que por\ninadvertencia atribuimos á Echeverría. Se halla estendida y mejorada por\nsu verdadero autor en la pág. 270 de las «Rimas de Bartolomé\nMitre.--Buenos Aires, 1854.»",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "honor"
+  }
+}

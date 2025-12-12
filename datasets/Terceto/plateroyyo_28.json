@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Come cuanto le doy.\nLe gustan las naranjas mandarinas, las uvas moscateles, todas de ámbar,\nlos higos morados, con su cristalina gotita de miel...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

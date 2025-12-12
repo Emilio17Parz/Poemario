@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Su mujer llevaba la maldición del vientre de los pobres: la fecundidad.\nHabía, pues, mucha boca abierta que pedía pan, mucho chico sucio que se\nrevolcaba en la basura, mucho cuerpo magro que temblaba de frío; era\npreciso ir a llevar qué comer, a buscar harapos, y para eso, quedar sin\nalientos y trabajar como un buey.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

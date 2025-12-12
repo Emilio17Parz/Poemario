@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "If ai occurs in a syllable after an a in the accented syllable, the i\nrather than the a of the diphthong counts in the assonance. Therefore,\n_cantares_ and _trocabais_ assonate in á-e. If the accented vowel is\nnot a, the a of ai counts in the assonance. Therefore, _Vicenta_ and\n_quisierais_ assonate in é-a.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

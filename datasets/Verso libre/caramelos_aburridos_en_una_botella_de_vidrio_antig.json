@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Caramelos aburridos en una botella de vidrio antigua.",
+  "poema": {
+    "texto": "Botella de vidrio antigua,\nse ocultan caramelos aburridos,\nen sus sombras oscuras y tiernas,\nrecuerdos antiguos se desenterran.\n\nTus paredes son testigos\nde dulces secretos y olvidados,\ntiempo de recuerdos y nostalgias,\ncada uno lo sabe que guarda dentro.\n\nSuavidad de la cera y el azúcar,\nrecuerdan los juegos del pasado,\nla botella de vidrio antigua,\nabrace un tiempo que ya no regresará.",
+    "tipo": "Verso_libre",
+    "palabra_clave_ingresada": "Caramelos"
+  }
+}

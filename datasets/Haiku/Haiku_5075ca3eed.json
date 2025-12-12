@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Lluvia cae y cae\nVerde tierra bebe el agua\nAire fresco ya",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Lluvia de verano"
+  }
+}

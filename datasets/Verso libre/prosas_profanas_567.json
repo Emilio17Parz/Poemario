@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ponte el traje azul que más\nconviene a tu rubio encanto.\nLuego, Mía, te pondrás\notro, color de amaranto,\ny el que rima con tus ojos\ny aquel de reflejos rojos\nque a tu blancor sienta tanto.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

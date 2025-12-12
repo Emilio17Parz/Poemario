@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "--¡No os lo dije yo una y mil veces, mi señora doña Baltasara, no os\nlo dije yo!... ¡Aquí hay busilis!... Oidlo; qué, ¿no estuvísteis\nanoche en la Misa del Gallo? Pero, en fin ya sabréis lo que paso. En\ntoda Sevilla no se habla de otra cosa.... El señor arzobispo está\nhecho, y con razón, una furia.... Haber dejado de asistir á Santa\nInés; no haber podido presenciar el portento... ¿y para qué? para oir\nuna cencerrada; porque personas que lo oyeron dicen que lo que hizo el\ndichoso organista de San Bartolomé en la catedral no fué otra cosa....\nSi lo decía yo. Eso no puede haberlo tocado el bisojo, mentira ...\naqui hay busilis, y el busilis era, en efecto, el alma de maese Pérez.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

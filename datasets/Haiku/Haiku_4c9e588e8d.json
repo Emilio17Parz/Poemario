@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Blancos copos caen,\nel mundo en silencio duerme\nbajo la nieve.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Invierno"
+  }
+}

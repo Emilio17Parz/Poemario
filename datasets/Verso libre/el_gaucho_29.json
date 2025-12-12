@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "5\nMas ande otro criollo pasa\nMartín Fierro ha de pasar;\nnada lo hace recular\nni los fantasmas lo espantan,\ny dende que todos cantan\nyo también quiero cantar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

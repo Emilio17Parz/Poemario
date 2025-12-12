@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "If it is difficult to classify a hendecasyllable because it has\naccents on the fourth, sixth, eighth, and tenth syllables, one must\ndecide on the prominence of the accents from pauses, or from emphasis.\nThe hendecasyllable,",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Tercetos_ are a series of strophes, in the first of which the first\nverse rhymes with the third, and, from the second strophe on, the\nfirst and third verse of each successive strophe rhyme with the middle\nverse of the preceding strophe. This form of verse is known in Italian\nas _terza rima_. The composition ends with a _serventesio_ (see\nbelow), of which the first and third verses rhyme with the middle\nverse of the preceding strophe. The rhyme-scheme, then, would be a b\na, b c b, c d c, etc., d e d e.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

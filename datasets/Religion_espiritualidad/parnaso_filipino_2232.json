@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi ser tras de ti se lanza;\nsólo allí, en la inmensidad,\nel alma a entrever alcanza\nde su insegura esperanza\nla anhelada realidad.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

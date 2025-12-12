@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "56\nNi los mirones salvaron\nde esa arriada de mi flor,\nfue acoyarao el cantor\ncon el gringo de la mona,\na uno solo, por favor,\nlogró salvar la patrona.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

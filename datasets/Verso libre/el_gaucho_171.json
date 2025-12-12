@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "143\nEstaba de centinela\ny por causa del peludo\nverme más claro no pudo,\ny esa jue la culpa toda:\nel bruto se asustó al ñudo\ny fi el pavo de la boda.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

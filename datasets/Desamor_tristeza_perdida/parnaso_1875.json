@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El llanto en tales tiempos es perdido,\nPues si llorando el cielo se ablandara,\nYa le huvieran mis lagrimas movido.\nA la adversa fortuna alegre cara\nDebe mostrar el pecho generoso,\nQue á qualquier mal buen animo repara.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

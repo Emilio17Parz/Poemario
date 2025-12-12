@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Quiero los cantares que miman al alma,\nlas tiernas endechas que saben a miel,\nlos trinos del ave de la noche en calma\ny el aroma suave que esparce el vergel.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

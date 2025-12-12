@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Así atronaba la calle\nUna ya cascada voz,\nQue de un palacio salía\nCuya puerta se cerró;\nY a la que estaba a caballo\nSobre un negro pisador,\nSiendo en su escudo las lises\nMás bien que timbre baldón,\nY de pajes y escuderos\nLlevando un tropel en pos\nCubiertos de ricas galas,\nEl gran duque de Borbón:\nEl que lidiando en Pavía,\nMás que valiente, feroz,\nGozose en ver prisionero\nA su natural señor;\nY que a Toledo ha venido,\nUfano de su traición,\nPara recibir mercedes\nY ver al Emperador.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

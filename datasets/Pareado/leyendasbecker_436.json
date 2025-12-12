@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "Words _llanas_ may assonate with words accented on the antepenult\n(_esdrújulas_). Therefore, _pórtico_ and _olmos_ assonate in ó-o.",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

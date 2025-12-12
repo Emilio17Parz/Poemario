@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Un negro bergantin pasó á lo lejos,\nY de la mústia luna á los reflejos,\nDijo, al ver su pendon:\n«Mirad, se llama de la mar señora\n«Esa bandera que enlutada llora\n«En el templo de Dios.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Languidecer de sedas y plumajes,\nen un vuelo de ciega golondrina,\nfué su marcha, de muerta y peregrina,\nhacia un sueño de místicos paisajes.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

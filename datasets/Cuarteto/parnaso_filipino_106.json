@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "No queda del ayer para el fenicio\nmas que la huella del sangriento agravio,\ny para el pueblo el noble sacrificio\ny tus laureles de patriota y sabio.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

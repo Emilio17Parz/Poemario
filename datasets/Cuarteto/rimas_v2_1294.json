@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Los tristes _ecos_ que á mi humilde _lira_\nEn otros dias arrancó el dolor,\nHoy lo destroza con su bella mano\nEl ángel puro que me dió su amor.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "La viviente mancha obscura,\nlas incontables ballestas\nlas innumerables lanzas\njuntas cual lluviosas hebras,\ntodo obscuro como el bosque\nque guarda sus madrigueras,\ntodo inquieto cual las ramas\nque sacude la tormenta,\npreséntase prolongando\nla espesura de la selva.\n¿Qué es aguardar? Magallanes,\nal ver que con impaciencia\npor la cifra de contrarios\nmultiplica su fiereza,\ndirigiéndose a su hueste\ndice las razones éstas:\n--\"El santo nombre de Cristo,\nla noble gracia del César,\ny la gloria de la patria\ny la limpia fama nuestra\nlos estáis viendo ultrajados\npor aquella vil caterva,\ny de su venganza os hacen\nla generosa encomienda.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ea')"
+  }
+}

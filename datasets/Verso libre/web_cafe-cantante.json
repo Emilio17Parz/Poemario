@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Lámparas de cristal\ny espejos verdes.\nSobre el tablado oscuro,\nla Parrala sostiene\nuna conversación\ncon la muerte.\nLa llama,\nno viene,\ny la vuelve a llamar.\nLas gentes\naspiran los sollozos.\nY en los espejos verdes,\nlargas colas de seda\nse mueven.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Entonces mi alma estasiada\nSe desprende de este suelo,\nY se remonta hasta el cielo\nA contemplar la creacion;\nY desplegando sus alas\nComo el águila altanera,\nVuela de esfera en esfera\nEn rápida sucesion.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

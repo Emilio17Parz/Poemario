@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Enjuga, Lira, los ojos,\nDexa que los tristes mios\nSe vuelvan corrientes rios\nNacidos de tus enojos;\nY aunque la hambre ofendida\nTe tenga tan sin compas,\nDe hambre no morirás\nMientras yo tuviere vida.\nYo me ofrezco de saltar\nEl foso y el muro fuerte,\nY entrar por la misma muerte\nPara la tuya escusar.\nEl pan que el Romano toca\nSin que el temor me destruya,\nLo quitaré de la suya\nPara ponerlo en tu boca.\nCon mi brazo haré carrera\nA tu vida y á mi muerte,\nPorque mas me mata el verte,\nSeñora, de esa manera.\nYo te traeré de comer\nA pesar de los Romanos,\nSi ya son estas mis manos\nLas mismas que solian ser.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

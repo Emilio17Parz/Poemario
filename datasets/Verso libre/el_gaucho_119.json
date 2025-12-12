@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "93\n¡Qué vocerío! ¡qué barullo!\n¡qué apurar esa carrera!\nla indiada todita entera\ndando alaridos cargó,\n¡jue pucha!... Y ya nos sacó\ncomo yeguada matrera.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

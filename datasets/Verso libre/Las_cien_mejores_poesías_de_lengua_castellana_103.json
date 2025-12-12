@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Dexemos a los Troyanos,\nQue sus males no los vimos,\nNi sus glorias;\nDexemos a los Romanos,\nAunque oímos y leímos\nSus historias.\nNo curemos de saber\nLo de aquel siglo pasado\nQué fue d’ello;\nVengamos a lo de ayer,\nQue también es olvidado\nComo aquello.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

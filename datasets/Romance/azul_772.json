@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Ardor adolescente,\nmiradas y caricias;\ncómo estaría trémula en mis brazos\nla dulce amada mía,\ndándome con sus ojos luz sagrada,\ncon su aroma de flor, savia divina.\nEn la alcoba la lámpara\nderramando sus luces opalinas;\noyéndose tan sólo\nsuspiros, ecos, risas;\nel ruido de los besos;\nla música triunfante de mis rimas,\ny en la negra y cercana chimenea\nel tuero brillador que estalla en chispas.\nDentro, el amor que abrasa;\nfuera, la noche fría.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ia')"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dexo las invocaciones\nDe los famosos poetas\nY oradores;\nNo curo de sus ficciones,\nQue traen yerbas secretas\nSus sabores.\nA aquél solo me encomiendo,\nAquél solo invoco yo\nDe verdad,\nQue en este mundo viviendo,\nEl mundo no conoció\nSu deidad.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

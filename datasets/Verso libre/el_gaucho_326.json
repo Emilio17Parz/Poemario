@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "293\nTampoco me faltan males\ny desgracias, le prevengo;\ntambién mis desdichas tengo,\naunque esto poco me aflige:\nyo sé hacerme el chango rengo\ncuando la cosa lo esige.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

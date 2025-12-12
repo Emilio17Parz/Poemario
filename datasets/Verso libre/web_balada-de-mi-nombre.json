@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El nombre mío que he perdido,\n¿dónde vive, dónde prospera?\nNombre de infancia, gota de leche,\nrama de mirto tan ligera.\nDe no llevarme iba dichoso\no de llevar mi adolescencia\ny con él ya no camino\npor campos y por praderas.\nLlanto mío no conoce\ny no la  quemó mi salmuera;\ncabellos blancos no me ha visto,\nni mi boca con acidia,\ny no me habla si me encuentra.\nPero me cuentan que camina\npor las quiebras de mi montaña\ntarde a la tarde silencioso\ny sin mi cuerpo y vuelto mi alma.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mas ¡ay! sus nobles cabezas\nSe doblan ensangrentadas,\nY se miran pisoteadas\nPor la meznada feroz.\n¡Será, gran Dios, que tu diestra\nMi patria infeliz azota,\nY que su bandera rota\nSea alfombra al opresor!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

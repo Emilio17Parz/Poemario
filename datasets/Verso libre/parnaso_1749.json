@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "AURELIO.\nSEBASTIAN.\nSAAVEDRA.\nPEDRO ALVAREZ.\nFRANCISCO Y JUAN: _muchachos_.\nSU PADRE Y MADRE.\nSILVIA. _Todos cautivos_.\nFATIMA, Y ZARA: _moras_.\nLA NECESIDAD.\nLA OCASION.\nUN DEMONIO.\nIZUF: _Rey de Argel, moro_.\nBAYRAN: _moro_.\nOTRO MORO.\nUN CAUTIVO, _que se va_.\nDOS MERCADERES.\nUN PREGONERO.\nUN LEON.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y el dios de piedra se despierte y cante\nLa gloria de los tirsos florecientes\nEn el gesto ritual de la bacante\nDe rojos labios y nevados dientes;",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

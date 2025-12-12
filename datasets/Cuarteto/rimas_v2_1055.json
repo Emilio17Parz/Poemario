@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Yo que no tengo cortesano genio\nNada quiero decir ante tu altar,\nCuando otros mil las flores de su ingenio\nÁ tus plantas vendrán á derramar.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

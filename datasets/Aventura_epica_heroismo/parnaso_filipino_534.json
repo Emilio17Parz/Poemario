@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No en vano con tus naves cargadas de nobleza,\ndel todo lo sublime que Iberia pudo dar,\nvenciste los embates del mar y su fiereza,\ntrayendo con tu espada la cruz y la verdad.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

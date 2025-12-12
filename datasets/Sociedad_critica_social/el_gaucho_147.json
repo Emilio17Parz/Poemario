@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "120\npues nunca lo vi llegar,\ny al cabo de muchos días\nen la mesma pulpería\ndieron una güena cuenta,\nque la gente muy contenta\nde tan pobre recibía.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

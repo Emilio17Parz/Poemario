@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A medida que marcha y que investiga\nes mayor su fatiga,\nes su noche más honda y más oscura,\ny pasma, al ver lo que padece y sabe,\ncómo en su seno cabe\ntanta grandeza y tanta desventura.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

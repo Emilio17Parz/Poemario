@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hijo de españoles, nació en la Habana el 6 de Marzo de 1874. Fué niño\na Filipinas, cursando el bachillerato en el Instituto de San Juan de\nLetrán, de los PP. dominicos, Hizo allí sus primeras armas literarias.\nColaboró luego en periódicos españoles del país. Regresó a España al\nemanciparse el Archipiélago. Es ahora, en Barcelona, Director de la\nCárcel de mujeres.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En ellos sostendremos\nAl génio Americano,\nY altivos hundiremos\nA todo vil tirano\nQue con su torpe planta\nA la corona santa\nManche de libertad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

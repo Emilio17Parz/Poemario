@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Himno",
+  "poema": {
+    "texto": "Cuando los monjes llegaron al peristilo del templo, se ordenaron\nen dos hileras, y penetrando en él fueron á arrodillarse en el\ncoro, donde con voz más levantada y solemne prosiguieron entonando\nlos versículos del salmo. La música sonaba al compás de sus voces:\naquella música era el rumor distante del trueno, que, desvanecida la\ntempestad, se alejaba murmurando; era el zumbido del aire que gemía\nen la concavidad del monte; era el monótono ruido de la cascada\nque caía sobre las rocas, y la gota de agua que se filtraba, y el\ngrito del buho escondido, y el roce de los reptiles inquietos.\nTodo esto era la música, y algo más que no puede explicarse ni\napenas concebirse, algo más que parecía como el eco de un órgano\nque acompañaba los versículos del gigante himno de contrición del\nRey Salmista, con notas y acordes tan gigantes como sus palabras\nterribles.",
+    "tipo": "himno",
+    "palabra_clave_ingresada": "himno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cerca del lugar, y sobre un alto que dominaba los contornos, había\nun antiguo castillo abandonado por sus dueños. Las viejas, en las\nnoches de velada, referían una historia llena de maravillas acerca\nde sus fundadores. Contaban que hallándose el rey de Aragón en\nguerra con sus enemigos, agotados ya sus recursos, abandonado de sus\nparciales y próximo á perder el trono, se le presentó un día una\npastorcita de aquella comarca, y después de revelarle la existencia\nde unos subterráneos por donde podía atravesar el Moncayo sin que\nlo advirtiesen sus enemigos, le dió un tesoro en perlas finas,\nriquísimas piedras preciosas y barras de oro y plata, con las cuales\nel rey pagó sus mesnadas, levantó un poderoso ejército, y marchando\npor debajo de la tierra durante toda una noche, cayó al otro día\nsobre sus contrarios y los desbarató, asegurando la corona en su\ncabeza.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

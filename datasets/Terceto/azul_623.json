@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Y aquel pálido rostro de virgen, envuelta ella en el manto y en la\nnoche, en aquel rincón de sombra, habría sido un tema admirable para un\nestudio al carbón.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

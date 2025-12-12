@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "240\nSi uno aguanta, es gaucho bruto;\nsi no aguanta es gaucho malo.\n¡Dele azote, dele palo,\nporque es lo que él necesita!\nDe todo el que nació gaucho\nésta es la suerte maldita.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

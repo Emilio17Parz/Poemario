@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Me ofrecéis, ¡oh ilusiones! la copa del consuelo,\ny mis jóvenes años a despertar venís:\ngracias a tí, tormenta; gracias, vientos del cielo,\nque a buena hora supísteis cortar mi incierto vuelo,\npara abatirme al suelo de mi natal país.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

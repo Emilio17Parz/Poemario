@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "134\nYo andaba desesperao,\naguardando una ocasión\nque los indios un malón\nnos dieran, y entre el estrago\nhacérmeles cimarrón\ny volverme pa mi pago.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

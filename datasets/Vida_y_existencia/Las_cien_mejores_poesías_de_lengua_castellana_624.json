@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Su rauda, viva y luminosa huella\ncomo fugaz centella\ntraspasaba el espacio, y ante el puro\nresplandor de sus alas de querube,\nrasgábase la nube\nque me ocultaba el inmortal seguro.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "fugaz"
+  }
+}

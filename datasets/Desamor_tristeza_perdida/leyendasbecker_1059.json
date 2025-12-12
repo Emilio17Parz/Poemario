@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Y esto diciendo llevóse la copa á los labios, y después de\nhumedecérselos con el licor que contenía, le arrojó el resto á la\ncara, prorrumpiendo en una carcajada estrepitosa al ver como caía el\nvino sobre la tumba goteando de las barbas de piedra del inmóvil\nguerrero.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

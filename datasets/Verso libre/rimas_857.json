@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Yo no sé la música; pero le tengo tanta afición, que aun sin\nentenderla, suelo coger á veces la partitura de una ópera, y me paso\nlas horas muertas hojeando sus páginas, mirando los grupos de notas\nmás ó menos apiñadas, las rayas, los semicírculos, los triángulos\ny las especies de etcéteras, que llaman llaves, y todo esto sin\ncomprender una jota ni sacar maldito el provecho.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

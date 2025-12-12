@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Haiku",
+  "poema": {
+    "texto": "Niebla en la cumbre\nSol se asoma, un nuevo día\nPino se estremece",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

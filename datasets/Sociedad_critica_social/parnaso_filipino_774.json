@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Oh pobre corazón! ¡Icaro triste\ny triste Prometeo!\nsi subes a la altura el sol te embiste\ny, amarrado a la roca del deseo,\nni dicha ni quietud para ti existe.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

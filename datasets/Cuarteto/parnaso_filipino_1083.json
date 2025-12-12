@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "En la cruz de sus recios gavilanes\nlas católicas luces nos traía,\nen sus fuertes aceros la hidalguía,\nen sus pechos, olímpicos afanes.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

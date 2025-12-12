@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Hiatus is most frequently found between words having a close\nsyntactical relation, particularly if the initial vowel of the second\nword is in a constituent syllable. It may occur between the article\nand its substantive, the possessive adjective and its substantive, a\npreposition and its object, the negatives _no_ and _ni_ and a\nfollowing vowel; and after the conjunctions _y, que, si_, and other\nwords having a weak accent such as _desde, coma, todo, otro, cuando_,\netc.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

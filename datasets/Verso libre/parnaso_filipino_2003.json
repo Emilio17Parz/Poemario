@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Montañés, de Cabuérniga, donde nació en 1864. Licenciado en Derecho y\nFilosofía y Letras. Residió en Manila muchos años, ejerciendo la\nabogacía. Fué catedrático de Derecho Penal en la Universidad de Santo\nTomás. Ocupó altos cargos administrativos. Colaboró en los principales\nperiódicos de Manila, singularmente en el \"Diario\". Regresó de allá\nhacia 1898. Vive ahora en Alcalá de Henares.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

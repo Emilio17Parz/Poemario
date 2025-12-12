@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Después que hube abarcado con una mirada el conjunto de aquel\ncuadro, imposible de reproducir con frases siempre descoloridas y\npobres, me senté en un pedrusco, lleno de esa emoción sin ideas\nque experimentamos siempre que una cosa cualquiera nos impresiona\nprofundamente, y parece que nos sobrecoge por su novedad ó su\nhermosura. En esos instantes rapidísimos en que la sensación fecunda\nla inteligencia, y allá en el fondo del cerebro tiene lugar la\nmisteriosa concepción de los pensamientos que han de surgir algún\ndía evocados por la memoria, nada se piensa, nada se razona: los\nsentidos todos parecen ocupados en recibir y guardar la impresión que\nanalizarán más tarde.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

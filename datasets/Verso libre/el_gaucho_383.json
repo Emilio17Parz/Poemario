@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "349\nPero como no hay desgracia\nque no acabe alguna vez,\nme aconteció que después\nde sufrir tanto rigor,\nun amigo, por favor,\nme compuso con el juez.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

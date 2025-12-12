@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Anfion, por el poder irresistible de las armonías de su lira, segun\ncuenta la fábula, puso en movimiento las piedras y levantó los muros de\nla ciudad de Tebas.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

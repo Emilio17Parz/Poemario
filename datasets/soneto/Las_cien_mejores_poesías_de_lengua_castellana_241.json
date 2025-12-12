@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Imagen espantosa de la muerte,\nSueño cruel, no turbes más mi pecho,\nMostrándome cortado el nudo estrecho,\nConsuelo solo de mi adversa suerte.\nBusca de algún tirano el muro fuerte,\nDe jaspe las paredes, de oro el techo,\nO el rico avaro en el angosto lecho\nHaz que temblando con sudor despierte.\nEl uno vea el popular tumulto\nRomper con furia las herradas puertas,\nO al sobornado siervo el hierro oculto.\nEl otro sus riquezas, descubiertas\nCon llave falsa o con violento insulto,\nY déjale al amor sus glorias ciertas.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

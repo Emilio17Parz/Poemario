@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Una clara noche\nde fiesta y de luna,\nnoche de mis sueños,\nnoche de alegría\n?era luz mi alma\nque hoy es bruma toda,\nno eran mis cabellos\nnegros todavía?,\nel hada más joven\nme llevó en sus brazos\na la alegre fiesta\nque en la plaza ardía.\nSo el chisporroteo\nde las luminarias,\namor sus madejas\nde danzas tejía.\nY en aquella noche\nde fiesta y de luna,\nnoche de mis sueños,\nnoche de alegría,\nel hada más joven\nbesaba mi frente...\ncon su linda mano\nsu adiós me decía...\nTodos los rosales\ndaban sus aromas,\ntodos los amores\namor entreabría.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "--Pues es el caso, que en aquel tiempo remote, esta villa y algunas\notras formaban parte del patrimonio de un noble barón, cuyo castillo\nseñorial se levantó por muchos siglos sobre la cresta de un peñasco\nque baña el Segre, del cual toma su nombre.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

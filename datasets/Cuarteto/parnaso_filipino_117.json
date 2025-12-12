@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sobre el rojo fulgor del exterminio,\nsobre el mortal estruendo de las balas,\nen el azur, su natural dominio,\nserenamente desplegó las alas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

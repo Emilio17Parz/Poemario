@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Unos por hombres buenos conocidos,\nOtros de rumbo y hampo, y Dios es Christo,\nPoquitos bien, y muchos mal vestidos.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

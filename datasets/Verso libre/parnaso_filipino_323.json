@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Manileño aunque de abolengo español. Abogado por la Universidad de\nManila. En esta ciudad, muy joven, comenzó a actuar de periodista en\n\"El Comercio\" y otros diarios españoles. Alrededor del cambio de\ndominación vino a España, fijando su residencia en Barcelona, donde\nejerce con lucimiento su carrera hace más de veinte años.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

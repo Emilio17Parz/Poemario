@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Quintillas_ are combinations of five verses that have but two rhymes,\nof which one occurs three times and the other twice. These verses may\nrhyme at the will of the poet, provided that three verses having the\nsame rhyme do not follow each other successively. Of the possible\narrangements the following occur most frequently: a a b b a, a b b a\na, a b a b a, a b a b b.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

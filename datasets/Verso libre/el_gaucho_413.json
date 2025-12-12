@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "378\nNo hemos de perder el rumbo:\nlos dos somos güena yunta.\nEl que es gaucho ve ande apunta\naunque inora ande se encuentra;\npa el lao en que el sol se dentra\ndueblan los pastos la punta.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

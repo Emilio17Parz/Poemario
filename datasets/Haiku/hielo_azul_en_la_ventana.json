@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Hielo azul en la ventana\"",
   "poema": {
     "texto": "Hielo azul, silencio,\nRefleja luz en la noche,\nPaz tranquila llega.",

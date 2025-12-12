@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Mi corcel es el libre morador de los campos\ndonde se alzan en triunfo los ensueños del arte,\ndonde vierten de lleno sus magníficos lampos\nlas pupilas de Erato y el escudo de Marte.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

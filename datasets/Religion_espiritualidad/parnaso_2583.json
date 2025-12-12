@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mira no sea\nFray Jorge de Olivares, que es de la orden\nDe la Merced, que aqui tambien ha estado,\nDe no menos virtud y entendimiento,\nTanto, que ya despues que obo despendido\nVeinte mil ducados que traia,\nEn otros siete mil quedó empeñado.\nO caridad estraña, ó santo pecho!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

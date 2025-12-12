@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sangre bebas en vez de linfa pura,\nSangre tan solo bebas por do quier,\nY al entrar en el lecho, sangre impura\nDe la almohada veas tú correr!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Quién decirnos pudiera\nhace muy poco tiempo, quién pensara\nque tu voz para siempre enmudeciera;\nque tu risa por siempre se esfumara,\nque tu cuerpo de tierra se cubriera!",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

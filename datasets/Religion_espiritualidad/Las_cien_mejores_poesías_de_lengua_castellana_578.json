@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Al menos en el siglo desdichado\nque aquel ilustre y vigoroso vate\ncon el rayo marcó de su censura,\npodía el corazón atribulado\nsalir ileso del mortal combate\nen alas de la fe radiante y pura.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Aquella tarde fué. No sé si herida\nen la raíz de tu virtud serena,\nmi audacia fácil añadió otra pena\nal calvario de penas de tu vida.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

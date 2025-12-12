@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Entre perfumes célicos\nY grata melodía\nDe cánticos suavísimos,\nHasta la tumba fria\nEntre aureolas fúlgidas\nLos héroes bajarán.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

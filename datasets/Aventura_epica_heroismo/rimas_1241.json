@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "--¡Pronto, mi caballo más ligero, y á Trasmoz; que juro por mis\nbarbas y las del Profeta, que si es cuento el mensaje de los\ncorredores, donde debiera estar el castillo he de poner una picota\npara los que lo han inventado!",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ora por todos cuantos murieron sin ventura,\npor cuantos padecieron tormentos sin igual,\npor nuestras pobres madres que gimen su amargura,\npor huérfanos y viudas, por presos en tortura,\ny ora por tí, que veas tu redención final.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

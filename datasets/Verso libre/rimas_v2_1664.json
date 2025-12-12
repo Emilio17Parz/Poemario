@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«Oh! gli uomini non hanno\n«Inventato la morte: ella saria\n«Rabiosa, insoportabile; dal cielo\n«Ella ne viene, e l'acompagna il cielo\n«Con tal conforto, che né dar né torre\n«Gli uomini ponno.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

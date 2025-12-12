@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Y tú feliz, que hallastes en la muerte\nSombra a que descansar en tu camino,\nCuando llegabas, mísera, a perderte\nY era llorar tu único destino:\nCuando en tu frente la implacable suerte\nGrababa de los réprobos el sino.\nFeliz, la muerte te arrancó del suelo,\nY otra vez ángel, te volviste al cielo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

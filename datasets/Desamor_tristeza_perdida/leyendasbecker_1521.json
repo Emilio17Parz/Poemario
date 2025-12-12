@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mas allá el paraíso de los justos, más allá el trono donde se asienta\nla Virgen Maria.[1] El ánimo de Teobaldo se sobrecogió temeroso, y un\nhondo pavor se apoderó de su alma. La eterna soledad, el eterno\nsilencio viven en aquellas regiones, que conducen al misterioso\nsantuario del Señor. De cuando en cuando azotaba su frente una ráfaga\nde aire, frío como la hoja de un puñal, que crispaba sus cabellos de\nhorror y penetraba hasta la médula de sus huesos; ráfagas semejantes a\nlas que anunciaban á los profetas la aproximación del espíritu\ndivino.[2] Al fin llegó á un punto donde creyó percibir un rumor\nsordo, que pudiera compararse al zumbido lejano de un enjambre de\nabejas, cuando, en las tardes del otoño, revolotean en derredor de las\núltimas flores.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

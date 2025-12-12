@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sicario vil entre sicarios seas,\nSucios insectos cubran tus heridas,\nArrastrado cual vívora te veas,\nY Dios te dé para sufrir, mil vidas!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

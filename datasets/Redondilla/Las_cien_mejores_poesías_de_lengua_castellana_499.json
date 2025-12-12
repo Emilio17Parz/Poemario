@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Redondilla",
+  "poema": {
+    "texto": "--Escribidme una carta, señor Cura.\n--Ya sé para quién es.\n--¿Sabéis quién es, porque una noche oscura\nNos visteis juntos? --Pues.",
+    "tipo": "redondilla",
+    "palabra_clave_ingresada": "4 versos arte menor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Corre, corre a lo lejos, ¡oh corcel de mis versos!\ny en los aires restallen tus indómitas crines,\nque allí hay flores más regias y celajes más tersos,\ny a tus nuevos escapes más abiertos confines...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

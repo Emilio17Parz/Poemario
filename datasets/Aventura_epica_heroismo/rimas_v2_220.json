@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Y el Escuadron valiente\nA la batalla ardiente\nCon furia se lanzó,\nY en la garganta estrecha\nY encima de la mecha\nSu gefe le miró.",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

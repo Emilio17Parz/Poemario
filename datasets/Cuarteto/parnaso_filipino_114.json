@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Fuiste toda una mente geométrica,\nfórmula abstracta, puro pensamiento,\nque nos hablaba en nuestra noche tétrica\ncon una voz de sibilino acento.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

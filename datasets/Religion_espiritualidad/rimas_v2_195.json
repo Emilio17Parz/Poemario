@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No veo aquellos muros que consagró la gloria\nCuando asilado en ellos ejército estrangero,\nEl pueblo omnipotente con ademan severo\nHizo rendir la espada del bravo Berresford;\nNo veo el foro inmenso do fueron nuestros padres\nA usar de los derechos que Dios les concedia,\nNi el balconage rústico donde el Cabildo un dia\nLa gran soberanía del pueblo proclamó.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

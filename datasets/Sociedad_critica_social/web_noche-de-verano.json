@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Es una hermosa noche de verano.\nTienen las altas casas\nabiertos los balcones\ndel viejo pueblo a la anchurosa plaza.\nEn el amplio rectángulo desierto,\nbancos de piedra, evónimos y acacias\nsimétricos dibujan\nsus negras sombras en la arena blanca.\nEn el cénit, la luna, y en la torre,\nla esfera del reloj iluminada.\nYo en este viejo pueblo paseando\nsolo, como un fantasma.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

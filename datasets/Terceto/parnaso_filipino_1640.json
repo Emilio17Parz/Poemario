@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Tiene el eco sollozante de las notas del _kundiman_,\ntiene el ritmo alado y suave de los vates cuando riman\nlas estrofas de un poema con palabras de ilusión;",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

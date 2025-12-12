@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Son los Centauros. Cubren la llanura. Les siente\nLa montaña. De lejos, forman són de torrente\nQue cae; su galope al aire que reposa\nDespierta, y estremece la hoja del laurel-rosa.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

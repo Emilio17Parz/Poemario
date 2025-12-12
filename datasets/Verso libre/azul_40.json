@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "De esta suerte se explica cómo, con ser su libro de usted de pasatiempo,\ny sin propósito de enseñar nada, en él se ven patentes las tendencias y\nlos pensamientos del autor sobre las cuestiones más trascendentales. Y\njusto es que confesemos que los dichos pensamientos no son ni muy\nedificantes ni muy consoladores.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Como la lumbre en noches del invierno,\nComo el recuerdo de un afecto tierno,\nComo el acento de la amada voz,\nAsí, tú serás grata á la memoria\nDel que al darte una ofrenda transitoria\nTe dice entristecido: ¡Adios! Adios!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

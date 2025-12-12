@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Platero, ¿verdad que tú nos ves? Sí, tú me ves. Y yo oigo en el poniente\ndespejado, endulzando todo el valle de las viñas, tu tierno rebuzno\nlastimero...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

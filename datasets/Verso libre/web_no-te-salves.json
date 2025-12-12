@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No te quedes inmóvil\nal borde del camino\nno congeles el júbilo\nno quieras con desgana\nno te salves ahora\nni nunca\nno te salves\nno te llenes de calma\nno reserves del mundo\nsólo un rincón tranquilo\nno dejes caer los párpados\npesados como juicios\nno te quedes sin labios\nno te duermas sin sueño\nno te pienses sin sangre\nno te juzgues sin tiempo\npero si\npese a todo\nno puedes evitarlo\ny congelas el júbilo\ny quieres con desgana\ny te salvas ahora\ny te llenas de calma\ny reservas del mundo\nsólo un rincón tranquilo\ny dejas caer los párpados\npesados como juicios\ny te secas sin labios\ny te duermes sin sueño\ny te piensas sin sangre\ny te juzgas sin tiempo\ny te quedas inmóvil\nal borde del camino\ny te salvas\nentonces\nno te quedes conmigo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Nos salvó tu estrategia. ¡Cuántas muertes\nevitaron por tí nuestras legiones!\nDébiles fuímos, nos hiciste fuertes,\ny combatimos como bravos leones...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

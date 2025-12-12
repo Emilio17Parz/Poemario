@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "De la ambicion insana preservados\nSu vida oscura fué, sus penas leves...\nMas no por esto sean despreciados\nDel pobre los anales simples, breves!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Duerme mientras se despierte\nDel alba con el lucero\nEl vigilante tropero\nQue repita tu cantar,\nY que de bosque en laguna,\nEn el repunte ó la hierra,\nSe alce por toda esta tierra\nComo un coro popular.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

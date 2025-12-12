@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Yo pregunté a la luna por los labios febriles\nde aquella dulce impúber, santuario del cariño,\npor sus mágicos ojos, que cuando me miraban\neran caricias y mimos;\npor su boca melosa que en mis largas veladas\nse posaba en mi frente a calmar mi martirio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

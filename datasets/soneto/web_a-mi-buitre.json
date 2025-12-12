@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Este buitre voraz de ceño torvo\nque me devora las entrañas fiero\ny es mi único constante compañero\nlabra mis penas con su pico corvo.\nEl día en que le toque el postrer sorbo\napurar de mi negra sangre, quiero\nque me dejéis con él solo y señero\nun momento, sin nadie como estorbo.\nPues quiero, triunfo haciendo mi agonía\nmientras él mi último despojo traga,\nsorprender en sus ojos la sombría\nmirada al ver la suerte que le amaga\nsin esta presa en que satisfacía\nel hambre atroz que nunca se le apaga.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

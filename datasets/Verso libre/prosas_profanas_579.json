@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Desnuda sale la bella,\ny del cabello el tesoro\npone una nube de oro\nen la desnudez de estrella:\ny en la matutina hora\nde la clara fuente mana\nla salutación pagana\nde las náyades a Flora.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Es mediodía. Un parque.\nInvierno. Blancas sendas;\nsimétricos montículos\ny ramas esqueléticas.\nBajo el invernadero,\nnaranjos en maceta,\ny en su tonel, pintado\nde verde, la palmera.\nUn viejecillo dice,\npara su capa vieja:\n«¡El sol, esta hermosura\nde sol!...» Los niños juegan.\nEl agua de la fuente\nresbala, corre y sueña\nlamiendo, casi muda,\nla verdinosa piedra.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

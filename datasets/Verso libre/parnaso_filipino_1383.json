@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tú encierras el prestigio de los días egregios,\ncuando los ancestrales hacían sortilegios\nen nuestras selvas vírgenes, de perfumes y arpegios,\nleyendo unos infolios de santos florilegios.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

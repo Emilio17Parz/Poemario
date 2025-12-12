@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Blancos cabellos cuya amada hebra\nEs cual corona de laurel de plata,\nMejor que esas coronas que celebra\nLa vil lisonja, la ignorancia acata,\nY el infortunio quiebra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

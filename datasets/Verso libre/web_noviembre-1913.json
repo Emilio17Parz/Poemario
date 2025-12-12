@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un año más. El sembrador va echando\nla semilla en los surcos de la tierra.\nDos lentas yuntas aran,\nmientras pasan la nubes cenicientas\nensombreciendo el campo,\nlas pardas sementeras,\nlos grises olivares.  Por el fondo\ndel valle del río el agua turbia lleva.\nTiene Cazorla nieve,\ny Mágina, tormenta,\nsu montera, Aznaitín. Hacia Granada,\nmontes con sol, montes de sol y piedra.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

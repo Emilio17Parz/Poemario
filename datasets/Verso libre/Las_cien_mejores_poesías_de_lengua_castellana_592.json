@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Libertad, libertad! No eres aquella\nvirgen, de blanca túnica ceñida,\nque vi en mis sueños pudibunda y bella.\nNo eres, no, la deidad esclarecida\nque alumbra con su luz, como una estrella,\nlos oscuros abismos de la vida.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

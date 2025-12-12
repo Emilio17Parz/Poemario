@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Es el amor que al mismo amor adora,\nEl que creó las Sílfides y Ondinas,\nLa sacra ninfa que bordando mora\nDebajo de las aguas cristalinas:\nEs el amor que recordando llora\nLas arboledas del Edén divinas:\nAmor de allí arrancado, allí nacido,\nQue busca en vano aquí su bien perdido.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "mismo"
+  }
+}

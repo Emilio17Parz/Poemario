@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pero digo que acompañen\nY lleguen hasta la huesa\nCon su dueño;\nPor eso no nos engañen,\nPues se va la vida apriesa\nComo sueño:\nY los deleites de acá\nSon en que nos deleitamos\nTemporales,\nY los tormentos de allá\nQue por ellos esperamos,\nEternales.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

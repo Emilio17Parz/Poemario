@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "The _Sonnet_ is taken from the Italian and has the same general forms.\nIt is written in hendecasyllables, and is always divided into four\nparts--two quatrains and two tercets.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

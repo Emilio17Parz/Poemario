@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "68\nAl principio nos dejaron\nde haraganes criando sebo,\npero después... no me atrevo\na decir lo que pasaba...\n¡barajo!... Si nos trataban\ncomo se trata a malevos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

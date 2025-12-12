@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Poema atribuido a Benedetti, pero cuyo real autor es el cantautor Pablo Milanés.\nYo no te pido que me bajes\nuna estrella azul\nsólo te pido que mi espacio\nllenes con tu luz.\nYo no te pido que me firmes\ndiez papeles grises para amar\nsólo te pido que tú quieras\nlas palomas que suelo mirar.\nDe lo pasado no lo voy a negar\nel futuro algún día llegará\ny del presente\nqué le importa a la gente\nsi es que siempre van a hablar.\nSigue llenando este minuto\nde razones para respirar\nno me complazcas no te niegues\nno hables por hablar.\nYo no te pido que me bajes\nuna estrella azul\nsólo te pido que mi espacio\nllenes con tu luz.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

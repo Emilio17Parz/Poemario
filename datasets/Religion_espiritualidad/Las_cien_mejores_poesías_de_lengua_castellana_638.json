@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Si en esta confusión honda y sombría\nes, Señor, todavía\nraudal de vida tu palabra santa,\ndi a nuestra fe desalentada y yerta:\n--¡Anímate y despierta!\nComo dijiste a Lázaro: --¡Levanta!",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Su blanquecino rayo\nEmanacion del cielo,\nComo plateado velo\nTe envuelve al derredor,\nY de tu frente en torno\nTe forma una diadema,\nCual luminoso emblema\nDe un ángel del Señor.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

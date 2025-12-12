@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Á dónde vas?--Á recorrer la tierra\nConfortando creyentes que flaquean.\n--¡Qué! la edad, las fatigas y la guerra\nNo han domado tus sienes que blanquean?\n--No, no: yo voy á recorrer la tierra,\nY á confortar creyentes que flaquean.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

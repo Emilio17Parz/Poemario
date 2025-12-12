@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La mañana era clara, pura, traspasada de azul. Caía del pinar vecino un\nleve concierto de trinos exaltados, que venía y se alejaba, sin irse,\nen el manso y áureo viento playero que ondulaba las copas. ¡Pobre\nconcierto inocente, tan cerca del mal corazón!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

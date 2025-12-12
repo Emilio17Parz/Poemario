@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hay vida y poesía en esas horas\nen que el calor abrasa;\npera la vírgen tiene en el espacio\ninmóvil la mirada.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

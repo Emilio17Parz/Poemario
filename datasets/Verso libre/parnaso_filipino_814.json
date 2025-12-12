@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las voces pueblerinas de unos chicos se alejan\nentre el grueso ramaje con que se adorna al río.\nDe su inercia unas rocas parecen que se quejan\ny la yerba se seca al beso del estío.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

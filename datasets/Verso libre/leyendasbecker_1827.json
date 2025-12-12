@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: Each stanza of this poem is composed of two\nhendecasyllabic verses of the first class, followed by a\nheptasyllabic _verso agudo_. The rhyme scheme of the poem is a, b,\nc, a, b, c.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

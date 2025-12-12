@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "226\n¡Ah, gaucho!, Me respondió;\n¿de que pago será crioyo?\n¿Lo andará buscando el hoyo?\nDeberá tener güen cuero;\npero ande bala este toro\nno bala ningún ternero.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "_Consonantal rhyme_ is one in which all the letters, vowels and\nconsonants, are the same from the accented syllable to the end of the\nword, e.g. _bruma--espuma_; _flor--amor_.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

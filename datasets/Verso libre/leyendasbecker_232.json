@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "By synaeresis, however, a diphthong may be formed, especially in the\ncombinations á^o, á^e, ó^e--_c^a^o^s, c^a^e, ro^e_. But in order to\ndiphthongize oa, ea, and eo, when the accent naturally falls on the\nfirst vowel, the accent must shift to the second, which is a dominant\nvowel. Such diphthongization is harsh. For example, _loa_ would shift\nthe accent from o to a in order to form a diphthong. The accent would\nalso shift in _cre^a, fe^o_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

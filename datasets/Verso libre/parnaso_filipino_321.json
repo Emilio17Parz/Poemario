@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Lejos de todo, olvidados,\nEntre mil plantas y flores\nConstruyamos nuestro hogar;\nY por siempre enamorados,\nCantemos nuestros amores,\nCiegos a cualquier pesar,\nLejos de todo, olvidados....",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

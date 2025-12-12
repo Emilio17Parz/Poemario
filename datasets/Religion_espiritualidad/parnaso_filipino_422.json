@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Oh rica fabla espiritual! Simula\ncordaje de una cítara que ondula,\n--es blanda arcilla y música ese idioma--,\nclaro choque de perlas y corales,\nremedo de los coros celestiales\nque de Dios mismo su raigambre toma.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

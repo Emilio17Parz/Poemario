@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sin pinceles, sin paleta, sin papel, sin lápiz, Ricardo, poeta lírico\nincorregible, huyendo de las agitaciones y turbulencias, de las máquinas\ny de los fardos, del ruido monótono de los tranvías y el chocar de los\ncaballos con su repiqueteo de caracoles sobre las piedras; del tropel de\nlos comerciantes; del grito de los vendedores de diarios; del incesante\nbullicio e inacabable hervor de este puerto; en busca de impresiones y\nde cuadros, subió al cerro Alegre, que, gallardo como una gran roca\nflorecida, luce sus flancos verdes, sus montículos coronados de casas\nrisueñas escalonadas en la altura, rodeadas de jardines, con ondeantes\ncortinas de enredaderas, jaulas de pájaros, jarros de flores, rejas\nvistosas y niños rubios de caras angélicas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¿Quién sabe si el mar aborda\ndetrás del eco postrero\nde la canción lenta y sorda\nque, recostado en la borda,\ncanta el bravo marinero?",
+    "tipo": "aventura",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "De noche, cuando muestra su medio anillo de oro,\nBajo el azul tranquilo, la amada de Pierrot,\nEs una fiesta pálida la que en el huerto reina,\nToca en la lira el aire su do-re-mi-fa-sol.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

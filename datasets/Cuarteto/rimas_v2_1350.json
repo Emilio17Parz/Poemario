@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ya no irá á despertarlos en su lecho\nLa brisa matinal embalsamada,\nNi oirán cantar en su pajizo techo\nEl gallo anunciador de la alborada.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

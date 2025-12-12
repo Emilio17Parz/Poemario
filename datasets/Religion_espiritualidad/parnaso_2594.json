@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Vuelve, Virgen santisima Maria,\nTus ojos, que dan luz y gloria al cielo,\nA los tristes que lloran noche y dia,\nRegando con sus lagrimas el suelo.\nSocorrednos, bendita Virgen pia,\nAntes que este mortal corporeo velo\nQuede sin alma en esta tierra dura,\nY carezca de usada sepultura.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Olmos y Rico dicen\nA todos sus guerreros:\n«Valientes compañeros,\n«Ya vamos á partir;\n«El fuego de la Patria\n«En el alma llevemos\n«Y por ella juremos\n«Libertad ó morir.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

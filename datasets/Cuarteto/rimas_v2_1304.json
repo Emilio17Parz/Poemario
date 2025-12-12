@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Son el aroma de las flores secas,\nEcos errantes de cancion fugaz,\nGotas amargas á la vez que dulces\nCon que el destino humedeció mi faz.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

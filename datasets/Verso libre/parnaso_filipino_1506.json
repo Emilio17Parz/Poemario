@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y después, cuando quise, golondrina cansada,\nal nido de mis padres y de mi amor volver,\nrugió fiera de pronto violenta turbonada:\nvénse rotas mis alas, deshecha la morada,\nla fé vendida a otros y ruinas por doquier.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "PLATERO es pequeño, peludo, suave; tan blando por fuera, que\nse diría todo de algodón, que no lleva huesos. Sólo los espejos de\nazabache de sus ojos son duros cual dos escarabajos de cristal negro.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

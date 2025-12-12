@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Todos habían reconocido en aquella armadura la del señor del Segre;\naquella armadura, objeto de las más sombrias tradiciones mientras se\nla veía suspendida de los arruinados muros de la fortaleza maldita.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

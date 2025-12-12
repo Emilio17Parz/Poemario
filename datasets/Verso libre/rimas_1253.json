@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Ya había pasado el castillo de Trasmoz á poder de los cristianos,\ny éstos á su vez, terminadas las continuas guerras de Aragón y\nCastilla, habían concluído por abandonarle, cuando es fama que hubo\nen el lugar un cura tan exacto en el cumplimiento de sus deberes,\ntan humilde con sus inferiores, y tan lleno de ardiente caridad para\ncon los infelices, que su nombre, al que iba unido una intachable\nreputación de virtud, llegó á hacerse conocido y venerado en todos\nlos pueblos de la comarca.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

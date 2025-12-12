@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando en las vírgenes y verdes parras\nSus secas notas dan las cigarras,\nY en los panales de Himeto deja\nSu rubia carga la leve abeja\nQue en bocas rojas chupa la miel,\nJunto a los mirtos, bajo los lauros,\nEn grupo lírico van los centauros\nCon la harmonía de su tropel.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

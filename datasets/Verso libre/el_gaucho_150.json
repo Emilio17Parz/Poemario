@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "123\nPero ahi me puede quedar\npegao pa siempre al horcón,\nya era casi la oración\ny ninguno me llamaba;\nla cosa se me ñublaba\ny me dentró comezón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Corazón, emoción, ala leve y sutil,\ntenlos siempre, oh varón, y tú siempre, oh mujer,\ny ambos siempre tendréis, con las rosas de Abril,\nentre risas de sol, un rincón de pensil\nen que a solas oir el volar de un querer.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

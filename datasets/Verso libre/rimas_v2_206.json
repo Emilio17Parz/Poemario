@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Los bravos se adelantan,\nY el polvo que levantan\nCon ímpetu veloz,\nSus rostros ennegrece,\nY entre él desaparece\nLa enseña del honor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

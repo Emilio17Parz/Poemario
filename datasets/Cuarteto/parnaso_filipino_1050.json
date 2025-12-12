@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Todas las noches, a la sombra amena\nde un frondoso macizo floreciente,\nyo acudía con paso diligente\ny con el alma de ilusiones llena.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Qué escribir? ¿Qué pensamientos consignar en aquel trozo\nde papel? ¿Mis ilusiones? ¿La hora triste o la del gozo?\nMiré dentro de mi vida y mi vida era un destrozo;\nmiré fuera, y desde fuera llegó a mí un hondo sollozo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

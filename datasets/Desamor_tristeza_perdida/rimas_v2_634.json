@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Secad el triste lloro\nQue baña las mejillas\nAl sol de la esperanza\nQue miro ya lucir,\nLos pueblos no se salvan\nCon infecundo llanto,\nSinó queriendo altivos\nSer libres ó morir.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

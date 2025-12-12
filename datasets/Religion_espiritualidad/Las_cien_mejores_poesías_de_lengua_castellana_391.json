@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hay una voz secreta, un dulce canto,\nQue el alma solo recogida entiende,\nUn sentimiento misterioso y santo,\nQue del barro al espíritu desprende;\nAgreste, vago y solitario encanto\nQue en inefable amor el alma enciende,\nVolando tras la imagen peregrina\nEl corazón de su ilusión divina.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

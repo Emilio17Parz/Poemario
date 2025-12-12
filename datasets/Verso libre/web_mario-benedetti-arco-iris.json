@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "A veces\npor supuesto\nusted sonríe\ny no importa lo linda\no lo fea\nlo vieja\no lo joven\nlo mucho\no lo poco\nque usted realmente\nsea\nsonríe\ncual si fuese\nuna revelación\ny su sonrisa anula\ntodas las anteriores\ncaducan al instante\nsus rostros como máscaras\nsus ojos duros\nfrágiles\ncomo espejos en óvalo\nsu boca de morder\nsu mentón de capricho\nsus pómulos fragantes\nsus párpados\nsu miedo\nsonríe\ny usted nace\nasume el mundo\nmira\nsin mirar\nindefensa\ndesnuda\ntransparente\ny a lo mejor\nsi la sonrisa viene\nde muy\nde muy adentro\nusted puede llorar\nsencillamente\nsin desgarrarse\nsin deseperarse\nsin convocar la muerte\nni sentirse vacía\nllorar\nsólo llorar\nentonces su sonrisa\nsi todavia existe\nse vuelve un arco iris.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

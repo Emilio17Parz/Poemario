@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¡Oh, no temas caer ante el coloso\ncon el pecho horadado con las balas!\nTiene tu alma la fuerza de esos árboles\nque, al caer, estremecen las montañas...",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

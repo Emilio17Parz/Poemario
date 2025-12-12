@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Tu estrenua arboladura\ngallarda y rígida se yergue al pie\nde sacra sepultura\nque guarda la armadura\nde la verdad de mi amorosa fe.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

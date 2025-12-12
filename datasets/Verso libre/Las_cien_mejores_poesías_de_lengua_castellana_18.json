@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "MADRID: VICTORIANO SUÁREZ, 48 PRECIADOS\nLISBOA: FERREIRA LIMITADA, 132 RUA AUREA\nPARIS: A. PERCHE, 45 RUE JACOB\nLAUSANNE: EDWIN FRANKFURTER, 12 GRAND-CHÊNE\nBERLIN: WILHELM WEICHER, HABERLANDSTR. 4\nLONDON & GLASGOW: GOWANS & GRAY, LTD.\n1910",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

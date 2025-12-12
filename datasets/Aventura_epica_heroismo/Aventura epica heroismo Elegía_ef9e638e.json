@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Aventura epica heroismo",
   "poema": {
     "texto": "Hoy lloro la espada perdida\nque se fue con el viento frío.\nEl Aventura_epica_heroismo queda herido\nen esta tarde despedida.",

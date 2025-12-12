@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En la luna negra\nde los bandoleros,\ncantan las espuelas.\nCaballito negro.\n¿Dónde llevas tu jinete muerto?\n...Las duras espuelas\ndel bandido inmóvil\nque perdió las riendas.\nCaballito frío.\n¡Qué perfume de flor de cuchillo!\nEn la luna negra,\nsangraba el costado\nde Sierra Morena.\nCaballito negro.\n¿Dónde llevas tu jinete muerto?\nLa noche espolea\nsus negros ijares\nclavándose estrellas.\nCaballito frío.\n¡Qué perfume de flor de cuchillo!\nEn la luna negra,\n¡un grito! y el cuerno\nlargo de la hoguera.\nCaballito negro.\n¿Dónde llevas tu jinete muerto?",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

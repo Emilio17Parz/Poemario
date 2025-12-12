@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Ciudad de luz perpetua",
+  "poema": {
+    "texto": "En la ciudad de luz perpetua,\ndonde el cielo se ve y se siente,\nen mi alma una flor se abre,\na la luz que nunca se apaga.\n\nEn sus calles, el silencio resuena,\ncomo un coro de ángeles inaudible,\ny mi espíritu se desprende,\nde su carne pesada y cansada.\n\nEn sus torres, donde el sol se juega,\ncon la luna en un amor celeste,\nmi corazón canta una canción,\nsencilla y de profunda emoción.\n\nEn su callejón oscuro, se pierde mi pensamiento,\nen el esplendor de sus estrellas que brillan,\ny en ese momento, mi alma encuentra paz,\nen la ciudad de luz perpetua.",
+    "tipo": "Poema_lirico",
+    "palabra_clave_ingresada": "Ciudad"
+  }
+}

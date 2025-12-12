@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ese es el pueblo tuyo, que canta diplomacias\ndel rey Alfonso XIII, flor de las democracias;\nque con la unción del reino te entregó el estandarte\ntutelar y simbólico de la Paz y del Arte,\npara que tu voz fuera en mi indiano solar\nel reparto y renuevo de un amor secular,\n(el árbol que la entraña de nuestro bosque cría\nen cada retoñar acrece su ufanía);\npara que tu voz fuera el aviso y proclama\nde que el idioma hispano no muere, pues se le ama,\ny España es madre que no olvida a su hija ausente\na quien dió sangre e idioma en un rincón de Oriente;\ny de que es ley que el vínculo espiritual subsista\npor cima del destino, del tiempo y la conquista.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Synalepha may join into a single syllable two, three, four, and even\nfive vowels. The union of two vowels (diphthongal synalepha) and the\nunion of three vowels (triphthongal synalepha) are the most common.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

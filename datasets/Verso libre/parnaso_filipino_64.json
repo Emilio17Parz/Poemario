@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Caíste como fruta ya amarilla,\npero cayó contigo la semilla.\nYa es una planta vigorosa; el germen\nha medrado en el surco de la senda,\ny libres ya de la mortal contienda\nbajo su sombra tus hermanos duermen.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

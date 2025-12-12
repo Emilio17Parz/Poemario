@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Las almas harmoniosas buscan tu encanto,\nSonora rosa métrica que ardes y brillas,\nY España ve en tu ritmo, siente en tu canto\nSus hembras, sus claveles, sus manzanillas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

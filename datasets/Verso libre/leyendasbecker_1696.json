@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: This poem is composed of decasyllabic and of\npentasyllable verses. The last two verses of the lst and 3d\nstanzas and the last verse of the 2d and 4th stanzas are agudos,\nthe other verses being _llanos_. The rhyme scheme is _a, a, b, b,\nc, c, d, d, e, e, c_ for each half of the poem. Notice the hiatus\nin the 4th and 5th verses.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

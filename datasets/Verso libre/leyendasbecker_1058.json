@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--No... prosiguió dirigiéndose siempre á la estatua del guerrero, y\ncon esa sonrisa estúpida propia de la embriaguez ...no creas que te\ntengo rencor alguno porque veo en tí un rival... al contrario, te\nadmiro como un marido paciente, ejemplo de longanimidad y mansedumbre,\ny á mi vez quiero también ser generoso. Tú serias bebedor á fuer de\nsoldado... no se ha de decir que te he dejado morir de sed, viéndonos\nvaciar veinte botellas... ¡toma!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

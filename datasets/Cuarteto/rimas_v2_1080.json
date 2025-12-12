@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Sin el sereno azul del firmamento\n¿Cómo pintar de tu ojo la dulzura,\nY esa mirada cariñosa y pura\nQue hace olvidar al hombre su tormento?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

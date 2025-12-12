@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Del crepúsculo á la luz\nEn la tumba funeraria,\nAl pié de cristiana cruz,\nLevantaré la plegaria\nQue hizo en el clavo Jesus.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

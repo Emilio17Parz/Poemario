@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Me imaginaba junto a mi amada, que de aquel país de la altura, me\ntraerían las garzas muchos versos desconocidos y soñadores. Las garzas\nblancas las encontraba más puras y más voluptuosas, con la pureza de la\npaloma y la voluptuosidad del cisne; garridas, con sus cuellos reales,\nparecidos a los de las damas inglesas que junto a los pajecillos rizados\nse ven en aquel cuadro en que Shakespeare recita en la corte de Londres.\nSus alas, delicadas y albas, hacen pensar en desfallecientes sueños\nnupciales; todas--bien dice un poeta--como cinceladas en jaspe.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

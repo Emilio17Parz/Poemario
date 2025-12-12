@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y mientras el sol se pone, sonrosando las nieves con una claridad suave,\njunto a los árboles de la Alameda que lucen sus cumbres\nresplandecientes, su esbeltez solemne y sus hojas nuevas, en un polvo de\nluz, bulle un enjambre humano, en un ruido de música, cuchicheos vagos\ny palabras fugaces.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

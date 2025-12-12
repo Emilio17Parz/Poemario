@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que á cada hoja del álbum de tu vida\nQue desdoble la mano del destino,\nAl seguir los inviernos su camino\nLas primaveras queden en tu sien;\nY así, que en cada año que transcurra\nAñadas una flor á tu guirnalda,\nY que cruzando prados de esmeralda\nLlegues hasta las puertas del Eden.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Por eso te amo como á blanca estrella\nQue resplandece en el inmenso cielo,\nY que sin alcanzarla desde el suelo,\nLa contemplase siempre pura y bella.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

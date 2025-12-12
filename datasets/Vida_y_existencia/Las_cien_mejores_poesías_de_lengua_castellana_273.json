@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Traten otros del gobierno\nDel mundo y sus monarquías,\nMientras gobiernan mis días\nMantequillas y pan tierno,\nY las mañanas de invierno\nNaranjada y aguardiente,\n_Y ríase la gente_.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

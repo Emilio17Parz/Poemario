@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Cuando por primera vez fuí á Toledo, mientras me ocupé en sacar\nalgunos apuntes de San Juan de los Reyes, tenía precisión de\natravesarla todas las tardes para dirigirme al convento desde la\nposada con honores de fonda en que me había hospedado.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

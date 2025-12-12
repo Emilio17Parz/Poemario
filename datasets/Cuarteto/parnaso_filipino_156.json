@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y yo te veo, temblando ante el mágico\ngesto que imprime en el aire su marca,\n(tal vió la sombra paterna aquel trágico\npríncipe triste que hubo en Dinamarca).",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

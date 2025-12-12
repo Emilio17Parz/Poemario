@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Esta insufrible hambre macilenta\nQue tanto nos persigue y nos rodea,\nHacen que en vuestro parecer consienta,\nPuesto que temerario y duro sea,\nMuriendo, escusaremos tanta afrenta;\nMas quien morir de hambre no desea,\nArrojese conmigo al foso, y haga\nCamino á su remedio con la daga.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

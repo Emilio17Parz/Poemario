@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Éste, que tenía lugar en los salones que formaban el segundo cuerpo\ndel alcázar, ofrecia a su vez un cuadro, si no tan fantástico y\ncaprichoso, más deslumbrador y magnífico.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Desgarrada la nube; el arco iris\nbrillando ya en el cielo,\ny en un fanal de lluvia\ny sol el campo envuelto.\nDesperté. ¿Quién enturbia\nlos mágicos cristales de mi sueño?\nMi corazón latía\natónito y disperso.\n...¡El limonar florido,\nel cipresal del huerto,\nel prado verde, el sol, el agua, el iris!\n¡el agua en tus cabellos!...\nY todo en la memoria se perdía\ncomo una pompa de jabón al viento.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance asonante"
+  }
+}

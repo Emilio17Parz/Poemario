@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Miguel Nieto ha pintado, en un intenso\namor por lo oriental, una cadencia.\nEn su cuadro la Tórtola Valencia\ndanza, febril, la danza del incienso.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

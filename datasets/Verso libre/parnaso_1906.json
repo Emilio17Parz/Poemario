@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Bastabanos ser cautivos\nSin tener mas desconciertos,\nQue si allá queman los muertos,\nAbrasan aca los vivos.\nUsa Valencia otros modos\nEn castigar renegados,\nNo en publico condenados,\nMueran á tosigo todos.\nMas un moro viene aca,\nNo estemos juntos aqui,\nSaavedra por alli,\nYo y Sebastian por aca.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

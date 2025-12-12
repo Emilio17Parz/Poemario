@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "También lloró el volcán. Y fué su llanto\nde lágrimas de oro, de besos de quebranto,\ny de terror,\ndespués que vió a sus vírgenes completamente yertas,\ndespués que vió a sus islas completamente muertas,\nY sobre todo, muerto para él, todo el amor.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

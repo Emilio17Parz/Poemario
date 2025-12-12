@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Alzando la cabeza\nRepite con firmeza:\n«Avance el Escuadron!\n«Este es mi adios postrero...\n«Yo por la patria muero...\n«Soldados, al cañon!»",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

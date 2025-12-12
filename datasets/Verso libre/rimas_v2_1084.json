@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No encuentro nombre que darle\nY mi ardiente fantasía\nNo tiene la poesía\nQue esa imágen tiene en sí.\nCantaré sus perfecciones\nMucho mas bellas al verlas,\nMas si quereis comprenderlas\nA contemplarlas venid.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El espacio hienden torres de la iglesia redentora\nque la cúpula cobija con los brazos de la cruz\ny del fondo de los siglos va la chispa inspiradora\nencendiendo en las conciencias los destellos de su luz.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

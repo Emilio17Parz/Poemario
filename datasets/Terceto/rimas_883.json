@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Dentro de tres horas comenzará sin falta alguna, porque\nprecisamente esta noche es la de Jueves Santo, y acaban de dar las\nocho en el reloj de la abadía.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

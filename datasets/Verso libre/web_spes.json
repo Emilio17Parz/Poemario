@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Jesús, incomparable perdonador de injurias,\nóyeme; Sembrador de trigo, dame el tierno\npan de tus hostias; dame, contra el sañudo infierno,\nuna gracia lustral de iras y lujurias.\nDime que este espantoso horror de la agonía\nque me obsede, es no más de mi culpa nefanda,\nque al morir hallaré la luz de un nuevo día\ny que entonces oiré mi «¡Levántate y anda!»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

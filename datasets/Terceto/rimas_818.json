@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Yo he cruzado el tenebroso seno de la tierra, he sorprendido el\nsecreto de su maravillosa fecundidad, y conozco los fenómenos de sus\nentrañas, donde germinan las futuras creaciones.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

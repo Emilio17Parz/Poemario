@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Yo era en mis sueños, don Ramón, viajero\ndel áspero camino, y tú, Caronte\nde ojos de llama, el fúnebre barquero\nde las revueltas aguas de Aqueronte.\nPlúrima barba al pecho te caía.\n(Yo quise ver tu manquedad en vano.)\nSobre la negra barca aparecía\ntu verde senectud de dios pagano.\nHabla, dijiste, y yo: cantar quisiera\nloor de tu Don Juan y tu paisaje,\nen esta hora de verdad sincera.\nPorque faltó mi voz en tu homenaje,\npermite que en la pálida ribera\nte pague en áureo verso mi barcaje.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

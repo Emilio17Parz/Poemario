@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Todos los lancheros se habían ido ya; solamente el viejo tío Lucas, que\npor la mañana se estropeara un pie al subir una barrica a un carretón,\ny que, aunque cojín cojeando había trabajado todo el día, estaba sentado\nen una piedra, y, con la pipa en la boca, veía triste el mar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh vacío de las almas...! ¡Oh negras horas tediosas\nen que no hay para las manos que tiemblan divinas rosas,\nni para los ojos tristes un vuelo de mariposas\nnovias del sol...! ¡Oh infinita pesadumbre de las cosas!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

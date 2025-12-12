@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Spanish verse being accentual, however, and not quantitative, the\nterms used to determine the regular recurrence of long and short\nsyllables in Latin verse are not very applicable to it, and few\ncompositions are regular in the arrangement of the stress.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Uno las patas rítmicas mueve,\nOtro alza el cuello con gallardía\nComo en hermoso bajo-relieve\nQue a golpes mágicos Scopas haría;\nOtro alza al aire las manos blancas\nMientras le dora las fincas ancas\nCon baño cálido la luz del sol;\nY otro saltando piedras y troncos\nVa dando alegres sus gritos roncos\nComo el ruido de un caracol.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

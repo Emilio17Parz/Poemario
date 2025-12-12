@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "En el recogimiento pacífico y rendido de los crepúsculos del pueblo,\n¡qué poesía cobra la adivinación de lo lejano, el confuso recuerdo de lo\napenas conocido! Es un encanto contagioso que retiene todo el pueblo\ncomo enclavado en la cruz de un triste y largo pensamiento.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

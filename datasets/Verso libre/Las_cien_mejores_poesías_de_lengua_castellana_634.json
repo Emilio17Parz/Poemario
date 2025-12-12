@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¿Qué es la ciencia sin fe? Corcel sin freno,\na todo yugo ajeno,\nque al impulso del vértigo se entrega,\ny a través de intrincadas espesuras,\ndesbocado y a oscuras\navanza sin cesar y nunca llega.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Como dejo dicho, así en la plaza Mayor, como en las calles por donde\nel prisionero debía atravesar para dirigirse al punto en que sus\njueces se encontraban, la impaciente multitud hervía como un apiñado\nenjambre de abejas. Especialmente en la puerta de la cárcel, la\nconmoción popular tomaba cada vez mayores proporciones, y ya los\nanimados diálogos, los sordos murmullos y los amenazadores gritos\ncomenzaban á poner en cuidado á sus guardas, cuando afortunadamente\nllego la orden de sacar al reo.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

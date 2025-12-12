@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "369\nDios formó lindas las flores,\ndelicadas como son;\nle dio toda perfeción\ny cuanto él era capaz,\npero al hombre le dio más\ncuando le dio el corazón.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

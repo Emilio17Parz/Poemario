@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Y tus padres te llaman con ternura,\nY en esa piedra silenciosa y dura\nSe estrella su dolor,\nComo el llanto que el párpado humedece\nSe retira, se oculta y desaparece\nAl encontrar un mundo sin amor.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

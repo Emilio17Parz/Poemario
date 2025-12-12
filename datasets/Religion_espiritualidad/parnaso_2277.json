@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Todo ese cuento ya me ha dicho Zara,\nY me ha pedido que yo á vos os pida\nNo querais desdeñarla ansi á la clara:\nTambien no pasa menos triste vida\nIzuf, nuestro amo, que tambien me adora\nCon fe, que á lo que creo, no es fingida.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "fe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 3: Santiago = 'St. James,' the patron saint of Spain. A\nlegend of about the twelfth century tells us that the remains of St.\nJames the Greater, son of Zebedee, after he was beheaded in Judea,\nwere miraculously brought to Spain and interred in a spot whose\nwhereabouts was not known until in the ninth century a brilliant\nstar pointed out the place ('campus stellae'). The cathedral of\nSantiago de Compostela was erected there, and throughout the Middle\nAges it was one of the most popular pilgrim-resorts in Christendom.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cuando en liza ó al pié de la muralla\nDerrotados se miren los valientes,\nCuando vea que el plomo y la metralla\nHa postrado patriotas eminentes,\nArda su pecho en fuego sacrosanto\nY entone de la guerra el noble canto.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

@@ -1,8 +1,9 @@
 {
-    "subcategoria": "Clima",
-    "poema": {
-        "texto": "Golpean gotas,\nmúsica en el tejado,\ngris horizonte.",
-        "tipo": "Haiku",
-        "palabra_clave_ingresada": "Lluvia"
-    }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Clima",
+  "poema": {
+    "texto": "Golpean gotas,\nmúsica en el tejado,\ngris horizonte.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "Lluvia"
+  }
 }

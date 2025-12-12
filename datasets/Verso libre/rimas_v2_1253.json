@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Al borde de ese abismo te lloramos,\nY con vista anhelosa te buscamos\nSin poderte encontrar,\nComo busca con ansia el marinero\nAl que cayó del alto mastelero\nY se perdió en las ondas de la mar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

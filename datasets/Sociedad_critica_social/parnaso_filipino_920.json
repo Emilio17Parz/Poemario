@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Oh patria idolatrada, cuanto más afligida\ny angustiada te vemos te amamos más y más:\nno pierdas la esperanza; de la profunda herida\nsiempre brotará sangre, mientras tengamos vida,\nnunca te olvidaremos: ¡jamás, jamás, jamás!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

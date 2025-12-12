@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Lejano de mi patria,\nErrante, desterrado,\nSu luz me ha acompañado\nDo quiera que yo fuí,\nComo un reflejo ténue\nDel Argentino suelo,\nQue plácido consuelo,\nDerrama desde allí.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

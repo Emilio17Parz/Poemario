@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "¡Su voz!... su voz la he oído... su voz es suave como el rumor del\nviento en las hojas de los álamos, y su andar acompasado y majestuoso\ncomo las cadencias de una música.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

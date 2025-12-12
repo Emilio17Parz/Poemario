@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Morandro? dulce bien mio?\nQué sentis, ó qué teneis?\nCómo tan presto perdeis\nVuestro acostumbrado brio?\nMas ay triste sin ventura!\nQue ya está muerto mi esposo!\nO caso el mas lastimoso\nQue se vió en la desventura!\nQuién os hizo, dulce amado,\nCon valor tan excelente,\nEnamorado valiente,\nY soldado desdichado?\nHicistes una salida,\nEsposo mio, de suerte,\nQue por escusar mi muerte\nMe haveis quitado la vida!\nO pan de la sangre lleno\nQue por mí se derramó.\nNo te tengo en cuenta yo\nDe pan, sino de veneno!\nNo te llegaré á mi boca\nPor poderme sustentar,\nSi ya no es para besar\nEsta sangre que te toca.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

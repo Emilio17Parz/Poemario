@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hemos dicho que la gloria de Bécquer nació en su tumba. En efecto,\nasí fué. No le acariciaron en vida los halagos del «aura de aplausos»\nque acompaña siempre á la gloria literaria, ni reflejó sobre su\ncabeza la luz de la «nube radiosa» que siempre la sigue. El, sin\nembargo, sabía que «algo divino» llevaba en la frente. Estimulada\ny acrecentada la admiración de unos cuantos amigos suyos, poetas y\npintores, por el dolor de su temprana muerte, reunieron con cariño\nsus obras y las publicaron, librándolas tal vez de una completa\noscuridad.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

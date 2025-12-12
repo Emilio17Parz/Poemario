@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aunque Byron conocía el idioma español, como lo prueba la traduccion del\nromance sobre la toma de Alhama, no parece que haya tomado la idea\nfundamental de su composicion de los siguientes versos de Calderon en el\n_Pintor de su Deshonra_, que transcribimos aquí como una feliz\ncoincidencia entre dos grandes genios poéticos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

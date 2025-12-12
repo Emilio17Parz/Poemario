@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y, si acaso, hay momentos de calma lisonjera\nque de gozo inocente nos hacen sonreir,\nson momentos fugaces que con la primavera\ndejan triste recuerdo en el pecho, al partir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

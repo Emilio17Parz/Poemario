@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "\"Mi amor a tí--decía--\narderá como el sol que siempre arde:\nese sol, alma mía,\nda en otros horizontes vida al día\nque aquí mata en los brazos de la tarde.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

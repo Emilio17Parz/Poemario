@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "(Sephanoides II)\nEL COLIBRí de siete luces,\nel picaflor de siete flores,\nbusca un dedal donde vivir:\nson desgraciados sus amores\nsin una casa donde ir\nlejos del mundo y de las flores.\nEs ilegal su amor, señor,\nvuelva otro día y a otra hora:\ndebe casarse el picaflor\npara vivir con picaflora:\nyo no le alquilo este dedal\npara este tráfico ilegal.\nEl picaflor se fue por fin\ncon sus amores al jardín\ny allí llegó un gato feroz\na devorarlos a los dos:\nel picaflor de siete flores,\nla picaflora de colores:\nse los comió el gato infernal\npero su muerte fue legal.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

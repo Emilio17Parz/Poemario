@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Pareado",
+  "poema": {
+    "texto": "«Milicia es la vida del hombre y sus dias son como los dias del\njornalero sobre la tierra.» (_Antiguo Testamento. Libro de Job._)",
+    "tipo": "pareado",
+    "palabra_clave_ingresada": "2 versos (Pareado)"
+  }
+}

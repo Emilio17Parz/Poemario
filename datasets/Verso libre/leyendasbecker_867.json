@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: el alcázar. The Alcazar (Arab, _al qaçr_, 'the castle')\n\"stands on the highest ground in Toledo. The site was originally\noccupied by a Roman '_castellum_' which the Visigoths also used as a\ncitadel. After the capture of the city by Alfonso VI the Cid resided\nhere as 'Alcaide.' Ferdinand the Saint and Alfonso the Learned\nconverted the castle into a palace, which was afterwards enlarged\nand strengthened by John II, Ferdinand and Isabella, Charles V, and\nPhilip II.\" (Baedeker, 1901, p. 152) It has been burned and restored\nseveral times. The magnificent staircase is due to Charles V, whose\nname the Alcazar sometimes bears.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Las madres, las esposas\nContemplan aquel grupo\nPendientes del latido\nDel brazo muscular;\nMas derrepente vése\nQue las manijas sueltan,\nY se oye entre el corrillo\nSordo rumor vagar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

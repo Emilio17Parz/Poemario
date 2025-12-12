@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tu pupila es azul, y cuando ríes,\nSu claridad suave me recuerda\nEl trémulo fulgor de la mañana\nQue en el mar se refleja.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

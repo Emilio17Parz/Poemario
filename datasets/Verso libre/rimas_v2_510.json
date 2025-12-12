@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Sombras de las falanges militares\nQue alzaron los escudos tutelares\nAl pié del patrio altar;\nDejad caer el casco rutilante\nDejad caer el hierro fulminante\nY vuestra obra venid á contemplar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

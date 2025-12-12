@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duerme en tanto en el campo de batalla\nMientras su patria gime en servidumbre;\nMientras la fé del corazon desmaya\nY el hierro se carcome con la herrumbre;\nCuando el tirano al vernos en derrota\nCon su lauro la espalda nos azota!",
+    "tipo": "social",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

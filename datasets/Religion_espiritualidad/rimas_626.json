@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El cielo nos ayudará en la santa empresa; conquistaremos á Sevilla,\ny el rey nos dará feudos en las riberas del Guadalquivir á los\nconquistadores. Entonces volveré en tu busca y nos iremos juntos á\nhabitar en aquel paraíso de los árabes, donde dicen que hasta el\ncielo es más limpio y más azul que el de Castilla.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

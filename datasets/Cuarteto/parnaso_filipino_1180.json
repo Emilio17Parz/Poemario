@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Me pides sampaguitas... No te envío,\nporque, al ir a cortarlas de la rama,\nsentí temblar mis manos y mi pecho\nprensado por la lástima.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

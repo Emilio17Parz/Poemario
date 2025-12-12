@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cada composición parece un himno sagrado a Eros, himno que, a las veces,\nen la mayor explosión de entusiasmo, el pesimismo viene a turbar con la\ndisonancia, ya de un ay de dolor, ya de una carcajada sarcástica. Aquel\nsabor amargo, que brota del centro mismo de todo deleite, y que tan bien\nexperimentó y expresó el ateo Lucrecio,",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

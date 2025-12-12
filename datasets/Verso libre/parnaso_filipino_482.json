@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y me han dicho sus tristezas, sus pesares, sus dolores;\nMe han abierto los arcanos musicales de sus almas;\nMe han narrado complacientes los sucesos culminantes\nY apopeyas de los días venturosos de la patria.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

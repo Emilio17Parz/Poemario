@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "nada, nothing; ¡--! not at all; by no means; no indeed; never mind; it\nmakes no difference; ¡--, --! (_an exclamation of denial or refusal_),\nnothing else will do; no ... --, nothing; not anything; en --, in any\nrespect; at all; -- menos, nothing less; para --, in any respect; at\nall; pues --, but no; not so.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

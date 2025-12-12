@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Es poeta elegante y lapidario Cecilio Apóstol, en cuyos números campa\nserenidad clásica. Bebió el licor ático en búcaro francés, posibles\ndivinos \"alfareros\" Moreas o Heredia, no nacidos en Francia.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

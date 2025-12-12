@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La palabra poesía deriva del griego, y si hemos de dar crédito á los\nfilólogos, significa _crear_, _componer_, _fabricar_, _hacer_,\n_construir_, en fin, es una verdadera palabra enciclopédica, que\nrepresenta dignamente á la potencia creadora por escelencia, que á la\nmanera del Creador sobre el barro, sopla sobre una idea invisible, le dá\nforma y vida, y la inmortaliza por los siglos de los siglos, sin el\nauxilio de la reproduccion.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Era de hierro y de cristal tu mente;\ngrandes ideas modeló su fragua;\ntuvo el vuelo del águila potente\ny la profunda claridad del agua.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

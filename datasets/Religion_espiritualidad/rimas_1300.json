@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ya su ánimo, siempre esforzado y valeroso, comenzaba á desfallecer\nante la perspectiva de una noche eterna, perdido en aquellas\nsoledades y expuesto al furor de los desencadenados elementos; ya\nsu noble cabalgadura, aterrorizada y medrosa, se negaba á proseguir\nadelante, inmóvil y como clavada en la tierra, cuando, dirigiendo\nsus ojos al cielo, dejó escapar involuntariamente de sus labios una\npiadosa oración á la Virgen, á quien el cristiano caballero tenía\ncostumbre de invocar en los más duros trances de la guerra, y que en\nmás de una ocasión le había dado la victoria.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

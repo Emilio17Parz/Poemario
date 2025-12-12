@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Es importante hacerlo\nquiero que me relates\ntu último optimismo\nyo te ofrezco mi última\nconfianza\naunque sea un trueque\nmínimo\ndebemos cotejarnos\nestás sola\nestoy solo\npor algo somos prójimos\nla soledad también\npuede ser\nuna llama.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Está abierto el jardín. Venid todos a él\nlos que ansiéis suspirar besuqueando una flor,\nlos que, en vez de llorar, tengáis hambre de amor\nal sonrís, al fulgor, al olor, a la miel\nde una bella emoción. ¡El jardín está en flor!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

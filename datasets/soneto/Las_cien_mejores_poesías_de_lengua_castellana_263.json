@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Cuando en mis manos, Rey eterno, os miro,\nY la cándida víctima levanto,\nDe mi atrevida indignidad me espanto,\nY la piedad de vuestro pecho admiro.\nTal vez el alma con temor retiro,\nTal vez la doy al amoroso llanto;\nQue, arrepentido de ofenderos tanto,\nCon ansias temo y con dolor suspiro.\nVolved los ojos a mirarme humanos;\nQue por las sendas de mi error siniestras\nMe despeñaron pensamientos vanos.\nNo sean tantas las miserias nuestras\nQue a quien os tuvo en sus indignas manos\nVos le dejéis de las divinas vuestras.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

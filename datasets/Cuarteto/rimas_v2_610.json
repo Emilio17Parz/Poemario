@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Los libres solos su bandera alzando\nCon doble esfuerzo treparán los Andes,\nY entre Argentinos el aliento dando\nLos buenos solo llamaránse grandes.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Aquí una de ellas, blanca como el vellón de un cordero, sacaba su\ncabeza rubia entre las verdes y flotantes hojas de una planta\nacuática, de la cual parecía una flor á medio abrir, cuyo flexible\ntallo más bien se adivinaba que se veía temblar debajo de los\ninfinites círculos de luz de las ondas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

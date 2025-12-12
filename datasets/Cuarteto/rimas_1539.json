@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ráfagas de huracán, que arrebatáis\nDel alto bosque las marchitas hojas,\nArrastrado en el ciego torbellino,\n¡Llevadme con vosotras!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

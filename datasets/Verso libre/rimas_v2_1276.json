@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Es el álbum un ara consagrada\nAl candor, la virtud y la belleza,\nDonde ella, reclinando su cabeza,\nMelancólica piensa en lo que fué:\nAllí llega el poeta y el artista\nPara quemar su incienso á la hermosura,\nPara ofrecerla alguna rosa pura\nQue ella en su seno secará tal vez.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

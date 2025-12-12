@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Una andaluza despliega su manto\nPara el poeta de música eximia;\nRústicos Títiros cantan su canto;\nBulle el hervor de la alegre vendimia.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

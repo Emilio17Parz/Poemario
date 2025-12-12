@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: campana gorda = 'great bell.' The famous _Campana\nGorda_, weighing nearly two tons, was cast by Alejandro Gargollo in\n1753. It hangs in the cathedral tower surrounded by eight other\nbells, and surmounted by two more.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

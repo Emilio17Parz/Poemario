@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Egloga",
+  "poema": {
+    "texto": "Tambien cayó su cabeza,\nMas al descender marchita\nTembló la turba precita,\nY despavorida huyó:\nLos esclavos van cobardes\nCruzando por los desiertos,\nY los libres quedan muertos\nSobre el campo del honor.",
+    "tipo": "egloga",
+    "palabra_clave_ingresada": "campo"
+  }
+}

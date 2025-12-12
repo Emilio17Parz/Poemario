@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Silvas_ are series of strophes composed of hendecasyllables and\nheptasyllables of unequal number and unevenly distributed with a free\narrangement of rhymes. Every verse should rhyme with another, yet\nsometimes a verse is left unrhymed in long compositions.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

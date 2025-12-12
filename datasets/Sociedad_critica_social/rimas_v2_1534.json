@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¡Oh Dios! no supimos vivir como hermanos!\nDe la cara patria, nuestras mismas manos\nOsaron el pecho sagrado romper,\nY por castigarnos, al cielo le plugo\nHacer que marchemos uncidos al yugo\nQue oscuro tirano nos quiso imponer.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

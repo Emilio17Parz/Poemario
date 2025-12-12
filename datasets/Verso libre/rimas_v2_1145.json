@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Como el náufrago se abraza\nDe las astillas flotantes,\nDe las horas vacilantes\nMe abrazo con ansiedad;\nPero en vano, que la urna\nDe mis años, agotada,\nSobre el abismo inclinada\nSe vé, de la eternidad.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

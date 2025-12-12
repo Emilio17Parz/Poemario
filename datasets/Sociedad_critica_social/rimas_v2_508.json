@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Jóvenes, de la patria la riqueza,\nEl porvenir está en vuestra cabeza,\nBella es vuestra mision:\nEs coronar el noble monumento,\nQue simboliza el grande pensamiento\nQue inauguró la tierra de Colon.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

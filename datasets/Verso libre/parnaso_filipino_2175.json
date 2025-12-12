@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Por los claustros vagan sombras pensativas de doctores\nque escribieron en las celdas o incensaron el altar;\ny del Sol a los postreros moribundos resplandores\na un alféizar asomado se ve a un fraile meditar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

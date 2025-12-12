@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nuestro disignio á todas es patente,\nTodas lo saben, ya no queda alguna\nQue no se quexa dello amargamente;\nY dicen que en la buena ó ruin fortuna\nQuieren en vida y muerte acompañarnos,\nAunque su compañia es importuna.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

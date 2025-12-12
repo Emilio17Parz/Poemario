@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "366\nY se hacen los que no aciertan\na dar con la coyontura:\nmientras al gaucho lo apura\ncon rigor la autoridá,\nellos a la enfermedá\nle están errando la cura.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

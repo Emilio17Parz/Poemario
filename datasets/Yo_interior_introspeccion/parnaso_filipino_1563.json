@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Y cuando en noche obscura se envuelva el cementerio\ny sólo, sólo muertos queden velando allí,\nno turbes su reposo, no turbes el misterio:\ntal vez acordes oigas de cítara o salterio:\nsoy yo, querida patria; yo que te canto a tí.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

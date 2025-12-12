@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Igual que la de Bécquer\nel arpa de la araña\nen un ángulo oscuro\nespera o desespera\nel aire de la siesta\nmueve sin destruirla\nla seda de cordaje\nhay una breve escala\nde silencios\npor fin\nuna mosca inocente\no quizá alucinada\nsucumbe ante el hechizo\ny paga con su vida\nel haber profanado\nel hermetismo\nde la sencillez.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija"
+  }
+}

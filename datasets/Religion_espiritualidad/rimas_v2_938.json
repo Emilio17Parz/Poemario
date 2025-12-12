@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Espíritu invisible, que enajenas\nLas potencias del alma, y con cadenas\nAtas la voluntad:\nTú que gobiernas la imantada barra\nCuando el manto del cielo se desgarra:\nVen á ensayar aquí tu potestad.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Embajador poeta que vienes a esta tierra\ndonde flameó un día la enseña roja y gualda,\ntoma las galas todas que mi solaz encierra\ny danos de tus rimas la perennal guirnalda.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

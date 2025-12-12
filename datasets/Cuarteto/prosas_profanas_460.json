@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Es viejo ese lobo. Tostaron su cara\nLos rayos de fuego del sol del Brasil;\nLos recios tifones del mar de la China\nLe han visto bebiendo su frasco de gin.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: This poem is composed of hendecasyllabic and\nheptasyllabic verses, with a pentasyllabic refrain. The\nhendecasyllabic verses are partly of the first and partly of the\nsecond class (see Introduction), while the heptasyllabic verses\nhave the required accent on the sixth syllable, with at least one\nminor variable accent, and the pentasyllabic verses on the fourth,\naccording to rule. The even verses have the same assonance\nthroughout.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

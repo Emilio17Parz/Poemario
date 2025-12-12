@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ya no templas mis íntimos pesares,\nya al pie de tus altares\ncomo en mis años de candor no acudo.\nPara llegar a ti perdí el camino,\ny errante peregrino\nentre tinieblas desespero y dudo.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

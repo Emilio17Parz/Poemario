@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Serventesio",
+  "poema": {
+    "texto": "El teclado armónico de su risa fina\nA la alegre música de un pájaro iguala.\nCon los staccati de una bailarina\nY las locas fugas de una colegiala.",
+    "tipo": "serventesio",
+    "palabra_clave_ingresada": "4 versos rima ABAB"
+  }
+}

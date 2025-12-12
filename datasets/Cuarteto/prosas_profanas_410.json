@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "METRO mágico y rico que al alma expresas\nLlameantes alegrías, penas arcanas,\nDesde en los suaves labios de las princesas\nHasta en las bocas rojas de las gitanas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

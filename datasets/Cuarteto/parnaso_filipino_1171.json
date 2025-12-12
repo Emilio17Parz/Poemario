@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Y tembló la opresión. Himno de muerte\nparecía el rugido de sus armas,\ny en su mismo estertor... ¡ay! frente a ella\nirguióse su conciencia: ¡cuán manchada!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

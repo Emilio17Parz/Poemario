@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "«Hoy de la Francia muéstrase celosa\n«Porque cree que fuerte y poderosa\n«Nos podrá sojuzgar.\n«Islas quiere la Francia? Ya el Britano\n«Ha robado en el mundo Americano\n«Malvinas y Roatan.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

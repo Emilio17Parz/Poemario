@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "64\nAnsí en mi moro, escarciando,\nenderecé a la frontera.\n¡Aparcero si usté viera\nlo que se llama cantón!...\nNi envidia tengo al ratón\nen aquella ratonera.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

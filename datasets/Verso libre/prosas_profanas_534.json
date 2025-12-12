@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y los siete mancebos a las siete doncellas\nLanzan vivas miradas de amor. Las Tentaciones.\nDe sus liras melifluas arrancan vagos sones.\nLas princesas prosiguen, adorables visiones\nEn su blancura de palomas y de estrellas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

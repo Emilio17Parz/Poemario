@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "y serás mañana de toda una raza la gloria\ncuando, con tu música, su toque marcial de victoria\ndé a los cuatro vientos un libre y sonoro clarín...",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

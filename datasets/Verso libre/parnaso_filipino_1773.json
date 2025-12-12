@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Un castillo fingía perspectiva lejana:\nde rubíes y oro le forjé en mis ensueños;\npero sus muros eran de arcilla... Una mañana\nse derrumbó el dorado castillo de mis sueños.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

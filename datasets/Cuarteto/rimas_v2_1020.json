@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Los sauces que coronan sus riveras\nHunden su verde copa en el Queguay,\nCual tu frente en mi seno cariñoso\nBlando se inclina envuelto con un ¡ay!",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Octavas de Arte mayor_ are composed of eight dodecasyllables divided\ninto two equal hemistichs, with the accents on the second, fifth,\nseventh, and eleventh syllables. The first verse rhymes with the\nfourth, fifth, and eighth; the second with the third; and the sixth\nwith the seventh. Sometimes the second rhymes with the fourth, the\nfifth with the eighth, the first with the third, the sixth with the\nseventh.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

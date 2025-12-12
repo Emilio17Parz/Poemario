@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Tal vez aquí hay un Hampden sin historia\nQue afrontó de su campo á los tiranos,\nO algun Milton sin cantos y sin gloria,\nÓ un Cromwell puro, con incruentas manos.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

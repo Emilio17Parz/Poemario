@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Éstas tienen un balcón de madera con un cobertizo disparatado;\naquéllas una ventana gótica recientemente enlucida y con algunos\ntiestos de flores; la de más allá unos pintorreados azulejos en el\nmarco de la puerta, clavos enormes en los tableros, y dos fustes de\ncolumnas, tal vez procedentes de un alcázar morisco, empotrados en el\nmuro.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

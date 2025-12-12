@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Siempre que volvíamos por la calle de San José, estaba el niño tonto á\nla puerta de su casa, sentado en su sillita, mirando el pasar de los\notros. Era uno de esos pobres niños á quienes no llega nunca el don de\nla palabra ni el regalo de la gracia; niño alegre él y triste de ver;\ntodo para su madre, nada para los demás.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

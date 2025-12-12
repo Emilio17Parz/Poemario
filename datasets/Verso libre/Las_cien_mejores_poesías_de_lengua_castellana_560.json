@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Y al estampar sobre la herida abierta\nel hierro de su cólera encendido,\ntembló la concusión que siempre alerta,\nincansable y voraz, labra su nido,\ncomo gusano ruin en carne muerta,\nen todo Estado exánime y podrido.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

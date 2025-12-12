@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Pobre Teresa! ¡Al recordarte siento\nUn pesar tan intenso! Embarga impío\nMi quebrantada voz mi sentimiento,\nY suspira tu nombre el labio mío:\nPara allí su carrera el pensamiento,\nHiela mi corazón punzante frío,\nAnte mis ojos la funesta losa,\nDonde vil polvo tu beldad reposa.",
+    "tipo": "yo",
+    "palabra_clave_ingresada": "pensamiento"
+  }
+}

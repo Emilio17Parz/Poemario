@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Ese es el rey más hermoso que el día,\nQue abre a la musa las puertas de Oriente;\nEse es el rey del país Fantasía,\nQue lleva un claro lucero en la frente.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

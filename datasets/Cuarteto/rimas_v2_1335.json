@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "La vida es real y su destino es sério,\nY no es su fin en el sepulcro hundirse;\nQue «ser polvo y en polvo convertirse»\nNo es del alma el divino ministerio.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

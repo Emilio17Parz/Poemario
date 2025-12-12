@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "Del español Condestable\nLatió con orgullo el pecho,\nUfano de la entereza\nDe su esclarecido deudo.\nY aunque advertido procura\nDisimular cual discreto,\nA su noble rostro asoman\nLa aprobación y el contento.\nEl Emperador un punto\nQuedó indeciso y suspenso,\nSin saber qué responderle\nAl francés, de enojo ciego.\nY aunque en su interior se goza\nCon el proceder violento\nDel conde de Benavente,\nDe altas esperanzas lleno\nPor tener tales vasallos,\nDe noble lealtad modelos,\nY con los que el ancho mundo\nSerá a sus glorias estrecho.\nMucho al de Borbón le debe\nY es fuerza satisfacerlo:\nLe ofrece para calmarlo\nUn desagravio completo.\nY, llamando a un gentil-hombre,\nCon el semblante severo\nManda que el de Benavente\nVenga a su presencia presto.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'eo')"
+  }
+}

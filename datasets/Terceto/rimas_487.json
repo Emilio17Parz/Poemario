@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Esto diciendo, armó su ballesta, no sin haberle hecho antes la señal\nde la cruz en la punta de la vira, y colocándosela á la espalda se\ndirigió á la poterna del castillo para tomar la vereda del monte.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

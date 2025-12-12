@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Quería contarte un poema sideral que tú pudieras oir, quería ser tu\namante ruiseñor, y darte mi apasionado ritornelo, mi etérea y rubia\nsoñadora. Y así desde la tierra donde caminamos sobre el limo, enviarte\nmi ofrenda de armonía a tu región en que deslumbra la apoteosis y reina\nsin cesar el prodigio.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

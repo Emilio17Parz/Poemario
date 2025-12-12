@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "271\nMe fui reculando en falso\ny el poncho adelante eché,\ny en cuanto le puso el pie\nuno medio chapetón,\nde pronto le di un tirón\ny de espaldas lo largué",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

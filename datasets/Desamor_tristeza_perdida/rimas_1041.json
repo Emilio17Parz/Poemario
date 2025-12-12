@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Era el pobre muchacho, que estaba encerrado en una de las\nhabitaciones de la venta, donde pasaba los días contemplando inmóvil\nel retrato de su amante sin pronunciar una palabra, sin comer apenas,\nsin llorar, sin que se abriesen sus labios más que para cantar esa\ncopla tan sencilla y tan tierna, que encierra un poema de dolor que\nyo aprendí á descifrar entonces.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

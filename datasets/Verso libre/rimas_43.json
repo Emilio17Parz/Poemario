@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "En nuestro Parque está, cobijado por aquel gigantesco árbol, bóveda\nde un templo de la Naturaleza, bajo cuyas ramas majestuosas y tiernas\ná la vez, llenas de hojas que parecen lágrimas cuajadas en verdura,\ncomo expresiva representación y símbolo de lo que fué en la vida\nperenne estímulo del estro de nuestro gran poeta, se ve nacer el\namor y se le ve morir.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

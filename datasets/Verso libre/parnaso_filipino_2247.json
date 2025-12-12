@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Lloraremos la alegría,\nreiremos indiferentes\nlos enojos.\nY agotáranse algún dia\ntus suspiros y las fuentes\nde mis ojos.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Dichoso instante aquel que vió a las olas\ndialogar con las naves españolas,\nllevando a Limasawa a Magallanes!\nDe entonces a hoy, portentos mil se han visto,\ny es que el poder de España arraiga en Cristo,\nmanso y sin hiel, multiplicando panes.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cristo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "La abadesa tornó á murmurar las ininteligibles palabras; los\nsacerdotes las repitieron, y todo quedó de nuevo en silencio en\nla iglesia. Sólo de cuando en cuando se oían á lo lejos como unos\nquejidos largos y temerosos. Era el viento que zumbaba estrellándose\nen los ángulos de las almenas y los torreones, y estremecía al pasar\nlos vidrios de color de las ojivas.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

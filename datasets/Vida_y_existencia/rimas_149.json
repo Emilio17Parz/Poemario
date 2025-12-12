@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El arzobispo se retiró, seguido de sus familiares. Unas tras otras,\nlas literas de los señores fueron desfilando y perdiéndose en las\nrevueltas de las calles vecinas; los grupos del atrio se disolvieron,\ndispersándose los fieles en distintas direcciones; y ya la\ndemandadera se disponía á cerrar las puertas de la entrada del atrio,\ncuando se divisaban aún dos mujeres que, después de persignarse\ny murmurar una oración ante el retablo del arco de San Felipe,\nprosiguieron su camino, internándose en el callejón de las Dueñas.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "camino"
+  }
+}

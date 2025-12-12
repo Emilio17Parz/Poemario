@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "NOTE: Final s and final n, especially in the plural of nouns and in\nverbs, do not count. Therefore, _penas_ and _arenas_ would form a\nfeminine rhyme.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

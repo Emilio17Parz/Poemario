@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "¿Fué cuando la bella su falda cogía\nCon dedos de ninfa, bailando el minué,\nY de los compases el ritmo seguía\nSobre el tacón rojo, lindo y leve el pie?",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

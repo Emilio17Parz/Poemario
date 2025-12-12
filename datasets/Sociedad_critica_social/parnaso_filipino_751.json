@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Tienes el aroma de nuestras edémicas flores\ny el ritmo y el mimo de un beso ideal de mujer,\ny resumes toda la queja de los soñadores\nde mi pobre raza, sujeta a un extraño poder.",
+    "tipo": "social",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

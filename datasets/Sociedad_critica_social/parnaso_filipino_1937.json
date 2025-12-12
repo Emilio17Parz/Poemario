@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hermosa patria mía, amor de mis amores,\n¿Sabes porqué mi acento hoy se dirije a tí,\ny porqué el más indigno entre tus trovadores\ngozoso te contempla con loco frenesí?",
+    "tipo": "social",
+    "palabra_clave_ingresada": "patria"
+  }
+}

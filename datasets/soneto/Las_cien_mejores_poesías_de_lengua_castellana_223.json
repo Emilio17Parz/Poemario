@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "En segura pobreza vive Eumelo\nCon dulce libertad, y le mantienen\nLas simples aves, que engañadas vienen\nA los lazos y liga sin recelo.\nPor mejor suerte no importuna al cielo,\nNi se muestra envidioso a la que tienen\nLos que con ansia de subir sostienen\nEn flacas alas el incierto vuelo.\nMuerte tras luengos años no le espanta,\nNi la recibe con indigna queja,\nMas con sosiego grato y faz amiga.\nAl fin, muriendo con pobreza tanta,\nRicos juzga sus hijos, pues les deja\nLa libertad, las aves y la liga.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

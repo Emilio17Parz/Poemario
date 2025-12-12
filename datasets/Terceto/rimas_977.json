@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--Hollada bajo el pie del indiferente pasajero, sin cesar arrastrada\nde un punto á otro entre el polvo y el fango, me he juzgado dichosa\ncuando podía reposar un instante en el profundo surco de un camino.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

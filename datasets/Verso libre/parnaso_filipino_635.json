@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh, Chopín! ¡Oh, gran maestro!\n(Ya están cayendo las hojas, ya está cayendo la escarcha).\nHaz que suenen en el aire melancólico y siniestro,\ncerca a mí, las armonías funerales de tu _Marcha_...",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

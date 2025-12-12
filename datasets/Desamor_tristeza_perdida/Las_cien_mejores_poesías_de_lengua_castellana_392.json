@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Yo, desterrado en extranjera playa,\nCon los ojos estático seguía\nLa nave audaz que en argentada raya\nVolaba al puerto de la patria mía:\nYo, cuando en Occidente el sol desmaya,\nSolo y perdido en la arboleda umbría,\nOír pensaba el armonioso acento\nDe una mujer, al suspirar del viento.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "perdido"
+  }
+}

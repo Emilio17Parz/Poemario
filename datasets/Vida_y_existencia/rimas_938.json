@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hay momentos en que, merced á una serie de abstracciones, el espíritu\nse sustrae á cuanto le rodea, y replegándose en sí mismo analiza y\ncomprende todos los misteriosos fenómenos de la vida interna del\nhombre.",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

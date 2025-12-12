@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "viajero solo",
   "poema": {
     "texto": "Va el viajero\\nsin equipaje\\ncarga su sombra\\ncomo único mapa",

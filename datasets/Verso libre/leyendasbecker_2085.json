@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "allá, there; más --, farther; beyond; on past; -- al filo de la media\nnoche, just about midnight; -- por ..., back there in...; port --, in\nthat direction, thither, there; de acá para --, from point to point;\nhither and thither.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

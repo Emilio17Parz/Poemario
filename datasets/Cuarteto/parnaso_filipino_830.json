@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Es Astarté mi musa preferida,\nla que inspira pasiones clamorosas.\nEs voluptuosa y es gentil panida\nla diosa de mis vidas primorosas.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

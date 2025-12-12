@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "En terminos nos tiene nuestra suerte,\nDulces amigos, que será ventura\nAcabar nuestros daños con la muerte;\nPor nuestro mal, por nuestra desventura,\nVistes del sacrificio el triste aguero,\nY á Marquino tragar la sepultura:\nEl desafio no ha importado un cero:\nDe intentar que nos queda, no lo siento,\nSino es acelerar el fin postrero.\nEsta noche se muestre el ardimiento\nDel Numantino acelerado pecho,\nY pongase por obra nuestro intento:\nEl enemigo muro sea deshecho,\nSalgamos á morir á la campaña,\nY no como cobardes en estrecho.\nBien sé que solo sirve esta hazaña\nDe que á nuestro morir se mude el modo,\nQue con ella la muerte se acompaña.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "\"La muerte es descanso\". Cerebro en que tuvo su hornaza,\nla idea que urdió la epopeya inmortal de la raza,\ndescansa. La Patria vigila tu sueño de paz.\nLa patria, orgullosa, entre epónimos héroes te nombra.\nMoriste dichoso, sin ver que sobre el pecho la sombra\ndel ala extendida y las garras del buitre voraz.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

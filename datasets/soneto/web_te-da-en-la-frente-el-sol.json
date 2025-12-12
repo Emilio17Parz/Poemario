@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "soneto",
+  "poema": {
+    "texto": "Te da en la frente el sol de la mañana\nrecién nacido, pálida doncella,\nmisteriosa visión, fugaz estrella,\nque te derrites en la luz. Hermana\nde la que nace cuando la campana\ntocando a la oración doliente sella\nla fatiga de un día más, la mella\nque sume el alma en la mortal desgana.\nEl alba y el ocaso cruzan manos,\ny así, a la silla de la reina, al día\nya la noche, rendidos soberanos,\nLos llevan a enterrar. Triste sería\nque al despertar de nuestros sueños varios\nluz y sombra lucharán a porfía.",
+    "tipo": "soneto",
+    "palabra_clave_ingresada": "14 versos endecasílabos"
+  }
+}

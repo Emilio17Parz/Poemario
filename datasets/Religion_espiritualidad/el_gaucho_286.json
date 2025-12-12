@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "254\nEs triste en medio del campo\npasarse noches enteras\ncontemplando en sus carreras\nlas estrellas que Dios cría,\nsin tener más compañía\nque su delito y las fieras.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "dios"
+  }
+}

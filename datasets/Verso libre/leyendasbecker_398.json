@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "_Decasyllabic Verse_: A verse of ten syllables may be formed by the\ntriple repetition of the trisyllable -- -- /. One extra unaccented\nsyllable is admissible when the verse is _llano_; and two when the\nverse is _esdrújulo_.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "--¡Qué loco eres!--dijiste. Y yo, ¡qué loca!--\nPero en medio de tanto devaneo,\n--¿lo recuerdas aún?--fuimos dos santos.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

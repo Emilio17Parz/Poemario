@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "NOTE: Synalepha is possible with the other combinations, but hiatus is\npreferable even with the above combinations, in a syllable on which\nthe rhythmical accent falls (see under Rhythmic Accent).",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

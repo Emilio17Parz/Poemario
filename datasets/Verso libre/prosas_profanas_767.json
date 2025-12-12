@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "1.F.5. Some states do not allow disclaimers of certain implied\nwarranties or the exclusion or limitation of certain types of\ndamages. If any disclaimer or limitation set forth in this agreement\nviolates the law of the state applicable to this agreement, the\nagreement shall be interpreted to make the maximum disclaimer or\nlimitation permitted by the applicable state law. The invalidity or\nunenforceability of any provision of this agreement shall not void the\nremaining provisions.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

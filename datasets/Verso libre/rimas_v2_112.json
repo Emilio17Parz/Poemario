@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "El italiano era un dialecto vulgar cuando el Dante se sirvió de él para\nescribir su _Divina Comedia_, que á la par de la mas grandiosa epopeya\nde los tiempos modernos, es la fuente del idioma mas puro, y mas\narmonioso de la raza latina. El Petrarca ornamentó, dió elasticidad y\nclasificó en cierto modo la lengua dignificada por el Dante, cambiando\nhasta cierto punto su esencia, como lo dice Sismondi, y legando á su\npatria un idioma digno de rivalizar con los de Grecia y Roma. Los poétas\nque le han sucedido, dieron la última mano á la obra iniciada por los\npadres de la poesía italiana.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

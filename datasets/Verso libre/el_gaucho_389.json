@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "355\nAndaremos de matreros\nsi es preciso pa salvar;\nnunca nos ha de faltar\nni un güen pingo pa juir,\nni un pajal ande dormir,\nni un matambre que ensartar.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi gozo tu paladar\nrico panal conceptúa,\ncomo en el santo Cantar:\n_Mel et lac sub lingua tua._\nLa delicia de tu aliento\nen tan fino vaso apura,\ny me enciende el pensamiento\nla locura.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "santo"
+  }
+}

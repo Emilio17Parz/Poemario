@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "¡Oh! escúchame... ¡Aquí estoy! Solo, perdido\nen mitad de mi obscuro derrotero...\nY aunque procuro, loco, dolorido,\ndesterrar mi pesar con el olvido,\nya no puedo luchar... ¡Amame o muero!",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

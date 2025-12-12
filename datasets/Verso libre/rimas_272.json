@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "Manrique, con el oído atento á estos rumores de la noche, que unas\nveces le parecían los pasos de alguna persona que había doblado ya\nla última esquina de un callejón desierto, otras, voces confusas de\ngentes que hablaban á sus espaldas y que á cada momento esperaba ver\ná su lado, anduvo algunas horas corriendo al azar de un sitio á otro.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

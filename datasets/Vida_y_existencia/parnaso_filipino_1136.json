@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Porqué ha de ser la vida cadena de amarguras?\n¿porqué todos nosotros hemos de padecer?\nDime, ¡oh rey de los astros que radiante fulguras!\n¿porqué gime lloroso el infante al nacer?",
+    "tipo": "vida",
+    "palabra_clave_ingresada": "vida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Jamás se desnuda de sus armas ni abate la visera de su casco después\nde la victoria, ni participa del festín, ni se entrega al sueño. Las\nespadas que le hieren se hunden entre las piezas de su armadura, y ni\nle causan la muerte, ni se retiran teñidas en sangre; el fuego\nenrojece su espaldar y su cota, y aún prosigue impávido entre las\nllamas, buscando nuevas víctimas; desprecia el oro, aborrece la\nhermosura, y no le inquieta la ambición.",
+    "tipo": "amor_triste",
+    "palabra_clave_ingresada": "muerte"
+  }
+}

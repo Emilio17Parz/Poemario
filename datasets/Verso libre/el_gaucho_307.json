@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "275\nPegué un brinco y entre todos\nsin miedo me entreveré;\nhecho ovillo me quedé\ny ya me cargó una yunta,\ny por el suelo la punta\nde mi facón les jugué.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

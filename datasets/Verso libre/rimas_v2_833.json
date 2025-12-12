@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "«Para salvar las armas\n«Dejamos este suelo;\n«Buscando con anhelo\n«Campo en que combatir:\n«Y sea nuestro grito\n«Al dejar esta playa,\n«Y al entrar en batalla\n«Libertad ó morir.»",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

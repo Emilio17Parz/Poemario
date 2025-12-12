@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "Corre el torrente alborotado y ciego,\ny el Derecho parece una quimera;\npero aun hay fe, y allí donde yo llego\nha de llegar conmigo mi bandera.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

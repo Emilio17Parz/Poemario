@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Terceto",
+  "poema": {
+    "texto": "Estaba derecha en una triste silla, blanca la cara y mate, cual un nardo\najado, enmedio de la encalada y fría alcoba. Le había mandado el médico\nsalir al campo, á que le diera el sol de Marzo; pero la pobre no podía.",
+    "tipo": "terceto",
+    "palabra_clave_ingresada": "3 versos (Terceto)"
+  }
+}

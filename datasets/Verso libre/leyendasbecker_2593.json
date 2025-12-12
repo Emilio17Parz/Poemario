@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "capilla, _f._, chapel; maestro de --, choir-master, one who composes\nand directs church music; -- mayor, main chapel (containing the pulpit\nand high altar, and in most Spanish churches opposite the _coro_ and\nseparated from the transept by a railing).",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

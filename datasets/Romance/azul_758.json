@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Romance",
+  "poema": {
+    "texto": "El viento\narrastraba rumores, ecos, risas,\nmurmullos misteriosos, aleteos,\nmúsicas nunca oídas.\n«El hada entonces me llevó hasta el velo\nque nos cubre las ansias infinitas,\nla inspiración profunda\ny el alma de las liras.\nY lo rasgó. Y allí todo era aurora.»\nEn el fondo se veía\nun bello rostro de mujer.",
+    "tipo": "romance",
+    "palabra_clave_ingresada": "Romance (Asonancia 'ia')"
+  }
+}

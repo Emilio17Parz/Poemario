@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Según dejamos dicho, la iglesia estaba completamente desmantelada; en\nel altar mayor pendían aún de las alias cornisas los rotos jirones del\nvelo con que le habían cubierto los religiosos al abandonar aquel\nrecinto; diseminados por las naves veianse algunos retablos adosados\nal muro, sin imágenes en las hornacinas; en el coro se 'dibujaban con\nun ribete de luz los extraños perfiles de la obscura sillería de\nalerce; en el pavimento, destrozado en varies puntos, distinguíanse\naún anchas losas sepulcrales llenas de timbres, escudos y largas\ninscripciones góticas; y allá á lo lejos, en el fondo de las\nsilenciosas capillas y á lo largo del crucero, se destacaban\nconfusamente entre la obscuridad, semejantes á blancos é inmóviles\nfantasmas, las estatuas de piedra que, unas tendidas, otras de hinojos\nsobre el mármol de sus tumbas, parecían ser los únicos habitantes del\nruinoso edificio.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "iglesia"
+  }
+}

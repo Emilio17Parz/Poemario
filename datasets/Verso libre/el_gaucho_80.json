@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "54\nallí un gringo con un órgano\ny una mona que bailaba,\nhaciéndonos rair estaba,\ncuanto le tocó el arreo,\n¡tan grande el gringo y tan feo,\nlo viera cómo lloraba!.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 3: Salomón = 'Solomon.' \"A famous king of Israel, 993-953\nB.C. (Duncker), son of David and Bathsheba.... The name of Solomon,\nwho was supposed to have possessed extraordinary magical powers,\nplays an important part in Eastern and thence in European legends,\"\n_Century Dict._ \"His wisdom enabled him (as legend informs us) to\ninterpret the speech of beasts and birds, a gift shared afterwards,\nit was said, by his descendant Hillel (Koran, sura 37, Ewald,\n_Gesch. Isr._, iii, 407).\" M'Clintock and Strong, _Cyclopedia of\nBiblical, Theological, and Ecclesiastical Literature_, N.Y., 1880,\nvol. ix, p. 871.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

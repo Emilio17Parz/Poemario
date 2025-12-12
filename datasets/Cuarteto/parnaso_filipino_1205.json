@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Cuarteto",
+  "poema": {
+    "texto": "vibra la llama estuosa de la siesta,\npasa la brisa cálida,\ny murmura en sus notas el prefacio\nde algún idilio convertido en drama.",
+    "tipo": "cuarteto",
+    "palabra_clave_ingresada": "4 versos arte mayor"
+  }
+}

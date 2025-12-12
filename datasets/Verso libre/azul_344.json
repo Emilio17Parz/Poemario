@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "--¡Ah, sabios de la Edad Media! ¡Ah, Alberto el Grande, Averroes,\nRaimundo Lulio! ¡Vosotros no pudisteis ver brillar el gran sol de la\npiedra filosofal, y he aquí que sin estudiar las fórmulas aristotélicas,\nsin saber cábala y nigromancia, llega un hombre del siglo décimonono a\nformar a la luz del día lo que nosotros fabricamos en nuestros\nsubterráneos! ¡Pues el conjuro! fusión por veinte días, de una mezcla de\nsílice y de aluminado de plomo; coloración con bicromata de potasa o con\nóxido de cobalto. Palabras en verdad que parecen lengua diabólica.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "No ignoráis lo que ocurre\nen las silentes noches: el cuerpo que se escurre\nentre las suavidades de los ropajes blancos,\nlas manos que se pierden por los turgentes flancos,\nel beso que provoca,\nlos labios que se buscan y los lenguajes francos\nque van de boca a boca.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

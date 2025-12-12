@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Si leo algun escrito que nombra á Buenos Aires\nSus páginas exalan magnético perfume,\nY todas las palabras mi mente las asume\nComo el rocío puro que cae sobre la flor;\nY entonces se presentan á mi memoria triste\nTus torres, tus jardines, tus calles animadas,\nTu cielo hermoso y puro, tus brisas perfumadas,\nTu rio, tu horizonte, tu hermoso bicolor.",
+    "tipo": "religion",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

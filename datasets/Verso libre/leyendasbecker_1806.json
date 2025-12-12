@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "[Footnote 1: This is the most beautiful and the best known of\nBecquer's poems, and has often been set to music. It is composed\nof hendecasyllabic verses, mostly of the first class, with a\nheptasyllabic verse closing each stanza. Notice the _esdrújulo_\nterminating the next to the last verse. The even verses are agudos\nand of the same assonance throughout, with the alternate ones\nrhyming.]",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}

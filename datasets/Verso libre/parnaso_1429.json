@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Verso libre",
+  "poema": {
+    "texto": "O mal logrado mozo, sal ya fuera,\nY vuelve á ver el sol claro y sereno;\nDexa aquella region do no se espera\nEn ella un dia sosegado y bueno;\nDame, pues puedes, relacion entera\nDe lo que has visto en el profundo seno\nDigo, de aquello á que mandado eres,\nY mas, si al caso toca, y tu pudieres.",
+    "tipo": "verso_libre",
+    "palabra_clave_ingresada": "Sin estructura fija detectada"
+  }
+}
