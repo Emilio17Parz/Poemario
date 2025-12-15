@@ -1,0 +1,8 @@
+{
+    "subcategoria": "Religión",
+    "poema": {
+        "texto": "_____\n\n       _______________________\n      |                         |\n      |        Creencia         |\n      |                         |\n      |________________________|\n\n          _______________\n\n                  |              |\n                  |  Sacramentos  |\n                _|        _|\n               |_              _|\n               |  |       Rito  |\n               |_|       _|\n                _|             _|\n                |  Ley          |        Moral\n                |              |________|\n                |_             _|\n                _|\\_____\n                        |         Dogma    |\n                        |_    ___________  _|\n                               | |        _ | |\n                  Poder      | |  Estatus  | |     Influencia\n                               | |_____________| |\n                                    |\n                              Iglesia",
+        "tipo": "Concreto",
+        "palabra_clave_ingresada": "religión"
+    }
+}

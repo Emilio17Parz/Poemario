@@ -1,0 +1,8 @@
+{
+    "subcategoria": "Aventura",
+    "poema": {
+        "texto": "^            ^        \n                        \\        /\n                   ****       ***** \n              _______/        \\________            \n         ______/                \\________     \n    <-----------/              ****  \\----------->\n     ________/                   **** \\________ \n         /                             \\  \n       /           ^          *****        \\ \n_____/               *****        ****   ____ \n          *****                        **** \n         *****      ^                    *****    \n         *****                        *****       \n _______/                              \\_ ____ \n     ^           _______            _____        \n      |______/                \\____  /         \n  *****              ****                ***** \n       \\______        |        _______/ \\____ \n        |       \\    *|*   ______/|         |\n        |__      |\\__/   **\\___/\n              ^           |\n                ^          |   \n               ~~~~~~\n \n \n      ¿Por \n          cual\n     pasión?\n \n       alegremente,\n    sin miedo\n          avanzo...\n \n   y cuando la aventura\n        se vuelve\n                    en un laberinto,\n            ¿qué?\n \n \n         sin perder\n          la sonrisa\n         busco una \n     salida,\n \n              un final \n \n  que no concluya\n     esta historia",
+        "tipo": "Concreto",
+        "palabra_clave_ingresada": "aventura"
+    }
+}

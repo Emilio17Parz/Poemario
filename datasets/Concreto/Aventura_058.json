@@ -1,0 +1,8 @@
+{
+    "subcategoria": "Aventura",
+    "poema": {
+        "texto": "A V E N T U R A \n\n        ____________\n       |               |\n       |     ENTRADA     |\n       |------------------|\n       |               |\n       |  SELVA DE RÍOS         |\n  _________\n |                      |\n |  ESCALADA         |\n |                      |\n |       A       |\n |       L    |\n |       TO     |\n |__________________|\n        |               |\n        |     MAREA     |\n        |               |\n        |    DESCenso  |\n            ________\n            |         |\n            |  CIMA  |\n             _________\n\n\nNota: El texto debo leer a ojo, pero para tu comodidad aquí el resultado visual sugerido por los espacios, saltos y la alineación debería ser de la siguiente forma: Un sendero serpnteando,  la selva con un gran rio de un lado, a continuación, una escalada ascendente, donde una flecha apunta a un alto, luego el paisaje gira en 90°, y al final, una cima.",
+        "tipo": "Concreto",
+        "palabra_clave_ingresada": "aventura"
+    }
+}
