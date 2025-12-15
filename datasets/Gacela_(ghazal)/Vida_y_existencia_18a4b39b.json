@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es una sombra, tal vez un sueño,\nvivimos esperando cumplir el sueño.\n\nDespierto y me pregunto si es realidad,\no si sigo atrapado dentro de un sueño.\n\nQue no me despierte nadie si soy feliz,\nprefiero la mentira de este dulce sueño.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

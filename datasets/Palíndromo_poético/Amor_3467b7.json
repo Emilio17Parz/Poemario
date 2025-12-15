@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Toca mi alma\ntu mirada\nluz divina\ntu mirada\ntoca mi alma",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "alma"
+  }
+}

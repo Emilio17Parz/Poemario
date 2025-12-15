@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedra sagrada, solemne tumba,\nguardiana fiel de lo que un día fue,\naquí la gloria se pone de pie,\ny ante tu peso el orgullo sucumba.\nMonumento eterno a la brevedad,\nde nuestra efímera humanidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

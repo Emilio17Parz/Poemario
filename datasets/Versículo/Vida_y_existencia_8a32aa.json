@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nada permanece igual bajo el sol; la montaña se convierte en arena y el niño se convierte en anciano.\nAceptar que somos mutación constante es la única forma de no quebrarse cuando sopla el huracán de lo nuevo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Salió la luna redonda\nsobre el olivar oscuro,\nalumbrando los caminos\ncon su resplandor tan puro.\nEs la reina de la noche\nque salta cualquier muro,\ny vigila nuestros sueños\ncon su ojo claro y duro.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "luna"
+  }
+}

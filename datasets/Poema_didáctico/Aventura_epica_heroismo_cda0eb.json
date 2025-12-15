@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Si el plan falla, cambia,\ncomo el río en la roca,\nno sientas rabia,\nsi la suerte choca.\nImprovisar es arte,\nde la guerra parte.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Adaptabilidad"
+  }
+}

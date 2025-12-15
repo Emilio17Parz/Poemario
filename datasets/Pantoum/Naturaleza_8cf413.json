@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Lágrimas del cielo gris,\nmojan la tierra seca.\nCambian el matiz,\nla vida no peca.\n\nMojan la tierra seca,\nsuenan en el tejado.\nLa vida no peca,\nrenace lo sembrado.\n\nSuenan en el tejado,\ncambian el matiz.\nRenace lo sembrado,\nlágrimas del cielo gris.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

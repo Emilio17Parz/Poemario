@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Buscan el gran tesoro,\noculto en la isla,\nlos piratas del sur.\nBajo el cielo azur,\ncavan en la arena,\nsoñando con oro.\n\nCon oro,\nel tesoro,\ny la pena.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

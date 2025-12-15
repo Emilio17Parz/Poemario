@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Emprendo el largo viaje,\nhacia lo desconocido.\nLo que he vivido,\nllevo en el equipaje.\n\nHermoso paisaje,\nque ha florecido.\nEmprendo el largo viaje,\nhacia lo desconocido.\n\nPago el peaje,\ndel tiempo ido.\nNo he perdido,\nel coraje.\nEmprendo el largo viaje.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

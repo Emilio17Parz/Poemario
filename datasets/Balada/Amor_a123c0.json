@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Kilómetros fríos nos tienen lejos,\npero en mi memoria veo tus reflejos,\nno importa cuán grande sea el ancho mar,\nmi amor tiene alas para cruzar.\nTe siento conmigo en la soledad,\ny venzo al fantasma de la realidad,\nesperando el día de la reunión,\nque sane la herida de mi corazón.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

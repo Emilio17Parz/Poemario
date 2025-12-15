@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cortad lirios y azucenas,\npara cubrir su cuerpo yerto,\nque parezca un jardín despierto,\ny no un lugar de tantas penas.\n\nQue el aroma rompa las cadenas,\nde la muerte y su mal olor,\ny le acompañe con amor,\na las estancias serenas.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flores"
+  }
+}

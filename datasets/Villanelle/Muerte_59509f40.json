@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra acecha, con sigilo lento,\nEl hondo abismo que nos hace duelo,\nEl último suspiro de un momento.\n\nSe desvanece todo sentimiento,\nSe apaga el brillo del vivaz anhelo,\nLa sombra acecha, con sigilo lento.\n\nNo hay voz que quiebre ya el adormecimiento,\nNi luz que rompa el impenetrable velo,\nEl último suspiro de un momento.\n\nSe va la vida, cual tenue portento,\nAl frío abrazo de la tierra y cielo,\nLa sombra acecha, con sigilo lento.\n\nCae el telón, final del argumento,\nDejando solo un mudo desconsuelo,\nEl último suspiro de un momento.\n\nEl cuerpo yace, ya sin movimiento,\nReina el perfecto y hondo silencio,\nLa sombra acecha, con sigilo lento,\nEl último suspiro de un momento.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

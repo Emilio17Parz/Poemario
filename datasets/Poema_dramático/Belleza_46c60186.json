@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "REINA: Espejo mágico, dime la verdad.\n¿Quién tiene más belleza y majestad?\nESPEJO: Tú eres hermosa, reina mía.\nPero Blancanieves te desafía.\nREINA: ¡Maldita sea! ¡Traedme su corazón!\nESPEJO: La envidia nubla tu razón.\nLa belleza externa se pudre y pasa.\nREINA: ¡Calla! ¡Seré la única en la casa!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "envidia"
+  }
+}

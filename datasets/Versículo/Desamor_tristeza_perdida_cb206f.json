@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "A veces sueño que regresas y todo está bien, y la felicidad es tan real que puedo tocarla.\nPero el despertar es un segundo abandono, una caída brutal desde el cielo de la ilusión al suelo de la realidad.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No hay senda hecha, se hace al caminar,\ncomo dijo el poeta en su cantar,\ny cada paso es forma de trazar\nel mapa que tendremos que pisar.\n\nHay piedras que nos hacen tropezar,\ny flores que nos invitan a amar,\ncruces de vías donde hay que optar,\ny puentes que debemos de cruzar.\n\nLa vida es ruta, viaje, movimiento,\nno importa el destino, sino el andar,\nsentir en la cara el sol y el viento.\n\nY aunque a veces queramos descansar,\nes imperativo del momento\nseguir adelante y continuar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "camino"
+  }
+}

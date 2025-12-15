@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mientras tiramos la comida,\nalguien busca en la basura.\nEl hambre es un crimen silencioso,\nuna mancha en la conciencia colectiva\nque intentamos no mirar\npara poder cenar tranquilos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo se movía al son de un violín,\nSin pensar en el miedo, ni en el duro fin.\nLa danza era la historia que se cuenta sin voz,\nLa belleza del cuerpo que no pide arroz.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "danza"
+  }
+}

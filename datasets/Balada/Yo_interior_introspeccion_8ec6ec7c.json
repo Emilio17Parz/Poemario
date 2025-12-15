@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tengo miedo a la oscuridad,\nque vive dentro de mi ser,\nmiedo a la soledad,\ny a lo que pueda suceder.\nIntento siempre vencer,\npero vuelvo a caer.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

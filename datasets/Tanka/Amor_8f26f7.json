@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Luz de la mañana,\nasí es el primer mensaje,\nque tú me enviaste.\nUn rayo de sol entrando,\ncalienta mi vida fría.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

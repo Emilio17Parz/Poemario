@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye como el río,\nNada permanece igual,\nEn este gran lío.\nTodo fluye como el río,\nCon mucho brío,\nHacia el final.\nTodo fluye como el río,\nNada permanece igual.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "río"
+  }
+}

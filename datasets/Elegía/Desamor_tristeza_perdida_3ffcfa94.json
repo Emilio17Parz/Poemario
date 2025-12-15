@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se callaron los cascabeles,\nse secó la fuente sonora,\nla risa que fue redentora\nhoy duerme bajo los laureles.\nYa no vibran las cieno mieles\nde aquella boca cantora,\nla tristeza devoradora\nha puesto amargos hieles.\nElegía a la carcajada,\nque espantaba todo el mal,\nhoy mi boca está cerrada.\nEs un silencio funeral,\nuna seriedad pesada,\nque marca el punto final.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "risa"
+  }
+}

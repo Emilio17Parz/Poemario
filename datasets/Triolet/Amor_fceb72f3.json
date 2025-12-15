@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te entrego toda mi alma\nsin miedo y sin dudar,\nen la tormenta y la calma.\nTe entrego toda mi alma,\neres tú quien la ensalma\ny me enseña a volar.\nTe entrego toda mi alma\nsin miedo y sin dudar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Coger la mano al que parte,\nes acto sagrado,\ndar de tu parte,\nal que está cansado.\nAyudar a cruzar,\nes saber amar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Acompañar"
+  }
+}

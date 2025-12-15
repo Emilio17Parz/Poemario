@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El Honor ya se ha manchado, (A)\nme arrastra sin la razón, (B)\nmi alma ya sin perdón, (B)\nmi ser se ha deshonrado. (A)\nMi corazón ya sin hado, (A)\nde tristeza y de dolor, (C)\nya no siento el fulgor, (C)\nde mi ser que se ha perdido, (D)\nen el cruel y gran olvido, (D)\nme queda solo el horror. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Honor"
+  }
+}

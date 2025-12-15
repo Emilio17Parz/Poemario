@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La palabra dada es sagrada,\nno puede ser nunca quebrada,\nvale más que el oro y la vida,\nuna promesa bien cumplida.\nEl honor limpia la conciencia,\ny nos otorga la decencia,\nde caminar con la frente alta,\nsin que ninguna culpa nos asalta.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "honor"
+  }
+}

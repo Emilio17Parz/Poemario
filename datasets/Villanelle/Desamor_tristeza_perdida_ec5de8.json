@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El pasado me encadena,\ncon recuerdos de dolor,\ny arrastro mi condena.\n\nEs una triste pena,\nque me quita el valor,\nel pasado me encadena.\n\nMi sangre se envenena,\ncon el viejo desamor,\ny arrastro mi condena.\n\nLa luna llena,\nno me da su calor,\nel pasado me encadena.\n\nComo una gran arena,\nque cubre mi flor,\ny arrastro mi condena.\n\nEn esta triste escena,\nsoy el perdedor,\nel pasado me encadena,\ny arrastro mi condena.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

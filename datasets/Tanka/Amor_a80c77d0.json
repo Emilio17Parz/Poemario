@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Suave tu mirar,\nmi alma se estremece ya.\nDulce caricia,\nal darte un tierno beso,\nque siempre nos una más.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "beso"
+  }
+}

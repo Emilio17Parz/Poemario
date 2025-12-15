@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No es dolor lo que siento,\nes la ausencia de todo.\nUn hueco en el pecho\ndonde antes latía la esperanza.\nTe llevaste el color y la música,\ny me dejaste este vacío inmenso,\ndonde resuena el eco\nde lo que fuimos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

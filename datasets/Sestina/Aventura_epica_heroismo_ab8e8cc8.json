@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge la fiera batalla,\nen el campo sangriento,\ndonde mueren los bravos.\nRompen los esclavos,\nlas cadenas de opresión,\nluchando por libertad.\n\nPor libertad,\nla batalla,\ny la unión.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

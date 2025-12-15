@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "MADRE: Hijo, ¿por qué no escribes jamás?\nHIJO: (En la mente) Madre, no me comprendes, ya verás.\nMADRE: La sopa está fría, la silla vacía.\nEspero tu vuelta día tras día.\nHIJO: (Lejos) Estoy ocupado viviendo mi vida.\nMADRE: Siento en el pecho una gran herida.\nQuizás ya no vuelva, quizás me olvidó.\nLa noche en mi casa ya se instaló.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "hijo"
+  }
+}

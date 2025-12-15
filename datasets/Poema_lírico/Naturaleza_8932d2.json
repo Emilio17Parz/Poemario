@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La roca es fría y dura,\nno se dobla al viento.\nEs la arquitectura\ndel viejo tormento.\n\nGuarda en su silencio\nel secreto del tiempo,\nmi único presagio\nsin ningún templo.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "roca"
+  }
+}

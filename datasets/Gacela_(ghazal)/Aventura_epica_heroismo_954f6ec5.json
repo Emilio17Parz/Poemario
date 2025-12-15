@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vale más que la vida el propio honor,\nno mancharé con miedo mi limpio honor.\n\nLa palabra dada es un juramento,\ny yo soy prisionero de mi honor.\n\nPuedo perderlo todo, menos mi nombre,\npuedo morir tranquilo con mi honor.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "honor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Silencio guarda la tumba,\ndel que ayer tuvo la vida,\ny hoy es polvo y nada más.\nNo volverá nunca atrás,\nel tiempo que se ha perdido,\nentre los dedos de Dios.\n\nDedos de Dios,\nsobre la tumba,\ny el olvido.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dejamos una huella,\nal andar el sendero.\nComo un viajero,\nbajo la estrella.\n\nVida bella,\nde paso ligero.\nDejamos una huella,\nal andar el sendero.\n\nLa botella,\ndel marinero.\nMensaje sincero,\nque destella.\nDejamos una huella.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "huella"
+  }
+}

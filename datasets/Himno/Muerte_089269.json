@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo fuimos y en polvo tornamos,\nal fin del viaje donde llegamos.\nEl fuego purga la carne y el hueso,\ny nos libera de todo el peso.\n\n¡Honor a la ceniza, esencia pura,\nque queda tras la sepultura!\nSímbolo gris de nuestra humildad,\ny de la efímera vanidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

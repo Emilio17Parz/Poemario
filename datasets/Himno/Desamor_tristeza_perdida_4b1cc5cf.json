@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Oh, gran olvido, bálsamo y paz!\nCubre las huellas del viejo dolor,\nborra la sombra del falso amor,\ncon tu manto gris y tu antifaz.\nReino del silencio y la calma fría,\ndonde descansa la melancolía.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Placas de hierro frío,\nprotegen el corazón.\nCruzar el ancho río,\nsin perder la razón.\n\nProtegen el corazón,\nde lanzas y de flechas.\nSin perder la razón,\nen las luchas estrechas.\n\nDe lanzas y de flechas,\nplacas de hierro frío.\nEn las luchas estrechas,\ncruzar el ancho río.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "armadura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canta mi musa,\nque no rehúsa.\n\nMe da el arte,\nen cada parte,\ny lo reparte,\nla intrusa.\n\nCanta mi musa,\nque no rehúsa.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "musa"
+  }
+}

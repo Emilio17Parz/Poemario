@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nadie es héroe en soledad.\nEstán los compañeros de escudo,\nlos que cubren tu espalda.\nLa hermandad forjada en el peligro\nes más fuerte que la sangre.\nCompartir el pan duro y la guardia nocturna.\nSaber que si caes,\nalguien te levantará.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "compañeros"
+  }
+}

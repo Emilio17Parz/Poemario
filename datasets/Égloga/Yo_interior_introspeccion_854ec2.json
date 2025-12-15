@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No soy el mismo de ayer,\nel tiempo me ha tallado.\nHe cambiado\nmi parecer.\nEl ser\nrenovado.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Espero que encuentres paz\nen el reino celestial,\nlejos de todo lo mal\ny con luz en tu faz.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "paz"
+  }
+}

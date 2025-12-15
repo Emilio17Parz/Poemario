@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siempre la duda me acompaña,\nno sé qué senda elegir,\nes como una telaraña,\nque no me deja vivir.\nTemo siempre decidir,\ny luego arrepentir.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "duda"
+  }
+}

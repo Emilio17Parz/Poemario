@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Océano inmenso, gigante dormido,\npor el misterio siempre revestido!\nTu voz de trueno en la orilla retumba,\ny en tus abismos la calma se tumba.\n\n¡Loor al mar, camino de naciones,\nque guardas hondas y viejas pasiones!\nEspejo azul del infinito cielo,\ncausa de miedo y de gran consuelo.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "mar"
+  }
+}

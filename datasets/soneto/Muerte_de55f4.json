@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tiembla la carne ante el abismo,\nel miedo a dejar de existir,\na no sentir y a no vivir,\na perder el propio egoísmo.\n\nEs el terror al ostracismo,\nal vacío que ha de venir,\nsin saber a dónde ir,\nperdiendo el mecanismo.\n\nPero el miedo es solo sombra,\nuna nube en el pensamiento\nque al ignorante asombra.\n\nLa muerte es el momento\nde pisar la alfombra\ndel eterno firmamento.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "abismo"
+  }
+}

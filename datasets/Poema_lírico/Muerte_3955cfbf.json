@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Oh, Muerte, velo que al fin nos cubre,\nsilencio eterno, paso sin retorno,\ntu aliento frío el mundo descubre,\nfin de la luz, principio de un contorno.\n\nTu mano incierta, la dulce engañosa,\nnos llama al reino de lo que fue un sueño,\ntras la cortina, tan misteriosa,\nla eterna sombra toma su dueño.\n\nSe apagan voces, se marchitan flores,\nlos ecos viejos de un amor profundo,\nrecuerdos quedan de vivas fulgores,\ncuando la vida habitaba este mundo.\n\nYace la calma, el dolor se apacigua,\nen tu regazo, crisálida fría,\n¿es paz serena, o la nada mendigua?\nmisterio sumo de la postrer día.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

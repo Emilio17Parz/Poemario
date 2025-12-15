@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Un niño que busca un hogar,\nsu vida sin un solo farol.\nLa calle es cruel,\ny amarga como hiel,\nel alma sin nada que amar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Niño"
+  }
+}

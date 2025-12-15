@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La pena del hambre,\nen los ojos de un niño ya,\nllora en silencio.\nEl mundo tiene de todo,\npero no sabe compartir.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Hambre"
+  }
+}

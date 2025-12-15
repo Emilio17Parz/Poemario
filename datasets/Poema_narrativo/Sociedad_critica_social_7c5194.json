@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Alzaron un muro alto de ladrillo y de sal,\nPara que el pobre no cruce, para que no haga mal.\nEl muro era la ley, la crueldad sin razón,\nLa cárcel visible de una gran nación.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "muro"
+  }
+}

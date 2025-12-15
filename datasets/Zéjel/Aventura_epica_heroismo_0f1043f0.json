@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Voy a ganar,\nsin fracasar.\n\nLa victoria,\nes la gloria,\nde la historia,\ndel lugar.\n\nVoy a ganar,\nsin fracasar.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "ganar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El suelo del bosque, una alfombra de memoria,\ntierra húmeda cediendo a mi paso,\nuna sinfonía de susurros de hojas antiguas\nmientras el viento, arquitecto invisible,\ndibuja patrones en el dosel.\n\nUn hilo de plata, un arroyo murmura sus secretos,\nsobre piedras pulidas, cuentos de escorrentía y lluvia,\nreflejando el cielo momentáneo,\nla nube fugaz, la sombra veloz de un pájaro.\nCada flor, un suspiro vibrante contra el verde,\ndesplegando su frágil belleza al sol indiferente.\n\nLuego, la lenta rendición de la luz,\nlos bordes del mundo difuminándose,\ny desde el terciopelo profundo de los cielos,\nla luna, un ojo pálido y perenne,\nderrama su silencio sobre el paisaje adormecido.\nUna luz prestada, que viste las cumbres,\ncada hoja, un espejo diminuto,\ny el búho, un guardián invisible,\nllama a la inmensidad.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "luna"
+  }
+}

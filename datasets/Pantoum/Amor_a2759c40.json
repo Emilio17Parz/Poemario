@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Apareces en mi sueño,\nvestida de luz y plata,\ny yo me siento tu dueño,\nen esta visión grata.\n\nVestida de luz y plata,\nreinas en mi pensamiento,\nen esta visión grata,\nque borra el sufrimiento.\n\nReinas en mi pensamiento,\napareces en mi sueño,\nque borra el sufrimiento,\ny yo me siento tu dueño.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

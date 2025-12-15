@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Un universo de luz y de sombra,\ngira constante dentro de mí,\ncosas que nunca jamás yo vi,\ny que mi boca con miedo nombra.\nEs el misterio que siempre asombra,\nde la conciencia que vive aquí.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "mente"
+  }
+}

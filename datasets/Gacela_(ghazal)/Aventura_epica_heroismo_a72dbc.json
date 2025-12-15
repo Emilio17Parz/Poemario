@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vale más que vida el propio honor,\nlimpio y sin mancha, el propio honor.\n\nPalabra dada que no se rompe,\nes el cimiento del gran honor.\n\nMorir de pie antes que traicionar,\nla ley sagrada del propio honor.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "honor"
+  }
+}

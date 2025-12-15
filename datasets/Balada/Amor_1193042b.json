@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Siento en mis venas un río correr,\nuna locura que no tiene freno,\nes el deseo que me hace volver,\na beber de tu dulce veneno.\nTodo mi ser se rinde a tu ser,\nen esta hoguera de rojo color,\nporque me quema y me hace nacer,\nel fuego vivo de mi gran pasión.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

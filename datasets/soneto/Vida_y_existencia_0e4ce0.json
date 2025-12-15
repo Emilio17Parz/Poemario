@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es la fuerza que mueve montañas,\nel hierro del alma templada,\nque no se detiene ante nada,\nni cede a las viles artimañas.\n\nCon ella realizas hazañas,\nsaliendo de la encrucijada,\ncon la vista fija y alzada,\nsin caer en las telarañas.\n\nQuerer es poder, se ha dicho,\ny el hombre que tiene tesón,\nno es juguete de un capricho.\n\nDomina su propia pasión,\ny sale del oscuro nicho,\nhacia su propia redención.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "voluntad"
+  }
+}

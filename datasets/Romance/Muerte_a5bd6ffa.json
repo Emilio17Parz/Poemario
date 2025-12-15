@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Del polvo fuimos formados\ny en polvo nos tornaremos,\naunque construyamos torres\ny el cielo desafiemos.\nEl tiempo muele la piedra\ncon sus invisibles remos,\ny al final somos arena\nque en el viento perderemos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

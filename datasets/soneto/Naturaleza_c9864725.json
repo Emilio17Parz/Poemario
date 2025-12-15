@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La brisa suave acaricia el verde prado,\nEl río canta su canción en dulce calma,\nY cada flor despliega su tierna alma,\nBajo el sol que tiñe el cielo ya dorado.\n\nEl bosque antiguo, misterioso y callado,\nGuarda secretos en su sombra profunda,\nMientras la vida en cada rama abunda,\nY el pájaro entona su trino afinado.\n\nAl caer la tarde, con velo de misterio,\nSe asoma al fin la plateada luna,\nY el bosque en sueños bajo su fulgor.\n\nSilencia el eco de cualquier vituperio,\nY la vida oculta en paz se acuna,\nY un manto astral envuelve al creador.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "luna"
+  }
+}

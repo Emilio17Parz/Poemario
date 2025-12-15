@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viene el ángel,\na recogerte.\nEn el vergel,\nviene el ángel.\nFiel doncel,\nde la muerte.\nViene el ángel,\na recogerte.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

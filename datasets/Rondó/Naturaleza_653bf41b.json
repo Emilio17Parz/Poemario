@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento del norte,\nmoviendo la hoja seca,\nen la cañada y la hueca,\ncon su elegante porte.\n\nNo necesita pasaporte,\nni entra en la hipoteca,\naunque todo lo corte.\nSopla el viento.\n\nEs el único soporte,\nque la nube trueca,\ny la lluvia beca,\nsin que a nadie le importe,\nsu fuerza y su resorte.\nSopla el viento.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "viento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En el madero diste tu vivir,\npor salvarnos de la muerte eterna,\ny enseñarnos la forma de servir.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "amor"
+  }
+}

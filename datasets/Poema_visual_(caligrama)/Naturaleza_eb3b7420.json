@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "LUNA\n                 plata\n                serena\n               en la noche\n              entre ramas\n             verdes, vida\n            hojas que danzan\n           con la brisa suave\n          árbol, fuerza, aliento\n         tronco firme, tiempo viejo\n        raíz profunda, en la tierra\n       naturaleza pura, que nos nutre\n      existir, sentir, florecer, latir\n     bajo el vasto cielo, eternidad, paz.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "luna"
+  }
+}

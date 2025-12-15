@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visto de noche el alma y el vestido,\nllevando el duelo en cada pensamiento,\ny se vuelve pesado el sentimiento\npor aquel que del mundo se ha perdido.\n\nEl color de la pena he decidido\nportar como un estático lamento,\nmientras pasa despacio el sufrimiento\nde saber que tu voz se ha extinguido.\n\nNegra es la tela y negro el corazón,\nque guarda la memoria del ausente\nen un rincón de amarga devoción.\n\nEl luto es el abrazo permanente\nque da la soledad a la razón,\ncuando la muerte se hace tan presente.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "luto"
+  }
+}

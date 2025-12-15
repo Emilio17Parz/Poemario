@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Bebí para poder olvidar,\ny dejé de razonar.\nLlamé a las tres,\ndiciendo ¿qué es,\nlo que tenemos que hablar?",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "alcohol"
+  }
+}

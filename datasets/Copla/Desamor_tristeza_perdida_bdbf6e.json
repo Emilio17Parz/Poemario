@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El frío me hiela el alma (a),\nsin tu llama se va la paz (b),\nla vida no tiene calma (c),\nla sombra me sigue tenaz (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

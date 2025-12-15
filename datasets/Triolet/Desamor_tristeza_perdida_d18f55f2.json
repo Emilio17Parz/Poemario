@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quisiera hallar el dulce olvido,\ndel tiempo que hemos perdido,\ny de lo mucho que he sufrido.\nQuisiera hallar el dulce olvido,\nde aquel amor malherido,\nque ya no tiene sentido.\nQuisiera hallar el dulce olvido,\ndel tiempo que hemos perdido.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

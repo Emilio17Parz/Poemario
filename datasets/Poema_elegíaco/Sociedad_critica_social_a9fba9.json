@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El dinero es el dios que el mundo adora sin fe, solo y cruel,\nla vida sin la calma, el sino fatal.\nEl oro es el veneno que el alma consume ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la riqueza que mi alma no puede comprar jamás sin voz ni luz,\ny mi destino es el castigo de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "oro"
+  }
+}

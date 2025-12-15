@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El sistema es frío, una máquina gris,\nque muele la carne, que rompe la voz,\nsin alma, sin vida, sin una raíz,\nla ley que condena a todos por dos.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Sistema"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Valle verde que se pierde a lo lejos,\nbajo un cielo de azul inmaculado,\ny sembrado,\nde luces, de sombras y de reflejos.\nCuadro vivo que cambia cada hora,\ny adora,\nquien contempla su paz y su grandeza,\ncon pureza.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "vista"
+  }
+}

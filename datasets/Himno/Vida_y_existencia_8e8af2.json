@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Rueda que giras sin ver a quién tocas,\ny con tus caprichos a todos provocas!\nA unos elevas al trono dorado,\ny a otros hundes en lodo y pecado.\n\n¡Temed a la diosa de ojos vendados,\nque cambia la suerte de los estados!\nNo fíes en ella tu felicidad,\npues es tan voluble su voluntad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "fortuna"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Reino donde las reglas se rompen,\ndonde vuelo y hablo con muertos,\nvisiones que al día interrumpen,\nmares extraños y desiertos.\nMensajes del alma profunda,\nque la razón nunca inunda.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

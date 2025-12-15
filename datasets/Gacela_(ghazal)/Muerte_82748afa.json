@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la piedra fría duerme el recuerdo,\ndel que ayer reía y hoy está cuerdo.\n\nYa no hay dolor ni grito, ni desacuerdo,\nsolo el silencio grave que muerdo.\n\nEn la casa de tierra me pierdo,\nesperando el juicio del lado izquierdo.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

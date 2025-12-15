@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "♥\n         AMOR\n          ↓\n        R O T O\n       P E D A Z O S\n      D O L O R   A M A R G O\n     LÁGRIMAS    C A E N\n    V A C Í O   S I N   F I N\n   S O L E D A D    G R A N D E\n  P É R D I D A    E T E R N A\n S O M B R A   Q U E   C U B R E\n      N A D A      M Á S\n          .\n           .\n            .\n         O L V I D O\n        L E N T O\n       Y   P R O F U N D O\n      A H O R A      A B S O R B E\n     T O D O   L O   Q U E   F U E\n    S I L E N C I O   G R A N D E\n   N A D A     M Á S    Q U E\n  E S P A C I O       V A C Í O",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

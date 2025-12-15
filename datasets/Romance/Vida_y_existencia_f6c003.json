@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llega el invierno a los huesos\ny la nieve a la cabeza,\nse pierden las fuerzas vivas\ny se gana en la tibieza.\nMiramos pasar la vida\ncon calma y con gentileza,\nsabiendo que el fin se acerca\ncon su natural certeza.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

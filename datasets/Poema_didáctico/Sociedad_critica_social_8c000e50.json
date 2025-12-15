@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La pobreza de un pueblo es vergüenza,\nde quien gobierna y de quien ignora;\nla caridad sola no mejora,\nla causa que al mal da su comienza.\nJusticia social y educación,\nson la verdadera solución.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

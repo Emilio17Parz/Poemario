@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¿Qué vale la vida sin la fama?\nPregunta el guerrero en su afán,\nbuscando que los siglos le dan\nel lugar que su orgullo reclama.\n\nLa gloria es la brillante llama\nque nunca los vientos apagan,\ny aunque las heridas le llagan,\nsu nombre en la historia se enrama.\n\nInmortalidad en la memoria,\neso es lo que busca la hazaña,\nescribir con sangre la historia.\n\nSubir la más alta montaña,\ny alcanzar la corona victoria,\naunque la muerte use su guadaña.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

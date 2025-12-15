@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pequeña joya de aroma y color,\nque adornas el jardín por un instante,\nregalando tu efímero esplendor.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

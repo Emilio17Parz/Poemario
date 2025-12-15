@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tus ojos miro mi rostro (a),\nla verdad que quiero ver (b),\nno temo pagar el costo (c),\nsi contigo voy a crecer (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

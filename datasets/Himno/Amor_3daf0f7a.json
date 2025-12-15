@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¡Oh, fuego sacro, divina pasión!\nQue enciendes la antorcha de la humanidad,\ntú rompes los muros de la soledad,\ny elevas al cielo nuestra canción.\nFuerza que mueves al sol y a la estrella,\ngloria que marcas la senda más bella.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El ruido de las cadenas cayendo,\nes la música sacra de la nación.\nSe acabó el tiempo de la sumisión,\nel gigante dormido se está moviendo.\nFundieron los hierros para hacer arados,\nlos hombres que fueron esclavizados.\nVictoria del pueblo sobre el metal,\nen esta lucha universal.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

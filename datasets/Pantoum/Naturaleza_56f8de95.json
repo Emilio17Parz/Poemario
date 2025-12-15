@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña toca el cielo,\ncon su pico blanco,\ncubierto de hielo,\ny firme en su flanco.\n\nCon su pico blanco,\nvigila el valle,\ny firme en su flanco,\nsin que nadie la calle.\n\nVigila el valle,\nla montaña toca el cielo,\nsin que nadie la calle,\ncubierto de hielo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

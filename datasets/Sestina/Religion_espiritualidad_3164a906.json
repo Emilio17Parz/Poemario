@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cae la divina gracia,\ncomo lluvia en tierra seca,\ny florece la virtud.\nEs la fuente de salud,\npara el alma enferma y triste,\nque sana con su poder.\n\nCon su poder,\nla gracia,\nque tú me diste.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "gracia"
+  }
+}

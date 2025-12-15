@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Oh, Belleza, fulgor que nos asombra\nel alma al despuntar cada mañana,\npresente en la quietud, la voz lejana\ndel viento entre las hojas, y en la sombra\nque el sol dibuja en tierra, peregrina!\nEres del mundo joya,\nla caricia sutil que nos despoja\nde toda pena vana.\n\nNo solo en la materia te dibujas,\nen la forma perfecta o el color;\nmás honda es tu raíz, profundo el ardor\nque en el alma te forjas,\nsino en la esencia pura que nos toma\nel corazón con dulces artilugios.\nTe veo en la verdad que nunca miente,\nen la virtud que el noble ser ostenta,\nen el **arte** que, fértil, nos cimenta\nlo eterno en un fugaz presente.\n\nEl lienzo te persigue,\nla música te eleva,\nla estatua te modela\ncon un cincel que al mármol lo desvela.\nTu eco vive y sigue\nen la palabra que el sentir consuela,\ny en el verso que vibra, fiel testigo\nde cuanto el alma en su fulgor revela.\nEres, al fin, el alma del misterio,\nun don del universo,\nla luz que da criterio\na nuestro errante paso;\nel dulce, claro abrazo\nque unifica lo disperso.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "arte"
+  }
+}

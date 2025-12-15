@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Caminas por mis sueños como una sombra que se niega a desvanecerse.\nEres el fantasma de lo que fuimos, proyectado en las paredes de mi mente.\nAunque el sol brille alto, tu recuerdo trae el frío del atardecer.\nVivo persiguiendo una sombra que se escapa entre mis dedos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

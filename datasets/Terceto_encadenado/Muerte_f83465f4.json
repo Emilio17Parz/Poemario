@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida cede al fin su dulce empeño,\nun velo frío que la noche crea,\nal desatar del alma cada sueño.\n\nLa ausencia calla, el corazón descrea\nante el abismo que el final desvela,\ny en el silencio su verdad moldea.\n\nNi voz ni rastro, solo una cancela\npor donde pasa el hálito postrero,\nque el tiempo antiguo con su paso cela.\n\nSe torna polvo el ser que fue certero,\nun eco tenue que se va perdiendo,\nen la quietud de un tránsito severo.\n\nEl mundo mira al fin, callado, ardiendo\nen la penumbra de un adiós profundo,\nla luz se apaga, lentamente, extinguiendo.\n\nY de esta escena, ya no queda mundo,\nsolo la sombra vaga, fiel hermana,\nde un ser que fue, en el viaje sin segundo.\n\nEn la memoria tenue y soberana,\nun eco queda, frágil, tembloroso,\nde aquella vida que se fue temprana.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

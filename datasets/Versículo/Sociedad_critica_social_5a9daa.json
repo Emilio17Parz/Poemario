@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Corremos hacia adelante sin mirar el precipicio, llamando progreso a la velocidad con la que destruimos.\nHemos conquistado el espacio y el átomo, pero aún no hemos aprendido a conquistar nuestro propio egoísmo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "progreso"
+  }
+}

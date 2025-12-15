@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Allá visten de gala,\ny hablan con doblez,\naquí la sencillez,\nes nuestra sala.\n\nLa mentira tala,\nel alma pura,\ny la locura,\nse instala.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "corte"
+  }
+}

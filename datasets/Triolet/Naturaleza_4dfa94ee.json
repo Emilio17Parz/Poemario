@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque susurra un secreto,\nCon el suave suspiro del viento.\nEl bosque susurra un secreto,\nDonde el musgo viejo y quieto,\nCon el suave suspiro del viento,\nCanta el arroyo contento.\nEl bosque susurra un secreto,\nCon el suave suspiro del viento.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "viento"
+  }
+}

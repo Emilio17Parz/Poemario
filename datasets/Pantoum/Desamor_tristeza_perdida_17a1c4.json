@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La daga por la espalda,\nclavada sin compasión.\nSubiendo por la falda,\nrompiendo el corazón.\n\nClavada sin compasión,\nla confianza se murió.\nRompiendo el corazón,\nlo que el amor construyó.\n\nLa confianza se murió,\nsubiendo por la falda.\nLo que el amor construyó,\nla daga por la espalda.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "traición"
+  }
+}

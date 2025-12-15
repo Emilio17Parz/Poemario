@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vamos a la playa, decían,\nserá relajante y bello,\npero tengo arena en el cuello,\ny quemaduras que ardían.\nLos niños gritan y lían,\nla toalla es un atropello,\ny me ha picado un camello,\n¡qué vacaciones, tía!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "playa"
+  }
+}

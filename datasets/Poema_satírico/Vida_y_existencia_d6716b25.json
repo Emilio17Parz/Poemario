@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dices que te falta tiempo,\npara cultivar el templo.\nPero pasas cinco horas,\nviendo series invasoras.\nNo es que el tiempo sea tirano,\nes que eres un vago, hermano.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acaba el tiempo\nreloj de arena roto\ngrno final.\nNo hay forma de comprar\nun minuto de vida.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

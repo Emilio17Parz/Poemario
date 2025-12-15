@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres un libro infinito que nunca termino de leer, lleno de páginas secretas y notas al margen.\nCada día descubro un nuevo matiz en tu alma, un misterio que me invita a seguir explorándote para siempre.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

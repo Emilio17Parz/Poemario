@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cascada cristalina,\ntu risa rompe el gris de la mañana;\nrepica cual campana\nen la colina.\nSi ríes tú, el mundo se ilumina,\ny el dolor se termina.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "risa"
+  }
+}

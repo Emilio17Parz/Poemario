@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi vida es una barca sin velas ni mástil en el mar salado,\nsoy el náufrago solo que el tiempo ha olvidado.\nMe ahogo en el silencio, me pierdo en el azul,\nla vida sin la calma, el suave tul.\n\nNo tengo el camino, no tengo el valor,\nla vida sin la calma, el cruel fulgor.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "náufrago"
+  }
+}

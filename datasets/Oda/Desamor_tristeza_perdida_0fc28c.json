@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Polvo de lo que fue fuego,\nresiduo del amor,\nya sin calor,\nsin esperanza ni ruego.\nLo que queda al final,\nde este amor fatal.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

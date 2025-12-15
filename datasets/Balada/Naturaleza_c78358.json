@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se viste de oro la arboleda,\ny cae la hoja con lentitud,\nel aire fresco se nos enreda,\ny cambia el tono de la actitud.\nNostalgia dulce de luz dorada,\nque anuncia el frío que va a venir,\nla tierra queda ya preparada,\npara en el sueño del invierno dormir.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

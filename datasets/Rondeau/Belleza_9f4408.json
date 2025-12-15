@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo en calma,\ntoca el alma.\nEquilibrio,\nsin delirio,\nde palma.\n\nSe empalma,\nla salma.\nEl lirio,\ntodo en calma.\n\nSe desalma,\nla jalma.\nEl cirio,\ndel martirio,\nensalma,\ntodo en calma.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

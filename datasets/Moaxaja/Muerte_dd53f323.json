@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Duerme en la tumba,\nque no retumba.\n\nSilencio eterno,\nfrío invierno,\ndel gobierno,\nque se derrumba.\n\nDuerme en la tumba,\nque no retumba.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

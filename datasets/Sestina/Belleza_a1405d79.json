@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Busca el mundo armonía,\nequilibrio de las partes,\npara ser bello y justo.\nEs el supremo gusto,\nencontrar la proporción,\nque ordena el caos.\n\nOrdena el caos,\nla armonía,\ny la razón.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

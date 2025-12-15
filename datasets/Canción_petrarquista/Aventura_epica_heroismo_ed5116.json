@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Soltar la amarra y velas,\ny entrar en el océano temido;\njamás vencido\npor las estelas\nde naves que naufragaron ayer;\nquerer ver\nlo que nadie ha mirado,\nes el destino del osado.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

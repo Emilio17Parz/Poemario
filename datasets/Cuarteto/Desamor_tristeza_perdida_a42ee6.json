@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La herida es profunda, no quiere cerrar,\nla ausencia es un clavo en mi corazón,\nsin tu amor no sé cómo voy a estar,\nperdido, sin rumbo, sin razón.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Herida"
+  }
+}

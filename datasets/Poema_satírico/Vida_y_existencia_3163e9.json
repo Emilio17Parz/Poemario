@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dos semanas de estrés,\npara luego volver,\npeor que al revés,\nal duro deber.\nDescansar cansa mucho,\ndice el ser debilucho.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Vacaciones"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "RICO 1: ¡Qué exquisito vino, qué manjar!\nRICO 2: Brindemos por el bienestar.\nSIRVIENTE: Señor, hay gente pidiendo afuera.\nRICO 1: Que se vayan, qué majadera.\nSIRVIENTE: Dicen que tienen hambre atroz.\nRICO 2: Tira las sobras, y alza la voz.\nQue coman lo que cae de la mesa.\nRICO 1: La pobreza ajena no me pesa.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sobras"
+  }
+}

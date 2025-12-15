@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nadie ha visto al viento,\npero todos hemos visto su furia\no su caricia.\nEs la mano invisible\nque peina los trigales\ny empuja los barcos,\nel aliento del mundo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "viento"
+  }
+}

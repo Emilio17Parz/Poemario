@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el río,\ncon mucho brío,\nhacia la mar,\nsin descansar,\nen el estío.\n\nNo siente frío,\ncorre el río.\n\nEs un navío,\nde mi albedrío,\nque va a cantar,\ny a murmurar,\nsu desvarío.\nCorre el río.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "río"
+  }
+}

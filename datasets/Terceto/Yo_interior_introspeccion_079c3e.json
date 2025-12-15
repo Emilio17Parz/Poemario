@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El miedo es un muro que no quiero derribar (A),\nme enseña el peligro, me da el valor (A),\nla forma de al fin amar (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Miedo"
+  }
+}

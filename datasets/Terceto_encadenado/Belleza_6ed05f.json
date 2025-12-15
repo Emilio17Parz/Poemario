@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Colores que se combinan,\nformando un paisaje ideal,\nque los ojos fascinan.\n\nUn mundo no terrenal,\nsurge de la mano experta,\ncon un brillo especial.\n\nY el alma despierta.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se abre la margarita\ncon el rocío,\nvestida de colores\nfrente al vacío.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "flor"
+  }
+}

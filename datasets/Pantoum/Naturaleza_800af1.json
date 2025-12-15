@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Teje el ave en la rama,\nsu casa de paja y pluma,\ndonde su cría reclama,\nentre la niebla y la bruma.\n\nSu casa de paja y pluma,\nseguro pequeño hogar,\nentre la niebla y la bruma,\npara enseñar a volar.\n\nSeguro pequeño hogar,\ndonde su cría reclama,\npara enseñar a volar,\nteje el ave en la rama.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "rama"
+  }
+}

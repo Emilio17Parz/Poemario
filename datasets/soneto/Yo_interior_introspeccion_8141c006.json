@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "El velo tenue de la carne ajena\nMe invita al viaje sin salir de aquí,\nDonde un espejo el alma me sentí,\nY mi verdad más íntima se estrena.\nLa voz callada que mi ser condena,\nO alza en silencio lo que fui o seré,\nEn cada pliegue de mi ser la hallé,\nProfunda y quieta, plena de una pena.\n\nEs la *mente* un jardín, senda y prisión,\nQue teje sueños, miedos y razón,\nUn universo que mi yo sostiene.\nEn cada pulso vibra mi lección,\nBuscar el centro de la sensación,\nY comprender lo que mi espíritu viene.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mente"
+  }
+}

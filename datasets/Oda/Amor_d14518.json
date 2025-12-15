@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuento las horas lentas,\nhasta que vuelvas a mí,\npensando solo en ti,\nen medio de las tormentas.\nLa espera se hace flor,\ncuando llega el amor.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "espera"
+  }
+}

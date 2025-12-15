@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Corta el hilo la señora,\ncon tijeras de cristal,\ny una vida se detiene\nen el mundo terrenal.\nNo mira si es rey o pobre,\nsi es bueno o criminal,\nsu trabajo es decisivo,\npreciso y fundamental.\nNos lleva a la otra orilla,\ncruzando el gran arenal,\ndonde empieza el misterio\ndel juicio final.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "hilo"
+  }
+}

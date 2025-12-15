@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El viaje es largo, lleno de pruebas,\nde monstruos y sombras que quieren parar,\npero el héroe sabe que las muevas,\nson el precio de un nuevo lugar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

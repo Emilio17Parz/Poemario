@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Una gota cae lenta,\nrodando por la mejilla.\nEs una lluvia violenta,\nque dobla mi rodilla.\n\nRodando por la mejilla,\nsabor a sal y dolor.\nQue dobla mi rodilla,\nperdiendo todo el color.\n\nSabor a sal y dolor,\nes una lluvia violenta.\nPerdiendo todo el color,\nuna gota cae lenta.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

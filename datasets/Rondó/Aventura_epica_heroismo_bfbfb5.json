@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Viejo cuento,\nque se narra,\nla garra,\ndel viento.\nEl asiento,\nde la parra.\nViejo cuento.\n\nHazañas grandes,\nrecordadas,\namadas,\nlos Andes.\nQue mandes,\nlas hadas.\nViejo cuento.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "cuento"
+  }
+}

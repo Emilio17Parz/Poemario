@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La tierra te cubre, el dolor me consume y me va ya,\nla vida sin la calma que el tiempo me da.\nLa tumba es el hueco de mi roto corazón fiel,\nla vida sin la calma, con sabor a hiel.\n\nLloro por el mármol, frío y sin calor,\nla vida sin la calma, sin ningún fulgor.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres la dueña de mi propia alma,\núnico puerto que me brinda calma,\neres del triunfo la dorada palma,\ngloria bendita.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "alma"
+  }
+}

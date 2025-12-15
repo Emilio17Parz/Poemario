@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La nave se rompió,\ncontra la roca negra,\ny la muerte se alegra,\nde lo que ocurrió.\nSolo yo quedó,\nflotando en el madero,\ncomo un pasajero,\nde la soledad,\nen la inmensidad,\ndel mar traicionero.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dices que soy tu princesa,\ncuando la luz está prendida,\npero al quedarse dormida,\ntu nariz es una empresa.\nSuena como una frambuesa,\naplastada y comprimida,\nel amor pierde la vida,\nante tal ruido en la mesa.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "ronquido"
+  }
+}

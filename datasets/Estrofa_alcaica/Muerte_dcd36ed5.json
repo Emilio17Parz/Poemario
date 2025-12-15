@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando la sombra fría nos reclama,\nY el pulso débil ya no encuentra brío,\nSe va la existencia,\nMas queda la memoria fiel.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

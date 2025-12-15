@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La fortaleza es el ancla, la roca sin fin (A),\nque no se doblega, que sabe luchar (A),\nel eterno y puro jazmín (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Fortaleza"
+  }
+}

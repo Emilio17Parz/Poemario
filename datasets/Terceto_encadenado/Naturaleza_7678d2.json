@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar rompe bravo sobre la roca leal (A),\nel azul profundo de su inmensidad (B),\nla eterna y dulce verdad total (A).\n\nLa ola que viene, la gran tempestad (B),\nsu voz es un canto, sin un error (C),\nla esencia de la libertad (B).\n\nNo hay más que buscar, no hay más fulgor (C),\nque el agua que limpia la mente y la fe (D),\nla fuente de todo valor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

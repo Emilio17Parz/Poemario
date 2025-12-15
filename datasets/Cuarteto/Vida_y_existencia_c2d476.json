@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Por qué respiramos aire?\n¿Cuál es la meta final?\nEs la pregunta vital,\nque nos causa el desaire.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

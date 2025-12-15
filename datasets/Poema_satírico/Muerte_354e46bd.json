@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Parca, con su guadaña, ya no es fiera,\nni espectro tembloroso, ni terror;\nes más bien una gestora de cartera,\ncon tablas Excel y un mal humor.\n\nEl sabio esconde su calva en mil dietas,\nel rico compra elixir de juventud;\nel mísero implora con sus piruetas,\nmientras se aferra a su vana virtud.\n\nMas ella, sorda a cualquier vil excusa,\nno atiende a mérito, ni a condición;\ncon pulso firme, la última luz difusa,\ny firma el acta sin más discusión.\n\nDespués no hay trono, ni infierno, ni Edén,\ntan solo un trámite, un gris papeleo;\nla ficha en cola, un número también,\ny un hueco absurdo en el gran Coliseo.\n\nLa fama, el oro, el ansia sin medida,\ntodo se esfuma con un leve vaivén;\nla *sombra* final, del polvo, ya es sabida,\ny el chiste amargo: al fin, nos va muy bien.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

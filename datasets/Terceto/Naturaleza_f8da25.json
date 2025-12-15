@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La noche extiende su manto estrellado,\ntodo descansa tranquilo y callado,\nbajo la cúpula de la virtud.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "noche"
+  }
+}

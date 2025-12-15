@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco mi verdad,\nentre tanta mentira,\nmi alma suspira,\npor la libertad.\nLejos de la vanidad,\nmi espíritu mira.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

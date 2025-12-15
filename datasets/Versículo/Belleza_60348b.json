@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo que danza se convierte en fuego y viento, liberándose de la pesada cadena de la gravedad.\nEs la celebración del movimiento, la liturgia de la carne que reza girando y saltando hacia el cielo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "danza"
+  }
+}

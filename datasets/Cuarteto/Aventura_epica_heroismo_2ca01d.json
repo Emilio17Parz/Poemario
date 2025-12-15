@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Navega en el mar, el bravo y audaz ser,\ncontra la tormenta, contra el vendaval,\nla fuerza que impulsa el querer vencer,\nel alma que es ya inmortal.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

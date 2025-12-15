@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Viva la lucha del día a día!\nEl sudor santo del trabajar,\nel no rendirse y continuar,\ncon esperanza y con valentía.\n\nGloria al hombre que se levanta,\ntras la caída y el tropiezo,\nque siempre empieza su comienzo,\ny ante el miedo nunca se espanta.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "esfuerzo"
+  }
+}

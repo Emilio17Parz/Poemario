@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Espejo,\nrefleja.\nEl viejo,\nespejo.\nSe aleja,\ncomplejo.\nEspejo,\nrefleja.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

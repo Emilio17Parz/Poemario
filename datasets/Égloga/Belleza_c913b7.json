@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No hay en la corte dama tan fina,\ncomo Amarilis con su cayado,\nque con su paso por el sembrado,\nhasta a las flores mismas domina.\n\nSu luz el valle entero ilumina,\ny los pastores quedan prendados,\nde sus cabellos al sol dorados,\ny de su gracia tan peregrina.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "pastora"
+  }
+}

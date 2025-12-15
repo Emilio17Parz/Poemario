@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "A solas con mi ser,\ndonde puedo sentir y comprender.\nSin ruidos exteriores,\nmis miedos y amores.\nDiálogo con el alma\ndonde encuentro por fin la dulce calma.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

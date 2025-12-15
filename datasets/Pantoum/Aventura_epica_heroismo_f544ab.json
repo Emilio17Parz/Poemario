@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Muros de piedra alta,\ntorres tocan el cielo.\nLa defensa no falta,\nvigila con recelo.\n\nTorres tocan el cielo,\nfortaleza imponente.\nVigila con recelo,\nal ejército enfrente.\n\nFortaleza imponente,\nmuros de piedra alta.\nAl ejército enfrente,\nla defensa no falta.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "castillo"
+  }
+}

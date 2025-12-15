@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor me da paz,\nMi corazón te añora,\nPuro sentir.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

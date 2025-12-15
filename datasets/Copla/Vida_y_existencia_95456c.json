@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es frágil y fiel (a),\nun cristal que se va a romper (b),\nla forma es un trago de miel (c),\nsin la fuerza de vencer (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Frágil"
+  }
+}

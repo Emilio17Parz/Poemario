@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Azul infinito,\nque ondea su vestido de espuma;\nse esfuma,\nel grito.\nBelleza salvaje que nos aterra,\ny nos aferra.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mar"
+  }
+}

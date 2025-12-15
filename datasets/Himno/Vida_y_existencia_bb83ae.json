@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Luz que disipas la sombra y el dolo,\ntan pura y radiante como el mismo Apolo!\nBuscarte es la meta de la inteligencia,\ny hallarte es la paz de la humana conciencia.\n\n¡Loor a la verdad, aunque sea dura,\npues ella es la fuente de toda cordura!\nQuien vive en mentira construye en arena,\ny arrastra por siempre pesada cadena.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

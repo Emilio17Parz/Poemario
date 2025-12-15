@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol se rinde, púrpura y ceniza,\nSobre la tierra que el silencio habita.\nLa brisa antigua un lamento divisa,\nY el corazón del tiempo se marchita.\n\nLas hojas viejas, túnicas de otoño,\nCaen sin queja sobre el lecho frío.\nSu verde brillo, su postrer retoño,\nSe vuelve polvo, sueño de vacío.\n\nEl viejo **bosque**, con su alma de antaño,\nSiente la herida que el progreso siembra.\nSus altos troncos, víctimas del daño,\nVen el silencio que en sus copas tiembla.\n\nLa flor que muere renacerá mañana,\nMas no la misma esencia, el mismo aliento.\nEs la partida de la vida temprana,\nUn hondo hueco que no llena el viento.\n\nAsí se esfuma cuanto fue verdor,\nLa melodía oculta en la neblina.\nY queda el eco de un antiguo amor,\nPor esta tierra que se desmorona.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

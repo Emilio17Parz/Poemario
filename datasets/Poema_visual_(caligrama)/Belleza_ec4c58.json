@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Arco de luz\nsiete colores\npuente aéreo\ntras la lluvia\npacto de sol\nmaravilla\nvisual.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "color"
+  }
+}

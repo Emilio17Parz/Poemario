@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hilos mueven nuestra suerte,\nmanos que no podemos ver.\nDesde la cuna a la muerte,\ntodo empieza a suceder.\n\nManos que no podemos ver,\ntrazan rutas en el mapa.\nTodo empieza a suceder,\ny nadie se escapa.\n\nTrazan rutas en el mapa,\ndesde la cuna a la muerte.\nY nadie se escapa,\nhilos mueven nuestra suerte.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "destino"
+  }
+}

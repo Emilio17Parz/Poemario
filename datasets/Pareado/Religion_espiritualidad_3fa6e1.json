@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La luz divina que todo lo inunda sin un final (A),\nque rompe la sombra, el bien total (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

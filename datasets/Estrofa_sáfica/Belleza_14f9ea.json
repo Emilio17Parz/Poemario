@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo en su sitio, nada desafina,\norden perfecto, paz y proporción,\nes la belleza en su condición,\ngran equilibrio.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

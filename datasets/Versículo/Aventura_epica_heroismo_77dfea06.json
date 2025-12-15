@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Los que descienden al mar en naves, y hacen negocio en las muchas aguas, ellos han visto las obras del Señor, y sus maravillas en las profundidades.\nPues habló, e hizo levantar un viento tempestuoso, que encrespó sus ondas; suben a los cielos, descienden a los abismos.\nEntonces claman al Señor en su angustia, y los libra de sus aflicciones; cambia la tempestad en sosiego, y se apaciguan sus ondas.\nDominará de mar a mar, y desde el río hasta los confines de la tierra; ante él se postrarán los moradores del desierto.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "mar"
+  }
+}

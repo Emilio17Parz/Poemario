@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pasan los años,\ncon daños,\ny canas,\nmañanas,\ny engaños.\n\nLos peldaños,\ny los baños,\nlejanas,\nPasan los años.\n\nLas ganas,\ny las lanas,\nrebaños,\nestaños,\nhermanas,\nPasan los años.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "años"
+  }
+}

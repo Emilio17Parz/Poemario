@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Lo que niego y lo que escondo,\nlo que no quiero aceptar,\nel monstruo del ultramar,\nque vive en lo más hondo.\n\nMe persigue si respondo,\ny si intento escapar,\nse vuelve a levantar,\ncon un peso redondo.\n\nMi sombra soy yo también,\nla parte oscura y fría,\nque no busca el bien.\n\nDebo abrazarla un día,\npara que el alma den,\nsu completa armonía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

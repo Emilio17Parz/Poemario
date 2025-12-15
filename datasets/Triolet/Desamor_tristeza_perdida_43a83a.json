@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Queda solo la ceniza,\nDel fuego de la pasión,\nQue el viento hoy atomiza.\nQueda solo la ceniza,\nUna huella que desliza,\nPor mi pobre corazón.\nQueda solo la ceniza,\nDel fuego de la pasión.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El otoño viste de ocres y rojos,\nla alfombra de hojas cruje al andar,\ndesnuda los árboles con sus antojos,\npara al fin la nieve poder esperar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Otoño"
+  }
+}

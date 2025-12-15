@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Salgo a lo desconocido,\nsin mapa ni dirección,\ncon la sola intención,\nde no darme por vencido.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

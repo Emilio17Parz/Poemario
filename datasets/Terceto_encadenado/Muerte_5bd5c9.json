@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te traigo rosas para tu descanso,\naunque no puedas oler su perfume,\nen este gesto triste y manso.\n\nEs el cariño que se resume,\nen la belleza de la flor,\nque con el tiempo también se consume.\n\nSin perder su valor.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "flores"
+  }
+}

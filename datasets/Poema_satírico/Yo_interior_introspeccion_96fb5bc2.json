@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco mi propósito,\nen el sofá,\nviendo series,\ndel más allá.\nQuizás mi destino,\nsea descansar,\ny dejar al mundo,\nsin molestar.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "propósito"
+  }
+}

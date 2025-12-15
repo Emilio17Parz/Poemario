@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "OSCURIDAD\n O S C U R I D A D\n   O S C U R I D A D\n         LUZ",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "luz"
+  }
+}

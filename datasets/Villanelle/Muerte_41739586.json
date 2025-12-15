@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedra de mármol bajo el ciprés,\nguarda los restos de quien fue ayer,\nsímbolo frío del después.\n\nNadie pregunta el cómo o el qué,\ncuando se viene a fenecer,\npiedra de mármol bajo el ciprés.\n\nAquí terminan el rey y el marqués,\ny el pordiosero al caer,\nsímbolo frío del después.\n\nReina el silencio con interés,\ny nada puede renacer,\npiedra de mármol bajo el ciprés.\n\nFlores marchitas a los pies,\ndejan su aroma perecer,\nsímbolo frío del después.\n\nTodo se acaba en un revés,\npara en la tierra desaparecer,\npiedra de mármol bajo el ciprés,\nsímbolo frío del después.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

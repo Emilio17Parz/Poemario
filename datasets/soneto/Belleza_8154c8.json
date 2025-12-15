@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piedra fría que el fuego hizo,\nbrillante, dura y preciosa,\nuna lágrima luminosa,\nque causa un fuerte hechizo.\n\nAdorno que el hombre quiso,\npara sentirse gran cosa,\nvanidad esplendorosa,\nque brilla en el paraíso.\n\nMas la joya verdadera,\nno se compra con dinero,\nni se guarda en la cartera.\n\nEs el amigo sincero,\nla lealtad compañera,\ny el amor verdadero.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "joya"
+  }
+}

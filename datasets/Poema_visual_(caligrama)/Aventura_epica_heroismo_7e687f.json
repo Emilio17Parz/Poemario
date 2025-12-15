@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Crin al viento\nlomo fuerte\npatas veloces\ngalope suena\nnoble bestia\nlleva al guerrero\na la lucha.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

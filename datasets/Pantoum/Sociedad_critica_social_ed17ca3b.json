@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele mirar la pobreza,\nen las calles de la ciudad,\nque golpea con dureza,\nla humana dignidad.\n\nEn las calles de la ciudad,\nfalta el pan y el abrigo,\nla humana dignidad,\nno tiene ningún amigo.\n\nFalta el pan y el abrigo,\nduele mirar la pobreza,\nno tiene ningún amigo,\nque golpea con dureza.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

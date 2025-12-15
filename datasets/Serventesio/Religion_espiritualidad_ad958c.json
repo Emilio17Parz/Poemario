@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El alma busca a Dios,\ncomo el ciervo la corriente,\ndiciendo al mundo adiós,\npara ser diferente.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "alma"
+  }
+}

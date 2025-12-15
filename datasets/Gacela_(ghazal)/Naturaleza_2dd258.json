@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Muere la tarde en el atardecer,\ncielo de fuego en el atardecer.\n\nLas sombras se alargan buscando la noche,\npaz y sosiego en el atardecer.\n\nEl día se apaga con dulce tristeza,\npoema de luz es el atardecer.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

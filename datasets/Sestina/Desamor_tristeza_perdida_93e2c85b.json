@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Resuena en la casa tu frío adiós,\nrompiendo el cristal de la calma,\ndejando pedazos de ayer.\nYa no sé qué debo hacer,\ncon este silencio que grita,\ny la puerta cerrada al final.\n\nCerrada al final,\ntras el adiós,\nmi alma se agita.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

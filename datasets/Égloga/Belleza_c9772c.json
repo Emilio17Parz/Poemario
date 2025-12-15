@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baña la luna el campo dormido,\ncon una plata suave y lechosa,\nvolviendo el aire color de rosa,\ncon un silencio desconocido.\n\nTodo lo feo queda escondido,\nbajo este manto de claridad,\nque da al paisaje solemnidad,\ny un resplandor nunca percibido.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luna"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Despierto y veo tu rostro en calma,\nel sol dibuja sombras doradas.\nTocas el fondo de mi propia alma,\ncon esas manos tan delicadas.\n\nEl sol dibuja sombras doradas,\nsobre la almohada de nuestro lecho.\nCon esas manos tan delicadas,\nsiento la paz aquí en mi pecho.\n\nSobre la almohada de nuestro lecho,\ntocas el fondo de mi propia alma.\nSiento la paz aquí en mi pecho,\ndespierto y veo tu rostro en calma.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

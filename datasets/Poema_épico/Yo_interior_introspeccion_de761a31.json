@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En el gran silencio,\nhallé mi voz,\nno era feroz,\nlo que presencio.\nTodo sentencio,\ncon paz atroz,\ny soy veloz,\ncuando venzo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

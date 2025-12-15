@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[LA ESPOSA]\nMe dijiste que me amabas, y yo te creí. No fue un error, fue una lección.\nMe enseñaste a abrir el corazón, a confiar en el abismo.\nAhora, aunque te vayas, llevo tu luz. Gracias. Y adiós.\nTu partida me hizo más fuerte de lo que tu presencia jamás pudo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "lección"
+  }
+}

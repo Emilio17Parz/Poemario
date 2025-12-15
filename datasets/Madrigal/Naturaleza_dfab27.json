@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las olas vienen y se van, sin pausa,\ncon el rumor de un secreto atroz.\nEl mar es el tiempo, la eterna causa,\nque solo tiene una sola voz.\n\nMe pierdo en la espuma, y siento que el fin,\nes solo el principio, no el confín.\nSu grandeza me da tranquilidad,\nespejo de la inmensidad,\nque cura mi prisa y mi humana pena.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mar"
+  }
+}

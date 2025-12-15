@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mi cuerpo es un jardín que se va a marchitar (A),\nlas flores se caen, el verde sin luz (B),\nla vida es un sueño, sin poder despertar (A),\nel peso de la dura cruz (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Jardín"
+  }
+}

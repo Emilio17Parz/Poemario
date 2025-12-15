@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mandan los viejos a los jóvenes,\na morir lejos en los márgenes,\nde una frontera que no conocen,\npara que otros sus vidas gocen.\nLa guerra es el negocio cruel,\nque escribe sangre en el papel,\nde la historia de la humanidad,\nllena de muerte y de maldad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

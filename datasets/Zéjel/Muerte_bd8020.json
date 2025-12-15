@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dejas tus cosas,\nmariposas.\n\nTodo se queda,\naunque no pueda,\nen la vereda,\nlas rosas.\nDejas tus cosas,\nmariposas.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hay un agujero en el pecho,\nque nada puede llenar,\nni el comer ni el amar,\nni el lecho.\n\nEl trecho,\ndel mar,\ny el par,\ndel hecho.\n\nEs el vacío existencial,\nque nos hace humanos,\ny mortal.\n\nHeranos,\ndel mal,\ny vanos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "agujero"
+  }
+}

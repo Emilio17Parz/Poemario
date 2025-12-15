@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuelga el racimo de la vid,\nlleno de jugo y de dulzor,\nobra maestra del calor,\ny de la tierra en su lid.\n\nVen, pastor, y decid,\ncuál es la joya más preciada,\nsi la gema tallada,\no esta fruta de David.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "fruta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo perfecto es aburrido,\nfrío y poco vivido.\nLa belleza tiene grietas,\narrugas y siluetas.\nEn el defecto y la marca,\nla humanidad se embarca.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "imperfección"
+  }
+}

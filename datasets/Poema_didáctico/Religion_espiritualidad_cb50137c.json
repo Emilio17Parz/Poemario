@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sé humilde como la tierra,\nque todo fruto encierra.\nEl orgullo te hace caer,\nla humildad te hace crecer.\nReconoce tu pequeñez,\nante la divina grandeza.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "humildad"
+  }
+}

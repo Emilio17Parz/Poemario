@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Eres más guapa que el sol\ncuando sale por la mañana,\nmás bonita que la nieve\ny más dulce que la manzana.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Reina de plata en la noche oscura,\nque vigilas el sueño mortal,\nderramas tu pálida hermosura,\nsobre el paisaje fantasmal.\nCambias de forma, creces y menguas,\npero tu brillo siempre es leal,\ncontando historias en mil lenguas,\nsobre tu trono celestial.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "luna"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Oh, Belleza, soplo divino y etéreo,\nque en cada amanecer renace y se eleva,\nsusurro en el viento, destello en el cielo,\npresencia sutil que el alma anhela.\n\nEn la flor que se abre, frágil y vibrante,\nen la cumbre nevada que el sol besa,\nen el río que canta su canción errante,\ntu esencia se muestra, pura promesa.\n\nNo solo eres contorno, ni efímero don,\ntambién vives en la risa, en la mirada franca,\nen el gesto altruista, en el noble corazón,\nluz interna que vence la sombra más blanca.\n\nY el **arte**, con mano que busca lo eterno,\nte plasma en el lienzo, en la música viva,\nen el verso que vuela, mensaje fraterno,\ntu esencia intangible con fuerza cautiva.\n\nAsí, te percibimos, un don y un misterio,\nque eleva el espíritu, calma la aflicción,\neterna verdad en un mundo precario,\nla más dulce y profunda de toda emoción.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El pasado ya no existe,\ny el futuro no viste.\nSolo tienes el ahora,\nvive sin la demora.\nLa presencia es el regalo,\nno lo uses para lo malo.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "presente"
+  }
+}

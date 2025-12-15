@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No cesa mi triste llanto\ndesde que te vi marchar,\nes terrible mi quebranto.\nNo cesa mi triste llanto,\nperdí todo el encanto\ny no dejo de llorar.\nNo cesa mi triste llanto\ndesde que te vi marchar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

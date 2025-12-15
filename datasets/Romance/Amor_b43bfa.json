@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El Calor de tu presencia,\nfue mi única virtud,\nahora siento tu ausencia,\ny no tengo ya quietud.\n\nEl frío me congela lento,\nme quita el valor de ser,\ny solo encuentro el lamento,\nsin un solo gran poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Calor"
+  }
+}

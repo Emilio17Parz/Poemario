@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la luz de mi vida\nque disipa la tiniebla,\ncuando te tengo a mi lado\nse deshace toda niebla.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "luz"
+  }
+}

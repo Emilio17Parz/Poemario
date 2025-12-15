@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guardo el honor,\ncon mucho amor.\n\nCaballero,\nel primero,\ny sincero,\nluchador.\n\nGuardo el honor,\ncon mucho amor.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "honor"
+  }
+}

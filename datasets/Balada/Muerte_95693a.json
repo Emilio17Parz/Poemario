@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Suena la música de difuntos,\ngrave y solemne en la catedral,\nlloran los vivos todos juntos,\npor el que tuvo su funeral.\nLas notas suben hasta la bóveda,\npidiendo paz para el que se fue,\nmientras la vida sigue su rueda,\ny se sostiene solo en la fe.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "réquiem"
+  }
+}

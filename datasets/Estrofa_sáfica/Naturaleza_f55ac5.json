@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro de fuego, rey de la mañana,\ndas a la tierra vida y resplandor,\nvences la noche con tu gran calor,\nluz de la vida.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "sol"
+  }
+}

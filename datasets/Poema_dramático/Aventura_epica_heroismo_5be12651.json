@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "ARTURO: Excálibur, vuelve al lago.\nBEDIVERE: Señor, es un desperdicio amargo.\nARTURO: Haz lo que digo, mi fin se acerca.\nBEDIVERE: Es una joya, la duda es terca.\n(Vuelve) La he tirado, señor.\nARTURO: Mientes, no vi la mano ni el resplandor.\nVe y tírala, cumple tu juramento.\nBEDIVERE: Voy, mi rey, con gran lamento.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "espada"
+  }
+}

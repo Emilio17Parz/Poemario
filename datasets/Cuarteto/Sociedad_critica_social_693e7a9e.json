@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se oye en el aire un desgarrado grito,\nde los que sufren y piden piedad,\nquebrando el muro de la soledad\ncon un lamento que es casi infinito.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "grito"
+  }
+}

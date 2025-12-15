@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El miedo es un muro que no quiero ya derribar (A),\nme enseña el peligro, me da el valor (B),\nla vida es un arte, que debo sanar (A),\nla ausencia de todo temor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Le trajo un ramo de rosas,\nde formas maravillosas.\nElla estornudó,\ny él se asustó,\npor las alergias curiosas.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "flores"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nos sigue siempre desde que nacemos,\nla sombra fiel de nuestro final,\naunque ignorarla siempre queremos,\nes compañera fundamental.\nCuando la luz de la vida cesa,\nella nos cubre con su capuz,\ny nos reclama como su presa,\npara llevarnos lejos de la luz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

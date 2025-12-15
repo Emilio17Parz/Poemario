@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cada segundo cuenta,\nreloj de arena,\nla cuenta aumenta,\ny vale la pena.\nNo mates el tiempo,\npues él te mata a tiempo.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Tiempo"
+  }
+}

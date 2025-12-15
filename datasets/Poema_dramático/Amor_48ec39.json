@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL AMANTE]\nTe lo digo ahora, con el puñal del miedo en la garganta:\nTu sola presencia es la única razón que justifica\nque mi corazón no haya dejado de latir.\nNo soy libre; soy la prisión que tú habitas.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "confesión"
+  }
+}

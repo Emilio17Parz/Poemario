@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La música resuena,\ny el corazón se pone a palpitar,\nquitando la pena,\nal escuchar,\nla melodía que nos hace amar.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "música"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Marchamos firmes hacia el destino,\ncon la cabeza alta y serena,\nrompiendo la duda y la cadena,\nhaciendo huella en el camino.\n\nSea la suerte buena o adversa,\nla voluntad es nuestro escudo,\nante el futuro incierto y mudo,\nla fuerza humana no se dispersa.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos hijos del azar, dados lanzados por una mano invisible sobre el tapete del cosmos.\nPodríamos no haber sido, y sin embargo somos, una improbabilidad maravillosa y absurda.\nNo busques razones donde solo hay coincidencia, acepta el regalo de la casualidad.\nJuega tu mano con las cartas que te han tocado, y haz de tu suerte tu destino.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "azar"
+  }
+}

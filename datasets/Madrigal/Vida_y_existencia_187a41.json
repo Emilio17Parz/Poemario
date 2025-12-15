@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hilo invisible que la vida teje,\nuniendo los azares y la suerte,\nhasta la muerte,\nsin dejar que ninguno se aleje.\nMapa trazado por mano divina,\nque nos inclina,\na caminar la senda señalada,\ny soñada.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "hilo"
+  }
+}

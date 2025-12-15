@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tengo el deseo,\nDe ser feliz,\nEn lo que creo.\nTengo el deseo,\nEn mi paseo,\nCon mi matiz.\nTengo el deseo,\nDe ser feliz.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La segunda muerte es el olvidar,\ncuando nadie te vuelve a nombrar.\nMantén vivos a tus ancestros,\ncon tus relatos y con tus gestos.\nLa memoria es el puente sutil,\nque vence a la muerte y al fusil.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

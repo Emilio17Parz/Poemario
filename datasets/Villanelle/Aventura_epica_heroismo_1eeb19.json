@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sigo la línea trazada,\nen el papel amarillo,\nhacia la meta soñada.\n\nEs la ruta sagrada,\ndel viejo caudillo,\nsigo la línea trazada.\n\nCon la vista clavada,\nen el dibujo sencillo,\nhacia la meta soñada.\n\nNo me importa la helada,\nni el canto del grillo,\nsigo la línea trazada.\n\nMi alma está atada,\nal rumbo y al brillo,\nhacia la meta soñada.\n\nEs la jornada,\nque saca mi brillo,\nsigo la línea trazada,\nhacia la meta soñada.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

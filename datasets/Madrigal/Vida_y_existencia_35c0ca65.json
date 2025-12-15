@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscando la verdad\nentre las sombras de la incertidumbre,\nquiero ver la cumbre\ncon gran claridad.\nSalir de la oscuridad,\ny hallar la lumbre\nque de sentido a la realidad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

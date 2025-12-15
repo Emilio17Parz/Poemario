@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El desierto es un mar de arena dorada,\ndonde el sol castiga con su llamarada.\n\nNo hay sombra ni huella en la inmensa nada,\nsolo el viento que canta su tonada.\n\nEspejismo de agua en la tierra quemada,\nsoledad infinita y desesperada.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "arena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro y veo a un extraño.\n¿Quién habita detrás de mis ojos?\nHay un niño asustado,\nun anciano cansado,\nun monstruo y un santo.\nSoy multitud en un solo cuerpo,\nuna asamblea ruidosa\nque nunca se pone de acuerdo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

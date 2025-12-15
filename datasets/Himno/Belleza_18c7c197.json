@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Loor a la forma, línea perfecta,\nque el universo sabe trazar,\nen la montaña y en el mar,\ny que a lo bello nos conecta.\nGeometría sagrada y pura,\nque nos revela la hermosura.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "forma"
+  }
+}

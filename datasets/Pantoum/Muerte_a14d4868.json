@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El aliento se escapa, un susurro final,\nLa vida se disuelve en sombra y silencio,\nUn frío abrazo rompe el lazo vital,\nEl eco de los vivos, un dolor inmenso.\n\nLa vida se disuelve en sombra y silencio,\nEl tiempo detiene su marcha serena.\nEl eco de los vivos, un dolor inmenso,\nEn la oscura **tumba**, la paz se condena.\n\nEl tiempo detiene su marcha serena,\nLa memoria es un rastro que el viento disipa.\nEn la oscura **tumba**, la paz se condena,\nLa luz de otro mundo, el alma anticipa.\n\nLa memoria es un rastro que el viento disipa,\nUn frío abrazo rompe el lazo vital.\nLa luz de otro mundo, el alma anticipa,\nEl aliento se escapa, un susurro final.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

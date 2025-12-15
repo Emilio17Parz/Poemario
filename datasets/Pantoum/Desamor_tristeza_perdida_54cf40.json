@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pesa la culpa del error,\ncometido sin mala intención,\ncausa de todo este horror,\nrompiendo el corazón.\n\nCometido sin mala intención,\npalabras dichas con ira,\nrompiendo el corazón,\nparece todo mentira.\n\nPalabras dichas con ira,\ncausa de todo este horror,\nparece todo mentira,\npesa la culpa del error.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "error"
+  }
+}

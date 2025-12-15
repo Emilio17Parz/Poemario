@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Parto hacia lo desconocido,\nsin mapa ni dirección,\ncon el ánimo encendido.\n\nBusco mi propia misión,\nen tierras nunca pisadas,\ncon gran determinación.\n\nY jornadas.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

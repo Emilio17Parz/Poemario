@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La educación debería ser encender un fuego, no llenar un cubo vacío con datos muertos.\nPero a menudo fabricamos ladrillos iguales para el muro del sistema, cortando las alas de la creatividad.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "educación"
+  }
+}

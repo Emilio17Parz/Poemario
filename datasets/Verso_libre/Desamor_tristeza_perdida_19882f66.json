@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La ciudad es un campo minado.\nAquí nos besamos,\nallí discutimos,\nen ese banco planeamos un viaje.\nNo puedo caminar dos pasos\nsin pisar un recuerdo explosivo\nque me deja aturdido y solo\nen medio de la multitud.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

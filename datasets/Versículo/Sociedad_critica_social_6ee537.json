@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El silencio se ha convertido en un lujo inalcanzable, ahogado por el rugido constante del progreso.\nNos llenan los oídos de ruido para que no escuchemos el grito de nuestra propia conciencia pidiendo paz.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "ruido"
+  }
+}

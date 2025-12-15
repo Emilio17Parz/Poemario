@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El miedo no me detiene,\nsigo adelante con fe,\nporque el valor me sostiene.\n\nNada me previene,\nde lo que no sé,\nel miedo no me detiene.\n\nEl peligro viene,\ny yo estaré,\nporque el valor me sostiene.\n\nMi alma tiene,\nla fuerza que creé,\nel miedo no me detiene.\n\nSe mantiene,\nlo que soñé,\nporque el valor me sostiene.\n\nMe conviene,\nlo que logré,\nel miedo no me detiene,\nporque el valor me sostiene.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "valor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "LUZ\n                            que\n                           abraza\n                          el cielo,\n                         se despliega\n                        la existencia\n                       en hoja y en suspiro,\n                      un devenir de sueños que\n                     florecen, rama al viento, al sol.\n                    Tiempo, tejedor de mil trayectos,\n                   un constante nacer, un eterno despertar,\n                  el ser que se alza, erguido, contra el azul.\n                 Tronco firme, el ahora, pulso del camino andado.\n                Vivir es savia, memoria en la corteza grabada, sí.\n               Y abajo, hondo, en la tierra oscura y silente,\n              la raíz del **sueño**, un eco profundo, primigenio,\n             que sustenta lo que fue, lo que es, lo que será, lo invisible.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

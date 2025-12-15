@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo relato tiene su última página, todo camino llega a su fin.\nLa muerte no es el enemigo, sino el cierre necesario del círculo.\nSe apaga la lámpara de la conciencia y el cuerpo regresa a la madre tierra.\nEs el fin del dolor y el comienzo del gran misterio.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "fin"
+  }
+}

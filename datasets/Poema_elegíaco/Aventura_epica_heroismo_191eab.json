@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Luché contra el viento, mi esfuerzo no tuvo un fin fiel ni cruel,\nla vida sin la calma, con sabor amargo a hiel.\nLa guerra es el castigo de un dios cruel y sin razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el dolor que mi cuerpo no puede aguantar jamás sin voz ni paz,\ny mi alma es la sombra de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

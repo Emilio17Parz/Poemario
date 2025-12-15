@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Frío de la verdad, de eterno rigor,\nla pena sin sombra, sin gran pavor.\nLa vida se acaba sin un fulgor,\nla ausencia es cruel, sin amor.\n¡Oh, helada amarga, de esencia real,\nme das la paz y el mal!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

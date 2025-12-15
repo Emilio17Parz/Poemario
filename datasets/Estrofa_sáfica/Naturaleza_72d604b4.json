@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llanto del cielo que la tierra bebe,\nagua bendita para el campo seco,\nsuena en el techo con compás monótono\ntriste su eco.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

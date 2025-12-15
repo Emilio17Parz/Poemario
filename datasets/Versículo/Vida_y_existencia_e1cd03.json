@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corremos hacia la meta como si al llegar nos fueran a entregar el secreto de la felicidad eterna.\nPero la meta es solo una línea pintada en el suelo; la vida real sucede en el sudor y el polvo del trayecto.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "meta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La **GLO**-ria nos lla-**MA** con su can-to **AN**-ti-guo,\nPor **RUM**-bos de le-**YEN**-da, don-de el va-**LOR** na-ce,\nMi **ES**-pa-da, fiel com-**PA**-ñe-ra, ven-ce la **SOM**-bra,\n**DUN**-de el des-**TI**-no.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "espada"
+  }
+}

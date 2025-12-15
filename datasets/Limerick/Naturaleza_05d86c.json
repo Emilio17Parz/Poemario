@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El volcán con fuego que arde,\nsu furia que el tiempo no guarde.\nEs fuerza brutal,\nsin nada de mal,\nel poder que a nadie acobarde.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Volcán"
+  }
+}

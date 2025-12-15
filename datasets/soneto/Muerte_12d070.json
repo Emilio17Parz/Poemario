@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Más triste que morir es olvidar,\nser borrado de toda memoria,\ncomo si nunca existiera historia,\nni huella que se pudiera pisar.\n\nLa segunda muerte ha de llegar,\ncuando nadie cante tu gloria,\ny se pierda tu pena y victoria,\nen el vasto y profundo mar.\n\nLucho contra la nada absoluta,\nescribiendo mi nombre en la piedra,\naunque la hiedra la ejecuta.\n\nEl tiempo voraz todo lo arredra,\ny al final, en la oscura gruta,\nel olvido sobre todo medra.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

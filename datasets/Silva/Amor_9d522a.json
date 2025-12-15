@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Perdona mi fallo,\nsi te hice llorar,\nquiero reparar,\nlo que ahora callo.\nNo soy vasallo,\nde la incomprensión,\npido tu perdón,\npara que nuestro amor sea tallo.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

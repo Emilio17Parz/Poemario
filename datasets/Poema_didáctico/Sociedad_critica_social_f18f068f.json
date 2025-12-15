@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La justicia debe ser ciega,\na todos por igual llega.\nSin mirar raza o dinero,\nsé justo, sé verdadero.\nSi la ley se tuerce hoy,\nmañana víctima soy.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

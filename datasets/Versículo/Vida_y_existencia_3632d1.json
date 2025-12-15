@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La duda es el motor que me impide estancarme en la comodidad de las certezas falsas.\nCuestionar el camino es la única manera de asegurarse de que no estamos caminando hacia un abismo con los ojos vendados.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "duda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan trompetas de guerra,\nel campo se tiñe de rojo,\ny el miedo al alma se aferra.\n\nLa muerte vaga por la tierra,\nrecogiendo su despojo,\nsuenan trompetas de guerra.\n\nEl grito en la garganta se cierra,\nante el terrible enojo,\ny el miedo al alma se aferra.\n\nLucha en el llano y la sierra,\nsin piedad ni sonrojo,\nsuenan trompetas de guerra.\n\nLa paz el hombre destierra,\npor un capricho y antojo,\ny el miedo al alma se aferra.\n\nTriste final que aterra,\nviendo el cadáver flojo,\nsuenan trompetas de guerra,\ny el miedo al alma se aferra.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

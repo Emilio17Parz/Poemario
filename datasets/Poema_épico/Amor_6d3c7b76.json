@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La reina de Egipto en su barco de oro,\nnavega al encuentro del gran general,\nun amor que sería fatal,\npero brillante como un tesoro.\nAntonio y Cleopatra, en un solo coro,\ndesafiaron a Roma y su mal,\ny prefirieron el fin funeral,\na vivir sin el otro en desdoro.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "reina"
+  }
+}

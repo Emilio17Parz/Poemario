@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Palabra triste que rompe el lazo,\ny deja el alma en un solo pedazo.\nDespedida eterna sin un regreso,\nque sella los labios con frío beso.\n\n¡Ay, último adiós que no tiene vuelta,\ndejando la puerta de la pena suelta!\nSe va el viajero a la ignota región,\ndejando vacía la habitación.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

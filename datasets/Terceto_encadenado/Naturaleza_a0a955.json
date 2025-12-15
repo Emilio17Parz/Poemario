@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El árbol es vida, sus ramas al cielo van (A),\nsu sombra es refugio con gran fulgor (B),\nla fuerza que el destino le da (A).\n\nEl eterno y noble y puro valor (B),\nla calma que viene a mi alma a sanar (C),\nla esencia del gran amor (B).\n\nPor él mi alma vive, mi ser tiene razón (C),\nla fuerza que impulsa mi fiel corazón (D),\nla clave de la gran lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Árbol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Último beso, mano que se enfría,\nllanto en los ojos, triste despedida,\nparte hacia el reino de la otra vida,\nadiós, amigo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

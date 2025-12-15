@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El premio tras la dura contienda,\noro, joyas y tierras,\npero cuidado con la prebenda,\nque causa nuevas guerras.\nLa riqueza a veces maldice,\nal que la paz no predice.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Botín"
+  }
+}

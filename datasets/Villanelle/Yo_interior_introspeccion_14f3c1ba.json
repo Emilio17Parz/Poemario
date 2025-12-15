@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vive el miedo en mi pecho,\ncomo un animal oscuro,\nque me deja deshecho.\n\nMe acecha en el lecho,\ny contra el muro,\nvive el miedo en mi pecho.\n\nEs un hecho,\nque no estoy seguro,\nque me deja deshecho.\n\nBusco el techo,\ny el conjuro,\nvive el miedo en mi pecho.\n\nCamino estrecho,\ny duro,\nque me deja deshecho.\n\nSin provecho,\nlo supuro,\nvive el miedo en mi pecho,\nque me deja deshecho.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

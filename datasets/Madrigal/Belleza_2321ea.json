@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ventanas donde se asoma el ser,\nlagos profundos de luz y misterio,\nun imperio,\ndonde me gustaría a mí perder.\nHay miradas que valen más que el oro,\ntesoro,\nque guarda la verdad sin disimulo,\nni cálculo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

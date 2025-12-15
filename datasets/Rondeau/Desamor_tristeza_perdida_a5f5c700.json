@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cae mi llanto sin cesar,\ncomo la lluvia en el mar,\nsalado y lleno de pesar,\nque nadie puede consolar,\nni con palabras calmar.\n\nNo paro de recordar,\nlo que solíamos soñar,\ny ahora tengo que llorar,\nCae mi llanto.\n\nEs imposible olvidar,\nla forma de tu mirar,\npero te quisiste marchar,\ny mi vida destrozar,\npor eso en este lugar,\nCae mi llanto.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

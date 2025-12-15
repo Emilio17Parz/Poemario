@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Con alma de guerrero, puro honor,\nSe lanza el campeón, sin un temor,\nLa espada en alto, de valor templada,\nSu mirada al futuro ya enfocada,\nDesafiando al abismo, al opresor.\n\nRecorre la montaña y el fragor,\nQue esconde al mal, con saña y con rencor,\nLa armadura brillante, ya gastada,\nCon alma de guerrero.\n\nVenció al colosal y fiero **dragón**,\nQue hollaba la comarca con terror,\nLa hazaña en cada verso es contada,\nSu leyenda por siempre es alabada,\nUn canto eterno de su gran valor,\nCon alma de guerrero.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

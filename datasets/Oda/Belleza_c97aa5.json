@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Muros que suben,\nrascando el cielo,\nanhelo,\nque nublen.\nRefugio humano,\ny soberano.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "arquitectura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La gran bandera ondea,\nen el viento de la batalla,\nsímbolo de unión.\nLa gente grita victoria,\npor la patria que ama.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Bandera"
+  }
+}

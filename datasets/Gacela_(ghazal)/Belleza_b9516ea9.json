@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Montañas verdes y cielo azul,\ncubiertos de niebla como tul.\n\nPaisaje hermoso de Estambul,\no del valle sur del Abedul.\n\nGuardo esta imagen en el baúl,\nde mi memoria, mi gandul.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "vista"
+  }
+}

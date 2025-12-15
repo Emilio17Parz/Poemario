@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "En un mundo donde la comida se tira a toneladas, el vientre vacío de un niño es un grito que acusa al cielo.\nEl hambre no es una desgracia natural, es un crimen diseñado por la indiferencia y la codicia de los hartos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ausencia profunda, de hueco sin fin,\nla sombra que queda sin un gran don.\nEl alma te busca sin rastro de tin,\nsin la esperanza de una bendición.\n¡Oh, vacío triste, de dura verdad,\nme das la pena y la soledad!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Ausencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Temo a la inevitable sombra,\nque vendrá a segar mi vida,\nes la suerte que el miedo nombra,\ncomo una sentencia decidida.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

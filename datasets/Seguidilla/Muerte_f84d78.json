@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo se nos va,\ny no regresa,\nes una realidad,\nque nos pesa.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "regresa"
+  }
+}

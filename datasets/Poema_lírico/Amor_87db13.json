@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu despertar es el sol,\nmi mejor amanecer.\nLa sombra se retira\ny vuelvo a nacer.\n\nEl mundo se detiene\npara ver tu color,\ny el aire se llena\nde tu dulce amor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "mañana"
+  }
+}

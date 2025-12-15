@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "[EL ADOLESCENTE]\nMi sueño es un gigante que no cabe en la realidad. Es demasiado grande.\nMe piden que lo corte, que lo haga 'práctico', que lo venda al mejor postor.\nPero si renuncio a él, me quedo vacío. Me quedo sin razón de ser.\nEl sueño es la única prueba de que mi alma es libre. Y lo defenderé con mi vida.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

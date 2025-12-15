@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el eterno descanso,\ntras la lucha de vida,\ncomo un río manso,\nse cierra la herida.\n\nTras la lucha de vida,\nya no hay sufrimiento,\nse cierra la herida,\nse lleva el viento.\n\nYa no hay sufrimiento,\ncomo un río manso,\nse lleva el viento,\nllega el eterno descanso.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "descanso"
+  }
+}

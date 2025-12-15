@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se echó un litro de fragancia,\ncon muchísima arrogancia.\nLas moscas cayeron,\ny todos huyeron,\na una enorme distancia.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "perfume"
+  }
+}

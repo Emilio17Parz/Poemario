@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Pesa en el corazón,\nEsta ausencia cruel.\nNegra la sensación,\nAmarga como hiel.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "PENA"
+  }
+}

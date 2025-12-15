@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dormir bajo el cielo abierto,\nes aventura de valientes,\nollendo a los vivientes,\ndel mundo despierto.\n\nEl miedo es algo cierto,\npero se vence con fe,\ny al amanecer se ve,\nel premio del acierto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "noche"
+  }
+}

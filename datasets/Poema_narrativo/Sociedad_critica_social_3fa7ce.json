@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La bota del soldado pisó el pasto crecido,\nEl miedo del esclavo era un ruido escondido.\nLa opresión es el peso que al hombre lo ahoga,\nLa vida sin aire, la gran soga.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "opresión"
+  }
+}

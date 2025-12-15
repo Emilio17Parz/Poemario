@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El destino nos unió en un dulce lazo (A),\ndos almas gemelas, sin un error (A),\nno hay más que amarte a cada paso (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

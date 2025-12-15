@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sube a los cielos el humilde rezo,\ncuando la luz de la aurora empiezo,\nDios me regala su divino beso,\ngracias le doy.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El mapa me da el mal, (A)\nme hunde sin la verdad, (B)\nmi vida ya sin piedad, (B)\nme causa ya un gran mal. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Mapa"
+  }
+}

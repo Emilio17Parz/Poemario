@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La forma es perfecta y luz (a),\nel arte que es ya sutil (b),\nel peso de mi cruel cruz (c),\nla calma que trae abril (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Forma"
+  }
+}

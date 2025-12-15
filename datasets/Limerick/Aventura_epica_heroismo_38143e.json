@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La dicha de la gran victoria,\nes fuerza sin una cruel noria.\nEl fin de la lucha,\nla paz que se escucha,\nla gloria sin una escoria.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Victoria"
+  }
+}

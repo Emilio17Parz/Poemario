@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El cuerpo muere, el alma perdura,\nvuela libre hacia la inmensidad,\nbuscando la pura claridad,\nlejos de la terrena atadura.\n\n¡Gloria al espíritu inmortal!\nQue no se apaga con el postrer suspiro,\nsino que inicia un nuevo giro,\nen la espiral celestial.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "alma"
+  }
+}

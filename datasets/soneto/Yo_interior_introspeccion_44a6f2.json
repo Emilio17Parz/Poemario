@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En el silencio me encuentro a mí,\ncuando callan las voces de fuera,\ny cae la ruidosa barrera\nque en el mundo construí.\n\nEs ahí donde comprendí,\nla verdad que en mí espera,\nde una forma sincera,\nlo que soy y lo que fui.\n\nEl ruido distrae la mente,\npero la calma revela,\nlo que se siente.\n\nUna luz que vela,\ny está presente,\nen mi celda.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "calma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visto de negro,\ny no me alegro.\n\nLloro su ausencia,\ncon impaciencia,\nla sentencia,\ndel suegro.\nVisto de negro,\ny no me alegro.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "luto"
+  }
+}

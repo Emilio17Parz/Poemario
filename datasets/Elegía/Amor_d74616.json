@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cielo que fuiste testigo de mi amor,\nhoy tu azul se ha vuelto gris y cruel.\nTu altura es sombra, tu eterno fulgor,\nes solo recuerdo de amarga hiel.\nLa inmensidad se llena de pena,\nel alma sin luz en la cruel cadena.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Cielo"
+  }
+}

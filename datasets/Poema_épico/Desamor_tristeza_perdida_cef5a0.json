@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Más duele la daga de quien se amó,\nque la lanza enemiga en el costado,\ntu beso fue el judas que me entregó,\nal frío calabozo del desdichado.\nCayó la ciudad, abrieron la puerta,\ny dejaste mi alma vacía y muerta.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Traición"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando la aurora pinta el cielo gris,\nsurge tu imagen, bálsamo para mi ser,\ny un nuevo día mi alma hace feliz.\n\nSurge tu imagen, bálsamo para mi ser,\nlate mi corazón en febril palpitar,\nno hay más consuelo que en ti poder creer.\n\nLate mi corazón en febril palpitar,\nque el tiempo detenga su veloz andar,\nsolo contigo quiero siempre estar.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

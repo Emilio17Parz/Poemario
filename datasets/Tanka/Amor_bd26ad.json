@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres clara fuente,\nque sacia toda mi sed,\nde amor y de paz.\nBebo de tu agua fresca,\ny mi espíritu se calma.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Fuente"
+  }
+}

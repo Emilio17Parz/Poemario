@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Persigo vanamente a una sombra,\nque escapa de mis manos al tocar,\ny mi voz con angustia ya te nombra.\n\nNo puedo este tormento mitigar,\npues eres un fantasma del ayer,\nque vuelve por las noches a pesar.\n\nY me impide volver a renacer.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

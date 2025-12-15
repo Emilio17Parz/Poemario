@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Pagar para que escuchen,\ntus traumas de niño,\npara que no luchen,\ncon tanto aliño.\nCulpa de mi madre,\no culpa de mi padre.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Terapia"
+  }
+}

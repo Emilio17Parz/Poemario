@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor que florece,\nllama de viva pasión,\nluz en mi camino.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hoja de acero forjada en el fuego,\nque no conoce la duda ni el ruego,\nbrazo derecho del gran luchador,\nque la maneja con fuerza y honor.\nHa defendido reinos y vidas,\ny ha provocado mortales heridas,\nes la justicia o es la traición,\nsegún la mano y el corazón.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "espada"
+  }
+}

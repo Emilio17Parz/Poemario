@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla la espada fiel,\nbajo la luz de luna.\nNo hay ninguna,\ncon tal nivel.\n\nCorta el papel,\ny la fortuna.\nBrilla la espada fiel,\nbajo la luz de luna.\n\nDulce miel,\nde la cuna.\nSe aúna,\ncon la piel.\nBrilla la espada fiel.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "espada"
+  }
+}

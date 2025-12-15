@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El viento no trae tu voz, (A)\nmi ser ya sin la razón, (B)\nme causa gran aflicción, (B)\nya no encuentro ya mi voz. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

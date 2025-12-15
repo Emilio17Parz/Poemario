@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un aliento prestado, un soplo de aire que entra y sale de nuestros pulmones rítmicamente.\nSomos frágiles burbujas de conciencia flotando en el océano del tiempo, brillantes y efímeras.\nInspira profundamente y siente el milagro de estar vivo, de sentir el frío y el calor.\nNo desperdicies ni un solo suspiro en el odio o en la queja, porque el aire se acaba.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "aliento"
+  }
+}

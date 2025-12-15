@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Frío está tu lado de la cama,\nsábanas quietas sin arrugar,\nya no se enciende la llama,\nno tengo donde me refugiar.\n\nSábanas quietas sin arrugar,\ntestigos de mi soledad,\nno tengo donde me refugiar,\ncruda y dura es la verdad.\n\nTestigos de mi soledad,\nya no se enciende la llama,\ncruda y dura es la verdad,\nfrío está tu lado de la cama.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Creer que todo es posible,\nes la magia de la vida,\nque hace lo real visible.\n\nUna fuerza desmedida,\nque rompe la limitación,\ny cura cualquier herida.\n\nCon devoción.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "fe"
+  }
+}

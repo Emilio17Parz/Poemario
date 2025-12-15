@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es un don que el alma mueve,\nEn una luz que el mundo ha modelado,\nEn cada forma pura se la eleve.\n\nAsí el espíritu su curso breve\nEn la mirada tierna ha revelado,\nLa belleza es un don que el alma mueve.\n\nCual sueño que a la mente se le llueve,\nUn ideal que nunca ha terminado,\nEn cada forma pura se la eleve.\n\nUn arte que en el tiempo no se atreve\nA disipar lo que el creador ha amado,\nLa belleza es un don que el alma mueve.\n\nLa musa que el pintor jamás remueve,\nEl verso del poeta bien hilado,\nEn cada forma pura se la eleve.\n\nUn rayo de esplendor que siempre llueve,\nTestigo de lo eterno y lo sagrado:\nLa belleza es un don que el alma mueve,\nEn cada forma pura se la eleve.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "arte"
+  }
+}

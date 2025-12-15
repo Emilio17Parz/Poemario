@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despierta el sol en la cumbre,\ntiñendo de rojo el cielo,\ny se levanta del suelo,\nla niebla y su costumbre.\nTodo cobra nueva lumbre,\nel río inicia su vuelo,\ny el pastor con desvelo,\nsaca la mansedumbre.\nEs la hora de la vida,\ndel rocío en la flor,\ny del canto del ruiseñor.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sol"
+  }
+}

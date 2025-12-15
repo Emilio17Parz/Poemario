@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gira la gran esfera,\nen el espacio negro y sideral,\ny en la espera,\nde lo vital,\nseguimos nuestro curso natural.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "esfera"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida llega a su fin,\nse apaga la luz del sol.\nCierra el ciclo en el jardín,\nse pierde el último arrebol.\n\nSe apaga la luz del sol,\nla oscuridad toma el mando.\nSe pierde el último arrebol,\nel alma sale volando.\n\nLa oscuridad toma el mando,\ncierra el ciclo en el jardín.\nEl alma sale volando,\nla vida llega a su fin.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "final"
+  }
+}

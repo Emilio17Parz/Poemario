@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El juicio me llama (7a),\nel tiempo final (5b),\nsin una sola llama (7c),\nsin un fanal (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Juicio"
+  }
+}

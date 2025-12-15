@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pétalo suave,\ncomo un ave.\n\nColor y olor,\ncon mucho amor,\nsin dolor,\nque lave.\nPétalo suave,\ncomo un ave.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "flor"
+  }
+}

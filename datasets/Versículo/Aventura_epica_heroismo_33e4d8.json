@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Esta hoja ha sido forjada en el fuego de mil hornos y templada en las aguas heladas de los ríos del norte.\nNo es solo un arma para quitar la vida, es el peso de la justicia en mi mano, un juramento de acero que no se puede romper.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "espada"
+  }
+}

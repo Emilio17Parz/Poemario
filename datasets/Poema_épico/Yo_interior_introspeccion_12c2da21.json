@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardaba un secreto como un tesoro,\nen la torre más alta de mi razón.\nAsediado por la inquisición,\nque quería saberlo a precio de oro.\nResistí la tortura del silencio,\ny hoy mi victoria yo presencio.\nEl secreto muere conmigo aquí,\nfiel al juramento que me di.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

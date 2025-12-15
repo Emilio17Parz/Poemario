@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Diosa divina que en la espuma naces,\ndas a las almas el amor profundo,\ny con tu fuego de inmortal deseo\nriges el mundo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "venus"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El rey manda,\nen la banda.\nCon corona,\nque impresiona,\ny agranda.\n\nLa parranda,\nse ablanda.\nLa zona,\nel rey manda.\n\nLa demanda,\ny la ofrenda.\nPerdona,\ny razona,\nen la landa,\nel rey manda.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "rey"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me abraza la terrible soledad,\nseñora de mi casa y de mi lecho,\nmostrando su cruel realidad.\n\nSiento un dolor clavado aquí en el pecho,\nporque te fuiste sin mirar atrás,\ndejando mi futuro ya deshecho.\n\nY sé que nunca más regresarás.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

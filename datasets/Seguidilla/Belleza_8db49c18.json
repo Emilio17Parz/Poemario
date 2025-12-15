@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tienen las estrellas\nun gran brillo,\nmás bonito que el oro\ndel anillo.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Faro de los insomnes.\nCambia de cara cada noche,\ncrece y mengua,\npero siempre es la misma piedra blanca\narrastrando las mareas\ny los aullidos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "luna"
+  }
+}

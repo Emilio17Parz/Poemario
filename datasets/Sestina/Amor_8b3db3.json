@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nMi ancla se afirma en tu alma sin par (E1: par)\nMi alma no quiere de ti ya perder (E2: perder)\nTu amor es la senda que me da la paz (E3: paz)\nLa calma que siento no tiene temor (E4: temor)\nLa fuerza que ayuda a mi ser a crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nNo quiero perder y al fin crecer (E2, E5)\nEl temor me da la paz (E4, E3)\nSin un error, sin un par (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Ancla"
+  }
+}

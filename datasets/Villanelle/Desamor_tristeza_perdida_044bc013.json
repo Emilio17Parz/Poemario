@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te has convertido en una sombra,\nque vaga silente por el salón,\ny mi voz cansada ya no te nombra.\n\nEl paso del tiempo no me asombra,\nha muerto la vieja y dulce pasión,\nte has convertido en una sombra.\n\nEs un fantasma sobre la alfombra,\nrecuerdo de nuestra desunión,\ny mi voz cansada ya no te nombra.\n\nLa oscuridad todo lo escombra,\ndejando cenizas en el rincón,\nte has convertido en una sombra.\n\nNadie tu imagen ya desescombra,\npues fuiste una breve ilusión,\ny mi voz cansada ya no te nombra.\n\nEl dolor mi vida sombrea,\ny rompe mi pobre corazón,\nte has convertido en una sombra,\ny mi voz cansada ya no te nombra.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

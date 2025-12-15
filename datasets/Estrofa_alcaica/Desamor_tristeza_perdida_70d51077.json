@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El alma rota, la voz enmudecida,\ntu ausencia duele cual espina clavada.\nLa noche llega sin tu dulce luz;\nun triste susurro, al fin dice adiós.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

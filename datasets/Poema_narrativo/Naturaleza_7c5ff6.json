@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo se hizo negro, y el aire pesó,\nUn relámpago vino, el silencio se rompió.\nEl trueno fue un cañón, la lluvia una cortina,\nLlamando a la tierra a que sea su inquilina.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

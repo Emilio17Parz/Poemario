@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El escudo se rompió, mi pecho está abierto al dolor cruel y sin razón fiel,\nla vida sin la calma, con sabor amargo a hiel.\nLa defensa fue inútil, el enemigo entró ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la protección que mi cuerpo no pudo tener jamás sin voz ni paz,\ny mi alma es la sombra de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "escudo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El silencio se cierne, denso, sobre el vacío,\ndonde la risa vibró, hoy solo sombra yace.\nSe ha ido el fulgor que adornaba el estío,\ndejando un invierno eterno que nos deshace.\n\n¡Oh, cuánto se amó la luz, el tenue aliento!\nEl don de cada instante, la efímera flor.\nSe tejieron sueños al paso del viento,\nse buscó la verdad con inquebrantable ardor.\n\nMas llega la noche, y con ella el gran dolor,\nla puerta que se cierra sin llave ni candil.\nEl hálito se apaga, se extingue el puro amor,\ny el alma, al fin descalza, vislumbra su **fin**.\n\nNo todo es olvido en la ceniza fría,\nni la nada es la dueña de aquello que se amó.\nEn el eco del tiempo, perdura la energía\nde aquello que fue esencia, lo que el alma sembró.\n\nAsí, tras la penumbra, la verdad se alza altiva:\naunque el cuerpo sucumba a su mortal derrota,\nla memoria, más fuerte que el adiós, nos cautiva,\ny en cada corazón, la vida se denota.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "fin"
+  }
+}

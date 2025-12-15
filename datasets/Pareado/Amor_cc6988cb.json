@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la luz que ilumina mi alma,\nquien trae a mi vida la dulce calma.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "alma"
+  }
+}

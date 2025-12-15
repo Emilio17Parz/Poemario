@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En la batalla feroz,\nse escucha la voz,\ndel acero chocando,\ny la gente gritando,\ncon un ritmo veloz.\n\nEs un momento atroz,\ndonde la muerte es portavoz,\ndel destino mandando,\nen la batalla.\n\nNo hay paz ni arroz,\nsolo el odio precoz,\nque va dejando,\ncuerpos sangrando,\nbajo el sol asombroz,\nen la batalla.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

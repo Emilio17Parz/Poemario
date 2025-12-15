@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vivo un sueño,\ndespierto,\nsoy el dueño,\ndel huerto.\n\nDespierto,\nen mi mente,\ndel huerto,\nfloreciente.\n\nEn mi mente,\nvivo un sueño,\nfloreciente,\nsoy el dueño.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

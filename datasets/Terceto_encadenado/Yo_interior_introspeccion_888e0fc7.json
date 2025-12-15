@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cargo con el peso,\nde mis errores viejos,\ny busco consejos.\n\nPara salir ileso,\nde esta carga dura,\nque me tiene preso.\n\nEn la amargura.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "peso"
+  }
+}

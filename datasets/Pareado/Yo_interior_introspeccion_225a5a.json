@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi cuerpo es un templo, la forma que es ya mortal (A),\ndonde el alma vive, el bien total (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Cuerpo"
+  }
+}

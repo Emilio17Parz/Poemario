@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Jardín de los dormidos,\ndonde el ciprés apunta al firmamento;\nsin movimiento,\nsin ruidos;\naquí se igualan el rey y el mendigo;\nyo te lo digo,\nque en este santo suelo,\nterminan la ambición y el desvelo.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

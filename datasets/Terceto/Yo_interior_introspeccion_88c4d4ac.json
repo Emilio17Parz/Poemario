@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Divaga sin descanso mi mente,\npor caminos de ayer y de mañana,\nllevada por la fuerza de la corriente.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "mente"
+  }
+}

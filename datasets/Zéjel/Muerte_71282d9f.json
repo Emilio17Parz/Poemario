@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es un eco lejano,\nQue resuena en el alma, temprano.\n\nLa existencia se apaga, cual vela al **fin**,\nEn el último instante, ya sin confín,\nDejando un silencio en cada jardín.\nLa muerte es un eco lejano.\n\nNo hay coraza que frene su duro vaivén,\nNos despoja de todo, también del desdén,\nY nos vuelve al origen, al simple Edén.\nLa muerte es un eco lejano.\n\nEs la paz que promete después del dolor,\nEl reposo esperado de tanto hervor,\nUn retorno al olvido, sin ningún temor.\nLa muerte es un eco lejano.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "fin"
+  }
+}

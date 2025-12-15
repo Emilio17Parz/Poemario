@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj se ha detenido,\nse rompió la cuerda fina,\nla existencia termina,\ny el tiempo queda vencido.\nTodo pierde su sentido,\nante la ley divina.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

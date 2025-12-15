@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El ser olvidado bajo la tierra dura,\nsu nombre se borra, no hay más pesar,\nla vida es corta, la pena es pura,\nla sombra que viene a reinar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Olvidado"
+  }
+}

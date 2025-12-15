@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las olas besan la arena,\nCon su ritmo de vaivén,\nBorrando toda la pena.\nLas olas besan la arena,\nUna canción que resuena,\nEn el salado edén.\nLas olas besan la arena,\nCon su ritmo de vaivén.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "olas"
+  }
+}

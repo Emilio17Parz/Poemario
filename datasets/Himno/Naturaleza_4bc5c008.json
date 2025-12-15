@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Inmenso mar, espejo del cielo!\nRugido eterno de libertad,\nprofunda y azul majestad,\nque cubres la tierra con tu velo.\n\nCantad las olas vuestra canción,\nde fuerza, sal y espuma blanca,\nfuerza que al hombre siempre arranca\nuna plegaria de admiración.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "océano"
+  }
+}

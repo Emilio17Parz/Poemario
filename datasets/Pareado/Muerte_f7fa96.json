@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un velo de niebla cubre el rostro y la noble fe (A),\nla vida se apaga sin un 'yo sé' (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Velo"
+  }
+}

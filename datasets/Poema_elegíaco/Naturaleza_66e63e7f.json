@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ya no trae aromas el suave viento,\nsino polvo, ceniza y desolación,\nresuena como fúnebre canción,\nlleno de un infinito sufrimiento.\nLlora la tierra herida y maltratada,\npor su belleza antigua, asesinada.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "viento"
+  }
+}

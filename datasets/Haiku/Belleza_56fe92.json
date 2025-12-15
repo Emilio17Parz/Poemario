@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Curva perfecta,\nmisterio en la mirada,\narte viviente.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "[EL SACERDOTE]\n(A solas, en el altar)\nHe encendido las velas. He rezado los salmos. El incienso sube.\nPero la estatua sigue muda. Fría. No hay calor, no hay respuesta.\n¿Dónde te has ido, Señor? ¿Te hemos ofendido? ¿O eres solo esta piedra?\nEl templo es hermoso, sí, pero si tú no estás, es solo un mausoleo de mármol.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "templo"
+  }
+}

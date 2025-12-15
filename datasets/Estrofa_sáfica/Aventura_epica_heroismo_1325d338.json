@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nombre grabado en el metal eterno,\ncantan los bardos la hazaña grande,\npara que el eco de su honor y fama\nse expande.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "¿Qué es esta vida que el aliento traza?\n¿Un mero juego o frágil espejismo?\nUn eco errante, un **sueño** que es abismo,\nQue al alma inquieta en su vaivén abraza.\n\nDe un sol naciente a la fugaz amenaza,\nEl tiempo corre en su veloz lirismo,\nSin rumbo fijo o quizá un simbolismo,\nQue la existencia a cada instante amasa.\n\nBuscamos huellas, un porqué profundo,\nMas solo el eco de la voz del ser,\nResuena frágil, antes de ceder.\n\nY así se escapa de este efímero mundo,\nLa luz que un día nos vio florecer,\nDejando un rastro en el etéreo ver.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

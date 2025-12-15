@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Poeta del amor, de verbo elocuente,\nque plasma el fuego en tinta y papel.\nTu musa es la amada, tu musa la gente,\nescribiendo un futuro firme y fiel.\n¡Oh, vate excelso, de lírica pluma,\ntu verso vive y la pasión abruma!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Poeta"
+  }
+}

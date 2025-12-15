@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando el sol se desvanece,\nY la sombra toma voz,\nNuestra frágil vida teje,\nUn sendero para Dios.\n\nEn el lecho de la tierra,\nDonde el tiempo no es más,\nToda humana dulce guerra,\nSe convierte en un quizás.\n\nDe la carne al tierno polvo,\nVuelve el soplo creador,\nUn adiós que nos envuelve,\nEn su etéreo fulgor.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

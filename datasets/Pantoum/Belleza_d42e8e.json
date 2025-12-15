@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suave caricia de seda,\nsobre la piel desnuda,\nque el tiempo no pueda,\ndejarla muda.\n\nSobre la piel desnuda,\ntejido de emperador,\ndejarla muda,\nes todo su valor.\n\nTejido de emperador,\nsuave caricia de seda,\nes todo su valor,\nque el tiempo no pueda.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "seda"
+  }
+}

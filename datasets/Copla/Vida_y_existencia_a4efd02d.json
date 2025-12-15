@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Doy vueltas en esta vida\ncomo en un gran laberinto,\nbuscando siempre la puerta\nguiado por el instinto.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

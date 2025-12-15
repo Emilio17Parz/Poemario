@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Como los dioses que en el Olimpo moran,\nnuestro pacto desafía al tiempo atroz,\nni las parcas que los hilos devoran\npodrán callar el eco de mi voz.\nTe amaré hasta que el sol se vuelva frío\ny el universo pierda su albedrío.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Eternidad"
+  }
+}

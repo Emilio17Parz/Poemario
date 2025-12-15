@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Palabra escrita en los muros altos,\nque el carcelero quiere borrar,\ndamos por ella mortales saltos,\npara poder respirar.\nNo es un regalo, es una conquista,\ndel pueblo que nunca desista.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Libertad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La forma es perfecta, el arte sutil fiel (A),\nque el ojo descubre con gran fulgor (A),\nla vida es un trago de dulce miel (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Forma"
+  }
+}

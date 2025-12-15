@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan las trompetas,\nse han cumplido al fin todas las metas.\nRegresa el vencedor\ncubierto de honor.\nLa gloria le sonríe\ny el pueblo en su alegría se confíe.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

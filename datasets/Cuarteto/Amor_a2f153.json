@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un vínculo de oro nos une por siempre,\nque el tiempo ni el miedo pueden quebrar,\nla vida contigo es un don, es diciembre\ncon nieve que sabe amar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Vínculo"
+  }
+}

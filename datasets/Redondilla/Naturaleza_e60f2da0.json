@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Contemplo el vasto azul del mar,\nla espuma blanca que destella,\nnaturaleza siempre bella,\ny el alma quiere solo amar.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "mar"
+  }
+}

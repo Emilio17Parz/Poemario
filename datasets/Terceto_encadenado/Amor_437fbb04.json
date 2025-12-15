@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nos juramos amor frente al altar,\ncon testigos de fe y esperanza,\ncomenzando la vida a caminar.\n\nIniciamos la dulce y noble danza,\nde dos almas que van en una sola,\nen perfecta y divina semejanza.\n\nComo el mar que se funde con la ola.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "unión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Manos que crean la forma divina,\nde la materia que duerme en la mina,\ndando a la piedra un alma inmortal,\ny a los colores un brillo real.\nEl arte es el puente hacia lo ideal,\ndonde se borra la huella del mal,\ny queda por siempre la pura emoción,\nde la belleza en su perfección.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "arte"
+  }
+}

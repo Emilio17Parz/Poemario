@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "**M**isterio que acecha, el final inminente,\n**U**mbra que se abre, destino latente.\n**E**terna quietud, la senda sombría,\n**R**egreso a la nada, la última agonía.\n**T**oda vida acaba, la luz se desvanece,\n**E**l *silencio* es su manto, que todo lo mece.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

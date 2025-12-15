@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "ESCLAVO: Mis manos sangran por la cadena.\nAMO: Naciste para servir y callar.\nESCLAVO: Nací libre para poder soñar.\nAMO: Tu sueño solo te trae pena.\nESCLAVO: Prefiero morir buscando libertad,\nque vivir en tu falsa piedad.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

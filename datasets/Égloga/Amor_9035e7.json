@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Suspira el viento entre la hierba alta,\nsuspira mi alma por tu dulce beso.\nNo hay en el monte un bien que tenga peso\nsi tu presencia, amada, me hace falta.\nEl corazón del pecho casi salta\nal verte aparecer en el proceso.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "hierba"
+  }
+}

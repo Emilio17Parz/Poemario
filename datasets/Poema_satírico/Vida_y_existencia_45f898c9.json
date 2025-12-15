@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, ¡oh, dulce farsa!, qué desastre singular,\nUn breve resplandor entre dos nadas,\nDonde el Sapiens se afana por pensar,\nQué hacen sus tripas malhumoradas.\n\nConstruye catedrales de humo y ambición,\nDiserta del ser y del no ser en la taberna,\nMientras la realidad, sin ápice de compasión,\nLe cobra el alquiler de su mísera caverna.\n\nY luego el \"destino\", ese titiritero cruel,\nUn burócrata cósmico con agenda fatal,\nQue reparte la suerte, sin un ápice de miel,\nAl que nace en la cuna o en el fangal.\n\nCreemos ser los dueños de este drama absurdo,\nLos héroes de una epopeya con principio y final,\nMas somos solo peces en un estanque turbio,\nBuscando migas de pan en un fango primal.\n\nAsí que alza tu copa, brinda por la ilusión,\nPor la gran tragicomedia, el sinsentido guion,\nQue existir es rodar sin rumbo, sin razón,\nY morir, la única certeza, la única función.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

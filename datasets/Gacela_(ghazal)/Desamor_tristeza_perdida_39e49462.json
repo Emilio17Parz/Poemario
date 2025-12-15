@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu silla está vacía y la mesa está puesta,\npero falta la risa que animaba la fiesta.\n\nEl silencio en la casa es una dura cuesta,\nque subo cada día sin hallar la respuesta.\n\nLa ausencia es un cuchillo en la hora de la siesta,\nque corta la alegría y el alma molesta.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

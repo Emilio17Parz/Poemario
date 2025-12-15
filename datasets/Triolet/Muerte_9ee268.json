@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Busca el eterno descanso,\nLejos del sufrimiento,\nComo un río manso.\nBusca el eterno descanso,\nDonde yo avanzo,\nCon el viento.\nBusca el eterno descanso,\nLejos del sufrimiento.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "descanso"
+  }
+}

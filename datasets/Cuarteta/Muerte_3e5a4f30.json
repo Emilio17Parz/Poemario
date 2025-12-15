@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo llega a su fin\nen la vida y en la historia,\nsuena el último clarín\nborrando nuestra memoria.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "fin"
+  }
+}

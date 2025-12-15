@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sombra gigante,\nque causa miedo,\nme quedo,\ndelante.\nHay que vencer,\npara crecer.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "monstruo"
+  }
+}

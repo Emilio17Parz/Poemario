@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "ESCÉPTICO: No veo nada, solo oscuridad.\nCREYENTE: Cierra los ojos para poder ver.\nESCÉPTICO: ¿Cómo creer lo que no puede ser?\nCREYENTE: Esa es la prueba de la voluntad.\nLa fe no es ver con los ojos abiertos,\nes dar vida a los corazones muertos.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "fe"
+  }
+}

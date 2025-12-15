@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La oficina es la celda,\nel trabajo, el grillete.\nLa vida que se queda\nsin ningún billete.\n\nVendemos el tiempo,\nla salud y la fe,\nmi único templo\nsin ningún por qué.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "esclavo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La Ruina es mi morada, (A)\nme castiga sin piedad, (B)\nmi vida sin claridad, (B)\nmi ser ya sin la espada. (A)\nMi corazón ya sin nada, (A)\nde esperanza y gran valor, (C)\nya no siento el fulgor, (C)\nde mi ser que se ha perdido, (D)\nen el cruel y gran olvido, (D)\nme queda solo el horror. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Ruina"
+  }
+}

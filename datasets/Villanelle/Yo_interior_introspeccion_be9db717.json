@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco encontrar mi identidad,\nsaber quién soy en realidad,\nlejos de la falsa vanidad.\n\nVivir con plena libertad,\ny con total sinceridad,\nbusco encontrar mi identidad.\n\nSalir de la oscuridad,\nde la duda y la ansiedad,\nlejos de la falsa vanidad.\n\nHallar mi propia verdad,\nmi esencia y mi cualidad,\nbusco encontrar mi identidad.\n\nSin máscaras de sociedad,\nni miedo a la soledad,\nlejos de la falsa vanidad.\n\nEs mi mayor necesidad,\ny mi gran finalidad,\nbusco encontrar mi identidad,\nlejos de la falsa vanidad.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Forjaron la espada en fuego,\ncon el mejor acero,\npara el brazo del guerrero\nque es aventurero.\nTiene filo que corta el aire,\ny brillo de lucero,\ny ha bebido sangre roja\nen el sendero.\nDescansa ahora en el muro,\ndel viejo heredero,\nrecordando las batallas\ndel tiempo primero.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "acero"
+  }
+}

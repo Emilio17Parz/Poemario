@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Callan las bocas,\ncomo las rocas.\n\nNo hay sonido,\ntodo perdido,\ny dormido,\nsi tocas.\nCallan las bocas,\ncomo las rocas.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

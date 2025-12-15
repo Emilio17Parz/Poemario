@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La tos fue un presagio, la fiebre un castigo,\nEl cuerpo se rendía, sin ningún testigo.\nEl mal creció por dentro, sin que nadie lo viera,\nY la vida se fue como el humo que era.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "enfermedad"
+  }
+}

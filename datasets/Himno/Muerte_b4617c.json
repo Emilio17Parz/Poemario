@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Avanza la sombra con paso lento,\napagando la luz y el aliento.\nNadie la ve pero todos la sienten,\ncuando los días su fin presienten.\n\n¡Salve, oscuridad que nos envuelve,\ny que al origen todo devuelve!\nReino de Hades, profundo y quieto,\ndonde se guarda el mayor secreto.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

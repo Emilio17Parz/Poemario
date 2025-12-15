@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Amor sagrado,\nTe tengo yo,\nInmaculado.\nAmor sagrado,\nEn el prado,\nQue dio.\nAmor sagrado,\nTe tengo yo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "amor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Entré en mi mente,\ncomo en un laberinto,\ncon el instinto,\nde ser valiente.\nMaté a la serpiente,\ndel miedo distinto,\ny salí del recinto,\ndiferente.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

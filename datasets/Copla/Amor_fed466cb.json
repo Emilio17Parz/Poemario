@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estaba escrito en el cielo\nque te tenía que amar,\naunque se oponga el destino\ny las olas de la mar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "destino"
+  }
+}

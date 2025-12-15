@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llamad a Tirsis y a Melibeo,\nque quiero darles mis pocas cosas,\nmis ovejas y mis rosas,\nantes de irme a mi apogeo.\n\nQue no haya llanto ni lloriqueo,\nsino canto y vino en la mesa,\npues la muerte ya no me pesa,\ny en la paz eterna yo creo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "testamento"
+  }
+}

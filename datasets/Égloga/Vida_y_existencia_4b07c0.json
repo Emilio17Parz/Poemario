@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tejemos nuestra historia,\ncon hilos de lana y lino,\nsin conocer el destino,\nni el final de la trayectoria.\n\nBuscamos pena o gloria,\nen este telar inmenso,\ndonde el dibujo suspenso,\nse graba en la memoria.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cayó la muralla de la gran ciudad,\nno por el asedio de mil enemigos,\nsino por el peso de falsos testigos,\ny un adiós que trajo la oscuridad.\nEl príncipe llora sobre las almenas,\nviendo partir las naves ajenas.\nEl imperio es fuerte, mas su alma quebrada,\npor una despedida en la madrugada.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

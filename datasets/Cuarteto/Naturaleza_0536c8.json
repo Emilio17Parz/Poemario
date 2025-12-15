@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento susurra antiguas historias,\nmece las copas, silba al pasar,\nde viejas derrotas y grandes victorias,\nla voz que no sabe callar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

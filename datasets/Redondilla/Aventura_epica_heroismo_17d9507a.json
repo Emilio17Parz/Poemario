@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un valiente corazón,\nal llamado de la lid,\ndejó su hogar y su bid,\nen busca de gran acción.\n\nCruzó montes, mar y vega,\ncon su espada y su valor,\nsin sentir ningún temor,\nla gloria a su senda llega.\n\nMas un ser de piel oscura,\ncon escamas de fulgor,\nque esparcía gran pavor,\nera el temible dragón.\n\nCon heroísmo y gran fe,\nel campeón se alzó audaz,\nconsiguiendo al fin la paz,\ny eterna fama de pie.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

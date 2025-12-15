@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega sin prisa pero sin pausa,\nla dama oscura a buscar su bien,\nno necesita ninguna causa,\npara llevarte en su negro tren.\nSiega la vida con su guadaña,\nsin distinguir al rico o al peón,\ny con su fría y tétrica maña,\ncierra por siempre el corazón.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "parca"
+  }
+}

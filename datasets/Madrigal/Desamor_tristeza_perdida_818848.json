@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ruedan las perlas de mi amargo llanto,\nmojando el suelo que pisamos juntos,\nya son temas difuntos,\nlos que nos dieron dicha y tanto encanto.\nLlorar es el oficio del que pierde,\nla rama ya no es verde,\ny solo queda el gris del desencanto,\nbajo mi manto.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Saber el propio origen,\nes anclar el espíritu a la tierra;\ncesar la guerra,\ndonde te eligen.\nSin raíces el árbol se derrumba,\nen la penumbra.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "raíz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Obra humana,\nque emociona,\ny perdona,\nla mañana.\nEs la grana,\ndel sentir,\ny vivir,\nla semana.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "arte"
+  }
+}

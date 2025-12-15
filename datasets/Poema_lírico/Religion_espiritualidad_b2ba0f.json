@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Me siento y me callo,\nla mente se va.\nEl dulce caballo\nque el alma me da.\n\nEs la paz sin nombre,\nla calma sin fin,\nla vida del hombre\nsin ningún motín.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "meditación"
+  }
+}

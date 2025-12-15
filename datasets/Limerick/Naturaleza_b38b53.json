@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nadaba el pez en la pecera,\nde una forma muy ligera.\nSaltó hacia afuera,\ncayó en la cera,\ny se acabó su carrera.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "pez"
+  }
+}

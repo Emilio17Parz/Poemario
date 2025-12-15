@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me quito la máscara hoy,\ndejo ver mi rostro real.\nYa sé adónde voy,\nsalir del carnaval.\n\nDejo ver mi rostro real,\nvulnerable y sincero.\nSalir del carnaval,\nes lo que más quiero.\n\nVulnerable y sincero,\nme quito la máscara hoy.\nEs lo que más quiero,\nya sé adónde voy.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

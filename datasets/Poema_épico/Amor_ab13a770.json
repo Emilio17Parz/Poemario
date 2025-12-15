@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El caballero cruzó el bosque de espinas,\ndonde moran las bestias de la oscuridad,\nguiado por la luz de su lealtad,\nhacia las torres altas y divinas.\nEnfrentó al dragón de escamas argentinas,\npara salvar a la flor de la ciudad,\ny al verla libre, con gran humildad,\njuró amarla entre las ruinas.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "rescate"
+  }
+}

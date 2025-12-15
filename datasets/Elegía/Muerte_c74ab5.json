@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acabó el sufrimiento,\nel dolor y la pena,\nse rompió la cadena,\ndel duro tormento.\n\nDescansa en el viento,\nsobre la arena,\ncon el alma llena,\nde un nuevo aliento.\n\nPaz eterna y profunda,\nque todo lo inunda.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "paz"
+  }
+}

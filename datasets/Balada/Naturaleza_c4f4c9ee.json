@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Por sendas de musgo y verdor,\ndonde el viento susurra un cantar,\ndespierta el alma a su fulgor,\nun edén sin igual.\n\nEl vasto **cielo** sobre la sien\nde un monte cubierto de pino,\nrefleja su paz en el vaivén\nde un lago cristalino.\n\nEl trino de un ave cantor,\nel agua que corre sin fin,\nla orquídea desata su olor,\nen un dulce jazmín.\n\nLas hojas caen lentas al suelo,\nel ciervo que bebe con fe,\nno hay pena, tampoco hay desvelo,\nsólo la vida es.\n\nY el hombre, en este gran vergel,\nolvida su pena y pesar,\nsintiendo la fuerza de un fiel\nabrazo de hogar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

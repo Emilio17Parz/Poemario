@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Alarga la mano la sombra final,\ncubriendo los ojos del moribundo,\nes el paso al reino inmaterial,\ndejando la carga de este mundo.\nNo temas la noche, ni su negrura,\nes solo el abrazo de la paz pura.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

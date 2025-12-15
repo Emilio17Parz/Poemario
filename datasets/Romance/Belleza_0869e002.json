@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palacio de los sultanes,\nde estuco y azulejo,\ndonde el agua canta historias\nde un tiempo viejo.\nJardines de mil aromas,\npatio del espejo,\ndonde la belleza mora\ndejó su reflejo.\nLloró el rey al perderla,\nsegún el consejo,\ny nosotros la admiramos\ncon gran perplejo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "moro"
+  }
+}

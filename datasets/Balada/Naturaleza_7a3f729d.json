@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Baja la nieve hecha cristal,\ndesde la cumbre hasta el valle,\nun movimiento natural,\nque recorre cada talle.\nLleva mensaje de manantial,\ncon un eterno poderío,\nes la canción fundamental,\nde la corriente del claro río.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se extiende infinito ante mí el océano,\nun lienzo de azul que promete la hazaña,\ndonde el viento susurra canciones de norte,\ny el barco cruje con voz de madera,\nbuscando la isla que oculta el tesoro,\nlejos de tierra, de casa y de puerto.\n\nYa no recuerdo el aroma del puerto,\nsolo la sal y la espuma del océano,\nla fiebre del oro, la sed de tesoro,\nque impulsa a los hombres a tal hazaña,\nflotando en la cuna de vieja madera,\nguiados por astros que marcan el norte.\n\nPerdimos la aguja que indica el norte,\njamás volveremos al cálido puerto,\nse pudre la nave, la noble madera,\ntragada por fauces del gran océano,\nquizá sobrevivir sea la única hazaña,\nmás valiosa que plata o antiguo tesoro.\n\nMaldito el brillo del falso tesoro,\nque nos hizo perder el rumbo y el norte,\ncontar esta historia será nuestra hazaña,\nsi logramos un día tocar algún puerto,\ny escapar de la tumba que es el océano,\naferrados a trozos de rota madera.\n\nYa crujen las tablas, la humilde madera,\nno importa ya nada, ni mapa ni tesoro,\nla furia se desata en el negro océano,\nno existe el sur, ni el este ni el norte,\nsolo el abismo, no hay faro ni puerto,\nsobrevivir a la noche será gran hazaña.\n\nCantad, marineros, la última hazaña,\nflotando en los restos de nuestra madera,\nsoñando despiertos con luces de puerto,\nolvidando por fin el maldito tesoro,\nya no necesitamos la estrella del norte,\ndormiremos por siempre bajo el océano.\n\nEl océano guarda la triste hazaña,\nsin norte ni tumba de fina madera,\nel tesoro se queda esperando en el puerto.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "océano"
+  }
+}

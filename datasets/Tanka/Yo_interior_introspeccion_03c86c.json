@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Escribir un verso,\nes sacar fuera la pena,\ny el dulce dolor.\nDejar en el papel ya,\nla verdad de lo que soy.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Escribir"
+  }
+}

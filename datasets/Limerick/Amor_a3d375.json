@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No se atreve a decir te quiero,\naunque es un amor verdadero.\nSe pone muy rojo,\ny baja el ojo,\ncual triste y pobre cordero.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "timidez"
+  }
+}

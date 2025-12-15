@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La noche absoluta, sin sol ni luna,\nel negro que cubre todo fulgor,\nes el descanso, la única y una\nforma de hallar el amor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Noche"
+  }
+}

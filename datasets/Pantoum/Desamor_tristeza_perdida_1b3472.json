@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Nos separa un mar inmenso,\naguas de olvido y de sal,\nun muro gris y propenso,\na un desenlace fatal.\n\nAguas de olvido y de sal,\nborran las huellas de amor,\na un desenlace fatal,\nsucumbe mi pobre valor.\n\nBorran las huellas de amor,\nun muro gris y propenso,\nsucumbe mi pobre valor,\nnos separa un mar inmenso.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La joya brilla con una luz fría y eterna, capturando el fuego de las estrellas en su corazón de cristal.\nNos fascina su dureza y su pureza, un fragmento de eternidad que podemos llevar en el dedo como promesa.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "joya"
+  }
+}

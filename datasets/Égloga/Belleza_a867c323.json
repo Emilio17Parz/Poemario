@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del monte, Talía,\nninfa de la inspiración,\ny da a mi canción,\nla gracia y la armonía.\nQue sin tu compañía,\nmi rústica voz son,\nruido sin ton,\nni melodía.\nCorona mi frente,\ncon laurel presente,\ny agua de la fuente.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ninfa"
+  }
+}

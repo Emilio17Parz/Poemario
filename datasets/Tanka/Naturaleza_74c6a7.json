@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde y ancho prado,\ndonde los niños son libres,\nde jugar y reír.\nLas flores saludan al sol,\nsencilla felicidad.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Prado"
+  }
+}

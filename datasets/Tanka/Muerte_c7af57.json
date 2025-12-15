@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La piedra del muro\nguarda tu nombre y la fecha,\ndel día que partiste.\nPero el recuerdo es más fuerte,\nque el mármol y su frialdad.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Memorial"
+  }
+}

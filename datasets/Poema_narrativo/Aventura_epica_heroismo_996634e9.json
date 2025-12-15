@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escalaron el hielo,\ncon frío y viento,\ncon el pensamiento,\nen tocar el cielo.\nFaltaba el aire,\ny las fuerzas,\npero sus destrezas,\nsin desaire,\nles dieron la cumbre,\ny su lumbre.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

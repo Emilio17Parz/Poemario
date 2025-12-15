@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cantan las olas su eterna historia,\nchocan con fuerza en el arrecife,\ntraen espuma y traen memoria,\ndel marinero y del esquife.\nEl mar no perdona al que porfíe,\npero su belleza el alma vive.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "mar"
+  }
+}

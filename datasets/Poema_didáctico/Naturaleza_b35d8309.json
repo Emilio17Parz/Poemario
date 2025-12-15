@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Son soles lejanos las estrellas,\naunque parecen pequeñas huellas.\nBolas de gas en fusión ardiente,\nque dan luz al cielo de oriente.\nNacen y mueren en explosión,\ncreando la materia de la creación.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

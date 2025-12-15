@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mundo lleno de color\nalegra la vista mía,\ntrayendo la alegría\ny quitando el dolor.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "color"
+  }
+}

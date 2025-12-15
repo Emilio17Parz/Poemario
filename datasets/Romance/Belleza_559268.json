@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Seda roja y encaje\nciñen su cuerpo gentil,\nresaltando las curvas\nde su talle de marfil.\nEl vestido la transforma\nen reina del mes de abril,\ny todos caen rendidos\nante su paso sutil.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "vestido"
+  }
+}

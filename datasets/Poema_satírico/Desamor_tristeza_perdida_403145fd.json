@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Devuélveme el reloj caro,\nque te di en Navidad,\ny el anillo de verdad,\nque costó un ojo de la cara.\nTe dejo la ropa rara,\ny tu falta de piedad,\npero el oro, por lealtad,\nes mío, y eso es lo claro.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "regalos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cruzamos el camino aquella tarde,\ny supe que mi vida cambiaria,\ncon un amor que en el pecho me arde.\n\nDesde entonces buscamos la alegría,\nde estar unidos frente a la corriente,\nhaciendo de la noche claro día.\n\nAmor siempre valiente.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

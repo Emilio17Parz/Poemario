@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Es una dulce locura,\nquererte como te quiero.\nNo existe ninguna cura,\nes una dulce locura.\nMe ata tu hermosura,\ncon un lazo de acero.\nEs una dulce locura,\nquererte como te quiero.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "locura"
+  }
+}

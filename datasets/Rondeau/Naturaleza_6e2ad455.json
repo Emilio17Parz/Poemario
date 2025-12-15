@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La tierra canta su dulce trama,\nCuando el rocío besa la flor,\nUn nuevo día, con su fulgor,\nDespierta el alma con tal ardor,\nY todo vibra en su rica gama.\n\nDesde la cumbre de la montaña,\nSe ve la niebla, sutil y extraña,\nUn manto blanco, sin un error,\nLa tierra canta.\n\nEl viento ruge, la frágil caña\nSe dobla al aire, y así se baña\nDe luz dorada, de un gran fulgor,\nUn bosque antiguo de gran valor,\nQue al sol se expone y el alma ama.\nLa tierra canta.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

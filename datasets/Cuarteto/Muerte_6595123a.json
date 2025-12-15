@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra fría de la Parca avanza,\nRobando al mundo su fugaz aliento.\nNo hay grito ni esperanza, solo danza\nEl polvo al son del gélido silencio.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

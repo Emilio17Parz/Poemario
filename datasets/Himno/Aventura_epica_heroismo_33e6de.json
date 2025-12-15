@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Partir es morir un poco, se dice,\npero es vivir mucho, quien lo realice.\n¡Honor al Viaje, aventura vital!,\nque rompe el cerco de lo habitual.\n\nCaminos, mares, montañas y cielos,\ndescubriendo mundos, rompiendo velos.\nCantemos al paso que deja la huella,\nguiado tan solo por una estrella.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

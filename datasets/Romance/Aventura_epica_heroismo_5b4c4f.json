@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Despegó el cohete blanco\nhacia la luna de plata,\ncon tres hombres valerosos\nen una misión sensata.\nPisaron el polvo gris\ncon su huella que delata,\nque el hombre llegó a los cielos\nen su nave de hojalata.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "espacio"
+  }
+}

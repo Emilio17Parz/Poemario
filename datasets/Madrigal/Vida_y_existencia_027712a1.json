@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El ser, un breve soplo que se eleva,\nla chispa esencial que el tiempo no se lleva,\nun despertar del sueño a la realidad.\n\nEntre el goce y la amarga desventura,\nla existencia es la más bella ventura,\nen cada aliento un hondo interrogar.\n\nMas, ¿quién dibuja el trazo en alta altura?\nEl **destino**, tejedor de la ventura,\nnos rige en la luz que se renueva,\ny en su misterio nuestra vida se eleva.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "destino"
+  }
+}

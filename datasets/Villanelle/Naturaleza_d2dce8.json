@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Astro rey que das la vida,\na todo lo que respira,\ncurando nuestra herida.\n\nTu luz es bienvenida,\ny el mundo te admira,\nastro rey que das la vida.\n\nLa noche es vencida,\ncuando tu rayo gira,\ncurando nuestra herida.\n\nSin ti todo se olvida,\nen la sombra que delira,\nastro rey que das la vida.\n\nTu fuerza desmedida,\na la tierra inspira,\ncurando nuestra herida.\n\nEres la llama encendida,\nque nunca expira,\nastro rey que das la vida,\ncurando nuestra herida.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sol"
+  }
+}

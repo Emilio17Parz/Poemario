@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL PIRATA]\n(Viendo el cofre lleno)\nOro, rubíes, sedas. ¿Y de qué sirven? No pueden comprar el mar que he perdido.\nEl verdadero botín no está en esta caja, está en el recuerdo de la lucha.\nSoy más rico en cicatrices que en monedas. La vida es una estafa.\nQuiero el fragor de la batalla. Esto es solo metal muerto. Es el fin.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "botín"
+  }
+}

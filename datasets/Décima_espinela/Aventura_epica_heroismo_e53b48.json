@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El Mapa me ha mentido, (A)\nme hunde sin la verdad, (B)\nmi vida sin claridad, (B)\nmi ser ya se ha perdido. (A)\nMi corazón ya sin oído, (A)\nde tristeza y gran pesar, (C)\nno puedo ya más amar, (C)\npor el daño que me he dado, (D)\nmi destino se ha nublado, (D)\nno sé dónde ir o estar. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Mapa"
+  }
+}

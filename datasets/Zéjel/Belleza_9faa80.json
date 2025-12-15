@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La música es nuestra calma,\ny nos limpia toda el alma.\n\nLa nota es toda de miel,\nel ritmo es siempre muy fiel,\nel canto es nuestra piel,\ny nos limpia toda el alma.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "música"
+  }
+}

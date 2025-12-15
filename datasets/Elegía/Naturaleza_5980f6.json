@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sangra el cielo en el oeste,\nmuriendo el día dorado,\nel astro rey, cansado,\nse acuesta en la celeste.\n\nDeja que la sombra preste,\nsu manto al mundo callado,\ny todo queda apagado,\ncomo en una triste peste.\n\nMuerte diaria de la luz,\nque carga su propia cruz.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sombra que duerme en el portal,\ninvisible para el que pasa,\nvíctima del orden social,\nque lo expulsó de su casa.\nEspejo roto de nuestro fracaso,\nque no recibe ni un abrazo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Excluido"
+  }
+}

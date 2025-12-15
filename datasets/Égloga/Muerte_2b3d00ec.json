@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Grabaremos su nombre en piedra,\npara que el tiempo no borre,\nmientras el agua corre,\ny crece la hiedra.\nAunque el cuerpo se arredra,\nla fama socorre,\ny en la mente torre,\nsu imagen se empiedra.\nVivirá en la canción,\ndel pastor que canta,\ncon el corazón.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

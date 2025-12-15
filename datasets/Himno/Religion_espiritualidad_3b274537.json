@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Suba el incienso de nuestro rezo,\ncomo ofrenda de amor al Señor,\npidiendo alivio para el dolor,\ny agradeciendo el nuevo comienzo.\nPuente de palabras hacia el Creador,\nque nos escucha con dulce amor.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quiero beber del agua del río,\npara olvidar tu nombre fatal,\nquitarme este inmenso frío\nque me ha causado tan grande mal.\nPero el recuerdo es un puñal,\nclavado en mi pecho de cristal.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

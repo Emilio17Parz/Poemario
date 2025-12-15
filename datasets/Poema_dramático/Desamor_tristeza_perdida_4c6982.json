@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "[EL PÁJARO]\nMe echaron de mi nido, de mi árbol, de mi sol. Soy un pájaro sin rama.\nEl exilio no es un lugar, es un estado del alma. Es no pertenecer a nada.\nAhora canto en la jaula de mi propia voz, recordando el dulzor del hogar.\nQue el viento me lleve y me disuelva en la nada.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "exilio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos con ahínco la verdad,\nqueriendo comprender nuestra razón,\nen medio de la densa oscuridad.\n\nMiramos en el propio corazón,\nhallando las respuestas escondidas,\nlejos de la mentira y la ilusión.\n\nSanando nuestras viejas heridas.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

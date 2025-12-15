@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guerra cruenta,\nque destruye,\ny no huye,\nni se cuenta.\nSe alimenta,\nde la sangre,\ny del hambre,\nque violenta.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

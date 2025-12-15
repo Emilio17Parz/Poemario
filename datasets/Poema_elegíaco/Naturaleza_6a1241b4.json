@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Ay, pobre río seco y agostado!\nQue antes corrías lleno de alegría,\ny ahora eres cicatriz en la sequía,\nlecho de piedras, triste y olvidado.\nLa vida se te fue con la corriente,\ny llora el sauce en tu orilla, ausente.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "río"
+  }
+}

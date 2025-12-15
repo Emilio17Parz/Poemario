@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Último viaje,\nsin equipaje.\n\nCruzar el río,\ncon mucho frío,\ny sin brío,\nsalvaje.\nÚltimo viaje,\nsin equipaje.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

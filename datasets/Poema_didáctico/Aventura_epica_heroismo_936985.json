@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Usa la mente antes que el puño,\npiensa el movimiento,\npon tu cuño,\ncon tiento.\nLa fuerza sin control,\nno ve el sol.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Estrategia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Miro la cruz,\nsímbolo santo,\nque da la luz,\ny quita el llanto.\n\nSímbolo santo,\nde redención,\ny quita el llanto,\ndel corazón.\n\nDe redención,\nmiro la cruz,\ndel corazón,\nque da la luz.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un héroe valiente al fin decidió,\nCruzando montañas su senda trazó,\nEl mal que en la sombra su alma retó,\nY en dura **batalla**, su fama forjó.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

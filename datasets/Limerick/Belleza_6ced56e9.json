@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una dama de gran belleza\nCon un brillo que trae sorpresa.\nSu mirar,\nAl soñar,\nCautivaba con tal presteza.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

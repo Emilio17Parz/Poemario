@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un joven de ardiente pasión,\nperdió por amor el camión,\ncorrió tras la dama,\ncayó en la grama,\ny rompió su pobre pantalón.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Pasión"
+  }
+}

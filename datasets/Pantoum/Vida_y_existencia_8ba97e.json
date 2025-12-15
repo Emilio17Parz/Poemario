@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No se detiene el reloj,\narena que escapa del dedo,\nsin escuchar ningún ruego,\navanza con paso veloz.\n\nArena que escapa del dedo,\ninstantes que no volverán,\navanza con paso veloz,\nsegún su propio plan.\n\nInstantes que no volverán,\nno se detiene el reloj,\nsegún su propio plan,\nsin escuchar ningún ruego.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

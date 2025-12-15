@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El consumo ciego, la sed sin final,\nque ciega la vista, que rompe la paz,\nes la mentira, el mal total,\nque devora al hombre con gran tenaz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Consumo"
+  }
+}

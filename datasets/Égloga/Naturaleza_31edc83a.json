@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Cuán fresca es la arboleda!,\nrefugio del caminante,\ndonde el calor sofocante,\nfuera del bosque se queda.\nAquí la vida rueda,\npausada y constante,\ny el arroyo cantante,\nteje su cinta de seda.\nDescansen aquí las cabras,\ny nosotros también,\nen este natural edén.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

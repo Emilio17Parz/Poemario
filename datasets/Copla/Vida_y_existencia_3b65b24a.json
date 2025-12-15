@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Este mundo es un engaño,\nun teatro de cartón,\ndonde todos hacen daño\nsin tener el corazón.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "engaño"
+  }
+}

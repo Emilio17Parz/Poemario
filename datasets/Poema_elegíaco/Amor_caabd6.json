@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El tiempo no ha curado la herida del adiós,\nsolo la ha vestido de olvido y de voz.\nLa pena sigue viva, fresca como la sal,\nel signo constante de un amor vital.\n\nCada latido es un golpe que me rompe la paz,\nla cruel anatomía de lo que ya fui capaz.\nMi ser es el esclavo de un dolor sin final,\nla prueba de que fuiste un signo vital.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

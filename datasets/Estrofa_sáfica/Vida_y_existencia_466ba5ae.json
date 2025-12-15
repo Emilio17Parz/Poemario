@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gira la rueda de fortuna ciega,\nhoy en la cima, mañana en el suelo,\nnadie controla el devenir extraño\nde su vuelo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "rueda"
+  }
+}

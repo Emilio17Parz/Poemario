@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Caminaban bajo la lluvia fría,\nsin paraguas y con el paso lento,\nella temblaba, él le sonreía.\nSe detuvieron junto al monumento,\ny él apartó el cabello de su frente.\nEl mundo se paró en ese momento,\ncuando sus labios, tímida y valiente,\nrozaron los de él con suavidad.\nFue un beso que selló eternamente\nel inicio de su felicidad.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "beso"
+  }
+}

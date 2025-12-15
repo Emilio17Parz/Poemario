@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Suenan las bombas, callan las razones,\nse tiñe de rojo la tierra verde,\ny la humanidad de nuevo pierde,\nentre escombros y desolaciones.\n\nInventamos banderas y canciones,\npara que el soldado no recuerde,\nque al hermano mata y le muerde,\npcumpliendo oscuras obligaciones.\n\nLa paz es un pájaro asustado,\nque huye del humo y la metralla,\nbuscando un lugar resguardado.\n\nPero el hombre levanta la muralla,\ny deja el futuro destrozado,\nen el fango de cada batalla.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

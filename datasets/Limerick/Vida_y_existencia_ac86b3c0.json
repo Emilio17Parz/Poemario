@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Un alma que el mundo pisó,\ny el tiempo sin pausa voló.\nSu ser, ¿dónde irá?\n¿O aquí seguirá?\nLa esencia jamás pereció.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

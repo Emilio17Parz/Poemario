@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Debemos romper las viejas cadenas,\nque oprimen a la gente sin piedad,\ny dejar atrás todas las penas.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

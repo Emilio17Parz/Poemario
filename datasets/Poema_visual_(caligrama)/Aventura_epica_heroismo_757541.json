@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mástil recto\ntela ondea\nal viento\ncolores vivos\nsímbolo alto\nde la patria\no el honor.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

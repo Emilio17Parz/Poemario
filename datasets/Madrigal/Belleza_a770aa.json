@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Esencia invisible que nos envuelve,\nmemoria líquida en frasco guardada,\nque liberada,\nel recuerdo perdido nos devuelve.\nJardín secreto en una sola gota,\nque brota,\nembriagando el aire con su olor,\ny su amor.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "aroma"
+  }
+}

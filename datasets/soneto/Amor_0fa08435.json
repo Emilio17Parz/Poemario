@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El corazón, por ti, mi bien, suspira,\nBuscando en tus pupilas paz y calma,\nDonde un fuego divino quema el alma,\nY cada pensamiento a ti se mira.\n\nNi el tiempo que inclemente al mundo gira,\nNi sombra alguna el corazón desgarra,\nPues tu luz todo mal en mí desbarra,\nAmor que la existencia misma inspira.\n\nTu voz es melodía que me encanta,\nTus manos, el refugio que deseo,\nEn cada gesto tuyo hay un recreo.\n\nY cuando el alma, de tu amor se planta,\nSiento al fin que en tu ser me bamboleo,\nUn dulce y tierno abrazo al fin te entrego.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La vida en el bosque siempre me llama,\nDonde el aire puro mi mente acaricia.\nEl verde manto la tierra derrama,\nLa vida en el bosque siempre me llama,\nCon el dulce canto que el ave proclama,\nY junto al río, mi paz se propicia.\nLa vida en el bosque siempre me llama,\nDonde el aire puro mi mente acaricia.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "río"
+  }
+}

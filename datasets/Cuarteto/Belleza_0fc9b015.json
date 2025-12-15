@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En cada forma, un eco de esplendor,\nEl ojo busca, ansioso, su mirar,\nY el corazón, rendido a su fulgor,\nDescubre un brillo que no tiene par.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

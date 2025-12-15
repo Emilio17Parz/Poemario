@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El ciego estaba sentado,\npidiendo en el camino,\ncuando pasó el divino,\nmaestro amado.\nGritó con fuerte voz,\npidiendo compasión,\ny recibió la bendición,\nde manera veloz.\nAbrió los ojos y vio,\nla luz que Dios le dio.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "curación"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cuerpo cansado que se dobla,\npiel que se arruga como papel,\namargo sabor a hiel,\nque la vitalidad anubla.\n\nLa fuerza se despuebla,\ny se cae el oropel,\ndel joven corcel,\nque ahora se nubla.\n\nLamento del cuerpo vencido,\npor los años carcomido.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

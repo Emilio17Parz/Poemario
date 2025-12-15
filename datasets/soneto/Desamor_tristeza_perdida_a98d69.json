@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Entré en el laberinto de tu amor,\nbuscando el centro y el tesoro,\npero hallé al minotauro y al lloro,\ny me perdí en el miedo y el dolor.\n\nNo encuentro la salida, el corredor\nse cierra y me quedo sin coro,\nsuplicando una ayuda que imploro\na un sordo y ciego dios creador.\n\nDoy vueltas en círculo vicioso,\ntropezando con la misma piedra,\nen este encierro tenebroso.\n\nTu recuerdo crece como hiedra,\ncubriendo el muro pedregoso,\ny mi libertad nunca medra.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "minotauro"
+  }
+}

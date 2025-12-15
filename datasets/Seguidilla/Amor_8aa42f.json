@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz es como música,\npara mi oído,\nel sonido más bello,\nque he conocido.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "música"
+  }
+}

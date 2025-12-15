@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vamos andando sin ver el final,\nconstruyendo nuestra propia misión,\nen este viaje fundamental.\n\nBuscando el bien y evitando el mal,\ncon el alma llena de pasión,\nvamos andando sin ver el final.\n\nCada paso es una decisión,\nque nos marca el rumbo vital,\nen este viaje fundamental.\n\nSin perder nunca la ilusión,\nni caer en la resignación,\nvamos andando sin ver el final.\n\nEs la humana y eterna condición,\nde buscar siempre la salvación,\nen este viaje fundamental.\n\nCon valor y con el corazón,\nhacemos nuestra la gran lección,\nvamos andando sin ver el final,\nen este viaje fundamental.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "camino"
+  }
+}

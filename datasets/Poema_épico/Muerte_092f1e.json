@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cerrar los ojos y no despertar,\ndormir sin sueños, sin pesadillas,\ndejar la carga de respirar,\ny descansar en las orillas.\nEl sueño más largo, profundo y quieto,\nes de la muerte el gran secreto.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Sueño_Eterno"
+  }
+}

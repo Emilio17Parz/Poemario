@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Astro rey que dominas la altura,\nfuente de fuego y de luz pura!\nTú das la vida a la semilla inerte,\ny con tu rayo vences a la muerte.\n\n¡Salve, oh Sol, corona del día,\nque llenas el mundo de alegría!\nSin tu calor el orbe moriría,\nen una eterna y negra noche fría.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "sol"
+  }
+}

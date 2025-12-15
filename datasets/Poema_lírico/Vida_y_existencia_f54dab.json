@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La risa es una máscara\nque el alma se pone ya.\nEs la suave cáscara\nde un dolor que está.\n\nSe ríe por fuera,\nmientras por dentro llora,\nla única quimera\nde esta triste aurora.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "risa"
+  }
+}

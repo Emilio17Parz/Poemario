@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llorad, pastores, llorad conmigo,\nque ha muerto la flor del valle.\nQue el río su canto acalle\ny se seque el campo de trigo.\nLa muerte, ese oscuro enemigo,\nhizo que su luz nos falle.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "enemigo"
+  }
+}

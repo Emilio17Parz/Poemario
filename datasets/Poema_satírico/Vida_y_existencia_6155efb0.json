@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Persigue siempre tu sueño,\ndice el cartel de diseño.\nYo soñé que no trabajaba,\ny que el dinero llegaba.\nDesperté con el jefe gritando,\ny mi 'sueño' se fue volando.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

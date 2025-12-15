@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Del polvo venimos todos\ny en polvo nos tornaremos,\naunque tengamos castillos\nnada nos llevaremos.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

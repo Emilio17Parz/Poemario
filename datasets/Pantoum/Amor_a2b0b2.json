@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Son tus brazos mi hogar seguro,\nmuros de carne contra el dolor,\nun sitio cálido, fuerte y puro,\ndonde florece siempre el amor.\n\nMuros de carne contra el dolor,\nme protegen del mundo exterior,\ndonde florece siempre el amor,\nguardo el tesoro en mi interior.\n\nMe protegen del mundo exterior,\nun sitio cálido, fuerte y puro,\nguardo el tesoro en mi interior,\nson tus brazos mi hogar seguro.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "brazos"
+  }
+}

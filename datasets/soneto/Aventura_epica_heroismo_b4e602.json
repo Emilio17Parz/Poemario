@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No es héroe quien vence sin sufrir,\nsino quien da su vida por el otro,\nquien doma del miedo al negro potro\ny acepta su destino de morir.\n\nSabe que no volverá a reír,\nni verá crecer a su propio potro,\npero ante el mal, nosotros y el otro,\nsu sangre está dispuesto a verter.\n\nQueda su escudo roto en el suelo,\ntestigo mudo de su gran acción,\nmientras su alma levanta el vuelo.\n\nSu nombre vive en la canción,\ny nos sirve de eterno consuelo\nen tiempos de desesperación.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "escudo"
+  }
+}

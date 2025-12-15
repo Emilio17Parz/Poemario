@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La ausencia tiene un don,\ny la vida es un colchón.\n\nEl vacío ya me llegó,\nla pena me hirió,\nel alma ya me sanó,\ny la vida es un colchón.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

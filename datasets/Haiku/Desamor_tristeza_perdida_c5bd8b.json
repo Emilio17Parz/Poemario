@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vaso quebrado,\nno se puede arreglar,\namor partido.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "vaso"
+  }
+}

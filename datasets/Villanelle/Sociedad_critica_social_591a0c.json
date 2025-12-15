@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sudar la frente por un salario,\nque apenas llega para vivir,\nes el moderno y triste calvario.\n\nCumplir con el duro horario,\nsin tiempo libre para reír,\nsudar la frente por un salario.\n\nSer un peón en el escenario,\nde producir y producir,\nes el moderno y triste calvario.\n\nLa vida se vuelve un sudario,\nque nos impide el sentir,\nsudar la frente por un salario.\n\nEs un esfuerzo extraordinario,\npara tan poco recibir,\nes el moderno y triste calvario.\n\nEn este mundo mercenario,\nsolo nos queda resistir,\nsudar la frente por un salario,\nes el moderno y triste calvario.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL CAPITÁN]\n(En medio de la tormenta)\n¡Agarraos a los mástiles! ¡El mar quiere tragarnos, la ola es un monstruo!\nLa aventura no está en el puerto, está en este instante de terror puro.\nSi sobrevivimos a esta noche, ya no seremos hombres, seremos mitos.\nYo no rezo a los dioses. Yo les grito que soy más fuerte que su tormenta.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "travesía"
+  }
+}

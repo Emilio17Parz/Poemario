@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me diste ayer un dulce beso,\nquedé de tu cariño preso,\nno tuvo precio ni peso.\nMe diste ayer un dulce beso,\nvivo soñando el regreso,\nde aquel instante travieso.\nMe diste ayer un dulce beso,\nquedé de tu cariño preso.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "beso"
+  }
+}

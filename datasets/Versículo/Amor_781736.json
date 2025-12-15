@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Los kilómetros son solo una invención de los mapas para probar la resistencia de los que se aman.\nCierro los ojos y mi espíritu viaja a la velocidad de la luz para acurrucarse a tu lado mientras duermes.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

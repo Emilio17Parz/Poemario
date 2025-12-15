@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se encerraron en muros de piedra,\ncambiaron el sol por la sombra.\nEl hombre se asombra\ny ya no medra.\nComo la hiedra\nque no alfombra.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "muros"
+  }
+}

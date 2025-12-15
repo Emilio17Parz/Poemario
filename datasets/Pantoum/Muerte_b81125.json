@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Traen coronas de flores,\npara adornar el final.\nMezcla de muchos olores,\nen el rito funeral.\n\nPara adornar el final,\nla belleza se marchita.\nEn el rito funeral,\nla muerte nos visita.\n\nLa belleza se marchita,\ntraen coronas de flores.\nLa muerte nos visita,\nmezcla de muchos olores.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "flores"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Frodo llevó el anillo,\nal Monte del Destino,\npor un camino,\nlleno de cuchillo.\nPequeño y sencillo,\nvenció al asesino,\ny al poder cochino,\ncon su brillo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "anillo"
+  }
+}

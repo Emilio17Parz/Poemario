@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quiso la fuerza del audaz destino,\ndar a mis pasos un mejor camino,\nvino tu amor cual regalado vino,\nsanto remedio.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "destino"
+  }
+}

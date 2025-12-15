@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El hondo susurro del pinar,\ndonde el musgo verde se adormece.\nUn claro arroyo, fiel al manantial,\nen melodía mansa reverdece.\nLas aves, coro efímero en la rama,\nsaludan la quietud que se derrama.\n\nY cuando el sol declina su poder,\ntiñendo el ocaso de carmesí,\nsurge la **luna**, un velo que al nacer\nla noche vela, dulce y sin frenesí.\nPlata sobre la cumbre, misterio puro,\nabraza el alma en un silencio oscuro.\nNaturaleza, eterna inspiración,\nlatido fiel de toda creación.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "luna"
+  }
+}

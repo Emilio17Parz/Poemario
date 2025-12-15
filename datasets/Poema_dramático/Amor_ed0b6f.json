@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL FILÓSOFO]\n(A solas)\nMe pregunto si lo que siento es amor o si es una necesidad química.\nSi ella se va, ¿moriré de pena o de costumbre?\n¡Ay, esta mente que analiza la belleza en lugar de simplemente beberla!\nEstoy condenado a ser un testigo de mi propia felicidad.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "duda"
+  }
+}

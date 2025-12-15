@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Selva de hormigón,\ndonde se pierde el pobre corazón.\nRuido, prisa y cemento,\nfalta el humano aliento.\nMultitud solitaria,\nque vive una existencia precaria.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

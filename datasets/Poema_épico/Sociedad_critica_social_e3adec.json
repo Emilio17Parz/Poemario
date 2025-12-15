@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El juego de viejos que matan jóvenes,\nbanderas manchadas de sangre roja,\nheroísmo falso que componen,\nmientras la madre su llanto despoja.\nLa paz es un sueño, la guerra es ley,\ndictada siempre por algún rey.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Guerra"
+  }
+}

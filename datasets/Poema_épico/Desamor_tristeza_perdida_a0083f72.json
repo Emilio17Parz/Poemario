@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Napoleón en la isla de roca,\nmira el mar gris con ojos cansados,\nrecuerda sus ejércitos amados,\ny la gloria que ya no le toca.\nEl imperio se fue, la suerte loca,\nlo ha dejado solo y olvidado,\nun águila triste y atado,\nque a la muerte invoca.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

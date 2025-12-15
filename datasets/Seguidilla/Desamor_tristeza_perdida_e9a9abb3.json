@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se acaba nuestro cuento\nsin un final,\nquedó la historia escrita\ncon tinta y sal.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "final"
+  }
+}

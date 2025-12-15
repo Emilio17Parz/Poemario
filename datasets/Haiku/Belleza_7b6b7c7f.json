@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Delicada rosa,\nCon su vívido color,\nCalma mi sentir.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "color"
+  }
+}

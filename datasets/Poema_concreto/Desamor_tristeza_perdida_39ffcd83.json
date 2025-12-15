@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "F R I O\nR     I\nI     R\nO I R F",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

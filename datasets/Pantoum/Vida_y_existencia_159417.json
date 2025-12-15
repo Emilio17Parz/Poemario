@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Arena cae en el reloj,\ngranos que no volverán.\nCierra el ojo y el cerrojo,\nlos años se nos van.\n\nGranos que no volverán,\ninstantes de oro y sal.\nLos años se nos van,\nhacia el juicio final.\n\nInstantes de oro y sal,\ncierra el ojo y el cerrojo.\nHacia el juicio final,\narena cae en el reloj.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

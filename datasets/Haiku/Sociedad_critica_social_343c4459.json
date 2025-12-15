@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "Ciega la masa,\nPor invisibles cadenas,\nSin despertar.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

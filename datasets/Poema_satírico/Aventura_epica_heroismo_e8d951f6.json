@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un héroe ungido, de estirpe excelsa,\nValiente en sueños, con gran pereza.\nSu aura mística, cual gran motor,\nLo impulsaba a evitar el sudor.\n\nLa antigua maldición, un gran quebranto,\nAsolaba las tierras con su espanto:\n¡Un duende verde que roba calcetines!\nY esparce chismes cual malandrines.\n\nAsí comenzó su glorioso **viaje**,\nCon mapa y brújula, gran equipaje.\nCruzó pantanos de lodo y té,\nY montañas de papel maché.\n\nSu espada mágica, de plástico, muy fina,\nY su corcel, que era una gallina,\nLo acompañaban sin gran fervor,\nMientras él quejaba del calor.\n\nAl fin llegó al castillo del horrendo\nSer que la ropa iba removiendo.\nCon grito épico, abrió el portón...\nY halló al duende, en un sillón,\nViendo novelas, con aire bobalicón.\n\nLa gloria póstuma, un plato de lentejas,\nY un diploma con raras moralejas:\n\"El que menos hace, más recibe al fin\",\nY \"¡Cuidado con el duende del calcetín!\"\nAsí el valiente, entre ovación y chanza,\nVolvió a su siesta, con panza.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

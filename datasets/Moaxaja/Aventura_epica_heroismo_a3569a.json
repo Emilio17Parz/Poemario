@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Manda el rey,\ncon su ley.\n\nEn el trono,\nsin abono,\nni perdono,\nal buey.\nManda el rey,\ncon su ley.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "rey"
+  }
+}

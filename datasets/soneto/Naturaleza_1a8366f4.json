@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La verde alfombra que la tierra ofrece,\nCon árboles que alcanzan alto el cielo,\nEl trino dulce que nos quita el velo,\nY el sol dorado que la vida mece.\n\nEl aura fresca que la piel apetece,\nEl musgo antiguo que recubre el suelo,\nLa luz que danza sin ningún recelo,\nY el gran caudal que nunca desfallece.\n\nMas de este edén, la voz más melodiosa,\nEs la del **río**, plata viva y clara,\nQue su canción sin pausa desvelara.\nFluye entre piedras, senda presurosa,\nEspejo fiel que el tiempo no repara,\nAlma del mundo, eterna y luminosa.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "río"
+  }
+}

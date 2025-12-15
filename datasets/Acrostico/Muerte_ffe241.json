@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Partiste hacia la nada,\nOlvidando el ayer.\nLa vida terminada,\nVolviendo a no ser.\nOscura la mirada.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "POLVO"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baila ligera,\nla compañera.\n\nMueve los pies,\nuna y otra vez,\ncon sencillez,\ny a su manera.\nBaila ligera,\nla compañera.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "danza"
+  }
+}

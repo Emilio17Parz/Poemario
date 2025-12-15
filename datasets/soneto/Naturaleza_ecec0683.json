@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde manto que la tierra viste,\nCon hilos de rocío al alba brilla,\nCuando el sol naciente en la colina,\nSu luz dorada con amor le asiste.\n\nEl ruiseñor su canto alegre emite,\nEntre el follaje denso que se encumbra,\nMientras la brisa suave nos deslumbra,\nY el aire puro el corazón permite.\n\nMas de entre todo, el más humilde amor,\nQue el bosque esconde en su callada selva,\nSe alza en un pétalo con dulce clamor;\n\nAnuncio eterno de divino fulgor,\nQue la pureza del Edén reserva,\nLa delicada y perfumada flor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "flor"
+  }
+}

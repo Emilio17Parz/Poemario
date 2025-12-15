@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento en mi pecho un profundo vacío,\ndesde el momento en que te vi partir,\ny me congela este terrible frío,\nque no me deja volver a sentir.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

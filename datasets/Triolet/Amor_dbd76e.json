@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me pierdo en tu dulce mirada,\nRefugio de paz y de luz,\nMi alma se siente amada.\nMe pierdo en tu dulce mirada,\nPor ti mi pasión es sagrada,\nEres tú mi gran virtud.\nMe pierdo en tu dulce mirada,\nRefugio de paz y de luz.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "luz"
+  }
+}

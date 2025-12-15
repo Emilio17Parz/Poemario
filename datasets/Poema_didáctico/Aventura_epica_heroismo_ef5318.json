@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La espada se rompe,\nla voluntad no,\naunque el mundo trompe,\ndigo que no.\nEl espíritu fuerte,\nvence a la muerte.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Voluntad"
+  }
+}

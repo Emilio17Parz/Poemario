@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Maestro severo,\nque enseña lección,\ncon la caída,\ny la herida,\ndel viajero.\nGracias a ti,\naprendí.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "error"
+  }
+}

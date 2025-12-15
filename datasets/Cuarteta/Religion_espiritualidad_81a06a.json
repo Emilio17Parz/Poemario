@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El alma es un templo, un altar sagrado,\ndonde mora el Padre, el Ser superior,\nel único bien, el eterno legado,\nel más precioso y sublime amor.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

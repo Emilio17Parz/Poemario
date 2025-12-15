@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cristal que devuelve el gesto,\npero no muestra el pensar,\ndonde me intento encontrar,\ny a veces me detesto.\n\nVeo el rasgo manifiesto,\nel tiempo en su caminar,\npero no puedo mirar,\nlo que en el alma he puesto.\n\n¿Soy esa imagen plana,\no soy el fuego interior?\n¿Soy la sombra o la mañana?\n\nPregunto con temblor,\na la figura humana,\nque me causa pavor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

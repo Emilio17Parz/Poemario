@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sin raíz profunda no hay árbol alto,\nel origen sostiene la identidad,\nsujeción firme ante el asalto,\nde la tormenta y la adversidad.\nHonra la tierra de donde vienes,\npues ella guarda lo que tú tienes.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Raíz"
+  }
+}

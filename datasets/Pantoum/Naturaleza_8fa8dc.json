@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el agua sin detenerse,\ncamino líquido hacia el mar.\nEn su espejo quiere verse,\nel sauce que ama llorar.\n\nCamino líquido hacia el mar,\nlleva secretos de la montaña.\nEl sauce que ama llorar,\nsu rama verde en el agua baña.\n\nLleva secretos de la montaña,\nen su espejo quiere verse.\nSu rama verde en el agua baña,\ncorre el agua sin detenerse.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "río"
+  }
+}

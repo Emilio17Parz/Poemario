@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El momento es este,\nel único real,\nlo que cueste,\nes lo ideal.\nMindfulness es clave,\npara la nave.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Ahora"
+  }
+}

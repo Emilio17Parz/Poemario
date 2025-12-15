@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El templo es el alma y luz (a),\ndonde mora el Ser fiel (b),\nel peso de mi cruel cruz (c),\nel trago de dulce miel (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Templo"
+  }
+}

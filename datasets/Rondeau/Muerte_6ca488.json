@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se borra la memoria,\nse pierde la historia,\ndel nombre grabado,\nya casi borrado,\nsin pena ni gloria.\n\nEs la falsa victoria,\nde la trayectoria,\ndel ser olvidado,\nSe borra la memoria.\n\nQueda la vanagloria,\nen la escapatoria,\ndel tiempo pasado,\nque hemos dejado,\nen la oratoria,\nSe borra la memoria.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

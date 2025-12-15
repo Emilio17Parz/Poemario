@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La conquista,\nde la vista.\nDel monte,\ny horizonte,\nde la lista.\n\nEl artista,\ny la pista.\nEl zizonte,\nla conquista.\n\nLa revista,\ny la arista.\nEl rinoceronte,\ndel sinsonte,\nque insista,\nla conquista.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

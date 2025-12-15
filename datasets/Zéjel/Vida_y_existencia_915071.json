@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La duda no tiene fin,\nmi alma es un trajín.\n\nEl miedo ya me llegó,\nla fe se me escapó,\nla vida me traicionó,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "duda"
+  }
+}

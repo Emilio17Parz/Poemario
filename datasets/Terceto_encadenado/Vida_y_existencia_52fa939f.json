@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nadie conoce su hado,\nni lo que vendrá después,\nel libro está cerrado.\n\nY el futuro no se ve a los pies,\ncaminamos a ciegas a veces,\nsin saber cómo es.\n\nEl final que te mereces.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "hado"
+  }
+}

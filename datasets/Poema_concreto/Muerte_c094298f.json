@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "vida vida\n v     v\n  i   i\n   d a\n    .\n   f i\n  n   n\n a     a\n l     l",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El luto que llevo es por ti,\ndolor que se siente de aquí.\nMi alma te nombra,\nla dulce sombra,\nla vida sin un solo sí.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Luto"
+  }
+}

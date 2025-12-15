@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "El poderoso al fin no ve\nal pueblo que gime sin cesar;\nla pobreza es su cruel condena,\nque lo lleva al hambre y al penar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

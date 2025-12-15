@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi alma y la tuya,\nse han encontrado,\nen este mundo triste,\ny desolado.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "alma"
+  }
+}

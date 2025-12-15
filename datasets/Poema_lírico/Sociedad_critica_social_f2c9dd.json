@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El dinero no es oro,\nes sangre y dolor.\nEl único coro\nsin ningún fulgor.\n\nCorrompe la vida,\ncompra la paz,\nla única herida\nsin ser capaz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "dinero"
+  }
+}

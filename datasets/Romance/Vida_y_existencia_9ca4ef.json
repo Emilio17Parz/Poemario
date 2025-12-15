@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La suerte es mujer voluble\nque gira como la rueda,\nhoy te sube a lo más alto\ny mañana nada queda.\nNo te fíes de su risa\nni de su capa de seda,\nque cambia de parecer\ncomo el viento en la arboleda.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

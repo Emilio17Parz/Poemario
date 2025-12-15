@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Pesa un quintal,\ny no corta ni el pan,\nregalo fatal,\ndel mago del clan.\nMejor una pistola,\nque mola sola.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Espada"
+  }
+}

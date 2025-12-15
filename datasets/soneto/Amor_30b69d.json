@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juro guardar la fe de este momento,\ndonde tus ojos miran a los míos,\nborrando de mi pecho los vacíos,\ncalmando con tu voz mi pensamiento.\n\nNo temo a la tormenta ni al violento\nrugir de los oscuros y fríos ríos,\npues tus brazos son cálidos estíos\nque me libran de todo sufrimiento.\n\nSeré la sombra fiel que te acompaña,\nel eco que repite tu alegría,\nla luz que en la mañana te baña.\n\nPrometo amarte más cada día,\nsin que el dolor o el tiempo nos dañe,\nhasta que se termine la vida mía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

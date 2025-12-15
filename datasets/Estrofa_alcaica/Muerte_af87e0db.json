@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El manto gélido de la Parca llega,\nsin voz, sin prisa, el aliento se va;\ndeja un vacío atroz aquí,\ny el mundo sigue su camino al par.\n\nMas ¿qué del alma que en silencio espera?\nLa sombra cubre, mas no al porvenir;\nla *memoria* fiel al corazón\nconserva la esencia, tenue verdad.\n\nNo es el final, tan solo un nuevo umbral;\nel tiempo corre, su verdad revelará;\ntras el velo fugaz y cruel,\nla paz eterna, ya sin su pesar.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

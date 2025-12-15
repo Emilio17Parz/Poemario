@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El espíritu del hombre es lámpara del Señor, la cual escudriña lo más profundo del corazón.\nCiertamente espíritu hay en el hombre, y el soplo del Omnipotente le hace que entienda.\nEl espíritu es el que da vida; la carne para nada aprovecha; las palabras que yo os he hablado son espíritu y son vida.\nNadie conoce las cosas del hombre, sino el espíritu del hombre que está en él; así tampoco nadie conoció las cosas de Dios.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

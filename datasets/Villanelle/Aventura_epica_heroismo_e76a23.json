@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se cuenta junto al fuego,\nla historia del valiente,\ncomo un sagrado ruego.\n\nNo es un simple juego,\nlo que dice la gente,\nse cuenta junto al fuego.\n\nYo me entrego,\na ese cauce corriente,\ncomo un sagrado ruego.\n\nEs el apego,\nal pasado latente,\nse cuenta junto al fuego.\n\nNo lo niego,\nes mi referente,\ncomo un sagrado ruego.\n\nYo lo riego,\nen mi mente,\nse cuenta junto al fuego,\ncomo un sagrado ruego.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

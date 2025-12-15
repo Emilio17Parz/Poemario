@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Muerte, un velo que cae sin demora,\n¿Qué nos retiene en su fría hora?\n\nEl cuerpo yace sin palpitar,\nla voz se apaga sin hablar,\ntodo parece al fin cesar.\nMás la esencia no se evapora.\n\nMas la **memoria**, cual luz en el erial,\nconserva el gesto, el don ancestral,\nque vence al olvido fatal.\nUn eco que el tiempo atesora.\n\nEn cada risa, en cada lamento,\npervive el rastro de tu aliento,\nrompiendo el cruel aislamiento.\nY el alma eterna nos implora.\n\nLa Muerte, un velo que cae sin demora,\n¿Qué nos retiene en su fría hora?",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

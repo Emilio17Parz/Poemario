@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ella se puso el traje de seda y encaje,\nEl espejo devolvió el más bello paraje.\nLa tela era la sombra, el cuerpo la luz,\nLa belleza se esconde tras el suave tul.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "vestido"
+  }
+}

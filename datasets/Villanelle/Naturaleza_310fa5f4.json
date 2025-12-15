@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque susurra su eterno vivir,\nLa luz del día baña la maleza,\nDel alto cielo un mágico sentir.\n\nLas aguas buscan su eterno fluir,\nCon pura calma, pura gentileza,\nEl bosque susurra su eterno vivir.\n\nNo hay tiempo, solo dulce transcurrir,\nQue abraza al mundo con su fortaleza,\nDel alto cielo un mágico sentir.\n\nLas sombras bailan antes de partir,\nCreando formas de sutil belleza,\nEl bosque susurra su eterno vivir.\n\nMil voces callan, vuelven a surgir,\nEn cada hoja, pura naturaleza,\nDel alto cielo un mágico sentir.\n\nEl alma anhela lo que ha de venir,\nEn esta vasta y libre fortaleza,\nEl bosque susurra su eterno vivir,\nDel alto cielo un mágico sentir.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

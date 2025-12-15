@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guía con el ejemplo,\nno con el látigo,\nconstruye el templo,\nsin ser fanático.\nEl líder va primero,\nen el sendero.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Liderazgo"
+  }
+}

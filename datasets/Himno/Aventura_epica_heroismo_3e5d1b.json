@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No la que se pide, la que se gana,\nrompiendo el yugo con furia humana.\n¡Gloria a la Libertad conquistada!,\ncon sangre y sudor, con la espada.\n\nEs el derecho de todo ser,\npor el que vale la pena caer.\nCantemos al aire libre y puro,\nque hemos ganado con paso duro.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

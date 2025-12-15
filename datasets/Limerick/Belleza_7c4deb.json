@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La danza de un cuerpo sin par,\nsu ritmo que hace vibrar.\nEs arte y es vida,\nsin rastro de herida,\nel alma que busca el mar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

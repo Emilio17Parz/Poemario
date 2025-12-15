@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Un jabalí cerca de un río caudal,\nDaba un salto, un gran festival.\nVio un erizo jugar,\nY se puso a rodar,\nFue un día de fauna genial.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "río"
+  }
+}

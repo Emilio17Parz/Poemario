@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuego en la piel,\ndulce y fiel.\n\nLlama que arde,\nque no se guarde,\nni se acobarde,\nla hiel.\nFuego en la piel,\ndulce y fiel.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

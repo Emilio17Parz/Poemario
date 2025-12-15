@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Subir la cuesta empinada,\ncon la carga a la espalda,\nla voluntad respalda,\nla meta deseada.\n\nNo vale la parada,\nhasta llegar a la cima,\ndonde el aire anima,\nla vista cansada.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "voluntad"
+  }
+}

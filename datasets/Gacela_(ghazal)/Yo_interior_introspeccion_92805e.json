@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vive conmigo mi propio miedo,\nsombra interior es mi propio miedo.\n\nNo temo a la noche ni al lobo feroz,\ntemo a la duda de mi propio miedo.\n\nVencer al fantasma que llevo dentro,\nes la batalla contra mi miedo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

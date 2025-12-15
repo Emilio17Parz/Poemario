@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te fuiste dando un portazo y adiós,\ncreyendo que lloraríamos los dos.\nPero al cerrar tú la puerta,\nmi alegría quedó despierta.\nMe dejaste el mando y la cama,\n¡bendito final del drama!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

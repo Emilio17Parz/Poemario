@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro mi rostro viejo\nen el espejo,\ny encuentro en la mirada\nun gran consejo.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

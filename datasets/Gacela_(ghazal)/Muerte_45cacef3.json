@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo camino humano llega a su fin,\ncuando se calla el canto y llega el fin.\n\nNo importa la riqueza ni la pobreza,\ntodos somos iguales ante el fin.\n\nEspero que la paz me cubra los ojos,\ncuando mi propia historia toque su fin.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "fin"
+  }
+}

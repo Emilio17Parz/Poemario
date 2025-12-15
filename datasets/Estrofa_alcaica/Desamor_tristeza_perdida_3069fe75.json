@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Corren las aguas por la mejilla triste,\nfruto amargo de la ilusión perdida,\nya la esperanza no existe,\nsolo la sal de la despedida.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

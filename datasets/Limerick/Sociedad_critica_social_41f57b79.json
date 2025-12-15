@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Camina mirando el cel,\ntropezó con un tonel,\ncayó en la fuente,\ndelante de gente,\ny mojó hasta el papel.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Móvil"
+  }
+}

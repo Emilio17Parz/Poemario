@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Luto que llevo con sombra sin par,\nla pena que el alma no puede vencer.\nEl duelo es eterno, sin poder anclar,\nel alma sin un gran poder.\nTu sombra es profunda, la pena es total,\nel golpe que el alma es fatal.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Luto"
+  }
+}

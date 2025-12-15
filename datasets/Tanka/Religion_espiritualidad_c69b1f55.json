@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mente callada,\nrespiro el presente\nsin ansiedad.\nEl loto se abre lento\nen el lago de paz.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "meditación"
+  }
+}

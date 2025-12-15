@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dicen que la vida es solo un sueño,\ndonde nadie es el dueño.\nVivimos la ilusión,\ncon mucha pasión,\nhasta el despertar,\ndel eterno soñar.\nTeatro de vanidad,\ny brevedad.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

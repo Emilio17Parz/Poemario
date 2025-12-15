@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visten los montes de gris oscuro,\nlloran las nubes lluvia fina.\nLa muerte, dama repentina,\nsaltó el pastoril muro.\nEl futuro es inseguro\nsi la parca nos domina.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luto"
+  }
+}

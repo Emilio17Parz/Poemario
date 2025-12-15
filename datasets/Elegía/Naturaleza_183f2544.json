@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Donde hubo verde, hoy hay negro,\ncenizas cubren el suelo,\nse alza el humo hacia el cielo,\ny yo en mi llanto me integro.\nEl fuego, monstruo sin suegro,\ndevoró con cruel anhelo\nla vida, el nido y el vuelo,\ndejando un paisaje magro.\nEsqueletos de árboles píos,\nalzan sus ramas quemadas,\npidiendo a los dioses fríos.\nLloran las ninfas hadas,\npor los perdidos ríos,\ny las tierras desoladas.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "bosque_quemado"
+  }
+}

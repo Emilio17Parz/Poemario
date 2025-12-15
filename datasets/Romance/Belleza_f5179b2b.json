@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No hay belleza más grande,\nque la risa de un niño,\nque mira el mundo nuevo\ncon puro cariño.\nSus ojos son dos luceros,\nsin un aliño,\ny su alma es blanca tela\nde lino.\nLa inocencia bendita,\nque yo escudriño,\nes la flor más hermosa\ndel camino.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "niño"
+  }
+}

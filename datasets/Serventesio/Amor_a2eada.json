@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si el tiempo te lleva, tu recuerdo perdura (A),\ncomo una dulce y clara oración (B),\nla pena se aleja, la vida es la cura (A),\nla luz que me da la gran lección (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Recuerdo"
+  }
+}

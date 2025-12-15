@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El miedo es compañero del valiente,\nfrío sudor que recorre la espalda,\ncuando la muerte le pisa la falda\ny el peligro se muestra inminente.\n\nNo es la ausencia de miedo lo urgente,\nsino vencerlo aunque el alma escalda,\ny mantener la mirada gualda\nfrente al destino cruel y potente.\n\nTiemblan las manos al empuñar,\npero el deber sostiene el brazo,\ny le obliga a continuar.\n\nRompe del miedo el duro lazo,\ny se lanza decidido a luchar,\naunque le cueste el último paso.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sudor"
+  }
+}

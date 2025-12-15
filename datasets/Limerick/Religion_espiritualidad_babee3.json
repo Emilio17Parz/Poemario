@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El alma que busca su paz,\nse halla sin un solo haz.\nLa calma es de Dios,\nsin rastro de tos,\nel amor que siempre está ya.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

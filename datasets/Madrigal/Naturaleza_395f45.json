@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rey del fuego dorado,\nque das calor a todo lo que vive;\nquien tu luz recibe\nes afortunado.\nSin ti la oscuridad sería eterna,\nfría caverna.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi barca se hunde en el mar del cruel dolor (A),\nsin puerto seguro, sin un fanal (B),\nla vida es un naufragio, sin un fulgor (A),\nel fin amargo y total (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Barca"
+  }
+}

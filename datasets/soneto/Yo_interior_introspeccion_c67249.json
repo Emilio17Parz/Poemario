@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Voz que susurra en el oído,\ncuando se apaga la luz,\ncargando la pesada cruz,\nde todo lo cometido.\n\nJuez severo y dolorido,\nque no acepta ni trasluz,\nni excusa, ni arcabuz,\npara el error admitido.\n\nNo puedo huir de tu juicio,\nporque vives en mi mente,\ncomo un eterno suplicio.\n\nTestigo omnisciente,\nde mi virtud y mi vicio,\nsiempre clara y presente.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

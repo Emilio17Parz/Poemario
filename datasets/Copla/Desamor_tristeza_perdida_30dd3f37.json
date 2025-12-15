@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El alma me duele tanto,\npor tu partida sin rumbo,\nmi corazón ya es un llanto\nen un silencio profundo.\n\nMurmullo de despedida,\nque se clava en mi sentir,\ntu último y frío adiós,\nme condena a no vivir.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

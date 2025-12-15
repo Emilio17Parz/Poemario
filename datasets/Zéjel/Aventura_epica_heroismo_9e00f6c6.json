@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Que el coraje brille sin par,\nen la gesta de un gran luchar,\npor una leyenda cumplida.\n\nDe su hogar el guerrero partió,\nsu destino en el viento sintió,\nun llamado que a otros venció,\npor una leyenda cumplida.\n\nEn la cruenta **batalla** feraz,\ndonde el filo no pide solaz,\nse revela su fuerza y su paz,\npor una leyenda cumplida.\n\nSu alma de fuego al fin mostró,\nningún miedo su paso detuvo,\nal honor que en su pecho mantuvo,\npor una leyenda cumplida.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

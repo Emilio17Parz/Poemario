@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se apagó la voz, cesó el aliento,\nquedó el cuerpo yerto y quieto.\nLa muerte cumplió su objeto\ncon rápido movimiento.\nSolo queda el pensamiento\ny un dolor secreto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "aliento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se abrieron las fuentes del abismo,\ny llovió cuarenta días seguidos,\nlos montes fueron sumergidos,\npor un divino cataclismo.\nSolo un arca en el espejismo,\nguardó a los seres elegidos,\nmientras los mundos perdidos,\ncaían en el ostracismo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "diluvio"
+  }
+}

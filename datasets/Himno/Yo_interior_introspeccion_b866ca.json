@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Libro de hojas que el tiempo escribió,\ny que en el alma se nos grabó!\nJoyas de ayer que brillan aún,\nen el desván del sentido común.\n\n¡Gloria a los recuerdos que nos construyen,\ny que del río del tiempo no huyen!\nSomos la suma de lo que vivimos,\ny de los sueños que un día tuvimos.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

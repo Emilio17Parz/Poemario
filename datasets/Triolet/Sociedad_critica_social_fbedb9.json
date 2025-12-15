@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Avanza,\nel tren.\nBonanza,\navanza.\nEl bien,\nbalanza.\nAvanza,\nel tren.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "progreso"
+  }
+}

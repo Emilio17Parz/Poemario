@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Arte efímero que viste el cuerpo,\njuego de formas, telas y colores,\nlos amores,\nde un mundo vanidoso y superbio.\nExpresión de quien somos o queremos,\ny vemos,\nen el espejo nuestra identidad,\ncon vanidad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "estilo"
+  }
+}

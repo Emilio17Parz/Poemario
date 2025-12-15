@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aburrido de asustar,\ncon la sábana raída,\nya no sabe qué inventar,\nen su eterna partida.\nNadie cree en el más allá,\ny él se siente un 'pachá'.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Fantasma"
+  }
+}

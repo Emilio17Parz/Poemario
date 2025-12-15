@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Es un fuego que quema y que no cesa,\nel deseo que siento por tu piel,\nuna dulce y ardiente gran promesa,\nque me sabe a ambrosía y a hidromiel.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

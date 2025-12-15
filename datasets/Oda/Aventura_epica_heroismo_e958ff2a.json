@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Oh, Aventura, bramido que el alma despierta,\nEco inmortal que al cobarde sepulta.\nHeroísmo, antorcha en la noche incierta,\nCoraje forjado, verdad que no oculta.\n\nDesde la cuna el corazón ya palpita,\nPor sendas ignotas que el destino urdió.\nUn viaje épico que el espíritu invita,\nMientras la historia su gran rumbo dictó.\n\nMontes que escupen furia, mares bravíos,\nSombras ancestrales que ocultan su faz.\nDragones de fuego, sus alientos impíos,\nPrueban la fibra que el héroe es capaz.\n\nNo es la espada sola, ni el escudo de hierro,\nSino el espíritu indómito, sin temor.\nLa fe en la meta, más allá de un entierro,\nQue transforma el miedo en puro valor.\n\nCon cada paso, la leyenda se labra,\nUn hito glorioso que el tiempo no borra.\nEs voz del alma, la más alta palabra,\nQue en cada aurora, el heroísmo aflora.\n\nOh, Aventura, don que a la vida da vuelo,\nHeroísmo, faro que al alma rescata.\nPor siempre brilla en el vasto cielo,\nLa gloria del hombre que al destino acata.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

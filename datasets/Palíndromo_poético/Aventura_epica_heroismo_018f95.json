@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Muro alto\nprotege\nal rey\nprotege\nmuro alto",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "castillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aquí sentados nos vio la luna,\naquí juraste amor eterno y fiel.\nTodo era dulce como la miel,\ny hoy es amargo como la aceituna.\nMaldigo del destino la fortuna\nque me dio hiel envuelta en piel.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luna"
+  }
+}

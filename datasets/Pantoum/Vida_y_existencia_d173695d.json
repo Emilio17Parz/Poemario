@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivimos de los sueños,\nque nos dan aliento,\nsomos sus dueños,\nen el pensamiento.\n\nQue nos dan aliento,\npara continuar,\nen el pensamiento,\ny poder volar.\n\nPara continuar,\nvivimos de los sueños,\ny poder volar,\nsomos sus dueños.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

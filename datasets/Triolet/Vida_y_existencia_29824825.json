@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es bello vivir\ncada momento,\ny sonreír.\nEs bello vivir,\ny construir\nbuen sentimiento.\nEs bello vivir\ncada momento.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "vivir"
+  }
+}

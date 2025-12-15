@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quemé la vieja carta,\nque hablaba de amor,\npara que el alma parta,\nlejos de este dolor.\n\nQue hablaba de amor,\ncon palabras fingidas,\nlejos de este dolor,\ny promesas perdidas.\n\nCon palabras fingidas,\nquemé la vieja carta,\ny promesas perdidas,\npara que el alma parta.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "carta"
+  }
+}

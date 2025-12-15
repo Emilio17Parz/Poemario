@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lienzo y óleo,\ncrean mundo,\ntan profundo,\ncomo el eolo.\nNo estoy solo,\nante el arte,\nque reparte,\nel control.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

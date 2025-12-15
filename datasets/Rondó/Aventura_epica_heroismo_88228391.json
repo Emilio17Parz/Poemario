@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La gloria llama, alma valiente,\nEl reto aguarda, sin temor.\nEl héroe avanza, consecuente,\nLa gloria llama, alma valiente.\n\nSu espada brilla, refulgente,\nFrente al abismo, con ardor.\nLa gloria llama, alma valiente,\nEl reto aguarda, sin temor.\n\nUn gran **dragón**, serpiente ardiente,\nCustodia un oro sin valor.\nLuchará fiero, omnipotente,\nPor un futuro prominente.\nLa gloria llama, alma valiente.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

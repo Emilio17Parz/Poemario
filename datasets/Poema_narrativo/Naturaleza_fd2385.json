@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La niebla llegó lenta, cubriendo el camino,\nRobando los contornos con un aire divino.\nEl viajero se perdió en la espesa manta,\nDonde la realidad se vuelve fantasma.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "neblina"
+  }
+}

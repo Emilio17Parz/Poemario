@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu nombre en mi boca es un caramelo que nunca se disuelve, una palabra mágica que abre todas las puertas.\nLo pronuncio en la oscuridad y se encienden las estrellas; lo susurro al viento y el mundo se calma.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Temo el día en que ya no recuerde,\ntu rostro, tu voz, ni tu caminar,\nque el tiempo consiga por fin borrar,\nlo que hoy mi memoria con fuerza muerde.\n\nSerá la muerte final y cobarde,\ncuando tu nombre deje de nombrar,\ny mi corazón deje de sangrar,\npor este amor que en el pecho arde.\n\nLamento el olvido que ha de venir,\ny matar lo poco que queda de ti.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

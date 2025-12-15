@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro al espejo y no conozco,\nal que me mira desde allí,\ntiene el semblante un poco tosco,\ny ojos que yo nunca vi.\n¿Quién es ese, quién fui?\n¿Dónde me perdí yo a mí?",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "   C\n  u n\n a   a\nL     L\n u   u\n  n z\n   a",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "luna"
+  }
+}

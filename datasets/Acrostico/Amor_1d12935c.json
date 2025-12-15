@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "P rende la llama en mi piel,\nA rde el deseo profundo,\nS iento el calor de tu ser,\nI nundando todo mi mundo,\nO lvidando cualquier temor,\nN avegando en tu pasión.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "pasion"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Noche vacía,\nsolo el reloj me habla\ncon su tic-tac.\nLa cama es un desierto\ndonde no sale el sol.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

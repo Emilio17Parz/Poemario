@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mañana lo hago, seguro,\nhoy mejor veo una serie,\nel trabajo es duro,\ny me da a la intemperie.\nEl arte de posponer,\nhasta el amanecer.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Procrastinación"
+  }
+}

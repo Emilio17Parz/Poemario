@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El que no trabaja\nno debe comer,\nes ley de la vida\ny del buen hacer.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

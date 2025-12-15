@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Miro el alma, ¿es real?\nLa mente teje un sentir.\nSer soy yo, en mí.\nUn sentir teje la mente.\n¿Real es? El alma miro.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "mente"
+  }
+}

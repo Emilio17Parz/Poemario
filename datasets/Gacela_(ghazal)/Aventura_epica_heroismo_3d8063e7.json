@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan los tambores de la batalla,\ny el corazón se agita ante la batalla.\n\nEl polvo y los gritos cubren el cielo,\nes la danza terrible de la batalla.\n\nSolo el valiente queda cuando anochece,\nsobre el campo silente de la batalla.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

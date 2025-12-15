@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Qué dejaremos aquí,\ncuando toque la partida.\nLo que te di y recibí,\nesencia de la vida.\n\nCuando toque la partida,\nmemoria en los demás.\nEsencia de la vida,\nque no borrarás jamás.\n\nMemoria en los demás,\nlo que te di y recibí.\nQue no borrarás jamás,\nqué dejaremos aquí.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "huella"
+  }
+}

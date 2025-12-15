@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Romper el velo de la oscuridad,\nsalir al mundo envuelto en llanto y grito,\ncomienzo de este viaje, el infinito,\nprimera prueba de la realidad.\n\nUn soplo de divina claridad\nenciende el corazón tan pequeñito,\ny queda en el destino el nombre escrito\ncon tinta de fugaz humanidad.\n\nNacer es el milagro y la condena,\nes recibir la luz y el sufrimiento,\nel gozo dulce y la futura pena.\n\nAquí empieza el eterno movimiento,\nla sangre que galopa por la vena,\ny el alma que despierta al firmamento.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "nacer"
+  }
+}

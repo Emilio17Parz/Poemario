@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La verdadera muerte es el olvido.\nCuando nadie diga tu nombre,\ncuando tu foto se pierda,\ncuando la última persona que te conoció\ncierre los ojos.\nEntonces morirás del todo.\nMientras tanto, vives en el eco\nde nuestra memoria herida.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

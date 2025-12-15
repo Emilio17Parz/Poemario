@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Asomada a la ventana,\nmira la niña el sendero,\nesperando que aparezca\nla figura de su lucero.\nLa luna borda de plata\nlos filos del limonero,\ny el viento le trae susurros\nde un 'te amo' verdadero.\n¡Ay, qué larga es la noche,\ncuando falta el compañero!,\nque se lleva el alma mía\nen su caballo ligero.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "ventana"
+  }
+}

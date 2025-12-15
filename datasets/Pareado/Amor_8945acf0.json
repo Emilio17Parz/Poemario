@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te juro un amor puro y eterno,\nque venza el frío del más crudo invierno.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

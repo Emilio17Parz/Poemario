@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Álbum de fotos de un ayer lejano,\nrostros que fueron y que ya no están,\ntodo se va de la mano\ncomo las migas de pan.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

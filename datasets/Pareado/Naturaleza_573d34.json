@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La playa es el límite, el fin de la tierra sin par (A),\ndonde el mar reposa, sin más que amar (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Playa"
+  }
+}

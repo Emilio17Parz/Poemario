@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Como la amapola roja,\nque vive un solo día,\nasí fue su alegría,\nque la muerte despoja.\nEl viento la hoja,\narranca con porfía,\ny la tumba fría,\nel cuerpo recoja.\nSomos niebla y bruma,\nque el sol disipa,\ny en la nada se suma.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Seda es suave tela,\nque me diste con amor,\ny mi alma ya sin vela,\nsin un poco de fulgor.\n\nTe fuiste sin despedida,\nsin darme la razón,\ny mi vida está podrida,\nsin tu dulce corazón.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Seda"
+  }
+}

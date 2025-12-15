@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Creí que nuestro lazo era eterno,\nque vencería al tiempo y a la parca,\npero la muerte impuso su marca,\ny convirtió mi cielo en un infierno.\nAhora vago sin rumbo y sin tu mano,\nllorando un juramento que fue vano.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

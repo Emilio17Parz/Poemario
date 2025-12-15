@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ofrecí mi espada al altar del destino,\ncambié mi gloria por un solo beso,\ndejé que la hiedra cubriera el camino\ny que el olvido royera mi hueso.\nPues vale más un instante a tu lado,\nque mil años siendo un héroe aclamado.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Sacrificio"
+  }
+}

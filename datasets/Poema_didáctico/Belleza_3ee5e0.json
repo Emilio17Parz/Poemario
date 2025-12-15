@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Si el alma es negra,\nla cara se afea,\nnada te alegra,\naunque guapa sea.\nCultiva el jardín interior,\npara lucir mejor.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

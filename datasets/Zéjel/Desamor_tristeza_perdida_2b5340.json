@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi llanto no tiene voz,\nla pena me es atroz.\n\nLa lágrima ya cayó,\ny el alma ya se hirió,\nla vida se me rompió,\nla pena me es atroz.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "lágrimas"
+  }
+}

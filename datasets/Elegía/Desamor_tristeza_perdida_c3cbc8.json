@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La casa cruje por el abandono,\nlas telarañas tejen su dosel,\ncae la pintura y cae el papel,\ny el polvo cubre el antiguo trono.\n\nNadie visita, ni suena el teléfono,\nsolo el recuerdo amargo y cruel,\nde cuando la vida sabía a miel,\ny hoy solo queda un triste monótono.\n\nRuina y silencio es lo que ha quedado,\nde un corazón que fue deshabitado.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "abandono"
+  }
+}

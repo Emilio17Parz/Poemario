@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Elevo mi alma hacia Dios,\nque une la vida de los dos,\nsin decir nunca adiós.\nElevo mi alma hacia Dios,\nescucha siempre mi voz,\nen este mundo veloz.\nElevo mi alma hacia Dios,\nque une la vida de los dos.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "dios"
+  }
+}

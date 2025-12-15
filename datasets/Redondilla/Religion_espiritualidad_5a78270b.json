@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Me sostiene mi fe\nen la hora de la prueba,\nes la fuerza que me lleva\ny me mantiene en pie.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "fe"
+  }
+}

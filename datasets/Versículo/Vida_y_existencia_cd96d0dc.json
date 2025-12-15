@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hemos nacido en el centro de un laberinto de muros invisibles.\nCorremos por pasillos de dudas, buscando la salida hacia la luz.\nA veces encontramos a otros perdidos y caminamos juntos un tramo.\nPero el laberinto es personal y cada uno debe encontrar su propio hilo de Ariadna.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

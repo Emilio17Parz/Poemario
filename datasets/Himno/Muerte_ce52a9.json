@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mar sin orillas, tiempo sin medida,\ndonde se funde la muerte y la vida.\nAbismo insondable de luz o de sombra,\nque al alma humana siempre asombra.\n\n¡Gloria a lo eterno que nunca perece,\ndonde el espíritu siempre crece!\nMás allá del sol y de las estrellas,\nborras de la vida todas las huellas.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

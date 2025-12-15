@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Callan las voces, se apaga el ruido,\ntodo regresa al gran nido.\n¡Salve, Silencio, música sagrada!,\nque acoges la vida ya terminada.\n\nEn tu vacuidad todo cobra sentido,\nlo que fue ganado y lo que fue perdido.\nTe canto bajito, con reverencia,\nhonrando de la muerte su gran clemencia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

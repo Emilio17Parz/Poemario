@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Llegó un papel sellado con un corazón de cera,\nQue decía: 'Mi vida por ti, si tú me esperas'.\nElla besó la tinta y guardó aquel mensaje,\nSabía que era cierto, no era solo un paraje.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "carta"
+  }
+}

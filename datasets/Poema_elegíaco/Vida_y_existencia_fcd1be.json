@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un suspiro, la muerte un dolor,\nla vida sin la calma, el cruel fulgor.\nLa agonía es el precio de un ser sin razón,\nla sombra constante sin ninguna opción.\n\nMe rompe la carne, me quita la luz,\nla vida sin la calma, la triste cruz.\nMi final es la sombra de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "agonía"
+  }
+}

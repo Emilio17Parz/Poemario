@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El Frío me está matando,\nme congela sin piedad,\ny mi alma sigue esperando,\nun poco de caridad.\n\nTe busco y no te encuentro,\nen la sombra de mi ser,\ny solo encuentro el lamento,\nsin un solo gran poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

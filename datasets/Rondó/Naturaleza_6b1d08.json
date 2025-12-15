@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despunta el alba ya,\nse acaba lo oscuro,\nun comienzo puro,\nque llegará.\nEl gallo cantará,\nsobre el muro.\nDespunta el alba.\n\nColores suaves,\npintan el este,\ncolor celeste,\npara las aves.\nTú ya lo sabes,\nno te cueste.\nDespunta el alba.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "alba"
+  }
+}

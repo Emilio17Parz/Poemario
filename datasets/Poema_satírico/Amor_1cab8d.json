@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Osos de felpa y bombones,\nel día de San Valentín,\ncomprando los corazones,\ncon un gesto chiquitín.\nEl amor se mide en gasto,\nen este mundo nefasto.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Regalos"
+  }
+}

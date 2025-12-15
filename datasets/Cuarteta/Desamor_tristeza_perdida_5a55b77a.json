@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Eres solo una sombra\nque se aleja en la pared,\ny mi voz ya no te nombra\naunque muera yo de sed.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se apaga la vela que nos alumbra,\nllega el silencio definitivo,\npara ser parte de la penumbra.\n\nEl cuerpo deja de ser un ser vivo,\ny se pierde la vieja costumbre,\nse apaga la vela que nos alumbra.\n\nYa no queda ningún motivo,\npara subir a la alta cumbre,\npara ser parte de la penumbra.\n\nEl destino se muestra esquivo,\ncon su fría y letal certidumbre,\nse apaga la vela que nos alumbra.\n\nSin ser ya más cautivo,\ndel dolor y la pesadumbre,\npara ser parte de la penumbra.\n\nEn un sueño pasivo,\nse deshace la muchedumbre,\nse apaga la vela que nos alumbra,\npara ser parte de la penumbra.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "final"
+  }
+}

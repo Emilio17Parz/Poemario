@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El mal siempre tienta,\ncon mentiras y engaño,\ny nos violenta.\n\nSe alimenta,\ndel daño,\nel mal siempre tienta.\n\nSe calienta,\nel baño,\ny nos violenta.\n\nSe presenta,\nel extraño,\nel mal siempre tienta.\n\nSe revienta,\nel peldaño,\ny nos violenta.\n\nSe lamenta,\nel rebaño,\nel mal siempre tienta,\ny nos violenta.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "diablo"
+  }
+}

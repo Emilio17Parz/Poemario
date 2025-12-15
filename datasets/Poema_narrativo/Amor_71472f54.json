@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuenta la leyenda que un dios partió\nen dos mitades a los seres vivos,\ny cada uno su rumbo emprendió.\nVagaron por los mundos fugitivos,\nbuscando esa pieza que les faltaba.\nUn día, dos extraños pensativos\nse cruzaron donde el río acababa.\nAl mirarse a los ojos comprendieron\nque su alma gemela allí estaba,\ny nunca más solos se sintieron.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "alma"
+  }
+}

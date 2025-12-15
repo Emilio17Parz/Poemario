@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El trono de piedra\nes la meta del guerrero,\nluchar por su derecho.\nConquistar el gran poder,\npara un reino justo ya.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Trono"
+  }
+}

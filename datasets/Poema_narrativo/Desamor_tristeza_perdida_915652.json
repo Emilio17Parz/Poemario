@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El barco del amor chocó contra la roca,\nSe hundió lentamente sin que nadie lo toca.\nElla vio cómo el mástil desaparecía lento,\nLlevándose consigo todo su aliento.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

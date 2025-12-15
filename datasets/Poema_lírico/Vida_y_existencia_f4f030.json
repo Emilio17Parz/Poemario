@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El camino se dobla\njusto antes de llegar.\nLa vida se roba\nsin poder amar.\n\nVoy sin mapa ni brújula,\nsolo mi fe ciega,\nla única cúspula\nque el alma me pega.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Silente viene la muerte,\nMas queda siempre memoria.\nSu sombra ya no advierte.\n\nSilente viene la muerte,\nLa vida que se evapora,\nDel cuerpo que fue fuerte.\n\nSilente viene la muerte,\nMas queda siempre memoria.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

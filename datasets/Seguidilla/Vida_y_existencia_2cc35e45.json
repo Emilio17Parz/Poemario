@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El tiempo que transcurre\nsin tregua ni afán,\nnos muestra la verdad\ndel efímero plan.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

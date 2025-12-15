@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Centro redondo\npétalos giran\nabiertos al sol\ncolor y aroma\ntallo delgado\nhoja pequeña\nbelleza breve.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "flor"
+  }
+}

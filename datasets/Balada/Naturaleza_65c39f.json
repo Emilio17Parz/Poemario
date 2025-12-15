@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río desciende sin un final (a),\ncon fuerza, con calma, con fe (b),\nmi alma se cubre con bien total (a),\nsin miedo a la sombra que quiere caer (b),\nla vida es un canto que es ya inmortal (b),\ny la fe que me ayuda a seguir sin mal (c),\nla esencia más pura de un noble fanal (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, el agua se va (c'),\nes la sombra que nunca se da (c'),\nla fuerza que al alma me está (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Un alma que en vida fue a andar,\nCreía que todo era un mar.\n\"¡Qué gran sueño!\", exclamó,\n\"Lo que soy, lo creo yo,\"\n\"Mas pronto al final ha de acabar.\"",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

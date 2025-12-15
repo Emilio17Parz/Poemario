@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo corre veloz,\ncomo un conejo atroz.\nYa tengo canas,\ny pocas ganas,\nde alzar mi pobre voz.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Es una herida abierta la pobreza,\nque sangra en las calles de la ciudad,\ny muestra del sistema la dureza.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Párpado cae\npestaña quieta\nya no mira\nluz apagada\nsueño eterno\nsin despertar\nciego al fin.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "ojo"
+  }
+}

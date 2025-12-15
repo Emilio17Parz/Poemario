@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es solo un juego,\ncuando somos niños tiernos,\nsin conocer el fuego.\n\nDe los futuros inviernos,\nque vendrán con su rigor,\ny sus problemas eternos.\n\nCausando mucho dolor.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "juego"
+  }
+}

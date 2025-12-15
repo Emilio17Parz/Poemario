@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La senda del héroe, un camino sin fin,\nde pruebas y retos, de luz y de fe,\nla vida es un arte, un dulce jazmín,\nla fuerza que dice: 'Yo sé'.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Senda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bajo la sombra verde,\nOculto el sol se pierde.\nSusurran ramas viejas,\nQue al viento dan sus quejas.\nUniendo tierra y cielo,\nEn su eterno desvelo.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "BOSQUE"
+  }
+}

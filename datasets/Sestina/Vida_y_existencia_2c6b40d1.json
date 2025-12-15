@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Juegan los dados del azar,\ncon nuestra suerte y destino,\nsin pedirnos opinión.\nEs una extraña función,\ndonde somos marionetas,\nbailando al son del error.\n\nSon del error,\ny del azar,\nsus piruetas.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "azar"
+  }
+}

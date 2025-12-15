@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Manto de armiño que bajas callada,\ndejando la tierra purificada!\nBlanca inocencia que cubre el dolor,\ny duerme la vida con frío rigor.\n\n¡Salve, oh nieve, de luz cristalina,\nque la montaña alta domina!\nBajo tu capa descansa la vida,\npara despertar luego fortalecida.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

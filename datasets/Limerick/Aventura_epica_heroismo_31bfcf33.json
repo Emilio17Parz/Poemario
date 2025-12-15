@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un valiente héroe, con gran tesón,\nMarchó a vencer un feroz dragón.\nCon noble valor,\nMostrando su honor,\nSalvar al pueblo fue su misión.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "honor"
+  }
+}

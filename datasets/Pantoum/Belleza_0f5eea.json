@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Nace la forma del bloque,\ngolpe de cincel duro,\ncon un suave toque,\nsurge lo bello y puro.\n\nGolpe de cincel duro,\nla piedra cobra aliento,\nsurge lo bello y puro,\ndetenido en el viento.\n\nLa piedra cobra aliento,\nnace la forma del bloque,\ndetenido en el viento,\ncon un suave toque.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

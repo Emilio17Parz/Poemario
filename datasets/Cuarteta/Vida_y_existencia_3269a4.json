@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Juventud, divino tesoro,\nte vas para no volver,\ncuando quiero no llorar,\nllego a llorar y te añoro.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

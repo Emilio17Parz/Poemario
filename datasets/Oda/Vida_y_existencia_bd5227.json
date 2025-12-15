@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caja de cristal,\nque guarda el ayer,\npara no perder,\nlo fundamental.\nSoy lo que fui,\ny lo que viví.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

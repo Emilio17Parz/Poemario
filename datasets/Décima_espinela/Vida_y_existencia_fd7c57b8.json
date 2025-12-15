@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un breve sueño\nque soñamos despiertos,\ncon rumbos a veces inciertos\ny poniendo mucho empeño.\nNadie es el total dueño\nde su propia voluntad,\ny en esta realidad\nque se esfuma como bruma,\nel destino siempre suma\nsu cuota de verdad.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

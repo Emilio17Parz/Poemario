@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Nace el día, velo sutil, efímera luz.\n¿Qué es la vida, la verdad, sino un tiempo?\nExistir es sentir, un eco profundo.\nProfundo eco, un sentir, es existir.\n¿Tiempo un sino, la verdad, la vida es qué?\nLuz efímera, sutil velo, día el nace.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

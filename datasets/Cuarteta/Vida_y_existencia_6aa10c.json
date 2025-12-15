@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Miro en el espejo, veo la huella,\nde las batallas que tuve que dar,\nla vida es una estrella que destella,\ny luego se apaga sin avisar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La corrupción es mal atroz (a),\nque pudre la mente fiel (b),\nla vida sin una voz (c),\nel trago de amarga hiel (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Corrupción"
+  }
+}

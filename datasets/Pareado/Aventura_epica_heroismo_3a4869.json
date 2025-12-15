@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sube la montaña, la cumbre sin un par (A),\ndonde el aire es puro, sin más que amar (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

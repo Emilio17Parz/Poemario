@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un clamor ancestral en mi alma resuena,\nmás allá del sendero que el miedo encadena.\nHay cumbres que aguardan, un mar por cruzar,\nun fuego en la sangre que impulsa a soñar.\n\nDe sol y de luna mi rostro testigo,\nla senda marcada, mi único abrigo.\nEntre breñas y abismos, mi paso tenaz,\nforjando un coraje que no volverá atrás.\n\nNo busco la palma de fácil victoria,\nsino el noble fragor que cincela la gloria.\nEl eco de gestas en cada latido,\nel alma que ansía vencer lo prohibido.\n\nY en la cima oscura, donde el éter se quiebra,\nla sombra de alas que al cielo aterra.\nEl aliento de fuego, la escama letal,\nun viejo **dragón**, mi destino final.\n\nMi acero reluce, la fe mi pendón,\ncontra el mal antiguo, sin rendición.\nNo es solo batalla, es un grito interior,\nla esencia del hombre que enfrenta el dolor.\n\nQue el eco de hazañas la historia conserve,\ndel alma que osa, del espíritu que hierve.\nPorque el héroe no muere, transforma el temor,\ny en cada latido, renace el valor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

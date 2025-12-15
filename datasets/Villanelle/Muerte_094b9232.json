@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa en paz tras la larga jornada,\nya no te alcanza el ruido del mundo,\nduerme tranquilo en la tierra sagrada.\n\nTu alma libre se ve liberada,\ndel sufrimiento tan profundo,\ndescansa en paz tras la larga jornada.\n\nLa luz eterna te sea dada,\nen ese reino sin segundo,\nduerme tranquilo en la tierra sagrada.\n\nQueda tu historia aquí grabada,\npero tu ser es vagabundo,\ndescansa en paz tras la larga jornada.\n\nYa la batalla está terminada,\ny el dolor es infecundo,\nduerme tranquilo en la tierra sagrada.\n\nCierra los ojos, vida amada,\nen el silencio moribundo,\ndescansa en paz tras la larga jornada,\nduerme tranquilo en la tierra sagrada.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "paz"
+  }
+}

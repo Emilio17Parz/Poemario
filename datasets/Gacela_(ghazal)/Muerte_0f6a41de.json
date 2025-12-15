@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El ciprés señala el camino del cielo,\ncon su dedo verde y su negro velo.\n\nGuardián de los muertos, sin consuelo,\nproyecta su sombra sobre el suelo.\n\nBajo sus ramas termina el vuelo,\ny empieza el descanso del largo desvelo.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

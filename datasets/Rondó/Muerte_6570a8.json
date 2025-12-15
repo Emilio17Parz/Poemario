@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acabó tu tiempo aquí,\nreloj de arena roto.\nQueda solo una foto,\nde lo que yo vi.\n\nTodo te di,\ncon devoto.\nSe acabó tu tiempo aquí,\nreloj de arena roto.\n\nYo aprendí,\ndel terremoto.\nAmor ignoto,\nque sentí.\nSe acabó tu tiempo aquí.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

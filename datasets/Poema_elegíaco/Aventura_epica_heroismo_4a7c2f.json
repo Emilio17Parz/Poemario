@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dragón me ha vencido, el fuego me quemó sin fe, cruel y sin razón ya,\nla vida sin la calma que el tiempo me da.\nEl héroe ha muerto, el mal ha ganado sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la inocencia que mi alma no puede salvar jamás sin voz ni paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

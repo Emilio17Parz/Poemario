@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me perdono el fallo,\nsoy humano al fin.\nSi me callo,\nen este jardín.\n\nSoy humano al fin,\naprendo cayendo.\nEn este jardín,\ncreciendo y yendo.\n\nAprendo cayendo,\nsi me callo.\nCreciendo y yendo,\nme perdono el fallo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lágrimas al caer,\nLavan la triste losa.\nAmargo el padecer,\nNegra la mariposa.\nTodo deja de ser,\nOlvido en cada cosa.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "LLANTO"
+  }
+}

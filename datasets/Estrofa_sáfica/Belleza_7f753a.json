@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Claridad pura que muestra las cosas,\nda los colores y la visión,\nes la belleza de la creación,\nsol radiante.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "luz"
+  }
+}

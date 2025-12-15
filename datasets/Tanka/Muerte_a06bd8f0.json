@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El último aliento,\nel cuerpo queda quieto,\nla luz se va.\nEl alma emprende vuelo\nhacia lo desconocido.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "partida"
+  }
+}

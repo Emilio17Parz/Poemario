@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nLa estrella que guía no teme a la noche (E1: noche)\nMi alma en su luz no quiere ya caer (E2: caer)\nTu amor es mi único y gran valer (E3: valer)\nMi vida se aleja de todo dolor (E4: dolor)\nLa calma que busco para al fin vencer (E5: vencer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nEn tu luz al fin no quiero ya caer (E2, E5)\nMe alejo de todo dolor y gran valer (E4, E3)\nEn la noche sin tiempo ni error (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Estrella"
+  }
+}

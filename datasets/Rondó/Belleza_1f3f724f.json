@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baila ahora,\nsin demora,\ncon el viento,\ny el sentimiento,\nque aflora.\n\nLa aurora,\nse colora,\nen el momento,\nBaila ahora.\n\nSe valora,\ny enamora,\ndel cuento,\ny el intento,\nseñora,\nBaila ahora.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "danza"
+  }
+}

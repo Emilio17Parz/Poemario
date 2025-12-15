@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Silencio sepulcral en la llanura,\ndonde ayer rugía el feroz combate,\nhoy solo la brisa la hierba bate,\nsobre tanta sangre y tanta locura.\nPerdimos la honra y la compostura,\nel enemigo ganó el remate,\ny dejó nuestras almas en jaque,\nsumidas en la derrota oscura.\nLamento las vidas que se apagaron,\npor una causa que ya es ceniza,\nlos estandartes se desgarraron.\nLa historia con sangre se barniza,\ny los sueños de gloria volaron,\ncon la rapidez de la prisa.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor que nunca muere,\nel alma lo prefiere.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

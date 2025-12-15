@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La espada brilla al sol de la mañana,\nUn alma fuerte, sin temor alguno,\nLa senda ignota que el destino hermana.\n\nUn alma fuerte, sin temor alguno,\nEl largo viaje de su gran misión,\nRompiendo el yugo del oscuro infortunio.\n\nEl largo viaje de su gran misión,\nPor cimas altas, valles de leyenda,\nCon cada paso, fuerza y corazón.\n\nPor cimas altas, valles de leyenda,\nLa gloria aguarda al fin, tras el umbral,\nQue el alma noble con valor defienda.\n\nLa gloria aguarda al fin, tras el umbral,\nEl monstruo cede ante su ardiente furia,\nTriunfante alzado sobre el bien y el mal.\n\nY así su nombre por siempre perdura.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Deja el ayer atrás,\nNo mires lo que fue,\nYa no volverás.\nDeja el ayer atrás,\nSolo encontrarás,\nLo que se fue.\nDeja el ayer atrás,\nNo mires lo que fue.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

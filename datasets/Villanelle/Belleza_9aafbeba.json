@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Miro el valle desde la altura,\npintado de verde y azul,\nobra maestra de la natura.\n\nEs una visión de hermosura,\nvestida con niebla de tul,\nmiro el valle desde la altura.\n\nNo hay mancha ni desmesura,\nen este paisaje abedul,\nobra maestra de la natura.\n\nSiento la paz que perdura,\nlejos de la multitud,\nmiro el valle desde la altura.\n\nAgua fresca y brisa pura,\nllenan el aire del baúl,\nobra maestra de la natura.\n\nGuardo esta imagen segura,\nen mi memoria de gandul,\nmiro el valle desde la altura,\nobra maestra de la natura.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

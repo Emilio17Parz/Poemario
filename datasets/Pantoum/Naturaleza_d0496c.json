@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurran hojas la vieja historia,\nraíces hondas beben la tierra.\nEl bosque guarda en su memoria,\nla paz antigua lejos de guerra.\n\nRaíces hondas beben la tierra,\nmusgo suave cubre la roca.\nLa paz antigua lejos de guerra,\nel viento suave la copa toca.\n\nMusgo suave cubre la roca,\nel bosque guarda en su memoria.\nEl viento suave la copa toca,\nsusurran hojas la vieja historia.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

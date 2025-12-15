@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estaba escrito en astros lejanos,\nque tú y yo cruzaríamos la senda,\npara que el corazón por fin entienda\nel roce de tus labios y tus manos.\n\nNo fuimos dos extraños, ni profanos,\nbuscando que el azar nos recomiende,\nfue un hilo rojo que se extiende\natando a dos humildes seres humanos.\n\nNo lucho contra aquello que es sagrado,\nacepto tu presencia como guía,\nregalo que la vida me ha dado.\n\nSerás mi noche y serás mi día,\nel puerto donde al fin he arribado,\nla nota de mi eterna melodía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "destino"
+  }
+}

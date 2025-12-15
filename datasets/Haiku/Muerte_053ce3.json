@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cierra los ojos\nel viaje ha terminado\npaz en el alma.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "fin"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viene el otoño dorando hojas,\nluego el invierno con su blancura.\nLa primavera trae frescura,\ny el verano calores y congojas.\nCiclos que la tierra aloja\ncon sabia y eterna mesura.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

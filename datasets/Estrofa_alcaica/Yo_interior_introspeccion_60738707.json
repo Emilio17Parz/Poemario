@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién soy debajo de la piel y el traje?\n¿Qué es lo que queda si me quito todo?\nSolo un breve mensaje\nescrito en el lodo.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

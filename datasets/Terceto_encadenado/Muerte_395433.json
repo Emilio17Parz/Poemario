@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo borra el nombre de la losa,\ny nadie recuerda quién fue el mortal,\nen esta vida breve y dolorosa.\n\nEs el destino común y fatal,\nser olvidados por los que vinieron,\ny convertirse en polvo y en sal.\n\nComo los que se fueron.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mis lágrimas no son agua,\nson sal y dolor puro.\nEs la sangre del alma\nque rompe el duro muro.\n\nCada gota que cae\nme recuerda el error,\nla vida que se fue\nsin ningún valor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "lágrimas"
+  }
+}

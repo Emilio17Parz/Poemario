@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Curva suave\nperfil fino\ngracia y luz\nforma humana\ndivina es\ninspiración\ndel artista.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "mujer"
+  }
+}

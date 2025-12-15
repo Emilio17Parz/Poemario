@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reina el silencio absoluto,\nen la sala fría.\nSe fue la alegría,\nquedó solo el luto.\n\nPago el tributo,\nde la agonía.\nReina el silencio absoluto,\nen la sala fría.\n\nEn un minuto,\ntodo cambia.\nNo hay rabia,\nsolo el fruto.\nReina el silencio absoluto.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

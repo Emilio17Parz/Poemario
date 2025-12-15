@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hazlo en este instante,\nOlvida el porvenir.\nY vive constante.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "HOY"
+  }
+}

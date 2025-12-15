@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La tierra me llama (7a),\na volver al ser (5b),\nsin una sola llama (7c),\nsin querer (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Tierra"
+  }
+}

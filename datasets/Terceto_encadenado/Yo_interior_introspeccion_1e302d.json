@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No soy el mismo,\nque fui ayer,\ntras el sismo.\n\nVuelvo a nacer,\ndel abismo,\npara crecer.\n\nCon optimismo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

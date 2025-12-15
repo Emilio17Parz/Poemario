@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "   ||   \n   ||   \n  Arte  \n Creador ",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "arte"
+  }
+}

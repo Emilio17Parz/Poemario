@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Camino en la niebla,\nno veo el final.\nEl miedo puebla,\nmi ser vital.\n\nNo veo el final,\n¿voy bien o mal?\nMi ser vital,\nse siente fatal.\n\n¿Voy bien o mal?,\nel miedo puebla.\nSe siente fatal,\ncamino en la niebla.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "duda"
+  }
+}

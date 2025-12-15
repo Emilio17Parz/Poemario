@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "bosque vivo",
   "poema": {
     "texto": "Crujen las hojas\\ndentro del bosque\\nlate la vida\\nbajo la tierra",

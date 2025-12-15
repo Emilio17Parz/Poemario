@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No miento al espejo, busco verdad,\ndura y desnuda es mi propia verdad.\n\nEngañar al mundo es fácil quizás,\npero no escapo de mi verdad.\n\nSer fiel a uno mismo es la gran lección,\ncamino recto de la verdad.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El poder es miel,\nque corrompe toda alma,\ny la hace oscura.\nEl hombre se olvida pronto,\nde la bondad y el amor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Poder"
+  }
+}

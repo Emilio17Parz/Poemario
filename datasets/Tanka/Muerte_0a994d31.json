@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La luz se apaga,\nUn último suspiro,\nEl fin llegó ya.\nEl alma se libera,\nBusca la eternidad.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

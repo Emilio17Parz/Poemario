@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La rosa abre su broche,\nmostrando su terciopelo,\nantes de que llegue la noche.\n\nEs un regalo del cielo,\nsu aroma y su color,\nque nos quita el desvelo.\n\nCon su primor.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "flor"
+  }
+}

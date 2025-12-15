@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El destino fue la flecha que te llevó a la nada,\nla vida sin la calma, la senda cerrada.\nLa nada es el regalo, el premio final,\nla sombra constante de un sino fatal.\n\nNo hay un por qué, no hay una razón,\nla vida sin la calma, sin ninguna opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "destino"
+  }
+}

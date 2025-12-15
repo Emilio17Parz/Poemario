@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ríe la blanca calavera,\nde nuestra vana ilusión,\nesperando en la espera.\n\nEs la primera,\nen la función,\nríe la blanca calavera.\n\nNo desespera,\nen su rincón,\nesperando en la espera.\n\nVerdadera,\nlección,\nríe la blanca calavera.\n\nCompañera,\nde la razón,\nesperando en la espera.\n\nLa postrera,\nsolución,\nríe la blanca calavera,\nesperando en la espera.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "calavera"
+  }
+}

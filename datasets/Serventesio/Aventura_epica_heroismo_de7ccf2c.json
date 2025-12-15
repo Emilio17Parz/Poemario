@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por cumbres remotas, el héroe ascendía,\ncon la osadía que el mundo forjó.\nSu fe inquebrantable jamás se rendía,\ny el sacro **honor** su camino guio.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "honor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Salió del agua la ninfa desnuda,\ncon piel de perla y cabello de oro,\ny el bosque entero le hizo un coro,\nante belleza tan casta y muda.\n\nNo hay en el mundo, ni cabe duda,\nvisión más pura que su reflejo,\nque deja al viejo roble perplejo,\ny a la corriente del río ayuda.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ninfa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Vienes a mí en el reino de los sueños,\ndonde no existe tiempo ni distancia,\ny me regalas tu dulce fragancia,\nnoche perfecta.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

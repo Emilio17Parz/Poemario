@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Gloria al valiente que rompe el miedo!,\nque avanza firme y nunca se queda quedo.\nEscudo del débil, espada del justo,\nque enfrenta al mal con noble gusto.\n\nSu nombre resuena en la eternidad,\nejemplo supremo de la humanidad.\nCantemos al hombre que se sacrifica,\ny con su sangre la tierra purifica.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

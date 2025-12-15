@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nace con fuego en la sangre,\ndestinado a la gloria.\nAunque el miedo taladre,\nforja su propia historia.\n\nDestinado a la gloria,\nespada en mano avanza.\nForja su propia historia,\ncon valor y esperanza.\n\nEspada en mano avanza,\naunque el miedo taladre.\nCon valor y esperanza,\nnace con fuego en la sangre.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

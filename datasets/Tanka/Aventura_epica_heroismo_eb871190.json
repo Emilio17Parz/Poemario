@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan trompetas,\nel enemigo huye\nderrotado hoy.\nLa paz vuelve al reino\ntras la dura labor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El viento sabe mi nombre,\nlo canta en las dunas sin fin.\nSoy el valiente hombre\nen busca de un motín.\n\nLa gloria no es metal,\nes el grito del alma,\nla luz sin mal\nen medio de la calma.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

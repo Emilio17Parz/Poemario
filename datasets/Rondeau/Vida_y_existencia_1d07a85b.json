@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo es azar,\nal jugar,\ncon la suerte,\ny la muerte,\nsin pensar.\n\nAl despertar,\nhay que ganar,\no perderte,\nTodo es azar.\n\nSin hablar,\nni callar,\nal verte,\ny tenerte,\nal mar,\nTodo es azar.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "azar"
+  }
+}

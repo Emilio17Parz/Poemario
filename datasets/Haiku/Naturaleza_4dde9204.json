@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Brote de verde,\nla flor abre sus ojos,\nvida que vuelve.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

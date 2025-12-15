@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baila ligera,\ncomo quien quiera.\n\nMueve los pies,\nuno, dos, tres,\nal revés,\nla cadera.\nBaila ligera,\ncomo quien quiera.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "danza"
+  }
+}

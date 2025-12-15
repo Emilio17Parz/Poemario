@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Soplo divino que enciende la mente,\ny hace que brote la idea latente!\nFuego sagrado que baja del cielo,\ny rompe del alma el duro velo.\n\n¡Salve, oh musa de la creación,\nque das al genio su dirección!\nSin tu visita todo es oscuro,\ncontigo el arte es claro y puro.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "inspiración"
+  }
+}

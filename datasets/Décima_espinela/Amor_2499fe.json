@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te escribo en este papel,\nlo que mi labio no dice,\npara que el amor enraíce,\ny sepa dulce cual miel.\nSoy tu servidor fiel,\ntu poeta y tu cantor,\nque te entrega con honor,\nlas rimas del pensamiento,\nllevadas por el aliento,\nde mi verdadero amor.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "carta"
+  }
+}

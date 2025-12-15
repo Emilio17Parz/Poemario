@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Abre su cola de ojos\nel orgulloso animal,\nmostrando el azul y el verde\nen un abanico real.\nCamina con paso lento\npor el jardín imperial,\nsabiéndose el más hermoso\ndel reino terrenal.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pavo_real"
+  }
+}

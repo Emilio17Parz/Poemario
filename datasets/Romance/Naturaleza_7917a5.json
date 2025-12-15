@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El Bosque es oscuro y frío,\nsin un poco de valor,\ny mi alma ya no tiene río,\nsin tu dulce fulgor.\n\nTe fuiste con la mañana,\nme dejaste sola allí,\ny mi vida es una macana,\nsin un dulce sí.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Bosque"
+  }
+}

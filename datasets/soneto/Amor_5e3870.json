@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No vi la luz hasta que vi tus ojos,\ndos soles que mi noche iluminaron,\ny en un instante el alma me robaron,\ndejando mis temores en despojos.\n\nCayeron de mi pecho los cerrojos,\nlas dudas del pasado se marcharon,\ny nuevas esperanzas despertaron\nteñidas de pasiones y de rojos.\n\nBendito sea el dardo y la herida,\nbendito aquel momento repentino\nque dio sentido nuevo a mi vida.\n\nUnióse tu destino con mi destino,\ny en esta dulce senda compartida,\ncamino de tu mano el fiel camino.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

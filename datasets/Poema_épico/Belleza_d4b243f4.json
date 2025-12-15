@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Los Jardines de Babilonia,\ncolgaban del cielo,\nun verde velo,\nde aroma y colonia.\nMaravilla y ceremonia,\ndel rey y su anhelo,\nque causaba el celo,\nde toda la Jonia.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "jardines"
+  }
+}

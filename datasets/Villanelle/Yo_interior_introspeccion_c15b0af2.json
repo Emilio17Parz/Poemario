@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vuelven los recuerdos hoy,\nde la infancia lejana,\na decirme quién soy.\n\nSaben a dónde voy,\nmañana,\nvuelven los recuerdos hoy.\n\nTodo lo que doy,\nse gana,\na decirme quién soy.\n\nEn el convoy,\nde lana,\nvuelven los recuerdos hoy.\n\nYo no estoy,\nsana,\na decirme quién soy.\n\nMe voy,\nrana,\nvuelven los recuerdos hoy,\na decirme quién soy.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

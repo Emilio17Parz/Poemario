@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sol en poniente,\nel héroe descansa,\npaz merecida.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "sol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hueco en la mesa,\ntu silla sigue quieta,\nyo sigo aquí.\nLa casa se hace grande\nsin tu risa y tu voz.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

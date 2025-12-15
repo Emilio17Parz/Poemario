@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El frío me hiela el alma, sin calor (A),\ndespués que tu llama se fue de mí (A),\nla ausencia de todo fulgor (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

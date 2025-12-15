@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Lo que siembras recogerás,\nley del universo verás.\nSi das amor, amor vendrá,\nsi das odio, te herirá.\nCuida tus actos y tu intención,\npues vuelven en bumerang de acción.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "karma"
+  }
+}

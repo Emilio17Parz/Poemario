@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El templo es un dulce lugar,\ndonde el alma se puede posar.\nHay paz y hay luz,\nsin una gran cruz,\nel sitio que quiero ya amar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Templo"
+  }
+}

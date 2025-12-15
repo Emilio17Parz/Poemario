@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento es el aliento del mundo, invisible y poderoso, que acaricia la hierba y derriba los robles.\nNadie sabe de dónde viene ni a dónde va, viajero eterno sin hogar y sin destino.\nTrae el perfume de las flores lejanas y el olor de la lluvia, trae las voces de los que ya no están.\nEscucha su silbido en la ventana, es la canción antigua de la libertad que no tiene dueño.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "viento"
+  }
+}

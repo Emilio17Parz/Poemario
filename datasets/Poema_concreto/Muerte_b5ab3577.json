@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "M U E R T E\n        S I L E N C I O\n       F R Í O  O S C U R O\n      P O L V O  Y  N A D A\n     D E S C A N S O  E T E R N O\n    A L M A   Q U E   D E S A P A R E C E\n   A Q U Í   E L   F I N   D E   T O D O   L O   V I V O\n  S O L O   U N   V A C Í O   P R O F U N D O   Y   L A\n\nE T E R N I D A D   S E   A B R E   S I N   F I N\nT E R N I D A D   S I N   C O M I E N Z O\nE R N I D A D   Q U E   L O   A B R A Z A\nR N I D A D   E S P E R A N D O\nN I D A D   E N V O L V I E N D O\nI D A D   S O L A\nD A D   G R A N\nA D   V A C Í A\nD",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La gran ceguera\nde la sociedad moderna,\nque no quiere ver.\nIgnora al que sufre más,\ny solo mira el placer.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Ceguera"
+  }
+}

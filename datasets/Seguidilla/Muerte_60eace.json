@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es una sombra,\nque nos persigue,\ny al final del día,\nnos consigue.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

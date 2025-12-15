@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge el cañón en la feroz batalla,\nfrente a la tropa y la gran muralla,\ngrita el soldado que nunca calla,\nfuego mortal.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

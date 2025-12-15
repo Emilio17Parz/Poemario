@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Frío silencio que la palabra hiela,\nantes ardía nuestro querer temprano,\nahora la barca no vuela,\nyace varada en el mar lejano.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

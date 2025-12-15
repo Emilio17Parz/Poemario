@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cruzamos el destino en un instante,\ny supe que mi vida cambiaria,\nal ver tu faz hermosa y radiante.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suenan las notas al viento,\ncreando un mundo sonoro,\nlleno de sentimiento.\n\nVale más que el oro,\nla melodía perfecta,\nque cantamos en coro.\n\nY nos conecta.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "música"
+  }
+}

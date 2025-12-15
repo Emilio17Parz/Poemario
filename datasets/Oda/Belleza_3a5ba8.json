@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Espejo del mundo,\ncreación humana,\nque mana,\nprofundo.\nBelleza plasmada,\ny amada.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "arte"
+  }
+}

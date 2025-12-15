@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Quiero ser,\ny saber.\n\nQuién soy yo,\nquién me vio,\ny me oyó,\nal nacer.\n\nQuiero ser,\ny saber.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "ser"
+  }
+}

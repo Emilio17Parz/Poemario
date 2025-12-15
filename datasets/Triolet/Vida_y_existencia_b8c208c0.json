@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vagamos en el laberinto,\nguiados por el instinto,\nen un mundo distinto.\nVagamos en el laberinto,\nbuscando un recinto,\nque no sea sucinto.\nVagamos en el laberinto,\nguiados por el instinto.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

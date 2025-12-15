@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento sopló con fuerza,\ntirando la vieja puerta.\nVoló el sombrero,\ndel panadero,\ndejando la calva abierta.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "viento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Compraron una casa, con tejado de lata,\nDonde el sol entraba y la risa retrata.\nConstruyeron un nido con amor y paciencia,\nHaciendo de lo simple su mejor existencia.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "casa"
+  }
+}

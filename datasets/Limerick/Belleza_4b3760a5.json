@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una belleza de gran fulgor,\nCon un alma que es puro candor.\nTenía un brillo,\nCual suave trillo,\nQue ilumina su bello esplendor.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

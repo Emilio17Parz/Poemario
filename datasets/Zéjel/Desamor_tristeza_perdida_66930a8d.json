@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento un gran dolor,\npor tu desamor.\n\nTodo se ha acabado,\nme has olvidado,\ny has dejado,\nsolo el temor.\n\nSiento un gran dolor,\npor tu desamor.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

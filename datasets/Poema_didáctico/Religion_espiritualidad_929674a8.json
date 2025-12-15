@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El perdón libera al alma,\nde la carga que no calma.\nNo es debilidad, es fuerza,\nque el rencor nunca retuerza.\nPerdona y serás perdonado,\ny tu espíritu liberado.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

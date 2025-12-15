@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Atrapa el momento que huye,\ncarpe diem, pastor amigo.\nEl tiempo es nuestro enemigo\nque todo lo destruye.\nLa vida se diluye\ncomo el grano de trigo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "grano"
+  }
+}

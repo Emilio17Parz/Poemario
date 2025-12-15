@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me enamora tu voz,\ntan dulce y veloz.\n\nCanta con alegría,\ntodo el santo día,\neres vida mía,\nno seas atroz.\n\nMe enamora tu voz,\ntan dulce y veloz.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "voz"
+  }
+}

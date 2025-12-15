@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El rostro que veo en el cristal,\nes mío, sin rastro de mal.\nEs un ser que lucha,\nsu alma que escucha,\nla voz de la vida real.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

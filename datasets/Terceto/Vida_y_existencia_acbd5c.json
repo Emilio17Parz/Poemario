@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tu raíz te ancla a lo que es real y fiel (A),\na la tierra firme, al profundo ser (A),\nla vida es un trago de dulce miel (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Raíz"
+  }
+}

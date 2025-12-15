@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viento que vienes silbando desde la montaña,\ncontando las historias de alguna hazaña.\n\nMueves la copa verde que al cielo araña,\ny limpias el ambiente de la telaraña.\n\nEspíritu invisible que nunca engaña,\ntu fuerza y tu libertad nadie la daña.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "aire"
+  }
+}

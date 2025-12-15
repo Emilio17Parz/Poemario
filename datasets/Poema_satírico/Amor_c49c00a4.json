@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Olvidaste la fecha otra vez,\ndel día que nos casamos,\ny ahora disimulamos,\ncon gran rapidez.\nMe traes con timidez,\nunas flores que cortamos,\ndel vecino y sus ramos,\n¡qué grande es tu dejadez!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "aniversario"
+  }
+}

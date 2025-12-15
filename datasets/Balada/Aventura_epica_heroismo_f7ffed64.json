@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Izad las velas, calavera,\nsomos los dueños de la mar,\nno tenemos ley ni bandera,\nsolo el deseo de robar.\nLa vida es breve al navegar,\ny el tesoro hay que encontrar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "pirata"
+  }
+}

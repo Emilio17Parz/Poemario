@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Llegó el Abril con sus flores,\nde promesa y de candor,\ny nos trajo mil colores,\ny la llama del amor.\n\nPero el tiempo fue cruel río,\nque se llevó tu bondad,\ny mi corazón es frío,\nsin tu dulce claridad.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Abril"
+  }
+}

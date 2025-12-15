@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Idioma que no se ve,\npero se siente profundo,\nque nos dice el porqué\ny el cómo de este mundo.\nNotas que suben y bajan,\nritmos que mueven el pie,\nmelodías que encajan\ncon lo que mi alma ve.\nConsuelo de los tristes,\nfiesta de la alegría,\ngracias porque existes\nllenando mi día a día.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "música"
+  }
+}

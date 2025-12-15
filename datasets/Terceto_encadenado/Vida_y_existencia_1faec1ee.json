@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Andamos cada día un camino,\nque no tiene señal ni mapa cierto,\nforjando nuestro propio destino.\n\nA veces es jardín, a veces puerto,\ny otras veces desierto calcinante,\nque deja el corazón al descubierto.\n\nSintiendo el paso lento y vacilante.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "camino"
+  }
+}

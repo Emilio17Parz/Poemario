@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aquí viviremos, tú y yo,\ncuidando ovejas y viendo el sol,\nlejos del ruido y el farol,\nque la ciudad al hombre vendió.\n\nEl tiempo en el campo se paró,\npara que nuestro amor sea eterno,\nsin conocer el crudo invierno,\nque a tantos otros oscureció.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

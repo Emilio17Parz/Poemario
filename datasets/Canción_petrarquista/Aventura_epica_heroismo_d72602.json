@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Poner la planta firme\nen tierra nunca hollada por el hombre;\ndejar el nombre,\ny no irme\nsin haber dominado la montaña;\ngran hazaña\nque ensancha el horizonte,\ny domina la selva y el monte.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

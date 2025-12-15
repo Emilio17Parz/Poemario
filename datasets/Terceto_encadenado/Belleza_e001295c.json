@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Admiro de los astros el brillo,\nque rompe la negrura de la noche,\ncomo si fuera un faro sencillo.\n\nEs un sublime y mágico derroche,\nde luz que viaja desde el pasado,\nsin que exista ninguno reproche.\n\nEn el cielo infinito y sagrado.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

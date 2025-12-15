@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Habla la pitonisa,\ncon voz de ultratumba,\nuna extraña risa,\nque retumba.\n\nCon voz de ultratumba,\ndice el destino fatal,\nque retumba,\ncomo un señal.\n\nDice el destino fatal,\nhabla la pitonisa,\ncomo un señal,\nuna extraña risa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "oráculo"
+  }
+}

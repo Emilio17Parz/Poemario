@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Un monje buscaba el zen,\nen un ruidoso almacén.\nGritó el encargado,\n\"¡Estás despistado!\",\ny no le salió nada bien.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "zen"
+  }
+}

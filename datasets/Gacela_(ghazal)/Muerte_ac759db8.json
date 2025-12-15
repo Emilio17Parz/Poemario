@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Hay una luz al final del sendero,\no solo la noche del agujero?\n\nPregunta el alma con miedo sincero,\nal cruzar el umbral del barquero.\n\nQuizás nos espera el amor verdadero,\no la nada infinita del cero.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "luz"
+  }
+}

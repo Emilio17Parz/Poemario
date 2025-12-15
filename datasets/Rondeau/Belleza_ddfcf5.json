@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo efímero,\nes primero.\nSe pasa,\ncomo brasa,\nligero.\n\nEl sendero,\ndel viajero.\nLa casa,\nlo efímero.\n\nEl cero,\ny el cuero.\nLa masa,\nse amasa,\ndinero,\nlo efímero.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

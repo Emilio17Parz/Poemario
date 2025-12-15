@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Intento borrarte, pero el olvido es una tarea imposible, como tratar de vaciar el mar con una cuchara.\nCada vez que creo haber avanzado, un olor o una canción me arrastran de vuelta a la orilla de tu recuerdo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

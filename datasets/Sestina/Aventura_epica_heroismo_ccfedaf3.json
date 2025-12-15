@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Comienza el largo y difícil viaje,\nhacia tierras de mito y leyenda,\nsiguiendo una peligrosa senda,\nllevando los sueños de equipaje,\npara encontrar el tesoro oculto,\nlejos del ruido y del tumulto.",
+    "tipo": "Sestina (Estrofa I)",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

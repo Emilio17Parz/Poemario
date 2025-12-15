@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gira la rueda fortuna,\nsin parar de dar vueltas,\nhoy estás arriba y ríes,\ncon las manos muy sueltas.\nMañana caes al fango,\ncon las esperanzas vueltas,\ny nadie te da la mano\nen las horas revueltas.\nAsí es la vida, señores,\npuertas que están entreabiertas,\nun juego de azar y riesgo\ncon las cartas descubiertas.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "fortuna"
+  }
+}

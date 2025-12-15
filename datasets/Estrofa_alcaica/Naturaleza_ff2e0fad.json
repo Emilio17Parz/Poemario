@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luz del alba tiñe la sierra,\nlos verdes pinos con fresco aliento.\nEl aire puro murmura el viento,\ndo el claro río fluye con sosiego.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "río"
+  }
+}

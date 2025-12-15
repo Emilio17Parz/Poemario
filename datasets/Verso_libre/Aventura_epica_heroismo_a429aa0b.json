@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi espada no canta por la sangre, sino por la justicia y la defensa del débil.\nEs de acero templado en el fuego de mil batallas, compañera fiel de mi mano.\nLa desenvaino solo cuando es necesario, para cortar las cadenas del opresor.\nQue mi espada sirva a la luz y no a la sombra, que sea escudo y no verdugo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "espada"
+  }
+}

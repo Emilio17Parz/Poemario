@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Castillos en el aire construimos\ncon la materia etérea de la mente,\ny buscamos un futuro diferente\nal presente grisáceo que vivimos.\n\nPor esos sueños locos existimos,\nson el motor, la causa y la fuente,\nque nos hace cruzar cualquier puente\ny olvidar los fracasos que sufrimos.\n\nEl hombre sin su sueño es animal,\nun cuerpo que respira sin motivo,\nun ser perdido en lo material.\n\nSoñar es lo que nos mantiene vivo,\nla chispa de lo espiritual,\nel horizonte eterno y fugitivo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

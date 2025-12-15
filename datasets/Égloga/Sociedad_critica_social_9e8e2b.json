@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dicen que en la ciudad,\nla gente no se mira,\ntodo es mentira,\ny soledad.\n\nAquí hay verdad,\ny mano amiga,\nsin la fatiga,\nde la falsedad.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

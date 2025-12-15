@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un grito antiguo enciende el corazón,\nDel héroe noble que a la lid se apresta,\nSu alma forjada, indómita y funesta,\nPor sendas crueles y sin compasión.\n\nDesafía el dragón, la maldición,\nY en cada golpe que su mano asesta,\nLa gloria efímera que al mundo cuesta,\nEs eco eterno de su vocación.\n\nCon su mirada busca el horizonte,\nDonde el peligro aguarda su llegada,\nY el honor puro que su sangre viste.\n\nNo teme al abismo ni al monte,\nPues en su diestra empuña la **espada** amada,\nTestigo fiel del fin que le resiste.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "espada"
+  }
+}

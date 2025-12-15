@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En un laberinto entré al nacer,\ndonde la salida no se encuentra,\ny el alma se adentra\nsin saber qué camino debe hacer.\nMil veces me perdí y mil volví,\ny nunca salí,\nhasta que la luz pura\nme enseñe la salida segura.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

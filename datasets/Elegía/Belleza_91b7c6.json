@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ojo que miras con pena y dolor,\nreflejo del alma que no quiere ya ver.\nTu iris es triste, sin un fulgor,\nel alma sin un gran poder.\nTu cristal es cruel, la verdad no da paz,\nel alma que sufre el gran haz.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Ojo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ser libre es la condición,\nmás preciada del humano,\nno dejes que ningún vano,\nte ponga en una prisión.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

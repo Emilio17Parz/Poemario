@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El desierto calla su gran secreto,\nde arenas doradas y cielo sin fin,\nes un silencio que guarda respeto,\naquel que decide al fin venir.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Desierto"
+  }
+}

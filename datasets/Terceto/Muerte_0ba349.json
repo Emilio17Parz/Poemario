@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No hay muerte real si hay memoria,\nvives en cada vieja ilusión,\ny en cada página de mi historia.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

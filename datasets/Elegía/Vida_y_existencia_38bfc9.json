@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Duda que atacas mi noble razón,\nla búsqueda eterna que no tiene un final.\nMi mente se rompe sin una razón,\nel alma sin un gran cristal.\nTu pregunta es cruel, la verdad se va,\nel alma que sufre sin un ya.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Duda"
+  }
+}

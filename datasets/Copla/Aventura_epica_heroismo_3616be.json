@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La espada es justicia y luz (a),\nque corta la mentira atroz (b),\nel peso de mi cruel cruz (c),\nla última y fuerte voz (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo camino hacia lo incierto,\nsaliendo del hogar seguro,\ncruzando el bosque y el desierto.\n\nEl corazón al descubierto,\nante el destino oscuro,\nlargo camino hacia lo incierto.\n\nSiempre atento y despierto,\ncontra el peligro duro,\ncruzando el bosque y el desierto.\n\nBuscando el mítico puerto,\ndel otro lado del muro,\nlargo camino hacia lo incierto.\n\nAunque el cuerpo esté muerto,\nel espíritu es puro,\ncruzando el bosque y el desierto.\n\nEs el viajero experto,\nquien conquista el futuro,\nlargo camino hacia lo incierto,\ncruzando el bosque y el desierto.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

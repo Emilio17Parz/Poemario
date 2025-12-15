@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Una lágrima cae,\npor todo lo perdido,\ny el alma se distrae.\n\nEl recuerdo me atrae,\na lo que hemos vivido,\nuna lágrima cae.\n\nEl dolor me sustrae,\nde lo que he querido,\ny el alma se distrae.\n\nNadie me extrae,\nde este pozo hundido,\nuna lágrima cae.\n\nLa pena me trae,\nun mensaje dolido,\ny el alma se distrae.\n\nEl tiempo decae,\ny yo estoy herido,\nuna lágrima cae,\ny el alma se distrae.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

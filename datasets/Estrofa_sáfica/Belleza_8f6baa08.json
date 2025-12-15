@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brilla el diamante con la luz cautiva,\noro y zafiro en la piel luciente,\nvanos adornos que la vanidad\nhoy se siente.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "joya"
+  }
+}

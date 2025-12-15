@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Salió el caballero andante,\na matar a la bestia,\nque tenía al reino entero\nen gran molestia.\nEl dragón echaba fuego,\ncon furia inmodestia,\npero la lanza de hierro\nle dio en la testia.\nCayó el monstruo gigante,\ncon gran orquestia,\ny el héroe salvó a la dama\nde la forestia.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

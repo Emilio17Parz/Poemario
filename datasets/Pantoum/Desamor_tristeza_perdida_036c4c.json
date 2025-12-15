@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Invierno en mi interior,\nel sol no calienta más.\nSe marchitó la flor,\ny tú te vas, te vas.\n\nEl sol no calienta más,\nhielo cubre mi piel.\nY tú te vas, te vas,\namargo como la hiel.\n\nHielo cubre mi piel,\nse marchitó la flor.\nAmargo como la hiel,\ninvierno en mi interior.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "frío"
+  }
+}

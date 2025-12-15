@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El campo respira olor a heno seco,\na tierra mojada, a vida sin par,\nsus verdes caminos tienen un eco,\nde paz que no pude en la urbe hallar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Campo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La flor ya sin un haz, (A)\nme hunde sin la verdad, (B)\nmi alma ya sin piedad, (B)\nmi ser ya sin la paz. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

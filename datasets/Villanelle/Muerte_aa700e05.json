@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sombra que viene a buscar su presa,\ncuando la luz se apaga al fin,\ny la vida cesa en la mesa.\n\nNo tiene prisa ni tiene sorpresa,\ncamina lento por el jardín,\nsombra que viene a buscar su presa.\n\nEs una visita que pesa,\ncomo el sonido del clarín,\ny la vida cesa en la mesa.\n\nDeja la casa triste y ilesa,\npero vacía de su festín,\nsombra que viene a buscar su presa.\n\nNadie regresa, nadie regresa,\nde ese lejano y gris confín,\ny la vida cesa en la mesa.\n\nEl alma vuela y se confiesa,\nante el misterio y su paladín,\nsombra que viene a buscar su presa,\ny la vida cesa en la mesa.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

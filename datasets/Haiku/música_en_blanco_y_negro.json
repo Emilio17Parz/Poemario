@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Música en blanco y negro.",
   "poema": {
     "texto": "En pianoforte blanco y negro,\nSusenando ritmo mudo,\nArmonía se viste.\n\nSilencio al sonar sueno,\nBajo el tatuaje oscuro,\nMúsica nace en blanco.",

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corremos sin aliento\ntras una meta que se aleja siempre;\nde enero a diciembre,\nen vano intento;\ncreemos que al llegar seremos dioses;\npero hay otras voces\nque dicen la verdad:\nla meta es solo el fin de la edad.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "meta"
+  }
+}

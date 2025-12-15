@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Por el honor,\nse lucha mejor.\nCon la frente,\nmuy valiente,\ny sin temor.\n\nEl defensor,\ndel color.\nSiempre presente,\npor el honor.\n\nEl invasor,\ncausa horror.\nPero la gente,\nse hace fuerte,\ncon valor,\npor el honor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "honor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La ciudad es ruido\ny mucha carrera,\nyo prefiero el campo\ny mi primavera.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tras cien días de pena, una niña rió,\nY el sonido del alma el dolor destruyó.\nEl hombre escuchó el gozo en la sala vacía,\nLa risa es la cura y la mejor guía.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "risa"
+  }
+}

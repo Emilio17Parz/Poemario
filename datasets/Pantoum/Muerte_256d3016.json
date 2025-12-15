@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Al final del túnel,\nuna luz se ve,\ncomo un redondel,\nque devuelve la fe.\n\nUna luz se ve,\nllamando al alma,\nque devuelve la fe,\ny trae la calma.\n\nLlamando al alma,\nal final del túnel,\ny trae la calma,\ncomo un redondel.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "luz"
+  }
+}

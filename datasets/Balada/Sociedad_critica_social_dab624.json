@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duerme en la calle sobre cartón,\npidiendo un poco de compasión,\nmientras la gente pasa de largo,\ncon su conciencia y su letargo.\nEs la vergüenza de la ciudad,\nla cara oculta de la verdad,\nque hay quien no tiene para comer,\nni techo donde guarecer.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

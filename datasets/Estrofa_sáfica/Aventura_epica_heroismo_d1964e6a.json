@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La aurora de oro pinta la montaña,\nEl héroe se alza, cimbreño y valiente,\nSu espada reluce, presagio de gloria,\nVa a combatir.\n\nAtraviesa valles, abismos profundos,\nLa sombra le acosa, el terror le persigue,\nMas su alma no flaquea, su meta es sagrada,\nDe gran valor.\n\nRecuerda promesas, el juramento antiguo,\nEl pueblo que espera, su fe inquebrantable,\nSu escudo es el alma, forjado en el honor,\nA su ideal.\n\nCombate con furia, la bestia derriba,\nLa sangre derrama, la victoria asegura,\nEl mal se disipa, la luz resplandece,\nEl reino en paz.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "honor"
+  }
+}

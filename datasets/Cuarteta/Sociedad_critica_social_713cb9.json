@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Saber es poder,\npara el que estudia,\nno para el que repudia,\nel aprender.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "saber"
+  }
+}

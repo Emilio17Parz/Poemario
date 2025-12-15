@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Oro brilla,\nEn el cofre,\nA la orilla.\nOro brilla,\nMaravilla,\nQue ofrece.\nOro brilla,\nEn el cofre.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "oro"
+  }
+}

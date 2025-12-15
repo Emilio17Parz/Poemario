@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Falsa libertad,\npues nos ofenden,\ncon la verdad.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "De tu esencia nace mi suspiro,\nla melodía que quiero escuchar,\npor ti respiro y por ti deliro,\nsin ti no sabría dónde ir ni estar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Suspiro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es la guadaña fría\nQue corta todo lazo,\nY deja en el regazo\nLa eterna melodía\nDe una triste agonía.\n\nSu adiós es tan silente,\nQue llega de repente,\nLa frágil envoltura,\nQue es nuestra alma pura,\nHalla así su **fin** latente.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "fin"
+  }
+}

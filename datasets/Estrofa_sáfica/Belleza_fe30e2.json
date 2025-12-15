@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rostro divino, curva y suavidad,\nmisterio eterno, musa del pintor,\nfuente de vida y de dulce amor,\nbella mujer.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "mujer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cantad al Señor un cántico nuevo; cantad al Señor, toda la tierra; cantad al Señor, bendecid su nombre.\nAlégrense los cielos, y gócese la tierra; brame el mar y su plenitud; regocíjese el campo, y todo lo que en él está.\nEntonces todos los árboles del bosque rebosarán de contento delante del Señor; porque vino a juzgar la tierra.\nMi corazón está dispuesto, oh Dios; cantaré y trovaré salmos; despierta, alma mía; despierta, salterio y arpa.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "cántico"
+  }
+}

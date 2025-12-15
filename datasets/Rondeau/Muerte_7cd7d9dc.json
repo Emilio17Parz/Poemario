@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es el final,\nde lo mortal,\nla despedida,\nde la vida,\nterrenal.\n\nGolpe brutal,\ny fatal,\nla caída,\nEs el final.\n\nYa no es igual,\nel umbral,\nde la salida,\nhacia la guarida,\ncelestial,\nEs el final.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "final"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los bardos la vieja historia,\nde aquellos héroes llenos de gloria,\nque combatieron contra el mal,\nen una lucha fenomenal.\nSus nombres viven en la canción,\ny en la memoria de la nación,\ncomo ejemplo de gran virtud,\ny de coraje y rectitud.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

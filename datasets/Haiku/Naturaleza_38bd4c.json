@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Canta la cigarra,\ncalor del mediodía,\nverano intenso.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "cigarra"
+  }
+}

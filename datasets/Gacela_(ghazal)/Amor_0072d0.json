@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Busco en la noche tu clara mirada,\ny mi alma descansa en tu clara mirada.\n\nNo importa el dolor ni la herida pasada,\nsi encuentro el perdón en tu clara mirada.\n\nEl mundo se apaga si tú no me ves,\ny todo renace en tu clara mirada.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

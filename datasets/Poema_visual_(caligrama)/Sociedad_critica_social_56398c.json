@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Rectángulo alto\nventanas mil\ncemento gris\njaula humana\nciudad llena\nsoledad\napilada.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

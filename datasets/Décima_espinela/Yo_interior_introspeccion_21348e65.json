@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta la gran duda\nen la noche callada,\nmi alma está agitada\ny la razón es muda.\nLa verdad se desnuda\ny me muestra el error,\nsiento un gran temor\nde haber vivido mal,\ny que al punto final\nllegue sin el amor.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "duda"
+  }
+}

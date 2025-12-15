@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Prometí ayunar,\npor la Semana Santa,\npero el olor a pan,\nmi tripa levanta.\nDios entenderá,\nque tengo apetito,\ny me perdonará,\neste bocadito.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "ayuno"
+  }
+}

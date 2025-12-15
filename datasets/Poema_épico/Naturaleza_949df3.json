@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Danza en el pantano la luz engañosa,\nespíritu errante de la marisma,\nllama pequeña, azul y hermosa,\nque lleva al viajero hacia el abisma.\nMagia de tierra, trampa mortal,\nbelleza extraña y sobrenatural.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Fuego_Fatuo"
+  }
+}

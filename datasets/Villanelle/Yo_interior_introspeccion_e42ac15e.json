@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No sé qué camino tomar,\nla duda me paraliza,\ny no puedo avanzar.\n\nEmpiezo a temblar,\ncomo la ceniza,\nno sé qué camino tomar.\n\nQuiero volar,\ncon la brisa,\ny no puedo avanzar.\n\nDebo pensar,\nsin prisa,\nno sé qué camino tomar.\n\nMe va a matar,\nla risa,\ny no puedo avanzar.\n\nIntento orar,\nen la misa,\nno sé qué camino tomar,\ny no puedo avanzar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "duda"
+  }
+}

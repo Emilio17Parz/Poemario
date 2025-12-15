@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi camino es solo y luz (a),\nla senda sin un error (b),\nel peso de mi gran cruz (c),\nla esencia del puro valor (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Camino"
+  }
+}

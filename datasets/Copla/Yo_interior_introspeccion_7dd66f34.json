@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Me adentro en el sentir\nde mi secreto mundo,\nla <b>mente</b> empieza a abrir\nun pozo tan profundo.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "mente"
+  }
+}

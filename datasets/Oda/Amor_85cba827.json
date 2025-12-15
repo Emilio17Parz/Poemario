@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sonido que vibra en el aire,\nmúsica pura, sutil canción,\nque entra por mi oído atento\ny se instala en la razón.\nCuando hablas, el mundo calla,\nse ordenan las cosas dispersas,\ny siento que en cada palabra\ntú me construyes y me conversas.\nNo hay sinfonía más bella,\nni canto de ave en el monte,\nque el timbre de tu garganta\nabriendo mi horizonte.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "voz"
+  }
+}

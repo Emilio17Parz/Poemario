@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visto de negro,\nreflejo de la noche\nque hay en mi ser.\nLlevo tu ausencia escrita\nen cada suspirar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "luto"
+  }
+}

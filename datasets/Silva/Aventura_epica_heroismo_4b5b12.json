@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ganar todo,\nes la meta,\nde la treta,\ny del modo.\nEn el lodo,\nqueda el otro,\ny el potro,\nacomodo.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se levanta imponente a la altura,\nel monte de piedra y granito,\nmostrando su gran estructura.\n\nBajo el cielo de azul infinito,\nse corona de nieve y de hielo,\ncomo un guardián en su hito.\n\nQue vigila con mucho celo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "altura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos lo que la memoria,\nguarda en su cofre secreto,\nde vivencias y emoción.\nPiezas de una construcción,\nque forma nuestra identidad,\nante el espejo del tiempo.\n\nEspejo del tiempo,\ny la memoria,\nde la verdad.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

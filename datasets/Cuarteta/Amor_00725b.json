@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la raíz de mi fuerte tallo,\nla base que me sostiene sin cesar,\nsi no estás, en el vacío caigo,\nmi único puerto para navegar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Raíz"
+  }
+}

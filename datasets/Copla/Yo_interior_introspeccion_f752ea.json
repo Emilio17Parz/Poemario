@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Aprender es crecer fiel (a),\nrompiendo el error sin fin (b),\nla vida es un trago de hiel (c),\nel eterno y puro jazmín (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Aprendizaje"
+  }
+}

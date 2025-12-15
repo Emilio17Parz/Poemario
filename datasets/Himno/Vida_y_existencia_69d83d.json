@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Combate constante, batalla de honor,\nque forjas el alma con rudo valor!\nNo cede el guerrero ante la caída,\npues sabe que es parte de la propia vida.\n\n¡Gloria a la lucha que nos hace fuertes,\nvenciendo los miedos y las malas suertes!\nEl premio no es solo ganar la contienda,\nsino caminar por la justa senda.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

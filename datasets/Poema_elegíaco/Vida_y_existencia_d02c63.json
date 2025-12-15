@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El cuerpo es la cárcel que el alma no quiere ya,\nla vida sin la calma que el tiempo no da.\nLos huesos son el hierro, la piel es la pared,\nla sombra constante de mi amarga sed.\n\nNo tengo la llave, no tengo el valor,\nla vida sin la calma, el cruel fulgor.\nMi ser es el esclavo de una fe sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "prisión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando la vida su hilo ya recorta,\ny el alma vuela lejos del sendero,\nla parca mano la existencia acorta.\n\nSe desvanece el tiempo placentero,\ny una profunda y fría sombra asoma,\ndejando atrás el mundo verdadero.\n\nLa luz se apaga, y el temor nos toma,\nun viaje oscuro y sin mirar jamás,\nsilencio eterno que la voz nos doma.\n\nNo hay vuelta alguna, ni mañana más,\nel cuerpo inerte bajo el duro suelo,\ndonde ya nada nunca recordarás.\n\nUn último suspiro, un postrer duelo,\nla nada inmensa que nos va envolviendo,\nse rompe el lazo, se termina el velo.\n\nY el eco tenue que se va perdiendo,\nen el olvido de un ayer tan fiel,\nla eternidad por siempre nos rindiendo.\n\nAsí la muerte, única y tan cruel.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

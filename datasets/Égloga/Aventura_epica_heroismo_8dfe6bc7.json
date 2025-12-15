@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vigilo mientras todos duermen,\nel fuego mantiene la luz,\nhago la señal de la cruz,\npara que los males no germen.\nQue los lobos enfermen,\ny no crucen el testuz,\nni la sombra andaluz,\nque las penas mermen.\nSoy el guardián,\ndel nuevo afán,\ny del plan.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "guardia"
+  }
+}

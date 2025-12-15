@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Señor del subsuelo, monarca sombrío,\ntu trono de huesos es firme y real,\nno corre en tus lares ni viento ni río,\nsolo el eco de un juicio final.\nGuardas los secretos de los que partieron,\ny olvidas los nombres de los que vivieron.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Hades"
+  }
+}

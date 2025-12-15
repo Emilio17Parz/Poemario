@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ama la cama.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

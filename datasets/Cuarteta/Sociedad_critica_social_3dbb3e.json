@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¿Dónde está la justicia, dónde el valor,\ndel hombre que dice ser libre y leal?\nsolo hay mentira, solo hay dolor,\nun mundo de sombras, el gran mal.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Justicia"
+  }
+}

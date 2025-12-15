@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lleva corona,\nel monarca,\nla barca,\nque dona.\nLa zona,\nque marca.\nLleva corona.\n\nMando y poder,\nen su mano,\nel hermano,\ndel deber.\nEl saber,\nhumano.\nLleva corona.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "corona"
+  }
+}

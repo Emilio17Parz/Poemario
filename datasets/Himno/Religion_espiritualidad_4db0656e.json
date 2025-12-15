@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Misericordia, Señor, pedimos,\ncon corazón contrito y humilde,\nborra la culpa, quita la tilde,\nde los errores que cometimos.\n\nTu amor es grande y tu piedad,\nlava las manchas del pecador,\nrestáuranos con tu favor,\ny danos tu santa libertad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "misericordia"
+  }
+}

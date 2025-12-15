@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi vida florece en abril (a),\ncuando tu sombra me toca (b),\nel corazón es gentil (c),\nsin un error en la boca (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Abril"
+  }
+}

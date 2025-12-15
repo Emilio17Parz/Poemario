@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[LA REINA]\n(Lanzando el espejo)\n¡Miente! ¡Miente, pedazo de cristal! Yo no soy esta ruina, este ocaso.\n¿Dónde está el sol de mi juventud? ¿Dónde la promesa de mi belleza eterna?\nEl tiempo es un asesino lento. Me ha robado todo, y solo queda esta mueca.\nLa verdadera belleza no está en el rostro, sino en el poder que ya perdí.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

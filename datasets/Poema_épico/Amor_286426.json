@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dos casas antiguas, sangre y rencor,\nse unen ahora en un lecho sagrado,\nrompiendo cadenas de odio y dolor,\ncreando un futuro, por fin, liberado.\nNuestros hijos serán reyes de la paz,\nborrando del mapa la guerra, su faz.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Linaje"
+  }
+}

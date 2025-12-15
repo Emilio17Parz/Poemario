@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Acalla el ruido mental,\npara oír tu voz,\nes fundamental,\ny no atroz.\nEn el silencio hallas,\ntodas las batallas.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Navego en la duda,\nmar de incertidumbre,\nsin ver la orilla.\nLa mente vacila,\nentre dos caminos,\nsin saber cuál tomar.\n\nCuál tomar,\nen la duda,\ny sus destinos.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "duda"
+  }
+}

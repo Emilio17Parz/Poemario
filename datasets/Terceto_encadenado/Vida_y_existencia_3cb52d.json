@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Raíz que nos da el sostén,\nrama que nos da el abrigo,\nen el mal y en el bien.\n\nEl amor que va conmigo,\ndesde la cuna a la tumba,\ncomo el mejor amigo.\n\nQue no se derrumba.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "familia"
+  }
+}

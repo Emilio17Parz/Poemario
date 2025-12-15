@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Ser, un aliento,\ncamino incierto y sin fin,\ngran laberinto\ndonde el alma busca verdad\ny halla su propio ser.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "POETA: ¡No te vayas, inspiración mía!\nMUSA: Debo partir, me reclama otro ser.\nPOETA: Sin tu susurro no puedo escribir.\nMUSA: Búscame en la luz del nuevo día.\nSoy la musa, libre y caprichosa,\nno soy esclava, soy mariposa.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "musa"
+  }
+}

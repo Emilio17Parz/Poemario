@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol se despidió en el oeste,\npintando de rojo el confín,\ndando paso al serafín,\nde la noche celeste.\nSalieron las estrellas brillantes,\ny la luna tomó su lugar,\npara el mundo vigilar,\ncomo ojos de diamantes.\nHasta que el gallo cantó,\ny el nuevo día empezó.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "ciclo"
+  }
+}

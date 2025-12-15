@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El recuerdo es un puñal,\nla pena me es fatal.\n\nMe quema el corazón,\nsin piedad ni perdón,\nno tengo ya razón,\nla pena me es fatal.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

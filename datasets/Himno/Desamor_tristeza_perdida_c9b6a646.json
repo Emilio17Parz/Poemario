@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Solemne momento del último adiós,\npuerta que cierra el jardín del ayer,\ndonde termina nuestro amanecer,\ny se separan los rumbos de dos.\nCanto funesto de la despedida,\nque deja marcada por siempre la vida.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

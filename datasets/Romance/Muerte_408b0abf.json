@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Escribieron en el mármol,\nunas letras de oro fino,\n'Aquí yace un hombre bueno',\ndice el texto en su destino.\nPero nadie sabe cierto,\nsi fue santo o libertino,\nque la muerte borra todo\ncon su manto repentino.\nQueda la frase grabada,\nal borde del camino,\npara que el viajero lea\ny siga su peregrino.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "letra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Meta lejana\nsin falta ni defecto\nsueño ideal.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "perfección"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No busca el guerrero la vana gloria,\nni el aplauso de la multitud,\nsolo quedar en la fiel memoria.\n\nEscribir con sangre su propia historia,\ncon coraje y con virtud,\nno busca el guerrero la vana gloria.\n\nEs una meta perentoria,\nde sacrificio y rectitud,\nsolo quedar en la fiel memoria.\n\nAunque la vida sea transitoria,\ndeja su ejemplo de actitud,\nno busca el guerrero la vana gloria.\n\nAlcanzar la final victoria,\ncon nobleza y plenitud,\nsolo quedar en la fiel memoria.\n\nEsa es su paga obligatoria,\ny su mayor gratitud,\nno busca el guerrero la vana gloria,\nsolo quedar en la fiel memoria.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

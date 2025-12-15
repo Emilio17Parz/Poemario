@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hacer un mundo de un adiós,\nromper las fotos y la carta,\ncreerse el único ante Dios,\nque el sufrimiento reparte.\nHay hambre y guerras fuera,\npero tu ex es la fiera.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Drama"
+  }
+}

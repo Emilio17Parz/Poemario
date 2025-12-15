@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "O\n s\n  c\n   u\n  r\n o",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "hoyo"
+  }
+}

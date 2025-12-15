@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Suelto tu fría mano,\nte dejo ir en paz,\ntodo esfuerzo es vano,\ntras el oscuro antifaz.\n\nTe dejo ir en paz,\nhacia la luz lejana,\ntras el oscuro antifaz,\nya no habrá mañana.\n\nHacia la luz lejana,\ntodo esfuerzo es vano,\nya no habrá mañana,\nsuelto tu fría mano.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mano"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tus brazos encuentro santa calma,\nse detiene el reloj en el instante,\ny se borra el dolor agonizante\nque a veces oscurece mi alma.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "calma"
+  }
+}

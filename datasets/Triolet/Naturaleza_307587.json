@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento salvaje,\nMoviendo las hojas ya,\nEn este hermoso paisaje.\nSopla el viento salvaje,\nLlevando su mensaje,\nA donde quiera que va.\nSopla el viento salvaje,\nMoviendo las hojas ya.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "aire"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Voz del ave,\nque resuena,\ny la pena,\nhace suave.\nNo hay quien lave,\nel dolor,\ncon amor,\ncomo el ave.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "canto"
+  }
+}

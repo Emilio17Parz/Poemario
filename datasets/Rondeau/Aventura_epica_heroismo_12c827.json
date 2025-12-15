@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busco tesoro,\nde plata y oro.\nEn la cueva,\nque se lleva,\nel decoro.\n\nYo imploro,\ny valoro.\nLa prueba,\nbusco tesoro.\n\nEl coro,\ndel moro.\nSe eleva,\ny renueva,\nel aforo,\nbusco tesoro.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

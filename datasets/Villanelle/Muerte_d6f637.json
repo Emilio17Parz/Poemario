@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Queda sola en el hogar,\nllorando al esposo muerto,\nsin poderse consolar.\n\nQuiere volar,\na campo abierto,\nqueda sola en el hogar.\n\nSabe amar,\nen el desierto,\nsin poderse consolar.\n\nVa a rezar,\nal santo puerto,\nqueda sola en el hogar.\n\nSin despertar,\ndel desconcierto,\nsin poderse consolar.\n\nDebe esperar,\nlo que es cierto,\nqueda sola en el hogar,\nsin poderse consolar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viuda"
+  }
+}

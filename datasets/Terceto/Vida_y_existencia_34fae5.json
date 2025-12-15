@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que la risa sea tu escudo contra el dolor (A),\nel gozo que rompe la pena cruel (A),\nla ausencia de todo temor (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

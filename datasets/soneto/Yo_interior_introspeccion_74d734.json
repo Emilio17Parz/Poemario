@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Callar para poder oír,\nel ruido del pensamiento,\nese caos y ese viento,\nque no me deja dormir.\n\nEn la calma descubrir,\nel verdadero sentimiento,\nsin máscara ni ornamento,\nque me impida sentir.\n\nEl silencio es el maestro,\nque enseña sin hablar,\ny muestra el lado siniestro.\n\nO el luminoso lugar,\ndonde habita lo nuestro,\ny se puede descansar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

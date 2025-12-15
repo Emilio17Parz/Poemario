@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sobre la fría tumba,\ncrece la hierba verde del olvido,\ny el cuerpo ya dormido\nno siente si retumba\nel mundo que se derrumba.\nTodo se ha ido,\ny la sombra a la luz al fin sucumba.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Aquí el agua es cristalina,\ny la hierba siempre verde,\ndonde el ganado se pierde,\ny la luz se difumina.\nLa sombra de la encina,\nal calor del sol muerde,\ny no hay quien recuerde,\nla pena que nos domina.\nCantan las aves suaves,\ny el viento mueve la hoja,\nsin que nada nos enoja.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

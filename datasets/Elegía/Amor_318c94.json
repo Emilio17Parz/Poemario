@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nuestro Nido, refugio de falsa calma,\nhoy el viento cruel lo quiso quebrar.\nEl frío me invade, me quema el alma,\nno tengo un sitio donde anclar.\nEl techo se ha ido, de dulce amparo,\nsolo el vacío, sin poder ser claro.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Nido"
+  }
+}

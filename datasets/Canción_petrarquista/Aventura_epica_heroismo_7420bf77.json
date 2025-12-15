@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tras mil batallas vuelve el guerrero,\ncansado y lleno de cicatrices,\nmas felices\nson los ojos que ven el sendero.\nEl hogar es el premio de la lucha,\nque escucha\nsu paso final,\ntras vencer al dragón y al vendaval.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "retorno"
+  }
+}

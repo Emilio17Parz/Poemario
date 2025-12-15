@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mano ya sin mi tacto, (A)\nsiente el frío sin la verdad, (B)\nmi alma ya sin piedad, (B)\nme causa ya un gran impacto. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Mano"
+  }
+}

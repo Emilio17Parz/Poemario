@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La danza es el ritmo del cuerpo sin par,\nque rompe el silencio con gran fulgor,\nla vida que fluye, que sabe amar,\nla forma más pura de amor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

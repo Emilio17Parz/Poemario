@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Buscamos la forma ideal,\nque no tenga mancha ni error,\nun sueño que no es real.\n\nQueremos lo fundamental,\nlo que tenga el mayor valor,\nbuscamos la forma ideal.\n\nPero lo humano es terrenal,\ny está lleno de sinsabor,\nun sueño que no es real.\n\nLa perfección es un fanal,\nque nos guía con su resplandor,\nbuscamos la forma ideal.\n\nAunque el intento sea leal,\nes solo un bello pormenor,\nun sueño que no es real.\n\nEn lo imperfecto está la sal,\nde la vida y de su color,\nbuscamos la forma ideal,\nun sueño que no es real.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "perfección"
+  }
+}

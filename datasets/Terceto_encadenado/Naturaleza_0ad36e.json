@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Océano de arena sin orillas,\ndonde el sol quema con furia total,\ny no existen las verdes semillas.\n\nUn paisaje desnudo y espectral,\ndonde el silencio grita su verdad,\ny el viento forma un dibujo igual.\n\nEn la inmensidad.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

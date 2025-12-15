@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nTu cuerpo es mi puerto, mi dulce cobijo (E1: cobijo)\nMi vida se aleja de todo dolor (E2: dolor)\nTu alma es la esencia que me da la fe (E3: fe)\nEl gozo que siento no tiene ya sombra (E4: sombra)\nContigo mi ser ya quiere crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nEl dolor que tengo me ayuda a crecer (E2, E5)\nLa sombra me da la fe (E4, E3)\nSin un error, mi dulce cobijo (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Abrigo"
+  }
+}

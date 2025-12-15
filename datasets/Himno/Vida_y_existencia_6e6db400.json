@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye, nada se queda,\nel río cambia, la flor perece,\npero la vida siempre crece,\ny nueva forma al mundo le da.\n\n¡Gloria al cambio que nos renueva!\nQue nos impide quedar inertes,\nabriendo puertas a nuevas suertes,\ny a la aventura que nos lleva.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "renovación"
+  }
+}

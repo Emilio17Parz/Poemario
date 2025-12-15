@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Volvió a la casa sola, y el silencio era un muro,\nDonde antes hubo risas, ahora un vacío oscuro.\nNo había voces, solo el tic tac del reloj,\nUn martillo constante que hería el ojo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

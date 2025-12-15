@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pico alto\nladeras que bajan\nbase ancha\npiedra eterna\ntocando el cielo\nsubir cuesta\nbajar rueda.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

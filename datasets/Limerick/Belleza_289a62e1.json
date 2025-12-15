@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Había una musa de belleza,\nque inspiraba con gran proeza.\nSu mirar tan sutil,\nera un don gentil,\nllenando mi ser de pureza.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "musa"
+  }
+}

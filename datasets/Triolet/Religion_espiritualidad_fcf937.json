@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La oración,\nsube al cielo.\nCon pasión,\nla oración.\nEs consuelo,\ny unión.\nLa oración,\nsube al cielo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "oración"
+  }
+}

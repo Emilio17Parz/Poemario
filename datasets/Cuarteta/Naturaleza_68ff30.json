@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña es firme, un ser de piedra,\ncon su cumbre blanca bajo el azul,\nla mano del tiempo no la arredra,\nla inmensidad le sirve de tul.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

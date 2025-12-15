@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Me visto del color negro,\nporque la pena me invade,\nno hay motivo por el que me alegro.\n\nNi risa que a mi boca agrade,\nporque falta tu amor a mi lado,\ny la ausencia mi pecho taladre.\n\nDejándome desconsolado.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "negro"
+  }
+}

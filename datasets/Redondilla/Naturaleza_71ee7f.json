@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Caen las hojas secas,\nde color dorado,\nel suelo sembrado,\nde alfombras y pecas.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

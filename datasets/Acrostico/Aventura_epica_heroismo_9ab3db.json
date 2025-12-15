@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Olas que navegas,\nDestino lejano.\nIslas a las que llegas,\nSufriendo en vano.\nEsperas y ruegas,\nAmor del humano.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "ODISEA"
+  }
+}

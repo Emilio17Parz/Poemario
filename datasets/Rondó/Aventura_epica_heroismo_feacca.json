@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busca la fama,\nel valiente,\nla gente,\nque llama.\nLa rama,\npendiente.\nBusca la fama.\n\nNombre eterno,\nen la historia,\nla memoria,\ndel invierno.\nEl gobierno,\nde la gloria.\nBusca la fama.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "fama"
+  }
+}

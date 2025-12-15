@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuelve la vida con su dulce olor,\nel que trae el agua a la arena.\nEs el perfume del renacer, el mejor,\nque nos quita toda la pena.\n\nEl alma respira, y se llena de paz,\ncon esa fragancia amable y tenaz.\nEs la promesa de un nuevo inicio,\nlejos del error y del vicio,\nel regalo más puro de la tierra.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

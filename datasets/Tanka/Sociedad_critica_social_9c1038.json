@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Bombas que caen\ndestruyendo la vida\nodio y terror.\nLos niños lloran solos\nentre ruinas y gris.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

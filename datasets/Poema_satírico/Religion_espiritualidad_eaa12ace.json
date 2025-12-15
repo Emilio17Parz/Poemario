@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El cura predica,\ncon voz monótona,\ny yo cabeceo,\nen la banca en la zona.\nHabla del infierno,\ny del fuego eterno,\npero el sueño me vence,\nen este invierno.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "sermón"
+  }
+}

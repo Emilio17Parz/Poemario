@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "S in tu mano que me guíe,\nO scura se ve la senda,\nL ejos de quien sonríe,\nO lvido busco en la venda.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "solo"
+  }
+}

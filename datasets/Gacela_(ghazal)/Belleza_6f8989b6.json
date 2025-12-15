@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja la musa de su monte,\npara que el poeta la afronte.\n\nLe dicta versos del horizonte,\ny cantos dulces del sinsonte.\n\nSin su presencia no hay remonte,\nni belleza que el arte monte.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "inspiración"
+  }
+}

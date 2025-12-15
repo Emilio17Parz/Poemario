@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El destino nos unió en un dulce lazo (A),\nla fe que en la noche supo brillar (B),\nsin ti mi existencia sería fracaso (A).\n\nNo hay más que buscar, no hay más que anhelar (B),\nque tu noble abrazo, mi dulce hogar (C),\nla calma que viene a mi alma a sanar (B).\n\nEres el puerto, el eterno mar (C),\ndonde mi barca quiere reposar (D),\nel único sitio para yo estar (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

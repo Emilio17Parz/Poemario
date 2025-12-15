@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Recuerda, hombre, que fuiste modelado con el polvo de las estrellas.\nY al polvo volverás cuando el aliento vital te abandone.\nNo hay orgullo que valga, ni riqueza que te salve de este destino.\nSomos polvo que sueña, polvo que ama, polvo que regresa al polvo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

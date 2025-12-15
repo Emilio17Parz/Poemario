@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Pasa la guadaña por el trigo,\ncortando la espiga que madura,\nsin distinguir fealdad o hermosura,\nllevándose al enemigo y amigo.\n\nLa muerte no acepta ningún castigo,\nni soborno, ni ruego, ni cura,\nes la justicia ciega y pura,\nque a todos nos toma por testigo.\n\nCosecha almas en cada segundo,\nllenando su granero infinito,\ndejando vacío a este mundo.\n\nEs un ciclo eterno y escrito,\nun misterio grave y profundo,\nque cumple su ley y su rito.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "siega"
+  }
+}

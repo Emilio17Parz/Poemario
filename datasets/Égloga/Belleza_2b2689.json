@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena la lira suavemente,\narmonía que al alma encanta.\nLa belleza se levanta\nen la nota fluyente.\nBebamos de esa fuente\nque es tan santa.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "lira"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Velas al viento en alta mar,\nIniciando la gran travesía,\nAventura en cualquier lugar,\nJamás vista la lejanía,\nEncontrando un nuevo hogar.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

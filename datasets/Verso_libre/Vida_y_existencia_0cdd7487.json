@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un laberinto de espejos.\nCorremos buscando la salida,\nchocando con nuestros propios reflejos.\nGiramos a la izquierda, a la derecha,\nperdemos el hilo de Ariadna.\nPero en el centro del laberinto,\ntal vez no haya un monstruo,\nsino nosotros mismos esperando.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

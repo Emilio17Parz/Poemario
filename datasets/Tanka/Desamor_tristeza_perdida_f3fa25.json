@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quiero borrarte\nde mi mente cansada\npero no puedo.\nTu recuerdo persiste\ncomo marca de fuego.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dentro vive el niño aquel,\nque jugaba con papel,\ny que miraba con asombro,\nencima de cualquier hombro.\nHay que dejarlo salir,\ny volver a sonreír,\ncon la inocencia primera,\nde la vida verdadera.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "niño"
+  }
+}

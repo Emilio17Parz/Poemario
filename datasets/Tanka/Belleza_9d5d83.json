@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piedra dormida\nel cincel la despierta\ncuerpo ideal.\nBelleza congelada\nen mármol frío y duro.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

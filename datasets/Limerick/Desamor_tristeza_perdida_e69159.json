@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Al fin estoy libre y soltero,\nhago lo que yo prefiero.\nDuermo en el sofá,\ncomo un bajá,\ny gasto todo mi dinero.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

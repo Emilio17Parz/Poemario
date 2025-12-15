@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te doy lo que soy,\nsin pedir nada.\nHoy y donde voy,\ncon el alma alada.\n\nSin pedir nada,\nentrega total.\nCon el alma alada,\namor real.\n\nEntrega total,\nte doy lo que soy.\nAmor real,\nhoy y donde voy.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "regalo"
+  }
+}

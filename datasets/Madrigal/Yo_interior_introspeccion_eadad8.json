@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Necesito callar para oírme,\napagar el ruido de afuera,\ny a mi manera,\nen mi propio silencio sumergirme.\nAhí me encuentro y me reconozco,\ny no ofusco,\nla voz suave de mi intuición,\ny mi razón.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "calma"
+  }
+}

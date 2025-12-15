@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nLa naturaleza me cubre sin final (E1: final)\nMi vida es la sombra que quiero ya ver (E2: ver)\nEl verde me inunda sin una razón (E3: razón)\nEl gozo me cubre sin un gran dolor (E4: dolor)\nLa fuerza me impulsa a volver a crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nLa sombra que quiero al fin crecer (E2, E5)\nEl dolor me da la razón (E4, E3)\nSin un error, sin un final (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Naturaleza"
+  }
+}

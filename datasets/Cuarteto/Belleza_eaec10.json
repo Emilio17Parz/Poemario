@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La curva de tu sonrisa,\nes la línea más bella,\nque deja profunda huella,\ny que nunca va de prisa.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

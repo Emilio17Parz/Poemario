@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es un largo dormir,\nsin miedo ni ganas de ir.\nEl cuerpo descansa,\nla pena se amansa,\nsin un solo triste sentir.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

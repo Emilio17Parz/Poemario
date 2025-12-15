@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Belleza que va,\nY en el aire habita,\nPura perfección.\nLa delicada forma\nQue el ser eleva ya.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "forma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El honor no tiene fin,\nmi alma es un trajín.\n\nLa ley ya me llegó,\nla pena ya se me fue,\nel mundo ya me salvó,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "honor"
+  }
+}

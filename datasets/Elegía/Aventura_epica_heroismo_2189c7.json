@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Ay, Caballero que caíste sin honor,\ntu espada se rompe sin un gran bien!\nTu alma se queja con gran dolor,\nel alma sin un sostén.\nTu lucha es sombra, la gesta es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Caballero"
+  }
+}

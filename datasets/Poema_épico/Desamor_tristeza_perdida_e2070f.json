@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rompí las cadenas de mil prisiones,\npero no puedo romper tu recuerdo,\nesclavo soy de mis ilusiones,\nen este laberinto donde me pierdo.\nLibertador de pueblos fui nombrado,\npero de tu ausencia vivo atado.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Cadena"
+  }
+}

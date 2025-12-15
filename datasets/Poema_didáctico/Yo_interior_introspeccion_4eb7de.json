@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No reprimas el llanto,\nni la ira sentida,\ndales su canto,\ny salida.\nGestionar la emoción,\nes la solución.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Emociones"
+  }
+}

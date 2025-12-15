@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "[EL HEREJE]\nLa leí cien veces, y no encontré amor, encontré reglas, castigo, miedo.\nEs un libro de sangre y promesas rotas, no la palabra de un padre.\nMe obligáis a besar esta tapa, pero yo sé que es un arma de control.\nMi fe está en el viento, no en esta tinta. Quemadme, si queréis, pero no me hagáis mentir.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "biblia"
+  }
+}

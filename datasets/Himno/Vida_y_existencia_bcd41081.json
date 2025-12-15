@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Loor al camino que el hombre traza,\ncon su sudor y su fe en el andar,\nsin detenerse nunca a mirar,\nlo que el destino le da o le rechaza.\nSenda de vida, escuela de honor,\ndonde se forja el ser con valor.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "camino"
+  }
+}

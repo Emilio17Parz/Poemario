@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El trueno que ruge con gran voz y dolor (A),\nla cólera divina, el fuerte fulgor (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Trueno"
+  }
+}

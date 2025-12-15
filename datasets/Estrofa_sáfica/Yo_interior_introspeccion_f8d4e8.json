@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Yo, yo y yo, grita el vanidoso,\nsolo se mira en su propio ser,\nciego que nunca podrá entender,\ncárcel del ego.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "ego"
+  }
+}

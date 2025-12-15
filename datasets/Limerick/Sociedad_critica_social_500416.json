@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La sombra de la falsedad,\nque cubre la gran verdad.\nLa mentira es ley,\nsin un solo rey,\nel mundo sin caridad.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

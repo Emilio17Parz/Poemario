@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco al niño que reía,\ndonde se ha escondido.\nPerdió la fantasía,\ny se siente perdido.\n\nDonde se ha escondido,\nbajo capas de adulto.\nY se siente perdido,\nen este extraño culto.\n\nBajo capas de adulto,\nbusco al niño que reía.\nEn este extraño culto,\nperdió la fantasía.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "niño"
+  }
+}

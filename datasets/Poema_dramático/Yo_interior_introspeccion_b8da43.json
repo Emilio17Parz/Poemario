@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "[EL ARTISTA]\nLa gente me mira y me teme. Dicen que estoy al borde. ¡Mienten!\nEl borde es mi hogar. Es la única vista real. Abajo está la convención, la mentira.\nVivo en la música que nadie oye, en el color que nadie ve. Es mi reino.\nLa locura no es un castigo, es la lucidez más pura que me hace libre del mundo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "locura"
+  }
+}

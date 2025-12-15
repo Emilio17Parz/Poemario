@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Jamás pensé encontrar,\nUna dicha tan plena.\nNadie nos va a separar,\nTeniendo el alma serena.\nOlvidamos el penar,\nSiendo luz en la arena.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "JUNTOS"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Capa y espada,\nvalor ante el peligro\nde la maldad.\nSalva al inocente\nsin pedir galardón.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

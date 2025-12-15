@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Muerte acecha sin piedad,\nNos roba el soplo y la razón;\nSu fría mano en la ciudad.\nLa Muerte acecha sin piedad.\nUn viaje a la eternidad,\nSin ver jamás la redención.\nNos roba el soplo y la razón,\nLa Muerte acecha sin piedad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

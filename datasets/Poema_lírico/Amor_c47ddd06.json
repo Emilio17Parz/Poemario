@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En el templo callado de mi pecho,\ndonde el eco del mundo se ha deshecho,\ntu nombre danza, brisa que me inunda,\namor que nace, crece y se fecunda.\n\nTus ojos, pozos de infinita calma,\nespejo donde mi alma se derrama.\nTu voz, un hilo de seda en el oído,\ncanción de cuna para mi sentido.\n\nNi el tiempo cruel, ni el invierno frío,\npodrán borrar este sentir mío.\nPues en mi sangre, con fervor que asombra,\nun **fuego** vive, que jamás se nombra\nsino en el soplo tibio de tu aliento,\neterna llama, mi único sustento.\n\nAsí te llevo, más allá del verso,\nen cada fibra de mi universo.\nEres la paz, el sueño y el latido,\nel amor puro, jamás desvanecido.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

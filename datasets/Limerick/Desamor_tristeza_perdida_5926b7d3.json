@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Perdí tu amor, sentí el pesar,\nmi alma se puso a temblar.\nUna **lágrima** azul,\nrompió mi ataúd,\ny ya no pude más soñar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

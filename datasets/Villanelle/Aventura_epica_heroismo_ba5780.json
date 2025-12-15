@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El mar me traga,\ny el barco se hunde,\ncomo una plaga.\n\nLa luz se apaga,\ny se confunde,\nel mar me traga.\n\nNadie me paga,\nlo que difunde,\ncomo una plaga.\n\nEs la saga,\nque me inunde,\nel mar me traga.\n\nSoy la llaga,\nque se funde,\ncomo una plaga.\n\nNadie halaga,\nal que se hunde,\nel mar me traga,\ncomo una plaga.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

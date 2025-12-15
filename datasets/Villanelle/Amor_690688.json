@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la vida que mi cuerpo habita,\nla sangre que recorre mi interior,\ny la razón que mi alma necesita.\n\nTu presencia mis penas debilita,\ncambiando por la dicha mi dolor,\neres la vida que mi cuerpo habita.\n\nMi corazón a gritos te solicita,\npara entregarte todo su calor,\ny la razón que mi alma necesita.\n\nEsta pasión que nunca se marchita,\nes el regalo de un divino amor,\neres la vida que mi cuerpo habita.\n\nEl tiempo junto a ti se resucita,\ny cobra un nuevo y mágico valor,\ny la razón que mi alma necesita.\n\nNuestra unión el cielo la ha escrita,\ncon letras de esperanza y de color,\neres la vida que mi cuerpo habita,\ny la razón que mi alma necesita.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "vida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminos se bifurcan,\ny hay que elegir cuál senda seguirás;\nno volverás,\nbarcos que surcan.\nDecidir es crear nuestro destino,\nen el camino.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "elección"
+  }
+}

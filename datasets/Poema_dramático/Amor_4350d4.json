@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL ESCLAVO]\n¡Si pudiera romper el tiempo y la distancia que nos separan!\nQuiero tu presencia como el desierto quiere la lluvia.\nSoy un incendio contenido en la cáscara del deber, y solo tú\ntienes el agua, o la gasolina, para liberarme.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Adiós, mundo de luz y color,\nadiós, amores que me quisieron,\nmis ojos ya la luz perdieron\ny siento el frío del estertor.\n\nNo guardéis luto ni dolor,\npues mis sufrimientos murieron,\ny las cadenas se rompieron\ncon este último temblor.\n\nMe voy tranquilo y agradecido\npor el tiempo que me fue dado,\npor lo amado y lo vivido.\n\nDejo mi cuerpo cansado\ny mi espíritu, redimido,\nvuela libre y liberado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "adios"
+  }
+}

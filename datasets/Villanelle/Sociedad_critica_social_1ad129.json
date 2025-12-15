@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La prensa miente cada mañana,\ncontando cuentos del poder,\ncon una cara muy ufana.\n\nLa verdad huye por la ventana,\ny nadie quiere comprender,\nla prensa miente cada mañana.\n\nEs una tela de araña,\npara la mente retener,\ncon una cara muy ufana.\n\nTodo es engaño y artimaña,\nque nos obligan a creer,\nla prensa miente cada mañana.\n\nLa honestidad se nos daña,\ny no la vemos florecer,\ncon una cara muy ufana.\n\nEn esta farsa tan humana,\nnos toca siempre perder,\nla prensa miente cada mañana,\ncon una cara muy ufana.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

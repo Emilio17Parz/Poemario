@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Casa vendida, muros caídos,\ndonde crecí y fui feliz,\nhoy solo queda la cicatriz,\nde los recuerdos perdidos.\n\nEcos de voces y ruidos,\nque fueron mi raíz,\ny mi matiz,\nhoy dormidos.\n\nLloro la casa de infancia,\nperdida en la distancia.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "hogar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[EL VERDUGO]\n(Afilando la hoja)\nNo soy yo el que mata, soy solo el instrumento de vuestra ley, de vuestro miedo.\nVosotros lo condenasteis, yo solo cumplo el rito. No hay odio en mi mano.\nMañana seré yo quien esté allí, y otro tomará mi hacha. Es un ciclo.\nMorir es lo único justo en este mundo injusto. No hay salvación.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "verdugo"
+  }
+}

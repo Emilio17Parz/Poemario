@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te juro amor eterno y verdadero,\nmientras me quede voz en la garganta,\npues eres el tesoro que prefiero.\n\nTu sola imagen mi dolor espanta,\ny me guía por sendas de esperanza,\ncon una devoción que se levanta.\n\nEn divina alianza.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

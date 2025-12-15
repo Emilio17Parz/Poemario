@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Habito en esta casa de silencio,\ndonde el eco responde a mis lamentos,\ny cuento de las horas los fragmentos,\npues ya ni la esperanza diferencio.\n\nA la triste pared yo reverencio,\ntestigo de mis gris pensamientos,\ny siento de la noche los alientos\nen este encierro que yo no licencio.\n\nLa soledad se sienta en mi mesa,\ncome de mi plato y bebe mi vino,\ny me cubre con manta de tristeza.\n\nEs este el implacable y fiel destino:\nvivir con esta sombra que me pesa\ny andar sin compañía en el camino.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

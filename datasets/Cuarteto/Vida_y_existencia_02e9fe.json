@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que la risa te salve del cruel dolor,\nde la pena que intenta el alma vencer,\nla vida es alegría, un gran fulgor,\nla fuerza que ayuda a creer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

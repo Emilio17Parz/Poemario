@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hablan y hablan sin decir nada,\nbuscando el voto con fervor,\ncon la sonrisa congelada.\n\nEs la promesa gastada,\nque pierde su valor,\nhablan y hablan sin decir nada.\n\nLa gente está cansada,\nde tanto sinsabor,\ncon la sonrisa congelada.\n\nUna función preparada,\npor un mal actor,\nhablan y hablan sin decir nada.\n\nLa confianza está quebrada,\npor el engaño y el error,\ncon la sonrisa congelada.\n\nEn esta farsa montada,\nno hay ningún honor,\nhablan y hablan sin decir nada,\ncon la sonrisa congelada.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "política"
+  }
+}

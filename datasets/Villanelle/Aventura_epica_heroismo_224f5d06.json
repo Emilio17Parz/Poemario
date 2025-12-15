@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El valor nos guía en cada viaje audaz,\nPor senderos que marcan un destino,\nDonde el héroe forja su eterno solaz.\n\nNi la sombra fiera, ni el abismo voraz,\nDetendrán su espíritu peregrino,\nEl valor nos guía en cada viaje audaz.\n\nContra el mal antiguo, la más cruel falaz,\nAlza escudo y espada, su fuego genuino,\nDonde el héroe forja su eterno solaz.\n\nCruzará montañas, desiertos veraz,\nEn su gesta épica, un sendero divino,\nEl valor nos guía en cada viaje audaz.\n\nCada paso firme, sin mirar hacia atrás,\nCon la fe que arde en su pecho cristalino,\nDonde el héroe forja su eterno solaz.\n\nAsí el alma invicta, su honor tenaz,\nCumplirá su sino, con temple genuino,\nEl valor nos guía en cada viaje audaz,\nDonde el héroe forja su eterno solaz.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

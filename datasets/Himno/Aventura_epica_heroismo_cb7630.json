@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Muro portátil, defensa fiel,\nque paras la flecha y la dura hiel.\n¡Salve, Escudo, guardián de la vida!,\nque evitas la muerte y cierras la herida.\n\nSoportas el golpe sin vacilar,\npara que el guerrero pueda avanzar.\nEmblema de protección y cuidado,\nsiempre en la lucha, siempre a mi lado.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "escudo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "ENFERMO: La luz se apaga, dame la mano.\nCOMPAÑERO: Estoy aquí, no es en vano.\nENFERMO: Tengo miedo a lo que viene después.\nCOMPAÑERO: Cierra los ojos, cuenta hasta tres.\nUno... dos... (El monitor pita)\nCOMPAÑERO: ...tres. Se ha ido.\nMe deja en el mundo solo y perdido.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "hospital"
+  }
+}

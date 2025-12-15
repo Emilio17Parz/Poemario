@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dejo todo lo que tengo,\na los que vienen detrás,\npues de la tierra vengo.\n\nMe mantengo,\nen lo que das,\ndejo todo lo que tengo.\n\nNo me prevengo,\nde lo demás,\npues de la tierra vengo.\n\nMe abstengo,\nde ir a más,\ndejo todo lo que tengo.\n\nConvengo,\nque es la paz,\npues de la tierra vengo.\n\nSostengo,\nque tú estarás,\ndejo todo lo que tengo,\npues de la tierra vengo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "testamento"
+  }
+}

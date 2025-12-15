@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La joya maldita tenía un brillo,\nque enloquecía a reyes y a zares.\nCausó mil guerras en todos los mares,\npor poseer su fulgor sencillo.\nHistoria de sangre por la belleza,\nque corta el aliento y la cabeza.\nEl brillo fatal de la perfección,\nque lleva a los hombres a la perdición.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

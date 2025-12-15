@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Contemplad las montañas que rasgan el vientre del cielo, tronos de granito donde reposan las nubes.\nSon las costillas de la tierra, antiguas y solemnes, testigos de las edades que pasan como sombras.\nEl viento aúlla en sus cumbres nevadas, cantando himnos que ningún hombre puede entender.\nAnte su majestad, mi vida es un suspiro y mi orgullo es polvo que se lleva la brisa.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El grito de guerra, que rompe el silencio atroz,\nel eco de un alma que no teme al mal,\nla fuerza suprema, la gran voz,\nla voluntad que es ya inmortal.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

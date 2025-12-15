@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, no un lazo, sino el aire que se respira,\ndenso en las mañanas de invierno,\nligero como el polen que el viento dispersa.\nNo es una promesa grabada en piedra,\nsino el murmullo de hojas secas bajo el pie,\nuna música que insiste, sutil.\n\nEs la mano que busca, sin saber qué busca,\ny encuentra el eco en otra palma tibia,\nla risa que estalla sin motivo,\nel silencio que comprende más que mil palabras.\nUn espacio donde el alma se desnuda,\nsin vergüenza, sin disfraces.\n\nSabe a sal y a miel,\na tierra mojada después de la lluvia,\nal aroma de un café compartido al amanecer,\ncuando el mundo aún duerme\ny solo dos almas despiertan una a la otra.\n\nY en el centro de todo,\npalpitante, vulnerable y fuerte,\nreside el **corazón**,\nun músculo terco, un templo en ruinas y a la vez floreciendo.\nLate, bombea este caudal de asombro y paciencia,\nguiando la nave por mares que nunca tienen orilla,\nsiempre hacia el otro, o hacia el sí mismo redescubierto.\nUna constelación de presencias,\nun faro en la niebla que somos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

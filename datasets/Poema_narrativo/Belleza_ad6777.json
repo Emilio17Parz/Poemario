@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tomó el pincel el viejo, y pintó una mujer,\nDonde el alma desnuda se podía ver.\nEl arte es el espejo que devuelve la luz,\nLa belleza es el fondo, que no tiene cruz.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "arte"
+  }
+}

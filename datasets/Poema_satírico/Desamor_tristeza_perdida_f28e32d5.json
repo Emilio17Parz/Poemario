@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mis amigos te odiaban,\nme lo dicen ahora todos,\ncritican tus malos modos,\nque antes disimulaban.\nDicen que me controlaban,\ntus celos y tus apodos,\ny ahora brindan, codos con codos,\nporque por fin acababan.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "amigos"
+  }
+}

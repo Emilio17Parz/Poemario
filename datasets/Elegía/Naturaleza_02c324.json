@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cielo negro, techo oscuro,\nsin diamantes que brillen,\nni luces que nos orillen,\na un puerto más seguro.\n\nEs un abismo duro,\ndonde los sueños encallen,\ny las esperanzas callen,\ntras este inmenso muro.\n\nNoche ciega y aterradora,\nque devora a la aurora.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bendito sea el momento,\nen que cruzamos la vida,\ncurando la vieja herida,\ncon este nuevo sentimiento.\nEl azar fue nuestro amigo,\npara estar hoy contigo.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

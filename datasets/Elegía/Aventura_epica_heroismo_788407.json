@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Victoria que fuiste la gloria y el don,\nhoy tu recuerdo me causa dolor.\nEl alma se queja sin una razón,\nel alma sin un gran fulgor.\nTu forma es sombra, la verdad es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Victoria"
+  }
+}

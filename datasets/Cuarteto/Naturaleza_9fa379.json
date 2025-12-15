@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La lluvia es un llanto que limpia el cristal,\nel mundo se esconde bajo el chaparrón,\nsu voz es de calma, es un fanal,\nla paz que me da la gran lección.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Lluvia"
+  }
+}

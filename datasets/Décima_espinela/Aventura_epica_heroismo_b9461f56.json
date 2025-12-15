@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Aventura llama con voz ronca,\nel héroe, sin temor, firme está,\nsu espada, en la luz, brillará,\ndonde la leyenda se desboca.\nQue el destino su ruta convoca.\n\nEn la cumbre, la sombra del mal,\nun aliento de fuego letal,\nmas su alma de luz no cede,\nal monstruo su filo le agrede,\nla furia del gran dragón infernal.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

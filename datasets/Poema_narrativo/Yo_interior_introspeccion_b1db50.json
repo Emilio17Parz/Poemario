@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Se perdonó el error con una calma suave,\nLa mano se hizo libre, sin ninguna clave.\nEl perdón es la llave que abre el duro muro,\nEl fin de la pena, el futuro seguro.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Duele tu ausencia en cada rincón,\nes un fantasma que me persigue,\nrobándome toda la ilusión.\n\nNo encuentro paz ni consolación,\nmientras el tiempo su curso sigue,\nduele tu ausencia en cada rincón.\n\nEs una lenta y dura lección,\nque a resignarme no consigue,\nrobándome toda la ilusión.\n\nGrita mi pecho sin ton ni son,\npues el dolor no se mitigue,\nduele tu ausencia en cada rincón.\n\nFalta tu risa y tu canción,\nnada hay que ya me abrigue,\nrobándome toda la ilusión.\n\nQuedo atrapado en la confusión,\nsin que tu mano me desligue,\nduele tu ausencia en cada rincón,\nrobándome toda la ilusión.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

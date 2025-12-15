@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vender el tiempo\npor monedas de cobre\nvida que va.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

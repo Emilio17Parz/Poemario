@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "A orillas del Tajo, mano a mano,\ndos pastores se juran lealtad,\nbajo la sombra de la soledad,\nen este verde y fértil llano.\nElla teje una flor de verano,\nél toca la zampoña con bondad,\ny el río canta a la felicidad,\ndel amor rústico y humano.\n«Tuyas son mis ovejas y mi vida»,\ndice el pastor con voz enternecida,\n«y tuyo es mi corazón, amado», responde la querida.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "unión"
+  }
+}

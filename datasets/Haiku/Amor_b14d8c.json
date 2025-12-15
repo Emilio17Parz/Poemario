@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo la luna,\ndos sombras se fusionan,\nun solo ser.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "luna"
+  }
+}

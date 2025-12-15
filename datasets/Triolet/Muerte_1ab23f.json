@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra cubre,\ntus ojos cerrados.\nSe descubre,\nla sombra cubre.\nEn octubre,\nlos pasados.\nLa sombra cubre,\ntus ojos cerrados.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

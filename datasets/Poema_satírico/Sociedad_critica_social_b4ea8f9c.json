@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Trabaja duro,\nciudadano fiel,\nque Hacienda te espera,\ncon su papel.\nTe quitan la mitad,\npara el bienestar,\nde los que no hacen,\nmás que gastar.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "impuestos"
+  }
+}

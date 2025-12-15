@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El pueblo me olvida, mi nombre es solo un eco sin ninguna razón fiel,\nla vida sin la calma, con sabor amargo a hiel.\nLa gloria es fugaz, el recuerdo se va ya sin luz ni fin,\nla vida sin la calma, el triste motín.\n\nLloro por el honor que mi alma no pudo guardar jamás al final sin voz,\ny mi ser es la esclava de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

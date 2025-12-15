@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Muere la flor,\nsin color.\nSeca en la rama,\nya no reclama,\nsu esplendor.\n\nSin olor,\nni valor.\nLa llama,\nmuere la flor.\n\nEl creador,\ncon amor.\nLa llama,\ny la ama,\nen su interior,\nmuere la flor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "flor"
+  }
+}

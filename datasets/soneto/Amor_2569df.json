@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quisiera ser el aire que respiras,\nel suelo que tus pasos acaricia,\nla brisa que te trae la noticia,\nla imagen que en el espejo miras.\n\nSaber lo que en tus sueños hoy conspiras,\nborrar de tu semblante la malicia,\nllenarte de placer y de delicia,\ncalmar las inquietudes y las iras.\n\nMi cuerpo pide a gritos tu contacto,\nfundirnos en un solo movimiento,\nrompiendo de la piel el casto pacto.\n\nDejarnos arrastrar por el momento,\nhaciendo del amor un sacro acto,\neterno, pasional y violento.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

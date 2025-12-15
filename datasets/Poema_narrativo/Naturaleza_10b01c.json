@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El leñador encendió la hoguera al anochecer,\nPara ahuyentar las sombras y poder ver.\nEl fuego crepitaba con danza de locura,\nComiendo la madera, sin piedad ni cura.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Esparcieron sus cenizas,\nsobre el mar que tanto amó,\nel viento se las llevó,\nen ráfagas y en brisas.\nYa no hay misas ni prisas,\ntodo en él se terminó,\npero su alma voló,\na las etéreas repisas.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

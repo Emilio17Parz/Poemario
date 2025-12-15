@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro en el espejo,\ny me siento viejo.\n\nVeo mi cara,\nque el tiempo ara,\ny nos separa,\nde aquel reflejo.\n\nMe miro en el espejo,\ny me siento viejo.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

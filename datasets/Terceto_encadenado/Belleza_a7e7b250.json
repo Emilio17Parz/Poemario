@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pinceles llenos de vida,\ndibujan un mundo nuevo,\ny en el lienzo me elevo.\n\nA una tierra prometida,\ndonde todo es perfecto,\ny el alma se siente unida.\n\nA un divino proyecto.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "cuadro"
+  }
+}

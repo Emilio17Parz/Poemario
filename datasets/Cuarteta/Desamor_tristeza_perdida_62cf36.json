@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quisiera beber el agua del olvido,\nborrar tu imagen de mi memoria cruel,\npero el recuerdo es un ser vivo,\nque bebe de mi hiel y de mi miel.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Olvido"
+  }
+}

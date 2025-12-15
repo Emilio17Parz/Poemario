@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi sombra camina al lado,\nparte oscura de mi ser.\nLo que tengo callado,\nno quiero reconocer.\n\nParte oscura de mi ser,\nmiedos que no confieso.\nNo quiero reconocer,\nel peso de este hueso.\n\nMiedos que no confieso,\nmi sombra camina al lado.\nEl peso de este hueso,\nlo que tengo callado.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

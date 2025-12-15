@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es un sueño sin sueños, largo y profundo,\ndonde se olvida el peso del mundo.\n\nDescansa el guerrero, el vagabundo,\nen este reposo que es infecundo.\n\nSe apaga la luz en un segundo,\ny el alma navega hacia lo oriundo.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "dormir"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir a base de lechuga,\nsoñando con el pastel,\nla barriga se arruga,\ny amarga la hiel.\nPerder peso es perder vida,\nen esta lucha perdida.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Dieta"
+  }
+}

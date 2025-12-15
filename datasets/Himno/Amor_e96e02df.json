@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Salve, reina de mi pensamiento,\ndiosa mortal de belleza pura,\nante tu altar mi alma procura\nhallar la paz y el dulce aliento.\n\nEres la luz que al mundo guía,\nestrella clara de la mañana,\ntu sola voz, dulce y soberana,\ntrae a la tierra la alegría.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "diosa"
+  }
+}

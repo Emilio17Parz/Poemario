@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde el fuego de esta gran pasión,\nque no puedo calmar ni contener,\nes la dueña de mi corazón,\ny la fuerza de todo mi ser.\n\nQue no puedo calmar ni contener,\nva quemando mi piel con su calor,\ny la fuerza de todo mi ser,\nse rinde ante este dulce dolor.\n\nVa quemando mi piel con su calor,\narde el fuego de esta gran pasión,\nse rinde ante este dulce dolor,\nes la dueña de mi corazón.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dura lucha,\nen el campo,\nel lampo,\nque escucha.\nLa hucha,\ndel trampo.\nDura lucha.\n\nSangre y sudor,\nse derrama,\nla llama,\ndel dolor.\nEl valor,\nque ama.\nDura lucha.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

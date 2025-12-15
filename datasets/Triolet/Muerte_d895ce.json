@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el momento del adiós,\nLa vida se termina,\nEs el juicio de Dios.\nLlega el momento del adiós,\nPara los dos,\nEn la esquina.\nLlega el momento del adiós,\nLa vida se termina.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

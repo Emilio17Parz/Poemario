@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Perdonarse es soltar el látigo.\nDejar de golpearse por el pasado.\nAceptar que lo hiciste lo mejor que pudiste\ncon lo que sabías entonces.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

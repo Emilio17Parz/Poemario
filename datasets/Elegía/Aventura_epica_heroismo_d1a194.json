@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Marino que yaces sin un gran ya,\nel alma que el mar quiso tomar.\nTu fuerza es sombra, sin un solo haz,\nel alma sin poder anclar.\nTu forma es triste, la verdad es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Marino"
+  }
+}

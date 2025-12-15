@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te juro amor verdadero\nhasta el fin de la existencia,\npues eres mi única esencia\ny el aire puro que espero.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

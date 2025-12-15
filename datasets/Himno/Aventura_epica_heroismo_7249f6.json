@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fuego en el pecho que quema la duda,\nfuerza interior, gigante y desnuda.\n¡Salve, Valor, virtud del guerrero!,\nque te mantienes firme y entero.\n\nNo es no tener miedo, es saberlo vencer,\ny ante el peligro nunca ceder.\nTe rindo tributo, coraje sagrado,\nque has levantado al que estaba postrado.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "valor"
+  }
+}

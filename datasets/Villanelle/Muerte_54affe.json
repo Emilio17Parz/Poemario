@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Callan las voces del mundo,\nante la muerte que llega,\ncon su misterio profundo.\n\nEn lo fecundo,\nde la refriega,\ncallan las voces del mundo.\n\nYo me hundo,\ncuando se entrega,\ncon su misterio profundo.\n\nSoy vagabundo,\nque navega,\ncallan las voces del mundo.\n\nEn un segundo,\nse nos niega,\ncon su misterio profundo.\n\nAmor rotundo,\nque se despliega,\ncallan las voces del mundo,\ncon su misterio profundo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

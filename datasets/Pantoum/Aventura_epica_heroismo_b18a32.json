@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hechizos y conjuros,\npoder de lo arcano.\nRompe los muros duros,\ncon un gesto de mano.\n\nPoder de lo arcano,\nfuego, hielo y rayo.\nCon un gesto de mano,\nevita el gran desmayo.\n\nFuego, hielo y rayo,\nhechizos y conjuros.\nEvita el gran desmayo,\nrompe los muros duros.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "magia"
+  }
+}

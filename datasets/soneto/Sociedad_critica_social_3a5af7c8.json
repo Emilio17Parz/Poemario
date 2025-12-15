@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Selva de hormigón y de ruido,\ndonde el humo tapa la estrella,\ny la multitud atropella\nal ser que camina perdido.\n\nEl tiempo es un bien perseguido,\nla prisa nos deja su huella,\ny nadie repara en la bella\nflor que en la grieta ha nacido.\n\nLa urbe devora a sus hijos,\nles da soledad entre gente,\ny futuros que son acertijos.\n\nEs un monstruo grande y potente,\nque ofrece placeres prolijos,\npero mata el alma silente.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

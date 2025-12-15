@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Esfuerzo que dignifica,\nmanos que crean el pan,\nacción que nos edifica\ny da sentido al afán.\nSudor que riega la tierra,\nmente que busca solución,\nherramienta que destierra\nla ociosa perdición.\nGracias, labor cotidiana,\nque construyes el hogar,\ny preparas la mañana\npara poder descansar.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

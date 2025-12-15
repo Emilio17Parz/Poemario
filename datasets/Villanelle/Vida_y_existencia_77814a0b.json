@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se escapa rápido el breve tiempo,\ncomo la arena entre las manos,\nsin concedernos un contratiempo.\n\nSe van los días y el pasatiempo,\nlos años jóvenes y lozanos,\nse escapa rápido el breve tiempo.\n\nNo vale el ruego ni el destiempo,\nson esfuerzos que resultan vanos,\nsin concedernos un contratiempo.\n\nCambia el paisaje y el entretiempo,\ndejando huellas en los humanos,\nse escapa rápido el breve tiempo.\n\nDebemos vivir cada momento,\ncomo regalos soberanos,\nsin concedernos un contratiempo.\n\nEs fugaz nuestro firmamento,\ny los finales son cercanos,\nse escapa rápido el breve tiempo,\nsin concedernos un contratiempo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Partió el pastor a tierras lejanas,\nbuscando pastos mejores.\nSufrió dolores\ny noches vanas.\nSon hazañas humanas\nde sus labores.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "tierras"
+  }
+}

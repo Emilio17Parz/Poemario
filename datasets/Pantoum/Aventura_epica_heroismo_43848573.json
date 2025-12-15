@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge la cruel batalla,\ncon estruendo de cañón,\ny el soldado no se calla,\nponiendo el corazón.\n\nCon estruendo de cañón,\nla tierra tiembla de miedo,\nponiendo el corazón,\nyo resistir aquí puedo.\n\nLa tierra tiembla de miedo,\nruge la cruel batalla,\nyo resistir aquí puedo,\ny el soldado no se calla.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

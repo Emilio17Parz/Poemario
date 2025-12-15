@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ayer eras reina y color,\npétalos de seda fina,\nhoy tu cabeza se inclina\nrendida ante el dolor.\nPerdiste el dulce olor,\ny la vida te elimina,\nel tiempo te asesina\ncon su paso destructor.\nBreve fue tu reinado,\nhermosura pasajera,\nque el viento ha llevado.\nQueda la tallo y la cera,\nde un sueño terminado,\nen esta cruel primavera.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "flor_marchita"
+  }
+}

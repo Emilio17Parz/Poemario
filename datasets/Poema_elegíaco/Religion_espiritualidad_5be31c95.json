@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Lamento la pérdida de mi fe,\nla llama que en mi pecho se apagó,\nel dios que de mi cielo se marchó,\ny la esperanza que ya no se ve.\nVago en tinieblas, huérfano de luz,\nsin encontrar consuelo en ninguna cruz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "fe"
+  }
+}

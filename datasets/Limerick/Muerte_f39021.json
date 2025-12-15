@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lloraban en el funeral,\nde un modo muy teatral.\nEl muerto estornudó,\ny la gente corrió,\nfue un susto descomunal.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "funeral"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Claridad,\nque nos deja,\nsin la queja,\nni maldad.\nLa verdad,\nse revela,\ny consuela,\nla bondad.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "luz"
+  }
+}

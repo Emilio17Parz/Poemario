@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El valiente también siente el temor,\npero avanza a pesar de la negrura,\ny vence con coraje al opresor.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Trato de borrar tu nombre,\nescrito en la arena gris.\nYa no queda ni el hombre,\nque fue feliz en París.\n\nEscrito en la arena gris,\nel viento se lo llevó.\nQue fue feliz en París,\nel tiempo lo destruyó.\n\nEl viento se lo llevó,\nya no queda ni el hombre.\nEl tiempo lo destruyó,\ntrato de borrar tu nombre.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

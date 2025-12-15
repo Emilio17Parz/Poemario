@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La dulce y preciosa soledad,\nes fuerza sin falsedad.\nMe da la verdad,\nsin un solo haz,\nel alma sin un gran gaz.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Soledad"
+  }
+}

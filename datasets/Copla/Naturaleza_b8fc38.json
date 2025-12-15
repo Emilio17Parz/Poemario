@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro las estrellas\nen la noche clara,\ny veo tu cara\nque nada compara.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

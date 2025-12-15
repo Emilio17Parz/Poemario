@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, dulce calma que el paisaje entrega,\nDonde la vida en su verdor palpita,\nY la montaña, fiel, su cumbre habita,\nMientras el tiempo sin afán se apega.\n\nEl río claro que en su curso juega,\nMurmura historias que la brisa incita,\nCada flor nueva, su color nos quita\nLa pena errante que a la mente llega.\n\nLa luz dorada que el follaje filtra\nPinta de ensueño cada senda umbría,\nY el cielo vasto, en su quietud se mira.\n\nMi alma, que en ello su dolor arbitra,\nHalla en el bosque su mejor guía,\nY en la belleza su verdad suspira.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

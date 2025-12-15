@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No se la lleva el viento, la promesa,\nque juramos frente a la mar,\ngrabada en la roca y la arena.\nVale más que cualquier condena,\nel saber que me vas a esperar,\ny que nuestro amor es verdad.\n\nAmor es verdad,\ny la promesa,\nnos ha de salvar.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

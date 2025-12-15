@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Ocultan siempre la verdad desnuda,\ntras las cortinas de discurso falso,\nllevan al justo por decir lo cierto\nal cadalso.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

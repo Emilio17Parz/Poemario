@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Huyeron de noche hacia la ermita,\ndonde el viejo cura los esperaba,\nla tormenta fuera se desataba,\npero su fe era infinita.\nPrometieron amarse ante la cruz,\nsin testigos, solo las velas,\nunieron sus vidas y sus estelas,\nbajo aquella tenue luz.\nSalieron esposos al amanecer,\nlistos para juntos vencer.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "altar"
+  }
+}

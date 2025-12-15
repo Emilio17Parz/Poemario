@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Colecciona nombres en lista,\npresumiendo de conquistador,\nse cree un gran artista,\ndel lecho y del amor.\nPero en el fondo está solo,\nhaciendo el tonto y el bolo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Don_Juan"
+  }
+}

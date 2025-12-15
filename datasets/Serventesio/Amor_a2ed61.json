@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me refugio en el cerco de tus brazos,\ncomo barco que llega a puerto fiel,\ny se unen de nuevo nuestros lazos,\nmás dulces que el sabor de rica miel.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

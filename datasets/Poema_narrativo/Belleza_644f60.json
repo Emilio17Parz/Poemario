@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se apagó el sol y el cielo se vistió de negro,\nLas estrellas prendieron su tenue meñegro.\nLa noche es el velo, que oculta el error,\nLa belleza del cosmos, sin ningún fulgor.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "noche"
+  }
+}

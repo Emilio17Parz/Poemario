@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu recuerdo me daña,\nno me deja avanzar.\nEs una telaraña,\ntu recuerdo me daña.\nCon dolor se ensaña,\nno puedo olvidar.\nTu recuerdo me daña,\nno me deja avanzar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Necesito el silencio para escuchar mi propia voz, ahogada por el ruido exterior.\nMe retiro a mi desierto interior, donde puedo estar a solas conmigo mismo.\nAllí encuentro las respuestas que buscaba afuera, allí encuentro la paz.\nEl silencio no es vacío, está lleno de presencia, es el hogar del alma.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

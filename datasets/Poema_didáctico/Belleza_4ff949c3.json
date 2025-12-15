@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es proporción,\nritmo, orden y conexión.\nEs la danza de las partes,\nque vemos en todas las artes.\nCuando todo encaja bien,\nla belleza dice 'amén'.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

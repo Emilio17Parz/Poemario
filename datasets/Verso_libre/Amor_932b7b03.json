@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu nombre en mi boca\ntiene sabor a pan recién hecho,\na agua fresca en verano.\nLo repito bajito,\ncomo un mantra,\ncomo una oración profana\nque me salva del abismo\nde no tenerte cerca.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

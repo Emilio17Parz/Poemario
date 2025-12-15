@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi amor por ti es un rayo de sol,\nque ilumina mi vida, mi farol.\n\nNuestras almas se encontraron al azar,\nno fue casualidad, fue un dulce lugar.\n\nUn hilo invisible nos supo unir,\ndictado estaba por nuestro destino, sin mentir.\n\nJuntos andamos cada sendero,\neres mi amada, mi amor verdadero.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "destino"
+  }
+}

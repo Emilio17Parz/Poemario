@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "MARINERO: Mar inmenso, devuélveme a tierra.\nMAR: Aquí en mi seno se acaba tu guerra.\nMARINERO: Tengo una esposa que espera en el puerto.\nMAR: Hoy tu destino es un rumbo incierto.\nMARINERO: Lucharé contra ti con mi timón.\nMAR: Soy más fuerte que tu corazón.\nCede a mi abrazo, duerme en la arena.\nMARINERO: ¡Nunca! ¡Venceré tu condena!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "olas"
+  }
+}

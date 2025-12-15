@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volver a la ceniza (a),\nel polvo que es ya cruel (b),\nla vida que se desliza (c),\nel trago de amarga hiel (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Ceniza"
+  }
+}

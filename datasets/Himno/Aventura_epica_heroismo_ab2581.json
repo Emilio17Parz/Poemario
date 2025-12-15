@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Paso de gigante en tierra no hollada,\nbandera en la cima por fin clavada!\nEl hombre domina la selva y el monte,\ny ensancha del mundo el gran horizonte.\n\n¡Salve, conquista del genio humano,\nque todo lo abarca con su propia mano!\nPero no olvides la humilde verdad,\nde respetar siempre la libertad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

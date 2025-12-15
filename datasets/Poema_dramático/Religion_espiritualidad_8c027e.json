@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "[EL SACERDOTE CANSADO]\n(Haciendo la señal de la cruz)\nOtra vez el pan, el vino, la misma frase en latín que ya no siento.\nEl rito es una jaula de oro. Me mantiene a salvo, pero me roba la sorpresa.\nBusco el fuego, el éxtasis, y solo encuentro la costumbre, el deber.\nSoy un actor en una obra que conozco de memoria. Y el público se duerme.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "rito"
+  }
+}

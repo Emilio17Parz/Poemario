@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Reina de plata en la noche oscura,\nguía de naves y soñadores.\nSu luz derrama calma y cura,\nsobre los campos y las flores.\n\nGuía de naves y soñadores,\ncambia su rostro mes a mes.\nSobre los campos y las flores,\nmuestra el mundo del revés.\n\nCambia su rostro mes a mes,\nsu luz derrama calma y cura.\nMuestra el mundo del revés,\nreina de plata en la noche oscura.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "luna"
+  }
+}

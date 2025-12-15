@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ya no me habla el silencio de la aurora,\nni el canto de las aves trae tu voz.\nSe ha ido la razón que me enamora,\nla dulce llama que encendió tu adiós.\nEl mundo sigue, ciego, sin demora,\nmas mi universo se apagó con vos.\n\n¿Dónde el aliento tibio en mi mejilla?\n¿La risa clara que era mi canción?\nHoy sólo queda la memoria arcilla,\nde un tiempo ido, de pura evocación.\nLa sombra crece en cada rendija,\ny el frío muerde sin compasión.\n\n¡Oh, amor, que fuiste luz en mi sendero,\ncompañero del alma, fiel amigo!\nTu estela brilla, póstumo lucero,\nen este inmenso y solitario abrigo.\nTu esencia pura, un caudal verdadero,\nvivirá siempre aquí, dentro de mí contigo.\n\nLas hojas caen, el río sigue raudo,\nla luna sube, impasible y boreal.\nNada detiene al tiempo, juez implacable,\nque no comprende un dolor tan letal.\nMi ser se quiebra en un profundo abismo,\ndonde tu ausencia es mi único caudal.\n\nMas sé que el amor, más allá del vasto velo,\nno muere, no se esfuma sin dejar\nun eco eterno bajo el mismo cielo,\nuna promesa de volverte a amar.\nY aunque mi corazón sienta este anhelo,\nen cada recuerdo te vuelvo a encontrar.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "alma"
+  }
+}

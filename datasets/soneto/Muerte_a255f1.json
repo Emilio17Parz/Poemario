@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Corre la arena sin compasión,\nen el reloj que marca la vida,\nacercándonos a la salida,\ncon cada latido y respiración.\n\nEl tiempo es un dios sin corazón,\nque cura y mata, cierra la herida,\npero nos lleva a la despedida,\nsin aceptar ninguna razón.\n\nLo que hoy es joven, mañana es viejo,\nla flor se seca, el muro se cae,\ny el rostro cambia en el espejo.\n\nLa muerte despacio nos atrae,\ny solo queda el pálido reflejo,\nde lo que el viento se sustrae.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

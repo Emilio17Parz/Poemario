@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La victoria es dulce, el premio final,\nel júbilo inmenso de la multitud,\nno hay más riqueza, no hay más fanal,\nque el triunfo de la virtud.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Victoria"
+  }
+}

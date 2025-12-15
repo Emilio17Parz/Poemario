@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos la certeza,\nentre mentiras y falsos espejos;\nmirando a lo lejos,\ncon gran tristeza.\nLa verdad pura es joya escondida,\nde nuestra vida.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oh, Amor, eterna llama, don divino,\nQue ilumina el sendero al corazón,\nFuerza que guía el errante destino,\nPura verdad, bendita bendición.\n\nEn tu regazo el alma halla reposo,\nCura la herida, disipa el temor,\nTu manantial fecunda lo glorioso,\nTransformas el dolor en dulce amor.\n\nPor ti se une lo que el odio separa,\nEn cada gesto de paz y de bondad,\nTu tierno abrazo el alma ampara,\nPuente sagrado de la humanidad.\n\nFuente de vida, canto sin medida,\nAnhelo eterno que nos hace ser,\nTu luz perenne será nuestra guía,\nHasta el final, hasta el amanecer.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo un secreto,\nmuy inquieto.\n\nNadie lo sabe,\nni tiene la llave,\nque el alma lave,\nde modo completo.\n\nGuardo un secreto,\nmuy inquieto.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

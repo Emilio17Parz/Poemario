@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "amanecer suave",
   "poema": {
     "texto": "La luz despierta\\nentre las nubes\\ncanta despacio\\nel nuevo día",

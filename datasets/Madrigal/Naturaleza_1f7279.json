@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Te abriste al sol sin miedo ni pudor,\nmostrando el arte de tu fino traje.\nEres de la vida el mejor color,\ny el más delicado pasaje.\n\nEn tu centro se guarda el dulce aroma,\nque al aire la abeja toma.\nUn instante de gracia y esplendor,\nque pronto se irá, sin temor,\nsabiendo que fuiste un instante sublime.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "flor"
+  }
+}

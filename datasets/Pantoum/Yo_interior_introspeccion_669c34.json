@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Sombra que me persigue,\nvive en mi mente.\nLa paz no consigue,\nestar presente.\n\nVive en mi mente,\nmonstruo del ayer.\nEstar presente,\ny no caer.\n\nMonstruo del ayer,\nla paz no consigue.\nY no caer,\nsombra que me persigue.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

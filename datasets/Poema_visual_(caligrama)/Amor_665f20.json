@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dedos que entrelazan\ncaricias suaves\nlíneas de la vida\nque se cruzan\npara no soltarse.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "mano"
+  }
+}

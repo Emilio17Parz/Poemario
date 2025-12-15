@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nave ligera que las olas surca,\nbusca las tierras de riqueza llena,\ndesafiando tempestad y monstruo\ny ballena.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "mar"
+  }
+}

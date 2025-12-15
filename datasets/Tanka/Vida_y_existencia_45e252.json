@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La gran duda ataca,\n¿cuál es mi real destino?\n¿Hacia dónde voy?\nLa respuesta no la hallo,\nsolo la busco sin fin.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Duda"
+  }
+}

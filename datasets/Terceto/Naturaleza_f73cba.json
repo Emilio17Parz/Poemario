@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El astro rey despierta la mañana,\niluminando el valle y el monte,\ncon su luz poderosa y soberana.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "sol"
+  }
+}

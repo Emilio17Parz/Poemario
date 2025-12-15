@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra viene,\ny nos detiene,\nel caminar,\nal despertar,\nque nos sostiene.\n\nNada tiene,\nla sombra viene.\n\nNos mantiene,\ny entretiene,\nal soñar,\nsin hablar,\nlo que conviene.\nLa sombra viene.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

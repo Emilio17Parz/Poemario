@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos apenas un puñado de polvo,\nque el viento arrastra con fuerza y premura,\ny a la gran tierra por fin yo me vuelvo,\npara dormir en la noche oscura.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

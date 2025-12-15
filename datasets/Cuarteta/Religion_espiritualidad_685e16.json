@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ocurrió lo inesperado,\npor la gracia del Señor,\nfue un acto de amor,\nque nos dejó admirado.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "milagro"
+  }
+}

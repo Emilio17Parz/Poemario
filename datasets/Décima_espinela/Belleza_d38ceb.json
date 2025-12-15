@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piedra tallada,\ncon mano experta,\nque está despierta,\ny animada.\nForma sagrada,\nde la materia,\nque vence la seria,\nmuerte fría,\ncon la alegría,\nde la arteria.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

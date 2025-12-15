@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca la verdad en tu propio y noble ser (A),\nel faro que guía tu incierta razón (B),\nla vida es un arte que debe vencer (A).\n\nLa única y dulce y gran lección (B),\nque rompe el silencio, sin un final (C),\nla esencia del puro amor (B).\n\nNo hay más que amar, no hay más que el mal (C),\nque en ella hallar la fe (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Verdad"
+  }
+}

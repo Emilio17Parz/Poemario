@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Acuérdate, hombre, de que eres polvo y al polvo volverás, soplado por el viento de los siglos.\nTu carne se deshará, tus huesos serán tierra, y tu nombre se borrará de la piedra que lo guarda.\nLa vanidad de tus logros es humo, y la riqueza que acumulaste pasará a manos de otros.\nSolo el polvo es eterno, la materia prima de las estrellas y de los gusanos, la única verdad.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

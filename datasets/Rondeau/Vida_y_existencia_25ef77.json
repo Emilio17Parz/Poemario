@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llevo la carga,\nque se alarga.\nEn la espalda,\ncon la falda,\namarga.\n\nDescarga,\nla adarga.\nEsmeralda,\nllevo la carga.\n\nSe encarga,\ny embarga.\nLa guirnalda,\nque respalda,\nla letarga,\nllevo la carga.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "carga"
+  }
+}

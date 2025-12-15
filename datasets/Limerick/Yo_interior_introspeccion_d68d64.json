@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fui al diván del doctor,\npara hablar de mi error.\nMe dormí yo,\ny él roncó,\n¡qué horror!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "terapia"
+  }
+}

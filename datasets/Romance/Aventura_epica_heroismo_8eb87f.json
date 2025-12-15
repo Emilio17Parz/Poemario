@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Defendieron el castillo\ncontra el asedio enemigo,\nsin comida y sin agua\npero con valor de amigo.\nAguantaron tres semanas\nsin buscar ningún abrigo,\nhasta que llegó la ayuda\ny acabó el castigo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "asedio"
+  }
+}

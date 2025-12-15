@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Motor invisible del hombre,\nque nos empuja a caminar,\nbuscando aquello que sin nombre\nnos invita a imaginar.\nCastillos hechos de deseo,\nmetas que brillan a lo lejos,\nque nos sacan del titubeo\ny nos devuelven los reflejos.\nSin ustedes somos piedras,\ncuerpos sin alma ni ilusión,\nque crezcan como las hiedras\nen la pared del corazón.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

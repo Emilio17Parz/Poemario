@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Gritos y polvo,\nchocan los dos ejércitos,\nsangre en el suelo.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

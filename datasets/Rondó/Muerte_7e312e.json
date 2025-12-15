@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un ángel te llevó,\nde mi lado ayer.\nSin querer,\nte recogió.\n\nSe rompió,\nmi ser.\nUn ángel te llevó,\nde mi lado ayer.\n\nEl sol salió,\nal amanecer.\nVolver a ver,\nlo que murió.\nUn ángel te llevó.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

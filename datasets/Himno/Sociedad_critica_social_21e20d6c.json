@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Canto a la urbe y a su latido,\nal pueblo que vive y que sueña,\nque con su fuerza se empeña,\nen no darse por vencido.\n\nCalles, plazas, ruidos, voces,\nsois el alma de la sociedad,\nbuscando siempre la libertad,\nentre luces y roces.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "pueblo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En el silencio se aprende,\nla voz de la propia alma.\nQuien escucha y atiende,\nencuentra infinita calma.\n\nLa voz de la propia alma,\ngrita verdades ocultas.\nEncuentra infinita calma,\nlejos de ofensas y multas.\n\nGrita verdades ocultas,\nquien escucha y atiende.\nLejos de ofensas y multas,\nen el silencio se aprende.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

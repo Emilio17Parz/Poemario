@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cuando el sol, al despedirse, tiñe el cielo de carmín,\nY el aura, cual suspiro, me anuncia tu jardín,\nTu presencia es un canto, un susurro del viento,\nQue aviva en mi alma el más tierno sentimiento.\n\nTus ojos son el lago donde el cielo se refleja,\nTu voz, la melodía que en el bosque se teje.\nEn cada flor silvestre, que el rocío corona,\nPercibo tu ternura, la gracia que me apasiona.\n\nJuntos, ascendimos la imponente montaña,\nDonde el orbe se rinde y la vista nos extraña.\nAllí, bajo el dosel de un azul infinito,\nSellamos con un beso el amor más bendito.\n\nAsí, en la vastedad que la tierra nos dispensa,\nNuestro amor, como un árbol, su raíz se condensa.\nPor valles y praderas, junto al mar o en la arboleda,\nEres mi eterno edén, mi más dulce vereda.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

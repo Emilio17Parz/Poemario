@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ahora eres eterno,\nya no pasarás,\nni envejecerás,\nen el invierno.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

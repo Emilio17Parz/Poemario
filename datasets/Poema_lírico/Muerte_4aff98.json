@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El vacío es un hueco\nque el alma no llena.\nEs el dulce eco\nde la amarga pena.\n\nMe mira sin hablar\ny me obliga a seguir,\nla única forma\npara poder huir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

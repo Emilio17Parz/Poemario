@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La tormenta,\nse alimenta.\nRayo y trueno,\nnada bueno,\nque revienta.\n\nNos enfrenta,\ny violenta.\nSin freno,\nla tormenta.\n\nSe sienta,\ny calienta.\nEl terreno,\nsereno,\nque lamenta,\nla tormenta.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La paz que solo Dios puede dar y ofrecer (A),\nque supera el juicio, que vence al mal (B),\nla vida es un sueño, sin un querer (A).\n\nLa fuerza que impulsa mi fiel corazón (B),\nel alma que vuela, sin un error (C),\nla esencia del puro valor (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en ella hallar la fe (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

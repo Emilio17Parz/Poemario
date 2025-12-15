@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "A veces siento tu paso leve,\ncomo si andaras por el salón,\nes una sombra que se mueve,\ny me acelera el corazón.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

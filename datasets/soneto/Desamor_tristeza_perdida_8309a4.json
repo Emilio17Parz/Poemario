@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llegó el invierno antes de tiempo,\nhelado el corazón y la esperanza,\nse acabó de nuestro amor la danza\ny quedamos a merced del contratiempo.\n\nNo hay sol que caliente este destiempo,\nni flor que resista la mudanza,\nsolo queda la triste remembranza\ny el dolor que golpea en el templo.\n\nFriste y oscura se ve la jornada,\nsin la calidez de tu presencia\nla vida parece no valer nada.\n\nSufro la condena de tu ausencia,\ncon el alma herida y congelada,\npagando de amar la penitencia.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Se desnudó de máscaras y de falsa virtud,\nMostrando su alma con plena quietud.\nLa verdad era simple, sin ningún color,\nEl ser es la esencia sin ningún error.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

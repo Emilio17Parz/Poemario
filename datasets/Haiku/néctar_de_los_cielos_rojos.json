@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Néctar de los cielos rojos\"",
   "poema": {
     "texto": "Rojo cielo derrama,\nNéctar de su sutil dulzura,\nEl corazón se llena.",

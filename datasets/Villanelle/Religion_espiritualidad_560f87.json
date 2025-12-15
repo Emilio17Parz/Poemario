@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Lo imposible sucede,\npor la mano de Dios,\nque todo lo puede.\n\nNadie cede,\nante los dos,\nlo imposible sucede.\n\nSe concede,\nel adiós,\nque todo lo puede.\n\nIntercede,\npor los pos,\nlo imposible sucede.\n\nNos hospede,\nen los cos,\nque todo lo puede.\n\nNos herede,\ncon su voz,\nlo imposible sucede,\nque todo lo puede.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "milagro"
+  }
+}

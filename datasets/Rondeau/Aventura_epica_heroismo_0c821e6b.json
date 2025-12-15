@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El héroe avanza sin miedo,\nen el oscuro ruedo,\nde la batalla mortal,\ncontra el mal,\nsin pedir un credo.\n\nNo le importa el enredo,\nni el peligro quedo,\nes su señal,\nel héroe avanza.\n\nCon su valor denuedo,\nrompe el asedio,\ny su fuerza vital,\nes el final,\ndel enemigo en el viñedo,\nel héroe avanza.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

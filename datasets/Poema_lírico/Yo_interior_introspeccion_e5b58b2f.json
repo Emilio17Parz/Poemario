@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El ego grita,\nquiere ganar,\ny dominar,\nlo que habita.\nSe debilita,\nal amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "ego"
+  }
+}

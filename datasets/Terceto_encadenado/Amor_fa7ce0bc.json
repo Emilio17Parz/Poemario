@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor nace al ver la piel quemar,\nUna caricia que el alma te confía,\nImpulso puro que nos lleva a soñar.\n\nUna caricia que el alma te confía,\nBrillo que surge de una dulce luz,\nY al tacto tierno el tiempo se extravía.\n\nBrillo que surge de una dulce luz,\nQue el corazón aprende a sentir,\nLlevando suave una gozosa cruz.\n\nQue el corazón aprende a sentir,\nY en cada beso nos hace crecer,\nLa magia de un dichoso porvenir.\n\nEs dulce el don de amar y de querer.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

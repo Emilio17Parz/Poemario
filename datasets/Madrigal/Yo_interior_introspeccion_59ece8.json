@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Caja de fotos vieja,\nimágenes de un tiempo que se fue;\nya no sé,\nsi se aleja.\nLa memoria construye mi presente,\nlentamente.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

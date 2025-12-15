@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Yace olvidado en la fría tumba,\nquien fue gigante en el tiempo ayer,\nhoy es polvo de la tierra,\nsin poder nunca renacer.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

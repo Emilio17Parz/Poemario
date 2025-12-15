@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi conciencia habla,\ncuando no debe,\nme dice que pare,\ncuando se bebe.\nEs una aguafiestas,\nmuy puritana,\nque siempre me arruina,\nel fin de semana.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

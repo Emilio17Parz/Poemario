@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte teje el velo final,\nEl alma se disuelve en tenue fe,\nEn la quietud eterna de la tumba.\n\nEl tiempo deja un rastro irreal,\nNo hay luz que el oscuro velo cree,\nLa muerte teje el velo final.\n\nUn frío abrazo, un sueño ancestral,\nYace el amor que un día hubo de ser,\nEn la quietud eterna de la tumba.\n\nUn eco breve, un hondo abismo fatal,\nLa vida huye sin poder volver,\nLa muerte teje el velo final.\n\nEl sueño postrero, hondo caudal,\nEl cuerpo en polvo vuelve a desaparecer,\nEn la quietud eterna de la tumba.\n\nUn ciclo concluye, mortal causal,\nYa nada importa, todo fue,\nLa muerte teje el velo final,\nEn la quietud eterna de la tumba.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

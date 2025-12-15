@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cartón es la cama,\nfrío en la piel.\nNadie los ama,\namargo papel.\n\nFrío en la piel,\nnoche en la calle.\nAmargo papel,\nen este valle.\n\nNoche en la calle,\nnadie los ama.\nEn este valle,\ncartón es la cama.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

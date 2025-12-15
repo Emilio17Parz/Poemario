@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia suave,\nsobre el techo gris,\ncomo el canto de ave,\nen este país.\n\nSobre el techo gris,\nlimpia la ciudad,\nen este país,\ntrae tranquilidad.\n\nLimpia la ciudad,\ncae la lluvia suave,\ntrae tranquilidad,\ncomo el canto de ave.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

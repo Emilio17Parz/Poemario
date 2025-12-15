@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge la bestia de fuego,\nen la cueva de la montaña,\nsin escuchar ningún ruego.\n\nEs un peligro ciego,\nque con su aliento daña,\nruge la bestia de fuego.\n\nYo no me entrego,\na su fuerza y su maña,\nsin escuchar ningún ruego.\n\nEntro en su juego,\ncon mi lanza y mi hazaña,\nruge la bestia de fuego.\n\nMi vida la lego,\na esta lucha extraña,\nsin escuchar ningún ruego.\n\nVenzo al ego,\ny a la bestia tacaña,\nruge la bestia de fuego,\nsin escuchar ningún ruego.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

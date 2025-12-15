@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Qué bonita es la forma\nde la luna cuando crece,\nparece una cuna de plata\nque al niño Jesús mece.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "forma"
+  }
+}

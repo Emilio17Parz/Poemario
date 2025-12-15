@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La mirada en el verdor se pierde,\ncuando el sol derrama viva luz,\ny el corazón al fin se cuerde.\n\nDel cielo en el profundo azul,\nse dibuja el majestuoso **bosque**,\nespejo de la inmensa cruz.\n\nCon su sombra que el sendero tosco,\nnos invita a la íntima quietud,\nel misterio que lo vuelve hosco.\n\nEn esta inmensa y silente quietud,\nel manantial canta un dulce son,\nrenace la primigenia virtud.\n\nAl eco de su íntimo son,\nel alma siente plena paz,\ndescubre en ella un hondo don.\n\nUna vivencia viva y audaz,\nque el espíritu libre eleva,\ndel tiempo rompe el velo fugaz.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

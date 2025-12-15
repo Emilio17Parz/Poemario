@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Medita en silencio,\ny hallarás,\nla paz que,\nbuscarás.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

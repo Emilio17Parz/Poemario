@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El mar ya no tiene fin,\nmi alma es un trajín.\n\nLa ola ya me ganó,\nla pena ya se me fue,\nel miedo ya se acabó,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "navegante"
+  }
+}

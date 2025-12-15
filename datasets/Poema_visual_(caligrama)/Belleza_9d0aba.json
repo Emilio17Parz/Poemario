@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Círculo de oro\nrayos de fuego\nluz del día\ncalor que da\nvida y color\nal mundo\nentero.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "sol"
+  }
+}

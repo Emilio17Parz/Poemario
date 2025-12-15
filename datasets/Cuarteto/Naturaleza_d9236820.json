@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla con furia el invisible viento,\ndoblando el árbol con su mano ruda,\ny la natura se nos muestra desnuda\nante su eterno y recio movimiento.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "viento"
+  }
+}

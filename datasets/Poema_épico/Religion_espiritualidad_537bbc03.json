@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sonarán las trompetas,\ndel Juicio Final,\nse abrirá el portal,\nde las almas inquietas.\nSe acabarán las metas,\ny el bien y el mal,\ntendrán su pago total,\nen las siluetas.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "juicio"
+  }
+}

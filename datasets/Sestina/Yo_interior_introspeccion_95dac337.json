@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro fijamente en el espejo,\nbuscando el rastro de mi identidad,\nenfrentando la cruda realidad,\ny encuentro un rostro cansado y viejo,\nque me devuelve la mirada fría,\nde una vida que se siente vacía.",
+    "tipo": "Sestina (Estrofa I)",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

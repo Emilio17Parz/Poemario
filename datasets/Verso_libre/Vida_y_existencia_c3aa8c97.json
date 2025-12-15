@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nos ponemos máscaras cada mañana.\nLa del trabajador eficiente,\nla del amigo alegre,\nla del ciudadano modelo.\nDebajo, el rostro verdadero\nestá cansado y lleno de dudas.\nVivir es el arte de saber\ncuándo quitarse el disfraz.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

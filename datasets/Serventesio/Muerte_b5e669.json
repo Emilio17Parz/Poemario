@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se nos escapa la vida deprisa,\ncomo arena que cae del reloj,\nla muerte llega con su sonrisa,\ny cierra el libro sin enojo.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

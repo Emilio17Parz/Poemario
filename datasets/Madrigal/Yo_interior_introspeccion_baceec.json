@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fantasmas que habitan en la mente,\nmiedos absurdos y pesadillas,\nsin orillas,\nque me atacan de forma inclemente.\nEnfrentarlos es la única vía,\nla guía,\npara ser libre de su control,\ny ver el sol.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "noche"
+  }
+}

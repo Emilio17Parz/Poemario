@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Grito tu nombre al viento, y me vuelve mi voz,\nel eco es la burla de un triste arroz.\nEl silencio me juzga, me obliga a callar,\nla vida sin la calma, sin poder amar.\n\nNo tengo respuesta, no tengo una fe,\nla soledad es la prueba, sin saber el qué.\nMi final es el aire, frío y sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "eco"
+  }
+}

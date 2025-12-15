@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Trueno de guerra que rompe la calma,\ny siembra de fuego el fondo del alma!\nChoque de espadas, clamor de la gente,\nen el campo rojo del sol poniente.\n\n¡Loor a la sangre que riega la tierra,\nprecio sagrado de la cruel guerra!\nPero tras la lucha renace la paz,\ncuando cae vencido el odio tenaz.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurran secretos las hojas del bosque,\nvive el silencio en el centro del bosque.\n\nRaíces profundas que abrazan la tierra,\ncuentan historias del antiguo bosque.\n\nSi buscas la calma, camina despacio,\ny escucha el latido sagrado del bosque.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

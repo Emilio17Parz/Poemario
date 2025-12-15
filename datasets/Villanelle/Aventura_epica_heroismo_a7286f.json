@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Acepto el duelo,\nfrente a frente,\nen este suelo.\n\nSin consuelo,\nni pariente,\nacepto el duelo.\n\nAlzo el vuelo,\nvaliente,\nen este suelo.\n\nRompo el hielo,\ncaliente,\nacepto el duelo.\n\nSin recelo,\npotente,\nen este suelo.\n\nMe revelo,\nconsciente,\nacepto el duelo,\nen este suelo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "desafío"
+  }
+}

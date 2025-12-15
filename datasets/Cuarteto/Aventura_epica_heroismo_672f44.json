@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La espada reluce, de puro metal,\nque corta la sombra, que vence al mal,\nsu filo es justicia, el don sin igual,\nla fuerza que es ya inmortal.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Espada"
+  }
+}

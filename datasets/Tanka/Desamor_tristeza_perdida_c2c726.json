@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Queda el veneno\nde las malas palabras\nodio sutil.\nCuesta mucho limpiar\nla mancha del engaño.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "rencor"
+  }
+}

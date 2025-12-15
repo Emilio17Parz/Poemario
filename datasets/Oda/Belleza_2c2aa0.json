@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuerpo que gira,\nen el espacio,\ndespacio,\ny suspira.\nMovimiento puro,\ny seguro.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "danza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza no es una forma única, sino un millón de reflejos dispersos:\nes el fulgor fugaz en el ala de un colibrí, el abismo azul del cielo al mediodía.\nEs el silencio grave de la montaña milenaria, la risa clara y sin límites de un niño.\nLa encuentro en la cicatriz que cuenta una historia, en la arruga sabia que el tiempo cincela.\nEs el trazo perfecto de una rama contra la luna, el estallido anárquico de una flor silvestre.\n\nLa belleza habita en la nota que el viento arranca a las cañas, en la palabra precisa que ilumina el alma.\nEstá en el gesto de bondad anónima, en la quietud profunda de un corazón que ama.\nEs la luz que se filtra por las grietas, la verdad desnuda que libera al espíritu.\nLa siento en la promesa de un brote verde después del invierno, en el recuerdo vívido de lo que fue.\nEs la armonía oculta en el caos, el asombro que nos devuelve a la esencia primera.\n\nY mi **musa**, no una presencia etérea, sino la capacidad inherente de ver, de sentir, de nombrar lo inefable.\nEs la chispa que enciende la percepción, la voz interna que susurra el significado oculto de cada instante.\nLa belleza, entonces, es un espejo infinito que me devuelve el reflejo de una gracia eterna,\nun versículo constante que el mundo recita sin cesar, un poema sin fin tejido en la trama de la existencia.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "musa"
+  }
+}

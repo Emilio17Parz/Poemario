@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te meten en una urna,\nque acaba encima del mueble,\nvisión taciturna,\nque al polvo devuelve.\nAl final te tira el nieto,\nporque le estorba el objeto.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Cenizas"
+  }
+}

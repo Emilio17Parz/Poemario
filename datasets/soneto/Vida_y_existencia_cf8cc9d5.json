@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco la razón de estar aquí,\nen medio de este cosmos infinito,\ntratando de entender lo que está escrito\ny lo que el universo espera de mí.\n\n¿Soy un azar que de la nada salí?\n¿O cumplo algún sagrado y viejo rito?\nEs la duda que grito y repito\ndesde el mismo momento en que nací.\n\nEl sentido no está en el exterior,\nse encuentra en el amor y en la bondad,\nen cultivar el huerto interior.\n\nDar a los otros luz y claridad,\nesa es la misión, ese es el valor,\nque justifica nuestra humanidad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

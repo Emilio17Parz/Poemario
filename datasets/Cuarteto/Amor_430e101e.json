@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quiso cruzarnos el audaz destino\nen el sendero de la vida breve,\ny con un paso silencioso y leve\nunimos huellas en el mismo camino.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "destino"
+  }
+}

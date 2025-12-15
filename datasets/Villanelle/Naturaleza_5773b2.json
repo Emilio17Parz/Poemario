@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Canta libre en la rama,\nel dueño del aire,\nque al sol reclama.\n\nCon su voz derrama,\ntodo su donaire,\ncanta libre en la rama.\n\nSu pecho se inflama,\nsin ningún desaire,\nque al sol reclama.\n\nLa vida lo llama,\na su propio baile,\ncanta libre en la rama.\n\nNadie lo difama,\nni le pone un fraile,\nque al sol reclama.\n\nEs la viva llama,\ndel bosque y su alaire,\ncanta libre en la rama,\nque al sol reclama.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "pájaro"
+  }
+}

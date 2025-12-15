@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo ya se me fue,\nsin tener ninguna fe.\n\nLa vida no tiene paz,\nsin engaño ni antifaz,\nel alma ya no es capaz,\nsin tener ninguna fe.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

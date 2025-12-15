@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Al final del día, cuando el sol se pone,\ny los cadáveres cubren el llano,\nno hay dios ni rey que se me impone,\ncuando siento el calor de tu mano.\nLa victoria no es ganar la contienda,\nes volver a ti, mi dulce ofrenda.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Victoria"
+  }
+}

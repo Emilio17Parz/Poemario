@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, pasión intensa,\nen mi pecho aviva un fuego,\nque no conoce un sosiego,\nni frontera que lo ofensa.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

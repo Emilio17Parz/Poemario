@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un instante es nuestra vida\nante la gris eternidad,\nun suspiro que se escapa\ncon fatal brevedad.\nCruzamos hacia la sombra\ndejando la vanidad,\npara fundirnos por siempre\nen la inmensa oscuridad.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

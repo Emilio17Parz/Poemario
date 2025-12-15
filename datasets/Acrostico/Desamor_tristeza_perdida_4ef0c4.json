@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Oculto en la memoria,\nLo que un día sentimos.\nVieja y triste historia,\nIntento que no fuimos.\nDejando la gloria,\nOscuros nos perdimos.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "OLVIDO"
+  }
+}

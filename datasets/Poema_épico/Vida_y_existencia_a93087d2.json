@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Como el Fénix de la ceniza,\nrenace el hombre del dolor,\ncon más fuerza y valor,\ny una nueva sonrisa.\nLa vida se eterniza,\nen el ciclo creador,\nmuriendo el interior,\npara que el alma se alisa.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "fenix"
+  }
+}

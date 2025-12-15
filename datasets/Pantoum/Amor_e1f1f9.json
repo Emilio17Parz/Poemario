@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cruzamos miradas ayer,\nel tiempo se detuvo ahí.\nVolver a nacer y creer,\nlo supe en cuanto te vi.\n\nEl tiempo se detuvo ahí,\nborrando todo el dolor.\nLo supe en cuanto te vi,\nllegó por fin el amor.\n\nBorrando todo el dolor,\nvolver a nacer y creer.\nLlegó por fin el amor,\ncruzamos miradas ayer.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

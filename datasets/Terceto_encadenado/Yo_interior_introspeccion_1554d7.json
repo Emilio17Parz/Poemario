@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Estar conmigo,\nes un gran reto,\nser mi amigo.\n\nQuedarme quieto,\nsin un abrigo,\nen el secreto.\n\nDe lo que digo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

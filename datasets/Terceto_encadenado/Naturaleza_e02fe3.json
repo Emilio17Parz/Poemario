@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Invisible viajero que no para,\nmoviendo las espigas en el campo,\ncon una fuerza que nadie compara.\n\nA veces trae la lluvia y el lampo,\ny otras veces susurra una canción,\nque yo en mi pecho guardo y escampo.\n\nCon mucha devoción.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "viento"
+  }
+}

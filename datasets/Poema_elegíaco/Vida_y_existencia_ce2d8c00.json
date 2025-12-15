@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo es fugaz y perece,\nla gloria, el poder, la fama,\ncomo se apaga la llama,\nla vida desaparece.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "fugaz"
+  }
+}

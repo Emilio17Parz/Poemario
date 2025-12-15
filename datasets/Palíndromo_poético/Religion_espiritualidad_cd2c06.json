@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Luz de\nDios brilla\nen mí\nDios brilla\nluz de",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "luz"
+  }
+}

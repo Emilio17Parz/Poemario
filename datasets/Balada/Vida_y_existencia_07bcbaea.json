@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cabellos blancos como la plata,\narrugas marcan el saber,\nla vida a veces nos maltrata,\npero nos deja comprender.\nEn la vejez se puede ver,\nlo que de joven no pudo ser.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La sombra me sigue sin un solo error (R1)\nMi alma se cubre sin un final (b)\nMi vida se llena de amargo y cruel dolor (R2)\n\nEl tiempo se para sin un temor (a)\nNo hay más que buscar, no hay más que el mal (b)\nLa sombra me sigue sin un solo error (R1)\n\nLa ausencia me inunda sin un fanal (a)\nMi corazón ya no quiere más caer (b)\nMi vida se llena de amargo y cruel dolor (R2)\n\nMi vida es la senda sin una razón (a)\nSin ti yo no quiero al fin vencer (b)\nLa sombra me sigue sin un solo error (R1)\n\nEl alma se sigue sin un trajín (a)\nMi vida es un trago de amarga hiel (b)\nMi vida se llena de amargo y cruel dolor (R2)\n\nMi vida es un canto sin un mal (a)\nMi alma se queda sin un fanal (b)\nLa sombra me sigue sin un solo error (R1)\nMi vida se llena de amargo y cruel dolor (R2)",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

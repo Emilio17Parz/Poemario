@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Un muro separa,\nAl rico del pobre,\nY nos para.\nUn muro separa,\nLa vida cara,\nSobre el cobre.\nUn muro separa,\nAl rico del pobre.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "muro"
+  }
+}

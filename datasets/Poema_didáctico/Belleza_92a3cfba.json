@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No te fíes de la fachada,\nque pronto queda ajada.\nLa belleza del corazón,\nes la única salvación.\nBondad, ingenio y ternura,\nson la eterna hermosura.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "interior"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Gira el cuerpo en la danza,\nfigura en movimiento,\nque dibuja el aire.\nCon gracia y donaire,\nse expresa la libertad,\ndel ser que baila feliz.\n\nBaila feliz,\nla danza,\nde la verdad.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "danza"
+  }
+}

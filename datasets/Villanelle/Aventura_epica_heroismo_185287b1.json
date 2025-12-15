@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La gesta nos llama, el valor a mostrar,\nPor valles sombríos donde el miedo acechará,\nEl camino del héroe, un destino a forjar.\n\nLos ecos de antiguos imperios, un ruego al luchar,\nContra la sombra que a la tierra oprimirá,\nCon cada golpe de la espada, la luz no cesará.\n\nCruzando fronteras que nadie osó pisar,\nEl coraje puro que la vida salvará,\nEl camino del héroe, un destino a forjar.\n\nMil batallas libradas sin jamás flaquear,\nLa fuerza que impulsa, que al alma avivará,\nCon cada golpe de la espada, la luz no cesará.\n\nPor tierras lejanas, sin tiempo para dudar,\nEn la epopeya grabada que se perpetuará,\nEl camino del héroe, un destino a forjar.\n\nQue el fuego sagrado jamás cese de brillar,\nPor el legado eterno que siempre quedará,\nEl camino del héroe, un destino a forjar,\nCon cada golpe de la espada, la luz no cesará.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "espada"
+  }
+}

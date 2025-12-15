@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Un rayo de sol que al alma despierta,\nLa belleza siempre el corazón acierta.\n\nEn cada flor y el azul del cielo,\nEncuentro su magia, que rompe todo velo.\n\nMi dulce musa, con su luz tan clara,\nDe la belleza la esencia me depara.\n\nNo solo en la forma se ha de encontrar,\nTambién el alma la sabe guardar.\n\nPues la verdad que a los ojos cautiva,\nEn un corazón noble siempre está viva.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "musa"
+  }
+}

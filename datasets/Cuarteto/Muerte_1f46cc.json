@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El viaje final sin regreso al puerto,\nuna vela al viento que no volverá,\nun mapa vacío, un camino incierto,\nel alma a la eternidad irá.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

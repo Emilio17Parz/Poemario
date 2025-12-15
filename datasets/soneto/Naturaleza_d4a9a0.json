@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Océano de arena y de silencio,\ndonde el sol quema con furia de fuego,\nno hay sombra, ni agua, ni sosiego,\nsolo el vasto horizonte que presencio.\n\nEn tu dureza mi alma sentencio\na resistir la sed y el apego,\ny aunque parezca que estoy ciego,\nla belleza en tus dunas diferencio.\n\nDe noche el frío muerde la piel,\ny las estrellas bajan a la tierra,\nbrillando como gotas de miel.\n\nEl desierto no es muerte ni guerra,\nsino una vida oculta y fiel,\nque en su aridez el secreto encierra.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "arena"
+  }
+}

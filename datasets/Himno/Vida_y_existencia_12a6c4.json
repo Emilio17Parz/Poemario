@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Luz en la noche, ancla en el mar,\nfuerza que impide dejarse ahogar.\n¡Gloria a la Esperanza, virtud teologal!,\nque nos libra siempre de todo mal.\n\nCuando todo cae, tú sigues en pie,\nsosteniendo al mundo con hilos de fe.\nCantemos tu nombre, consuelo final,\nestrella que guía en el vendaval.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

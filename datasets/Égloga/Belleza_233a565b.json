@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tejo versos con palabras,\ncomo cestas de mimbre,\npara que el aire vibre,\ny tú el alma abras.\nNo son obras macabras,\nsino luz que timbre,\ny el corazón libre,\nde las sombras labras.\nLa poesía es la flor,\ndel pensamiento mejor,\ny del puro amor.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "verso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Piedra en el zapato,\npeso en la espalda,\nque rompes el trato\ny quemas la falda.\nRecuerdo del error,\njuez que no duerme,\ncausa de dolor\nque intenta vencerme.\nPero sirves de aviso,\npara no repetir,\nel paso indeciso\nque me hizo sufrir.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

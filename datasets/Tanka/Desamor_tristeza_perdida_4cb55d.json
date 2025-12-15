@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sin tu savia ya,\nmi árbol interior muere,\nse queda sin hojas.\nEs invierno sin regreso,\nla vida me duele mucho.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Savia"
+  }
+}

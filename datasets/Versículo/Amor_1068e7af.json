@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Como un fuego devorador que no conoce el reposo, así se levanta la pasión en el templo de mi carne.\nNo hay muros que contengan este torrente sagrado que busca tu desembocadura.\nEs un hambre antigua, anterior a los nombres y a las leyes de los hombres.\nArdemos juntos en la hoguera del instante, convirtiéndonos en ceniza y luz.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

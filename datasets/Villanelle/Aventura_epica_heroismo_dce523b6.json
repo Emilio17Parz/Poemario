@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ondean banderas al viento,\nha terminado el combate,\nfuera ya el sufrimiento.\n\nEs un feliz momento,\nque el corazón late,\nondean banderas al viento.\n\nSe olvida el lamento,\ny el golpe que abate,\nfuera ya el sufrimiento.\n\nEl pueblo está contento,\ncon chocolate y mate,\nondean banderas al viento.\n\nQueda en el pensamiento,\nla hazaña y el rescate,\nfuera ya el sufrimiento.\n\nTriunfo del sentimiento,\nque nadie arrebate,\nondean banderas al viento,\nfuera ya el sufrimiento.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

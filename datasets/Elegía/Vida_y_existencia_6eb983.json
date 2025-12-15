@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Espejo que muestras mi rostro sombrío,\nla verdad sin fuerza, sin un gran mal.\nMi alma se mira con un gran frío,\nel alma que siente el golpe fatal.\nTu reflejo es pena, la nobleza es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

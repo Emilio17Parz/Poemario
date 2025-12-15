@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guarda el misterio allí,\ndesde que lo vi,\nel bosque encantado,\ntan callado y cerrado,\ndonde me perdí.\n\nLo que yo sentí,\ny lo que viví,\nha quedado grabado,\nGuarda el misterio.\n\nNadie sabe de mí,\nni lo que descubrí,\nen el árbol sagrado,\nque está reservado,\npara el frenesí,\nGuarda el misterio.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

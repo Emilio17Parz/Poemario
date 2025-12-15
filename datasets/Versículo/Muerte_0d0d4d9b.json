@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando la sombra desciende, no con el fragor de la guerra,\nsino con la quietud de una hoja que se desprende en otoño,\nel aliento se retira, un mar que cede su espuma a la orilla,\ny el corazón, tambor de carne y sangre, silencia su último eco.\n\nOh, la partida, no una huida, sino un despojarse de lo efímero,\nun vasto lienzo donde las formas se desvanecen,\ndonde la mirada que amó y la mano que tocó se disuelven\nen la paz profunda que todo lo contiene y todo lo espera.\n\n¿Qué queda del ser que rió y lloró bajo el firmamento inmóvil?\nUn eco en la memoria de quienes aún pisan la tierra,\nun suspiro apenas audible en el corredor del tiempo,\nmientras el cuerpo, vasija prestada, se rinde a su destino primario.\n\nPorque todo lo que fue nervio y fibra, anhelo y substancia,\nla intrincada red de sueños y dolores, de luces y de sombras,\nse repliega al mandato eterno, a la promesa inmutable\nde volverse, partícula a partícula, sin prisa ni remordimiento,\na la tierra que lo acogió, al origen de todas las cosas.\n\nSí, al **polvo** volveremos, la cuna y la lápida,\nla ínfima esencia de lo que fuimos y seremos de nuevo,\ndisueltos en la gran respiración del cosmos, sin nombre ni gemido,\nuna imperceptible adición a la vasta quietud del universo,\nun último y sereno susurro en el viento que ya no sopla.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

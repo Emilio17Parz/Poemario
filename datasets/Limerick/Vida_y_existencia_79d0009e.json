@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Soñaba con ser astronauta,\ny tocar muy bien la flauta,\npero es oficinista,\nmuy pesimista,\ny vive de forma muy cauta.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Sueños"
+  }
+}

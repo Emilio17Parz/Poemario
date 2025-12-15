@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Buscan el oro en la cueva oscura,\nla riqueza oculta y la locura.\n\nPiratas de alma y vida dura,\nque encuentran muerte y sepultura.\n\nEl verdadero tesoro perdura,\nen la amistad y la ternura.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "oro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Un vacío en el alma (7a),\nme come sin fin (5b),\nno encuentro la calma (7c),\nsin un jazmín (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Vacío"
+  }
+}

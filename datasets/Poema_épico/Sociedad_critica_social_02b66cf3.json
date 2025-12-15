@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La máquina de vapor,\ncambió la historia,\ncreando la escoria,\ny el nuevo dolor.\nEl trabajador,\nperdió la memoria,\nde la vieja gloria,\ndel agricultor.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "fábrica"
+  }
+}

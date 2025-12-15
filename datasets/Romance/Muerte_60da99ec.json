@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Qué habrá detrás de la puerta,\nque cerramos al morir?\n¿Habrá una luz infinita\no un eterno dormir?\nNadie ha vuelto para hablarnos,\npara poder describir,\nel paisaje que nos toca\nal dejar de latir.\nEs el misterio más grande,\nque nos hace sufrir,\npero todos marcharemos\nhacia ese provenir.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "luz"
+  }
+}

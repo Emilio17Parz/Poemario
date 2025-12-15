@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Final del camino y la jornada,\nInstante supremo de la calma,\nNada queda, solo la alborada.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "fin"
+  }
+}

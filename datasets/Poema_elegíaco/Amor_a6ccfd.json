@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aquí reposa el eco de la voz que me amó,\nla forma que mis manos buscaron sin remedio.\nEl tiempo nos ha roto, el silencio llegó,\ny el alma no halla en la ausencia más que un tedio.\n\nEl frío de esta losa no es de piedra inerte,\nsino el hielo de saber que tu calor murió en mí.\n¿Cómo podré vivir en esta cruel suerte,\nsi mi razón de ser partió contigo allí?",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

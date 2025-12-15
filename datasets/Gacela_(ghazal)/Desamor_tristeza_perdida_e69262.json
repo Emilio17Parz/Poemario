@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vivo anclado en el dulce ayer,\nporque hoy duele más que el ayer.\n\nFelicidad que se fue al caer,\nsolo existe en el lejano ayer.\n\nNiego el presente y quiero volver,\na los brazos muertos del ayer.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

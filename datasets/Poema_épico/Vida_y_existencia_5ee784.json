@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Estirar los huesos, abrir la mente,\nromper los límites del ayer,\ncambiar de forma constantemente,\ndolerse a veces por florecer.\nLa metamorfosis es necesaria,\nen esta existencia extraordinaria.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Crecer"
+  }
+}

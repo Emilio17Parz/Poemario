@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Callar boca,\ny oír,\nel sentir,\nque toca.\nSe desboca,\nel alma,\ncon calma,\nque choca.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

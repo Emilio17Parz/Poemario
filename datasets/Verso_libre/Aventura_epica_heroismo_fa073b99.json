@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El acto final de heroísmo\nes darlo todo por otros.\nSaltar sobre la granada,\nquedarse atrás para cubrir la huida.\nNo por fama, no por estatuas.\nSino por amor.\nEl sacrificio silencioso\nes la épica más grande.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "sacrificio"
+  }
+}

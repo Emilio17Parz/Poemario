@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El rayo parte el cielo,\ny el trueno ruge con furor salvaje;\noscuridad de traje\ny desconsuelo.\nLa fuerza natural nos intimida,\nen la guarida.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

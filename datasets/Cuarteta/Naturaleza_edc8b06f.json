@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde montaña, cielo azul,\nCanta el jilguero bajo el tul.\nCorre el río con su vaivén,\nPura vida que nos da el edén.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Darle un motivo\na cada despertar\ncrear la luz.\nLa vida no regala\nhay que construirla.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

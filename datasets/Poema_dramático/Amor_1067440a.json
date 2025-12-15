@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "GALÁN: Señora, mi pecho ya no resiste,\nel fuego que vuestra belleza insiste.\nDAMA: Caballero, callad, que nos escuchan.\nGALÁN: Que oigan los cielos cómo mis penas luchan.\n¿Me amáis, o debo morir en este instante?\nDAMA: (Bajando la voz) Sois un loco amante...\nPero tomad mi mano, y tened calma.\nSí, os amo con toda mi alma.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sí"
+  }
+}

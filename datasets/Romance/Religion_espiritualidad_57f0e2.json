@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Entré en la iglesia vacía\ny olía a incienso y cera,\nla luz pasaba filtrada\npor la alta vidriera.\nSentí una paz infinita\ncomo si Dios estuviera,\nsentado allí a mi lado\nde una forma sincera.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "templo"
+  }
+}

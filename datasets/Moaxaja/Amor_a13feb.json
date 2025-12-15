@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un beso de tu boca,\nel alma toca.\n\nDulce como la miel,\nsobre mi piel,\nsiempre fiel,\nme vuelve loca.\nUn beso de tu boca,\nel alma toca.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "beso"
+  }
+}

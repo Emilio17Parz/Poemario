@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llevamos puesto un rostro,\npara enfrentar el día,\nocultando el rastro,\nde nuestra melancolía.\n\nPara enfrentar el día,\nfingimos estar bien,\nde nuestra melancolía,\nsomos el único rehén.\n\nFingimos estar bien,\nllevamos puesto un rostro,\nsomos el único rehén,\nocultando el rastro.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

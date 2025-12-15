@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Raíces profundas\ntronco firme\nramas que abrazan\nfrutos dulces\nde nuestro amor.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

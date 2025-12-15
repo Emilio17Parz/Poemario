@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Con gran valor enfrento,\nel duro momento,\nde la prueba final,\ncontra el mal,\nsin ningún lamento.\n\nEs mi juramento,\nser el instrumento,\nde la justicia real,\ncon gran valor.\n\nNo siento desaliento,\nni el miedo violento,\nmi fuerza es total,\nen la lucha campal,\ny el triunfo presiento,\ncon gran valor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "valor"
+  }
+}

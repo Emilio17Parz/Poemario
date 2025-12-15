@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Belleza, fugaz, que el alma sella,\nun eco sutil que la luz conmueve,\nen cada forma que la vista estrella.\n\nUn aire fresco que el espíritu eleve,\nse manifiesta en cada vivo **color**,\nque el mundo con su magia siempre llueve.\n\nDe un lirio abierto, de un dulce candor,\nsurge el encanto que el sentir aviva,\ndisipando del alma todo error.\n\nSu esencia pura siempre nos cautiva,\nla gracia eterna que en el ser habita,\nen cada verso, en cada vida activa.\n\nY en el silencio, el alma la palpita.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "color"
+  }
+}

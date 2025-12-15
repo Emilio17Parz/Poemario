@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un soplo gélido que el tiempo arranca,\nVacío inmenso que al alma somete.\nLa chispa vital que por siempre estanca,\nY en el silencio encuentra su cruel fin.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "fin"
+  }
+}

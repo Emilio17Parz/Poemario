@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Blanco manto de paz,\nque cubre la tierra,\ncon toque fugaz.\n\nSin antifaz,\nse acaba la guerra,\nblanco manto de paz.\n\nEs muy capaz,\nde cerrar la sierra,\ncon toque fugaz.\n\nTodo es veraz,\ny nada aterra,\nblanco manto de paz.\n\nCon su disfraz,\nque el frío encierra,\ncon toque fugaz.\n\nLuz eficaz,\nque no se yerra,\nblanco manto de paz,\ncon toque fugaz.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

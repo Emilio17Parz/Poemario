@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Repito tu nombre como un mantra sagrado,\ncon la voz temblorosa de un ser enamorado.\n\nEstá escrito en el viento y en el árbol plantado,\nporque todo el universo de ti está llenado.\n\nSi callo tu nombre, me siento desterrado,\npues solo en tu sonido me siento amparado.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "voz"
+  }
+}

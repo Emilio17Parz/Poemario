@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No importa cuán largo sea el camino,\nsino cómo lo pisas al andar;\nno te apresures solo por llegar,\ndisfruta del paisaje y del destino.\nLa meta es solo un punto en el mapa,\nla vida es el viaje que no escapa.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Firmar un papel ante el juez,\npara sufrir con licencia,\nperder la libertad de una vez,\ncon mucha pompa y paciencia.\nComer pastel y gastar dinero,\npara acabar en el 'te quiero, pero...'",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Boda"
+  }
+}

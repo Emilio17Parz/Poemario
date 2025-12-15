@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El Mar es sal y lamento,\nde mi vida sin valor,\ny mi alma es un tormento,\nsin un poco de fulgor.\n\nTe fuiste y me dejaste,\nsin un solo gran valor,\ny ahora me condenaste,\nsin un poco de fulgor.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

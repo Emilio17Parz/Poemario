@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuidas tanto tu forma,\nque el hambre es tu norma.\nEstás tan delgado y fino,\nque te lleva el remolino.\nLa belleza está muy bien,\npero come algo también.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "forma"
+  }
+}

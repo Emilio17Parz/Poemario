@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Barco perdido en la mar tormentosa,\nse hunde la nave que fue tan hermosa.\nOlas gigantes devoran la quilla,\nlejos, muy lejos de la mansa orilla.\n\n¡Clamad por el náufrago del amor,\nque se ahoga solo en su gran dolor!\nNo hay tabla ni faro que lo socorra,\nantes que el agua su nombre borre.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Correr tras el deseo,\nobjetivo que brilla en la distancia;\ncon gran constancia,\nen el paseo.\nLlegar al fin es dulce recompensa,\ntan inmensa.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "meta"
+  }
+}

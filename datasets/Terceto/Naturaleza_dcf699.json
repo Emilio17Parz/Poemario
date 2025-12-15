@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La lluvia cae mansa y persistente,\ntrayendo su frescura y su bondad,\nal campo seco y al jardín ardiente.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sonríe eternamente,\nporque no tiene labios,\nburla a la gente,\ny a los hombres sabios.\nDesnudo integral,\nsin censura moral.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Esqueleto"
+  }
+}

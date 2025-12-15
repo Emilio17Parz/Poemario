@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu risa es la música (7a),\nque rompe el temor (5b),\nsin ti no hay más pústula (7c),\nel eterno fulgor (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

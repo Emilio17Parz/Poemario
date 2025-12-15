@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Esperas toda la vida,\npara ser libre al fin,\ny tienes la salida,\npara cuidar el jardín.\nMirar obras y el suelo,\nes el premio del abuelo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Jubilación"
+  }
+}

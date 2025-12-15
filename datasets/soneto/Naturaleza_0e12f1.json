@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Explota la vida en cada rama,\nel verde conquista el campo yerto,\ny aquello que parecía muerto,\ndespierta al calor de nueva llama.\n\nLa tierra su fertilidad proclama,\nconvirtiendo en jardín el desierto,\ny el corazón se siente abierto,\na la promesa que el sol derrama.\n\nZumban abejas, trina el gorrión,\ntodo es bulla, color y danza,\nen esta bendita estación.\n\nRenueva el espíritu la esperanza,\nal ver la cíclica resurrección,\nque con la flor de abril avanza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

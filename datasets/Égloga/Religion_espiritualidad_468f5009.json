@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "TIRSIS: Mira cómo el sol con su luz sagrada\nbña los campos de gracia divina.\nDAMÓN: Es reflejo puro que nos ilumina,\nde una bondad que no pide nada.\nEsa luz interna que el alma enciende,\nes la gran verdad que el hombre comprende.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luz"
+  }
+}

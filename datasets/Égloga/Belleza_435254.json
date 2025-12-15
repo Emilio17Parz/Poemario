@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La risa de un niño es bella,\nmás que la joya más cara.\nLuz que no para,\nbrillante estrella.\nDeja su huella\nen nuestra cara.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "niño"
+  }
+}

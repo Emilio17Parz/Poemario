@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El gigante de piedra guardaba la entrada,\nCon el rostro de furia, la voz muy pesada.\nPero el joven usó una honda y una roca,\nProbando que el valor no está en la boca.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "gigante"
+  }
+}

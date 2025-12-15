@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele mirar la terrible pobreza,\nque nos golpea con su dureza,\nfalta pan en muchas mesas,\ny sobra mucha tristeza.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

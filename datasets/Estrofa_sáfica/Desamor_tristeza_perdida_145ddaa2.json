@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Recuerdo el brillo de tus ojos claros,\nLa dulce risa que mi ser amaba,\nMas hoy contemplo un desolado vacío,\nSola la pena.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

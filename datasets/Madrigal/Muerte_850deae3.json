@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedra fría y callada,\nguardiana de la vida terminada.\nAquí yace el guerrero,\nel rey y el pordiosero.\nLa muerte todo iguala\ny con su manto oscuro nos regala.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

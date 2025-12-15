@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Valiente parte\nA la épica aventura\nLucha sin miedo\nEn la final batalla\nSu espíritu ha de alzar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

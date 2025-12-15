@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro al fondo del abismo,\ny no sé qué nombre decir,\nsi el que suelo fingir,\no el que vive en el ostracismo.\n\nSoy un extraño a mí mismo,\nun actor que sabe mentir,\nun constante devenir,\nentre la fe y el cinismo.\n\nBusco la esencia perdida,\ndebajo de tanta capa,\nde historia y de herida.\n\nPero el ser se me escapa,\ny en esta eterna partida,\nno tengo brújula ni mapa.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "quién_soy"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Aúlla triste a la luna,\nel último de su clan,\nsin familia y sin pan,\nen la montaña bruna.\n\nSu canto es una runa,\nde soledad y afán,\nlos ecos responderán,\npero ayuda, ninguna.\n\nRey destronado del monte,\nmirando el horizonte.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "lobo"
+  }
+}

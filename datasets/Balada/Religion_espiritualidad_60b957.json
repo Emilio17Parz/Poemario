@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tu misericordia es grande,\ncomo el mar y como el cielo,\ny tu amor siempre se expande,\ndándonos el consuelo.\nPerdonas al que se humilla,\ny se arrepiente de verdad,\ny le das la maravilla,\nde tu santa amistad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

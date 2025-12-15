@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La esperanza es verde,\nNunca se debe perder,\nAunque el alma recuerde.\nLa esperanza es verde,\nQue no muerde,\nAl caer.\nLa esperanza es verde,\nNunca se debe perder.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "verde"
+  }
+}

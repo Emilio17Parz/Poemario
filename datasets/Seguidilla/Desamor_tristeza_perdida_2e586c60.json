@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me acompaña la fría\ngris soledad,\nesa es la dura y cruda\ngran realidad.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

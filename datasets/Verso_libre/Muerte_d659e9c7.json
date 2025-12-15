@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El último aliento.\nNo el fragor de un colapso,\nsino el silencio que hereda\nel lugar de un hilo invisible que se rompe.\n\nUn vacío fresco donde antes\nhabía una risa,\nuna idea,\nla calidez de una mano extendida.\n\nY el cuerpo, este andamio de piel y hueso,\ncomienza su lenta, su ineludible travesía\nde regreso.\nUna disolución sin prisa, una entrega.\n\nCada latido, un eco ya distante.\nCada célula, un mapa que se borra.\nHasta que la forma cede,\nla tensión en la piel se disipa,\ny la esencia misma,\nque un día fue luz y sombra,\nse derrama en el gran abrazo de la tierra.\n\nLo que queda es el **polvo**,\nleve, apenas perceptible, esparcido\npor los campos donde florecen nuevos brotes,\no contenido en la fría intimidad de una urna.\n\nUn **polvo** que conoció el asombro,\nla pena, la caricia del sol,\nla angustia de la noche.\nAhora, parte de la infinita quietud,\nun susurro olvidado\nen la canción indiferente del viento.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Senda de piedras\nque piso con mis pies\nrumbo incierto.\nCada paso que doy\nme acerca a mi destino.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "camino"
+  }
+}

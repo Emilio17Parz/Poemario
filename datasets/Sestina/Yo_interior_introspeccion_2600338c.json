@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Arrastro la culpa,\ncadena pesada,\nde errores pasados.\nFueron dados,\nlos pasos en falso,\npero busco el perdón.\n\nEl perdón,\nde la culpa,\ny el cadalso.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

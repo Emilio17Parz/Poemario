@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Forjada en el fuego y el acero,\nes la compañera del guerrero,\nque la empuña con mano fuerte,\npara desafiar a la muerte,\ny ganar la gloria y la fama,\ncomo la luz de una llama.\n\nBrilla intensa como la llama,\nla hoja de frío acero,\nque otorga poder y fama,\nal valiente y noble guerrero,\nque no teme a la muerte,\ny tiene el brazo fuerte.\n\nHay que ser muy fuerte,\npara sostener la llama,\ny enfrentarse a la muerte,\ncon un trozo de acero,\ncomo hace el buen guerrero,\nque busca la eterna fama.\n\nNo es vana la fama,\nni se apaga la llama,\ndel corazón del guerrero,\nque golpea fuerte,\ncon su espada de acero,\na los siervos de la muerte.\n\nSe rinde la propia muerte,\nante el brazo fuerte,\nque maneja el acero,\nencendiendo la llama,\nde la victoria y la fama,\nque persigue el guerrero.\n\nDescansa al fin el guerrero,\nde su danza con la muerte,\npero su nombre es fuerte,\ny se mantiene la llama,\nde su inmortal fama,\nescrita con sangre y acero.\n\nAcero y fama del guerrero,\nllama fuerte,\nque vence a la muerte.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "espada"
+  }
+}

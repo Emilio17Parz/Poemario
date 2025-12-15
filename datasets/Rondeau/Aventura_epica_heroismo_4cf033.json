@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La victoria,\nes la gloria.\nDel combate,\nque se late,\nen la historia.\n\nLa memoria,\nperentoria.\nEl rescate,\nla victoria.\n\nLa euforia,\ny la noria.\nEl gran remate,\ndel magnate,\ntrayectoria,\nla victoria.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

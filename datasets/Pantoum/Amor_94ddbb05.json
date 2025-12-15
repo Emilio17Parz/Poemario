@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mirada ilumina mi alma,\ncon la luz de un hermoso lucero,\nme devuelves la dicha y la calma,\neres todo lo que yo más quiero.\n\nCon la luz de un hermoso lucero,\nguías mis pasos en la oscuridad,\neres todo lo que yo más quiero,\nmi refugio y mi felicidad.\n\nGuías mis pasos en la oscuridad,\ntu mirada ilumina mi alma,\nmi refugio y mi felicidad,\nme devuelves la dicha y la calma.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "alma"
+  }
+}

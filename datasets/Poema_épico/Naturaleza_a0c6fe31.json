@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Poseidón agita el tridente,\ny el océano se vuelve furia,\ncastigando con gran lujuria,\nal barco del hombre valiente.\nOlas como muros de frente,\nagua salada, vieja espuria,\nque borra toda la injuria,\ncon su abrazo frío y potente.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "océano"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se eleva la voz cristalina,\nrompiendo el silencio atroz,\ncon una fuerza divina.\n\nEs una nota que domina,\ny llega al alma veloz,\nse eleva la voz cristalina.\n\nTodo el espacio ilumina,\ncomo si fuera un altavoz,\ncon una fuerza divina.\n\nLa melodía camina,\nsin necesidad de la hoz,\nse eleva la voz cristalina.\n\nDulce y suave se reclina,\nen el oído precoz,\ncon una fuerza divina.\n\nBelleza que no termina,\ny nos deja sin voz,\nse eleva la voz cristalina,\ncon una fuerza divina.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "canto"
+  }
+}

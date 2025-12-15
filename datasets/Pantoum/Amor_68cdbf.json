@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Palabras solo nuestras,\nsusurros en la noche.\nSeñales y muestras,\nsin ningún reproche.\n\nSusurros en la noche,\nguardados con celo.\nSin ningún reproche,\nbajo el mismo cielo.\n\nGuardados con celo,\nseñales y muestras.\nBajo el mismo cielo,\npalabras solo nuestras.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

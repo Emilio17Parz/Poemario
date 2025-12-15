@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Manto de estrellas, azul infinito,\ndonde la luna pasea su luz,\nlejos del mundo y su pesada cruz,\neres del cosmos el más bello rito.\nAnte tu magno esplendor yo me agito,\nmirando al cielo y su gran trasluz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

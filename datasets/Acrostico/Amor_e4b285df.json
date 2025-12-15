@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "**A**manecer que enciende la más íntima llama,\n**M**anantial de caricias que el espíritu calma,\n**O**asis de ensueños donde el ser se derrama,\n**R**esplandor eterno que transfigura el **alma**.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "alma"
+  }
+}

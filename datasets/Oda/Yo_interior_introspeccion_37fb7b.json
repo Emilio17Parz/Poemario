@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Estar conmigo,\nsin nadie más,\natrás,\nel amigo.\nCita leal,\ny real.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

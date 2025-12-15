@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se ha marchado para siempre la musa,\ndejando mi papel blanco y vacío,\nel estro poético está frío,\ny la inspiración su don rehúsa.\nTriste poeta que perdió su voz,\nante el silencio del tiempo feroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "musa"
+  }
+}

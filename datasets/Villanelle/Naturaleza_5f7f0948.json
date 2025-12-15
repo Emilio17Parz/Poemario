@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El aliento verde que la tierra abraza,\nDonde la luz del sol su esencia derrama,\nY el corazón del mar siempre me llama.\n\nLa flor silvestre en cada nueva traza,\nSu perfume sutil, un alma que se inflama,\nEl aliento verde que la tierra abraza.\n\nNi el rudo viento que las cimas amasa,\nAquel anhelo azul que nunca se derrama,\nY el corazón del mar siempre me llama.\n\nEn cada ola que la arena rechaza,\nLa eterna voz que mi memoria proclama,\nEl aliento verde que la tierra abraza.\n\nNingún invierno su esplendor desplaza,\nLa vida pulsa, ardiente como llama,\nY el corazón del mar siempre me llama.\n\nAsí el alma en su paz se engarza,\nUna canción sin fin que al viento trama,\nEl aliento verde que la tierra abraza,\nY el corazón del mar siempre me llama.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mar"
+  }
+}

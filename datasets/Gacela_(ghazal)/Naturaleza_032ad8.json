@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llora el cielo su gris lluvia,\nlimpia la tierra la mansa lluvia.\n\nBeben los campos con sed milenaria,\nel agua bendita de la fresca lluvia.\n\nRenace la vida después de la tormenta,\ngracias al beso de la dulce lluvia.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

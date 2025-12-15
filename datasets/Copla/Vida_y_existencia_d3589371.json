@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, sendero incierto,\nque el *tiempo* no detiene,\nun soplo en el desierto\nque el alma sostiene.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

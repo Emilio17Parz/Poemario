@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Fiesta de luz que mis ojos admiran,\nrojos, azules, dorados y verdes,\ndonde las penas del alma pierdes,\nmientras las formas giran y giran.\nTodos los seres por ti suspiran,\nmundo de vivos colores que muerdes.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "color"
+  }
+}

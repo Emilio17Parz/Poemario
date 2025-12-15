@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Miraba con celos al gato,\npues ella le daba el plato,\n\"¡O el gato o yo!\",\nel hombre gritó,\ny durmió en la calle un buen rato.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Celos"
+  }
+}

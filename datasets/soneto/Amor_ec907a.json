@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo iría al fin del universo,\ncruzaría los mares más bravíos,\nlos desiertos, los montes y los ríos,\nsin temer a destino adverso.\n\nCualquier lugar será para mí terso\nsi calmas con tus manos mis fríos,\ny alejas de mi mente los líos\ncon la magia de tu dulce converso.\n\nEl mundo es un mapa por descubrir,\npero mi hogar está donde tú estés,\nno importa a dónde tengamos que ir.\n\nSi marcho caminando con tus pies,\ntengo todo lo que puedo pedir,\npues tú eres mi principio y mi después.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

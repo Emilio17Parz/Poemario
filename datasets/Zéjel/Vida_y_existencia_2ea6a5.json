@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El destino ya me llegó,\ny la suerte me sonrió.\n\nLa vida ya tiene fin,\nsin principio ni confín,\nel alma es un trajín,\ny la suerte me sonrió.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "destino"
+  }
+}

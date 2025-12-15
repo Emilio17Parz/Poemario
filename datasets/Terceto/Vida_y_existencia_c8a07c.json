@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El amor da sentido a todo,\nla más pura y bella ciencia,\nque nos salva del triste lodo.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "amor"
+  }
+}

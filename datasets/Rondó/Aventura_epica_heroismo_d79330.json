@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tener el coraje,\nde seguir adelante.\nSer constante,\nen el viaje.\n\nSin peaje,\nni vacante.\nTener el coraje,\nde seguir adelante.\n\nEl paisaje,\nbrava amante.\nInstante,\nde linaje.\nTener el coraje.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "coraje"
+  }
+}

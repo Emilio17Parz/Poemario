@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En el abismo del yo,\ndonde la luz no se esconde,\nmi corazón se me abrió\ny mi mente me responde.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "mente"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se viste el bosque de oro y de grana,\ncaen las hojas en danza suicida,\npreparando la tierra para la vida\nque dormirá hasta la nueva mañana.\n\nHay una luz nostálgica y temprana,\nuna belleza triste y despedida,\nla naturaleza queda adormecida\nbajo la bruma suave y soberana.\n\nCrujen los pasos sobre el suelo seco,\nel viento silba una canción de cuna,\ny el sol se esconde dejando su hueco.\n\nEs el tiempo de introspección y una\npausa necesaria, no un trueco,\nantes de que el invierno nos reuna.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "hojas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mármol es frío, la estatua sin par,\nmuestra la forma perfecta y sutil,\nla obra del arte, el dulce lugar,\nque al alma despierta gentil.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Mármol"
+  }
+}

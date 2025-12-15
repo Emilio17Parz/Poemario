@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Cuál es el fin de la labor humana?\n¿Dónde se van los días que pasamos?\nPreguntas de mañana\nque sin respuesta nos quedamos.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "preguntas"
+  }
+}

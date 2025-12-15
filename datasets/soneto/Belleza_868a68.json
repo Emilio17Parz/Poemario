@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sucesión de notas que camina,\ncontando una historia sin voz,\na veces dulce, a veces atroz,\npero siempre bella y genuina.\n\nSe clava cual suave espina,\nen la memoria y es veloz,\nrecordándonos tiempos en pos,\nde una felicidad divina.\n\nUna melodía nos transporta,\na lugares que ya no existen,\ny el peso de la vida recorta.\n\nLos recuerdos en ella resisten,\ny aunque la dicha sea corta,\nen el alma sus ecos insisten.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "melodía"
+  }
+}

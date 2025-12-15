@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Luchan contra la pobreza,\ndesde una gran mesa.\nComiendo caviar y trufa,\nla cosa me la bufa.\nHablan de repartir,\npero no de suvenir.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

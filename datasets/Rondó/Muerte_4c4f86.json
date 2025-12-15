@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se borra la memoria,\nde quien se fue,\nse pierde la fe,\ny la historia.\nFalsa gloria,\nque yo soñé.\nSe borra la memoria.\n\nPolvo somos,\ny en polvo quedamos,\naunque amamos,\nsomos átomos.\nSin mayordomos,\nni reclamos.\nSe borra la memoria.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

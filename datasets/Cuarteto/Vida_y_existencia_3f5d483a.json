@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ya blanquea mi cabello\ncon la nieve de los años,\npero subo los peldaños\ncon el ánimo más bello.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "años"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El último de tu linaje,\ncerró los ojos ayer,\nya nadie te volverá a ver,\nen este mundo salvaje.\n\nTe llevas contigo el mensaje,\nde un tiempo que no ha de volver,\ny nosotros al perder,\nmanchamos nuestro equipaje.\n\nAdiós para siempre jamás,\nno volverás nunca más.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "extinción"
+  }
+}

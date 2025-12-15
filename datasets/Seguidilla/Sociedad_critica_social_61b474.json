@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El muro se alza (7a),\nsin un final (5b),\nmi alma ya no se alza (7c),\nsin un mal (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Muro"
+  }
+}

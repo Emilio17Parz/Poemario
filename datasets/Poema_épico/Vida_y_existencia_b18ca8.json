@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Encontramos muros en el andar,\nretos gigantes de piedra gris,\nno están ahí para hacernos parar,\nsino para ver quién es feliz.\nEscala, derriba, rodea o salta,\nla voluntad nunca hace falta.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Muro"
+  }
+}

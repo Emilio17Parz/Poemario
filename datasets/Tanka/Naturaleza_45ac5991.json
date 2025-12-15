@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde manto azul\nSusurra el dulce viento\nRíos de cristal\nLa noche al fin desvela\nA su compañera luna.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "luna"
+  }
+}

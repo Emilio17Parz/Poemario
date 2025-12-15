@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dejar el puerto seguro,\nlanzarse a la mar abierta,\nsin saber la ruta cierta,\nhacia un destino oscuro.\n\nRomper el cerco y el muro,\ncon la mente bien despierta,\ny el alma siempre cubierta,\nde un valor noble y puro.\n\nViajar es vivir dos veces,\nconocer otros colores,\ny probar otras mieses.\n\nOlvidar los temores,\ny aunque a veces tropieces,\ncosecharás las flores.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

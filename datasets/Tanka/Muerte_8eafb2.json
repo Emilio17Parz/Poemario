@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Faltas en mesa\ntu voz ya no se escucha\nsilencio cruel.\nLa casa está vacía\naunque estemos nosotros.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

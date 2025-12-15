@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Miro la mesa y faltan asientos,\nlos camaradas de la aventura,\ncayeron uno a uno en la dura\njornada de sangre y sufrimientos.\nSolo quedan ecos y lamentos,\nde aquella hermandad fuerte y pura,\nque desafiaba a la noche oscura,\ny compartía los pensamientos.\nBrindo solo con vino amargo,\npor los amigos que no volverán,\ny siento el peso de este letargo.\nSus nombres en mi mente están,\npero el camino se hace largo,\nsin su risa y sin su afán.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "compañeros"
+  }
+}

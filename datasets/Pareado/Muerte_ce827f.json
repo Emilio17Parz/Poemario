@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La paz de la muerte, la calma sin un final (A),\nel descanso eterno, el bien total (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

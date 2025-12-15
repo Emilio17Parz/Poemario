@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se rompió el instrumento,\nse cortó la cuerda,\nque nadie recuerde,\nel dulce momento.\nQuedó en el viento,\nla nota que muerde,\nque se pierde,\nen el lamento.\nSin música el alma,\nes casa vacía,\nsin calma.\nLa melodía,\nque ensalma,\nmoría.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "música"
+  }
+}

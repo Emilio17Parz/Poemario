@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Inmenso azul que besa la ribera,\ncon olas de espuma y salpicadas,\nque rugen de una forma duradera.\n\nSon aguas por la luna dominadas,\nque guardan mil secretos en su fondo,\ny quedan en la arena dibujadas.\n\nEn un abismo hondo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "mar"
+  }
+}

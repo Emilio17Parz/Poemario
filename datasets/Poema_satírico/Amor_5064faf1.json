@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me dices que me amas tal cual,\npero miras mi barriga,\ncomo si fuera una hormiga,\nen un plato principal.\nMe pones dieta letal,\nde lechuga y de migaja,\nmientras tú comes la caja,\nde bombones, ¡qué animal!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "dieta"
+  }
+}

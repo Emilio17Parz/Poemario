@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mundo es un estallido de color que celebra la alegría de existir.\nEl verde de los valles, el azul de los mares, el rojo de la sangre y el fuego.\nBendita sea la luz que se fragmenta para regalarnos el arcoíris.\nSin color, la vida sería una sombra gris y triste.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "color"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Claro río que desciende,\nde la montaña nevada,\nen su carrera alada,\nque nadie comprende.\n\nSu canto se desprende,\nen la madrugada,\ny la vida enciende.\nClaro río.\n\nEl agua nos atiende,\ncon su voz plateada,\nsiempre enamorada,\ndel mar que la pretende,\ny su cauce defiende.\nClaro río.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "río"
+  }
+}

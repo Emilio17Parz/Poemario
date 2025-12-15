@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz tiene la textura\nde las cosas que no envejecen.\nPodría escucharte leer la guía telefónica\ny encontraría poesía en los números,\nporque no importa lo que dices,\nsino la música con la que me nombras.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "voz"
+  }
+}

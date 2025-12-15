@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Movimiento y armonía,\ndel cuerpo que gira y salta,\nuna belleza tan alta,\nque causa gran alegría.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "danza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuimos barro y seremos tan solo polvo,\ny al viento se lo lleva, el gris polvo.\n\nLa vanidad del hombre se desmorona,\nquedando reducida a un poco de polvo.\n\nRecuerda que eres frágil, ser pasajero,\nque volverás a ser, al final, polvo.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

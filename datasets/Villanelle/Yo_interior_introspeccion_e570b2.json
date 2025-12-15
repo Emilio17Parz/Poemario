@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Llevo una sombra dentro de mí,\nque oculta mis miedos secretos,\ny que nunca a nadie le di.\n\nEs la parte que no viví,\ncon sus oscurosetos,\nllevo una sombra dentro de mí.\n\nAunque de ella siempre huí,\ncon pasos inquietos,\ny que nunca a nadie le di.\n\nSé que está ahí,\nentre mis esqueletos,\nllevo una sombra dentro de mí.\n\nTodo lo que no fui,\ny mis planes incompletos,\ny que nunca a nadie le di.\n\nLa acepto y digo que sí,\na sus negros bocetos,\nllevo una sombra dentro de mí,\ny que nunca a nadie le di.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

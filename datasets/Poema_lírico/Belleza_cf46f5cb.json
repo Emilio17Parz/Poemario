@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Belleza, un don que el alma siempre anhela,\nEn cada aurora que el fulgor nos da,\nUn eco mudo que al silencio vela,\nY en el suspiro del amor está.\n\nTu faz se dibuja en la flor que se abre,\nEn el azul profundo de la mar,\nEn la caricia leve que el viento sabe,\nY en el lucero que nos ve soñar.\n\nMas, ¿cómo asirte, esquiva y transparente?\n¿Dónde fijar tu efímero esplendor?\nEl genio humano, con su pulso ardiente,\nTe busca y te revela con su **arte**, oh, amor.\n\nNo solo forma, ni efímero color,\nSino un sentir que el corazón alcanza,\nLa esencia pura de un eterno valor,\nQue en cada ser profundo se afianza.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "arte"
+  }
+}

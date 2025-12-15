@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo escribe versos en el aire,\nsiguiendo el compás de la tonada,\ncon una levedad tan delicada\nque vence la gravedad con donaire.\n\nNo existe en el movimiento desaire,\ntan solo la figura bien lograda,\nla fuerza contenida y liberada\nen un giro que causa el socaire.\n\nBelleza en movimiento, efímera,\nque muere en el instante que termina,\npero deja una huella, la primera.\n\nLa danza es la expresión que nos domina,\nlenguaje de la carne mensajera\nque hacia lo celestial se encamina.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "danza"
+  }
+}

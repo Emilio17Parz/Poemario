@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche es más negra sin la luz de tu fe,\nla sombra es la prueba, sin saber el qué.\nNo hay estrellas ni luna, solo el dolor y el mal,\nla vida que se va sin signo vital.\n\nMe aísla el silencio, me rompe la paz,\nla vida sin la gracia, sin ser capaz.\nMi alma es la sombra de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "noche"
+  }
+}

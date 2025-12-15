@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "P ardimos hacia la tierra,\nO lvidando el vano afán,\nL a materia se encierra,\nV olviendo al viejo plan,\nO scura paz que aterra.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

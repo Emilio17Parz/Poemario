@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Alma, siente la fe.\nDios te guía.\nLuz de amor.\nAmor de luz.\nGuía te Dios.\nFe la siente, alma.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "fe"
+  }
+}

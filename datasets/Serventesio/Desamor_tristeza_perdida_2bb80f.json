@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi alma está rota, sin forma ni luz (A),\nes la herida abierta que quiere sangrar (B),\nla vida es un peso, una dura cruz (A),\nla forma de no volver a amar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

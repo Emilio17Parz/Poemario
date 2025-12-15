@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Alma que se expresa,\nRima y emoción.\nTodo lo que apresa,\nEs pura creación.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "ARTE"
+  }
+}

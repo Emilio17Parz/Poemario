@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La forma es perfecta, el arte sutil,\nque el ojo descubre con gran fulgor,\nes la armonía, el don gentil,\nla esencia del puro valor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Forma"
+  }
+}

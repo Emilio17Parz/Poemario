@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rata con alas del parque,\nsímbolo de paz y cagadas,\nque tu estatua se marque,\ncon sus manchas sagradas.\nArrullan con voz de ultratumba,\ny el banco se derrumba.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Paloma"
+  }
+}

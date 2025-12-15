@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Aunque mis ramas toquen el cielo y bailen con las nubes, sé que mi fuerza proviene de la oscuridad de la tierra.\nHonrar mis raíces es reconocer que soy el fruto de mil generaciones que lucharon para que yo pudiera existir hoy.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "raíz"
+  }
+}

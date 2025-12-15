@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Piedras para la energía,\nque curan la tos,\nmagia y brujería,\npara los tiempos de dos.\nSi te duele la muela,\nve al dentista, abuela.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Cristales"
+  }
+}

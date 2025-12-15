@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Antes que el beso, va el respeto,\nreconocer al otro como un igual,\nese es el amoroso secreto,\npara evitar el triste final.\nNo poseer, sino acompañar,\nes la única forma de amar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Respeto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hombre valiente\nque enfrenta su destino\nsin vacilar.\nProtege a los demás\ncon su espada y su fe.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

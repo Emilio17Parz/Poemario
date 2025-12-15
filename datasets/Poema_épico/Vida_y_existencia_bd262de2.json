@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La Fortuna gira su rueda,\nalzando al pobre a la cima,\ny al rey arroja a la sima,\nnada quieto se queda.\nLa vida es una vereda,\nque cambia y nos lastima,\no nos da la estima,\nque el destino nos veda.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "rueda"
+  }
+}

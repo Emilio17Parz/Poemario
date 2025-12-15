@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llevo tu ausencia como dura cruz,\npasando los días en dolor y pena,\nya no distingo la sombra de la luz,\nmi vida es una condena llena.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Cruz"
+  }
+}

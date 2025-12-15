@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Grave mi error al darte mi confianza,\npuse mi vida en manos de quien miente,\ny ahora pago caro e inclemente,\nmi gran locura.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "error"
+  }
+}

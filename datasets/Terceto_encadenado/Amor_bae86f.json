@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Llegas y en mi invierno nace un dulce abril (A),\ncon flores silvestres y aroma de paz (B),\nel alma que rompe el duro fusil (A).\n\nLa vida es un canto que viene tenaz (B),\nla fuerza que impulsa mi fiel corazón (C),\nla forma que ayuda a la paz (B).\n\nMi vida es un verso, una gran lección (C),\nsin miedo al castigo, sin un final (D),\nla única y dulce razón (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Abril"
+  }
+}

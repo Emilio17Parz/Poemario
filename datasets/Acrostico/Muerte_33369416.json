@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "D olor por el ausente,\nU n llanto contenido,\nE n el pecho se siente,\nL a pena del que ha ido,\nO scuro y permanente.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

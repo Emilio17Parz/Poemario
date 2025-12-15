@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El lienzo se rasgó,\nla estatua se hizo polvo,\ny yo no resuelvo,\nquién lo mató.\nLa belleza huyó,\nen un revuelo,\ny dejó el suelo,\nque pisó.\nLloro por la obra,\nque el genio creó,\ny hoy zozobra.\nNadie la vio,\nni la cobra,\nni la amó.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "arte"
+  }
+}

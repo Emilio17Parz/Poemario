@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "MUJER: Devuélveme a quien se llevó tu ola.\nMAR: Lo guardo en mi seno de coral y sal.\nMUJER: ¡Maldita sea tu fuerza fatal!\nMAR: No llores, mujer, no estás sola.\nÉl es ahora espuma y marea,\nparte de mi alma, aunque no lo veas.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "mar"
+  }
+}

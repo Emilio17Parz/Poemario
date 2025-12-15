@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Veo el dolor,\nen la calle,\nen el valle,\ndel temor.\nSin amor,\nque acalle.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

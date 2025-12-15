@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llorad, mortales, la breve suerte,\nde la belleza y la juventud,\ntodo termina en el ataúd,\nbajo el imperio de la muerte.\n\nMas este llanto se vuelva canto,\nde gratitud por lo que se dio,\npor la vida que floreció,\ny que nos deja su dulce encanto.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

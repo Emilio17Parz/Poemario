@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En el silencio hablamos,\nsin voz nos escuchamos.\nMiradas que lo dicen,\ny corazones que predicen,\nlo mucho que nos amamos.\n\nJuntos nos encontramos,\ny el ruido olvidamos.\nLas almas bendicen,\nen el silencio.\n\nLas manos entrelazamos,\ny al cielo tocamos.\nQue no nos deslicen,\nni nos atemoricen,\nporque la paz hallamos,\nen el silencio.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

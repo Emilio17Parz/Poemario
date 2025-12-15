@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se nos escapa el breve tiempo,\ncomo arena entre los dedos,\nes un fugaz pasatiempo,\nlleno de dudas y miedos.\n\nComo arena entre los dedos,\nlos años pasan volando,\nlleno de dudas y miedos,\nla vida se va gastando.\n\nLos años pasan volando,\nse nos escapa el breve tiempo,\nla vida se va gastando,\nes un fugaz pasatiempo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

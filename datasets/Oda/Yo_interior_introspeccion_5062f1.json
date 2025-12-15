@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Yo gigante,\nque pide todo,\nde modo,\narrgante.\nBaja del trono,\ncon buen tono.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "ego"
+  }
+}

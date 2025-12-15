@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Callaron las voces de la melodía,\nmurió la canción que me sostenía.\nSilencio pesado como una losa,\ncubre la tumba de la mariposa.\n\n¡Honor al silencio que todo lo acalla,\nfinal de la fiesta y de la batalla!\nNo hay respuesta a mi grito de auxilio,\nsoy el profeta de mi propio exilio.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Esta ciudad que era nuestro patio de recreo se ha vuelto un campo minado de recuerdos peligrosos.\nNo puedo cruzar una calle sin que me asalte la memoria de un beso o de una despedida en esa esquina.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

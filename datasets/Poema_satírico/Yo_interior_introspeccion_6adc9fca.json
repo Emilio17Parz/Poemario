@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Yo, mi, me, conmigo,\nconjugo el verbo,\nsoy mi mejor,\ny único siervo.\nMe amo tanto,\nque me emociono,\ny a los demás,\nni los menciono.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "yo"
+  }
+}

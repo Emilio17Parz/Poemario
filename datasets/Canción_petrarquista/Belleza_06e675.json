@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo en movimiento\ndibuja con el aire mil figuras;\ntan puras,\nque el pensamiento\nse eleva con el salto y con el giro;\ny yo suspiro\nviendo tal ligereza,\nque es viva imagen de la gentileza.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "danza"
+  }
+}

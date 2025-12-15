@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tener coraje,\nen el viaje.\nPara seguir,\ny vivir,\nel paisaje.\n\nEl mensaje,\ndel linaje.\nSin huir,\ntener coraje.\n\nEl equipaje,\ndel paje.\nAl sentir,\nel sufrir,\ndel salvaje,\ntener coraje.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "coraje"
+  }
+}

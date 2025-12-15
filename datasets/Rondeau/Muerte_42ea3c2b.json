@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Caer en el olvido,\nes lo temido,\npor el ser humano,\nque tiende la mano,\nal ser querido.\n\nTodo lo vivido,\ny lo sentido,\nes vano,\nCaer en el olvido.\n\nSe ha perdido,\nel sonido,\ndel piano,\nlejano,\ny el ruido,\nCaer en el olvido.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

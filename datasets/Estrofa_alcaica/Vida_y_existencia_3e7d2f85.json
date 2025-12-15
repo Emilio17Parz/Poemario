@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es el vivir un combatir constante,\ncontra la suerte y el vendaval furioso,\nsiguiendo hacia adelante\nsin esperar ningún reposo.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

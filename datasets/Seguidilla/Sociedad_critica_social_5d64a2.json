@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Roban dinero,\ndel pueblo,\ny yo tiemblo,\nde ira.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "dinero"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Susurra el viento tu dulce nombre,\ny el eco repite tu dulce nombre.\n\nNo hay otra palabra que tanto asombre,\nni joya que valga tu dulce nombre.\n\nGrabado a fuego en el ser del hombre,\nes ley y destino tu dulce nombre.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

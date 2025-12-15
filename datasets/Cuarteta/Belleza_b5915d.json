@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza habita en lo que el ojo ve,\nen el sutil trazo del firmamento azul,\nes la armonía del 'sí' y el 'no, no hay más fe,\nla vida que luce bajo el tul.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Ojo"
+  }
+}

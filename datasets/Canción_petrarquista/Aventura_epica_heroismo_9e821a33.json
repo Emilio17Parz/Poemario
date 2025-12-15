@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El clarín suena, el monte me convida,\nMi corazón, intrépido y audaz,\nNo teme al risco ni a la flecha mordaz\nQue el hado lanza sin hallar medida.\nLa senda ignota, dura y muy batida\nPor pasos de gigantes, me da paz,\nPues sé que el temple mío, sin disfraz,\nEn cada empeño encontrará la vida.\n\nPor valles sombríos, donde el mal acecha,\nAlzaré mi estandarte, sin temor;\nLa espada fiel, mi único fulgor.\nQue mi alma sea de nobleza hecha,\nY tras la gesta, el clamor que es honor,\nMe dé la inmortal **gloria**, dulce don.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

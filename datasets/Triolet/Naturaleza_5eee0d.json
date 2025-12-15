@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Solo arena y soledad,\nBajo el sol abrasador,\nInmensa tranquilidad.\nSolo arena y soledad,\nEs la realidad,\nDe este calor.\nSolo arena y soledad,\nBajo el sol abrasador.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "arena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te prometo quererte vida mía,\nmientras dure mi aliento y mi existir,\nserá nuestra la noche y también día,\ny juntos vamos siempre a sonreír.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

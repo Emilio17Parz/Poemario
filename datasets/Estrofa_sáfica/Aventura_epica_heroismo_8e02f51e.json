@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ciñe la espada de metal brillante,\nmonta el caballo de pelaje oscuro,\nva a la batalla sin temor alguno,\nfuerte y duro.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

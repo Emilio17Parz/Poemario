@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "latido humano",
   "poema": {
     "texto": "Suena el latido\\ndentro del pecho\\nmarca mis horas\\ncomo un tambor",

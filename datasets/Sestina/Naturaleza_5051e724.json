@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Brilla la blanca luna,\nen el tapiz de la noche,\nrodeada de estrellas mil.\nCon su rostro de marfil,\nvigila el sueño del mundo,\ny mueve la gran marea.\n\nLa gran marea,\nsigue a la luna,\nen lo profundo.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "luna"
+  }
+}

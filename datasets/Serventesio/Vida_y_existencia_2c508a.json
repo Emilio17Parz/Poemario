@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El alma es el faro, la luz interior y fiel (A),\nque guía al cuerpo en la tempestad (B),\nla vida es un trago de dulce miel (A),\nla clave de la libertad (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

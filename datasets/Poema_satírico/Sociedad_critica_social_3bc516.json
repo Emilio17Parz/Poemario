@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vuelva usted mañana, señor,\nle falta la póliza tres,\nes un laberinto de horror,\nal derecho y al revés.\nPapeles mueven el mundo,\nen este caos profundo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Burocracia"
+  }
+}

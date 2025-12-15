@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de arena,\nsin agua ni fin,\ntriste jardín,\nde la pena.\nLa luna llena,\nalumbra la duna,\ny no hay cuna,\npara dormir,\nsolo ir,\npor la runa.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu abrazo es mi abrigo, mi dulce calor (A),\ncontra el frío cruel de la soledad (B),\nmi vida es tuya, mi eterno valor (A),\nla esencia de la verdad (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Abrigo"
+  }
+}

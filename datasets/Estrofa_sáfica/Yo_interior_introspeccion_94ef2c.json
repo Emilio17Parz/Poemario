@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Niebla que cubre lo que vendrá,\nincertidumbre de mi destino,\nno veo claro el largo camino,\nmiedo al mañana.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

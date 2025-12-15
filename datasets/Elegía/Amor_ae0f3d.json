@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuimos dos luces en un mismo sendero,\nhoy solo queda mi sombra y el suelo,\nya no hay consuelo, ni existe el vuelo,\ndel pájaro libre que fue nuestro \"te quiero\".\n\nMe arrastro en la noche como un pordiosero,\nbuscando las migas de aquel terciopelo,\npero solo encuentro el gris desconsuelo,\nde saber que el fin fue cruel y certero.\n\nSombra de amor que me sigue los pasos,\ncontando mis penas y mis fracasos.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

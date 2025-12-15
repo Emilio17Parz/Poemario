@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No busca el héroe la terrena gloria,\nsolo quedar en la fiel memoria,\npor haber sido valiente,\ny cambiar así la historia.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

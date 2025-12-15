@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No puedo perdonar lo que me hiciste,\nel daño fue profundo y venenoso,\nme vuelvo un ser oscuro y rencoroso,\npor la cruel traición que cometiste.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "rencor"
+  }
+}

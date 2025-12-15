@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es la existencia solamente un sueño,\nuna ilusión que pronto pasará,\ncomo niebla en la mañana,\nque con el sol se borrará.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

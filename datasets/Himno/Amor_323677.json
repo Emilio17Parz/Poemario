@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cantad la gloria de las dos mitades,\nque vencen juntas las adversidades.\nCaminan juntos hacia el horizonte,\nsubiendo unidos el difícil monte.\n\n¡Honor a los esposos, vida nueva,\nque el amor puro hasta el final los lleva!\nEjemplo vivo de la fe constante,\ncada uno del otro fiel amante.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "esposos"
+  }
+}

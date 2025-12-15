@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se marchitó la flor del rostro,\nel espejo muestra la ruina,\nde la figura divina,\nante la cual me postro.\n\nSoy un monstruo,\nque camina,\ny declina,\nen el calostro.\n\nLloro la belleza ida,\nque no tiene acogida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "belleza"
+  }
+}

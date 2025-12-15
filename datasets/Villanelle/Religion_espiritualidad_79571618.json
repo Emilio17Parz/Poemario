@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Me fortalece la llama de fe,\ncuando la noche se vuelve oscura,\ny el camino claro no se ve.\n\nSigo adelante y me mantengo en pie,\ncon la esperanza firme y segura,\nme fortalece la llama de fe.\n\nAunque la duda me tiente, lo sé,\nque Dios me brinda su cobertura,\ny el camino claro no se ve.\n\nBebo del agua que calma mi sed,\nen la sagrada y la escritura,\nme fortalece la llama de fe.\n\nNunca mi alma caerá en la red,\nde la tristeza y la amargura,\ny el camino claro no se ve.\n\nConfío en lo que nunca toqué,\ncon una entrega total y pura,\nme fortalece la llama de fe,\ny el camino claro no se ve.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "fe"
+  }
+}

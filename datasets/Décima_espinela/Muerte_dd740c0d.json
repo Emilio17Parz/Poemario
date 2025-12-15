@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando la sombra gris llega\ny el alma emprende su vuelo,\nno hay retorno desde el cielo,\ny al cuerpo el tiempo lo niega.\nSilente, la guadaña siega,\nmarcando el dulce y cruel fin,\nde un viaje sin querubín.\nLa carne se vuelve tierra,\ncesa por siempre la guerra,\nen ese eterno confín.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "fin"
+  }
+}

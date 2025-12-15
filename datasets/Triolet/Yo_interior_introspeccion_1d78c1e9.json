@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En mi mente\nhay ruido,\npermanente.\nEn mi mente,\nla corriente,\nha sido.\nEn mi mente\nhay ruido.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mente"
+  }
+}

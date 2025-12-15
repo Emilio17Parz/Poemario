@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Blanca nieve es su piel, y rosas rojas\nsus labios que destilan dulce miel,\ny yo soy fiel\naunque con su desdén me despojas.\nContraste de frío y fuego ardiente,\nque se siente\nal ver tal beldad,\nreina de la gracia y la majestad.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Soy el héroe,\nque no empeore.\n\nSalvo gente,\nmuy valiente,\ny de frente,\nque mejore.\n\nSoy el héroe,\nque no empeore.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

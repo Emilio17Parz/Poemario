@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vino la parca con su guadaña,\na cosechar lo que floreció,\nno vale fuerza, no vale maña,\ncuando su hora se decidió.\nAl rico y pobre se llevó,\ny en el silencio los envolvió.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "parca"
+  }
+}

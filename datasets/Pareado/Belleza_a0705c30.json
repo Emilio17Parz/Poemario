@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La flor es bella y fragante,\nun regalo fascinante.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "fragante"
+  }
+}

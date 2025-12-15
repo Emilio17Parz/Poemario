@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL EXILIADO]\nMe han expulsado de mi tierra por decir la verdad que no querían oír.\nEl exilio es una muerte lenta. Un recuerdo constante de lo que no puedo tocar.\nPero soy libre. Soy el único que lleva su patria en el corazón, no en el mapa.\nVolveré. No como un fugitivo, sino como el trueno que anunciará la justicia.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "exilio"
+  }
+}

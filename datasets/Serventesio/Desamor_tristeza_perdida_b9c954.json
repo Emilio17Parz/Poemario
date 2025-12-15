@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tengo miedo a seguir mi propio paso,\nsin tu mano que guíe mi andar,\nme siento caminando hacia el ocaso,\nsin estrella que me pueda orientar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

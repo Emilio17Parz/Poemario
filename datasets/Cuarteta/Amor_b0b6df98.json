@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tus labios hallo miel,\nuna dulce medicina,\nque se posa sobre piel\ncon su gracia tan divina.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "miel"
+  }
+}

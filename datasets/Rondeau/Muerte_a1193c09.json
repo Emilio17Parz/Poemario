@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra llega,\ny todo lo anega,\nde oscuridad,\ny soledad,\nque nos ciega.\n\nNadie lo niega,\nque ella juega,\ncon la edad,\nLa sombra llega.\n\nSe despliega,\ny nos entrega,\na la verdad,\nde la eternidad,\nque se pega,\nLa sombra llega.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

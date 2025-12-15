@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La nave del héroe,\ncorta las olas del tiempo,\nhacia lo desconocido.\nDejar la tierra de origen,\npara fundar un gran reino.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Nave"
+  }
+}

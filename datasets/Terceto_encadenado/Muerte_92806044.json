@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Al fin nos convertimos en el polvo,\nque el viento esparce sobre la llanura,\ny en la naturaleza me disuelvo.\n\nSe acaba la belleza y la hermosura,\nquedando solo el nombre en una piedra,\ncubierta de musgo y de espesura.\n\nDonde el recuerdo lento se enhedra.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

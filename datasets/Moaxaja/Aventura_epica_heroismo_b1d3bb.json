@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Papel viejo,\ndel consejo.\n\nMarca ruta,\nque se disfruta,\ny ejecuta,\nel pellejo.\nPapel viejo,\ndel consejo.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

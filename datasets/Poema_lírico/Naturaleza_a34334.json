@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La lluvia es el llanto\nque me lava la piel.\nEs el dulce encanto\ncon sabor a hiel.\n\nMe da la tristeza\ny también la paz,\nla única belleza\nque me es capaz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

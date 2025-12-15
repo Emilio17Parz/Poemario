@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se miró en el espejo buscando a la que fue,\nY solo halló una sombra, sin fe y sin ley.\nEl cristal le devolvía un rostro de ceniza,\nUna estatua de sal que ya no tiene prisa.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

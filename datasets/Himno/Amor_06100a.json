@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¡Salve, reina de gracia y hermosura,\nespejo de la celestial altura!\nTu rostro brilla más que la mañana,\ny tu bondad es la virtud humana.\n\nTe alzan los himnos de mi pecho ardiente,\ncorona de laurel para tu frente.\n¡Bendita seas entre las mujeres,\ncausa primera de mis mil placeres!",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "amada"
+  }
+}

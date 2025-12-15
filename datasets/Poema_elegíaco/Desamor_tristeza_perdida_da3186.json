@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El negro es mi camisa, el dolor es mi pan,\nla vida sin tu luz es un amargo afán.\nEl luto es la prueba de un amor que murió,\nla sombra constante de un triste 'no'.\n\nNo hay flores ni rezo, solo el frío y la sal,\nel signo constante de un dolor vital.\nMi corazón es la tumba donde el amor descansa,\nla cruel agonía de la única remansa.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "luto"
+  }
+}

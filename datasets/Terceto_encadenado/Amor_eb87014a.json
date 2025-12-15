@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me quema el pecho esta voraz pasión,\nun fuego que no apaga el agua fría,\ny nubla mis sentidos y razón.\n\nEspero con angustia el nuevo día,\npara ver si tu luz calma mi fuego,\ny vuelve a mi existir la alegría.\n\nPues sin tu amor, a la locura llego.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

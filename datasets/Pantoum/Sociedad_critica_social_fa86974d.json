@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La ciudad gris,\nnos atrapa,\nen este país,\nsin mapa.\n\nNos atrapa,\nel cemento,\nsin mapa,\ny el viento.\n\nEl cemento,\nla ciudad gris,\ny el viento,\nen este país.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

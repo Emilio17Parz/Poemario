@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La piel se ha arrugado, el tacto se fue ya sin piedad y cruel,\nla vida sin la calma, con sabor amargo a hiel.\nLa carne es el polvo que el tiempo me dio sin razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el cuerpo que no pudo durar jamás sin voz ni luz ya sin fe,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "piel"
+  }
+}

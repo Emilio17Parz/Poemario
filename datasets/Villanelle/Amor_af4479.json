@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cada mañana te vuelvo a elegir,\ncomo si fuera la primera vez,\nporque a tu lado quiero vivir.\n\nNo me imagino el porvenir,\nsin tu mirada y tu calidez,\ncada mañana te vuelvo a elegir.\n\nEres la fuerza para seguir,\ny vencer cualquier timidez,\nporque a tu lado quiero vivir.\n\nTodo lo puedo conseguir,\nsi tengo tu amor y sencillez,\ncada mañana te vuelvo a elegir.\n\nNada me puede destruir,\nsi tú me das tu gran fluidez,\nporque a tu lado quiero vivir.\n\nEs el destino que quiero escribir,\ncon tinta de amor y de honradez,\ncada mañana te vuelvo a elegir,\nporque a tu lado quiero vivir.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "día"
+  }
+}

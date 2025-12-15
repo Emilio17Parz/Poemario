@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge el cañón en la cruel batalla,\ntiembla la tierra bajo los corceles,\ny entre estandartes y rojos laureles\nel grito humano de dolor no calla.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

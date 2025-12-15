@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dudar es signo de inteligencia,\nno aceptes dogmas sin cuestionar;\naprende a investigar y a pensar,\ncon tu propia y libre conciencia.\nLa duda te lleva a la verdad,\ny te aleja de la necedad.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "duda"
+  }
+}

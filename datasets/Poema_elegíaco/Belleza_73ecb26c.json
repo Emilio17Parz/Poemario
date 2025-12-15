@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se ha desteñido el vivo color,\nque pintaba de gozo la existencia,\ntodo es gris, ceniza y decadencia,\nun paisaje de angustia y dolor.\nLamento el fin de la primavera,\ny la llegada de la sombra fiera.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "color"
+  }
+}

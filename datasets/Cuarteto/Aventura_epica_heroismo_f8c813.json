@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El escudo es firme, de puro metal,\nque para las flechas, que cubre la tez,\nla protección fuerte, el don sin igual,\nla fuerza que da la vejez.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Escudo"
+  }
+}

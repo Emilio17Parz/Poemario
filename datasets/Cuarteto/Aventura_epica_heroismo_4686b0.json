@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La compañía noble de los fieles leales,\nque luchan a su lado con gran valor,\nla unión que rompe los males,\nla fuerza que da el fulgor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Compañía"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suena el clarín de la guerra,\ny el polvo cubre el sol,\nse pierde el arrebol,\ny el grito al miedo aferra.\nTiembla la dura tierra,\nbajo el casco y el pie,\nno se sabe el porqué,\nde tanta sangre vertida,\nen la lucha fratricida,\ndonde muere la fe.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

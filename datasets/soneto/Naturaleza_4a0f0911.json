@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se tiñe de ocre y oro la arboleda,\ny cae la hoja muerta con tristeza,\nperdiendo su verdor y su belleza,\ndanzando en el aire una vereda.\n\nEl viento sopla y el calor se queda\nguardado en el recuerdo con pereza,\ny avanza la estación con su franqueza,\ntejiendo del ocaso fina seda.\n\nMelancolía dulce del paisaje,\npreludio del descanso necesario,\nque invita a preparar el equipaje.\n\nEl otoño es un sabio boticario,\nque duerme a la natura en su viaje,\nsiguiendo del eterno calendario.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

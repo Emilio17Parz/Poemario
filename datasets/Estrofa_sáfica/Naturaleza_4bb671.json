@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla invisible moviendo las ramas,\nviajero eterno que no tiene fin,\nsusurra cuentos en nuestro jardín,\naire ligero.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "viento"
+  }
+}

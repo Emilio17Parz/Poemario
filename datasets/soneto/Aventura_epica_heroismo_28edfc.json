@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Desterrado de su propia tierra,\nvaga el príncipe como mendigo,\nsin techo, sin nombre y sin abrigo,\npreparando su futura guerra.\n\nLa injusticia en su pecho encierra,\ny el recuerdo de su enemigo,\njurando que pondrá castigo\na quien la traición aferra.\n\nEl camino es su escuela dura,\ndonde aprende a ser rey de verdad,\nentre la gente y la natura.\n\nRecuperará su ciudad,\ncon justicia y con mesura,\ny traerá la libertad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "principe"
+  }
+}

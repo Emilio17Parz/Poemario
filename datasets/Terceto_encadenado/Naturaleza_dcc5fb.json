@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Renace la vida en cada semilla,\nla flor se abre al sol con emoción,\ny todo el campo verde maravilla.\n\nSe llena de color y de canción,\nel mundo que despierta del letargo,\nlatiendo con muy fuerte corazón.\n\nTras el invierno largo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

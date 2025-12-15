@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La gran montaña fiel\nalza su testa al cielo,\nmuda, antigua y fuerte.\nTestigo del paso del sol,\ny de la lluvia que cae.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol calienta,\ny nos alimenta.\nLuz de la vida,\njamás perdida,\nque se presenta.\n\nNadie lamenta,\nsu fuerza lenta.\nLlama encendida,\nel sol calienta.\n\nLa nube intenta,\nser violenta.\nPero es vencida,\ny desmedida,\nante la afrenta,\nel sol calienta.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Hojas secas,\ncaen al piso,\ncon permiso,\nde las pecas.\nLas muñecas,\ndel verano,\nse van de mano,\nen las ruecas.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El triste migrante,\ncamina sin un destino,\nen tierra ajena ya.\nBusca una vida mejor,\nlejos de su propia pena.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Migrante"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La flor no compite con la de al lado,\nflorece y nada más,\nsu brillo sagrado,\nno mira atrás.\nSé tú mismo en tu esplendor,\nsin envidia ni rencor.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Belleza"
+  }
+}

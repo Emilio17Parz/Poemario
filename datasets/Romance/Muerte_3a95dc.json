@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Duelo de espadas y honra\nal amanecer del día,\ndos hombres frente a la muerte\npor una vieja porfía.\nUno cayó sobre el pasto\ncon la mirada vacía,\ny el otro limpió su acero\ncon triste melancolía.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

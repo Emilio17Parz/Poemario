@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Desciende suavemente la musa,\ntocando al poeta con su vara,\ny ninguna palabra se rehúsa.\n\nSu inspiración es límpida y clara,\nfuente de los versos más hermosos,\nque el tiempo con su paso no separa.\n\nDejando los instantes gloriosos.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "musa"
+  }
+}

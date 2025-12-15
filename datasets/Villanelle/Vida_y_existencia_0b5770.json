@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Divino tesoro que se va,\ncomo el agua entre los dedos,\ny nunca más volverá.\n\nLa inocencia no estará,\nni los juegos ni los enredos,\ndivino tesoro que se va.\n\nEl tiempo nos cambiará,\nllenándonos de miedos,\ny nunca más volverá.\n\nLa piel se arrugará,\ncon sus secretos quedos,\ndivino tesoro que se va.\n\nPero el alma guardará,\nlos viejos viñedos,\ny nunca más volverá.\n\nLa memoria quedará,\nde aquellos denuedos,\ndivino tesoro que se va,\ny nunca más volverá.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

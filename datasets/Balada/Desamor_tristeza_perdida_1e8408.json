@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me pregunto siempre qué hice mal,\npor qué llegamos a este final,\nsi fue mi palabra o fue mi acción,\nla causa de nuestra separación.\nLa culpa me pesa como una losa,\ny hace mi vida muy dolorosa,\nquisiera volver el tiempo atrás,\ny no cometer el error jamás.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

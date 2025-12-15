@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hay un abismo en mitad de mi pecho,\ndesde el instante en que tú te marchaste,\ntodo el amor que un día juraste,\nha convertido mi vida en deshecho.\nSiento el vacío rondando mi lecho,\npor la traición con la que me pagaste.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

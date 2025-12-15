@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Donde hubo belleza,\nahora hay ruina fría,\nmuerta la lozanía,\nreina la tristeza.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ruina"
+  }
+}

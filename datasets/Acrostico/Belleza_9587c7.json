@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cielo azul y gris,\nOro y arrebol.\nLuz en el matiz,\nOcre como el sol.\nRojo de París.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "COLOR"
+  }
+}

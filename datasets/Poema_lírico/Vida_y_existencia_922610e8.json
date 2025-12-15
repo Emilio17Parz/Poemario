@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "¿Qué hilo invisible teje el despertar,\nel pulso rítmico, el asombro atroz?\nUn eco antiguo al viento va a llamar\nla frágil voz de lo que fuimos, voz.\n\nEn cada esquina, en cada cruce incierto,\nse despliega el vasto y sutil **laberinto**\nde días fugaces, del clamor despierto,\ndonde el alma errante busca su recinto.\n\nPasos que dudan, otros de fervor,\npersiguen sueños, rompen el silencio.\n¿Hay mapa oculto a este incierto esplendor,\no es en la pérdida donde más me evidencio?\n\nUn sol que nace, un ocaso que tiñe\nde oro y de sombra el sendero andariego.\nLa verdad esquiva, que el espíritu ciñe,\nes tan solo un instante, un fugaz juego.\n\nY así, entre suspiros, entre gozo y dolor,\nnos va revelando la existencia plena,\nque el propio andar es su más fiel fulgor,\ny la vida misma, su sagrada condena.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

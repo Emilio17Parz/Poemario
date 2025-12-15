@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Me retó el pastor vecino,\na lanzar la piedra lejos,\ny bajo los robles viejos,\nprobamos nuestro destino.\n\nVencí con tiro fino,\ny gané su respeto,\nen este paraje quieto,\njunto al camino.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "desafío"
+  }
+}

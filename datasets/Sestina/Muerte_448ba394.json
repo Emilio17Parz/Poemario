@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acaba el breve tiempo,\nque nos dieron para andar,\npor este mundo de dolor.\nLlega el momento mayor,\nde rendir cuentas y alma,\ny cerrar los ojos ya.\n\nLos ojos ya,\nfuera del tiempo,\ny en la calma.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

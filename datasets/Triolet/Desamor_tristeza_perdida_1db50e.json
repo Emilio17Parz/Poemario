@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El silencio me grita,\nque ya no volverás.\nLa pena me agita,\nel silencio me grita.\nMi fuerza debilita,\nporque no estás.\nEl silencio me grita,\nque ya no volverás.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

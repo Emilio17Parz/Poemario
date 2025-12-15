@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cayó el cordero en la grieta,\ndel barranco profundo,\ny yo me hundo,\ncon la soga prieta.\nNo hay meta,\nque me pare en el mundo,\nsi salvarlo fecundo,\nes mi única treta.\nBajé a la oscuridad,\ncon gran voluntad,\ny vencí la fatalidad.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "heroísmo"
+  }
+}

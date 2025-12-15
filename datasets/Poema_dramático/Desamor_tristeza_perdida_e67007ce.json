@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "ÉL: Ya no te quiero. Lo siento, es así.\nELLA: ¿Y todo el tiempo que yo te di?\nÉL: Se ha terminado, se apagó la llama.\nELLA: ¡Mientes! ¡Hay otra mujer en tu cama!\nÉL: No hagas esto más difícil, por favor.\nELLA: Te llevas mi vida y mi color.\nVete y no vuelvas, déjame en paz.\n(Se cierra la puerta con golpe tenaz)",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "frío"
+  }
+}

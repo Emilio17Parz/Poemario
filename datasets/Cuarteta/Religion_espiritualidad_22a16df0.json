@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Brilla siempre esa luz\nque ilumina la conciencia,\nel camino de la cruz\nnos enseña la paciencia.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "luz"
+  }
+}

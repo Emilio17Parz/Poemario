@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El recuerdo se queda (a),\nuna luz que se va ya (b),\nla vida que al fin no ceda (c),\nsin la fuerza que me da (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Recuerdo"
+  }
+}

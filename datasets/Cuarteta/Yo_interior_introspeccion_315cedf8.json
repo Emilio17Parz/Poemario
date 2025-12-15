@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi alma siempre siente\nlo que calla la razón,\ncomo una clara fuente\nque brota del corazón.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "siente"
+  }
+}

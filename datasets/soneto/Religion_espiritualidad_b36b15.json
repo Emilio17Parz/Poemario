@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La mancha que ensucia la veste,\nel error que pesa en la espalda,\nla acción que la ley no respalda,\ny nos vuelve seres de peste.\n\nCaemos en la red agreste,\npor una manzana esmeralda,\ny el alma su cuenta no salda,\naunque la conciencia proteste.\n\nSomos débiles y carnales,\ntendemos al vicio y al mal,\nolvidando los celestiales.\n\nMas existe el agua lustral,\nque limpia los negros causales,\ny nos devuelve al manantial.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pecado"
+  }
+}

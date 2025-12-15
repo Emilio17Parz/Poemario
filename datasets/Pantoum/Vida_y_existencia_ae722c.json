@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Del error nace la lección,\ncaer nos hace más fuertes.\nCambiar de rumbo y dirección,\nretar a todas las muertes.\n\nCaer nos hace más fuertes,\nlimpiar el polvo y seguir.\nRetar a todas las muertes,\ny nuevamente vivir.\n\nLimpiar el polvo y seguir,\ncambiar de rumbo y dirección.\nY nuevamente vivir,\ndel error nace la lección.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "error"
+  }
+}

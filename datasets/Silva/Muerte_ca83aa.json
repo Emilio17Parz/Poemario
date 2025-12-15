@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reloj para,\nsu tic tac,\nen el frac,\nde la cara.\nNadie ampara,\nal que muere,\nni prefiere,\nlo que encara.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

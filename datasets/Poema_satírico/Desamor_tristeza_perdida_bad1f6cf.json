@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Bebes para hallar el olvido,\nde aquel novio que se ha ido.\nPero con cada copa que tomas,\nle mandas mensajes y bromas.\nSi quieres olvidar al sujeto,\nsuelta el móvil y ten respeto.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

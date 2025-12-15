@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La culpa me pesa en el alma,\npor errores del ayer,\ny me roba toda la calma.\n\nNadie me salva ni ensalma,\ndel propio caer,\nla culpa me pesa en el alma.\n\nBusco la paz bajo la palma,\npara renacer,\ny me roba toda la calma.\n\nEs una herida que empalma,\ncon mi padecer,\nla culpa me pesa en el alma.\n\nMi conciencia se desalma,\nal reconocer,\ny me roba toda la calma.\n\nHasta que el perdón empalma,\ncon mi ser,\nla culpa me pesa en el alma,\ny me roba toda la calma.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

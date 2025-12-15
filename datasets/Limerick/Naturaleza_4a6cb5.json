@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol calentaba en la playa,\nquemando hasta la toalla.\nMe puse rojo,\ncomo un piojo,\ny ardí como una pantalla.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "sol"
+  }
+}

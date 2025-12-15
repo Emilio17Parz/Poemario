@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Luces que guían mi navegar incierto,\nojos que miran con celestial agrado,\nson el refugio y el puerto\ndel corazón que vivió cansado.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

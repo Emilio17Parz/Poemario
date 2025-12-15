@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sobre la losa de mármol\nhay un nombre y una fecha,\ny unas flores marchitadas\nque la lluvia desaprovecha.\nAquí descansa el poeta\ncon su pluma ya deshecha,\nesperando que la gloria\nle abra su puerta estrecha.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Profundo viaje al alma que se asoma\na sendas raras, luz que no se nombra,\ndesvela el hondo y viejo gran secreto\ndel ser profundo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

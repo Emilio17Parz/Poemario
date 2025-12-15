@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Silencio final, de vacío total,\nla voz que no vuelve, sin un solo eco.\nLa pena del alma, el golpe fatal,\nel alma que siente el hueco.\nLa paz es cruel, la verdad es dura,\nel alma sin una cura.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

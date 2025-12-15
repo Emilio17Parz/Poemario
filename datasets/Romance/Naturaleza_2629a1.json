@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La Arena me cubre entera,\nde soledad y de mal,\ny mi alma es una hoguera,\nsin un golpe fatal.\n\nTe fuiste sin consuelo,\nsin una sola razón,\ny ahora lloro sin recelo,\npor tu cruel traición.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Campo florido,\nbien parecido.\n\nVerde y azul,\ntras el tul,\nen el baúl,\nmetido.\nCampo florido,\nbien parecido.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

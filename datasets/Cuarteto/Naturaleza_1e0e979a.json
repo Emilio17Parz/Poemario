@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque se alza, verde y sereno,\nbajo el azul de un cielo pleno.\nLas hojas danzan, con dulce lamento,\nmovidas por el alma del viento.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "viento"
+  }
+}

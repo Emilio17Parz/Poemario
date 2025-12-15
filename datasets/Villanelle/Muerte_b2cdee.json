@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nos sigue la sombra fiel,\ndesde el nacer al morir,\namarga como la hiel.\n\nEn el riel,\ndel existir,\nnos sigue la sombra fiel.\n\nEs el papel,\ndel sufrir,\namarga como la hiel.\n\nComo miel,\nsin el reír,\nnos sigue la sombra fiel.\n\nEn la piel,\ndel sentir,\namarga como la hiel.\n\nEs cruel,\nel partir,\nnos sigue la sombra fiel,\namarga como la hiel.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

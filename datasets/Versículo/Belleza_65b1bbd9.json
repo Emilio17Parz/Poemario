@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La luz de los ojos alegra el corazón, y la buena nueva conforta los huesos; lámpara del cuerpo es el ojo.\nSi tu ojo es bueno, todo tu cuerpo estará lleno de luz; pero si tu ojo es maligno, todo tu cuerpo estará en tinieblas.\nEnvía tu luz y tu verdad; estas me guiarán; me conducirán a tu santo monte, y a tus moradas.\nPorque contigo está el manantial de la vida; en tu luz veremos la luz; extiende tu misericordia a los que te conocen.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "luz"
+  }
+}

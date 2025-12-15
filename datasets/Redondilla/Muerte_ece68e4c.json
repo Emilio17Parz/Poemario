@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El alma, cuando se desprende,\nDeja un hueco y gran pesar,\nY en la quietud del lugar,\nUn hondo silencio se extiende.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "A M O R\n    que abraza\n   y une dos\n  almas en un\n  canto de luz\n  eterna. Tu\n  mirada, mi\n  suspiro, un\n  latido sin\n  fin. Mi ser\n  se rinde al\n   fuego de\n    tu pa-\n     sión.\n     Tu esencia\n      es el\n       aire\n        que\n         respiro.\n         En mi\n          alma\n           te\n            llevo,\n             vida\n              mía,\n               siempre.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "alma"
+  }
+}

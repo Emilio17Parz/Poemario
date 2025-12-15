@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu nombre es un mantra\nque repito sin darme cuenta.\nLo escribo en el vaho del espejo,\nlo busco en las páginas de los libros.\nEs la palabra clave\nque desbloquea mi ternura.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

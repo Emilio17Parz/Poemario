@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu abrazo me da protección,\nMe siento seguro aquí,\nEs mi mayor bendición.\nTu abrazo me da protección,\nMe llena de devoción,\nCerca, muy cerca de ti.\nTu abrazo me da protección,\nMe siento seguro aquí.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "seguro"
+  }
+}

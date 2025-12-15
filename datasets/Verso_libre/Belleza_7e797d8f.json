@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte es la forma de detener el tiempo.\nUn pincel, una pluma, un cincel,\nintentando capturar lo inefable.\nEs el espejo donde el alma se mira,\nla belleza congelada\nque sobrevive a la muerte del artista\npara hablar con el futuro.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El ser olvidado bajo la tierra que es dura (A),\nsu nombre se borra sin hermosura (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Olvidado"
+  }
+}

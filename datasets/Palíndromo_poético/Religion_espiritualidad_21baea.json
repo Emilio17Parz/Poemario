@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ver a\nDios quiero\nen todo\nDios quiero\nver a",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "ver"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bajo este roble añejo, de corteza ruda,\ndonde el arroyo canta con murmullo lento,\nmi espíritu reposa, sin afán ni duda,\nmece el aire las hojas en dulce contento.\n\nLas flores del brezal, de tímido color,\nabren sus corolas al sol que las besa,\ny el céfiro, travieso, con leve rumor,\ndespierta los aromas que la pradera atesora.\n\nEl rebaño, sin prisas, en la hierba se tiende,\nsuena el cencerro suave, un eco en la paz;\nel grillo en su guarida su canción enciende,\ny el mirlo, desde el pino, su melodía traza.\n\n¡Oh, dichosa existencia lejos de la ciudad!\nAquí, el tiempo se rige por el sol y la brisa,\nno hay sitio para el oro ni la vanidad,\nsolo la calma que el alma gentilmente divisa.\n\nCuando el astro rey se oculta tras el monte,\ntiñendo de carmín el vasto horizonte,\ny el último jilguero silencia su fortuna,\nemerge, majestuosa y serena, la **luna**.\n\nElla derrama su luz de plata sobre el valle,\ndesdibujando formas en la espesa arboleda,\ny el búho solitario, sin prisa ni talle,\nvela el sueño del mundo, la tierra queda.\n\nAsí la naturaleza, con ciclo inmutable,\nnos ofrece el consuelo, el más puro regalo;\nen su regazo hallamos el bien inestimable,\nun edén sin artificios, sin sombra de mal.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luna"
+  }
+}

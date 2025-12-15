@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Soy un mapa de cicatrices.\nCada marca cuenta una historia,\nuna caída, un error, un amor.\nNo quiero una piel lisa,\nquiero una piel vivida,\nescrita con la tinta de la experiencia,\nque demuestre que estuve aquí\ny que sobreviví a la aventura.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "cicatriz"
+  }
+}

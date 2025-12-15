@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Rompió las cadenas el hombre\npara ser dueño de sí,\nbuscando la libertad\ndesde que el mundo es así.\nPero es un bien muy costoso\nque exige luchar aquí,\ncontra tiranos y miedos\nque no nos dejan vivir.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

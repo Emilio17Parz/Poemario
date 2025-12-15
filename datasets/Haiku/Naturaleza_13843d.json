@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la hoja\ndanzando con el viento\nmuerte dorada.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "hoja"
+  }
+}

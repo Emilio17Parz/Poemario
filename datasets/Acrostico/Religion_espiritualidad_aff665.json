@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Repites palabras,\nElevas la mente.\nZonas que tú labras,\nAmor tan ferviente.\nRompes las macabras.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "REZAR"
+  }
+}

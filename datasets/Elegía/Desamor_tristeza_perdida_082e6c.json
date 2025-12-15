@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se fue el color del mundo pintado,\ntodo es ceniza, plomo y carbón,\nya no hay azul, ni rojo, ni limón,\nsolo un matiz triste y apagado.\n\nEl cielo llora siempre nublado,\nsobre mi cabeza y mi corazón,\nborrando el brillo y la emoción,\ndejando el ánimo desolado.\n\nMundo de gris, pintura de pena,\nque a la tristeza eterna condena.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "gris"
+  }
+}

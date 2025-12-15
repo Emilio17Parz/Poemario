@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Voz que habla,\ny dirige,\ny corrige,\nla tabla.\nNadie entabla,\nrazón,\nni pasión,\nque habla.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

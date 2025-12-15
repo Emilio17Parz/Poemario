@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Vuela el alma,\ncon calma,\nhacia el cielo,\nsin duelo,\nni palma.\n\nNadie la empalma,\nvuela el alma.\n\nQuien la ensalma,\ny desalma,\nsu anhelo,\ny su vuelo,\nse salma.\nVuela el alma.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "alma"
+  }
+}

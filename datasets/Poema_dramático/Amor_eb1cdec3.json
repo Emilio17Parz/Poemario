@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ÉL: He vuelto, María, de rodillas vengo.\nMARÍA: Ya no hay lugar para lo que no tengo.\nÉL: Fue un error, un delirio de una noche.\nMARÍA: Y rompiste el cristal sin un reproche.\nÉL: ¿No queda ni un rescoldo de aquel fuego?\nMARÍA: Levántate, hombre, y deja el ruego.\nEl perdón te lo doy, mas no mi lecho.\nLo nuestro está muerto y deshecho.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

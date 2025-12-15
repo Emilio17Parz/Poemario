@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se levanta imponente a la altura,\nel monte de piedra y granito,\nmostrando su gran estructura,\nbajo el cielo de azul infinito.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "altura"
+  }
+}

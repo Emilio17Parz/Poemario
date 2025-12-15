@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos,\nhistorias de gigantes\ny de magia.\nEl mito sigue vivo\nen nuestra imaginación.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

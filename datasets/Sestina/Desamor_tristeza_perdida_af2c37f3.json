@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lucho en vano contra el olvido,\nque quiere borrar tu facción,\ny dejarme sin tu memoria.\nSe termina la triste historia,\ncon páginas blancas y solas,\ndonde ya no figura tu voz.\n\nNo figura tu voz,\nen el olvido,\nentre las olas.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

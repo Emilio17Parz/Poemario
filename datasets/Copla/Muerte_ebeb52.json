@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te traigo estas flores\nblancas y moradas,\npara que te adornen\nlas horas calladas.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "flores"
+  }
+}

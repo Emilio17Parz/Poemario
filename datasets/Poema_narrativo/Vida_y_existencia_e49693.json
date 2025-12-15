@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El hombre llegó a casa y nadie lo esperó,\nLa mesa era de tres, y él solo comió.\nEl silencio era un peso, una manta de frío,\nLa soledad es el castigo del vacío.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

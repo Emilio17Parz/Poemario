@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El sendero estrecho atroz (a),\nque el alma recorre sin fe (b),\nla vida sin una voz (c),\nel eterno y noble 'yo sé' (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Sendero"
+  }
+}

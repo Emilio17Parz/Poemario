@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Risa que rompe el silencio,\ncomo campana de plata,\nque el dolor desbarata,\ny yo, humilde, presencio.\nEres la música pura,\nque cura mi desventura.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "risa"
+  }
+}

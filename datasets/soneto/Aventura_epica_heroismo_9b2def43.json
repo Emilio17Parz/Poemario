@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un rumbo incierto llama al corazón valiente,\nCruzando mares, montes de áspera roca,\nEl hálito del riesgo, fuerte, se presiente,\nDonde el destino oculta su faz y evoca.\n\nArmado va el espíritu, sin temor alguno,\nAnte bestias feroces, dragones del abismo,\nRompe cadenas, desafía a cualquier infortunio,\nForjando un sendero audaz, con heroico magnetismo.\n\nLa espada canta historias de lucha y de honor,\nSalvando reinos, pueblos de la oscura mano,\nSu fuerza es la virtud, su escudo el fulgor,\nUn faro que disipa el yugo del tirano.\n\nY en cada gesta, al fin, la victoria es su sino,\nBuscando la **gloria** eterna en su divino camino.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

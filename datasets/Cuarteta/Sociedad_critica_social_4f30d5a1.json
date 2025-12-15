@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pedimos la justicia\npara el pobre y el obrero,\nque se acabe la codicia\ndel avaro banquero.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

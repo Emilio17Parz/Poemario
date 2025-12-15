@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi vida es un laberinto\nsin salida ni luz.\nEl suave quinto\ncon una cruz.\n\nMe pierdo en la sombra,\nme busco sin paz,\nla vida que me nombra\nsin ser capaz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

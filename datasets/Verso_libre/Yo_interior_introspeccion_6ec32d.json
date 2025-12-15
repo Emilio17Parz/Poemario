@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hay algo que brilla dentro.\nNo sé qué es,\npero calienta.\nUna chispa que no se apaga\nni con el viento más frío.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "luz"
+  }
+}

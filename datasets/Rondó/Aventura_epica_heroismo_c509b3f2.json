@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sigo el mapa,\nque destapa,\nel camino,\ny el destino,\nque atrapa.\n\nCon la capa,\ny la etapa,\nel vino,\nSigo el mapa.\n\nNadie escapa,\nni solapa,\nel pino,\ny el lino,\ndel Papa,\nSigo el mapa.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soy solo una sombra que vaga sin rumbo fiel (A),\nbuscando la luz que se fue de aquí (A),\nla vida es un trago de amarga hiel (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Sombra"
+  }
+}

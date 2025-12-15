@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Silencio tras la cruel batalla,\ncampos sembrados de muerte y horror,\nya no hay victoria, solo dolor,\ny un grito ahogado que no se calla.\nLamento la locura de la guerra,\nque siembra de cadáveres la tierra.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

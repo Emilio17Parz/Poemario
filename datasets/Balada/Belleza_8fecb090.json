@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ella baja de la altura,\ncon su túnica de viento,\nregalando hermosura,\ny el más noble sentimiento.\nRompe mi atadura,\ncuando su voz usa,\ny me da la partitura,\nmi inspiradora musa.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "musa"
+  }
+}

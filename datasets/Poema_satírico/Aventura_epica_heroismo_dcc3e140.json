@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hiciste un largo viaje,\ncon carísimo equipaje.\nFuiste a la India mística,\nen ruta turística.\nVolviste igual de tonto,\npero más pobre, te cuento.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

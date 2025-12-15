@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dicen que soy libre,\npero estoy atado,\na este calibre.\n\nDe mundo creado,\npor el interés,\ny el mercado.\n\nQue no ves.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

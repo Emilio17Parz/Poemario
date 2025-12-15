@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No es el aplauso vano lo que busca,\nquien da su vida entera,\npor salvar a su pueblo del tirano.\nAunque la senda se vuelva tosca,\nsigue su carrera,\ntendiendo al oprimido su mano.\nNo es esfuerzo vano,\npues alcanzará la eterna gloria,\nen la memoria.\n\nCanción, corona al fuerte,\nque vence con su nombre a la muerte.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

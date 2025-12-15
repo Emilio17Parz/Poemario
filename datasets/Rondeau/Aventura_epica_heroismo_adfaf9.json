@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dragón,\nen su rincón.\nEcha fuego,\ncomo un juego,\ncampeón.\n\nEl león,\ny el peón.\nEl ego,\nel dragón.\n\nLa prisión,\nde la unión.\nEl ciego,\nque niego,\nmirón,\nel dragón.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

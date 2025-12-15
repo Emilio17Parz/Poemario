@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se hace paso al andar el largo camino,\ny cada cual se labra su propio camino.\n\nA veces hay espinas, a veces flores,\npero hay que recorrer todo el camino.\n\nNo mires hacia atrás con melancolía,\nmira hacia el horizonte de tu camino.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "camino"
+  }
+}

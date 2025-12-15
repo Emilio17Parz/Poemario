@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cuarto vacío, eco del silencio,\nla soledad se sienta en mi sillón,\nrompe la paz de mi corazón,\nnoche sin fin.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

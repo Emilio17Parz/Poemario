@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hilos nos mueven,\n¿somos libres o no?\nJuego de azar.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "azar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un murmullo de antaño, un rastro de sol,\nDespierta en el pecho un viejo candor.\nMás allá de la bruma, del último farol,\nEl alma ansía su fuego, su arduo fragor.\nHay cumbres que llaman, abismos sin fin,\nY el pulso se acelera, previendo el motín.\n\nLa senda se bifurca, incierta y hostil,\nMas cada pisada es un acto de fe.\nEl viento que ruge, el eco sutil,\nConspiran con sombras, \"¿Quién va?\", \"¿Quién es?\".\nEl miedo es un velo que a veces se adhiere,\nPero el sueño de gloria jamás se muere.\n\nNo es oro ni fama lo que impulsa al mortal,\nSino el eco lejano de un deber sin par.\nProteger lo que ama, romper el cristal\nDe la falsa quietud, el letargo al andar.\nCada herida, una marca, un laurel ganado,\nEn el mapa invisible de lo anhelado.\n\nY en la diestra firme, brillando con luz,\nLa leal **espada**, alma de acero y voz.\nReflejo del coraje que en el ser se infundió,\nContra la tiranía que el mundo oprimió.\nSu filo de plata corta la mentira,\nCantando la gesta que el tiempo no olvida.\n\nAsí el héroe avanza, sin vuelta ni espera,\nForjando su historia en la tempestad.\nNo busca la palma, sino la quimera\nDe un mundo más justo, de la libertad.\nY al fin de la ruta, su espíritu clama,\nQue la epopeya es la llama que el alma derrama.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

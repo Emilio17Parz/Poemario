@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Luz en el túnel\nsemilla que germina\ntras el dolor.\nMañana saldrá el sol\ny todo irá mejor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

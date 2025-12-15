@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En el silencio del monte,\nhablo con mi adentro,\nbuscando el centro,\ndel horizonte.\n\nQue no desmonte,\nel ruido vano,\nlo que el humano,\nafronte.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "reflexión"
+  }
+}

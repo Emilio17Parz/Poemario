@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Duele ver cómo te has vuelto un extraño, alguien que conoce mis secretos pero ya no me mira a los ojos.\nSomos dos desconocidos con la memoria llena de besos que ahora parecen pertenecer a otras personas.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "extraño"
+  }
+}

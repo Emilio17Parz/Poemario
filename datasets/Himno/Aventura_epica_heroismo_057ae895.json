@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Honor eterno a los que cayeron,\ndefendiendo el bien y la verdad,\nsu sacrificio da libertad,\na los que vivos permanecieron.\n\nNo están muertos, viven en la gloria,\nson las estrellas del pabellón,\nguardados en el corazón,\nde la agradecida memoria.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llega la primavera,\ncon sus colores,\ny nos trae a todos,\nlos amores.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "colores"
+  }
+}

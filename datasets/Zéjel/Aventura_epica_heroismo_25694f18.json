@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "En la senda, el valor nos llama,\nLa leyenda de héroe se inflama.\n\nPor montañas de cumbre nevada,\nCon la frente al destino encarada,\nLa justicia en el alma grabada,\nY la fe que jamás se derrama.\n\nEl dragón en su oscura guarida,\nCon su aliento sembrando la herida,\nMas mi diestra, valiente, atrevida,\nEmpuñando la fina **espada** que clama.\n\nEntre ritos de magia ancestral,\nUn camino que es siempre triunfal,\nFrente a todo poder de lo Mal,\nNuestra gloria en la historia se trama.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "espada"
+  }
+}

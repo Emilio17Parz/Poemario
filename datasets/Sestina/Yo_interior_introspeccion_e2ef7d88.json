@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vivo en mi sueño,\nmundo interior,\ndonde soy el rey.\nSigo mi ley,\nlejos de la gente,\ny creo mi universo.\n\nMi universo,\nes un sueño,\npresente.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

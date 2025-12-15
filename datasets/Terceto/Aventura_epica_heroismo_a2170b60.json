@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vale más que la vida el honor,\npara el hombre de espíritu valiente,\nque no cede ante el miedo y el dolor.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "honor"
+  }
+}

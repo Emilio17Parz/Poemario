@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Rompamos las viejas cadenas,\npara olvidar las penas,\ny limpiar las venas.\nRompamos las viejas cadenas,\nlas noches serenas,\ny lunas llenas.\nRompamos las viejas cadenas,\npara olvidar las penas.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Acuérdate de que eres polvo, y al polvo volverás; porque el polvo vuelva a la tierra, como era, y el espíritu vuelva a Dios que lo dio.\nTodos van a un mismo lugar; todos son del polvo, y todos vuelven al mismo polvo, tanto el hombre como la bestia.\nDespierta y canta, morador del polvo; porque tu rocío es cual rocío de hortalizas, y la tierra dará sus muertos.\nHe aquí, el hombre es como la hierba; sus días florecen como la flor del campo, que pasó el viento por ella, y pereció.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

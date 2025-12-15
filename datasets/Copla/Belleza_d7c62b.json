@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El vuelo del alma sin fin (a),\nque rompe toda la jaula (b),\nel eterno y puro jazmín (c),\nla vida que no anula (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

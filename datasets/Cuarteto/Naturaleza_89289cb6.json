@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El agua del cielo desciende,\nmojando el campo sediento,\ny calma con fresco aliento\nal suelo que vida pretende.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "agua"
+  }
+}

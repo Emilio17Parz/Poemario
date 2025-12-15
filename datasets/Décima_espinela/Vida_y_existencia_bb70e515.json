@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nadie se baña dos veces\nen el río de la vida,\npues el agua va perdida\nentre rocas y entre peces.\nAunque tú llores y reces\ntodo cambia y se transforma,\nes la natural norma\nde este mundo pasajero,\ndonde nada es duradero\nni mantiene su forma.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "río"
+  }
+}

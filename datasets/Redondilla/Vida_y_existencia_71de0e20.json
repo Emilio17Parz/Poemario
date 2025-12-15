@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Quien busca la verdad\nencuentra la luz pura,\ny la vida se asegura\ncon mucha claridad.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

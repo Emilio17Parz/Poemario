@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El héroe parte, un grito en la quietud,\nDispuesto está su sino a desafiar,\nLa gloria aguarda al fin de la virtud.\n\nSu corazón no teme la inquietud,\nValiente va, buscando algún lugar,\nEl héroe parte, un grito en la quietud.\n\nFrente al dragón, la ira y la lentitud,\nLa espada alzada, presto a atacar,\nLa gloria aguarda al fin de la virtud.\n\nEn cada golpe, muestra su magnitud,\nPor los que esperan, no puede claudicar,\nEl héroe parte, un grito en la quietud.\n\nDe frente a frente, en fiera multitud,\nLa cruenta **batalla** va a librar,\nLa gloria aguarda al fin de la virtud.\n\nCon sangre y sudor, en su plenitud,\nYa ve el ocaso o el amanecer llegar,\nEl héroe parte, un grito en la quietud,\nLa gloria aguarda al fin de la virtud.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

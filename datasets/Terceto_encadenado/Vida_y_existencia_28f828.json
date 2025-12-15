@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El ayer es humo y ceniza,\nel mañana es incertidumbre,\nque la vida nos garantiza.\n\nHoy es la única cumbre,\ndonde podemos actuar,\ny encender nuestra lumbre.\n\nPara brillar.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "presente"
+  }
+}

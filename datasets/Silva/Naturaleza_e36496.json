@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Blanco hielo,\nque cubre todo,\nde algún modo,\nes consuelo.\nBajo el cielo,\nduerme la tierra,\nsin guerra,\nni desvelo.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

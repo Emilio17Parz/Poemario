@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dama de la idea,\nque inspira al poeta en su desvelo;\nbaja del cielo,\ny se pasea.\nSin ella el arte queda mudo y yerto,\nen el desierto.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "musa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele ver tanta pobreza,\nen las calles de la urbe,\nsin que nadie se perturbe.\n\nAnte tanta tristeza,\nde gente que no come,\ny pierde la cabeza.\n\nSin que un nombre tome.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

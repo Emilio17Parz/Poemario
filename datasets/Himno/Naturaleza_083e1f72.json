@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gloria al bosque, catedral viviente,\ncolumnas de roble que tocan el sol,\ndonde se esconde el divino crisol,\nde la vida pura y la paz latente.\nSantuario verde, pulmón de la tierra,\nque la belleza en su seno encierra.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Por qué estamos aquí? La pregunta resuena en las cavernas de la historia sin encontrar una respuesta definitiva.\nQuizás el sentido no sea un hallazgo, sino una creación diaria, un acto de amor que justifica el hecho de respirar.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

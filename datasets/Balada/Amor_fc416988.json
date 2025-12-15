@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No me digas adiós todavía,\nque la noche es joven para amar,\ndéjame ser tuyo vida mía,\nantes de tenernos que marchar.\nQue la balada del despertar\nno nos venga nunca a separar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

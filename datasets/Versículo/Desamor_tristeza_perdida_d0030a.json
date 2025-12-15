@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No hubo un gran estallido ni música dramática, solo un final silencioso y triste como una vela que se apaga.\nSimplemente dejamos de ser, nos desvanecimos el uno para el otro hasta convertirnos en nada.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "final"
+  }
+}

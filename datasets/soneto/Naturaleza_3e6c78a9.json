@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despliega su manto de terciopelo\nla reina de la sombra y del descanso,\ny el mundo se convierte en lago manso\nbajo la luz de plata de su cielo.\n\nLas estrellas inician su desvelo,\npintando el firmamento extenso y ancho,\ny el búho vigilante en su remanso\nobserva con sigilo desde el suelo.\n\nLa noche trae sueños y misterios,\nesconde las heridas de la tarde\ny calma los humanos vituperios.\n\nEs el momento donde el alma arde\nen búsqueda de propios hemisferios,\nsin que del sol la luz nos acobarde.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "noche"
+  }
+}

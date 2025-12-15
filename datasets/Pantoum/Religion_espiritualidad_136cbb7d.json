@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Espero el cielo,\ntras la partida,\nes mi consuelo,\nen esta vida.\n\nTras la partida,\nveré la luz,\nen esta vida,\nllevo la cruz.\n\nVeré la luz,\nespero el cielo,\nllevo la cruz,\nes mi consuelo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

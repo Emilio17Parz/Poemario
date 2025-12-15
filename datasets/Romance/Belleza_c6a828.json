@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El Sonido no tiene un eco,\nde tristeza y de maldad,\ny mi alma ya sin checo,\nsin tu dulce claridad.\n\nTe fuiste sin consuelo,\nsin una sola razón,\ny ahora lloro sin recelo,\npor tu cruel traición.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Sonido"
+  }
+}

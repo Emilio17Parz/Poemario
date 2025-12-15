@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El que manda, manda mucho,\npero manda mal a veces,\ny nosotros aguantamos\ncomiendo solo las heces.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "mando"
+  }
+}

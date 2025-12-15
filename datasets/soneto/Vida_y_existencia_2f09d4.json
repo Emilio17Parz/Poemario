@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Son el motor que empuja el aliento,\nlas visiones que el alma proyecta,\nla brújula que siempre conecta,\ncon el más puro y noble sentimiento.\n\nSin sueños somos polvo en el viento,\nuna nave que va incorrecta,\nuna existencia gris e imperfecta,\nsumida en el aburrimiento.\n\nSoñar es construir el mañana,\nes atreverse a ver lo invisible,\ny abrir cada puerta y ventana.\n\nVolver posible lo imposible,\ncon una fe constante y humana,\nhaciendo la meta accesible.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

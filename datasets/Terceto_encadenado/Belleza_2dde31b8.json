@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No hay belleza comparable,\na la mujer que sonríe,\nque mi pena desvíe.\n\nCon gesto inefable,\ny con su dulce mirada,\nde un modo amable.\n\nMe deje el alma encantada.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "hermosura"
+  }
+}

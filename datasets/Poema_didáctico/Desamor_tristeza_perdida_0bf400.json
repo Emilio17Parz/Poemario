@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vemos al perdido con luz dorada,\nborrando sus sombras y error,\nuna visión sesgada,\nque aumenta el dolor.\nMira con realismo y verdad,\ny verás su humanidad.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Idealización"
+  }
+}

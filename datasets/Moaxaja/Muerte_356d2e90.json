@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos ceniza,\nque el viento pisa.\n\nPolvo seremos,\nno volveremos,\ny nos iremos,\ncon prisa.\n\nSomos ceniza,\nque el viento pisa.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

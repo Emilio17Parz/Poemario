@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Armonía,\ntotal.\nAlegría,\narmonía.\nVital,\nel día.\nArmonía,\ntotal.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

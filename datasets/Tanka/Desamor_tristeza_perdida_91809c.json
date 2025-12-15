@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Frío en el alma\nse congeló el cariño\ninvierno cruel.\nYa no queda calor\nen este corazón.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

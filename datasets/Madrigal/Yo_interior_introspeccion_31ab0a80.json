@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro el cristal del espejo\ny encuentro allí el sincero consejo,\nviendo mi rostro real\nsin el antifaz social.\nNo me siento viejo,\nsino perplejo,\nde este viaje existencial.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

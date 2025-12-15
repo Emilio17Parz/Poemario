@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Preparo mi barco para partir,\nhacia un horizonte desconocido,\nlejos del puerto y del hogar,\nbuscando nuevas tierras y mar,\nsin saber si podré vivir,\no si quedaré en el olvido.\n\nNo temo caer en el olvido,\nsino el miedo a no partir,\ny dejar de intensamente vivir,\nlo que me ofrece lo desconocido,\ncruzando el ancho y bravo mar,\npara no volver al hogar.\n\nYa no me ata el viejo hogar,\nprefiero el riesgo y el olvido,\nque me regala la espuma del mar,\ncuando decido al fin partir,\nhacia el rumbo desconocido,\ndonde realmente quiero vivir.\n\nMi sueño es libre vivir,\nlejos de la seguridad del hogar,\nexplorando lo desconocido,\nantes de que llegue el olvido,\ny tenga que finalmente partir,\nhacia el fondo del oscuro mar.\n\nMe llama la voz del mar,\nenseñándome cómo vivir,\ny el momento justo de partir,\ndejando atrás el dulce hogar,\npara no ser presa del olvido,\nen este mundo desconocido.\n\nEs el viaje a lo desconocido,\nsobre las olas del mar,\nlo que me salva del olvido,\ny me da fuerzas para vivir,\nsin extrañar el calor del hogar,\nlisto siempre para partir.\n\nPartir al mar desconocido,\nvivir sin hogar,\nlejos del olvido.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

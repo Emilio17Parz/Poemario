@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Segunda muerte es el triste olvido,\nborra los nombres el triste olvido.\n\nNadie recuerda a quien ya partió,\ncubre la historia el triste olvido.\n\nPolvo en el viento somos al final,\ncuando nos gana el triste olvido.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El héroe no es el que no tiene miedo, sino el que lo vence y sigue adelante.\nCarga con el destino de su pueblo sobre los hombros, solitario y valiente.\nSu camino es el sacrificio, la renuncia a la comodidad, la entrega total.\nAl final, su nombre será cantado por los bardos y recordado en las piedras.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

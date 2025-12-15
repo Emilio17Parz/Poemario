@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piedra fría que guarda vida,\nespera el golpe del cincel,\npara mostrar la forma escondida,\nsuave como la propia piel.\nEterno blanco, dura pureza,\nmonumento a la firmeza.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Mármol"
+  }
+}

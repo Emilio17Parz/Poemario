@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Venimos de la estrella\ny volvemos a la tierra.\nSomos polvo organizado por un instante,\nuna estructura frágil de carbono y sueños.\nCuando el aliento se escapa,\nel polvo reclama lo suyo,\ny nos dispersamos en el viento,\nlibres al fin de la forma.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cofre repleto de monedas de oro,\njoyas antiguas de un rey perdido,\npremio del riesgo que el pirata busca\nen su nido.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

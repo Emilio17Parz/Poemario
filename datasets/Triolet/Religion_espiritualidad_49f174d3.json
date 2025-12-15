@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Me sostiene la fuerza de la fe,\naunque el final yo no ve',\nsiempre me mantengo en pie.\nMe sostiene la fuerza de la fe,\nporque en mi alma yo sé,\nque la luz encontraré.\nMe sostiene la fuerza de la fe,\naunque el final yo no ve'.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "fe"
+  }
+}

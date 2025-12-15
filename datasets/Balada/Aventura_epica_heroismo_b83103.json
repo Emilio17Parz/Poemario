@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se rompió el barco en el arrecife,\ny se acabó el feliz esquife,\nquedaron solos en el mar,\nsin esperanza de salvar.\nLuchan las olas con desespero,\nasiéndose a cualquier madero,\nrogando al cielo una señal,\npara escapar del triste final.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

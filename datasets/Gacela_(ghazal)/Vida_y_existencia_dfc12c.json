@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Doy mil vueltas en este laberinto,\nno hallo puerta en el gris laberinto.\n\nCada muro parece el final,\nde la trampa de este laberinto.\n\nEl hilo de Ariadna es la fe,\npara huir del fatal laberinto.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

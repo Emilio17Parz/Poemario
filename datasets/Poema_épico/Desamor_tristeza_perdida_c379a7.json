@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "He perdido batallas, he perdido tierras,\npero ninguna derrota es igual,\na ver cómo cierras y cómo entierras,\neste sentimiento fundamental.\nMe retiro del campo, vencido y roto,\ncargando tu imagen, cual devoto.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Derrota"
+  }
+}

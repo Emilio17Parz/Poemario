@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soy libre en mi pensamiento,\naunque el cuerpo esté atado,\nvuelo al lado,\ndel viento.\n\nSentimiento,\nque libera,\nla espera,\ndel momento.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

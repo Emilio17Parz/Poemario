@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El Amor no es un mero ardor de la piel o un parpadeo en la memoria frágil,\nsino la savia milenaria que recorre el árbol del tiempo, el núcleo inmóvil de lo que somos.\nEs el hallazgo de un eco largamente esperado, una resonancia que atraviesa la materia y la duda.\n\nSe manifiesta como un despertar, un reconocimiento profundo en la penumbra del alma,\nuna certeza que desdice al azar y a la soledad preexistente.\nEs la lengua que se atreve a nombrar lo innombrable, el puente tendido sobre abismos desconocidos.\n\n¿Cómo explicar la gravitación de dos universos que, sin previo aviso, convergen?\nLa delicada cartografía de tu mano trazando un nuevo mapa en la mía,\nla dulce invasión de tu aliento en el aire que respiro, que se vuelve mío y tuyo a la vez.\n\nQuizá los hilos invisibles se tejieron mucho antes, en la trama estelar o en el murmullo de un primer aliento.\nNo es un simple acto de voluntad, sino la ineludible llamada, la marca profunda,\nel sello imborrable que declara que nuestro encuentro era, desde siempre, el **destino** mismo.\n\nY así, en cada mirada, en cada silencio compartido, en la tierna entrega de un abrazo,\nel amor se revela como la única verdad que perdura,\nla única melodía que el universo no cesa de cantar, incansable, para nosotros.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "destino"
+  }
+}

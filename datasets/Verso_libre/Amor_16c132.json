@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dudo de todo:\nde la política, del clima, de mí mismo.\nPero no dudo de esto.\nEres la única verdad sólida\nen un universo líquido.\nMi punto fijo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "certeza"
+  }
+}

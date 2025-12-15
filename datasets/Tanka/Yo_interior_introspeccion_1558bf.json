@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El largo silencio\nes el espacio que nutre,\nel gran pensamiento.\nAhí nace la voz de la verdad,\nsimple y sin mentira ya.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

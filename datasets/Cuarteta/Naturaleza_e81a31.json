@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La flor pequeña en su color humilde,\ndesafía al viento y a la tempestad,\nes la belleza que en el campo rinde,\nhomenaje puro a la verdad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Envuélveme en tus brazos,\nrefugio contra el frío y la tormenta,\nestrecha nuestros lazos,\nque mi pasión por ti se retroalimenta.\nNo me sueltes jamás, vida mía,\nque en tu cercanía,\nencuentro la razón de mi existir,\ny el porvenir.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "lazos"
+  }
+}

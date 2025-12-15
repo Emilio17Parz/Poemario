@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El yo que grita fuerte,\nqueriendo ser el centro de la escena;\nuna pena,\nque divierte.\nCallar el ego es oír al corazón,\ncon razón.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ego"
+  }
+}

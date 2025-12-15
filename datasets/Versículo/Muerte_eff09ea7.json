@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El alma se desprende del tiempo y entra en la vasta eternidad.\nUn océano sin orillas donde el ayer y el mañana no existen.\nEs la luz perpetua, la existencia sin límites, el ser absoluto.\nFrente a la eternidad, nuestra vida es un parpadeo en la oscuridad.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

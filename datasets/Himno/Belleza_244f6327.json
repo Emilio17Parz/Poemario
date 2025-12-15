@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabra alada, verbo de oro,\nPoesía que el alma tocas,\nque con tus rimas nos provocas,\nllanto, risa y noble decoro.\n\nReina de las artes, soberana,\npuente entre el hombre y la emoción,\ntú eres la voz del corazón,\nque brota pura y temprana.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "palabra"
+  }
+}

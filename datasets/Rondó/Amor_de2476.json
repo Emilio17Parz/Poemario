@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En mi memoria estás,\ngrabada a fuego,\nno es un juego,\njamás te irás.\nSiempre volverás,\na mi sosiego.\nEn mi memoria.\n\nCada gesto tuyo,\nguardo con celo,\nes mi consuelo,\ny mi orgullo.\nOigo tu arrullo,\ndesde el suelo.\nEn mi memoria.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

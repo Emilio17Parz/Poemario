@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuando todo encaja bien,\nse produce la belleza,\nes la única certeza,\nque nos lleva al edén.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

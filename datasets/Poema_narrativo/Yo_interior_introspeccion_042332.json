@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Buscó en cien doctrinas el centro del ser,\nSin hallar la respuesta, sin poder ver.\nEl 'yo' no estaba afuera, ni en el duro cristal,\nEstaba en el vacío, el origen fatal.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "yo"
+  }
+}

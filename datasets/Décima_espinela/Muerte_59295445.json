@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte, oscuro portal,\nQue a todos igual convoca,\nSilencio que la boca\nSella en su juicio final.\nSu rito es ceremonial.\nLa vieja y sabia historia,\nQue al alma da la victoria,\nNo puede jamás borrar,\nNi siquiera doblegar,\nLa fuerza de la memoria.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

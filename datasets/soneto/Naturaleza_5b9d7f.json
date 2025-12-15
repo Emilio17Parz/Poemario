@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se rompe el velo de la negrura,\nuna línea de luz en el oriente,\ndespierta el mundo de repente\ny recupera su arquitectura.\n\nEl sol asciende con hermosura,\nregalando su oro a la gente,\nborrando la pesadilla hiriente\ny trayendo esperanza segura.\n\nCantan las aves su bienvenida,\nse abre la flor al calor primero,\ny todo celebra la vida.\n\nEs el milagro verdadero,\nla oportunidad repetida\nde empezar de nuevo el sendero.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "oriente"
+  }
+}

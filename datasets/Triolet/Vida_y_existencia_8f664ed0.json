@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, un soplo en la inmensidad,\nNos llama a seguir nuestro camino.\nCon misterios de pura verdad,\nLa vida, un soplo en la inmensidad.\nY un eterno buscar la bondad,\nDe un destino que vemos divino.\nLa vida, un soplo en la inmensidad,\nNos llama a seguir nuestro camino.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "camino"
+  }
+}

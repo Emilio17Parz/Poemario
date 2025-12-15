@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si acaso te ofendí con mi torpeza,\nte pido que perdones mi desliz,\ny borres de mi alma la tristeza.\n\nQuiero volver a verte muy feliz,\nsin la sombra del daño que causé,\ncurando con amor la cicatriz.\n\nQue en tu alma dejé.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

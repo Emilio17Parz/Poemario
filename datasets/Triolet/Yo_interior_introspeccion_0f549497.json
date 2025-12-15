@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco mi yo\nen el espejo,\nquién soy yo.\nBusco mi yo,\nnadie oyó,\nel reflejo.\nBusco mi yo\nen el espejo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "yo"
+  }
+}

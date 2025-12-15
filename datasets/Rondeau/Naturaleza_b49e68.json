@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La selva verde,\nque no se pierde.\nAnimales,\ny manantiales,\nque muerde.\n\nNadie recuerde,\nque concuerde.\nLos males,\nla selva verde.\n\nSe acuerde,\no se enuerde.\nSeñales,\nvitales,\nque la cuerda,\nla selva verde.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "selva"
+  }
+}

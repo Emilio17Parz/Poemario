@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río corre buscando el mar,\nsin detenerse a mirar atrás,\ncon el deseo de descansar.\n\nNada su curso puede cambiar,\nni las piedras que tú le pondrás,\nel río corre buscando el mar.\n\nSabe que tiene que terminar,\nsu largo viaje y nada más,\ncon el deseo de descansar.\n\nLleva la vida a cada lugar,\ndonde su agua fresca verás,\nel río corre buscando el mar.\n\nEs un ejemplo de caminar,\nsiguiendo el ritmo de su compás,\ncon el deseo de descansar.\n\nY cuando logre al fin llegar,\nse fundirá en la inmensidad,\nel río corre buscando el mar,\ncon el deseo de descansar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "río"
+  }
+}

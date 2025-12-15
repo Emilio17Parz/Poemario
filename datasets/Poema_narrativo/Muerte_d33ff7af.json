@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reunidos los hijos estaban,\nleyendo el papel final,\nbuscando el bien material,\nque tanto deseaban.\nEl viejo dejó escrito,\nque el oro era para el pobre,\nni una moneda de cobre,\npara su clan maldito.\nSalieron con las manos vacías,\nllenos de hipocresías.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "testamento"
+  }
+}

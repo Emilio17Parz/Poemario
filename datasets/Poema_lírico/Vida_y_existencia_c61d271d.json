@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Damos mil vueltas en el laberinto,\nperdiendo el rumbo y la dirección,\nen esta extraña y compleja prisión,\nguiados solo por nuestro instinto.\nEs un enigma confuso y distinto,\nque desafía a la imaginación.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor que enciendes mi ser,\nDulce llama que me guía,\nCada aurora de mi día,\nTe siento en mi corazón arder.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Navego en tus ojos\nvela al viento\nrumbo a la isla\nde tu corazón\nmi puerto seguro.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "barco"
+  }
+}

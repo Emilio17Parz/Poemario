@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Volvió la carta sin ser leída,\ncon el sello intacto y cerrado,\nmi sentimiento fue rechazado,\ncausándome una profunda herida.\n\nNo quiso saber de mi vida,\nni de la pena que me consume,\nni aspirar el triste perfume,\nde esta pasión incomprendida.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "carta"
+  }
+}

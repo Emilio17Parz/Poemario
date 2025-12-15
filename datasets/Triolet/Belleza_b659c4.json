@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pantalla grande,\nHistorias cuenta,\nQue se expande.\nPantalla grande,\nQue mande,\nY aumenta.\nPantalla grande,\nHistorias cuenta.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "pantalla"
+  }
+}

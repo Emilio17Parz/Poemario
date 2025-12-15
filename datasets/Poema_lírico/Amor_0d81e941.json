@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En el silencio de la tarde quieta,\ntu boca busca el roce de la mía,\ny en ese beso nace la poesía,\ncomo el perfume de la violeta.\nEs el instante donde se completa,\nla dicha pura de mi fantasía.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "beso"
+  }
+}

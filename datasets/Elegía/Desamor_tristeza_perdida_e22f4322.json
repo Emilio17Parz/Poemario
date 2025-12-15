@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Oh, tiempo pasado que fuiste bello!\n¿Por qué te alejas con tanta prisa?\nTe llevas la luz y la sonrisa,\ny dejas solo un pálido destello.\nExtraño aquel mundo y su sello,\ndonde la vida era suave brisa,\nhoy camino por dura cornisa,\ncon la soga de pena al cuello.\nElegía al ayer que no vuelve,\na los momentos que se perdieron,\nal misterio que no se resuelve.\nLos días felices murieron,\ny la nostalgia me envuelve,\nrecordando lo que fueron.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

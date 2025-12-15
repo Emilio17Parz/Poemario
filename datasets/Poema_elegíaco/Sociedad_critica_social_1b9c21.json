@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La guerra es el teatro que el tirano me vende con sangre y dolor cruel,\nla vida sin la calma, con sabor amargo a hiel.\nEl soldado es el actor que el destino me dio sin razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la paz que mi alma no pudo salvar jamás sin voz ni paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuerpos que trazan figuras,\nal ritmo de la canción,\nhermosas criaturas,\nllenas de pasión.\n\nAl ritmo de la canción,\ngiro y salto ligero,\nllenas de pasión,\nvuelo de un viajero.\n\nGiro y salto ligero,\ncuerpos que trazan figuras,\nvuelo de un viajero,\nhermosas criaturas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "danza"
+  }
+}

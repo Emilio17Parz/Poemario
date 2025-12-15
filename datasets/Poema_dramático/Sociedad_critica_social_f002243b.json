@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "DICTADOR: ¡Callad esas voces! ¡Que no se oigan!\nREBELDE: Puedes cortar las flores, no la primavera.\nDICTADOR: Mi guardia os espera en la trinchera.\nREBELDE: Aunque nos maten, otros vendrán.\nUn grito unido rompe el muro,\ny nos promete un gran futuro.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "grito"
+  }
+}

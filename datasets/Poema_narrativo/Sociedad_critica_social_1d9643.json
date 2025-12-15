@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El rey se sentó en el trono, con corona de oro,\nCreía ser el dueño de todo el decoro.\nEl poder es la ceguera que al hombre lo abate,\nLa corona es el peso que al alma la mate.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "poder"
+  }
+}

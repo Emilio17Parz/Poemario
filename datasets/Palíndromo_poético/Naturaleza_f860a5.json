@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nieve cae\nblanco manto\nfrío invierno\nblanco manto\nnieve cae",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

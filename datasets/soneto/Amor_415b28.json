@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Maldito el celo que la mente nubla,\nque ve fantasmas donde solo hay luz,\ncargando sobre mí pesada cruz\nque a mi razón y calma la atribula.\n\nEl miedo a perderte se acumula,\ny se vuelve un torrente, un alud,\nrobándome la paz y la salud,\nmientras la desconfianza circula.\n\nPero miro tus ojos transparentes,\ny veo la verdad que en ellos brilla,\ncalmando mis temores inclementes.\n\nVuelvo a la orilla, mi dulce orilla,\ny olvido los fantasmas impacientes,\nrendido ante tu amor de maravilla.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "celo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El trabajo honesto y duro,\ndignifica nuestra labor,\nconstruyendo un gran futuro,\ncon esfuerzo y con honor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

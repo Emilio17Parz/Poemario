@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Frío en el alma,\nTu partida, un mar de hiel,\nCruda soledad.\nMe consume lento el pesar,\nNo regresa ya el ayer.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

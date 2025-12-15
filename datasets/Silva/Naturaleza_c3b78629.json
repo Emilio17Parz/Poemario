@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde tapiz que cubre la montaña,\ndonde el viento susurra\nantiguas fábulas.\nEl río, espejo azul, su curso labra\nentre piedras pulidas\npor el lento pasar.\n\nEl canto de las aves en la aurora,\nla promesa del alba,\nsin ningún desvelo.\nLa flor que se abre al sol, modesta y pura,\nefímera belleza\ndel sendero umbroso.\n\nLuego, cuando la luz se desvanece\ny el velo de la sombra todo abraza,\nsurge la **luna**, nívea y serena,\nguardiana silenciosa\nde la noche profunda.\nSu plata baña el bosque, cada rama,\nrevelando contornos\nque el día oculta bien.\nUn mundo diferente, que no engaña,\nsolo invita a los sueños\nmás tiernos y puros.\n\nOh, Naturaleza, madre eterna,\ntu aliento nos sosiega\nel alma que se agita.\nNos muestras la verdad, simple y sempiterna:\nque en tu regazo el ser\nhalla paz profunda.\nTu fuerza y tu constancia, gran maestra,\nnos enseñan a vivir\nsin la vana prisa.\nA encontrar la armonía que nos muestra\nque la vida es un don,\nuna sonrisa pura.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "luna"
+  }
+}

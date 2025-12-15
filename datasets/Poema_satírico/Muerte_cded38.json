@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No vayas hacia la luz,\ndicen en la película,\ncargas con tu cruz,\nde forma ridícula.\nQuizás es un tren que viene,\ny nadie lo detiene.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Luz_Blanca"
+  }
+}

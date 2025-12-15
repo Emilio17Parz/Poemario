@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vida nueva,\nque renace,\ny se hace,\nlo que eleva.\nSe la lleva,\nel invierno,\nque es eterno,\nsi no nieva.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

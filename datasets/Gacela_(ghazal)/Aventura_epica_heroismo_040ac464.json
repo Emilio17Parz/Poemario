@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Monta su caballo con armadura,\nlisto para la gran aventura.\n\nDefiende al débil con su bravura,\ny mantiene su alma pura.\n\nCaballero andante de figura,\nque busca justicia y hermosura.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "honor"
+  }
+}

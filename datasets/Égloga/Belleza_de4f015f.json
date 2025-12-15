@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Reina de las flores eres,\nrosa de espina y color,\nque causas el amor,\ny también los padeceres.\nEntre todas las mujeres,\nno hay tal esplendor,\nni perfume mejor,\nen los amaneceres.\nMas tu vida es fugaz,\ncomo la paz,\ny el tiempo voraz.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flor"
+  }
+}

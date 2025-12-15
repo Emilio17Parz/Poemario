@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El hueso no tiene fin, (A)\nmi ser ya sin claridad, (B)\nme hunde la soledad, (B)\nsolo siento ya el argüín. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Hueso"
+  }
+}

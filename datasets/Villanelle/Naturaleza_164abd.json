@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar abraza la tierra con fuerza,\ncon su oleaje de espuma y sal,\ny no hay quien su voluntad tuerza.\n\nEs un gigante que se refuerza,\nen su movimiento vital,\nel mar abraza la tierra con fuerza.\n\nAunque el destino a veces se a-lmuerza,\nla esperanza en el litoral,\ny no hay quien su voluntad tuerza.\n\nEn su azul profundo se dispersa,\ntodo recuerdo de lo que es mal,\nel mar abraza la tierra con fuerza.\n\nUna energía que se dispersa,\ny vuelve al origen natural,\ny no hay quien su voluntad tuerza.\n\nEs la canción eterna y diversa,\nque canta al mundo su madrigal,\nel mar abraza la tierra con fuerza,\ny no hay quien su voluntad tuerza.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mar"
+  }
+}

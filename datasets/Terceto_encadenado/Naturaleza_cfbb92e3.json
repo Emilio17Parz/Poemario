@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se abre roja y fragante la rosa,\nperfumando el jardín con su olor,\nes la reina sutil y hermosa.\n\nNos brinda su gran esplendor,\naunque tenga espinas que hieren,\ncausando un pequeño dolor.\n\nA las manos que su tallo quieren.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

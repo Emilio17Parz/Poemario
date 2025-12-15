@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Admiro en la escultura la pura forma,\nque rompe con la piedra y crea su forma.\n\nLa curva de la nube, la flor, la ola,\nla naturaleza busca la forma.\n\nEs la belleza presa en la materia,\nque se libera al fin tomando forma.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "forma"
+  }
+}

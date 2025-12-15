@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La paz santa desciende,\nsobre el alma que busca la verdad,\ny la defiende,\nde la maldad,\ncon una fuerza de gran potestad.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "santa"
+  }
+}

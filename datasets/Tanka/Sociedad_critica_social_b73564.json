@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mano tendida\ndurmiendo en el cartón\nfrío y hambre.\nLa ciudad pasa rápido\nsin mirar el dolor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre veloz el agua por el río,\ncon fuerza y poderío,\nbajando de la sierra,\nbañando toda tierra.\nSu canto es melodía,\nque alegra el día,\ny busca con afán,\nsu azul final.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "río"
+  }
+}

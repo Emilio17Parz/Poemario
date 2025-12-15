@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nieve que cubres la tierra un momento,\ntu calma es breve, tu fin es real.\nTu pureza es solo un lamento,\nel alma que siente el golpe fatal.\nTu cristal se rompe, el brillo se va,\nla pena que el tiempo me da.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Nieve"
+  }
+}

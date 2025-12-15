@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El tiempo no cura si tú no trabajas,\npero da perspectiva y calma,\nno te cortes con viejas navajas,\nni vendas barato tu alma.\nDale días al día, paso a paso,\ny saldrás de este ocaso.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Tiempo"
+  }
+}

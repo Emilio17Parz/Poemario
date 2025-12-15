@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Un soplo manso en la arboleda quieta,\nLa cumbre azul que al cielo se eleva,\nEl río eterno que su curso reta,\nLa voz callada que en el bosque lleva.\n\nEn el verdor que al caminante invita,\nBajo el dosel de luz que el sol derrama,\nLa vida humilde que en la tierra habita,\nLa dulce voz de su ancestral proclama.\n\nY al caer la noche, pura y serena,\nCuando el mundo en quietud se desvanece,\nSurge la **luna**, lámpara plena,\nY un nuevo asombro en el alma crece.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "luna"
+  }
+}

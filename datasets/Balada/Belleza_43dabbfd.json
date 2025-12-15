@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verdes praderas y cielo azul,\nmonte nevado y lago gris,\ncubre la niebla con su tul,\neste precioso país.\nEs el paisaje la raíz,\nde mi alma feliz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

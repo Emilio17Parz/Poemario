@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se vieron en el bosque, al caer la mañana,\nOcultos de la ley, lejos de la campana.\nÉl era de otro reino, ella de otra fe,\nY ese amor prohibido era su única ley.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reza la viuda en la iglesia\ncon el rosario en la mano,\npidiendo por el descanso\nde su esposo, buen cristiano.\nLa cera llora en la vela\npor el destino humano,\nque nos lleva a la ceniza\nde un modo soberano.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "viuda"
+  }
+}

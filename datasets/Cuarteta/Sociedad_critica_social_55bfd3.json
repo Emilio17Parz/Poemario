@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¿Qué mundo dejamos,\na los que vendrán?,\nsi no hay un plan,\ntodos acabamos.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

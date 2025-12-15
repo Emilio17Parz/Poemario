@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento sin ser visto,\nllevando hojas y pensamientos,\ny a su fuerza yo me resisto.\n\nEs un viajero siempre listo,\nque cruza mares y cimientos,\nsopla el viento sin ser visto.\n\nEn su susurro yo existo,\nescuchando sus lamentos,\ny a su fuerza yo me resisto.\n\nNo tiene cuerpo, insisto,\npero mueve los monumentos,\nsopla el viento sin ser visto.\n\nA veces suave, imprevisto,\notras veces con violentos,\ny a su fuerza yo me resisto.\n\nEs el aliento de Cristo,\no de los elementos,\nsopla el viento sin ser visto,\ny a su fuerza yo me resisto.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viento"
+  }
+}

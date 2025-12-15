@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llegó el final sin avisar,\nrompiendo el sueño de cristal,\ny ya no puedo respirar.\n\nTodo se empieza a derrumbar,\nen este abismo tan fatal,\nllegó el final sin avisar.\n\nNo tengo fuerzas para andar,\nni para ver el manantial,\ny ya no puedo respirar.\n\nMe duele tanto recordar,\nlo que era nuestro ideal,\nllegó el final sin avisar.\n\nSolo me queda el llorar,\npor este golpe tan brutal,\ny ya no puedo respirar.\n\nLa muerte vino a visitar,\nnuestro cariño celestial,\nllegó el final sin avisar,\ny ya no puedo respirar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "final"
+  }
+}

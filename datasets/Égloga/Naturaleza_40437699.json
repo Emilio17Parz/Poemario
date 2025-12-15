@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Oh, vergel sereno, donde el sol se posa,\ny la hierba tierna besa el pie descalzo!\nAquí el alma encuentra paz, suave y hermosa,\nlejos del bullicio, del afán y el falso.\n\nMira el arroyo claro, que en rumor se quiebra,\ndonde el pez de plata fugazmente brilla.\nLa encina vetusta su sombra nos cebra,\nmientras florece humilde la silvestre lila.\n\nDe mi flauta rústica el canto se levanta,\nmezclándose al gorjeo del ave en la rama.\nNingún oro anhelo, ni vana pregonada canta,\nsolo la simple vida que el campo derrama.\n\nEl **viento** entre sauzales suspira doliente,\ntrayendo de los pinos un aroma a resina.\nMueve con su aliento la espiga indolente,\ny la nube blanca por el azul camina.\n\nQué dulce es mirarlo, tendido en la pradera,\npensando en los rebaños que pastan sin prisa.\nEsta es mi riqueza, mi fiel compañera,\nla vida que en la tierra simple se divisa.\n\nAsí, la tarde cae, pintando el horizonte,\ncon colores suaves de un dulce desvelo.\nMi corazón tranquilo, cual manso monte,\nhalla en este retiro su pedazo de cielo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "viento"
+  }
+}

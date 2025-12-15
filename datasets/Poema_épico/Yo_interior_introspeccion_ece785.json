@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No la de fuera, sino la mía,\nla que resuena en el corazón,\nluz que me sirve de guía,\nmás allá de la razón.\nSer fiel a uno mismo es el reto,\nel más difícil y secreto.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Verdad"
+  }
+}

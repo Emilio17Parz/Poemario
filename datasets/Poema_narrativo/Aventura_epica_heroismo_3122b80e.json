@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Eran trescientos,\ncontra un millón,\nen el cañón,\ncon sus instrumentos.\nAguantaron firmes,\nla ola persa,\nen la lucha adversa,\ncon golpes enormes.\nMurieron todos,\nde nobles modos.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "valor"
+  }
+}

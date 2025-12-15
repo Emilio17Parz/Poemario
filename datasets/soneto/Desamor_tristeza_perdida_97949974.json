@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "La sombra de tu ausencia hoy me confina,\nUn eco mudo el alma me ha quebrado,\nY el gozo de mi vida se ha marchitado\nEn esta soledad que me domina.\n\nLa aurora ya no trae luz divina,\nMi corazón, por ti tan desolado,\nRecuerda el tiempo hermoso, ya pasado,\nY en cada latido, el dolor me asesina.\n\n¿Habrá consuelo en el futuro incierto,\nO solo el peso de esta pena oscura\nQue abraza sin piedad mi desconsuelo?\n\nMi fe en el amor ha sido un desierto,\nY el vano anhelo de tu hermosa figura\nNo encuentra refugio ni en el dulce olvido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

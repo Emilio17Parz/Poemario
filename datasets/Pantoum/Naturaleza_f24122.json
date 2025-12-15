@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gira el viento con violencia,\nel ojo mira tranquilo,\nsin piedad y sin conciencia,\ncortando como un filo.\n\nEl ojo mira tranquilo,\nmientras destroza el techo,\ncortando como un filo,\ndejando el caos hecho.\n\nMientras destroza el techo,\nsin piedad y sin conciencia,\ndejando el caos hecho,\ngira el viento con violencia.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "viento"
+  }
+}

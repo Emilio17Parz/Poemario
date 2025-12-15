@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Maldigo la suerte echada,\nque me trajo a este lugar,\ndonde solo puedo llorar,\ncon la vista cansada.\n\nVida truncada,\nsin hogar,\nni mar,\nni nada.\n\nElegía a lo que no fue,\ny nunca se ve.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "destino"
+  }
+}

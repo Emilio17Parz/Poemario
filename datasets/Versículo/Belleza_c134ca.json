@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Levanta los ojos y mira el polvo de diamantes esparcido sobre el terciopelo negro de la noche eterna.\nLas estrellas son la belleza del infinito, luces antiguas que nos recuerdan nuestra pequeñez y nuestra grandeza.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

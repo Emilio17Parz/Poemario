@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En la vanguardia de la cruenta guerra,\ndonde el acero muerde la carne viva,\ntu nombre es el escudo que me aferra\na esta existencia, dulce y fugitiva.\nNo temo a la lanza ni a la flecha oscura,\nsi tu recuerdo es mi armadura pura.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Escudo"
+  }
+}

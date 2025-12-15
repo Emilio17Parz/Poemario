@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viste negra la viuda,\npor el hombre que se ha ido,\ncon el corazón herido,\ny la soledad aguda.\nNadie le presta ayuda,\nen su llanto silencioso,\nrecordando al buen esposo,\nque la parca arrebató,\ny en la nada lo dejó,\nsin un gesto piadoso.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "luto"
+  }
+}

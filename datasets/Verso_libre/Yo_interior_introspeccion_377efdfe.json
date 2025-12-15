@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro hacia adentro\ny veo un pozo sin fondo.\nMis miedos nadan allí,\ncomo peces ciegos.\nSi me asomo demasiado,\nsiento vértigo.\nPero debo bajar,\nporque en el fondo del abismo\nbrilla la perla de quien soy.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "abismo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El fuego es la vida\nque consume la leña.\nEs la herida\nque el tiempo no enseña.\n\nMe quema y me hiere,\nme obliga a mirar,\nel único ser\nque no quiere amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

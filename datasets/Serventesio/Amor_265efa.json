@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Llegas y en mi invierno nace la primavera (A),\nel dulce verdor que al fin quiere brotar (B),\ntu risa es la brisa, la calma sincera (A),\nmi vida sin ti no sabe volar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Primavera"
+  }
+}

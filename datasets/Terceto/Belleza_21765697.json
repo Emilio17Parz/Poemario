@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza surge en cada despertar,\ncon un mudo esplendor que el alma abarca,\nun rito ancestral que nos invita a amar.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

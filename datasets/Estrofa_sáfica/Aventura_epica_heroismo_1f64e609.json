@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fuego vomita la bestia terrible,\nguarda el tesoro en la cueva negra,\nsolo el valiente con su lanza aguda\nse alegra.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

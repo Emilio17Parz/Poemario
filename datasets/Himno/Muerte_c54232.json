@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ciudad de silencio y de cipreses,\ndonde se cuentan los años y meses.\nBarrio de mármol y de flores secas,\ndonde terminan todas las hipotecas.\n\n¡Lugar sagrado de reposo y paz,\ndonde la vida se quita el disfraz!\nAquí la historia duerme tranquila,\nbajo la luna que la vigila.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

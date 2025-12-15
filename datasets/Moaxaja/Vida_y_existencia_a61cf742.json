@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es sueño,\ny soy su dueño.\n\nIlusión vana,\nque en la mañana,\nse desgrana,\ncon empeño.\n\nLa vida es sueño,\ny soy su dueño.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

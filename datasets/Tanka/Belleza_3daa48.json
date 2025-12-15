@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo concuerda\nen orden y medida\npaz al mirar.\nLa proporción exacta\nque agrada al corazón.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

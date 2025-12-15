@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro arriba y veo el manto\nbordado de puntos claros,\nson las estrellas lejanas\nque brillan como mil faros.\nGuías de los navegantes\ny de los pueblos ignaros,\njoyas de la noche eterna\nque nos salen muy baratos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

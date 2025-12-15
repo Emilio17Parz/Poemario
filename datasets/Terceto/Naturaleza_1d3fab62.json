@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Abrió sus pétalos la rosa roja,\nmostrando su belleza al mundo entero,\nantes que el tiempo breve la despoja.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

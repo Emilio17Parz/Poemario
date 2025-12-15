@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dividen la tierra, dividen la gente,\npiedra y alambre de separación,\nherida abierta en el continente,\nfruto de la segregación.\nNo hay muro que pare el pensamiento,\nni que detenga al libre viento.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Muro"
+  }
+}

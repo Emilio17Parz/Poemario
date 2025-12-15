@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ciega fe que me guía\npor la noche oscura del sentido;\naunque estoy perdido,\nespero el día;\nque, sin ver, creo en la luz eterna;\ny en esta caverna\nde sombras y mal,\nmi fe es escudo y fuerza vital.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "fe"
+  }
+}

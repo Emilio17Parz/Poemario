@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cortada fue la flor en capullo,\nantes de abrirse a la mañana,\nuna tragedia cruel y humana\nque rompe el corazón y el orgullo.\n\nCalló temprano su arrullo,\nquedó la promesa vana,\ny la esperanza lozana\nse volvió fúnebre murmullo.\n\n¿Por qué la parca tiene prisa\nen llevarse la vida nueva\ny apagar la fresca risa?\n\nEs un misterio que se lleva,\ndejando el alma sumisa\ny una herida que se eleva.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aquí termina la historia nuestra,\npastora que fuiste mi adoración.\nRompo el cayado y la ilusión,\npues la vida su cara siniestra\ncon crueldad inmensa me muestra:\namar es perder la razón.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cayado"
+  }
+}

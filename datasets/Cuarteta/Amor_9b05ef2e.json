@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te busco en la oscura noche,\nen el mundo de los sueños,\nsin hacer ningún reproche\na mis deseos pequeños.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "noche"
+  }
+}

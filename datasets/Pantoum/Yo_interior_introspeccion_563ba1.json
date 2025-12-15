@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Brillo en el fondo,\nchispa de bondad.\nSi toco hondo,\nhallo la verdad.\n\nChispa de bondad,\nque nunca se apaga.\nHallo la verdad,\nque me halaga.\n\nQue nunca se apaga,\nsi toco hondo.\nQue me halaga,\nbrillo en el fondo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "luz"
+  }
+}

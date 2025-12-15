@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi espada es de acero\ny mi brazo fuerte,\nno le tengo miedo\nni a la misma muerte.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "espada"
+  }
+}

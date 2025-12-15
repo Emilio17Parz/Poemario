@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "[EL CAMPESINO]\n(Besando el suelo seco)\nTe he labrado con mis manos, te he regado con mi sudor, y ahora te niegas.\nNo hay gota de lluvia. Me has abandonado. ¿Qué te he hecho, madre cruel?\nMi familia se muere de hambre y tú me miras con esta sequía de mármol.\nTe maldigo, pero te amo. Eres mi tumba y mi única esperanza.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

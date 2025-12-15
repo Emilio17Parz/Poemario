@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuatro cirios encendidos,\nvelan el cuerpo presente,\nun ambiente decadente,\nde suspiros y gemidos.\nLos amigos reunidos,\ndespiden al compañero,\nque emprendió el sendero,\nhacia el reino de la luz,\ncargando con su cruz,\ncomo humilde viajero.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "velas"
+  }
+}

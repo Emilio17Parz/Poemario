@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vive el infante en mi corazón,\nquiere jugar y reír sin fin,\nsaltar y correr por el jardín,\nniño interior.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "niño"
+  }
+}

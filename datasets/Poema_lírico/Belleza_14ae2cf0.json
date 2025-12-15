@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¿Qué es la belleza que el alma persigue,\nsi no un aliento que el tiempo no acaba?\nEs un consuelo que al triste le rige,\nuna verdad que la sombra no traba.\n\nSe halla en la flor que al sol se despliega,\nen el murmullo de un río que canta,\nen la quietud que la noche nos lega,\nen cada aurora que el mundo levanta.\n\nNo solo es forma que al ojo deslumbra,\nni perfección de un cincel sereno;\nes el sentir que en el pecho alumbra,\nun don sutil, un espíritu lleno.\n\nY es en la risa, en la mirada tierna,\nen el consuelo que el alma derrama,\ndonde un fulgor, una luz sempiterna,\nun dulce y puro **brillo** el ser proclama.\n\nAsí la belleza, un eco sagrado,\nno vive solo en la efímera piel,\nmas en el fondo de un ser elevado,\nun don divino, constante y tan fiel.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

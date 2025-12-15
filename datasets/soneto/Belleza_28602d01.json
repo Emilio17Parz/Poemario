@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza que al alma se adhiere\nY en un espejo místico nos mira,\nCon su dulce reflejo que no expira,\nY un éxtasis profundo nos confiere.\n\nEs un don que en lo efímero no muere,\nUn soplo eterno que el dolor retira,\nY en cada forma pura que suspira,\nUn templo de asombro se sugiere.\n\nMi corazón, prendado de su brillo,\nHalla en su faz la luz que no desvía,\nY rompe ya el silencio, fiel y sencillo.\n\nEs la verdad que el alma osar podría,\nLa que a mi pluma hoy da vital anillo.\nOh, eterna musa, que mi ser ansía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "musa"
+  }
+}

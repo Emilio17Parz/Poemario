@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, incierto sendero, vela fugaz\ndonde el espíritu busca un eco y razón;\nun frágil tiempo que nunca regresa en paz,\nla verdad reside en cada corazón.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

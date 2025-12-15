@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sabor a miel,\ntienen tus besos suaves,\nfruta madura.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "miel"
+  }
+}

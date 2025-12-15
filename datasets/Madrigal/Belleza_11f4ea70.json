@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Valle verde y florido,\nparaíso por el sol encendido.\nEl río y la montaña,\nla luz que los baña.\nCuadro que Dios pintó\ny que a mis ojos tristes regaló.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

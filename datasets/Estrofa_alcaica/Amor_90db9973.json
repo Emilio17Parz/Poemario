@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres la dueña de mi propia alma,\npuerto seguro en el furioso mar,\ndonde encuentro la bonanza,\ny la manera de descansar.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dios está,\nen todas partes.\nÉl vendrá,\nDios está.\nNo te apartes,\nni allá.\nDios está,\nen todas partes.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "Dios"
+  }
+}

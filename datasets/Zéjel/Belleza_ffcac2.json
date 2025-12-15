@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mundo ya tiene paz,\nsin engaño ni antifaz.\n\nEl alma ya no está mal,\nsin pena ni puñal,\nla vida es lo real,\nsin engaño ni antifaz.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

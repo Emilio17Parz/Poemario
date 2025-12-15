@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Aroma de jazmín y nardos\nque flota en el corredor,\nembriagando los sentidos\ncon su sutil olor.\nEs la belleza invisible\nque causa gran temblor,\ny recuerda la presencia\ndel ausente amor.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "perfume"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro el cristal de frente,\n¿quién es ese extraño?\nUn rostro diferente,\nmarcado por el daño.\n\n¿Quién es ese extraño?,\nbusco en su mirada.\nMarcado por el daño,\nalma desolada.\n\nBusco en su mirada,\nun rostro diferente.\nAlma desolada,\nmiro el cristal de frente.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

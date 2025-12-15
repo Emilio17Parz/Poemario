@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El héroe parte, un canto de valor\nCon gloria vuelve de la gran batalla.\nSu escudo porta un vivo resplandor,\nEl héroe parte, un canto de valor.\nVence el temor, alza su estandarte en flor,\nY ni la muerte su coraje halla.\nEl héroe parte, un canto de valor,\nCon gloria vuelve de la gran batalla.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

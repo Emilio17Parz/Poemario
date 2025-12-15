@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mi cuello no tiene el yugo, pero mi alma esclava es del trabajo fiel,\nla vida sin la calma, con sabor amargo a hiel.\nEl sueldo es la cadena que el cuerpo me ata ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el descanso que mi cuerpo no puede tener jamás sin voz ni paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "esclavo"
+  }
+}

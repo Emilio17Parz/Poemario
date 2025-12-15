@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza que el alma ve al pasar,\nUn suspiro que evoca un fulgor,\nNos eleva con puro esplendor.\n\nEn la flor o en el celeste mar,\nCada forma, muestra de su valor,\nLa belleza que el alma ve al pasar.\n\nNo es efímero su dulce vibrar,\nSino eterno su hondo candor,\nNos eleva con puro esplendor.\n\nNos invita a querer y a soñar,\nA sentir su sublime frescor,\nLa belleza que el alma ve al pasar.\n\nEn sus ojos podemos hallar\nEsa chispa de eterno sabor,\nNos eleva con puro esplendor.\n\nQue su luz nunca deje de brillar,\nCon su gracia, sin rastro de dolor,\nLa belleza que el alma ve al pasar,\nNos eleva con puro esplendor.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

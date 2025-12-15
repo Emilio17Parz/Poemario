@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nadie se baña dos veces en el mismo río.\nEl agua cambia, tú cambias.\nFluir es la única ley.\nAgarrarse a la orilla\nes morir en vida.\nSuéltate y déjate llevar\npor la corriente del devenir,\nhacia el mar que nos espera.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "río"
+  }
+}

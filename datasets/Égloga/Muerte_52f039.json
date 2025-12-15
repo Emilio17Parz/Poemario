@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Como la hoja seca en el otoño\ncae al suelo y se vuelve tierra,\nasí la vida su ciclo cierra\nsin odio, sin miedo y sin encono.\nLa muerte no es un abandono,\nsino la paz tras la guerra.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "hoja"
+  }
+}

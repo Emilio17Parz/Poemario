@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Corona pesada de oro y deber,\nsentado en el trono de espadas,\njusticia y fuerza debe tener,\nante las huestes armadas.\nPadre del pueblo, pastor y guía,\nhasta el final de su día.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Rey"
+  }
+}

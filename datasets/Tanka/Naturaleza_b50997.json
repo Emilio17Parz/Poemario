@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Manto de armiño\nque cubre la pradera\nfrío cristal.\nSilencio blanco y puro\nque duerme la semilla.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Son dos esmeraldas en un mar de piel,\ntus ojos que miran con brillo de miel,\nme pierdo en su fondo sin querer salir,\npues solo en su luz yo puedo vivir.\nReflejan el cielo de un mundo mejor,\ndonde no existe la pena ni el temor,\nmírame siempre, no dejes de ver,\nal hombre que te ama con todo su ser.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

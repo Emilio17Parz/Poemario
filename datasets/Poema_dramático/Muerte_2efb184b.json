@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "PARCA: (Toca la puerta) Toc, toc. Abre ya.\nANCIANO: ¿Quién es? No espero a nadie acá.\nPARCA: Soy la que llega siempre puntual.\nANCIANO: ¡No! Aún no he terminado mi ideal.\nPARCA: Se acabó el tiempo, suelta la pluma.\nANCIANO: Déjame ver cómo el sol se esfuma.\nPARCA: Lo verás desde el otro lado.\nVen conmigo, estás cansado.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

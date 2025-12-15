@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Guerra que lucho con fuerza sin fin,\nla batalla que no puedo vencer.\nMi alma se rinde sin un solo ín,\nel alma sin un gran poder.\nEl campo es derrota, el afán es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Guerra"
+  }
+}

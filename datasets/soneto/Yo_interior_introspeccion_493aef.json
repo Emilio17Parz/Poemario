@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro al cristal y veo a un extraño,\ncon mis ojos y mi piel cansada,\nuna imagen que está gastada\npor el paso de cada año.\n\nNo sé si es verdad o engaño,\nesta figura reflejada,\nque me devuelve la mirada\ndesde el otro lado del baño.\n\n¿Soy yo ese que ahí aparece?\n¿O es solo una máscara fría?\nEl misterio crece y crece.\n\nBusco mi alma, la mía,\npero el espejo no ofrece,\nmás que materia vacía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cristal"
+  }
+}

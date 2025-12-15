@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pequeña y dulce flor,\nque abres tus pétalos al nuevo día,\ndando la alegría\nde tu vivo color.\nSin miedo ni dolor,\ntu breve lozanía\nes el regalo del gran Creador.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "flor"
+  }
+}

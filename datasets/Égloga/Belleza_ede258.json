@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Escucha, Licio, cómo el ave canta,\nla melodía perfecta y divina,\nque baja dulce desde la encina,\ny nuestras penas del alma espanta.\n\nEs la belleza que se levanta,\nsin artificio ni mano humana,\nregalo puro de la mañana,\nque a todo oído y sentir encanta.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "canto"
+  }
+}

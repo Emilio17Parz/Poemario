@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajó el ángel de la muerte\ncon sus alas de ceniza,\na llevarse el alma pura\ncon una suave sonrisa.\nNo hubo dolor ni lamento\nsolo una paz que suaviza,\nel tránsito hacia la luz\nque en el cielo se eterniza.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

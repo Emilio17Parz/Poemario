@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cándida y fría nieve,\nque cubres el dolor de la montaña;\ncon maña extraña\ny paso leve,\nvistes de gala al mundo adormecido;\ny lo perdido\nbajo tu manto espera,\nel beso de la nueva primavera.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

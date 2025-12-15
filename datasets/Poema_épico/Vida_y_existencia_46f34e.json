@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mapa en la piel de batallas pasadas,\nrecuerdo de fuego, de corte y dolor,\nlecciones de vida, bien grabadas,\nsignos de un superviviente mayor.\nNo la ocultes, llévala con orgullo,\nes la prueba de que el triunfo es tuyo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Cicatriz"
+  }
+}

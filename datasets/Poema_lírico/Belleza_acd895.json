@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El espejo me miente,\nme obliga a dudar.\nLa vida insistente\npara no amar.\n\nMe rompe y me hiere,\nme obliga a seguir,\nel único ser\nque no quiere partir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

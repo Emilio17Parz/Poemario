@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nadie da lo que no tiene,\námate primero a ti,\nasí el amor se mantiene,\nfluyendo de mí hacia ti.\nSi tú no te valoras,\nmendigarás a todas horas.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Propio"
+  }
+}

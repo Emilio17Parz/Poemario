@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nadie recuerda el cantar,\nde la gesta antigua y fiera,\nquimera,\ndel mar.\n\nOlvidar,\nla espera,\nprimera,\nal andar.\n\nMito que el tiempo borró,\ny enterró.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

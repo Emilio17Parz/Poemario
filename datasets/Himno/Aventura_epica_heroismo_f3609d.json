@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Corona de lauros, brillo inmortal,\nque esperas al bravo tras el final.\n¡Honor a la Gloria, meta soñada!,\npor la que la vida es entregada.\n\nResuene tu nombre en el alto cielo,\npremio del arduo y noble desvelo.\nNo mueren aquellos que tú has tocado,\nsu recuerdo queda por siempre grabado.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

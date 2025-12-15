@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Verdad de mi amor, que se hizo dolor,\nla esencia sin gracia, de un gran mal.\nEl sentimiento se fue sin fulgor,\nel golpe es profundo, fatal.\nLa firmeza se ha roto, sin un gran bien,\nel alma que sufre sin un sostén.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Verdad"
+  }
+}

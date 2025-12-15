@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Despierto y lo primero es tu presencia,\nel bulto que descansa en mi costado,\nel mundo se presenta renovado\nal ver la brillantez de tu inocencia.\n\nRespiro de tu piel la dulce esencia,\nme siento por la suerte afortunado,\nde haber sido por ti el elegido,\nborrando mi dolor y mi carencia.\n\nLa luz entra filtrada por la tela,\ndibuja en tu perfil una caricia,\nmientras mi corazón hace centinela.\n\nEs esta la mayor y gran delicia,\nsaber que nuestro amor vuela y vuela,\nlejos de la tristeza y la malicia.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

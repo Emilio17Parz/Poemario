@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi alma en tu alma halla (7a),\nla eterna razón (5b),\nque el mundo no calla (7c),\nla gran condición (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El tambor de la aventura late con nuevo vigor,\nY el alma del adalid responde a su fragor.\n\nPor sierras de tiniebla, donde acecha el mal,\nÉl avanza con la espada, forjado en puro valor.\n\nContra hordas de quimeras y hechizos del engaño,\nSu coraje es un faro que disipa el rencor.\n\nNo hay pausa en la lucha, ni reposo al guerrero,\nPues su gesta se alza como un alto fulgor.\n\nDefenderá los justos, alzará su estandarte,\nY grabará su nombre con eterno **honor**.\n\nEn cada cicatriz, una historia que contar,\nResuena su proeza, un inmortal clamor.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "honor"
+  }
+}

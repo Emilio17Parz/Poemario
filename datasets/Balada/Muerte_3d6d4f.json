@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Prepara el alma su equipaje,\nque son las obras que realizó,\npara emprender el último viaje,\nhacia la orilla que Dios trazó.\nCruza el río de aguas oscuras,\ndejando el cuerpo en la ribera,\nhacia las altas y claras alturas,\ndonde la luz eterna espera.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

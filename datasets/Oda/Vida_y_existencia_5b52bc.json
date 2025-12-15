@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Fuerza interna,\nque mueve montañas,\ny las entrañas,\ngobierna.\nMotor de acción,\ny decisión.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "voluntad"
+  }
+}

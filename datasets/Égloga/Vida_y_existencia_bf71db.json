@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dejo a mi hijo el rebaño,\ny el saber de las estrellas,\npara que siga las huellas,\nsin que le cause daño.\n\nLa vida es un peldaño,\nque subimos uno a uno,\ny no hay bien alguno,\ncomo el amor sin engaño.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dulce mirar que el alma me cautiva,\nluz de mi vida, fuente de alegría,\neres el sol que alumbra mi sendero,\nte quiero tanto.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

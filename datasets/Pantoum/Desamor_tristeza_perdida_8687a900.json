@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llegamos al final,\nde nuestro camino,\nun golpe mortal,\nque trajo el destino.\n\nDe nuestro camino,\nya no queda nada,\nque trajo el destino,\nla luz apagada.\n\nYa no queda nada,\nllegamos al final,\nla luz apagada,\nun golpe mortal.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "final"
+  }
+}

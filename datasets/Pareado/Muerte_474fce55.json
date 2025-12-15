@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volvemos a ser solamente polvo,\ny en la madre tierra me disuelvo.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

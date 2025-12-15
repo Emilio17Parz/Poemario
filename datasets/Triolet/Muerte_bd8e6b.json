@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reina el silencio,\nen la tumba fría.\nYo presencio,\nreina el silencio.\nMe diferencio,\ndel que reía.\nReina el silencio,\nen la tumba fría.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

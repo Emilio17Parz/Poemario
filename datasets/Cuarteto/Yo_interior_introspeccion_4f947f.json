@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La paz no es ausencia, es la calma interior,\nque el alma descubre con gran placer,\nla vida es un don, un gran fulgor,\nla fuerza que ayuda a crecer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Paz"
+  }
+}

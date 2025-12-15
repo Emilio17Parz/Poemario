@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El retorno es dulce, el fin de la pena y el cruel dolor (A),\ndonde el héroe halla su calma y su fe (B),\nla vida es un don, un gran fulgor (A),\nla fuerza que dice: 'Yo sé' (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Retorno"
+  }
+}

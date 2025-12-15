@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Monstruo de escama y fuego,\nque guardas el oro viejo,\nen el oscuro y lejos,\ncaverna donde no hay ruego.\n\nRepresentas el ego,\nel miedo y los complejos,\nque vemos en los espejos,\ny nos dejan ciego.\n\nMatar al dragón es deber,\ndel caballero andante,\npara poder renacer.\n\nEnfrentar lo gigante,\ny hacerlo desaparecer,\ncon un golpe brillante.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

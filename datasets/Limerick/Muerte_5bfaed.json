@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vela que alumbra el final,\nsu llama es un brillo fatal.\nEl humo se fue,\nsin rastro de fe,\nel alma sin un solo mal.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Vela"
+  }
+}

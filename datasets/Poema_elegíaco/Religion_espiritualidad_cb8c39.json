@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Pedí la gracia y solo hallé este hueco y este dolor cruel,\nla vida sin la calma, con sabor amargo a hiel.\nEl cielo no me mira, mi rezo no tiene valor ni razón,\ny soy el náufrago solo sin ninguna opción.\n\nLloro por el auxilio que mi alma no puede tener al final,\ny mi vida es el castigo de un sino fatal.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "gracia"
+  }
+}

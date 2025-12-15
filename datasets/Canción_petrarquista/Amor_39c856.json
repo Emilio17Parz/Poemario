@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Toma este corazón\nque ya no es mío, pues os pertenece;\ny si padece,\nes con justa razón;\nque vivir sin dueño es gran locura,\ny en vuestra hermosura\nhalla su nido y centro,\ny la paz que solo en vos encuentro.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

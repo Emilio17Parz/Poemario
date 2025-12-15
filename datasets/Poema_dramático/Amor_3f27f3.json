@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL AMANTE SECRETO]\n(En la oscuridad)\nEl mundo duerme y la ciudad es una sombra. Solo para nosotros hay luz.\nEntra. Cierra la puerta. En esta hora robada, somos inmortales.\nMañana volveremos a ser extraños, pero esta noche, esta noche somos leyenda.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "noche"
+  }
+}

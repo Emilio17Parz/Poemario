@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La luz se apaga, tenue y desvaída,\nUn hálito postrero, leve aliento.\nEl mundo calla, el alma ya rendida\nSe entrega al largo y solemne portento.\n\nEl pulso cede, lento, sin alarmas,\nUn río que retorna al hondo mar.\nSe borran del recuerdo viejas tramas,\nSilencio que comienza a reinar.\n\nUn manto gris que envuelve la partida,\nUn dulce sueño que no tendrá aurora.\nAllí culmina toda dolorida\nJornada, y el cansancio se evapora.\n\nEs el **fin** de la angustia y la quimera,\nEl término del tiempo, la quietud.\nNo hay miedo ya, ni duda que lo hiera,\nSolo la paz de eterna magnitud.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "fin"
+  }
+}

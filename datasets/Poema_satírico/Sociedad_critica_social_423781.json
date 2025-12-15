@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Un zulo sin luz ni gas,\na precio de palacio real,\nno puedes pagar más,\nen esta ciudad letal.\nVivir es un lujo caro,\nque te deja en el paro.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Alquiler"
+  }
+}

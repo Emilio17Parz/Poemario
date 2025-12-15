@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche es larga y fría,\nsin tu cuerpo a mi lado.\nFalta la alegría,\nla noche es larga y fría.\nMuere la fantasía,\nde un ser enamorado.\nLa noche es larga y fría,\nsin tu cuerpo a mi lado.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "noche"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Un alma, buscando su luz,\nEn un templo encontró su cruz.\nOró con fervor,\nCalma y amor,\n¡Y su espíritu halló plenitud!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "templo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Invoco a la musa de labios de miel para que inspire mi canto.\nElla es el viento que hincha las velas de la imaginación.\nSin su beso, las palabras son polvo seco y la página queda blanca.\nVen, divina musa, y convierte mi voz en un himno de belleza.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "musa"
+  }
+}

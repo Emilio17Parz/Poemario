@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Espejo limpio que no sabe mentir,\ny que nos muestra el real sentir!\nA veces duele mirar su reflejo,\npero es el único y sabio consejo.\n\n¡Loor a la verdad íntima y pura,\nque nos libera de la atadura!\nSé fiel a ti mismo y no te traiciones,\ny vencerás todas las presiones.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

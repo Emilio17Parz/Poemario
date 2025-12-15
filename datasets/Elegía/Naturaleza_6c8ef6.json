@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Esfera azul que se apaga,\nenferma de humanidad,\nperdiendo su claridad,\ncon una inmensa llaga.\n\nEl humo gris la embriaga,\nquitándole la bondad,\ny llora su soledad,\nmientras la muerte propaga.\n\nMadre Tierra agonizante,\nante un hijo ignorante.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Océano de arena y de sequía,\ndonde el sol reina cruel y sin piedad,\ny se extiende la inmensa soledad\nbajo un cielo de azul y lejanía.\n\nLa duna cambia forma cada día,\nborrando el paso de la humanidad,\ny solo el cactus con su austeridad\nresiste la implacable tiranía.\n\nDe noche el frío muerde hasta el hueso,\ny las estrellas bajan a la tierra\ncomo un divino y mágico suceso.\n\nDesierto, que la vida y muerte encierra,\nte admiro en tu silencio y en tu peso,\naunque tu sed al hombre le aterra.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Siempre el amor nos va a deslumbrar,\nQue el tierno corazón va a comprender,\nY el alma aprenderá a recordar.\n\nNinguna pena lo podrá quebrar,\nLa esencia de un dulce amanecer,\nSiempre el amor nos va a deslumbrar.\n\nNi el tiempo, ni distancia, ni pesar,\nPor más que intente nuestra fe morder,\nY el alma aprenderá a recordar.\n\nSin miedo a cada nuevo comenzar,\nUn fuego eterno que se ve crecer,\nSiempre el amor nos va a deslumbrar.\n\nSu luz invicta vuelve a iluminar,\nAnhelo puro, fiel y sin ceder,\nY el alma aprenderá a recordar.\n\nPor siempre la pasión en cada andar,\nTan fuerte que en nosotros va a crecer,\nSiempre el amor nos va a deslumbrar,\nY el alma aprenderá a recordar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

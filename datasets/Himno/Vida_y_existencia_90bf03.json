@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Yunque sonoro donde se forja,\nel pan que alimenta y llena la alforja!\nEsfuerzo que dignifica la mano,\ny construye el mundo del ser humano.\n\n¡Honor al sudor de la frente honrada,\nque logra la meta tan deseada!\nCimiento de pueblos y de naciones,\nfuente de todas las realizaciones.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llevo el duelo,\nen el suelo,\npor tu partida,\ntan dolorida,\nsin consuelo.\n\nAlzo el vuelo,\nrompo el hielo,\nde la herida,\nLlevo el duelo.\n\nNegro velo,\ny desvelo,\npor la vida,\nperdid,\nen el cielo,\nLlevo el duelo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

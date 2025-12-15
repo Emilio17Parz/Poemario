@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Salió el arco de colores,\ndespués de la tormenta,\npintando el cielo gris\ncon magia que alimenta.\nRojo, verde y amarillo,\nla vista contenta,\nun puente de fantasía\nque el sol inventa.\nLa belleza efímera,\nque se presenta,\ny se borra en un momento\nsin dejar renta.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "arcoíris"
+  }
+}

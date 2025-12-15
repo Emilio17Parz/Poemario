@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canta la diva en el escenario,\nsu voz eleva el espíritu,\ncomo el rezo de un rosario,\ncon infinito ímpetu.\nTalento puro y sin tú,\nes la belleza en su virtud.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "canto"
+  }
+}

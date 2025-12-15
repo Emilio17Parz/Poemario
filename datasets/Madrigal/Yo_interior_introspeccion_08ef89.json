@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo en el arca de la memoria,\nlos rostros y los días que se fueron,\nque murieron,\npero que forman parte de mi historia.\nRecordar es volver a vivir,\ny sentir,\nque el tiempo no borra lo que se ama,\nni su llama.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

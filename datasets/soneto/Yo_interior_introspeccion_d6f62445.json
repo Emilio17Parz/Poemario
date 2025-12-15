@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cambiamos de piel cada día,\nno somos el que fuimos ayer,\nvolver a nacer y crecer\nes nuestra constante porfía.\n\nLa oruga que se dormía,\ndespierta con alas de ser,\ndispuesta a volar y a ver\nla luz que antes no veía.\n\nAcepto el cambio en mi vida,\nla muerte de viejas versiones,\ny curo la antigua herida.\n\nRenuevo mis aspiraciones,\ny sigo la ruta elegida\nhacia nuevas transformaciones.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "metamorfosis"
+  }
+}

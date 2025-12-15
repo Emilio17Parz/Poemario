@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cantaré a mi amado la canción de mi amado a su viña; mi amado tenía una viña en una ladera fértil.\nLa había cercado y despedregado y plantado de vides escogidas; había edificado en medio de ella una torre.\nY esperó que diese uvas, y dio uvas silvestres; mas mi amor por ti siempre dará el fruto dulce de la lealtad.\nOye mi voz que te llama desde los collados, salta sobre los montes y ven a mí, corzo mío.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "canción"
+  }
+}

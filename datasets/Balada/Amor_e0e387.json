@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor es tesoro, sin un error (a),\nla riqueza que nunca se va a perder (b),\nmi alma se llena de puro fulgor (a),\nsin sombra que cubra mi dulce querer (b),\nla vida es un sueño, de gran valor (b),\ny la fe que me ayuda a saber vencer (c),\nmi corazón no tiene temor (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, el oro que me das (c'),\nes la sombra que viene tenaz (c'),\nla fuerza que me da la paz (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Tesoro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sonrisa falsa\nde cartón pintado\noculta el llanto\nque hay detrás\nde la función.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

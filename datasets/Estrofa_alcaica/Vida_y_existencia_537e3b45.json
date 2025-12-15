@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vamos andando el difícil camino,\nsin conocer el destino final,\ntropezando con las piedras,\nlejos del bien y del mal.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "camino"
+  }
+}

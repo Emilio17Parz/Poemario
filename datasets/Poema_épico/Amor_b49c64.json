@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estrellas guían al nauta perdido,\npero tus ojos son mi constelación,\nen mares de tiempo, jamás vencido,\nsigo el compás de tu corazón.\nCapitán soy de un navío de sueños,\ndonde tú y yo somos únicos dueños.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Navegante"
+  }
+}

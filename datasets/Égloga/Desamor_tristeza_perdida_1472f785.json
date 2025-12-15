@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¡Oh, dura roca, más que mi amada!\nQue al menos el agua te ablanda,\npero a ella ninguna demanda,\nla deja de ser helada.\nLe canto al alba y a la alborada,\nle ofrezco flor y guirnalda,\nmas ella me da la espalda,\ny me deja el alma quebrada.\nLlorad, ovejas mías,\nque vuestro dueño agoniza,\npor una mujer que pisa\nsu amor y lo hace ceniza.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rechazo"
+  }
+}

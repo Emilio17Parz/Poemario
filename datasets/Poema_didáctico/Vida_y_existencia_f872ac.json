@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Persigue lo que sueñas,\ncon plan y acción,\npon tus empeñas,\ny tu corazón.\nEl sueño sin trabajo,\nse va al carajo.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Sueños"
+  }
+}

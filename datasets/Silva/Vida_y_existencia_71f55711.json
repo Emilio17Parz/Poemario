@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Jugar es lo primero,\ncuando la vida empieza a despertar,\nen el sendero,\nde caminar,\nsin preocupaciones que cargar.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "juego"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre la linfa buscando el mar lejano,\nbaña las piedras con su cristal sonoro,\npasa por monte y llano\nllevando cieno y a veces oro.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "río"
+  }
+}

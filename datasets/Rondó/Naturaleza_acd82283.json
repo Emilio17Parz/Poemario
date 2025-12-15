@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Alta montaña,\nque el sol baña,\ncon su luz,\nsin capuz,\nni telaraña.\n\nNo nos engaña,\nalta montaña.\n\nEs una hazaña,\nque acompaña,\na la cruz,\nen el trasluz,\nde la cabaña.\nAlta montaña.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

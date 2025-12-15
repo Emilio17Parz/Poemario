@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El lago es la quietud, el silencio hondo,\ndonde el cielo se mira sin mentir.\nGuarda en sus aguas el gran fondo,\nsin querer su secreto decir.\n\nNo hay ola que rompa su tersura clara,\nel alma en su paz se aclara.\nEs el espejo que devuelve la calma,\nal corazón que sufre y al alma,\ny encuentra el reposo en su brillo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "lago"
+  }
+}

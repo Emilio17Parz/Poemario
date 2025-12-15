@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El frío de la muerte\nno viene del aire. \nEs la dura suerte\nde un ser que ya se va a ir.\n\nEs la ausencia del tacto,\nla piel sin calor,\nel amargo pacto\nsin ningún amor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "frío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Muerte, sombra antigua que nos acecha,\nUn velo negro sobre el fin del día,\nSu frío aliento que la vida estrecha,\nSilencio eterno que al alma extravía.\n\nNi súplica su rigor detenga,\nNi flor su paso anuncie cierta;\nSólo un lamento que al corazón venga,\nY un cuerpo yace en la tumba abierta.\n\nAllí el reposo, el último viaje,\nDonde el fulgor del ser se desvanece,\nUn eco apenas de fugaz linaje,\nMientras el mundo sin cesar florece.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

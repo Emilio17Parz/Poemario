@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El grito de rabia atroz (a),\nla voz que al fin se alza fiel (b),\nla vida sin una voz (c),\nel trago de amarga hiel (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

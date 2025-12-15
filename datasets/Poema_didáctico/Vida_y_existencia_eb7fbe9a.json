@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tú eres el dueño de tu destino,\nno culpes a otros del camino.\nTus actos forjan lo que serás,\ny las consecuencias vivirás.\nAsume el mando de tu timón,\ncon valentía y decisión.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "responsabilidad"
+  }
+}

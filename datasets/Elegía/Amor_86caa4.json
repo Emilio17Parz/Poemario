@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Poeta que escribe con tinta de amargura,\nporque la musa al fin se ha marchado.\nTu verso es sombra, tu pluma dura,\nel fuego de amor se ha quedado apagado.\nCanto la estrofa que no encuentra un fin,\nel dolor del alma, ya sin un ín.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Poeta"
+  }
+}

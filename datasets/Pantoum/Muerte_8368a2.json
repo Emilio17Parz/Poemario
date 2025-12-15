@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vive en la memoria,\nquien ya partió.\nCuenta su historia,\nlo que compartió.\n\nQuien ya partió,\ndeja su huella.\nLo que compartió,\nbrilla como estrella.\n\nDeja su huella,\ncuenta su historia.\nBrilla como estrella,\nvive en la memoria.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

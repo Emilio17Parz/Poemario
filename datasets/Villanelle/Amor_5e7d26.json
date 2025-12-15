@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nuestro amor es profundo como el mar,\nque guarda secretos en su fondo,\ny que no para de navegar.\n\nNadie lo puede limitar,\nni definir su borde redondo,\nnuestro amor es profundo como el mar.\n\nTiene la fuerza de un lugar,\ndonde yo siempre me escondo,\ny que no para de navegar.\n\nSabe las rocas golpear,\ncon un sonido claro y hondo,\nnuestro amor es profundo como el mar.\n\nY sabe también acariciar,\nla arena con un toque blondo,\ny que no para de navegar.\n\nEs infinito su brillar,\ny su misterio yo respondo,\nnuestro amor es profundo como el mar,\ny que no para de navegar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Canta el pajarillo,\ncon su pico amarillo.\n\nAlza el vuelo,\nhacia el cielo,\nsin recelo,\nni pestillo.\n\nCanta el pajarillo,\ncon su pico amarillo.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "pájaro"
+  }
+}

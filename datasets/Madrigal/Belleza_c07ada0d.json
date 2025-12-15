@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza que en el orbe se despliega,\nUn hálito divino, dulce y gentil,\nEl alma que en su faz nunca se ciega,\nHalla en su espejo un refugio sutil.\n\nDe cada flor que el prado nos presenta,\nO el verso que la pluma crea audaz,\nEl **arte** en su labor nos representa\nUn éxtasis que siempre da solaz.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "SALICIO: ¿Ves cómo las ovejas pacen lentas?\nAsí mi corazón por ti se mueve.\nNEMOROSO: Tu mal de amor, pastor, es carga leve\nsi Elisa con sus manos te contenta.\nEl viento en la colina nos alienta\na unir las almas antes que la nieve.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ovejas"
+  }
+}

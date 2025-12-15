@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Habla el viento con las espigas,\nles cuenta historias de ultramar.\nLas ramas comienzan a bailar\ncomo si fueran viejas amigas.\nOlvida, pastor, tus fatigas,\ny escucha al aire suspirar.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "viento"
+  }
+}

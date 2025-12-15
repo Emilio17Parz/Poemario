@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En la balanza,\nla danza,\ndel bien,\ny el quién,\navanza.\n\nLa esperanza,\ny la lanza,\ndel tren,\nEn la balanza.\n\nEl sien,\ny el edén,\nalcanza,\nla panza,\ntambién,\nEn la balanza.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "balanza"
+  }
+}

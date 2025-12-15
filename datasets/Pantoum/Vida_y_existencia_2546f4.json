@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivimos en un sueño,\nmientras dura la noche,\nsomos nuestro propio dueño,\nsin miedo y sin reproche.\n\nMientras dura la noche,\nla realidad se apaga,\nsin miedo y sin reproche,\nla fantasía nos traga.\n\nLa realidad se apaga,\nvivimos en un sueño,\nla fantasía nos traga,\nsomos nuestro propio dueño.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "noche"
+  }
+}

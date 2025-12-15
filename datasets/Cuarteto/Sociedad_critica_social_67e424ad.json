@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Es un derecho la gran libertad,\nque no se compra con ningún dinero,\npues nace libre el hombre verdadero\npor su conciencia y su propia bondad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

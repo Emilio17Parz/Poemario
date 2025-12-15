@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "JUGADOR: Todo al rojo. Es mi última apuesta.\nAZAR: La rueda gira, sube la cuesta.\nJUGADOR: Si gano, cambio, seré mejor.\nAZAR: Eso dicen todos con fervor.\n(La bola cae en el negro)\nJUGADOR: ¡Maldición! ¡Lo he perdido todo!\nAZAR: Así es la vida, barro y lodo.\nYo no tengo culpa, tú decidiste.\nJugar con fuego y te quemaste.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "dados"
+  }
+}

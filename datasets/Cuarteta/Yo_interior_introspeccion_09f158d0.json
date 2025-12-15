@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Esta vida es mía\ny yo la voy a vivir,\ncon gran valentía\nhasta el último latir.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "mía"
+  }
+}

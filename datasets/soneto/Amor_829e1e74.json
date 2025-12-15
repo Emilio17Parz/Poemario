@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si alguna vez te herí con mi torpeza,\no dije lo que nunca debí hablar,\npido a tu noble amor el perdonar,\nbajando ante tus pies mi altiveza.\n\nReconozco mi error y mi flaqueza,\nmi humana condición de tropezar,\npero sabré mi falta remediar\ncon una nueva y límpida pureza.\n\nNo dejes que el rencor haga su nido\ndonde solo habitó la luz dorada,\nni des mi corazón por ya perdido.\n\nDame la redención de tu mirada,\ny volverá el amor que fue herido\na ser la fuerza de esta madrugada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

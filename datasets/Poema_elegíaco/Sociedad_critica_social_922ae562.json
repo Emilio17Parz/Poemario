@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Lloro al ver las pesadas cadenas,\nque arrastra el pueblo sin poder hablar,\nsin derecho a vivir ni a soñar,\ncon el miedo corriendo por las venas.\nTriste destino de la humanidad,\nque ha perdido su luz y voluntad.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

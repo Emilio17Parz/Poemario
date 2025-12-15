@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lloro la muerte del sublime arte,\nque yace roto, sucio y olvidado,\nel genio creador ha claudicado,\ny la belleza de nosotros parte.\nEl mundo se hace feo y material,\nperdiendo su destello celestial.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "arte"
+  }
+}

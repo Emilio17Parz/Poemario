@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Es un laberinto,\nmi propia mente,\nsigo el instinto,\nde la corriente.\n\nMi propia mente,\nlugar confuso,\nde la corriente,\nque yo uso.\n\nLugar confuso,\nes un laberinto,\nque yo uso,\nsigo el instinto.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

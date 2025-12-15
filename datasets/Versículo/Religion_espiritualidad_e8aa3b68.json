@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El Señor es mi pastor; nada me faltará. En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará.\nYo soy el buen pastor; el buen pastor su vida da por las ovejas. Mis ovejas oyen mi voz, y yo las conozco, y me siguen.\nPorque él es nuestro Dios; nosotros el pueblo de su prado, y ovejas de su mano. Si oyereis hoy su voz, no endurezcáis vuestro corazón.\nComo pastor apacentará su rebaño; en su brazo llevará los corderos, y en su seno los llevará; pastoreará suavemente a las recién paridas.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "pastor"
+  }
+}

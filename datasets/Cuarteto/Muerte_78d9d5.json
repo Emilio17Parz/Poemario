@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El lamento del vivo, el triste dolor,\npor aquel que ya no quiere estar,\nes la pena que busca un valor,\nla voz que no quiere callar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Lamento"
+  }
+}

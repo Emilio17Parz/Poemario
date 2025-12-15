@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El ayer ya es historia,\nel mañana es un misterio,\nhoy es la verdadera gloria.\n\nNo vivas de la memoria,\nni del cautiverio,\nel ayer ya es historia.\n\nLa vida transitoria,\nes el imperio,\nhoy es la verdadera gloria.\n\nSin escapatoria,\ndel criterio,\nel ayer ya es historia.\n\nLa trayectoria,\ndel refrigerio,\nhoy es la verdadera gloria.\n\nEs la victoria,\ndel ministerio,\nel ayer ya es historia,\nhoy es la verdadera gloria.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "presente"
+  }
+}

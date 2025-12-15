@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El fuego interior,\nes la pasión que consume,\ny te hace fuerte.\nLa chispa del heroísmo,\nque nunca debe apagarse.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Fuego"
+  }
+}

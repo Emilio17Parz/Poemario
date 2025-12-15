@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el río buscando el mar inmenso,\nsin detener su marcha cristalina,\nllevando su caudal siempre propenso.\n\nEn su murmullo hay un cantar denso,\nque baja desde la alta colina,\ncorre el río buscando el mar inmenso.\n\nNo pide pausa ni pide descenso,\nsolo seguir la ruta que domina,\nllevando su caudal siempre propenso.\n\nEs el espejo del cielo suspenso,\ndonde la luz del sol se difumina,\ncorre el río buscando el mar inmenso.\n\nLava las piedras con un toque tenso,\ny la ribera verde se ilumina,\nllevando su caudal siempre propenso.\n\nViaje sin fin, eterno y extenso,\nhasta que en la salada agua termina,\ncorre el río buscando el mar inmenso,\nllevando su caudal siempre propenso.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por senderos de bruma, el héroe se alza ya,\nsu mano en la empuñadura de la vieja espada,\nun grito de batalla en el viento viajará,\nmientras forja su gloria la aventura amada.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Usó filtros en la foto,\ncon un cambio remoto.\nAl quedar luego,\nfue como un juego,\nde buscar al piloto.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "foto"
+  }
+}

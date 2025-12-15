@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El acero brillante,\ncorta el aire con filo decidido,\nen el instante,\ndel estallido,\nde la lucha que el héroe ha querido.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "acero"
+  }
+}

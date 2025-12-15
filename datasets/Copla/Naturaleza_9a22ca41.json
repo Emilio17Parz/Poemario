@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento mueve la rama,\nla rama mueve la flor,\ny tú mueves mi sentido\ncon palabras de amor.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "aire"
+  }
+}

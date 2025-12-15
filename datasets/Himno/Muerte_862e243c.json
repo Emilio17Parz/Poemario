@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Honra a los que partieron antes,\npadres, amigos, seres queridos,\nque aunque en la tierra estén dormidos,\nviven en almas de los amantes.\n\nCantemos himnos a su memoria,\nflores llevemos a su lugar,\nque nunca dejen de brillar,\nen los altares de nuestra historia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

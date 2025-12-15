@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Buscan los hombres el gran tesoro,\npierden la vida por el tesoro.\n\nOculto yace en la oscuridad,\nbrillo maldito del gran tesoro.\n\nLa verdadera riqueza no es,\nel oro frío del gran tesoro.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

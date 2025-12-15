@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Café malo y pastas secas,\nsala de espera final,\ncaras largas y hipotecas,\nen ambiente sepulcral.\nEl muerto es el único allí,\nque descansa de verdad, sí.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Tanatorio"
+  }
+}

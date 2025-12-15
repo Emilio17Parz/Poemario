@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El niño soñó que el abuelo volvía a casa,\nCon el rostro sin arrugas, sin ninguna grasa.\nLe dijo 'no te asustes, esto es solo un viaje',\nLa muerte es el sueño de un largo paraje.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

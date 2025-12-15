@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Nacimos para la libertad,\nvivir sin yugos ni cadenas,\ncon respeto y dignidad.\n\nEs la suprema necesidad,\npara borrar todas las penas,\nnacimos para la libertad.\n\nEjercer nuestra voluntad,\nen las cosas buenas y amenas,\ncon respeto y dignidad.\n\nLuchar contra la autoridad,\nque nos impone sus condenas,\nnacimos para la libertad.\n\nBuscar siempre la verdad,\ncon las manos limpias y llenas,\ncon respeto y dignidad.\n\nEsta es la gran realidad,\nque corre por nuestras venas,\nnacimos para la libertad,\ncon respeto y dignidad.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

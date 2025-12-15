@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busca la gloria eterna\nel soldado en la contienda,\npara que el mundo entienda\nsu valentía moderna.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "fama"
+  }
+}

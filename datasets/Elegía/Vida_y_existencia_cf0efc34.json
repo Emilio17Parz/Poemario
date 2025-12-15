@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Seremos nada un día,\nnombre que nadie dice,\npolvo que el viento pise,\nperdida la melodía.\nTriste filosofía,\nque el tiempo predice,\nque la muerte barnice\ntoda nuestra porfía.\nEl olvido es la fosa,\nmás honda y oscura,\ndonde cae la rosa.\nNo habrá escultura,\nni memoria hermosa,\nsolo la negrura.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "En tierras lejanas, el orbe sombrío\nInvoca al bravo de firme coraje;\nAl cruce del dolor, el viaje empieza,\nAlumbra el cielo su noble empresa.\n\nLa selva virgen, el viento inclemente,\nCon mil peligros su paso amenaza;\nMas la virtud será escudo y refuerzo,\nBaliza firme en la noche oscura.\n\nUn monstruo antiguo, de fauces horrendas,\nSurge del caos con su aliento de fuego;\nLa espada alzará, la fe le acompaña,\nFirme el brazo, sin miedo a la muerte.\n\nSu hazaña noble, de eterno recuerdo,\nSe grabará en los anales del tiempo;\nLogró al fin la virtud, su ansiado objetivo,\nLa ansiada y suprema **gloria** del triunfo.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

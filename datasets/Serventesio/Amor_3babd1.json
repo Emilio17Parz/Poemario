@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi alma te busca con gran agonía atroz (A),\nsin tu ser no encuentra su rumbo ni paz (B),\ntú eres la flama, la eterna voz (A),\nla fuerza que viene tenaz (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

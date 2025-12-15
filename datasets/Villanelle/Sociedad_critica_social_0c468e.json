@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mundo quemado que dejaremos,\na los que vienen detrás,\nsi el rumbo no torcemos.\n\nLos bosques verdes perderemos,\ny no volverán jamás,\nmundo quemado que dejaremos.\n\nEl aire sucio beberemos,\ncon máscara y antifaz,\nsi el rumbo no torcemos.\n\nEn el abismo caeremos,\ncon un golpe tenaz,\nmundo quemado que dejaremos.\n\nLa tierra madre mataremos,\ncon nuestra guerra voraz,\nsi el rumbo no torcemos.\n\nEs hora de que despertemos,\ny busquemos la paz,\nmundo quemado que dejaremos,\nsi el rumbo no torcemos.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La miel de tu boca es un don sin igual (A),\nla calma que viene, el dulce fanal (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Dulce"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Aquel que desafía\nla muerte por salvar a sus hermanos;\ncon fuertes manos\ny valentía;\nmerece que la fama lo corone;\ny se entone\nun canto en su loor,\nque venza al tiempo y venza al dolor.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

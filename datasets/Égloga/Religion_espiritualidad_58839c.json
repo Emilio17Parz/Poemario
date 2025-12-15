@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Perdido anduve por sendas vanas,\nolvidando tu ley sagrada.\nMi alma estaba manchada\npor pasiones humanas.\nHoy suenan las campanas\nde un alma perdonada.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sendas"
+  }
+}

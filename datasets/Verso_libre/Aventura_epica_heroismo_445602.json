@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Armadura brillante,\ncódigo de honor.\nEl caballero es un anacronismo,\nuna idea romántica\nen un mundo sucio.\nPero alguien tiene que defender el puente.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

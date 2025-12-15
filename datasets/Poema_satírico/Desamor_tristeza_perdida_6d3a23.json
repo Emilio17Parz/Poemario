@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Libre al fin, grita el viento,\npero duerme con el gato,\nmiente sobre su contento,\nen este triste relato.\nMejor solo que mal acompañado,\ndice el que fue dejado.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Soltería"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pasan los años y cambia la piel,\ncaen los muros de la vanidad,\npero mi alma te sigue fiel,\nen la tormenta y en la soledad.\nEs un juramento escrito en papel,\nque no deshace ni el crudo invierno,\nporque bebí de tu boca la miel,\nde un sentimiento puro y eterno.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

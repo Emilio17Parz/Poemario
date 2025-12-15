@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Siento la pena,\nmuy profunda,\nque inunda,\nmi colmena.\nUna cadena,\nque fecunda.\nSiento la pena.\n\nLlorar al muerto,\nes natural,\nmanantial,\nen el desierto.\nA cielo abierto,\ny total.\nSiento la pena.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "pena"
+  }
+}

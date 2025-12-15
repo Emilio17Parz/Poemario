@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "E ntre el cielo y la tierra,\nT u amor es mi única fe,\nE n cada paso que doy,\nR ecuerdo por qué te amé,\nN o habrá final para esto,\nO lvidar nunca podré.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

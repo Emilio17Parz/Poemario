@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rostros tersos y brillantes,\nojos llenos de ilusión,\nla belleza de ser joven\nes la mejor condición.\nEs la fuerza de la vida\nen su máxima expresión,\nantes de que el tiempo ponga\nsu marca de destrucción.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

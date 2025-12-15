@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Un cura de nombre Ramón,\ndaba un larguísimo sermón.\nLa gente roncaba,\ny él no paraba,\nperdiendo toda la atención.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "cura"
+  }
+}

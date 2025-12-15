@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se apaga el eco de tu melodía,\nel timbre sonoro que me despertaba,\nla dulce canción que el alma cantaba,\nllenando de luz y color mi día.\n\nAhora reina la melancolía,\ny el silencio atroz que todo lo acaba,\nbusco tu voz, que tanto amaba,\npero solo encuentro la tumba fría.\n\nVoz silenciada, música muerta,\nque deja mi vida gris y desierta.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "voz"
+  }
+}

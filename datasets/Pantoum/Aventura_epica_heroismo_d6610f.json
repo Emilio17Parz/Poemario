@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Espada brilla al sol,\nvaliente corazón late.\nBajo el arrebol,\nlisto para el combate.\n\nValiente corazón late,\ndefensor de la gente.\nListo para el combate,\ncon mirada al frente.\n\nDefensor de la gente,\nbajo el arrebol.\nCon mirada al frente,\nespada brilla al sol.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

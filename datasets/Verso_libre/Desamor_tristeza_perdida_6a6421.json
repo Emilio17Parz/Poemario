@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu ausencia ocupa más espacio\nque tu presencia.\nLlena la cama,\nse sienta a la mesa,\nme mira desde el espejo.\nEs un fantasma gordo\nque no me deja respirar.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La arena es polvo de tiempo, molido ya,\nque guarda secretos de la antigua edad.\nSe escapa entre los dedos, ¡ay!,\ncon su lección de fugaz verdad.\n\nEs la huella que borra el mar sin fin,\nrecordándonos nuestro confín.\nTan pequeña, y tan grande su historia,\nceniza de siglos en mi memoria,\nsímbolo de lo que un día fue.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "arena"
+  }
+}

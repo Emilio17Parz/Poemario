@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Después de la lucha viene la calma,\ndescanso supremo para el alma.\nSe acaban las guerras y el sufrimiento,\nse apaga el fuego del pensamiento.\n\n¡Loor a la paz que la muerte regala,\nque al más humilde con el rey iguala!\nDormir sin sueños por siglos sin fin,\nen el silencio del vasto confín.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge la gran batalla,\ny nadie se calla.\n\nCañones tronando,\nhombres luchando,\ny avanzando,\nsaltando la valla.\n\nRuge la gran batalla,\ny nadie se calla.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

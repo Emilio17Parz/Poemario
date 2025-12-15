@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No digas 'no tengo tiempo',\ndi 'no es mi prioridad',\nel pasatiempo,\nes la verdad.\nTenemos las mismas horas,\nque las señoras.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Tiempo"
+  }
+}

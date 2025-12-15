@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El dinero manda hoy,\ny compra la voluntad,\nborrando la honestidad,\ndonde quiera que voy.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "oro"
+  }
+}

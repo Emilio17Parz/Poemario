@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Perdí una oveja ayer,\npor dormirme en el laurel,\nel error es un cincel,\nque nos ayuda a aprender.\n\nNo hay que dejarse caer,\npor la falta cometida,\nsino seguir en la vida,\nintentando renacer.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "error"
+  }
+}

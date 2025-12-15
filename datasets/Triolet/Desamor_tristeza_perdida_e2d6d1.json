@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No queda nada de ti,\nSolo un inmenso vacío,\nDesde el día en que te vi.\nNo queda nada de ti,\nTodo lo que yo sentí,\nSe lo ha llevado el río.\nNo queda nada de ti,\nSolo un inmenso vacío.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "nada"
+  }
+}

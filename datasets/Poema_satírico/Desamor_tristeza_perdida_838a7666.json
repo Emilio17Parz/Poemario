@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te fuiste y lloré un rato,\npensando en mi desventura,\npero ahora veo la cura,\nen este nuevo trato.\nYa no aguanto tu zapato,\nni tu madre y su locura,\nla soltería es la altura,\ny tú eras el pato.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

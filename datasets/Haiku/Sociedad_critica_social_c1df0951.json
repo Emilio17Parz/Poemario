@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Ruido constante,\nprisa que nunca para,\nhormigas locas.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

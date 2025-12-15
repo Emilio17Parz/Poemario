@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro frente al espejo\ny no sé a quién estoy viendo,\nsi es el rostro que yo fui\no el que me estoy volviendo.\nLos ojos guardan historias\nque yo mismo no comprendo,\ny en el cristal de la vida\nmi ser se va disolviendo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

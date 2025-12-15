@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Temes que llegue tu fin,\ny dejes este jardín.\nPero si vives quejando,\ny a todos molestando,\nel día de tu funeral,\nserá fiesta nacional.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "fin"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brillo de piedra\nfrío lujo que encanta\nfuego y metal.\nAdorno de la carne\nque seduce al mirar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "joya"
+  }
+}

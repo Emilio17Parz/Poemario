@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Yace en la fría tumba,\nmientras el mundo retumba.\n\nYa no siente el dolor,\nni el frío ni el calor,\nperdió todo color,\ny la sombra lo tumba.\n\nYace en la fría tumba,\nmientras el mundo retumba.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

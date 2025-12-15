@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La reina viste de negro luto,\nel rey ha muerto en la justa lid,\nllora el reino, llora el Adalid,\npor el golpe seco y bruto.\nYa no habrá fiestas ni tributo,\nsolo el silencio de la vid,\ny el dolor que pide, decid,\ncuándo acaba el tiempo de luto.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "viuda"
+  }
+}

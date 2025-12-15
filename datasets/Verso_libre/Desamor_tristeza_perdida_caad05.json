@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dicen que el tiempo cura,\npero el tiempo es solo un reloj que avanza.\nNo es médico, es notario.\nCertifica que ha pasado un día más,\nuna semana más,\nsin que deje de doler.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

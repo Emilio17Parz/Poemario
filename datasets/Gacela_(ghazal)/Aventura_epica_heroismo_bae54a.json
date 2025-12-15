@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Acecha en la sombra el vil monstruo,\npesadilla viva, el vil monstruo.\n\nDevora sueños y siembra el mal,\nengendro oscuro, el vil monstruo.\n\nLa luz del valor lo hará caer,\nvencido por siempre, el vil monstruo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "monstruo"
+  }
+}

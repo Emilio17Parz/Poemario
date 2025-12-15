@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se cuenta un viejo cuento\nde héroes y de gigantes,\nque viaja con el viento\na tierras muy distantes.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "cuento"
+  }
+}

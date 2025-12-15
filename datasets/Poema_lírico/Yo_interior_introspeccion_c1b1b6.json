@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El espejo no habla,\nsolo muestra mi ser.\nLa vida que se dobla\nsin poder ver.\n\nMe mira y me juzga\ncon fría piedad,\nla única soga\nsin ninguna edad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

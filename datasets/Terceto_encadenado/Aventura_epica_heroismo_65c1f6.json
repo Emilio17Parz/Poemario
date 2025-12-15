@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El coraje no es ausencia,\nde miedo ante el peligro,\nsino la resistencia.\n\nYo no emigro,\nme quedo a pelear,\ncon el instinto de un tigre.\n\nEn el lugar.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "valor"
+  }
+}

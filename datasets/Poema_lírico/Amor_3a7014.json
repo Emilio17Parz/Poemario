@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me miro en tus ojos\ny no encuentro el reflejo.\nSolo veo mi alma\ndisipada sin viejo\n\ny nuevo temor.\nEres el lago quieto\ndonde mi ser se ahoga\nen este amor secreto.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

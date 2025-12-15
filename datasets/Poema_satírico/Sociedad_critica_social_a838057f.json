@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Estamos unidos,\npor el celular,\npero no sabemos,\nni conversar.\nEn la misma mesa,\nnadie se mira,\ntodos escriben,\nsu propia mentira.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "móvil"
+  }
+}

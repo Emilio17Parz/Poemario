@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La Odisea no es llegar al hogar,\nsino la senda, el monstruo, el camino.\nLuchar contra el cíclope y el destino,\ny en cada puerto volver a zarpar.\nLa vida es la gesta del caminante,\nque avanza con paso firme y constante.\nCada huella es un verso del poema,\nque escribe la historia de nuestra yema.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mito antiguo,\nSe cuenta hoy,\nNo es ambiguo.\nMito antiguo,\nQue sigo,\nDonde voy.\nMito antiguo,\nSe cuenta hoy.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mito"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dicen que el amor se muere\ncuando la vejez asoma,\npero el nuestro es como el vino\nque mejora con su aroma.\nTe querré cuando seas blanca\ncomo la blanca paloma,\ny estemos juntos por siempre\nen la celestial loma.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

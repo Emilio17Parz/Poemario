@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No vestí el color negro\nni lloré en tu tumba.\nSolo sentí un peso\ncomo si el cielo rumba.\n\nEl adiós no fue un grito,\nfue un corte seco y frío,\nel fin de la marea\nen el borde del río.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

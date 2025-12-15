@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me gusta oír tu voz,\nme llena de emoción,\nes un lazo atroz,\nde nuestra unión.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "unión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Resuena como un mazo el triste adiós,\nque puso fin a nuestra breve historia,\nborrando de la vida y la memoria,\nel sueño compartido de los dos.\nQueda el silencio en la habitación,\ny el luto cubriendo mi corazón.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

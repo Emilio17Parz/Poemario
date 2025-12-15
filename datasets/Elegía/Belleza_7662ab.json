@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Páginas rotas y amarillas,\nhistorias que nadie lee,\npolvo que se ve,\nen las orillas.\n\nMaravillas,\nque se fue,\nla fe,\nen astillas.\n\nSaber olvidado,\njamás recordado.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "libro"
+  }
+}

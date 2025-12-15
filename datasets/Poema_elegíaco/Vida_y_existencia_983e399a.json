@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Oh, trama inmensa del existir fugaz,\nDonde el alma se teje, efímera y divina,\nUn hálito, un destello, un frágil solaz,\nQue el tiempo implacable teje y desatina.\n\nVemos pasar los siglos, las edades dormidas,\nEl rostro que fue savia, la arruga que se anida,\nEsperas al vacío, promesas no cumplidas,\nY el eco de lo sido, de la vida sentida.\n\n¿Qué somos, sino un breve, un pálido **sueño**\nQue la conciencia trama en su efímero andar?\nUn soplo en la memoria del eterno dueño,\nQue al despertar se pierde sin poder regresar.\n\nLas risas, los adioses, el anhelo y la herida,\nFiguras que se esfuman en la bruma ancestral.\nSolo perdura un vago sentido de la vida,\nUn murmullo constante, un lamento final.\n\nYace el amor, el odio, la belleza que fue,\nRetorna el polvo al polvo, la luz a la matriz.\nMas queda el hondo rastro del alma que se ve\nEn cada estrella errante, en cada amarga raíz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Más triste que morir\nes dejar en la mente de existir.\nCaer en el olvido,\nser sonido perdido.\nQue mi nombre perdure\ny en tu memoria el tiempo no lo cure.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No hay mapa para vivir.\nSe hace camino al andar,\ntropezando, cayendo, levantando.\nCada decisión es un cruce,\ncada error una lección.\nLo importante no es llegar a la meta,\nsino cómo pisamos la tierra\nmientras duró el viaje.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "camino"
+  }
+}

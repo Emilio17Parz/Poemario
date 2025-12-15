@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Espero la llamada que no llega,\nel móvil callado en la mesa,\nla angustia me ciega y me pega,\npesada y cruel es la presa.\n\nEl móvil callado en la mesa,\nel tiempo se arrastra muy lento,\npesada y cruel es la presa,\nllevada por ráfagas de viento.\n\nEl tiempo se arrastra muy lento,\nla angustia me ciega y me pega,\nllevada por ráfagas de viento,\nespero la llamada que no llega.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "llamada"
+  }
+}

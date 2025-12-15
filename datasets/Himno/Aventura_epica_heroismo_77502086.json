@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Desde el alma del tiempo, un canto se alza ya,\nQue a las huestes valientes al viaje guiará.\nLa epopeya nos llama, el destino a trazar,\nSobre cimas y abismos que hemos de cruzar.\n\nCon la espada del coraje y el escudo de la fe,\nEnfrentamos mil sombras, ¡ninguna nos detiene!\nPor los reinos olvidados, do la muerte se prevee,\nNuestro paso resuena, la victoria nos sostiene.\n\nPor la estirpe y la promesa, por el honor sin par,\nEntregamos la vida, sin dudar ni vacilar.\nCada herida es un sello, un valiente luchar,\nQue en la forja del héroe su temple va a mostrar.\n\nY al fin de la contienda, cuando el sol se haya ocultado,\nUn legado de gestas habremos labrado.\nNuestros nombres grabados, jamás serán olvido,\n¡Por siempre en la **gloria**, el himno ha de ser oído!",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

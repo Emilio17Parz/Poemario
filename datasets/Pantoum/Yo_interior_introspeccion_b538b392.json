@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco la calma,\nen el ruido,\npara el alma,\nque ha sufrido.\n\nEn el ruido,\ndel mundo,\nque ha sufrido,\nprofundo.\n\nDel mundo,\nbusco la calma,\nprofundo,\npara el alma.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "calma"
+  }
+}

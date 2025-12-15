@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me he exiliado de mí, mi cuerpo es un extraño sin fe, solo y cruel,\nla vida sin la calma, el sino fatal.\nEl destierro es el precio que el alma me dio sin razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el hogar que mi espíritu no puede hallar jamás sin luz ni voz,\ny mi destino es el castigo de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "exilio"
+  }
+}

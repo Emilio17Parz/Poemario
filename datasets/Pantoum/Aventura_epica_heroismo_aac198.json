@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Corona sobre la frente,\ngobierna con poder.\nAnte su gente,\nlo que ha de ser.\n\nGobierna con poder,\njusticia y mano dura.\nLo que ha de ser,\ncon gran altura.\n\nJusticia y mano dura,\nante su gente.\nCon gran altura,\ncorona sobre la frente.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "rey"
+  }
+}

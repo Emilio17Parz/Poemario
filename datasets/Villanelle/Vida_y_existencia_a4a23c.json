@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La fe mueve la montaña,\ny nos da la fuerza,\nsin usar ninguna maña.\n\nLa duda no daña,\nni la tuerza,\nla fe mueve la montaña.\n\nEs la hazaña,\nque se esfuerza,\nsin usar ninguna maña.\n\nNo es extraña,\nla que ejerza,\nla fe mueve la montaña.\n\nNos acompaña,\ny refuerza,\nsin usar ninguna maña.\n\nNo engaña,\nla que alambra,\nla fe mueve la montaña,\nsin usar ninguna maña.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "fe"
+  }
+}

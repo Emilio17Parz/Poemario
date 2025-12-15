@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[LA MUJER]\n(Tocando el labio del difunto)\nSe ha ido la voz. Se ha ido la risa y el insulto y el canto. Solo queda el aire.\nEl silencio de la muerte es el más puro que existe. No miente. No espera.\nMe habla de una verdad que no quiero oír: que mi ruido no es importante.\nEl mundo sigue, y mi dolor es solo una nota en este vasto silencio.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

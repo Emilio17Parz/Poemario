@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La naturaleza nada desperdicia,\ntodo transforma con gran pericia.\nLa hoja caída nutre el suelo,\nel animal muerto reinicia el vuelo.\nImita al bosque y aprende a usar,\nlo que creíste que era tirar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "reciclaje"
+  }
+}

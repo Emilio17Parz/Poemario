@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Brilla en mi ser la celestial luz,\nque disipa las dudas y el temor,\nregalo que nos llega de la cruz.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "luz"
+  }
+}

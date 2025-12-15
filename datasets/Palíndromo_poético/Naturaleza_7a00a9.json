@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Brilla el sol\nen el cielo\nluz dorada\nen el cielo\nbrilla el sol",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "sol"
+  }
+}

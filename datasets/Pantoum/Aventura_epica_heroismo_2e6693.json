@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Extiendo el mapa arrugado,\ntierras por descubrir,\nun mundo soñado,\ndonde quiero ir.\n\nTierras por descubrir,\nmás allá del mar,\ndonde quiero ir,\nsin descansar.\n\nMás allá del mar,\nextiendo el mapa arrugado,\nsin descansar,\nun mundo soñado.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Juega niño mientras puedas,\nque la vida es un momento,\nque luego vienen las penas\ny se acaba el contento.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "jugar"
+  }
+}

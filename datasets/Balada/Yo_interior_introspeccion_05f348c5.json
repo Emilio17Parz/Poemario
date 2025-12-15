@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hablo con mi alma en secreto,\nle pregunto qué quiere,\nme dice que esté quieto,\ny que espere y espere.\nQue lo que el mundo prefiere,\na ella no la hiere.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "alma"
+  }
+}

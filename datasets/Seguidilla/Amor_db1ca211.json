@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi amor te busca siempre\ncon gran querer.\nMi alma arde de fuego\nal verte, mujer.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

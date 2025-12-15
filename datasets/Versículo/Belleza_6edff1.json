@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una sonrisa sincera es la curva más perfecta que puede trazar el cuerpo humano, un arcoíris en el rostro.\nTiene el poder de desarmar ejércitos y de iluminar la habitación más oscura con su resplandor humano.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

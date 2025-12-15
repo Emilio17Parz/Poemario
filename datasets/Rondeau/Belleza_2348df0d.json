@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verde manto de la tierra,\nque el bosque encierra,\ncon vida y color,\ny fresco olor,\nlejos de la guerra.\n\nLa montaña se aferra,\na la nube que yerra,\ncon gran valor,\nverde manto.\n\nEs la paz que destierra,\nal ruido que aterra,\ny nos da el amor,\ndel Creador,\nque nunca cierra,\nverde manto.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos la verdad como quien busca oro,\nescarbando en la mentira y la apariencia.\nPero la verdad a veces duele,\nes una luz demasiado brillante\npara nuestros ojos acostumbrados a la sombra.\nAun así, la perseguimos,\nporque vivir en la mentira\nes estar muerto en vida.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

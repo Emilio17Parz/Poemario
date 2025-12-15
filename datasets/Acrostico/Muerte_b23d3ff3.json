@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "**M**isterio insondable, fin de toda existencia,\n**U**ltimatum silencioso, sin resistencia.\n**E**terno reposo, crisálida del ser,\n**R**endición final que nos ha de envolver.\n**T**ransición sombría, velo de lo ignorado,\n**E**n el tiempo que la **memoria** ha guardado.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cinta de plata que cruza el valle,\nllevando vida en su caudal sereno,\nlavando el suelo de dolor y cieno,\nsin que haya nadie que su paso acalle.\n\nNo busca gloria, ni pide detalle,\nsolo seguir su curso siempre bueno,\nhasta llegar al mar, su gran terreno,\nabriendo paso por la roca y calle.\n\nEs sangre de la tierra que camina,\nreflejo de los sauces que lo miran,\ny de la luz que el cielo le destina.\n\nSus aguas claras siempre nos inspiran,\npues en su marcha constante y divina,\nlas penas de los hombres se retiran.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor nos abraza, dulce vela,\nQue la vida ilumina con ardor.\nEs un bálsamo suave que consuela,\nY del alma disipa el viejo error.\n\nEl amor nos abraza, dulce vela,\nCon un fuego que quema sin temor,\nEl amor nos abraza, dulce vela,\nQue la vida ilumina con ardor.\n\nSu pureza a la luna nos revela,\nUn deseo que crece con primor,\nY nos da la certeza de un fulgor,\nEl amor nos abraza, dulce vela,\nQue la vida ilumina con ardor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque antiguo, con ramas frondosas,\nbajo el sol claro que dora las cimas,\nel río fluye lento y callado,\ny ya la luna su plata derrama.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "luna"
+  }
+}

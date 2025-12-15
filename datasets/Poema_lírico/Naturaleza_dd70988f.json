@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante de piedra y nieve,\nque tocas el firmamento,\naguantas el duro viento,\ny el tiempo que pasa leve.\nMi espíritu se conmueve,\nante tu gran monumento.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

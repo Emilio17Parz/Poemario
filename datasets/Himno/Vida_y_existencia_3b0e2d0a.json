@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Brille la Verdad como una antorcha,\nguía segura de la existencia,\nlejos del vicio y la apariencia,\nque al alma noble nunca antorcha.\n\nBusquemos siempre lo verdadero,\naunque nos cueste dolor y llanto,\npues la mentira causa espanto,\ny la verdad es el buen sendero.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luz"
+  }
+}

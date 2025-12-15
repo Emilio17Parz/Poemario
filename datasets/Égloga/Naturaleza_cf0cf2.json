@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Aunque soy pastor de tierra adentro,\nsueño a veces con la mar salada.\nInmensidad azul y agitada,\nde la fuerza y vida el centro.\nPero en mi valle yo me encuentro,\ndonde la paz me es dada.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "mar"
+  }
+}

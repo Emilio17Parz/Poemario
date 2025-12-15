@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tiene el porte,\nde una reina,\nque se peina,\nel norte.\nEl soporte,\nque reina.\nTiene el porte.\n\nCamina lento,\ncon gracia,\nla audacia,\ndel viento.\nEl asiento,\nde la acia.\nTiene el porte.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "porte"
+  }
+}

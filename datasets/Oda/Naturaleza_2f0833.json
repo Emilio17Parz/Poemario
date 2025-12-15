@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Columna de vida,\nraíz en la tierra,\nque al suelo se aferra,\ncon fuerza medida.\nDas sombra y aire,\ncon bello donaire.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

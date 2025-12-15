@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pelo blanco,\ny arrugas,\ncomo orugas,\nen el banco.\nSoy un flanco,\ndébil ya,\nque se va,\nal barranco.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

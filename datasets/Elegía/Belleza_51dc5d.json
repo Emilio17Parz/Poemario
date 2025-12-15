@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Murieron las palabras bellas,\nel verso libre y la rima,\nya nadie se aproxima,\na las lejanas estrellas.\n\nSe borraron las huellas,\nen la alta cima,\ny el alma lastima,\nverlas tan de aquellas.\n\nLenguaje del corazón,\nmuerto sin razón.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

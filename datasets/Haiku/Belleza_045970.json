@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brillo de piedra\nfuego frío y duro\nlujo visual.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "joya"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Halló la calma un día, sin buscarla jamás,\nUn suave murmullo, sin prisas y sin más.\nLa paz no era un premio, sino una llegada,\nLa quietud del alma, por nadie lograda.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo se rompe con el estruendo,\nel rayo dibuja grietas de luz,\ny el caos se va poco a poco haciendo.\n\nLa naturaleza carga su cruz,\nbajo el agua que cae con violencia,\nen este temporal sin trasluz.\n\nCon mucha potencia.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

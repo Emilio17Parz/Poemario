@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa tranquilo\nen tu lecho frío,\nque ya no te alcanza\nel dolor impío.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "paz"
+  }
+}

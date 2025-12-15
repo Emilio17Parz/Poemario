@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un eco tierno en el alma que siente,\nsusurro etéreo de dulce fulgor,\nque en cada aurora se hace presente,\ny en cada pulso me invita a tu amor.\n\nNo es una sombra que pasa fugaz,\nni brisa efímera de un campo en flor,\nes la certeza que el tiempo es incapaz\nde borrar la huella de este amor.\n\nEn tus miradas, un hondo vivir,\nen cada gesto, una tierna misión;\nmi ser se consume, mi alma al sentir\nun inextinguible y sagrado fuego en mi corazón.\n\nAsí, prendido a tu luz sin igual,\nmi espíritu danza, libre y audaz,\npor este sendero de amor inmortal,\nque el universo jamás deshará.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

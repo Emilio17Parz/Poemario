@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuatro llamas velan tu sueño inerte,\ndando calor a la estancia fría,\nes el adiós de la compañía,\nantes de entregarte a la suerte.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "velas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rompí lo que escribiste,\npara no recordar,\nel tiempo de amar,\nque tú desvaneciste.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "carta"
+  }
+}

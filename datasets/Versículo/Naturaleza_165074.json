@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El horizonte es la línea inalcanzable donde se besan el cielo y la tierra, la promesa de que siempre hay más allá.\nNos invita a caminar, a navegar, a soñar, tirando de nosotros con el imán de la lejanía infinita.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "horizonte"
+  }
+}

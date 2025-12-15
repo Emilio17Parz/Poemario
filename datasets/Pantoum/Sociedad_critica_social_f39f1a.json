@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cerrar el cerrojo,\ntemor al vecino.\nMirar de reojo,\nculpar al destino.\n\nTemor al vecino,\nla confianza muere.\nCulpar al destino,\nque tanto hiere.\n\nLa confianza muere,\nmirar de reojo.\nQue tanto hiere,\ncerrar el cerrojo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El ser es la condena que el alma me dio,\nla vida sin la calma que el tiempo me vio.\nCargo el peso del cuerpo, el dolor y el mal,\nla sombra constante de un sino fatal.\n\nNo tengo el camino, no tengo la paz,\nla vida sin la calma, sin ser capaz.\nMi pena es el eco de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ser"
+  }
+}

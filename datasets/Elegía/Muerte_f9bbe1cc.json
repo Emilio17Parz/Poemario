@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El telón de la vida, hoy caído,\nUn eco mudo que el aire quiebra.\nTu risa, antaño vívida, se ha ido,\nY el corazón, de luto, no lo cree.\n\nEl lecho frío, el sitio sin tu paso,\nUn hueco amargo que el tiempo no clausura.\n¿Dónde la luz que iluminaba el vaso?\n¿Dónde el calor que ahuyentaba la penumbra?\n\nPensar que todo empeño, todo anhelo,\nSe rinde al fin a la mortal cadena.\nDe carne fuimos, y al etéreo cielo,\nRegresamos al fin, hechos de **polvo** y pena.\n\nMas no es el fin, no es el olvido ciego,\nLa esencia pura que tu ser tejiera.\nEn cada flor, en cada manso ruego,\nTu espíritu inmortal aún reverbera.\n\nDescansa en paz, oh alma, ya serena,\nMás allá del dolor, del tiempo efímero.\nTu estela brilla, aunque la noche plena,\nNos guarde aún en este valle lúgubre.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

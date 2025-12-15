@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río corre buscando el mar,\nnunca se para a descansar,\nsu agua no puede retornar,\nsolo fluir y continuar.\nComo la vida que ha de pasar,\nsin que la podamos atajar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "río"
+  }
+}

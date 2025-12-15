@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Murió el niño que creía en hadas,\nen reyes magos y en bondad pura,\nla vida con su mano dura,\nle dio bofetadas y estocadas.\n\nLas miradas limpias y sagradas,\nse llenaron de gris amargura,\nperdiendo la blanca frescura,\nde las mañanas iluminadas.\n\nLloro la inocencia perdida,\nmanchada por la cruda vida.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "inocencia"
+  }
+}

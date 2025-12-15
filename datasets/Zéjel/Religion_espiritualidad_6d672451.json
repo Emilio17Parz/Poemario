@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Me sostiene mi fe,\ny me mantengo en pie.\n\nCreo en lo divino,\nque marca el camino,\ny cambia el destino,\naunque yo no lo ve'.\n\nMe sostiene mi fe,\ny me mantengo en pie.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "fe"
+  }
+}

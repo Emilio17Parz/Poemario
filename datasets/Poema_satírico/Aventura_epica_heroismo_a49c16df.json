@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Blandes tu fiera espada,\nque compraste en rebajada.\nTe crees el Cid Campeador,\nmatando moscas con furor.\nGuarda el arma de juguete,\ny cómete el filete.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

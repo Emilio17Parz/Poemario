@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Danza que expresas el dolor total,\nel arte que el alma no quiere ya dar.\nTu ritmo es sombra, sin un gran mal,\nel alma sin poder anclar.\nTu forma es triste, la verdad es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

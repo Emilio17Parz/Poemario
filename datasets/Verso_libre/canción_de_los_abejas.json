@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Canción de los abejas",
   "poema": {
     "texto": "En la colmena reina la reina,\nUn trono de cera y polen,\nSi es que es rey, es de broma,\nSu súbdito no se preocupa.\n\nUn ejército armado con veneno,\nLuchan por el control del miel,\nAunque en la batalla pierdan su vida,\nSon reemplazados sin duda.\n\nAsí vive la sociedad de las abejas,\nGobernada por una oligarquía,\nEsperanza que algún día se amene,\nY abran un camino a la libertad.",

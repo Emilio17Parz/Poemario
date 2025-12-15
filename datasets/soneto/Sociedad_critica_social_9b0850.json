@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La balanza se inclina por el oro,\ny la espada golpea al inocente,\nmientras calla la voz del presidente,\ny se vende la ley en el foro.\n\nEl pobre grita en medio del coro,\npero su queja muere de repente,\nahogada por el ruido de la gente,\nque ignora con desdén el deterioro.\n\nLa justicia es mujer ciega y vendada,\nque tropieza en los salones de mármol,\ndejando la verdad desamparada.\n\nCrece torcido el fruto y el árbol,\nen esta sociedad tan desgraciada,\ndonde el derecho es frío como el mármol.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "injusticia"
+  }
+}

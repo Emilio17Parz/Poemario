@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor no es jaula ni prisión,\nes libertad en el corazón.\nSi quieres amar con sabiduría,\nrespeta el espacio y la autonomía.\nAmar es dejar al otro ser,\nsin intentar su esencia torcer.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "respeto"
+  }
+}

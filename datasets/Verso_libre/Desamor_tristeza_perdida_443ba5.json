@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quemamos las naves\ny ahora miramos el humo.\nNo queda madera para volver,\nni fuego para calentarnos.\nSolo ceniza gris\nque se te pega en las manos\ny ensucia todo lo que tocas.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo se rompe como un cristal.\nYa no hay horas, ni días, ni años.\nEntramos en el mar sin orillas\nde la eternidad.\nLo que fuimos se diluye\nen la luz perpetua,\ndonde todo es siempre\ny nada pasa.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

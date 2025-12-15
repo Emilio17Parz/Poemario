@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tocar el arpa en la nube,\npor toda la eternidad,\naburrido el que sube,\na esa santidad.\nPrefiero el bar del infierno,\nque es mucho más moderno.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Cielo"
+  }
+}

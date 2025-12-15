@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu silencio es un cuchillo\nque corta el aire en dos,\nprefiero que me gritaras\ny me dijeras adiós.\nPero callas y me ignoras\ncon ese gesto atroz,\ny matas lo que tuvimos\nsin usar siquiera la voz.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

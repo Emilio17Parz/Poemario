@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No el del reloj que marca las horas,\nsino el que siente el alma lenta,\nmomentos eternos que demoras,\ny años que pasan como tormenta.\nEl tiempo del ser es elástico,\nmágico, raro y fantástico.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Tiempo_Interior"
+  }
+}

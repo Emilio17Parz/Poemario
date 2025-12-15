@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Puro fuego que en mis venas arde,\nAbrasando la razón y el miedo,\nSiento cómo el corazón late fuerte,\nImpidiendo que me quede quedo.\nOh, locura que a mi ser invade,\nNunca dejes de quemar mi credo.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

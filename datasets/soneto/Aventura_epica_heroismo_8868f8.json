@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cae el tirano, la torre se hunde,\nla luz regresa al reino oprimido,\nel mal ha sido al fin vencido\ny la alegría por doquier cunde.\n\nPero el héroe, que en sangre se funde,\nmira el campo de batalla herido,\ny siente un dolor profundo y perdido\nque con la gloria se le confunde.\n\n¿Vale la pena tanto dolor?\n¿Tantas vidas por una corona?\nSe pregunta con cierto temor.\n\nLa victoria a veces no perdona,\ny deja un sabor amargo, peor\nque la derrota que abandona.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "torre"
+  }
+}

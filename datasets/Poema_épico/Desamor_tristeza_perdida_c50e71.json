@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La flota se hunde, el mástil se quiebra,\nlas velas rasgadas por vientos de adiós,\nel monstruo del mar su victoria celebra,\nmientras yo grito tu nombre a mi dios.\nSolo en las aguas, oscuro final,\nel amor se ahoga en su propio caudal.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Naufragio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El viaje es al centro\nde mi propia razón.\nEl último encuentro\nsin ninguna opción.\n\nMe voy sin equipaje,\nsin oro ni cruz,\nel único pasaje\nhacia la luz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

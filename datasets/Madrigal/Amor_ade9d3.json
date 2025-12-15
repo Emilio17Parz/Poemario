@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu nombre en mi garganta,\nes música que brota sin esfuerzo;\nen cada breve verso\nmi espíritu se encanta.\nNo existe melodía más hermosa,\nque esa voz amorosa.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

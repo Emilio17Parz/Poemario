@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La sombra de su cuerpo era su gran pesar,\nEl lado oscuro que no podía callar.\nElla luchó cien días contra su enemigo,\nLa sombra es el reflejo de lo que fue amigo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

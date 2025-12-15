@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mundo es un arcoíris,\nde tonos y de matices,\nque alegran a los iris.\n\nSon las bellas raíces,\nde la luz fragmentada,\nque nos hacen felices.\n\nEn la mirada.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "color"
+  }
+}

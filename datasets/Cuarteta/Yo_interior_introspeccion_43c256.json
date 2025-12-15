@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El ayer ya fue,\nno puede volver,\nhay que saber,\ntener fe.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

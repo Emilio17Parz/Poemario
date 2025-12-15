@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No temer,\nal destino,\nni al camino,\ndel caer.\nEs saber,\nlevantar,\ny luchar,\nal poder.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "valor"
+  }
+}

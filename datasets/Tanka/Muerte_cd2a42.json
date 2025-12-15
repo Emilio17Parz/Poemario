@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cierra el ciclo\nla rueda se detiene\npaso final.\nCruzamos el umbral\nhacia lo desconocido.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "fin"
+  }
+}

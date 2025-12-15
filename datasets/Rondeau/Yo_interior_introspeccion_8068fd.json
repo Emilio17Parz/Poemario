@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El vacío,\ntan frío.\nAdentro,\ndel centro,\ndel río.\n\nEl lío,\ny el mío.\nEl encuentro,\nel vacío.\n\nEl tío,\ny el estío.\nYo entro,\ny concentro,\nel hastío,\nel vacío.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llega el invierno con su blanca nieve,\ndurmiendo al bosque en un sueño profundo,\ny el día se hace pálido y breve.\n\nYa no hay calor que al cuerpo se lleve,\nfrío es el aire en todo el mundo,\nllega el invierno con su blanca nieve.\n\nLa vida oculta apenas se mueve,\nbajo la capa del suelo fecundo,\ny el día se hace pálido y breve.\n\nTodo es silencio que se promueve,\nen este paisaje meditabundo,\nllega el invierno con su blanca nieve.\n\nEspera la tierra que el sol renueve,\nel ciclo verde y vagabundo,\ny el día se hace pálido y breve.\n\nReina el helor que todo conmueve,\nhasta que el tiempo cambie el rotundo,\nllega el invierno con su blanca nieve,\ny el día se hace pálido y breve.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

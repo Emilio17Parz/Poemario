@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo se escapa,\nes un río que no vuelve,\nsin piedad ni pausa.\nHay que aprovechar el día,\nantes que la noche llegue.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Tiempo"
+  }
+}

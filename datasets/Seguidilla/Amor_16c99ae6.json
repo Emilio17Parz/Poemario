@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te espero en la vereda\nbajo la luna,\nno tardes, vida mía,\nque hay sed hambruna.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "cita"
+  }
+}

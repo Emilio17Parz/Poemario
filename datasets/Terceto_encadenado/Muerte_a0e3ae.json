@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El frío del mármol, la piedra sin vida (A),\nel cuerpo que yace sin respirar (B),\nla vida es un drama, una herida (A).\n\nLa ausencia me come, sin un final (B),\nel alma se pierde, sin un fulgor (C),\nla forma de no volver a amar (B).\n\nNo hay más que sufrir, no hay más dolor (C),\nla sombra me sigue, sin un porqué (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

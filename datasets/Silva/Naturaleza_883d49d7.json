@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río va cantando,\nsu viaje hacia la mar inmensa y pura,\nsiempre va bajando,\ncon gran hermosura,\nbuscando en el océano su altura.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajar el cielo para ti quisiera,\ncon todas las estrellas y la luna,\npara que veas cuánto mi alma espera.\n\nSería mi regalo y mi manera,\nde darte mi riqueza y mi fortuna,\nbajar el cielo para ti quisiera.\n\nNo habrá barrera ni habrá frontera,\nque impida esta pasión tan oportuna,\npara que veas cuánto mi alma espera.\n\nEres mi luz y mi única hoguera,\nque no se apaga ni se queda bruna,\nbajar el cielo para ti quisiera.\n\nMi vida entera se vuelve sincera,\ncuando me miras desde la tribuna,\npara que veas cuánto mi alma espera.\n\nAmor que vence y que persevera,\nno encontrará rival en cosa alguna,\nbajar el cielo para ti quisiera,\npara que veas cuánto mi alma espera.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

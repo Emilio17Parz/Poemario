@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Buscamos la paz,\nEn mundo de guerra,\nCon un disfraz.\nBuscamos la paz,\nDe forma tenaz,\nSobre la tierra.\nBuscamos la paz,\nEn mundo de guerra.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "paz"
+  }
+}

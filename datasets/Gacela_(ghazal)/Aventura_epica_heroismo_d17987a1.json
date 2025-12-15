@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Cuando la gesta noble mi espíritu guía, de pura osadía,\nY el héroe ante el abismo su temple confía, de pura osadía.\n\nPor valles oscuros donde el dragón se cría,\nCon paso resuelto la senda abriría, de pura osadía.\n\nEn la fiera **batalla**, al final de cada día,\nSu espada y su canto la gloria vivía, de pura osadía.\n\nContra huestes que tejen la vil tiranía,\nSu escudo de fe que jamás cedería, de pura osadía.\n\nQue el vate, con versos que el tiempo porfía,\nDeclare que mi pluma esta épica valía, de pura osadía.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscó qué era el ser, en libros de ciencia,\nY solo halló preguntas, sin paciencia.\nEl ser no está en la fórmula, ni en la razón de un sabio,\nEstá en el instante de un grito o un labio.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "ser"
+  }
+}

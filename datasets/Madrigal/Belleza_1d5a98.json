@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Instrumento perfecto y natural,\nque nace de la garganta humana,\ntan sana,\nelevándose en vuelo musical.\nLa voz transmite el alma y el sentir,\nal oír,\nsu vibración nos toca y nos conmueve,\ny nos mueve.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "voz"
+  }
+}

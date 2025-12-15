@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra final nos alcanza a todos.\nNo importa cuánto corras,\nella es paciente.\nAl final, nos cubre con su manto\ny nos lleva al descanso\nde no tener que ser.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

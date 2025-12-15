@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El perdón es el mar\nque lava la mancha.\nLa única forma de amar\nsin ninguna plancha.\n\nEs la gracia suave\nque el alma me da,\nla única clave\npara tener paz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

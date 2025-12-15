@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche no tiene fin,\nmi alma es un trajín.\n\nEl sueño no quiere entrar,\nla pena me hace llorar,\nsin poder hallar la paz,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "noche"
+  }
+}

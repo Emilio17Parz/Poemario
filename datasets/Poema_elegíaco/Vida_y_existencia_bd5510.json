@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El pasado me mira con ojos de sal,\nla vida sin la calma, el cruel puñal.\nLloro por el error que no puedo borrar,\nla sombra constante sin poder amar.\n\nNo vuelve el instante, no vuelve la luz,\nla vida sin la calma, la triste cruz.\nMi pena es el eco de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

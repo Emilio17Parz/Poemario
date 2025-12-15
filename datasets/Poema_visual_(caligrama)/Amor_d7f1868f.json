@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "      Tu amor      \n   es el latido   \n que mueve mi ser \n  y da vida a mi  \n   propio centro  \n    vibrante.     \n      Amor.       ",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

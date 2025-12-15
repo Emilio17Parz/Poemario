@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Saco fuerza de flaqueza,\nPara seguir adelante,\nCon gran entereza.\nSaco fuerza de flaqueza,\nEs mi naturaleza,\nSer constante.\nSaco fuerza de flaqueza,\nPara seguir adelante.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "fuerza"
+  }
+}

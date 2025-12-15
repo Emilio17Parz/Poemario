@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te digo adiós con voz entrecortada,\nsabiendo que no vamos a volver,\na la luz de nuestra vieja alborada.\n\nLa promesa quedó ya quebrada,\ny me toca empezar a perder,\nte digo adiós con voz entrecortada.\n\nQueda el alma total desolada,\nsin la fuerza para renacer,\na la luz de nuestra vieja alborada.\n\nEs la historia de amor terminada,\nque no pudo el destino vencer,\nte digo adiós con voz entrecortada.\n\nUna herida que sigue clavada,\ny que nunca podré comprender,\na la luz de nuestra vieja alborada.\n\nCon la vida y la fe destrozada,\nveo el sol en la tarde caer,\nte digo adiós con voz entrecortada,\na la luz de nuestra vieja alborada.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

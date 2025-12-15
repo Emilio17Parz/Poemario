@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Asómate a la ventana,\nque quiero ver tu cara,\nque la luna tiene celos\nde ver luz que se compara.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "ronda"
+  }
+}

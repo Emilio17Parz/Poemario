@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vientres vacíos duelen,\npan que nunca llega.\nLas penas se huelen,\njusticia que ciega.\n\nPan que nunca llega,\nniño sin futuro.\nJusticia que ciega,\nmuro triste y duro.\n\nNiño sin futuro,\nlas penas se huelen.\nMuro triste y duro,\nvientres vacíos duelen.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

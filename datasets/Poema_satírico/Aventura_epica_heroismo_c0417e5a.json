@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hablas mucho de honor,\ncon tono de gran señor.\nPero engañas al fisco,\ncon un morro de disco.\nTu honor es de pacotilla,\ny de mala calderilla.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "honor"
+  }
+}

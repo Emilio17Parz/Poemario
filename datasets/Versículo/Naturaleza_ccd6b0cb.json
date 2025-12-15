@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento sopla de donde quiere, y oyes su sonido; mas ni sabes de dónde viene, ni a dónde va.\nÉl saca los vientos de sus tesoros; hace subir las nubes de los extremos de la tierra, hace los relámpagos para la lluvia.\nVoló sobre las alas del viento; puso tinieblas por su escondedero, por cortina suya alrededor de sí.\nAlabado sea el que camina sobre las alas del viento, que hace a los vientos sus mensajeros y a las flamas de fuego sus ministros.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "viento"
+  }
+}

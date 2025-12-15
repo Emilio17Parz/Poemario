@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tumba vacía para el ausente,\nque no volvió del mar o la guerra,\ncuerpo perdido en otra tierra,\nlejos de su hogar y su gente.\n\nAquí honramos su nombre valiente,\naunque la losa nada encierra,\nsolo el dolor que nos aterra,\ny el recuerdo siempre viviente.\n\nNo hay huesos, solo hay memoria,\nun monumento a la soledad,\ny a una truncada y triste historia.\n\nDescansa en paz en la inmensidad,\nque aquí tu nombre tiene gloria,\ny vive en nuestra lealtad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cenotafio"
+  }
+}

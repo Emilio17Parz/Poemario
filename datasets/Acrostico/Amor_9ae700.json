@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "A veces llegas sin aviso,\nMientras el mundo sigue su giro.\nOcupas todo mi paraíso,\nRobando cada suspiro.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "AMOR"
+  }
+}

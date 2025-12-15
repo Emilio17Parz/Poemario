@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Amigo en la lucha,\nQue cubre mi lado,\nY siempre me escucha.\nAmigo en la lucha,\nLa pena es mucha,\nEn el campo helado.\nAmigo en la lucha,\nQue cubre mi lado.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "amigo"
+  }
+}

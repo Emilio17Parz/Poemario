@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El héroe no es arrogante,\nsino humilde caminante.\nReconoce su limitación,\ny pide la protección.\nLa soberbia es la caída,\nde la gloria conseguida.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "humildad"
+  }
+}

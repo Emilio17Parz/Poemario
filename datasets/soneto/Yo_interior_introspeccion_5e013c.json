@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tengo un lado oscuro y fiero,\nque escondo de la luz del sol,\nmi propio y negro arrebol,\nque domar no quiero.\n\nEs mi compañero,\nen el control,\ny el rol,\ndel viajero.\n\nJung lo llamó la sombra,\ny vive en el sótano,\ndonde se nombra.\n\nEl pantano,\nque asombra,\nal humano.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sotano"
+  }
+}

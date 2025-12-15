@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge el cañón en la gran batalla,\ntiembla la tierra bajo los pies,\ny el grito humano nunca se calla.\n\nFrente al muro y la muralla,\nluchan de uno y de a tres,\nruge el cañón en la gran batalla.\n\nEl fuego quema y la muerte halla,\na sus víctimas con interés,\ny el grito humano nunca se calla.\n\nEl valiente soldado no desmaya,\naunque el destino sea revés,\nruge el cañón en la gran batalla.\n\nEntre el humo que todo lo entalla,\nse juega la vida en un momento,\ny el grito humano nunca se calla.\n\nHasta que la paz se restablezca,\nsobre el campo y la mies,\nruge el cañón en la gran batalla,\ny el grito humano nunca se calla.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

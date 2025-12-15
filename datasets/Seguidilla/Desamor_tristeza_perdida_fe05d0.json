@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soy libre de tus lazos,\ny tus cadenas,\npero sigo sintiendo,\nmuchas penas.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "lazos"
+  }
+}

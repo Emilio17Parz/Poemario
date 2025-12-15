@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Voz que susurra, mi fiel conciencia,\njuez implacable, mi fiel conciencia.\n\nNo duerme nunca y todo lo ve,\ntestigo mudo, mi fiel conciencia.\n\nPaz es saber que no tiene queja,\nla voz tranquila de mi conciencia.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

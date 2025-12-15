@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oro y rojo caen al suelo,\ndanza la hoja su despedida.\nUn aire frío cruza el vuelo,\ncambio de ciclo de la vida.\n\nDanza la hoja su despedida,\ncrujen los pasos al caminar.\nCambio de ciclo de la vida,\ntiempo de calma y descansar.\n\nCrujen los pasos al caminar,\nun aire frío cruza el vuelo.\nTiempo de calma y descansar,\noro y rojo caen al suelo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

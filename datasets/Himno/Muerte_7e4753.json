@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dejamos los bienes y las riquezas,\nlas alegrías y las tristezas.\nOtros vendrán a ocupar el lugar,\ny en nuestra mesa a cenar.\n\n¡Vana es la gloria de lo material,\nque se queda aquí, en el umbral!\nSolo las obras de amor y piedad,\ntienen valor en la eternidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

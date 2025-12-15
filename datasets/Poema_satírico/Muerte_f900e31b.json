@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mandó hacerse una gran tumba,\npara que el mundo retumba.\nGastó toda su fortuna,\nen mármol bajo la luna.\nY ahora los perros de paso,\nle orinan sin hacer caso.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

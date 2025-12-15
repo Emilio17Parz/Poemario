@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sin luz no hay color,\nella es la criatura,\nque nos da el resplandor.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "luz"
+  }
+}

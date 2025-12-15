@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Honrar a los ancestros,\nes conocer la raíz,\nson nuestros maestros,\nde un viejo matiz.\nRespeta su historia,\ny honra su memoria.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Ritual"
+  }
+}

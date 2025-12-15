@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, Naturaleza, templo sin igual,\nTu lienzo inmenso, obra celestial,\nDesde el primer alba, tu aliento fugaz,\nNos mece en tu seno, nos da eterna paz.\n\nLas cumbres nevadas, altar de lo excelso,\nLos ríos que cantan su rítmico verso,\nProfundos océanos de azul magnitud,\nTestigos perennes de tu plenitud.\n\nEl **viento** que danza, susurra en la rama,\nCon hálito fresco su fuerza derrama.\nSu canto invisible, que el bosque estremece,\nLa voz de la tierra que nunca fenece.\n\nEn cada flor que su aroma desvela,\nEn cada criatura que el bosque revela,\nHay magia constante, misterio sin fin,\nDel ciclo perfecto, del dulce confín.\n\nAsí, te alabamos, bondad sin medida,\nNaturaleza, fuente de toda vida.\nTu amor nos abraza, tu don es vital,\nHimno sagrado, un canto inmortal.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viento"
+  }
+}

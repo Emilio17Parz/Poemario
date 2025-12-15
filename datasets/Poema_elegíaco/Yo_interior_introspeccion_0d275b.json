@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Estoy solo en mi cuerpo, la soledad es mi única verdad sin fe, solo y cruel,\nla vida sin la calma, el sino fatal.\nNadie me acompaña, el vacío es el fin sin razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el amor que mi alma no puede obtener jamás sin luz ni voz,\ny mi destino es el castigo de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

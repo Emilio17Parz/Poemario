@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cruzas el río,\nhacia la orilla.\nSin el frío,\ncruzas el río.\nEl vacío,\nse humilla.\nCruzas el río,\nhacia la orilla.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "río"
+  }
+}

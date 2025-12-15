@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El sabor de la vida se fue, el gusto ya no existe sin piedad y cruel,\nla vida sin la calma, con sabor amargo a hiel.\nEl placer es el recuerdo que el cuerpo me niega sin razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el dulzor que mi boca no puede sentir jamás sin voz ni paz,\ny mi ser es la ruina de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "sabor"
+  }
+}

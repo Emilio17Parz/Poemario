@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fue tu promesa papel mojado,\ntinta corrida sin dirección.\nHe descubierto que fui engañado,\nroto el escudo de la ilusión.\n\nTinta corrida sin dirección,\nfrases que nunca tuvieron ley.\nRoto el escudo de la ilusión,\ncae la torre, cae el rey.\n\nFrases que nunca tuvieron ley,\nhe descubierto que fui engañado.\nCae la torre, cae el rey,\nfue tu promesa papel mojado.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hay silencio,\nque presencio.\nPara oír,\ny sentir,\nlo que agencio.\n\nReverencio,\ny diferencio.\nAl vivir,\nhay silencio.\n\nSentencio,\ny convenzo.\nAl morir,\no al reír,\nen el comienzo,\nhay silencio.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

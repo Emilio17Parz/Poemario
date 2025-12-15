@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dulce belleza,\nEn cada bella forma,\nGoce del alma.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "forma"
+  }
+}

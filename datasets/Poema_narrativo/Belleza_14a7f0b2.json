@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuadro estaba oscuro,\nlleno de barniz,\nsin ningún matiz,\ntriste y duro.\nEl experto limpió,\ncon mano suave,\ncomo quien abre una llave,\ny el color volvió.\nSalió la luz,\nque estaba en la cruz.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "arte"
+  }
+}

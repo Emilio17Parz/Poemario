@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El vasto silencio sobreviene a la palabra, el hálito cesa.\nNo hay escudo contra su venida, ni riqueza que la soborne.\nElla es el fin de los afanes, el descanso de los cansados.\nLa igualadora de reyes y mendigos, de sabios y necios.\nSu manto oscuro se tiende sobre el lecho donde el amor habitó.\nY el frío se posa donde el calor moró.\n\nLa tumba aguarda, con su boca de tierra abierta y eterna.\nMorada última, el lecho frío que a nadie rehúsa.\nAllí donde la luz se apaga, y la memoria se hace eco.\nEl cuerpo retorna al polvo que fue, la forma se desvanece.\nPero el aliento, ¿a dónde va? ¿Qué mar inmenso lo acoge?\nEsa es la pregunta que ninguna piedra responde.\nEsa es la verdad que a cada instante nos roza.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

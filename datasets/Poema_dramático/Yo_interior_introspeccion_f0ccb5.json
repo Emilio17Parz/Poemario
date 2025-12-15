@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "[EL POETA]\nNo escribo para vosotros. Escribo para esa voz que no me deja dormir.\nEs una exigencia, un grito que me obliga a poner orden en el caos.\nSi ella se apaga, yo muero. Mi musa no es una mujer, es mi propia alma.\nLa introspección es una conversación con un dios cruel y sabio que vive en mí.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "voz"
+  }
+}

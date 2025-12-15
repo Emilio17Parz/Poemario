@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pequeño milagro de color,\nque te abres al beso del rocío,\ndesafiando el viento y el vacío,\ncon tu fragancia y tu resplandor.\n\nEres efímera, puro primor,\nun breve instante, un desafío,\nque llena de belleza el albedrío,\ny nos regala su dulce olor.\n\nEn tus pétalos vive la perfección,\nla geometría sacra y divina,\nque causa en el alma admiración.\n\nAunque tu vida pronto declina,\ndejas la semilla de la creación,\npara que la vida nunca termina.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nEl marfil me cubre sin un final (E1: final)\nMi cuerpo se queda sin querer ya ver (E2: ver)\nEl frío me inunda sin una razón (E3: razón)\nEl dolor me cubre con un gran temor (E4: temor)\nMi alma se apaga sin poder vencer (E5: vencer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nNo quiero ya ver sin poder vencer (E2, E5)\nEl temor me da la razón (E4, E3)\nSin un error, sin un final (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Marfil"
+  }
+}

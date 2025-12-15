@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[EL MORIBUNDO]\n(Con la respiración agitada)\nNo me toques. Siento el frío en los dedos. Es él, lo sé. ¡La puerta se abre!\n¡He vivido mal! ¡He amado poco y he envidiado mucho! No quiero irme así.\n¡Dios, dame cinco minutos más para quemar lo que no hice! ¡Dame un trato!\n¡No! ¡Es tarde! El telón cae, y mi vida es un susurro que nadie escuchó.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "moribundo"
+  }
+}

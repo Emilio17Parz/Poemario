@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Versos de amor,\ncontra el dolor.\n\nPluma que escribe,\nlo que percibe,\ny se suscribe,\nal calor.\nVersos de amor,\ncontra el dolor.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "poema"
+  }
+}

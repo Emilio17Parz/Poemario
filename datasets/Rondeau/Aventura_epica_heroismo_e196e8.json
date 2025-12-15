@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guarda el honor puro,\nque es seguro,\nsu ley,\ndel rey,\ny el muro.\n\nEl oscuro,\ny el duro,\ndel buey,\nGuarda el honor.\n\nLa grey,\ny el jersey,\nel futuro,\ny el apuro,\ndel carey,\nGuarda el honor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "honor"
+  }
+}

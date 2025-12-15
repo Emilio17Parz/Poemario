@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Aprecia este momento\nque se te escapa,\nel hoy es el tesoro\nsobre el mapa.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "instante"
+  }
+}

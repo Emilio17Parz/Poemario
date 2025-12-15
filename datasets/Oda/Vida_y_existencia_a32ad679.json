@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cinta de polvo y de piedra,\nque invitas a recorrer,\nmás allá de donde medra\nel miedo a lo que ha de ser.\nSenda de pasos y huellas,\ntestigo del caminante,\nbajo el sol y las estrellas,\nsiempre hacia adelante.\nNo importa el punto de llegada,\nsino el propio transitar,\nla aventura regalada\nde vivir y de avanzar.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "camino"
+  }
+}

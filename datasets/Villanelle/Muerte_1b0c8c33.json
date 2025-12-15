@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo camino llega a su final,\nla puerta se cierra sin vuelta atrás,\nes la sentencia del juicio mortal.\n\nNo importa el bien ni importa el mal,\ncuando la parca muestra su faz,\ntodo camino llega a su final.\n\nSe rompe el hilo del manantial,\ny el corazón no late más,\nes la sentencia del juicio mortal.\n\nQueda el silencio ceremonial,\ny el cuerpo quieto encuentra paz,\ntodo camino llega a su final.\n\nYa no hay dolor ni lucha campal,\nsolo el descanso que buscarás,\nes la sentencia del juicio mortal.\n\nPolvo y ceniza en el vendaval,\nes el destino que encontrarás,\ntodo camino llega a su final,\nes la sentencia del juicio mortal.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "final"
+  }
+}

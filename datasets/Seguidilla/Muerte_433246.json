@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mi rostro es de marfil (7a),\nsin un solo fulgor (5b),\nla vida es gentil (7c),\nsin un solo amor (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Marfil"
+  }
+}

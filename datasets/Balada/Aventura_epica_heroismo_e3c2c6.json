@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Llegar a tierras nunca pisadas,\nver las estrellas no contempladas,\nabrir caminos en la espesura,\nes la más grande y noble aventura.\nPlantar bandera en suelo nuevo,\nes el anhelo que yo me llevo,\nde ser primero en descubrir,\nlo que el futuro va a escribir.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

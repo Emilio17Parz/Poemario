@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vino a llevarte el alado,\ncon su túnica de nieve,\nal reino del bien amado.\n\nTe ha rescatado,\nde forma breve,\nvino a llevarte el alado.\n\nHas olvidado,\nlo que se debe,\nal reino del bien amado.\n\nHe recordado,\nlo que se mueve,\nvino a llevarte el alado.\n\nTodo ha pasado,\ny se remueve,\nal reino del bien amado.\n\nHas encontrado,\nlo que conmueve,\nvino a llevarte el alado,\nal reino del bien amado.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

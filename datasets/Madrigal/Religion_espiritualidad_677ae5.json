@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cuentas que pasan entre mis dedos,\nrepitiendo el nombre de la madre,\nque el padre,\nescuche mis súplicas y miedos.\nCadena de rosas, oración,\ndevoción,\nque une la tierra con las alturas,\ny sus curas.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "cuentas"
+  }
+}

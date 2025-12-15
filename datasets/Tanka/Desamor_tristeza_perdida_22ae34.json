@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Luto en el alma,\npor lo que ya no regresa,\njamás a mi lado.\nVestida de negro vivo,\nen la noche de tu adiós.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Luto"
+  }
+}

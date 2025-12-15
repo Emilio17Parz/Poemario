@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El esclavo fiel,\nsigue con la cabeza baja,\nsu vida es penar.\nUn grito pide justicia,\nla igualdad debe llegar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Esclavo"
+  }
+}

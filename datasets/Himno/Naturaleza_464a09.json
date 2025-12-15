@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se rompe la noche, la luz se abre paso,\nponiendo fin al oscuro ocaso.\n¡Gloria a la Aurora de dedos rosados!,\nque despierta a los seres adormilados.\n\nPromesa diaria de nueva oportunidad,\nsímbolo eterno de la claridad.\nCantemos al sol que empieza a subir,\ny nos da la fuerza para vivir.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

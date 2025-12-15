@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Si fuiste bueno te espera la luz,\nen un jardín de eterna paz,\nlejos del peso de tu cruz,\ny sin llevar ningún disfraz.\nAllí se encuentran los que partieron,\nen un abrazo de gran amor,\ny las heridas que padecieron,\nse curan todas con resplandor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

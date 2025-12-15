@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La duda me ahoga en un mar sin fin,\nla vida sin la calma, el triste motín.\nEl 'sí' y el 'no' chocan sin poder parar,\nla sombra constante sin poder amar.\n\nNo tengo la certeza, no tengo la luz,\nla vida sin la calma, la triste cruz.\nMi mente es la jaula de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "duda"
+  }
+}

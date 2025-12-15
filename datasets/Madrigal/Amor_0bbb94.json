@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres flor del jardín,\nla más pura, la más bella y preciada,\nprincipio sin un fin,\nde mi vida por ti tan entregada.\nDeja que riegue yo tu raíz,\npara ser feliz,\nviéndote florecer cada mañana,\nen mi ventana.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

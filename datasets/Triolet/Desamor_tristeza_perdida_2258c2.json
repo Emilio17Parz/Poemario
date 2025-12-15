@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi corazón naufraga,\nen un mar de dolor.\nLa luz se apaga,\nmi corazón naufraga.\nComo una plaga,\nse muere el amor.\nMi corazón naufraga,\nen un mar de dolor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

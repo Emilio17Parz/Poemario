@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Callar es\noír la\nvoz\noír la\ncallar es",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "callar"
+  }
+}

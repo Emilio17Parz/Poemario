@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El ojo de un claro color,\nrefleja la vida con fulgor.\nEs espejo fiel,\nsin rastro de hiel,\nla luz que me da gran valor.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Ojo"
+  }
+}

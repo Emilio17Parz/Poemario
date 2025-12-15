@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Sueño despierto con ser mejor,\ncon alcanzar la cima de mi anhelo,\nalzar el vuelo,\ny dejar atrás el viejo temor.\nEl deseo es motor de la existencia,\nla esencia,\nque nos empuja a nunca desistir,\ny a vivir.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cargo con la culpa vieja,\nde los errores de ayer,\nque mi memoria no deja.\n\nEs una sorda queja,\nque me hace caer,\ncargo con la culpa vieja.\n\nComo una reja,\nal atardecer,\nque mi memoria no deja.\n\nNadie aconseja,\nqué hacer,\ncargo con la culpa vieja.\n\nLa piel se me aleja,\ndel placer,\nque mi memoria no deja.\n\nTriste moraleja,\ndel padecer,\ncargo con la culpa vieja,\nque mi memoria no deja.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Negro es el vestido,\nde la soledad,\npor la crueldad,\nde lo sucedido.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "luto"
+  }
+}

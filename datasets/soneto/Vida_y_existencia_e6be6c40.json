@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, un soplo, un sueño fugaz,\nDesde el instante en que el alma se despierta,\nUna senda sin fin, abierta, incierta,\nDonde el alma se asoma y ve su faz.\n\nEl tiempo fluye, implacable y voraz,\nY en cada paso una lección se acierta,\nMientras la piel la cicatriz inserta,\nBuscando un hito que nos dé solaz.\n\nA lo largo de este intrincado **camino**,\nEl ser se labra, busca su razón,\nEntre la duda y el fervor divino.\n\nUn eco queda del final, destino,\nEn cada pulso, en cada corazón,\nMorir es solo otro peregrino.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entro en el bosque como quien entra en una catedral antigua, bajo bóvedas de ramas que filtran la luz divina.\nLos árboles son monjes silenciosos que rezan una oración de clorofila, conectando la tierra profunda con el cielo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

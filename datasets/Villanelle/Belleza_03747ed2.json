@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena la música en el aire,\ncurando las penas del alma,\ncon su divino y dulce donaire.\n\nTrae consigo la paz y la calma,\ncuando la orquesta empieza a tocar,\nsuena la música en el aire.\n\nInvita a soñar y a volar,\nbajo la sombra de la palma,\ncon su divino y dulce donaire.\n\nNo hay dolor que pueda durar,\nsi la melodía se empalma,\nsuena la música en el aire.\n\nEs el idioma que desalma,\nel odio y el triste pesar,\ncon su divino y dulce donaire.\n\nTodo el espíritu se ensalma,\nal escuchar su vibrar,\nsuena la música en el aire,\ncon su divino y dulce donaire.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "música"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llevamos sobre los hombros el peso invisible de todas las decisiones que no tomamos y de las palabras que callamos.\nSoltar la carga es un acto de fe, es confiar en que podremos volar si dejamos de aferrarnos a las piedras del pasado.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "carga"
+  }
+}

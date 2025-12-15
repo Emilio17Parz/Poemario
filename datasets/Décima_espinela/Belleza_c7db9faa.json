@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es, un don,\nque el alma busca ver,\nsu esencia, que ha de ser,\nla pura sensación.\nUn eco del pregón,\nque el universo canta,\ny el corazón levanta,\ncon un divino brillo,\ndesde el más leve trillo,\nel alma se agiganta.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "BELISA: Mi rezo es el canto del ruiseñor,\ny el murmullo suave de la corriente.\nFLORA: Oración pura que nace en la fuente,\nalabando siempre al gran Creador.\nNo hacen falta libros, solo intención,\nde elevar al cielo el corazón.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

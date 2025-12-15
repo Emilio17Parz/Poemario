@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tras la fatiga, el reposo supremo,\ndonde ya no existe ni lucha ni remo.\n¡Gloria al Descanso que el alma recibe!,\ndonde el dolor ya nunca se escribe.\n\nDuerme el guerrero, duerme el amante,\nen un sueño profundo, dulce y constante.\nBendita la calma que al fin nos abraza,\ny borra del tiempo cualquier amenaza.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "descanso"
+  }
+}

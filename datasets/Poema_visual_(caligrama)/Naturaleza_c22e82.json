@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Forma esponjosa\nblanca y suave\nflota arriba\nagua dormida\ncambia con viento\nalgodón de luz\nsombra en tierra.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "nube"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos sabios\nla historia del gran rey,\nque impuso su ley\ncon justos labios.\nSin rencores ni agravios\ngobernó su nación,\ny hoy es la canción\nque el pueblo repite,\npara que no se quite\nde la tradición.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "historia"
+  }
+}

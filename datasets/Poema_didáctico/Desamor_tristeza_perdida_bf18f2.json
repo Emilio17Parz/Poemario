@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El odio te ata a quien te hirió,\nmás fuerte que el propio amor,\nperdona al que se marchó,\ny libérate del dolor.\nEl perdón es regalo para ti,\npara decir: 'Yo ya vencí'.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Rencor"
+  }
+}

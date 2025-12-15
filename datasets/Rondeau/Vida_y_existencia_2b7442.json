@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pasa el tiempo,\nen un momento.\nNo se detiene,\nni se sostiene,\ncomo el viento.\n\nSentimiento,\ny pensamiento.\nLo que viene,\npasa el tiempo.\n\nEl cimiento,\ndel cuento.\nSe mantiene,\ny entretiene,\nel aliento,\npasa el tiempo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

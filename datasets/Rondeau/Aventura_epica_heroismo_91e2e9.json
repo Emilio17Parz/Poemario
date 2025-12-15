@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El sacrificio,\nes el oficio.\nDel valiente,\nque siente,\nel beneficio.\n\nEl inicio,\ndel juicio.\nLa gente,\nel sacrificio.\n\nEl edificio,\ny el resquicio.\nLa mente,\npresente,\nsin vicio,\nel sacrificio.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sacrificio"
+  }
+}

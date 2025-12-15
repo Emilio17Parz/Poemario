@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El miedo crece,\ndentro de mí,\ny me parece,\nque me perdí.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Retumban los tambores de la guerra,\ny los hombres se preparan para luchar,\ndefendiendo cada palmo de tierra,\ndispuestos a vencer o a sangrar,\nbajo el sol que ilumina la sierra,\nsin tiempo para poder llorar.\n\nNo hay momento para llorar,\ncuando llama la voz de la guerra,\nque resuena en la alta sierra,\ninvitando a todos a luchar,\ny la vida en el campo sangrar,\npor salvar la amada tierra.\n\nEs sagrada la madre tierra,\npor la que vale la pena llorar,\ny también morir y sangrar,\nen el infierno de la guerra,\ndonde no se deja de luchar,\nhasta conquistar la sierra.\n\nSe tiñe de rojo la sierra,\ny se cubre de cuerpos la tierra,\ncansados de tanto luchar,\ny de ver a las madres llorar,\npor culpa de la cruenta guerra,\nque no para de hacernos sangrar.\n\nEl pueblo no quiere sangrar,\nni morir en la fría sierra,\npero le obliga la guerra,\na defender su propia tierra,\npara luego poder llorar,\na los que cayeron al luchar.\n\nEs el destino el luchar,\ny el precio el sangrar,\ndejando al alma llorar,\nsobre la piedra de la sierra,\npor la libertad de la tierra,\nque nos quita la guerra.\n\nGuerra en la tierra,\nluchar y sangrar,\nen la sierra y llorar.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

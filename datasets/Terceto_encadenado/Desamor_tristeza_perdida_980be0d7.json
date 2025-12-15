@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dejaste en mi existencia un gran vacío,\nun hueco donde el eco se eterniza,\nllenando mi interior de intenso frío.\n\nMi esperanza se vuelve gris ceniza,\nal ver que tu presencia se evapora,\ny el viento del dolor me paraliza.\n\nEn esta triste y solitaria hora.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

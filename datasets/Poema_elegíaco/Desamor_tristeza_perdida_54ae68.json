@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Bebí de tu copa y solo hallé veneno y hiel,\nel amor fue una daga oculta tras el tul.\nLa traición es la sombra que el alma no olvida,\nla única certeza de esta vida herida.\n\nLlevo el sabor amargo, lo guardo sin piedad,\nel recuerdo constante de tu cruel falsedad.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "hiel"
+  }
+}

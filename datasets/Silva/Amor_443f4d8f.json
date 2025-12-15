@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si me dieras un beso,\nde tu boca sería eterno preso,\nborrando del reloj\ntodo rastro de duda y de enojo.\nEn ese instante breve,\ntu labio dulce y leve,\nme brinda el paraíso,\nsin previo aviso.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "beso"
+  }
+}

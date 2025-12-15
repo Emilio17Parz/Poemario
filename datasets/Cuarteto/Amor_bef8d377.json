@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor es la hoguera que mi invierno quema,\nun soplo de vida que el silencio rompe.\nMi mundo se agita si tu cuerpo tiembla,\ny en cada beso, el universo irrumpe.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "beso"
+  }
+}

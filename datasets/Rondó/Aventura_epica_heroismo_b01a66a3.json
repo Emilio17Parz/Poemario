@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Gran victoria,\npara la historia,\ncon honor,\ny valor,\nen la memoria.\n\nSin escoria,\ngran victoria.\n\nLa euforia,\nnotoria,\ndel amor,\ny el dolor,\nperentoria.\nGran victoria.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

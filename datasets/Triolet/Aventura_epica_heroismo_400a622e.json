@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tengo valor\npara vencer,\nsin el temor.\nTengo valor,\ncon honor,\nal caer.\nTengo valor\npara vencer.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "valor"
+  }
+}

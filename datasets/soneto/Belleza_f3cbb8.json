@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Busco captar la luz en el lienzo,\ndetener el instante fugitivo,\nhacer que lo mortal se vuelva vivo,\ny darle un nuevo y mágico comienzo.\n\nEs el esfuerzo humano y el incienso,\nde un ritual creativo y decisivo,\ndonde el dolor se torna inofensivo,\ny el placer se hace puro e inmenso.\n\nEl arte salva al hombre de la nada,\nle da forma, sentido y esperanza,\na esta realidad despedazada.\n\nEs la eterna y divina alianza,\nentre la mano torpe y la sagrada,\nque rompe del tiempo la balanza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se eleva el puro canto,\ncomo ave hacia el cielo,\nrompiendo el silencio.\nEn su nota presencio,\nla belleza de la voz,\nque nos llega al alma.\n\nLlega al alma,\nel canto,\nveloz.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "canto"
+  }
+}

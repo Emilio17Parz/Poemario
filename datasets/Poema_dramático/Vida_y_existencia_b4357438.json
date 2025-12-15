@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "JUEZ: Di la verdad y serás perdonado.\nACUSADO: La verdad quema, señor, y lastima.\nJUEZ: La mentira es lo que te desanima.\nACUSADO: Si digo lo cierto, seré condenado,\npero mi alma quedará tranquila.\nLa verdad es luz que en mis ojos brilla.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

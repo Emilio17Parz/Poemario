@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se apagan las estrellas,\nOcultas en la nada.\nMueren las cosas bellas,\nBajo tierra sagrada.\nRastros y huellas,\nAdiós de madrugada.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "SOMBRA"
+  }
+}

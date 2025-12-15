@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El juicio del gusto y del placer,\nque busca lo bello en la mirada,\nla forma que queda consagrada,\ny nos hace sentir y florecer.\n\nNo es solo ver, es comprender,\nla simetría bien lograda,\nla proporción tan delicada,\nque tiene el poder de convencer.\n\nLa estética educa el sentimiento,\nafinando la tosca percepción,\ny elevando el bajo pensamiento.\n\nNos da una distinta visión,\ndel mundo y de su movimiento,\nllena de luz y de emoción.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "estética"
+  }
+}

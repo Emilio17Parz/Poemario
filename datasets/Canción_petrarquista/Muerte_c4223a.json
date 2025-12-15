@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Como vela que expira\nal soplo leve de un viento traidor;\nasí el vigor\nque nos inspira\nse apaga y deja solo humo y cera;\nla vida era\nuna llama brillante,\nque ahora es solo sombra vacilante.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "vela"
+  }
+}

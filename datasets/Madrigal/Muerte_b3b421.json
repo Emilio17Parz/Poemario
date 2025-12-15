@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj se detuvo en el umbral,\ny el tiempo dejó de contarse.\nSe rompió la frontera mortal,\ny el cuerpo empezó a transformarse.\n\nYa no hay pasado, ni futuro vano,\nsolo el presente eterno y cercano.\nEs la absolución de la existencia,\nla sublime y postrera clemencia,\ndel destino que a todos nos llega, mi vida.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "hora"
+  }
+}

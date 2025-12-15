@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Gran odisea,\nque se vea.\nEn el mar,\nal navegar,\nla marea.\n\nSe desea,\ny se crea.\nEl lugar,\ngran odisea.\n\nLa aldea,\ny la tea.\nAl llegar,\ny descansar,\nde la pelea,\ngran odisea.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

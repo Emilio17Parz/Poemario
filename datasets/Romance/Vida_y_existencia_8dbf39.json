@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Estaba escrito en las estrellas\nel rumbo de nuestro viaje,\ncon sus dichas y sus penas\ny su variado paisaje.\nNo podemos cambiar la suerte\nni el color del equipaje,\nsolo vivir el momento\ncon valor y con coraje.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "destino"
+  }
+}

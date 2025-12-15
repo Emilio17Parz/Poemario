@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ahora reina la absoluta calma,\ndonde hubo batalla y dolor,\ny descansa tranquila su alma.\n\nEn brazos del divino Señor,\nencuentra el consuelo esperado,\nlejos del mundanal rumor.\n\nEn el sitio sagrado.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "calma"
+  }
+}

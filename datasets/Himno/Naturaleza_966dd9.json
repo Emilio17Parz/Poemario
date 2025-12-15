@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Estación de oro y melancolía,\nque acortas el paso de cada día!\nLas hojas caen cual lluvia dorada,\ny queda la rama desnuda y helada.\n\n¡Salve, otoño, de paso sereno,\nque preparas al campo para el heno!\nTiempo de cosecha y de madurez,\nantes de la blanca y fría vejez.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

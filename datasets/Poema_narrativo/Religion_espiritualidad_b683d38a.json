@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Vivía en su celda,\nsin hablar palabra,\ncomo una cabra,\nen la alta felda.\nBuscaba a Dios,\nen el silencio,\nlejos del comercio,\ny los adios.\nEncontró la paz,\ntras el antifaz.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "meditación"
+  }
+}

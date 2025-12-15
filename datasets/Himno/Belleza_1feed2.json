@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mano del hombre que toca lo eterno,\nvenciendo a la muerte y al crudo invierno.\n¡Honor al Arte, espejo del ser!,\nque nos enseña a mirar y a ver.\n\nLienzo, palabra, piedra o sonido,\nrescata del tiempo lo que fue vivido.\nTe alzamos altares en cada museo,\npues eres la forma de nuestro deseo.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "arte"
+  }
+}

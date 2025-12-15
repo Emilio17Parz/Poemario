@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corro siempre buscando la meta,\naunque a veces se aleja la meta.\n\nEl camino es lo que nos transforma,\nmás allá de alcanzar la meta.\n\nNo te rindas si fallan las fuerzas,\nya se ve el resplandor de la meta.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "meta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Entre el cemento y el ruido atroz,\nse pierde el alma del ciudadano,\nque ya no escucha su propia voz.\n\nLa vida corre siempre veloz,\nen este enjambre tan inhumano,\nentre el cemento y el ruido atroz.\n\nEs un gigante gris y feroz,\nque nos aplasta con su mano,\nque ya no escucha su propia voz.\n\nBuscamos el éxito precoz,\nen un esfuerzo que es vano,\nentre el cemento y el ruido atroz.\n\nNadie conoce al que tiene en pos,\ntodo es distante y lejano,\nque ya no escucha su propia voz.\n\nCorta los sueños con su hoz,\neste sistema urbano,\nentre el cemento y el ruido atroz,\nque ya no escucha su propia voz.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

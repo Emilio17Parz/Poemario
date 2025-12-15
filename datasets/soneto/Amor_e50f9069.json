@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El dulce amor que el alma nos inflama,\nUn gozo inmenso en nuestro ser despierta,\nY cada fibra del sentir acierta,\nAl fin hallando su gloriosa trama.\n\nPor ti la vida en plenitud se aclama,\nPues eres faro que en la noche orienta,\nLa pura esencia que mi sed sustenta,\nY que en mi pecho su presencia enrama.\n\nY al contemplar tu rostro tan sereno,\nSé que este amor es puro y duradero,\nQue desafía cualquier cruel momento,\n\nUn gozo inmenso que me deja pleno,\nPues su promesa es un amor eterno,\nCon cada aliento y cada sentimiento.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El Dragón no tiene voz,\nme mira con piedad,\ny mi alma ya sin vos,\nno tiene claridad.\n\nYo te busco en el monte,\ny no encuentro ya tu ser,\nmi alma ya se afronte,\nsin un solo gran poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Dragón"
+  }
+}

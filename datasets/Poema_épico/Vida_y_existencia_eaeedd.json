@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nacer es entrar en la gran batalla,\nllorar es el grito de guerra inicial,\ncontra el destino que nos avasalla,\nalzamos la frente, escudo real.\nVivir es luchar por un día más,\nsin rendirse nunca, jamás, jamás.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Lucha"
+  }
+}

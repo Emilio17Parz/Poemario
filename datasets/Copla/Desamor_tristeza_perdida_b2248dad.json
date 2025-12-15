@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Mi corazón, sin tu lazo,\nhoy se desangra de pena,\ny una sombra cubre el paso\nde esta alma que te condena.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

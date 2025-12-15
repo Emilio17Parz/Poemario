@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, brasa oculta, sin sosiego,\nque en la sombra palpita,\nenciende el mundo con su antiguo fuego,\ny el alma se agiganta.\n\nTransforma el aire gris en melodía,\nun cántico sutil,\ny cada gesto es pura sinfonía\nque el tiempo hace vivir.\n\nMas no es senda sin rocas ni tormento,\nni mar de calma azul;\nes lucha constante, tierno juramento\nque rompe todo yugo.\n\nUn puente invisible, etéreo y profundo,\nque dos seres une así,\ntrasciende el cuerpo, el efímero mundo,\ny el alma encuentra allí.\n\nEs la verdad que el tiempo no desdibuja,\nla fe que siempre está;\nla voz que llama en la más honda gruta,\nla eterna claridad.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "alma"
+  }
+}

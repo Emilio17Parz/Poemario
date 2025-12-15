@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No es un muro,\nes una puerta.\nCruzamos el umbral\ny dejamos el abrigo de la carne\npara entrar desnudos\nen la gran habitación oscura.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "umbral"
+  }
+}

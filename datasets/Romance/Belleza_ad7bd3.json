@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una sonrisa sincera\nilumina más que el sol,\ny cambia el rostro más triste\nen un bello girasol.\nEs la curva más bonita\ndel humano crisol,\nque desarma a los guerreros\ny les quita el control.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

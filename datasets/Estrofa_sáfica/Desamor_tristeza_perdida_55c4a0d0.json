@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Antes fue fuego lo que ahora es hielo,\nya no me miras con aquel deseo,\nsolo cenizas del ayer encuentro\ncuando te veo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

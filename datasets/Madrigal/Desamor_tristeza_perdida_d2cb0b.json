@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "De aquel incendio queda la ceniza,\nun polvo gris que el viento desbarata,\nla pena me mata,\ny el tiempo lentamente se desliza.\nFuimos volcán y ahora somos nada,\ntierra quemada,\nuna ilusión que ya no cicatriza,\nni suaviza.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Te llamas crítico de arte,\ny el saber se te reparte.\nMirando un cuadro en blanco,\ndices que es un barranco.\nEs solo un lienzo vacío,\n¡vaya lío, tío mío!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "arte"
+  }
+}

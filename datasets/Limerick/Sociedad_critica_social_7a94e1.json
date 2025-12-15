@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La dura y cruel cadena,\nque lleva al esclavo a la pena.\nLa vida es dolor,\nsin un gran fulgor,\nel alma sin nada de hiena.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Cadena"
+  }
+}

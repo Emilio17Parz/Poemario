@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Velas al viento,\nel mar desconocido\nnos desafía.\nBuscamos nuevas tierras\nmás allá del confín.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol besa la pradera,\ncon su brillo matinal,\ny la brisa juguetera,\nrefleja al río, caudal.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "río"
+  }
+}

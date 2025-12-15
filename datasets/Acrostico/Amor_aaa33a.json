@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Das sabor a mis días,\nUniendo cada fragmento.\nLimpias las agonías,\nCon tu suave aliento.\nEres mis alegrías.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "DULCE"
+  }
+}

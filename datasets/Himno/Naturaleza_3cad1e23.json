@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Baja del cielo, bendita agua,\nregalo puro para la sed,\ntejiendo en el suelo tu red,\ndonde la vida nueva se fragua.\n\n¡Gracias al cielo por el rocío!\nPor la tormenta y el manantial,\ntú eres la sangre universal,\nque llena el lago y colma el río.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "agua"
+  }
+}

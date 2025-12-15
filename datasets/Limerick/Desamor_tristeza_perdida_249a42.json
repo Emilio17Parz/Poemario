@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Le escribo y no me contesta,\nesto ya me molesta.\nMe deja en visto,\ny yo insisto,\nmenuda y pesada fiesta.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "mensajes"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "A veces llega la pena\nsin saber por qué razón,\ny se instala en el pecho\ncomo un nubarrón.\nNo hay motivo aparente\nni gran desilusión,\nsolo una melancolía\nque nubla la visión.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "tristeza"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Reflejos en vidrio roto\"",
   "poema": {
     "texto": "Reflejos en vidrio roto,\nFragiles imágenes se juntan,\nLuz que rompe el silencio.",

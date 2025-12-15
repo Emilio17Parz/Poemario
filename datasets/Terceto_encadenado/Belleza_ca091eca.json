@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pétalos de mil colores,\nadornan el campo verde,\ny la mirada se pierde.\n\nEntre tantos primores,\nque la naturaleza da,\ncon sus ricos olores.\n\nQue el aire llevará.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "color"
+  }
+}

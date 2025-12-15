@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El héroe cerró los ojos cansados,\ny abrió las puertas de la eternidad.\nDejó atrás la guerra y la vanidad,\npara unirse a los antepasados.\nEntró en el Valhalla de los valientes,\ndonde no existen los días pendientes.\nUn festín sin fin, una luz sin edad,\nla recompensa de la inmortalidad.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

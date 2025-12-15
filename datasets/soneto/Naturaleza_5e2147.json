@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se lanza el agua al vacío profundo,\nblanca cortina de ruido y espuma,\nque entre las rocas y la bruma,\ncanta la canción más vieja del mundo.\n\nEs un salto vital y fecundo,\nque con su fuerza al río suma,\ny toda duda y miedo se esfuma,\nante este espectáculo rotundo.\n\nEl arcoíris nace en su aliento,\nfruto de luz y de gota fina,\ndanzando en el aire y en el viento.\n\nEnergía pura y cristalina,\nque fluye en eterno movimiento,\ny la montaña entera domina.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cascada"
+  }
+}

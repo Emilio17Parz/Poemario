@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¿Elegimos el camino\no el camino nos elige?\nEl oráculo habla en acertijos,\npero al final,\ntus pies te llevan\ndonde tenías que estar.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "destino"
+  }
+}

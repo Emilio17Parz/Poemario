@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una flor se abre al sol, con dulce color (A),\ncontiene el secreto de la creación (B),\nla esencia del puro valor (A).\n\nLa fuerza que impulsa mi fiel corazón (B),\nel alma que vuela, sin un error (C),\nla esencia del puro valor (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en ella hallar la paz (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

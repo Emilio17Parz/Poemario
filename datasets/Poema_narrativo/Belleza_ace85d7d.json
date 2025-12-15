@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Abrió su abanico,\nde plumas azules,\ncomo finos tules,\ny pico de rico.\nTodos miraban,\nsu gran esplendor,\ny su color,\nque admiraban.\nPero al cantar,\nhizo a todos marchar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "vanidad"
+  }
+}

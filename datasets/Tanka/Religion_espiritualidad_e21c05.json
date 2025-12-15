@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sin tiempo alguno\nsiempre presente y vivo\nser inmortal.\nLa vida es un suspiro\nante la eternidad.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

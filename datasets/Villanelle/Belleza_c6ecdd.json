@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cuerpo escribe versos en el aire,\ncon movimientos llenos de elegancia,\nmostrando su destreza y su donaire.\n\nSin que exista la pena ni el desaire,\nse mueve con sutil y gran constancia,\nel cuerpo escribe versos en el aire.\n\nEs un arte que exige no se pare,\ny que mantenga siempre la fragancia,\nmostrando su destreza y su donaire.\n\nEn el escenario nadie se compare,\na esa figura de magna importancia,\nel cuerpo escribe versos en el aire.\n\nQue la música su ritmo declare,\ny llene el hueco de la gran distancia,\nmostrando su destreza y su donaire.\n\nEs la belleza que nos acapare,\ncon su giro de luz y de sustancia,\nel cuerpo escribe versos en el aire,\nmostrando su destreza y su donaire.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "danza"
+  }
+}

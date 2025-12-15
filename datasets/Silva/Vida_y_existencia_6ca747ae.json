@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Perdidos en el gran laberinto,\nguiados por instinto.\nPasillos sin salida,\nen esta vida,\nque giran y confunden,\ny nos hunden.\nBuscando el hilo de oro,\nque es tesoro.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

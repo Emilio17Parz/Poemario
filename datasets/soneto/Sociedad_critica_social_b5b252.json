@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Esclavos somos de la pantalla,\nmirando luz azul todo el día,\nperdiendo la cercanía\ny ganando una muralla.\n\nLa tecnología no calla,\npero nos quita la alegría,\nde la humana compañía\nque en la red se encalla.\n\nConectados pero solos,\nen un mundo virtual,\nperdidos en los polos.\n\nEs el nuevo mal,\nque nos vuelve bolos,\nsin vida real.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pantalla"
+  }
+}

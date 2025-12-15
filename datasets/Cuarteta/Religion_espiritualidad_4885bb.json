@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La templanza es calma, un dulce freno,\nal impulso ciego, a la ciega pasión,\nes el espíritu libre, lleno,\nde nobleza, de gran compasión.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Templanza"
+  }
+}

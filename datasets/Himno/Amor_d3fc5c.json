@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¡Gloria al amor, la fuerza soberana,\nque mueve al sol y a la legión humana!\nFuente de luz que el universo enciende,\nllama sagrada que jamás se ofende.\n\nCantad, mortales, su poder divino,\nque une las almas en un fiel destino.\n¡Salve, oh amor, principio de la vida,\npor quien la muerte queda ya vencida!",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "amor"
+  }
+}

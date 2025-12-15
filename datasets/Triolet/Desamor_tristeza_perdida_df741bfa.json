@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rompo tu vieja carta\nllena de falsedad,\npara que el dolor parta.\nRompo tu vieja carta,\nan tes de que me harta\ntanta oscuridad.\nRompo tu vieja carta\nllena de falsedad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "carta"
+  }
+}

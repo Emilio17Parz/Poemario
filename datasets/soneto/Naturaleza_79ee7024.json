@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mirando el vasto cielo azul, sin fin,\nLa tierra muestra un verdor sin igual,\nEl río canta su manso cantatín,\nY el aire trae un frescor vital.\n\nLas flores pintan cada sendero umbrío,\nCon sus matices, pura creación,\nEl sol derrama su dorado brío,\nDespierta el alma en dulce sensación.\n\nProfundo, el bosque guarda su secreto,\nEl silencio allí reina, el musgo alfombra,\nUn refugio de paz, sereno y quieto,\nQue de la prisa mundanal no asombra.\n\nAsí la calma de este edén perdura,\nEterna y sabia, pura en su hermosura.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

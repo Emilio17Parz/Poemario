@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Apareces en sueños,\ncuando cierro los ojos fatigados,\ncon tus gestos risueños,\ny tus labios de miel tan deseados.\nNo quiero despertar a la realidad,\na la soledad,\nprefiero vivir siempre en tu quimera,\nmi primavera.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "imagen"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Viva el color que el ojo enciende!\nRojo de fuego, azul de mar,\nverde que invita a descansar,\namarillo que el sol desprende.\n\nSin ti el mundo sería gris,\ntriste y vacío de expresión,\ntú das la vida y la emoción,\ncon tu brillante y rico matiz.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luz"
+  }
+}

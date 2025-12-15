@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No busca el héroe la vana gloria,\nsino cumplir con su noble deber,\ny quedar grabado en la memoria.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

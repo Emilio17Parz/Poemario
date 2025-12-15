@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Versos de oro,\nque adoro.\nLa rima,\nque anima,\nel coro.\n\nEl tesoro,\ndel loro.\nLa cima,\nversos de oro.\n\nEl toro,\ny el moro.\nSe arrima,\nla estima,\ndecoro,\nversos de oro.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

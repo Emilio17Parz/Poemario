@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia mansa,\nsobre la tierra seca que descansa.\nMelodía del cielo\nque baja hasta el suelo.\nLava el polvo y la pena,\ndejando el aire limpio y alma llena.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

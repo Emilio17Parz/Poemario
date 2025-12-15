@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sombra que camina,\npor el corredor,\ncausando temor,\ny que no termina.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

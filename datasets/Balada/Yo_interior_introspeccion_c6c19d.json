@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El miedo paraliza el pie,\ny nos quita la poca fe,\ncreando monstruos irreales,\ny fantasmas inmortales.\nHay que mirarlo a la cara,\nantes de que nos separa,\nde la vida y de la acción,\ncon su fría y gran presión.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

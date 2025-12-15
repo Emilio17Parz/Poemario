@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu dulce mirar,\nclaro como el día,\nllena de alegría\nmi triste caminar.\nEn tus ojos de mar\nencuentro el horizonte,\nmas bello que el monte,\ndonde el sol se suele recostar.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte camina a mi izquierda,\na un paso de distancia.\nNo me amenaza, me acompaña.\nMe recuerda que el tiempo es oro,\nque el café está caliente,\nque el sol brilla hoy.\nSin su sombra,\nla luz de la vida no tendría contraste.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

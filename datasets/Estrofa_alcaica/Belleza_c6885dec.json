@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Gira el cuerpo cual hoja en el viento,\narco flexible de armonía pura,\ntodo es un movimiento\nlleño de gracia y hermosura.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "danza"
+  }
+}

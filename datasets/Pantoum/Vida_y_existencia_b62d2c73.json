@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos siempre la verdad,\nentre sombras y mentiras,\npara hallar la claridad,\npor la que el alma suspira.\n\nEntre sombras y mentiras,\nes difícil encontrar,\npor la que el alma suspira,\nla razón de caminar.\n\nEs difícil encontrar,\nbuscamos siempre la verdad,\nla razón de caminar,\npara hallar la claridad.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde en mí un fuego intenso\ncuando rozas mi cintura,\nes una dulce locura\nen este amor tan inmenso.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

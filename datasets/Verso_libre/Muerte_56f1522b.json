@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Después del último latido,\nllega el silencio absoluto.\nNo el silencio de la pausa,\nsino el de la ausencia.\nLa paz que habita en la piedra,\nla quietud que sigue a la tormenta.\nUn silencio que lo envuelve todo,\ny lo explica todo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El ojo que mira al ojo.\nEl observador detrás del pensamiento.\nEsa presencia quieta\nque sabe,\nque siempre ha sabido.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

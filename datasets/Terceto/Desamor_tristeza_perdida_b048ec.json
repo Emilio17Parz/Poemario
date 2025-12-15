@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Busco el olvido, el manto que me dé paz (A),\nborrar tu imagen de mi corazón (A),\nsin tu amor no hay rumbo tenaz (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Olvido"
+  }
+}

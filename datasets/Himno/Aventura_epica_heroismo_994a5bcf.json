@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Abrid las velas, levad anclas,\nel horizonte nos llama ya,\nhacia tierras que nadie vio,\nsin que nos frenen miedos ni trabas.\n\n¡Gloria a la audacia del navegante!\nQue busca mundos por descubrir,\ndispuesto siempre a partir,\ncon el espíritu delirante.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Doy lo que tengo,\nen el altar.\nDe donde vengo,\npara adorar.\n\nEn el altar,\nfruto y flor.\nPara adorar,\ncon fervor.\n\nFruto y flor,\nde donde vengo.\nCon fervor,\ndoy lo que tengo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ofrenda"
+  }
+}

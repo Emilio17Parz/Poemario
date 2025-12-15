@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento con fuerza desmedida,\nmoviendo las copas de los pinos,\nllevándose las hojas de la vida.\n\nNadie conoce su cueva escondida,\nni el mapa de sus locos caminos,\nsopla el viento con fuerza desmedida.\n\nDeja la flor temblando y abatida,\ny a los pájaros cambia sus destinos,\nllevándose las hojas de la vida.\n\nEs una voz que grita en la huida,\ncantando sus eternos desatinos,\nsopla el viento con fuerza desmedida.\n\nAbre la puerta que estaba prohibida,\nrompiendo los cerrojos cristalinos,\nllevándose las hojas de la vida.\n\nNaturaleza fiera y decidida,\nque juega con nosotros, peregrinos,\nsopla el viento con fuerza desmedida,\nllevándose las hojas de la vida.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viento"
+  }
+}

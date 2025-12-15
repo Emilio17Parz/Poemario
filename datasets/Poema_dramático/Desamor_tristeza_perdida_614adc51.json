@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "MUJER: No digas nada, guarda el aliento.\nHOMBRE: Debo explicarte por qué me marcho.\nMUJER: Tu explicación es hielo y escarcha,\nme basta con este último momento.\nVete ya, cruza ese umbral con tu adiós,\ny deja que el silencio nos cubra a los dos.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

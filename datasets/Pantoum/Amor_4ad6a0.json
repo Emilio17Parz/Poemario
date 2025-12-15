@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Guardo en mis labios tu dulce sabor,\nmemoria fresca de un instante eterno,\nfruto prohibido de nuestro amor,\ncalor que vence al frío invierno.\n\nMemoria fresca de un instante eterno,\nel mundo gira y no me importa nada,\ncalor que vence al frío invierno,\ncuando descanso en tu almohada.\n\nEl mundo gira y no me importa nada,\nfruto prohibido de nuestro amor,\ncuando descanso en tu almohada,\nguardo en mis labios tu dulce sabor.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sabor"
+  }
+}

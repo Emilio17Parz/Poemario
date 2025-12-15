@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Círculo perfecto y fuerte,\ndonde el miedo se disuelve,\ny la calma se devuelve,\nalejando la mala suerte.\nEn tus brazos soy gigante,\neterno y fiel amante.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

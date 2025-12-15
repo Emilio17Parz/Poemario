@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Abre tus alas ya,\nY vuela muy alto,\nA donde nadie va.\nAbre tus alas ya,\nSin más allá,\nNi asalto.\nAbre tus alas ya,\nY vuela muy alto.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "alas"
+  }
+}

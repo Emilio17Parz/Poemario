@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde manto cubre el monte, el aire fresco,\nbrisas dulces mueven hojas, susurran versos,\ncanta el ave melodías, ¡qué paz profunda!,\nllenan de calma.\n\nDonde el **río** serpentea, cristalino,\ncorre el agua entre las piedras, un murmullo,\nrefleja el cielo azul, nubes que pasan,\nvida que fluye.\n\nFlores abren sus corolas, mil colores,\naroma embriaga el sendero, la luz dorada,\ncae la tarde, el silencio ya se adueña,\ndel vasto Edén.\n\nOh natura, templo eterno de la belleza,\nsiempre ofreces tu consuelo, tu eterna gracia,\nalma mía se extasía, se funde en todo,\ncon tu esplendor.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "río"
+  }
+}

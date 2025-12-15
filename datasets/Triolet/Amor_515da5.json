@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Guardo nuestro secreto,\nen el fondo del alma.\nEs un amor completo,\nguardo nuestro secreto.\nCon todo mi respeto,\ny una infinita calma.\nGuardo nuestro secreto,\nen el fondo del alma.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

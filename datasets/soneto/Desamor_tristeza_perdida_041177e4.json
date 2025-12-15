@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Mi alma vaga hoy sin rumbo ni consuelo,\nEl eco mudo de tu voz se ha ido,\nEn cada sombra un dolor prohibido,\nY el sol se esconde tras un negro velo.\n\nYa no hay caricias bajo este cielo,\nMi corazón se siente tan herido,\nPor el adiós que nunca he comprendido,\nAnhelo el tiempo que fue un dulce anhelo.\n\nLa amarga ausencia que me invade lenta,\nMe arrastra al abismo de la soledad,\nDonde la pena mi existencia tienta.\n\nMi espíritu hoy ya no se contenta,\nCon esta fría e inmensa vanidad,\nQue el cruel recuerdo sin piedad ostenta.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

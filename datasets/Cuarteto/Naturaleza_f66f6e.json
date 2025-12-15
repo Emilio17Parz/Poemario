@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Renace la vida en cada capullo,\nla flor se abre al beso del rocío,\nse llena de color el mundo frío,\ny canta el ave con dulce murmullo.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

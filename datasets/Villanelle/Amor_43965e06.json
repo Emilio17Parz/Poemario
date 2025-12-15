@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quisiera robarte un eterno beso,\nparar el reloj en ese momento,\ny ser de tus labios cautivo y preso.\n\nLlevarme ese instante de dulce peso,\nborrando del mundo todo lamento,\nquisiera robarte un eterno beso.\n\nVivir para siempre en el embeleso,\nsin miedo al futuro ni al sufrimiento,\ny ser de tus labios cautivo y preso.\n\nDe amor y ternura salir ileso,\nguardando en el alma tu sentimiento,\nquisiera robarte un eterno beso.\n\nNo pido riquezas ni pido exceso,\nsolo este mágico acercamiento,\ny ser de tus labios cautivo y preso.\n\nPor eso a tu boca siempre regreso,\ncon todo mi amor y mi pensamiento,\nquisiera robarte un eterno beso,\ny ser de tus labios cautivo y preso.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "beso"
+  }
+}

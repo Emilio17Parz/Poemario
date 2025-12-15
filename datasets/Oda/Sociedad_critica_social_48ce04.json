@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mano vacía,\nestómago hueco,\nsin eco,\nel día.\nVergüenza nuestra,\nque se muestra.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Destella con gran brillo\nel lucero de la tarde,\ny mi corazón arde\ncual fuego en el castillo.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

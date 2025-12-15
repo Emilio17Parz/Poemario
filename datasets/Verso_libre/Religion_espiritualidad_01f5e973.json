@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No pido cosas en mi oración.\nNo pido milagros ni fortunas.\nPido fuerza para aceptar,\npido ojos para ver,\npido coraje para amar.\nMi rezo no es una lista de deseos,\nes un acto de rendición\nante el misterio.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "oración"
+  }
+}

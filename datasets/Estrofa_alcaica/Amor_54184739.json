@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Amor Estrofa",
   "poema": {
     "texto": "La poesía no tiene forma\nni medida exacta\ncrece entre los espacios\ncomo musgo en la piedra\n\nEste Amor_Estrofa es apenas\nun suspiro en el viento\nuna marca en la arena",

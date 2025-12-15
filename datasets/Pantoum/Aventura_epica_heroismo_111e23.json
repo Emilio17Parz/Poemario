@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Palabra que se mantiene,\nhasta el último aliento.\nNada la detiene,\nni el sufrimiento.\n\nHasta el último aliento,\ncódigo de lealtad.\nNi el sufrimiento,\nrompe la verdad.\n\nCódigo de lealtad,\nnada la detiene.\nRompe la verdad,\npalabra que se mantiene.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "honor"
+  }
+}

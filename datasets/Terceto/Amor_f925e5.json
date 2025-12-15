@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El misterio de amarte es un don sin fin (A),\nla razón oculta de mi existir (A),\nel aroma de un dulce jazmín (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Misterio"
+  }
+}

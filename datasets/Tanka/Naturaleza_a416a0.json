@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde refugio\ndonde canta el jilguero\npaz natural.\nLos árboles abrazan\ncon sus sombras antiguas.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volvemos a ser solo polvo,\nceniza que lleva el viento,\nen la tierra me disuelvo,\nterminando el sufrimiento.\n\nCeniza que lleva el viento,\nparte del ciclo natural,\nterminando el sufrimiento,\nen este viaje final.\n\nParte del ciclo natural,\nvolvemos a ser solo polvo,\nen este viaje final,\nen la tierra me disuelvo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

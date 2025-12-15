@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El muro se ha caído, la ciudad se rindió al invasor cruel,\nla defensa fue la sangre que se fue con sabor amargo a hiel.\nMorir por la patria fue una vana promesa que se rompió ya sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el esfuerzo que no tuvo valor al final sin luz ni paz,\ny mi alma es la sombra de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "muro"
+  }
+}

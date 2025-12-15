@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Leviatán azul de mil cabezas,\nrugiendo con furia contra el peñón,\nguardas tesoros y mil bellezas,\ny tumbas de barcos en tu corazón.\nImperio líquido, vasto y profundo,\nfrontera final de todo el mundo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Océano"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Juegan los dados los dioses,\ncon nuestra suerte mortal,\nsin escuchar nuestras voces.\n\nDando alegrías y roces,\nde forma accidental,\njuegan los dados los dioses.\n\nA veces dan coces,\ny a veces un bien total,\nsin escuchar nuestras voces.\n\nNo hay planes precoces,\nsolo el azar fatal,\njuegan los dados los dioses.\n\nSufres y gozas y toces,\nen este baile casual,\nsin escuchar nuestras voces.\n\nSomos peones veloces,\nen el tablero real,\njuegan los dados los dioses,\nsin escuchar nuestras voces.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "azar"
+  }
+}

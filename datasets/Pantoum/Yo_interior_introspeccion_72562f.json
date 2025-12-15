@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Arde el fuego,\ndel querer,\nes un juego,\nde poder.\n\nDel querer,\nlo inalcanzable,\nde poder,\nincontrolable.\n\nLo inalcanzable,\narde el fuego,\nincontrolable,\nes un juego.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

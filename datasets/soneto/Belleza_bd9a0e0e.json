@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Belleza se anuncia sin temor,\nUn eco eterno en cada corazón,\nUn aire puro, un singular primor,\nQue eleva el alma a excelsa emoción.\n\nSe halla en la flor que rompe el capullo,\nEn el cristal que filtra un rayo de sol,\nEn el vibrante y dulce murmullo,\nQue en cada **color** halla su arrebol.\n\nUn gesto noble, el tacto sin disfraz,\nLa melodía que al silencio vence,\nUn sueño etéreo, plácido solaz,\nQue el alma en cada fibra se convence.\n\nAsí la vemos, siempre, al despertar,\nUn don divino, siempre sin cesar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "color"
+  }
+}

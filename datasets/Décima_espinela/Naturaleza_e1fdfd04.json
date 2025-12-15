@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol sale por oriente\ncon su corona dorada,\ndespertando a la alborada\nde una forma potente.\nCalienta a toda la gente\ny da luz a la ciudad,\nes la gran autoridad\ndel sistema sideral,\nun fuego fundamental\nde inmensa capacidad.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "luz"
+  }
+}

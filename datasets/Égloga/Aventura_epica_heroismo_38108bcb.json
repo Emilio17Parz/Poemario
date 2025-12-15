@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Subí al pico más alto,\npara tocar las estrellas,\ndejando las huellas,\nen el basalto.\nFue un gran asalto,\ncon penas y querellas,\npero las vistas bellas,\nvalieron el salto.\nDominé el mundo,\ndesde lo profundo,\ny lo rotundo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cima"
+  }
+}

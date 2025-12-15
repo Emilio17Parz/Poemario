@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fue mentira\ntodo lo que dijiste\nfalso guión.\nActuaste tu papel\ny yo creí la obra.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "engaño"
+  }
+}

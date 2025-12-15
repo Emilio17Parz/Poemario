@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te digo adiós con voz entrecortada,\nrompiendo la promesa del ayer,\ncon el alma totalmente desolada.\n\nSabiendo que no vamos a volver,\na ver la luz de nuestra madrugada,\nni a vernos en los ojos renacer.\n\nHistoria terminada.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

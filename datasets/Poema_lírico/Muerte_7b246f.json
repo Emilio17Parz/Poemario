@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El silencio es de plomo,\nno es la paz, es el fin.\nEs el triste colmo\nde un alma sin motín.\n\nYa no hay voz ni risa,\nsolo un aire frío y cruel,\nla última prisa\ncon sabor a hiel.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

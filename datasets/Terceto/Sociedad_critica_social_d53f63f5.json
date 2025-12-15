@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Avanza la ciudad sobre el verdor,\nllenando de cemento y humo gris,\nlo que antes era vida y esplendor.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "humo"
+  }
+}

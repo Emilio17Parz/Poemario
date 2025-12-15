@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos sentido\na la oscuridad,\nqueriendo encontrar\nla felicidad.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

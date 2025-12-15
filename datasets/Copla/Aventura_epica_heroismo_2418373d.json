@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Caballo mío, caballo,\ncompañero de fatigas,\nllevame lejos de aquí\ndonde no haya más intrigas.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "fiel"
+  }
+}

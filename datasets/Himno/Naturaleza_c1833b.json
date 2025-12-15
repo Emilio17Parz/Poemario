@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Ejército de oro en el firmamento,\nque observáis mudas nuestro movimiento!\nJoyas clavadas en manto de noche,\nde la belleza divino derroche.\n\n¡Cantad a las luces que nunca se apagan,\ny que en lo eterno por siempre divagan!\nGuías del alma hacia lo infinito,\nsois del universo el más bello rito.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Abrid las puertas, cielos eternos,\nque llega un alma a su nuevo hogar,\ndonde no existe ya el penar,\nni los rigores de los inviernos.\n\nCanten los ángeles bienvenida,\na quien ha vuelto a la casa del Padre,\ndonde el amor es la única madre,\ny la existencia es bendecida.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "paraíso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dos manos que juntas están,\nla fuerza del mundo nos dan.\nPromesa de unión,\nde fiel corazón,\nque el tiempo jamás romperán.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Manos"
+  }
+}

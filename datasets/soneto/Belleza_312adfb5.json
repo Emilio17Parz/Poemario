@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo encaja en perfecta proporción,\nla nota justa en el acorde suena,\nla línea curva que al mirar serena,\ny calma la agitada percepción.\n\nNo sobra nada en esta creación,\nni falta pieza en la perfecta escena,\nes el orden que al caos encadena\ny brinda al espíritu la unión.\n\nBelleza es equilibrio y consonancia,\nun ritmo que gobierna el universo\ny anula la discordia y la distancia.\n\nEn la armonía encuentro mi reverso,\nla paz que tiene aroma y fragancia,\ny fluye como río en este verso.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "armonía"
+  }
+}

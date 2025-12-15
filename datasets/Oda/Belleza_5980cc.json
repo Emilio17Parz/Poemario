@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piedra que brilla,\nfuego frío,\nmío,\nsencilla.\nLujo y valor,\nde gran primor.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "joya"
+  }
+}

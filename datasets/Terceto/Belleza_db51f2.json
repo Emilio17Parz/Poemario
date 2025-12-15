@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza pasa pronto,\nes una breve alegría,\nque vuelve al hombre loco.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

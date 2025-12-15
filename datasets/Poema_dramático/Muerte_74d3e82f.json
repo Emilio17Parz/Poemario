@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "REY: ¡Que toquen trompetas! ¡Que nadie calle!\nBUFÓN: Señor, la reina ha dejado de oír.\nREY: ¡Que griten! ¡No la dejen partir!\nBUFÓN: Ya reina en la sala el silencio del valle.\nNi todo el ruido de vuestro poder,\npuede hacerla de nuevo volver.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

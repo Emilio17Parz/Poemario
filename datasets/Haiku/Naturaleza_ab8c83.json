@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Caña flexible,\nse dobla con el viento,\npero no rompe.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "caña"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El Cenotafio está solo, (A)\nrecuerdo sin la verdad, (B)\nmi vida sin claridad, (B)\nes solo un triste polo. (A)\nMi alma ya sin consuelo, (A)\nde tristeza y de dolor, (C)\nya no siento el fulgor, (C)\nde tu mano sin final, (D)\nen mi camino fatal, (D)\nme queda solo el horror. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Cenotafio"
+  }
+}

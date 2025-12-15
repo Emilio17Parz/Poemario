@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vuelo dormido\ncreando mundos nuevos\nlibres del mal.\nDespierto y se esfuman\ncomo niebla en el sol.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

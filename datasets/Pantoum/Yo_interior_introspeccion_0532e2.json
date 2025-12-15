@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro mi reflejo,\nen el cristal,\nun hombre viejo,\no un animal.\n\nEn el cristal,\nveo mis errores,\no un animal,\ncon sus temores.\n\nVeo mis errores,\nmiro mi reflejo,\ncon sus temores,\nun hombre viejo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "reflejo"
+  }
+}

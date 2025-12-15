@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra muda abraza al sueño eterno,\nUn frío manto cae sobre lo humano,\nEste postrer aliento marca el fin.\n\nEl corazón se quiebra, ya no tierno,\nUn eco queda del amor lejano,\nLa sombra muda abraza al sueño eterno.\n\nNo hay más promesas, ni un fulgor moderno,\nEl tiempo cesa, todo rastro vano,\nEste postrer aliento marca el fin.\n\nNi voz que clame, ni lamento interno,\nEl alma libre vaga en el arcano,\nLa sombra muda abraza al sueño eterno.\n\nSe cierra el libro del vivir materno,\nEl velo cae, silencio soberano,\nEste postrer aliento marca el fin.\n\nNo hay retorno del umbral fraterno,\nUn viaje solo, en vasto e ignoto plano,\nLa sombra muda abraza al sueño eterno,\nEste postrer aliento marca el fin.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "fin"
+  }
+}

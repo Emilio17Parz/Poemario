@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida es un suspiro, una tenue llama,\nY en la noche eterna el eco se va.\n\nEl tiempo nos consume, cual sutil trama,\nY en la noche eterna el eco se va.\n\nLos sueños y grandezas, frágil panorama,\nY en la noche eterna el eco se va.\n\nDe carne y hueso, al fin seremos **polvo** que se derrama,\nY en la noche eterna el eco se va.\n\nNi llanto ni recuerdo, ni voz que nos llama,\nY en la noche eterna el eco se va.\n\nSolo el alma de Silente, en su verso clama,\nY en la noche eterna el eco se va.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

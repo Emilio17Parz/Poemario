@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí yace quien amó y sufrió,\nquien buscó la verdad y la belleza,\ncon humildad y con entereza,\nhasta que su luz se extinguió.\n\nEl mundo sus pasos conoció,\ny aunque tuvo su flaqueza,\ndejó muestra de nobleza\nen todo lo que vivió.\n\nCaminante, no pases de largo,\ndedica un pensamiento breve\na quien dejó su cargo.\n\nLa vida es copo de nieve,\nun instante dulce y amargo,\nque el viento se lleva y mueve.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "caminante"
+  }
+}

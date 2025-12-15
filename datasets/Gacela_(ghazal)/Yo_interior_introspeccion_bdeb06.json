@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siento en el pecho un gran vacío,\nnada lo llena, ese gran vacío.\n\nEs hambre de algo que no tiene nombre,\npozo profundo, ese gran vacío.\n\nQuizás es el hueco donde entra Dios,\nese sagrado y gran vacío.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

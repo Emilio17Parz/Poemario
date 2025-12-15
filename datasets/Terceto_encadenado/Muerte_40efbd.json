@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se nos escapa la arena del vaso,\ncada segundo nos lleva al fin,\ny caminamos hacia el ocaso.\n\nSe cierra la puerta del jardín,\ny llega inexorable el final,\ncallando para siempre el violín.\n\nDe la vida real.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

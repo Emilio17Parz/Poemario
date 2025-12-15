@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viene a buscarme la oscura sombra,\nnadie escapa de la oscura sombra.\n\nCubre mis ojos y para mi aliento,\nmanto de hielo la oscura sombra.\n\nFinal de la luz y del día claro,\nreino absoluto de la oscura sombra.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

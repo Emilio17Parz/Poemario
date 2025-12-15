@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las olas rompen la arena,\nquitando toda la pena.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "arena"
+  }
+}

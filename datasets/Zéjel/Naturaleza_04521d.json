@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Hojas en el suelo,\nbajo el gris cielo.\n\nColor amarillo,\nperdió su brillo,\ntodo sencillo,\ncon recelo.\nHojas en el suelo,\nbajo el gris cielo.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

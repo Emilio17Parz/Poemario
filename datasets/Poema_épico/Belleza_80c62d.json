@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El orden del caos, la justa medida,\nequilibrio de fuerzas opuestas,\nla paz que sostiene la vida,\nen valles y en altas cuestas.\nMúsica de esferas, proporción,\nla llave de la creación.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Armonía"
+  }
+}

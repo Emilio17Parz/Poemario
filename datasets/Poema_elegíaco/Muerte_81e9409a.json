@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Duermes el sueño profundo,\ndel que no hay despertar,\nte has ido a descansar,\nlejos del ruido del mundo.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

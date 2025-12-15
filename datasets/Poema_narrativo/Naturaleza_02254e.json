@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nace el río en la cima, una gota de cristal,\nCorre lento por el bosque, sin prisa ni mal.\nLuego se hace torrente, en el cañón profundo,\nLlevando consigo el polvo y el rumor del mundo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "río"
+  }
+}

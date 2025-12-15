@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La princesa fue raptada por el oscuro mago,\nLlevada a la montaña, donde hay duro estrago.\nÉl cruzó cien pantanos, cien ríos de hiel,\nEl rescate del amor no tiene papel.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "princesa"
+  }
+}

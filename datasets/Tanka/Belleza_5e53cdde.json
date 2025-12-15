@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuerpo que gira,\nescribe poesía\ncon movimiento.\nEl alma se hace forma\ny vuela sin parar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "danza"
+  }
+}

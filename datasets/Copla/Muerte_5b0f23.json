@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mi rostro es de marfil fiel (a),\nsin vida, sin un calor (b),\nla vida es un trago de hiel (c),\nla ausencia de todo amor (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Marfil"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Grieta por donde entra la luz,\ndolor antiguo que me formó,\ncargué con ella como una cruz,\ny en fortaleza se transformó.\nLo que no mata nos hace fuertes,\nvenciendo a las pequeñas muertes.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Herida"
+  }
+}

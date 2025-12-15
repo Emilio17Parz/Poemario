@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Cuando el clarín de gestas nos convoca,\ny el eco de los mitos se agiganta,\nel alma noble en la lid se levanta,\ncon la visión de hazañas en la boca.\n\nNi sierpe oculta, ni la peña roca,\ndetienen al que su camino canta,\nla fe que en cada paso se implanta,\nni miedo alguno el corazón sofoca.\n\nAsí la senda incierta se ha cruzado,\nla proeza en la historia ya palpita,\nel pecho altivo jamás fue domado.\n\nSu nombre resplandece en lo sagrado,\nla gloria por su gesto se habilita,\ny el honor es el premio más preciado.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "honor"
+  }
+}

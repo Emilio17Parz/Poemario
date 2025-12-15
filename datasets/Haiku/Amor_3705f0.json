@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Luz en tus ojos\nilumina mi alma\ndulce refugio.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El vacío me ata,\na la soledad.\nPor tu cruel partida,\nsin felicidad.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

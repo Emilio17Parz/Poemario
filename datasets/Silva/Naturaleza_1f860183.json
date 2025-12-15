@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde manto que la tierra viste,\nal sol que dora la montaña erguida,\ny el hondo bosque su misterio asiste,\ndo la fragancia de la flor se exhala.\nEl río canta su canción sonora,\nel aire mece el junco de la orilla,\ny el pájaro al cielo al fin se eleva,\nmientras el alma en su belleza vibra.\n\nMas, donde el horizonte se confunde,\ncon el azul que nunca tiene orillas,\nallí el inmenso **mar** su voz profunda\ndesata en olas que a la playa llegan.\nEspejo vasto de la luz eterna,\nque el sol enciende con fulgor ardiente,\ny en su vaivén la calma se discierne,\ndel alma el sueño que se mece lento.\n\nNaturaleza, de esplendor completo,\ntu ser palpable la verdad encierra,\nun eco antiguo de lo más secreto,\nque en cada forma el corazón inspira.\nDe tu grandeza el espíritu vive,\nen tu regazo el alma halla paz,\nque al hombre libre hacia el azul conduce,\nal fin sereno que jamás se acaba.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "mar"
+  }
+}

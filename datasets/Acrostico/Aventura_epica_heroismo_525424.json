@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hombre de gran valor,\nEnfrenta el temor.\nRompe con el dolor,\nOlvida el terror.\nEs un luchador.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "HEROE"
+  }
+}

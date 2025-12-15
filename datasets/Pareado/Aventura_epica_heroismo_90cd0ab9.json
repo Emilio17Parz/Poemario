@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El alba rompe, el clarín llama,\nEl corazón valiente se inflama.\n\nCon rumbo fijo, el sendero aguarda,\nNi la tormenta su paso retarda.\n\nGigantes ceden, dragones huyen,\nLos miedos más profundos concluyen.\n\nLa espada brilla, escudo fuerte,\nDesafiando osado a la muerte.\n\nPor reinos vastos, su estirpe forja,\nNi la sombra más densa le forja.\n\nCompañeros fieles, pacto sagrado,\nEn cada gesta el alma ha fraguado.\n\nRompe cadenas, libera al oprimido,\nSu valor nunca ha sido vencido.\n\nY al fin del viaje, la recompensa,\nSu nombre alzándose, en gloria inmensa.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

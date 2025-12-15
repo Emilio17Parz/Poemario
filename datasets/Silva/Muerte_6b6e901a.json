@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El negro es mi vestido,\nporque la ausencia me ha dejado herido,\ny todo he perdido,\nlo más querido,\nque el destino cruel ha decidido.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "negro"
+  }
+}

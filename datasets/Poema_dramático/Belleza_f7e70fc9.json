@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "NARCISO: ¡Qué ser tan bello veo en el agua!\nECO: ...agua... agua...\nNARCISO: Te amo, hermoso, sal de la fragua.\nECO: ...fragua... fragua...\nNARCISO: Quiero besarte, tocar tu piel.\n(Se inclina y cae)\nLAGO: Se ha ahogado el joven de miel.\nFLOR: Yo nazco ahora de su vanidad.\nBelleza que muere en soledad.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "reflejo"
+  }
+}

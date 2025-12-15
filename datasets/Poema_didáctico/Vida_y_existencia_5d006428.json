@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Aprovecha el día, no lo dejes,\nno te lamentes ni te quejes.\nEl pasado es humo, el futuro viento,\nsolo tienes este momento.\nBebe la vida a grandes tragos,\nantes que lleguen los aciagos.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "carpe diem"
+  }
+}

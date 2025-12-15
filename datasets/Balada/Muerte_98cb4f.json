@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj se detiene sin un error (a),\nel tiempo se para con gran dolor (b),\nmi alma se queda sin un fulgor (a),\nsin la luz de un noble valor (b),\nla vida es un golpe amargo y fatal (b),\ny la fe se pierde sin un querer (c),\nla ausencia me come sin una razón (b),\n**Mi vida se cubre de puro dolor** (C).\n\nPríncipe, la sombra sin fe (c'),\nes la forma de no creer (c'),\nla fuerza que no tiene fe (b),\n**Mi vida se cubre de puro dolor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Reloj"
+  }
+}

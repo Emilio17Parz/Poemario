@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quisiera ser como el río que pasa,\ny no recuerda la piedra que toca,\nborrar el beso que me dio tu boca,\ny la promesa que el tiempo arrasa.\nPero el olvido en mi mente fracasa,\ny mi memoria a tu imagen invoca.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

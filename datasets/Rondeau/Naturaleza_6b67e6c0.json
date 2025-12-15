@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "De la Natura el dulce don,\nQue late en cada corazón,\nNos muestra el cielo su fulgor,\nDel monte agreste su verdor,\nCon cada brisa, una emoción.\n\nEn la quietud del callejón,\nO el vuelo alegre de un halcón,\nReside un mágico sabor,\nDe la Natura el dulce don.\n\nEl río canta su canción,\nFluyendo en cada dirección,\nCon su murmullo arrullador,\nNos da la paz, sin opresor,\nY en ella hallamos la razón,\nDe la Natura el dulce don.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "río"
+  }
+}

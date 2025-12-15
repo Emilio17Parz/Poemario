@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sangre y raíces, tronco que sostiene,\namor primero que nos da la vida,\npuerto seguro, casa y acogida,\nnido caliente.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "familia"
+  }
+}

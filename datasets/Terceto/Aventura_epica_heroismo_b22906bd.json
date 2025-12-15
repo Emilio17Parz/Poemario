@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Una llamada antigua, de gesta y proeza,\nimpulsa al alma noble a su viaje sin par,\nque rompe cadenas de mortal pereza.\n\nPor valles de sombra, donde suele rondar\nun pérfido engaño o un feroz temor,\nsu espíritu arde dispuesto a luchar.\n\nCon golpe certero, el alma de valor\nse alza invencible en la más dura lid,\nforjando su nombre, con fiero honor.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "honor"
+  }
+}

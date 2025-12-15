@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu corazón es de hielo,\nMe congela la razón,\nMe tiraste desde el cielo.\nTu corazón es de hielo,\nYa no tengo consuelo,\nEn esta fría prisión.\nTu corazón es de hielo,\nMe congela la razón.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "frío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es,\nuna sombra,\na mis pies,\nque me nombra.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Quedaron a las diez en la plaza,\nél trajo una flor y una taza,\nella nunca llegó,\nél se la bebió,\ny volvió muy triste a su casa.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Cita"
+  }
+}

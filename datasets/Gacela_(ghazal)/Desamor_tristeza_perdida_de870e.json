@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sangra en mi pecho la vieja herida,\nno cicatriza la vieja herida.\n\nFue por tu mano que fue abierta,\ny sigue doliendo la vieja herida.\n\nNo hay medicina para esta vida,\nque cure el ardor de la vieja herida.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "herida"
+  }
+}

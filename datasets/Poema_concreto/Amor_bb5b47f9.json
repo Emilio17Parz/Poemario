@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "amor amor amor\nm           a\no           m\nr           o\namor amor amor",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "infinito"
+  }
+}

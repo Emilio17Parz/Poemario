@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Negra y alta, rasgando el cielo,\nla torre del hechicero se alza,\nel mal en su interior se descalza\ny cubre la tierra con su velo.\n\nEl héroe la escala con recelo,\nsorteando trampas que nadie ensalza,\nla muerte sus pasos siempre calza,\npero él sigue con firme anhelo.\n\nLlegar a la cima es la meta,\nromper el cristal del poder,\ny liberar al planeta.\n\nAunque tenga que perder\nsu vida en la grieta,\nlo hará por el deber.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "hechicero"
+  }
+}

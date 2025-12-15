@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un fuego gentil que el corazón abraza,\nDel cielo desciende, con luz sin igual,\nY en cada mirada, sublime caudal,\nLa esencia de todo dolor desraza.\n\nCon suave caricia que nunca amenaza,\nPenetra profundo, don espiritual,\nConquista la mente, un gozo total,\nY el mundo a tus pies su tributo traza.\n\nAsí, en tu presencia, mi espíritu mora,\nLa vida florece, el tiempo se rinde,\nY el dulce misterio por siempre perdura.\n\nNinguna pena el sentir descolora,\nPues esta pasión que mi ser escinde,\nEs luz que a mi alma feliz la conjura.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "alma"
+  }
+}

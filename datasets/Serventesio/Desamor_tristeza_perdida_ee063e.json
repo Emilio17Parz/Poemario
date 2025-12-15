@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hace frío en mi cama solitaria,\ndesde que me falta tu gran calor,\nmi vida se ha vuelto muy precaria,\nsin la luz de tu risa y tu color.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "frío"
+  }
+}

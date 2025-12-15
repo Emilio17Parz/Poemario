@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Me siento en silencio y dejo que el barro de mi mente se asiente hasta que el agua se vuelva clara.\nEn la quietud profunda, el yo se disuelve y me convierto en el observador eterno que mira sin juzgar.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "meditación"
+  }
+}

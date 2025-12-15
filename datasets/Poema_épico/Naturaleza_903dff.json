@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Laberinto verde, pulmón del mundo,\ndonde el jaguar es el emperador,\ngrito salvaje, eco profundo,\nvida y muerte, placer y dolor.\nReino de sombras y luz filtrada,\nnaturaleza jamás domada.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Selva"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La música es puente, el lenguaje sin una voz (A),\nque toca la fibra más pura y real (B),\nes la conexión que nos une a Dios (A),\nel arte supremo, el fanal (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Música"
+  }
+}

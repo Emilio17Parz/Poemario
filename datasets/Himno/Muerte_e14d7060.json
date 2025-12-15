@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No es el final la tumba fría,\nes solo el paso a la nueva luz,\ntras el dolor de la amarga cruz,\nbrilla el sol de un eterno día.\n\n¡Cantad victoria sobre la muerte!\nLa vida triunfa, el alma asciende,\nuna llama que se enciende,\ny cambia para siempre la suerte.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "resurrección"
+  }
+}

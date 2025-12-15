@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sobre nosotros se extiende el abismo azul, el cielo inabarcable.\nEs el lienzo donde el sol pinta sus auroras y la noche sus constelaciones.\nMirar hacia arriba es recordar nuestra pequeñez y nuestra grandeza.\nSomos polvo de estrellas contemplando nuestro hogar original.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un héroe parte a la misión,\ncruzando sierras y el mar,\nsin miedo pudo avanzar,\ncon gran determinación,\nguiado por su corazón.\n\nEn cada paso, un desvelo,\nrompiendo todo su velo,\nsu gesta clama por honor,\nvenciendo al fiero opresor,\nsubiendo al más alto cielo.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "honor"
+  }
+}

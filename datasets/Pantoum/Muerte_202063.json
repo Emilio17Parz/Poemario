@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vuelve el cuerpo a la tierra,\nalimento del gusano,\ntermina por fin la guerra,\ndel ser humano.\n\nAlimento del gusano,\nciclo natural y cruel,\ndel ser humano,\nque fue torre y papel.\n\nCiclo natural y cruel,\ntermina por fin la guerra,\nque fue torre y papel,\nvuelve el cuerpo a la tierra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

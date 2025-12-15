@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu ausencia es una espina\nque no me puedo sacar,\ncuanto más pasa el tiempo\nmás me pongo a llorar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

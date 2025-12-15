@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se cantará en salones de hidromiel,\nla gesta de dos que vencieron al hado,\nun amor escrito en antigua piel,\ncon tinta de sangre y oro sagrado.\nNo seremos polvo, seremos canción,\neterna memoria de una gran pasión.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Leyenda"
+  }
+}

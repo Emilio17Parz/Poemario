@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La roca es testigo (7a),\nde un tiempo sin fe (5b),\nmi alma te lo digo (7c),\nsin un 'yo sé' (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Roca"
+  }
+}

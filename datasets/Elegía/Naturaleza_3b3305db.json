@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, selva antaño verde, de vida desbordante,\nmurmullo de torrentes, canto de aves sin fin,\ntu aliento perfumado, tu esplendor gigante,\nhoy eco de un recuerdo que se diluye al fin.\n\nLas cumbres, que velaban con manto inmaculado,\nlos valles que abrazaban el río cristalino,\nse visten de ceniza, de silencio callado,\nmarchita la flor pura, tronchado el viejo pino.\n\nLa mano del progreso, cegada por la prisa,\ncortó raíces viejas, secó el vital caudal,\ny el alma de la tierra, herida sin divisa,\nse apaga lentamente, en un lamento astral.\n\nEl **cielo**, antes testigo de auroras y de trinos,\ncontempla hoy el velo de humo y desazón,\ny ya no hay un consuelo en sus altos destinos,\nsino el reflejo mudo de nuestra perdición.\n\n¿Adónde fue la magia, la virgen primavera?\n¿Quién devolverá el canto al páramo sombrío?\nLa ausencia nos persigue, la triste quimera\nde un Edén que se extingue, un sueño ya vacío.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

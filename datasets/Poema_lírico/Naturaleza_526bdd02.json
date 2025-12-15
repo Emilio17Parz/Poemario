@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol se derrama, dorado, silente,\nsobre la montaña, cumbre que se alza.\nLa bruma del valle, cual sueño que calza\nun manto de verde, profundo y latente.\n\nY surge un susurro, del bosque esmeralda,\nun hálito etéreo que el dosel agita.\nEs el leve **viento** que acaricia y grita\nverdades silentes en la vasta falda.\n\nRemueve las hojas con gracia y con brío,\ndespierta a las aves, su canto bendice.\nReflejos danzantes el arroyo desliza,\nun espejo claro del cielo, tan mío.\n\nEn cada flor nueva, en el vuelo fugaz,\nen la roca ancestral que el tiempo ha pulido,\nmi espíritu encuentra un eco perdido,\nun bálsamo eterno, sereno y en paz.\n\nAsí me confundo con tierra y con cielo,\noyendo el murmullo que nunca me engaña,\nla voz de la vida en la humilde campaña,\nque borra con luz cualquier pena y desvelo.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

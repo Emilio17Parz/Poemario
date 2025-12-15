@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me dijiste adiós,\nrompiendo a los dos.\n\nTe fuiste de aquí,\ny yo me perdí,\nya no soy feliz,\nsin oír tu voz.\n\nMe dijiste adiós,\nrompiendo a los dos.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

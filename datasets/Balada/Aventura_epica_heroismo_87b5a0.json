@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sale al camino sin miedo al dolor,\ncon su coraje y su gran valor,\npara salvar a quien pide ayuda,\nen la batalla que es siempre ruda.\nNo busca oro ni busca poder,\nsolo cumplir con su noble deber,\ny aunque le cueste la propia vida,\nsiempre tendrá la frente erguida.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

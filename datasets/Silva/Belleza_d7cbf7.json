@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verso y rima,\nque enamoran,\ny decoran,\nla tarima.\nSe aproxima,\nla verdad,\ny bondad,\nde la cima.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

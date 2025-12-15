@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Qué dejaremos al irnos de aquí?\n¿Un nombre grabado en la piedra?\n¿O una obra que crece y medra\nmás allá de lo que yo vi?\n\nQuiero dejar algo de mí,\nque no lo cubra la hiedra,\nuna verdad que empiedra\nel camino que recorrí.\n\nSembrar amor y bondad,\nenseñar al que no sabe,\ny buscar la verdad.\n\nQue mi paso no acabe,\nsino que dé claridad,\ny que en el tiempo se grabe.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

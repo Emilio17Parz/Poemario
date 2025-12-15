@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un misterio sin final,\nuna madeja que hay que desenredar,\nno busques la clave, no es lo crucial,\nsolo aprende a amar y a perdonar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Misterio"
+  }
+}

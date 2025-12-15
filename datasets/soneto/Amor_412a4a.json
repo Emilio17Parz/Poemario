@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si alguna vez te herí con mi palabra,\no descuidé tu amor por un error,\nte pido que perdones mi estupor\ny dejes que mi pecho se te abra.\n\nQue la duda jamás el paso labra\nentre nosotros, causando dolor,\ny vuelva a renacer aquel calor\nque a nuestros corazones descalabra.\n\nHumilde vengo a ti, arrepentido,\nbuscando en tu mirada la clemencia\npara este corazón que anda perdido.\n\nTu amor es mi juez y mi sentencia,\ny si soy por tu gracia redimido,\nte amaré con mayor insistencia.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "perdon"
+  }
+}

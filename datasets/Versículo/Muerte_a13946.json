@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿A dónde van los que se van? ¿Se disuelven en la luz o despiertan en otro sueño más profundo?\nLa muerte es la pregunta final que no tiene respuesta, el gran secreto que solo se revela al cruzar.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dos pastores, un camino,\ncompartiendo pan y vino,\nla amistad es el destino,\nmás noble y más divino.\n\nSi uno cae, el vecino,\nle levanta con su mano,\nporque el amor de hermano,\nes el lazo más fino.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "amistad"
+  }
+}

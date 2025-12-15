@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego que quema por siempre,\nes el castigo del mal,\nque nadie lo siembre.\n\nEn el diciembre,\ndel vendaval,\nfuego que quema por siempre.\n\nQue te desmembre,\nel animal,\nque nadie lo siembre.\n\nEn la curtiembre,\ndel gran rival,\nfuego que quema por siempre.\n\nQue no te membre,\nlo principal,\nque nadie lo siembre.\n\nEn el noviembre,\ndel funeral,\nfuego que quema por siempre,\nque nadie lo siembre.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "infierno"
+  }
+}

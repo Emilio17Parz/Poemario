@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mi rostro es de marfil, blanco y sin fulgor (A),\nsin vida, sin sangre, sin más calor (B),\nla ausencia de todo valor (A).\n\nLa vida se extingue, sin un final (B),\nel cuerpo se cansa, sin poder más (C),\nla forma de no volver a amar (B).\n\nNo hay más que sufrir, no hay más que el mal (C),\nla sombra me cubre, sin piedad (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Marfil"
+  }
+}

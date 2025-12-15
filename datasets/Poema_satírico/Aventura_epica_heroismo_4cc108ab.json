@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se cayó el internet,\ny cundió el pánico,\npeor que el hundimiento,\ndel Titanic.\nSin Google Maps,\nestamos perdidos,\nni en la propia casa,\nsomos sabidos.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "wifi"
+  }
+}

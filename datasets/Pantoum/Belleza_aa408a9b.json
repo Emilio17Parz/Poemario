@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Bella es la flor,\nque nace hoy,\ncon su olor,\na donde voy.\n\nQue nace hoy,\nen el prado,\na donde voy,\nenamorado.\n\nEn el prado,\nbella es la flor,\nenamorado,\ncon su olor.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El héroe desenvaina la espada no por odio, sino por justicia.\nEl acero brilla al sol como un rayo de la ira divina.\nEs la herramienta del destino, la defensora de los débiles y oprimidos.\nQue tu espada sirva siempre a la verdad y nunca a la tiranía.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "espada"
+  }
+}

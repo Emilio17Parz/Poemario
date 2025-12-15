@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Creer lo que no ves,\nes la definición,\npero al revés,\nes alucinación.\nLa línea es fina,\nentre el loco y la divina.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Fe"
+  }
+}

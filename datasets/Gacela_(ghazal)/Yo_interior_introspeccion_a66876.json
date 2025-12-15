@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco la chispa, mi propia luz,\nguía interna, mi propia luz.\n\nEn medio de la noche más negra,\nbrilla con fuerza mi propia luz.\n\nNo necesito sol exterior,\nsi tengo encendida mi propia luz.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "luz"
+  }
+}

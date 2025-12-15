@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La luna sale de noche,\nel sol sale por el día,\ny tú sales de mi pecho\nllenándolo de alegría.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "luna"
+  }
+}

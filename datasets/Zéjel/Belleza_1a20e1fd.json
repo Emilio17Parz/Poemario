@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Admiro la bella forma,\nque rompe con la norma.\n\nCurva singular,\ndigna de mirar,\ny de admirar,\nque el alma conforma.\n\nAdmiro la bella forma,\nque rompe con la norma.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "forma"
+  }
+}

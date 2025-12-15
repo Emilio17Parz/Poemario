@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El ser olvidado sin fe (a),\nsu nombre se borra ya (b),\nla vida sin un 'yo sé' (c),\nla sombra que nunca está (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Olvidado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El silencio responde,\na mi pregunta,\ny la pena conmigo,\nse rejunta.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "pregunta"
+  }
+}

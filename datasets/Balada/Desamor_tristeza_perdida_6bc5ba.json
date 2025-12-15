@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Bajó el telón de nuestra función,\nse apagaron luces y la ilusión,\nquedamos los dos en el escenario,\nleyendo el final de nuestro diario.\nNo hubo aplausos, solo silencio,\ny este vacío que presencio,\ncada uno toma su propio camino,\ncumpliendo su triste y solo destino.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "final"
+  }
+}

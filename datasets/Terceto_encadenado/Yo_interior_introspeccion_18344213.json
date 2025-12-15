@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién soy y adónde voy?,\npregunta mi conciencia,\nbuscando la esencia.\n\nDel ser que yo soy,\nen este laberinto,\ndonde estoy hoy.\n\nSiguiendo mi instinto.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "pregunta"
+  }
+}

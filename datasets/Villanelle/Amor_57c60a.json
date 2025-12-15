@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Andamos juntos el mismo sendero,\ncon paso firme y mano con mano,\nporque eres tú lo que yo más quiero.\n\nNo importa si es difícil o severo,\nni si el destino se muestra arcano,\nandamos juntos el mismo sendero.\n\nEres mi guía y mi compañero,\nen este viaje del ser humano,\nporque eres tú lo que yo más quiero.\n\nBajo la lluvia o el sol de enero,\navanzamos por monte y por llano,\nandamos juntos el mismo sendero.\n\nSoy a tu lado un feliz viajero,\nlejos del mundo triste y vano,\nporque eres tú lo que yo más quiero.\n\nHasta llegar al confín postrero,\nseguiremos el rumbo temprano,\nandamos juntos el mismo sendero,\nporque eres tú lo que yo más quiero.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "camino"
+  }
+}

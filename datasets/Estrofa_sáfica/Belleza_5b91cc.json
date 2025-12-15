@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Busca el artista la forma ideal,\nsin un defecto, sin un error,\nsueño imposible de gran valor,\nmeta soñada.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "perfección"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, cual río incesante, fluye eterno; mas su cauce se ahonda por la viva pasión.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Después de la aventura, el regreso al hogar, a la paz del fuego y la familia.\nPero ya no somos los mismos, hemos cambiado, hemos visto cosas que nadie creerá.\nEl héroe vuelve sabio y cansado, con cicatrices en el cuerpo y en el alma.\nSu mayor victoria es encontrar la paz después de la guerra, el amor después del odio.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "retorno"
+  }
+}

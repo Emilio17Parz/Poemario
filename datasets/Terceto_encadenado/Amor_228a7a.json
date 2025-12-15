@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu abrazo es refugio de calma y de bien (A),\nla roca que al fin me quiere sostener (B),\nsin tu amor no hay más que un triste vaivén (A).\n\nLa sombra se aleja, sin poder vencer (B),\nla vida es un canto de puro fulgor (C),\nla fuerza que impulsa el querer (B).\n\nNo hay más que amarte con todo valor (C),\nel fuego sagrado que nunca se irá (D),\nla esencia más pura del puro amor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Abrazo"
+  }
+}

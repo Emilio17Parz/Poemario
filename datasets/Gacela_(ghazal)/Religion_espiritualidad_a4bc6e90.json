@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi alma es un ave que quiere volar,\nhacia tu altura para anidar.\n\nRompe la jaula del bienestar,\ny busca el cielo para brillar.\n\nSolo en tu seno puede descansar,\ny la paz eterna encontrar.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "ave"
+  }
+}

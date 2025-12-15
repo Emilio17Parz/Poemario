@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Escribo vuestro nombre en cada rama,\ny el agua lo murmura en la ribera,\ncomo si Amor quisiera\nque el mundo sepa cuánto mi alma os ama.\nResuena en el valle y en el monte,\nmás allá del lejano horizonte,\nvuestro nombre sagrado,\nque tiene mi vivir santificado.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

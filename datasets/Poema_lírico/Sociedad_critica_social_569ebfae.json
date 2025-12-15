@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "En el asfalto gris, la vida se desploma,\nUn eco de lamento que el viento apenas calma.\nMiradas extraviadas, el alma se carcoma,\nMientras la luz del alba se tiñe de neblina.\n\nLos púlpitos de plata, con voz de terciopelo,\nPronuncian la quimera de un falso bienestar.\nMas bajo su palabra, se quiebra nuestra fe y celo,\nY el sueño de la gente no logra despertar.\n\nLa herida abierta sangra, sin venda ni consuelo,\nPor esa esquiva **justicia**, que tarda en alumbrar.\nSe clama entre las sombras, bajo el mismo cielo,\nUn rastro de verdad que pueda iluminar.\n\n¿Qué fuego nos consume, qué olvido nos desgarra?\n¿Quién teje la maraña que ciega el corazón?\nLa voz se vuelve muda, la pena se nos agarra,\nY solo queda el ruego de nuestra desazón.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tiempo sin medida,\nun presente fijo.\nSalida de la vida,\ncomo Dios dijo.\n\nUn presente fijo,\nmás allá del sol.\nComo Dios dijo,\nperder el control.\n\nMás allá del sol,\nsalida de la vida.\nPerder el control,\ntiempo sin medida.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

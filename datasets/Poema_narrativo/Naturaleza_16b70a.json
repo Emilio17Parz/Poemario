@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Primero fue el relámpago, que partió la noche,\nLuego vino el sonido, sin tregua ni reproche.\nEl trueno fue la voz del cielo enojado,\nQue rompió el silencio del campo dorado.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "trueno"
+  }
+}

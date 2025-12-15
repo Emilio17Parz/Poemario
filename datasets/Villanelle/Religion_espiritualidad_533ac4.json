@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Soplo de vida,\nque nos llena,\nde luz encendida.\n\nSin medida,\nni pena,\nsoplo de vida.\n\nLa salida,\nde la cena,\nde luz encendida.\n\nLa partida,\nserena,\nsoplo de vida.\n\nLa acogida,\nbuena,\nde luz encendida.\n\nLa comida,\nplena,\nsoplo de vida,\nde luz encendida.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

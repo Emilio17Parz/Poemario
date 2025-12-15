@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Queda todo callado\nen el silencio,\nes el misterio grande\nque yo presencio.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "En la batalla,\nla gente calla.\n\nSuenan aceros,\nde caballeros,\ny guerreros,\nen la valla.\n\nEn la batalla,\nla gente calla.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En la espera, un suspiro.\nSe enciende leve la pasión.\nEl alma vibra, ya sin velos.\nNuestro **destino** se entrelaza aquí.\nAquí se entrelaza el **destino** nuestro.\nSin velos ya, vibra el alma.\nLa pasión leve se enciende.\nUn suspiro en la espera.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "destino"
+  }
+}

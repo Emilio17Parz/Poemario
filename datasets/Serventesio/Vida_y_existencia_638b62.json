@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cuidar el mundo en que vivimos,\nes deber de la humanidad,\nla tierra que recibimos,\nes nuestra gran oportunidad.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

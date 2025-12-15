@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sigo el mapa,\nhacia el norte,\nnadie escapa,\nde su porte.\n\nHacia el norte,\nel camino,\nde su porte,\ny destino.\n\nEl camino,\nsigo el mapa,\ny destino,\nnadie escapa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

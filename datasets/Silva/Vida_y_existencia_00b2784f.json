@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El hado está escrito,\nen las estrellas del lejano cielo,\nun plan infinito,\nque da consuelo,\no que nos causa profundo desvelo.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "hado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Barca en el mar, de eterno vaivén,\nnavega con fe, sin poder naufragar.\nEl alma se guía con un gran sostén,\nel puerto que quiero anclar.\n¡Oh, frágil navío, de dura labor,\nme das la fe y el amor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Barca"
+  }
+}

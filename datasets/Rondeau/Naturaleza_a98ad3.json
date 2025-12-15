@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El árbol crece,\ny permanece.\nRaíz profunda,\nque inunda,\ny favorece.\n\nSe mece,\ny estremece.\nSombra fecunda,\nel árbol crece.\n\nNo perece,\naunque empiece.\nLa tunda,\nrotunda,\nque acontece,\nel árbol crece.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

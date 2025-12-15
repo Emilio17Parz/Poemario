@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Manzana luminosa en la sombra\".",
   "poema": {
     "texto": "Luz en sombra manzana,\nFlecha del otoño trazada,\nEn el silencio.",

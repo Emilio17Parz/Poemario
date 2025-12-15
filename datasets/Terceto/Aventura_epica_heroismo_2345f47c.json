@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sirve a su rey y a su dama querida,\ncumpliendo su juramento sagrado,\naunque en ello le vaya la vida.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "fiel"
+  }
+}

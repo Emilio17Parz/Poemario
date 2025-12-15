@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se cierra la puerta y escucho el final,\nde una historia hermosa que acaba fatal,\ntus pasos se alejan por el corredor,\ny aquí se me queda todo el dolor.\nAdiós a los sueños, adiós al ayer,\na todo lo bueno que pudo ser,\nme quedo con sombras y con soledad,\ny la amarga y fría y cruel verdad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

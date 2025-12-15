@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Espejito, espejito,\n¿quién es la más bella?\nLe pregunto yo,\na la botella.\nPorque sobria no veo,\nlo que quiero ver,\ny el espejo se ríe,\nde mi parecer.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

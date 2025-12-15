@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Volver a la naturaleza,\ndormir en el suelo duro,\ndolor de cabeza,\ny bichos en el oscuro.\nLlaman vacación a sufrir,\ny no poder ni dormir.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Camping"
+  }
+}

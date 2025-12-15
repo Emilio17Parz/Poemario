@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es la última cosa que muere,\nla luz al final del túnel negro,\nel motivo por el que me alegro,\naunque el mundo cruel me hiere.\n\nCuando todo parece que infiere,\nun final triste y nada íntegro,\nla esperanza con su toque magro,\nnos dice que el bien se prefiere.\n\nVerde brote en la tierra quemada,\nestrella en la noche cerrada,\npromesa de una alborada.\n\nMantiene el alma sujetada,\na la vida que nos es dada,\ny nunca nos deja en la nada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cayó la semilla en tierra oscura,\ndurmió el invierno bajo la nieve,\nsoñando con un sol leve,\ny con la primavera pura.\nLa lluvia la despertó un día,\nrompió su cáscara con esfuerzo,\ny buscó la luz del universo,\ncon una verde valentía.\nSe hizo tallo, hoja y flor,\ny dio su fruto con amor.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "crecimiento"
+  }
+}

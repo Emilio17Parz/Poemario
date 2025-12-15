@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Ante el espejo de la verdad,\nmiro mi rostro sin el disfraz,\nbuscando el ser que sea capaz,\nde vivir con sinceridad.\nReflejo fiel de lo que soy,\ny hacia donde en la vida voy.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

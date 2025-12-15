@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque susurra un canto de paz,\nEl río desciende con clara corriente,\nSobre la montaña, imponente y tenaz,\nEl aire se torna perfume viviente.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

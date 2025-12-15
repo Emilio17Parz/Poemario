@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La palabra poética es la belleza hecha sonido y sentido, la flecha que da en el blanco.\nEl poeta destila la esencia de las cosas y nos la ofrece en una copa de versos.\nHay belleza en la tristeza, en la alegría, en el amor y en la muerte, si se dicen bien.\nLa poesía es la belleza que nos ayuda a vivir, el pan del espíritu hambriento.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

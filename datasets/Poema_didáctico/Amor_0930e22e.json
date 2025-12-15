@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Antes que amantes, sed buenos amigos,\nconfidenciales y fieles testigos.\nLa pasión puede un día menguar,\npero la amistad ha de perdurar.\nLa base firme de toda unión,\nes la camaradería y la comunión.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "amistad"
+  }
+}

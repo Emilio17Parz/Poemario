@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Profundo miro en mi ser,\nDonde la mente es un cristal,\nDesnudo el alma, sin temer,\nMi propio juicio, mi caudal.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "mente"
+  }
+}

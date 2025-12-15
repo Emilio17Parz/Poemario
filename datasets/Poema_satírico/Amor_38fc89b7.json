@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, ¡oh, farsa! ¡Qué gran impostor!\nPromete la luna, nos vende un motor\nDe pasiones turbias, de idilios de app,\nUn fuego fatuo que se apaga al snap.\n\nSe jura que es \"eterno\", que no habrá final,\nCon versos prestados y un falso caudal\nDe gestos sublimes, tan caros de ver,\nQue duran lo mismo que dura un placer.\n\nCon filtros se edita la triste verdad,\nSe busca el \"perfecto\" con gran vanidad.\nEl \"alma gemela\" es un buen perfil,\nQue se cambia al mes, o quizás, al abril.\n\nAsí transcurre el idilio fugaz,\nMás hype que romance, más \"selfie\" que paz.\nY queda la cuenta, la deuda brutal,\nDe un \"amor\" que fue un mero rito banal.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

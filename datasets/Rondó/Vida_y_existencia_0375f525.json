@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El laberinto oscuro,\ndel mundo y su gente,\ndonde la mente,\nchoca contra el muro.\n\nNo hay nada seguro,\nen esta corriente,\nni el aire puro.\nEl laberinto.\n\nEs un paso duro,\ny diferente,\nque se siente,\ncon gran apuro,\ny sin futuro.\nEl laberinto.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

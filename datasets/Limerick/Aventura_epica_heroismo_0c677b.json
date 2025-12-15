@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El vaquero sacó el revólver,\npara el problema resolver.\nSe disparó al pie,\n\"¡Ay, ay, se me fue!\",\ny tuvo que volver.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "vaquero"
+  }
+}

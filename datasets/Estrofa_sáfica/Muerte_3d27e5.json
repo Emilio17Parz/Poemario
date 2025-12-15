@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vives en mí aunque ya no estés,\ntu voz resuena en mi pensamiento,\nvences la muerte en este momento,\nmemoria viva.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

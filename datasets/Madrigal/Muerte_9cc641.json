@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La parca se presenta,\ncon su guadaña lista y afilada;\nla hora señalada,\nque nos afrenta.\nNadie escapa de su abrazo frío,\nni el más bravío.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La fama es pasajera,\npero la gloria queda en la memoria,\nde la carrera,\nde la historia,\nde quien alcanzó la gran victoria.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "fama"
+  }
+}

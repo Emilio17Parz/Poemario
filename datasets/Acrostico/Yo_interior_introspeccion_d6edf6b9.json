@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Silencio guardado en el pecho,\nEscondido de la mirada,\nCerrado bajo llave y techo.\nRealidad nunca contada,\nEnigma que sigue al acecho,\nTemiendo ser revelada,\nOculta en el propio lecho.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

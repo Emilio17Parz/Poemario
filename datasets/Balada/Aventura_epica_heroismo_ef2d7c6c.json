@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan que un héroe del pasado,\nvenció a la sombra con su luz,\nquedó su nombre grabado,\nen la piedra y en la cruz.\nHoy cantamos al andaluz,\nque nos salvó del tragaruz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

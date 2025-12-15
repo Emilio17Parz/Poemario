@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No existe en el mundo\nnada tan perfecto,\ncomo el amor puro\ny el buen afecto.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "perfección"
+  }
+}

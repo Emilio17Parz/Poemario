@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi amor, un sentir que en el alma anida.\nLa pasión, fuego puro que el corazón guía.\nEn cada beso, el tiempo se detiene, un universo nuevo.\nLa pasión, fuego puro que el corazón guía.\nMi amor, un sentir que en el alma anida.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

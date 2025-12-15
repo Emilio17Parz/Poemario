@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Vive en la piedra la fría escultura,\nforma perfecta la fría escultura.\n\nLa mano del genio le dio libertad,\ncárcel de mármol de la fría escultura.\n\nParece que respira y va a caminar,\nmuerte vencida en la fría escultura.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

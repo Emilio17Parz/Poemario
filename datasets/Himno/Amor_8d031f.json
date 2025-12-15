@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Gracias damos al cielo generoso,\npor este amor tan grande y tan hermoso.\nDon inefable que la vida llena,\ny que convierte en miel la antigua pena.\n\n¡Elevad himnos de agradecimiento,\nque llegue al cielo nuestro sentimiento!\nPor el regalo de poder amar,\ny en otros brazos poder descansar.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "gratitud"
+  }
+}

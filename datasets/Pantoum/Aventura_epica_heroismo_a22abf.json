@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Enfrentar el terror,\nsin dar un paso atrás.\nVencer el gran dolor,\ncapaz de mucho más.\n\nSin dar un paso atrás,\nmirando al frente firme.\nCapaz de mucho más,\nno dejaré que afirme.\n\nMirando al frente firme,\nenfrentar el terror.\nNo dejaré que afirme,\nvencer el gran dolor.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "coraje"
+  }
+}

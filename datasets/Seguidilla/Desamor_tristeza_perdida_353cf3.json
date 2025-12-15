@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La niebla me cubre (7a),\nsin un final (5b),\nmi alma ya no lubre (7c),\nsin un fanal (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Niebla"
+  }
+}

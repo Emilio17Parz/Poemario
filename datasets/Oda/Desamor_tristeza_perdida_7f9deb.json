@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mar que devuelve la ola vacía,\nsal en mi boca, amargo dolor.\nTu inmensidad no trae alegría,\nsolo la pena sin un fulgor.\n¡Oh, agua inmensa, de eterna marea,\nmi alma en ti se recrea!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

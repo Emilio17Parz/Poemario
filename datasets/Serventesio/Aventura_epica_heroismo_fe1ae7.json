@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El alma del héroe es de fuego y gran fulgor sin par (A),\nque arde en la lucha sin un final (B),\nla vida es un canto, que sabe volar (A),\nla esencia que es ya inmortal (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

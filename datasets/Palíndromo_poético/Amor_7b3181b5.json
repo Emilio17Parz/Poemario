@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amad a la dama.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "dama"
+  }
+}

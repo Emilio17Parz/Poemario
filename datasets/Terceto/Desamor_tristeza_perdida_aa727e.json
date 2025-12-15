@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soy libre al fin de tu yugo pesado,\npero la libertad sabe a amargura,\nen este desierto libre y desolado.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

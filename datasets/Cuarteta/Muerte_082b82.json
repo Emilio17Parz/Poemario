@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La noche absoluta, sin luna ni estrella,\nla negrura que todo quiere absorber,\nno hay ya más alma, no hay más huella,\nsolo el vacío, el final del ser.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Noche"
+  }
+}

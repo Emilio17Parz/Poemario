@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escudo de acero, de noble fulgor,\nque libra al héroe de todo mal.\nTu fuerza es la vida, sin un gran dolor,\nel alma que busca lo real.\n¡Oh, defensa firme, de dulce verdad,\nme das la fe y la caridad!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Escudo"
+  }
+}

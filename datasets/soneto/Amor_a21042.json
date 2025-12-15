@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuento las horas lentas que pasaron,\nlas sombras que en el muro se dibujan,\nmientras las ansias dentro me empujan\na aquellos tiempos que nos abrazaron.\n\nMis sueños en tu puerta se quedaron,\ncomo aves que en el viento se estrujan,\ny aunque los miedos gritan y rugen,\nmis lazos hacia ti no se soltaron.\n\nTe espero con paciencia de granito,\nsabiendo que al final de la jornada\nse borrará este tiempo maldito.\n\nY al ver aparecer tu luz amada,\nse hará pequeño todo lo infinito\nante la paz de tu dulce llegada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espera"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En el umbral callado, donde el tiempo se ausenta,\nme detengo a escuchar la voz que me alienta.\nUn murmullo secreto que brota desde adentro,\ntejiendo la sustancia de mi propio centro.\n\nFrente al cristal mudo, mi viejo **espejo** fiel,\nno devuelve una imagen, mas revela mi piel.\nEs un portal abierto, al yo que no se ve,\nel eco de lo que fui, la promesa de lo que seré.\n\nAhí mora el susurro, la duda sin voz,\nla herida que aún duele, el antiguo y feroz.\nEl niño que aún ríe, el sabio que no espera,\nla sombra que me ciñe, la luz que me libera.\n\nY en ese abismo claro, donde el ser se desvela,\nreconozco mi nombre, mi efímera estela.\nNo hay juicio ni condena, solo el pulso vital,\nla esencia que me habita, mi razón de estar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

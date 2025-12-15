@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Miras al cielo,\nbuscando paz.\nEs el consuelo,\nmiras al cielo.\nAlzas el vuelo,\ntan audaz.\nMiras al cielo,\nbuscando paz.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

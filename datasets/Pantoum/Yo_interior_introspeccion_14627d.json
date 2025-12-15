@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mucho ruido,\ndentro de mí,\nhe perdido,\nlo que fui.\n\nDentro de mí,\nvoces gritan,\nlo que fui,\ny se agitan.\n\nVoces gritan,\nmucho ruido,\ny se agitan,\nhe perdido.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ruido"
+  }
+}

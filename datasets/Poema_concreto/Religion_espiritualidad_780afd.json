@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "T\n U\n   C R E A D O R\n     U\n     T",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "dios"
+  }
+}

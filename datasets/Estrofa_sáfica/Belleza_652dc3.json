@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Alas pintadas con polvo de hadas,\nvuelo errático sobre la flor,\nbreve milagro de gran color,\nbicho de seda.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "mariposa"
+  }
+}

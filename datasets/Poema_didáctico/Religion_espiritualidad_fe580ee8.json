@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No busques a Dios solo en la altura,\nni en templos de mármol y de oro;\nbúscalo en el humilde tesoro,\nde la bondad y de la criatura.\nDios habita en el acto de amor,\ny en el consuelo del dolor.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "dios"
+  }
+}

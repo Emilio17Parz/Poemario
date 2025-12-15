@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Oh, Caballero de noble coraje,\nque busca la gesta sin un gran mal!\nTu espada es firme, tu alma es salvaje,\nla fuerza que vence el golpe fatal.\nLuchas por el bien, por la verdad,\ndemuestras la noble caridad.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Caballero"
+  }
+}

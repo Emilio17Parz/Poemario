@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Obrero de sol a sol,\ngana apenas para el pan.\nPerdió su propio farol,\nen el diario y cruel afán.\n\nGana apenas para el pan,\nsudor que riega el suelo.\nEn el diario y cruel afán,\nno mira nunca al cielo.\n\nSudor que riega el suelo,\nperdió su propio farol.\nNo mira nunca al cielo,\nobrero de sol a sol.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

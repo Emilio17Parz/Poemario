@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cielo azul, testigo de la entrega,\nel manto vasto de nuestra unión.\nTu altura noble al alma la riega,\ncon la promesa de una bendición.\n¡Oh, inmensidad, que me inspiras la fe,\ndonde el amor siempre será!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Cielo"
+  }
+}

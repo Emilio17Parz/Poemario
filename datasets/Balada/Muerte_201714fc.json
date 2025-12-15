@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la losa de mármol gris,\nduerme quien tanto luchó,\nya no es triste ni feliz,\ntodo su afán terminó.\nSolo queda una cicatriz,\nen la tierra que retumba,\ny la marca de la raíz,\nsobre la fría y sola tumba.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mirar el espejo,\ny ver el rostro del error,\nde la propia culpa.\nAsumir el fracaso ya,\nde no cambiar el mundo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

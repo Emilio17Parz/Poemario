@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Alza la bandera hoy,\ndonde quiera que voy,\nseñal de victoria,\nque pasa a la historia,\ny dice quién soy.\n\nEn el largo convoy,\ndel tiempo que doy,\nqueda la memoria,\nAlza la bandera.\n\nEl esfuerzo de Eloy,\ny el grito de estoy,\nen la trayectoria,\nde la nueva gloria,\nque traigo y que doy,\nAlza la bandera.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "bandera"
+  }
+}

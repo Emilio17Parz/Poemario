@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "¡Oh, almas bravas que el destino forja!\nDonde la cumbre al cielo se arroja,\nUn llamado ancestral vibra en el viento,\nQue despierta en el pecho el portento.\n\nDejad la calma, el sosiego amado,\nPor el sendero ignoto y desafiado.\nEl corazón enciende su valía,\nAnte la aurora de la gran osadía.\n\nEn cada huella del audaz **viaje**,\nLuchando contra el tiempo y el paisaje,\nSe templan nervios, se agudiza el ojo,\nSin rendir el ideal, sin dar despojo.\n\nContra el dragón, la sombra y el engaño,\nEl héroe marcha, sin sentir el daño.\nLa espada justa, el espíritu leal,\nSu nombre grita la victoria final.\n\nLa gesta épica, de glorioso estruendo,\nEn cada verso sigue trascendiendo.\nSu luz perenne, faro de la acción,\nEterno himno de la redención.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

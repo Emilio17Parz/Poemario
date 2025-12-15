@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nTu abrazo es el puerto, mi calma constante (E1: constante)\nLa pena del mundo no quiero ya ver (E2: ver)\nMi amor es la luz que me va a encender (E3: encender)\nLa sombra se aleja sin un solo temor (E4: temor)\nEl alma contigo al fin quiere crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nLa pena que quiero al fin ver (E2, E5)\nEl temor me enciende, quiero crecer (E4, E3)\nSin un error, llama constante (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Abrigo"
+  }
+}

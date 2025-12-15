@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres mi luz en la oscuridad,\nla que me brinda seguridad,\ncuando la noche cae feroz,\ny el sufrimiento se vuelve atroz,\ntú me regalas la claridad.\n\nTodo lo llenas de bondad,\ncon tu cariño y tu lealtad,\neres el eco de mi propia voz,\nEres mi luz.\n\nNo hay en el mundo otra verdad,\nque supere tu gran piedad,\neres el trigo y eres la hoz,\neres el río y su desembocadura veloz,\nmi única y gran necesidad,\nEres mi luz.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "luz"
+  }
+}

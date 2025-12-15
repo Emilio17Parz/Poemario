@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No necesito ver para creer.\nLa fe es sentir el sol\naunque el cielo esté nublado.\nEs caminar en la oscuridad\nsabiendo que hay una mano que guía.\nEs la certeza interior\nque sostiene el alma cuando el mundo tiembla.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "fe"
+  }
+}

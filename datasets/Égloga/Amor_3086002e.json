@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sale la luna sobre el redil,\ny pienso en ti, mi dulce bien,\n¿estarás pensando en mí también,\nen este noche de abril?\nEl campo huele a toronjil,\ny todo duerme en el edén,\nmas mis ojos no ven,\nsino tu rostro gentil.\nAlumbra, luna, su ventana,\ny dile que hasta la mañana,\nsu pastor la ama y se afana.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luna"
+  }
+}

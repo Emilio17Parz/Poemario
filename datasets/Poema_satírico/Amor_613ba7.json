@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Buscan la mitad que les falta,\ncomo si fueran fruta partida,\nla estupidez aquí resalta,\nen esta búsqueda perdida.\nNadie te completa, criatura,\nno eres un puzzle, eres dura.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Media_Naranja"
+  }
+}

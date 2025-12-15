@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza está en el ojo del que mira.\nPodemos ver fealdad en un palacio\ny hermosura en una ruina.\nDepende de la luz interior,\nde la capacidad de asombro.\nLimpiar la mirada\nes embellecer el mundo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

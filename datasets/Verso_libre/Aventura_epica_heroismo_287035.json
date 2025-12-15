@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sabe las palabras antiguas,\nlos nombres secretos de las cosas.\nNo lanza rayos,\ncambia la realidad susurrando.\nEl mago entiende que el mundo\nestá hecho de lenguaje.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mago"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juan quiso robarle un beso,\na Ana que comía un queso,\nella se apartó,\nel queso cayó,\ny Juan se quedó solo y tieso.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Beso"
+  }
+}

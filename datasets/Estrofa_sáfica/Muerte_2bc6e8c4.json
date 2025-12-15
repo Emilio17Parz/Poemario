@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando el alma parte, lejos del vivir,\nuna quieta brisa, hálito final,\ny la sombra viene, cubre la verdad,\nmuerte se asoma.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

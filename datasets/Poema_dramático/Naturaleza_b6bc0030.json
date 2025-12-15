@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "OTOÑO: Me voy, hermano, te cedo el trono.\nINVIERNO: Llego con hielo y cambio el tono.\nOTOÑO: Trata bien al bosque, duerme la vida.\nINVIERNO: Cubriré todo con capa medida.\nBlanco silencio será mi reinado.\nOTOÑO: Adiós colores, adiós dorado.\n(Sopla el viento helado)\nINVIERNO: Ahora dormid, hasta la primavera.\nYo guardo la tierra en mi nevera.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "frío"
+  }
+}

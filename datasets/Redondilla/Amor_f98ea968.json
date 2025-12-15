@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hoy unimos nuestras vidas\nante el altar y la gente,\ncon un lazo permanente\ny las almas encendidas.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "unión"
+  }
+}

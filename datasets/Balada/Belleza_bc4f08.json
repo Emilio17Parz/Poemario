@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuerpo que gira ligero y gracioso,\nen un espacio que se hace hermoso,\nmovimiento puro de fuerza y de arte,\nque el bailarín con el público comparte.\nEs la expresión sin ninguna palabra,\nllave que hace que el cielo se abra,\ny nos muestre la gracia total,\nde la belleza en su forma vital.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "danza"
+  }
+}

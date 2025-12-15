@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Respiro calma,\nen el alma.\nLa palma,\nque ensalma.\n\nSe empalma,\nla calma.\nRespiro calma,\nen el alma.\n\nSalma,\nno empalma.\nDesalma,\nla jalma.\nRespiro calma.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "calma"
+  }
+}

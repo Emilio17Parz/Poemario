@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La noche extiende su manto de seda,\nsalpicado de astros que quieren brillar,\nla vida reposa, nadie la arredra,\nla hora sagrada de volver a soñar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Noche"
+  }
+}

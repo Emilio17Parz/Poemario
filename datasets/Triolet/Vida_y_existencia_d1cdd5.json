@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Del error,\nse aprende bien.\nCon valor,\ndel error.\nY también,\ndel dolor.\nDel error,\nse aprende bien.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "error"
+  }
+}

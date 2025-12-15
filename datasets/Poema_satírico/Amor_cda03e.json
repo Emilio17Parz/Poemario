@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El asesino de la pasión,\nsofá, manta y televisión,\nse acabó la emoción,\ny llega la resignación.\nDonde hubo fuego, quedan ronquidos,\ny calcetines perdidos.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Rutina"
+  }
+}

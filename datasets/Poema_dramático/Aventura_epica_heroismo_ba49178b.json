@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "SOLDADO: ¿Moriremos hoy en este campo?\nCAPITÁN: Tal vez, pero nuestro nombre vivirá.\nSOLDADO: La muerte fría nos llevará.\nCAPITÁN: Y nos cubrirá de gloria el manto.\nNo temas el fin, teme el olvido,\ndel que jamás ha combatido.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

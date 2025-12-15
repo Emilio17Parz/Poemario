@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Héroe de la virtud y la bondad,\nque venció al dragón del pecado,\nespejo de la divinidad,\npor su sacrificio coronado.\nAureola de luz, vida ejemplar,\nestrella que guía en el mar.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Santo"
+  }
+}

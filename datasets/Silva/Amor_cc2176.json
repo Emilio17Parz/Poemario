@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Suena tu voz pura,\ncomo nota de amor,\nquitando el dolor,\ny la desventura.\nEs la partitura,\nde mi corazón,\nmi dulce canción,\nque me llena de paz y de dulzura.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "voz"
+  }
+}

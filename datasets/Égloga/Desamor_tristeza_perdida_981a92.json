@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche cubre con su negrura,\nmi pena que no tiene consuelo,\nno veo estrellas en el cielo,\nsolo mi propia desventura.\n\nEs una cárcel, una tortura,\npensar en ti y no tenerte,\ny desear la pálida muerte,\nantes que esta vida tan dura.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "noche"
+  }
+}

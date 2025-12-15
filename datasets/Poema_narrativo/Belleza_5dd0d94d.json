@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Subía a la colina,\ncada tarde puntual,\npara ver el final,\nde la luz divina.\nPintaba el rojo,\nel naranja y violeta,\ncon su paleta,\ny su antojo.\nQuería atrapar,\nal sol en el mar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "color"
+  }
+}

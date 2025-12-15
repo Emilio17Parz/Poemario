@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "El alma busca un eco en lo sagrado,\nUn puente etéreo al vasto cielo azul;\nLa *fe* se vuelve un bálsamo dorado,\nQue ilumina la senda con su luz.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "fe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El héroe parte, audaz y sin temor.\nUn dragón fiero guarda su esplendor.\nEnfrenta el mal con ímpetu y ardor.\nEl héroe parte, audaz y sin temor.\nPor valles cruza, venciendo el dolor.\nLa bestia acecha, de su fuerza, autor.\nEl héroe parte, audaz y sin temor.\nUn dragón fiero guarda su esplendor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Abrió el libro viejo de un pasado mejor,\nLas fotos volvieron con un dulce fulgor.\nLa memoria es el puente que al ayer nos lleva,\nLa vida que se fue y que nunca se renueva.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

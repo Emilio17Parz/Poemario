@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bienes se quedan aquí,\nnada te puedes llevar.\nLo que conseguí,\notro lo va a usar.\n\nNada te puedes llevar,\nsolo las acciones.\nOtro lo va a usar,\nsin explicaciones.\n\nSolo las acciones,\nlo que conseguí.\nSin explicaciones,\nbienes se quedan aquí.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

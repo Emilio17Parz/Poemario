@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sangra el costado\nel tiempo no la cura\nsigue abierta.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "herida"
+  }
+}

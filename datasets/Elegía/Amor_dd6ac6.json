@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu sitio en la mesa se encuentra vacío,\ny el aire en la casa se torna pesado,\nbuscando el fantasma de tu ser amado,\nque me protegia del miedo y del frío.\n\nAhora navego en un negro río,\nsin rumbo, sin vela, y desesperado,\nllorando el tesoro que me fue quitado,\nperdiendo el sentido y perdiendo el brío.\n\nAusencia que duele, cuchillo de hielo,\nque rasga la tierra y oscurece el cielo.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

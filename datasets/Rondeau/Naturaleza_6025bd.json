@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La primavera,\nque nos espera.\nFlores y sol,\ny el caracol,\nen la acera.\n\nVida entera,\ny verdadera.\nSin farol,\nla primavera.\n\nLa pradera,\nse libera.\nDel control,\ndel alcohol,\nde la era,\nla primavera.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

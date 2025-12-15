@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llegó el final del día,\nse acabó la alegría,\ny la luz se apaga,\ncomo una vieja llaga,\nque duele todavía.\n\nLa vida se vacía,\nde lo que contenía,\ny el tiempo estraga,\nllegó el final.\n\nEs una profecía,\nque nadie desvía,\nuna sombra que traga,\ntodo lo que halaga,\nen fría cercanía,\nllegó el final.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "fin"
+  }
+}

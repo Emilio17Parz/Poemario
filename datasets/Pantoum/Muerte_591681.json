@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se cierran los ojos,\npara no abrirse más.\nQuedan despojos,\ndejados atrás.\n\nPara no abrirse más,\nnegro es el color.\nDejados atrás,\ncon mucho dolor.\n\nNegro es el color,\nquedan despojos.\nCon mucho dolor,\nse cierran los ojos.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "oscuridad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sacó su espada brillante,\npara matar al gigante.\nEra de goma,\nvaya broma,\ny murió al instante.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "espada"
+  }
+}

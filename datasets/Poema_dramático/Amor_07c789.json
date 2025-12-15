@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL ENAMORADO]\nTodos me dicen que eres veneno, que eres ruina y perdición.\nPero yo solo veo el sol en tu rostro, y la paz en tu voz.\nSi me equivoco, deja que me equivoque. Prefiero caer contigo\nque salvarme solo en la estúpida luz de la razón.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "ceguera"
+  }
+}

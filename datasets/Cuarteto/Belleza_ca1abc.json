@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La armonía es la clave, el secreto sutil,\nque une el cosmos entero, el bien y el mal,\nla vida es un canto, el don gentil,\nla forma más pura y real.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Armonía"
+  }
+}

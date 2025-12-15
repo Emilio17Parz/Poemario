@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nadie visita la cruz de palo,\nque se pudre entre la maleza,\nya se borró toda la tristeza,\ny el recuerdo del tiempo malo.\n\nEl olvido es el último halo,\nque cubre al muerto en su soledad,\nborrando su identidad,\ncomo un soplo que yo exhalo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

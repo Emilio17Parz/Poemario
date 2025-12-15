@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¡Ay, gacela de mi amor!,\ncúrame este dolor.\n\nCorres por el jardín,\nentre rosa y jazmín,\nsin principio ni fin,\ncon tu bello color.\n\n¡Ay, gacela de mi amor!,\ncúrame este dolor.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "gacela"
+  }
+}

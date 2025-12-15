@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla tu fiera espada\nen la difícil y cruel jornada,\ndefendiendo el honor\nante el vil opresor.\nTu mano cansada,\npero jamás domada,\nlucha con fuerza y con valor.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "espada"
+  }
+}

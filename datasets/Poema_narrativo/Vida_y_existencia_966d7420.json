@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El relojero vivía obsesionado\ncon detener la marcha del reloj.\nCreó un mecanismo complicado,\ncon engranajes de plata y de boj.\nLo puso en marcha un día nublado,\ny el mundo se paró sin enojo.\nNadie envejecía, nadie moría,\npero nada nuevo nacía al tiempo.\nRompió la máquina al mediodía,\npara que fluyera de nuevo el tiempo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

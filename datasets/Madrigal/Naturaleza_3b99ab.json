@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Con su pequeña voz, el pájaro canta,\nsin más motivo que la alegría de ser.\nSu melodía el alma levanta,\ny nos enseña a comprender.\n\nEs la música simple, sin artificio,\nque rompe el duro silencio y el vicio.\nNos da la lección de la inocencia pura,\nque vive sin miedo ni amargura,\nen la rama verde de la mañana.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "pájaro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Estás lejos\nde mi vida\npara siempre\nde mi vida\nestás lejos",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "lejos"
+  }
+}

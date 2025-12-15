@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "A veces ganas tú,\nZozobra o bienestar.\nAcaso el deja vu,\nRompe con el pensar.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "AZAR"
+  }
+}

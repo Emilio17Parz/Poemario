@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cauce de piedras desnudas,\ncicatriz en la tierra abierta,\nla corriente está muerta,\ny las orillas son mudas.\nYa no hay aguas, ni dudas,\nni vegetación despierta,\nsolo la sequía cierta\ny las arenas agudas.\nLamento tu fin, hermano río,\nque dabas vida al sembrado,\ny aliviabas el estío.\nHoy eres polvo olvidado,\nun esqueleto vacío,\npor el hombre condenado.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "río_seco"
+  }
+}

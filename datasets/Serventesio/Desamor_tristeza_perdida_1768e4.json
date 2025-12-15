@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La nostalgia me invade de repente,\nal pensar en los tiempos del ayer,\ntu recuerdo se clava en mi mente,\ny vuelvo dolorido a padecer.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "nostalgia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Abrió los ojos lento, y la vio a su costado,\nCon el rostro dormido, por el sol dorado.\nSintió que la vida volvía a su ser,\nPorque amar no es vivir, sino con ella nacer.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "despertar"
+  }
+}

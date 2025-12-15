@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En el jardín de la reina\nfloreció la rosa roja,\ntan bella y tan perfumada\nque a todas las otras moja.\nPero tiene espinas duras\nque al que la toca enoja,\nmezclando sangre y aroma\nen la tarde paradoja.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

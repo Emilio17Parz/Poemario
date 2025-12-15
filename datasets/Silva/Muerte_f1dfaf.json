@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Rosas rojas,\npara ti,\nque perdí,\nentre hojas.\nLas despojas,\nde vida,\nen la herida,\nque mojas.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "flores"
+  }
+}

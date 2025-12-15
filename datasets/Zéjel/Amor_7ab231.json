@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juro quererte,\nhasta la muerte.\n\nPromesa sincera,\nde forma entera,\nmi vida te espera,\npara tenerte.\nJuro quererte,\nhasta la muerte.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

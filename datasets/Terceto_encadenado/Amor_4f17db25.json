@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si pudiera robarte solo un beso,\nse detendría el tiempo en su carrera,\ny de tu boca quedaría preso.\n\nNo importaría ya la primavera,\nni el brillo de las flores en el prado,\nsi a mi lado tu amor siempre estuviera.\n\nViviendo para siempre enamorado.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "beso"
+  }
+}

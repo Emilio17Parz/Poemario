@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "ARQUITECTO: Esta piedra subirá hasta Dios.\nOBRERO: Estamos cansados, danos el adiós.\nARQUITECTO: ¡No! La catedral debe ser perfecta.\nOBRERO: La gente tiene hambre, no nos respeta.\nARQUITECTO: Crearemos belleza para los siglos.\nOBRERO: A costa de nuestros peligros.\nARQUITECTO: La belleza redime al mundo entero.\nOBRERO: Pero no da de comer al obrero.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "catedral"
+  }
+}

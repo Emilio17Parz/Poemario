@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tememos al fin\nporque amamos el principio.\nPero el fin es parte del trato.\nNo hay día sin noche,\nno hay inhalación sin exhalación,\nno hay vida sin este broche final.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

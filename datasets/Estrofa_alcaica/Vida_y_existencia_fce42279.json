@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corre veloz el implacable tiempo,\nno se detiene por nuestro dolor,\nva dejando atrás los años,\ncon su fugaz y gran valor.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

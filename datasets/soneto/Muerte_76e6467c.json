@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra fría que a la vida da reposo,\nEl velo oscuro que el suspiro ha de cubrir,\nSilencio eterno que la voz hace morir,\nDestino incierto, amargo y misterioso.\n\nEl sueño último, callado y victorioso,\nQue nos arranca sin piedad de este vivir,\nY nos consume hasta la esencia de existir,\nUn viaje al reino que no es luminoso.\n\nMas ¿es el término, el cese, el hondo **fin**?\n¿O un umbral nuevo donde el alma vuela,\nLiberada al fin de su mortal condena?\n\n¿Un eco mudo que el recuerdo sin\nRespuesta deja, o que la fe revela\nUna promesa más allá de la pena?",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "fin"
+  }
+}

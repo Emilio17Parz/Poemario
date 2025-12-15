@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Gana la fama,\nquien la ama.\n\nVictoria llega,\ny se entrega,\ny no niega,\nla llama.\nGana la fama,\nquien la ama.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

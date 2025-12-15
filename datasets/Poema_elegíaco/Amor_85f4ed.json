@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuimos dos pájaros juntos que volaban al sol,\ny un día rompimos el pacto y el farol.\nAhora mi ala está herida, mi vuelo es el dolor,\nla vida es la prisión sin ningún fulgor.\n\nMe arrastro por el suelo, sin poder volar,\nla condena del ser que no sabe amar.\nMi libertad es la sombra que me obliga a ir,\nla triste agonía de un dulce vivir.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "vuelo"
+  }
+}

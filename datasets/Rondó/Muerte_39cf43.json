@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Calla la voz,\npara siempre,\neste diciembre,\ntan atroz.\nGuadaña veloz,\nque siembre.\nCalla la voz.\n\nNo hay eco,\nni respuesta,\nla cuesta,\nse hizo hueco.\nEstoy seco,\nen la fiesta.\nCalla la voz.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "voz"
+  }
+}

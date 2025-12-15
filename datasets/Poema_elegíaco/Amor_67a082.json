@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El tiempo nos robó la juventud y la fe,\nla vida que éramos, la dulce ley.\nNos dejó las arrugas, el triste dolor,\nel recuerdo constante de un viejo amor.\n\nEl ladrón no fue el diablo, fue el reloj sin fin,\nla dulce agonía de un triste motín.\nMi pena es el eco de una voz sin razón,\nla vida sin la paz de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ladrón"
+  }
+}

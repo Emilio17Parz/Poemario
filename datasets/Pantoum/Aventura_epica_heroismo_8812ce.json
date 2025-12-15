@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo camino a casa,\nlleno de peligros,\nel tiempo pasa,\nentre ogros y tigros.\n\nLleno de peligros,\ndioses que juegan,\nentre ogros y tigros,\nque nos niegan.\n\nDioses que juegan,\nlargo camino a casa,\nque nos niegan,\nel tiempo pasa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

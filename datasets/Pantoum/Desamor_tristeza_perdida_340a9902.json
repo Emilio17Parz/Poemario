@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El eco de tu ausencia aún me quiebra,\nUn velo gris mi corazón recubre.\nLa dicha de ayer hoy ya no celebra,\nY el alma en su lamento se descubre.\n\nUn velo gris mi corazón recubre,\nLa sombra de tu adiós en mí persiste.\nY el alma en su lamento se descubre,\nMi mundo sin tu luz se vuelve triste.\n\nLa sombra de tu adiós en mí persiste,\nEl frío del recuerdo me consume lento.\nMi mundo sin tu luz se vuelve triste,\nPerdido en este amargo sentimiento.\n\nEl frío del recuerdo me consume lento,\nLa dicha de ayer hoy ya no celebra.\nPerdido en este amargo sentimiento,\nEl eco de tu ausencia aún me quiebra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

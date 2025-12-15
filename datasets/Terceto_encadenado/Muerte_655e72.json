@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El adiós sin palabras, el golpe sin par (A),\nel alma se escapa, sin volver más (B),\nla vida se extingue sin un final (A).\n\nLa ausencia me come, sin un fulgor (B),\nla pena me inunda con gran dolor (C),\nla forma de no volver a amar (B).\n\nNo hay más consuelo, no hay más valor (C),\nla sombra me sigue, sin un porqué (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

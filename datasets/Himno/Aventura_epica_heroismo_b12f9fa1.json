@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Victoria, victoria, cantad alto!\nEl enemigo ha sido vencido,\nel yugo roto y destruido,\ncon un valiente y bravo asalto.\n\nOndean banderas al viento,\nsuenan clarines de libertad,\nhoy triunfa al fin la voluntad,\ny se termina el sufrimiento.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "triunfo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega la parca con su paso leve,\ncorta el hilo que la vida teje,\nsin que la súplica ni el gran tesoro\nque nos deje.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "parca"
+  }
+}

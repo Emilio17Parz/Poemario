@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mochila de pesares,\nque cargamos subiendo la montaña;\ncon mucha maña,\npor los lugares.\nSoltar el lastre es la única vía,\nde alegría.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "carga"
+  }
+}

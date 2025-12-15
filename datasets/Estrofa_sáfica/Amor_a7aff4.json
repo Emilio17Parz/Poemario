@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sale del pecho un aire enamorado,\nque busca el eco de tu voz querida,\neres la cura de mi vieja herida,\ndulce suspiro.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "suspiro"
+  }
+}

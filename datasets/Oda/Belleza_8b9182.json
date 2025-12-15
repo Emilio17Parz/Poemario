@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mapa de vida,\nojos y boca,\nque toca,\nla herida.\nEspejo del ser,\nque puedo ver.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

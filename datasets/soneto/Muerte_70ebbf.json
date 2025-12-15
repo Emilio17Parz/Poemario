@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ya no hay dolor, ni miedo, ni llanto,\nsolo un silencio profundo y vasto,\nse acabó el ruido y el nefasto\nsufrir que cubría con su manto.\n\nDescansa el cuerpo de tanto quebranto,\ny el alma libre deja el canasto,\nvolando hacia el divino pasto\no hacia la nada, sin desencanto.\n\nLa muerte es sueño sin despertar,\nla calma tras la tempestad,\nel fin del largo navegar.\n\nEn su eterna tranquilidad\nse borra todo el pesar\ny reina la serenidad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "calma"
+  }
+}

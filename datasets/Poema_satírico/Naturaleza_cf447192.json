@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Oh Naturaleza, edén de fantasía,\nDonde el estrés del hombre con gracia se extravía!\nCon rutas ecológicas y bancos de madera,\nSiempre que el GPS nos indique la sendera.\n\nLos bosques ancestrales, ¡qué mística espesura!\nMientras el aire zumba con alguna ventura\nDe motosierras lejos o un dron que te persigue,\nNo sea que al 'influencer' algún bicho lo hostigue.\n\nEl cristalino **río**, que canta en su corriente,\nArrastra latas, bolsas y el desdén indolente.\nSus aguas \"prístinas\" calman la sed más profunda,\n¡Comprando agua mineral, qué hipocresía rotunda!\n\nY así, con la pose exacta y filtro \"vintage\" en mano,\nSe alaba lo \"auténtico\" en un esfuerzo vano.\nDespués, al hotel boutique, con alma \"renovada\",\nPara cenar quinoa bio y fibra diseñada.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "río"
+  }
+}

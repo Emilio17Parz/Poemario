@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tu recuerdo me queda,\ncomo un tesoro,\ny por eso yo siempre,\nte lloro.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

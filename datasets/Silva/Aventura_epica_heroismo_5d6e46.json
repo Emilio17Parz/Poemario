@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sol y duna,\nsin el agua,\nque se fragua,\nen la cuna.\nNi la luna,\nacompaña,\nla hazaña,\noportuna.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Todo lo que hablas,\nes pura falsía,\nno hay alegría,\nen tus retablas.\nRompes las tablas,\nde la confianza,\nsin esperanza,\nen las palabras que entablas.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

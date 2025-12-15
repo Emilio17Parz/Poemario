@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "AMINTA: Viven los hombres con mil cadenas,\nesclavos del qué dirán y la moda.\nCLORIS: Su libertad es una flor poda,\nllena de envidias y de ajenas penas.\nNosotros, pastores, somos los reyes,\nlibres de absurdas y falsas leyes.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

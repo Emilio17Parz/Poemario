@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres el sueño que al fin se realizó (A),\nla verdad que quise alcanzar (A),\nla vida que en ti se ancló (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

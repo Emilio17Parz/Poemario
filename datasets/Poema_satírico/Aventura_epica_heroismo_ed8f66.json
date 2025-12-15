@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Rimas crípticas y oscuras,\nque nadie entiende,\ncausan locuras,\ny el mal se enciende.\nPodrían ser claros,\ny ahorrarnos disparos.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Profecía"
+  }
+}

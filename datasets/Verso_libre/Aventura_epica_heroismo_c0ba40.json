@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La X marca el lugar.\nCavamos hasta sangrar las manos\ny encontramos un cofre vacío.\nEl tesoro era el mapa,\nla sed de búsqueda,\ny los amigos que enterramos en el camino.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

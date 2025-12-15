@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vida es lucha,\ncontra el dolor.\nNadie escucha,\nvida es lucha.\nCon valor,\ny mucha,\nvida es lucha,\ncontra el dolor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

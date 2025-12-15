@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras que pintan mundos,\nbelleza en el lenguaje,\nsentimientos profundos,\nen este viaje.\n\nBelleza en el lenguaje,\nritmo y rima sonora,\nen este viaje,\nque enamora.\n\nRitmo y rima sonora,\npalabras que pintan mundos,\nque enamora,\nsentimientos profundos.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

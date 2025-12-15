@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Unos nadan en oro y riqueza,\notros buscan pan en la basura,\nes la terrible y cruel locura\nque muestra nuestra bajeza.\n\n¿Dónde quedó la gentileza,\nla justicia y la mesura?\nVivimos en la amargura\nde una social pobreza.\n\nPalacios frente a las chabolas,\nbanquetes frente al hambre atroz,\ny las conciencias, solas.\n\nNadie levanta la voz,\nante estas tristes olas,\nque nos golpean veloz.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pan"
+  }
+}

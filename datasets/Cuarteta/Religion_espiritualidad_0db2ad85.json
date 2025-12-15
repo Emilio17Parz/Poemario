@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Elevo mi humilde rezo\nal cielo con devoción,\ny con fe siempre empiezo\nmi pequeña oración.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

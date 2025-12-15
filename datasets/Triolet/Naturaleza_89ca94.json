@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río corre hacia el mar,\nLlevando vida en su seno,\nSin nunca poder parar.\nEl río corre hacia el mar,\nNos invita a soñar,\nCon su sonido sereno.\nEl río corre hacia el mar,\nLlevando vida en su seno.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "caudal"
+  }
+}

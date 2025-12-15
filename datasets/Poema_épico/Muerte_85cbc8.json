@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Estoy en la puerta que divide mundos,\nun pie en la vida, otro en la nada,\nsiento los miedos más profundos,\nante la luz de la gran alborada.\nCruzo el umbral sin mirar atrás,\ndonde la historia no cuenta jamás.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Umbral"
+  }
+}

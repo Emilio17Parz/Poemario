@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La tierra fértil, de verdor sagrado,\nUn himno emerge del murmullo del río,\nDonde el silencio es un don regalado.\n\nEl viento canta en su vaivén tardío,\nLa abeja zumba en la flor abierta ya,\nLa vida exulta, sin cansancio ni hastío.\n\nLa abeja zumba en la flor abierta ya,\nY el **cielo** inmenso, azul, profundo, puro,\nUn lienzo eterno donde el sueño está.\n\nLa calma fluye, promesa de futuro,\nEl sol derrama su dorado fulgor,\nDejando al alma un sentimiento seguro.\n\nEl sol derrama su dorado fulgor,\nY el corazón se llena de su amor.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

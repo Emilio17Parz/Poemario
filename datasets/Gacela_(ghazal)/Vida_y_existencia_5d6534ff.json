@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Juegan los dioses con nuestro azar,\ntirando los dados sin avisar.\n\nA veces nos toca ganar y reír,\notras veces perder y sufrir.\n\nNadie controla el porvenir,\nsolo nos queda vivir y sentir.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "dado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta la duda,\nla verdad es muda.\n\nNo sé qué hacer,\nni qué creer,\npara vencer,\nla vida cruda.\n\nMe asalta la duda,\nla verdad es muda.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "duda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se sientan en los tronos de la altura,\nmoviendo los hilos de las naciones,\nsin importarles las tribulaciones,\nni la gente que vive en la amargura.\n\nEl poder es una droga dura,\nque nubla las buenas intenciones,\ny convierte en viles ambiciones,\nlo que antes fue promesa pura.\n\nJuegan al ajedrez con nuestras vidas,\nsacrificando peones sin duelo,\nabriendo nuevas y viejas heridas.\n\nDesde su torre miran al suelo,\ncon las conciencias ya corrompidas,\nsintiéndose dueños del cielo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "poder"
+  }
+}

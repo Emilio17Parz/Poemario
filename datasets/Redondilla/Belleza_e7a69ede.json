@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte es el reflejo\ndel alma del creador,\nque plasma con amor\nsu sentir en el espejo.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "creación"
+  }
+}

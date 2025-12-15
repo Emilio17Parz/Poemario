@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La soledad es mi única compañera,\nla sombra que nunca me quiere dejar,\nla vida sin ti es una hoguera,\nque no encuentra el camino a sanar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Soledad"
+  }
+}

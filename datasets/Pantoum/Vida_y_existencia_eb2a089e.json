@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo no para,\nsu loca carrera,\nnos muestra la cara,\nde la espera.\n\nSu loca carrera,\nnos lleva al final,\nde la espera,\ny del umbral.\n\nNos lleva al final,\nel tiempo no para,\ny del umbral,\nnos muestra la cara.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La miseria es un golpe, el dolor sin par,\nque el hombre no debe dejar de ver,\nla vida es un llanto, sin poder sanar,\nla fuerza que ayuda a vencer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Miseria"
+  }
+}

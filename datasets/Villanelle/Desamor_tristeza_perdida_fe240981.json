@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llora la lluvia tras el cristal,\ncomo mis ojos lloran por ti,\nsiento en el alma un golpe mortal.\n\nTodo el paisaje se ve fatal,\ndesde el instante en que te perdí,\nllora la lluvia tras el cristal.\n\nNo tiene cura este gran mal,\nla soledad que habita en mí,\nsiento en el alma un golpe mortal.\n\nFuiste mi sueño fundamental,\npero tu amor no fue para mí,\nllora la lluvia tras el cristal.\n\nQueda la herida del puñal,\nque con tu mano yo recibí,\nsiento en el alma un golpe mortal.\n\nEs el final de nuestro ideal,\nya se acabó lo que prometí,\nllora la lluvia tras el cristal,\nsiento en el alma un golpe mortal.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

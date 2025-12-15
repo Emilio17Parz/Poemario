@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor, dulce fuego que se enciende\nen el alma profunda, sin razón.\nUn suspiro que al mundo se le ofrenda.\n\nTu mirada es el sol que me ilumina,\ncada gesto tuyo, bendición.\nMi ser entero a tu merced camina.\n¡Oh, divina, mi eterna devoción!\n\nCuando siento en mi pecho tu abrazo,\nel tiempo se detiene, sin ocaso.\nNuestras almas se funden en la luz,\nsin pena ni dolor, solo la cruz\nde un amor que nos guía sin tropiezo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

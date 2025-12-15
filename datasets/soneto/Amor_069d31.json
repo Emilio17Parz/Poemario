@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Qué largos son los mares que se extienden\nentre tu piel y mi melancolía,\nrobándome la luz del mediodía,\nmientras mis pobres súplicas ascienden.\n\nLas cartas que te escribo no defienden\nla soledad de esta noche fría,\nmas vuela mi tenaz fantasía\na sitios donde nuestras almas tienden.\n\nNo importa cuántas leguas nos separen,\nni muros que levante el cruel destino,\nni fuerzas que a tu paso se preparen.\n\nPues sigo paso a paso tu camino,\nhaciendo que los cielos se aclaren\ncon este amor purpúreo y divino.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

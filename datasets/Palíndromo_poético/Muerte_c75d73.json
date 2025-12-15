@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nada somos\nante la muerte\ntodo cae\nante la muerte\nnada somos",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "nada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La familia es el hogar,\ndonde siempre regresamos,\npara poder descansar.\n\nSaben perdonar,\ncuanto amamos,\nla familia es el hogar.\n\nSin olvidar,\nlo que damos,\npara poder descansar.\n\nEl lugar,\ndonde estamos,\nla familia es el hogar.\n\nAl cenar,\nconversamos,\npara poder descansar.\n\nAl recordar,\nabrazamos,\nla familia es el hogar,\npara poder descansar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "familia"
+  }
+}

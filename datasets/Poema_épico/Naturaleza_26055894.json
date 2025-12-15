@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El Vesubio despierta su fuego,\nsepultando la vida en Pompeya,\nla lava corre y atropella,\nsin escuchar llanto ni ruego.\nLa tierra tiembla en su juego,\ny la ceniza todo lo sella,\nun poder que deja su huella,\ny al hombre deja ciego.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "volcán"
+  }
+}

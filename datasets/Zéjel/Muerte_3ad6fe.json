@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedra fría está,\ndonde él va.\n\nDescansa en paz,\nsin antifaz,\nya no es capaz,\nallá.\nPiedra fría está,\ndonde él va.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

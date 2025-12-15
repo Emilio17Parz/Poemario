@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corre veloz,\nno espera a nadie nunca,\nreloj cruel.\nAprovecha el instante\nantes que se nos vaya.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

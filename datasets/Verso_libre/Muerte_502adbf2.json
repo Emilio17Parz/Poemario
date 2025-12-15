@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es el silencio más hondo, no el fin ruidoso,\nsino la suave despedida de la luz.\nUna puerta se cierra, sin cerrojo ni llave,\ny el espacio que ocupaba una voz\nse llena con el eco de la ausencia.\n\nMiramos la cáscara vacía,\nel mapa de venas y sueños desdibujado,\ny sabemos que la tierra, siempre paciente,\nreclamará su préstamo.\nLa piel se disuelve, el hueso se deshace,\ntodo el entramado complejo de la vida\nse pliega en una humilde rendición.\n\nSeremos un recuerdo en el viento,\nuna sombra fugaz en la memoria de los vivos.\nY finalmente, todo aquello que fuimos:\nel amor feroz, el dolor punzante, la risa fácil,\nse transformará, inevitablemente,\nen el más puro y antiguo **polvo**.\n\nUn retorno, quizá, a la fuente primigenia,\nuna fusión con el vasto aliento del mundo.\nNo es un adiós absoluto, sino una profunda mutación,\nla última lección de humildad,\ndonde todo lo que fue,\nse desvanece y se integra,\nsin dejar más rastro que la eternidad.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

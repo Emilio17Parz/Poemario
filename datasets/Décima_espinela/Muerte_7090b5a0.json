@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La parca cruel, sin tardanza,\nnos roba el aliento frío,\ndejando un hueco baldío,\nsin voz, sin piedad, sin danza.\nEterna muda esperanza,\ncuando la vida se apaga,\nel alma, libre, divaga,\nen pos de un nuevo umbral.\nUn viaje final, sin mal,\ndonde reina el gran silencio.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

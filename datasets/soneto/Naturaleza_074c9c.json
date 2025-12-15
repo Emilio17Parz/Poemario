@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Manto de armiño cubre la pradera,\ntodo es silencio, blanco y pureza,\nse borra del paisaje la aspereza,\ny duerme bajo el hielo la espera.\n\nCae la pluma fría y ligera,\ncon una suave y lenta delicadeza,\ncongelando el instante y la belleza,\nen esta catedral de cristalera.\n\nEl mundo aguanta la respiración,\nbajo la capa de la helada fría,\nesperando la nueva estación.\n\nLa nieve borra la melancolía,\ny trae al alma una sensación,\nde paz, de luz y de fantasía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

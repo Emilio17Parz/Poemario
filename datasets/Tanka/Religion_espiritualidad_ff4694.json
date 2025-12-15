@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El perdón es sol,\ntras la oscura tempestad,\nlimpia toda culpa.\nLibera el alma del peso,\ny da paz al corazón.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Perdón"
+  }
+}

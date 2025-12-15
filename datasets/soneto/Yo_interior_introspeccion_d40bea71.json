@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Rodeado de gente y de ruido,\nme siento en desierto absoluto,\nllevando un invisible luto\npor no ser jamás comprendido.\n\nUn idioma jamás aprendido,\nun árbol que no da su fruto,\nasí me percibo, diminuto,\nen este universo extendido.\n\nLa soledad no es estar solo,\nes no conectar con el ser,\nvivir en el opuesto polo.\n\nEs un muro difícil de ver,\nque aísla y congela el protocolo\nde amar y dejarse querer.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "soledad_interior"
+  }
+}

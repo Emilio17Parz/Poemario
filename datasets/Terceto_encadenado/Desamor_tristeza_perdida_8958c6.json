@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sobre los escombros de lo que fue un templo (A),\nllora mi alma su ciego dolor (B),\nla vida se queda sin un ejemplo (A).\n\nLa ausencia me come, sin un fulgor (B),\nel cuerpo se cansa, sin poder más (C),\nla forma de no hallar el amor (B).\n\nNo hay más consuelo, no hay más paz (C),\nla sombra me cubre, sin piedad (D),\nla ausencia que viene tenaz (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Escombros"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Estuco en la cara,\ncapas de pintura,\nuna obra rara,\nde arquitectura.\nSe lava la piel,\ny no es ella, es él.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Maquillaje"
+  }
+}

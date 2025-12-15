@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Reina del prado de color purpúreo,\nbreve tu tiempo de esplendor y aroma,\nsobre el jardín espúreo\ntu perfección se asoma.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

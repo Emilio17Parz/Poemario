@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Joya del alma que no tiene precio,\nque mira a la muerte con gran desprecio.\n¡Salve, Honor, ley de la conciencia!,\nque exiges pureza y gran coherencia.\n\nMás vale perderlo todo en la lid,\nque vivir manchado, cobarde y vil.\nGuardamos tu llama con celo profundo,\norgullo y blasón ante todo el mundo.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "honor"
+  }
+}

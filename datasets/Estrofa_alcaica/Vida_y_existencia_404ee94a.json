@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca el humano la total verdad,\nquiere salir de la confusión,\nver la luz del conocimiento,\nlejos de toda la ilusión.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

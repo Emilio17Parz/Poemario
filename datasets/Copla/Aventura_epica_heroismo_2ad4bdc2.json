@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por senderos de leyenda,\nun valiente caminante,\nsu destino era la senda\nde un futuro desafiante.\n\nCruzó montes, valles hondos,\ncon su espada y su valor,\ndesafiando mil escombros,\nsin sentir ningún temor.\n\nDonde la cumbre se alzaba,\nguardaba un ser infernal,\nsu aliento fuego escupía,\nera un fiero y cruel **dragón**.\n\nCon coraje y mano firme,\nel guerrero le enfrentó,\nsin que su alma se rinda,\npor su pueblo él luchó.\n\nLa leyenda hoy nos cuenta,\nde su gesta sin igual,\nque su gloria se alimenta,\nde un heroísmo inmortal.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

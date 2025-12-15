@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor no es solo fuego y pasión,\nes voluntad de caminar unidos,\nescuchar del otro la canción,\ny curar los corazones heridos.\nEs un arte que se aprende amando,\nconstruyendo juntos, no demandando.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Definición"
+  }
+}

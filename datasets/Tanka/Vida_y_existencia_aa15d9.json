@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El fruto madura\ntras el largo esfuerzo ya,\nla cosecha llega.\nAsí es la vida del hombre,\ncosecha su siembra fiel.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Fruto"
+  }
+}

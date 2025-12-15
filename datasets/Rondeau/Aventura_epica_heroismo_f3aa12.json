@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cruza el mar ancho,\nsin un gancho,\nla nave,\nque sabe,\ndel rancho.\n\nEl plancho,\ny el sancho,\nque cabe,\nCruza el mar.\n\nLa llave,\ny el ave,\ndel ensancho,\ny el mancho,\nsuave,\nCruza el mar.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "mar"
+  }
+}

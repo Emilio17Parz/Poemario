@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Despierto y te veo durmiendo a mi lado,\ny siento que soy el más afortunado,\nla luz de la aurora dibuja tu piel,\ny pruebo de nuevo tu boca de miel.\nQué dulce es el día si empieza así,\nteniéndote cerca, muy cerca de mí,\nque el sol se detenga y no corra más,\npara que este instante no quede atrás.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

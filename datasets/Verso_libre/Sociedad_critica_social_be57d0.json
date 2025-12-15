@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La balanza está trucada.\nLa venda de la diosa tiene agujeros.\nLa justicia es una red\nque atrapa peces pequeños\ny deja pasar a los tiburones.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

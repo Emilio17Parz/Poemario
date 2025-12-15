@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "OFICIAL: ¡Capitán, nos hundimos! ¡Al bote!\nCAPITÁN: Yo me quedo, aunque el mar azote.\nOFICIAL: ¡Es un suicidio! ¡Venga con nosotros!\nCAPITÁN: El barco y yo somos como potros.\nSi él muere, yo muero en su puente.\nSalvad a la tripulación, sed valiente.\nOFICIAL: ¡Adiós, capitán! ¡Dios le guarde!\nCAPITÁN: El mar me reclama, ya es tarde.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

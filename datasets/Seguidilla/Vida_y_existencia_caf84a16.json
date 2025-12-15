@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pasa volando el tiempo\nsin avisar,\ny no vuelve lo andado\na regresar.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

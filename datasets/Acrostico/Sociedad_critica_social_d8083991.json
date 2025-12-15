@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "M alas son las acciones,\nA varicia y poder,\nL lenan de decepciones.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "mal"
+  }
+}

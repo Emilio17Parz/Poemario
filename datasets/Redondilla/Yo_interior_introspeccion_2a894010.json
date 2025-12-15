@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta la gran duda\nde si voy por buen riel,\no si pruebo la hiel\nde una verdad desnuda.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "duda"
+  }
+}

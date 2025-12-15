@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El último suspiro, un hilo roto,\nla quietud que desciende como un manto pesado.\nYa no hay pulso, solo la ausencia de marea.\nLos ojos, antes ventanas al mundo, ahora espejos opacos.\n\nEl calor se retira, una brasa que se apaga,\ny el cuerpo, vasija que contuvo el alma,\nlentamente cede su forma, su contorno.\nSe vuelve tierra, se diluye en la humedad,\nhasta que el recuerdo de su estructura es solo **polvo**.\n\nUn hueco queda, un eco en el aire frío,\nla silla vacía, la voz que no responde.\n¿Adónde va aquello que animaba la mirada,\nla risa que resonaba, el tacto que calmaba?\n¿Es solo el final de la historia, o el umbral de otra,\nuna puerta invisible a un paisaje sin nombre?\n\nLa muerte, gran igualadora, tejedora de destinos,\nno tiene rostro, solo la certeza de su paso.\nUn ciclo que cierra para que otro pueda quizás abrirse,\nun susurro antiguo que devuelve lo prestado.\nSomos fugaces sombras sobre la hierba,\ndestinados a fundirnos en el vasto, eterno sueño.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

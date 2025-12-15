@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llega la tarde y la vejez,\ncon su paso sosegado,\ny la plata en el cabello.\nSe apaga el juvenil destello,\npero nace la sabiduría,\nfruto de la experiencia.\n\nLa experiencia,\nen la vejez,\nes alegría.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

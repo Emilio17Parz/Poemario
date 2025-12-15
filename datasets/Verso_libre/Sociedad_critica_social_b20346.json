@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Conectados a todo,\ndesconectados de todos.\nMiramos pantallas,\nno ojos.\nTenemos mil amigos invisibles\ny nadie con quien tomar un café.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "tecnología"
+  }
+}

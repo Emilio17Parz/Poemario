@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "¿Quién mora en la penumbra de mi ser?\nUn eco mudo que mi alma persigue,\n¿Qué voz se esconde en este amanecer?\nUn viejo secreto que en mi fondo sigue.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

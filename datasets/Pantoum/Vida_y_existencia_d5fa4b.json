@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se abre la puerta una vez,\nhay que cruzar el umbral.\nDejar atrás la timidez,\nvencer al miedo fatal.\n\nHay que cruzar el umbral,\ntomar el riesgo y saltar.\nVencer al miedo fatal,\npara poder avanzar.\n\nTomar el riesgo y saltar,\ndejar atrás la timidez.\nPara poder avanzar,\nse abre la puerta una vez.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "oportunidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Arena de un desierto sin fin,\nes tiempo sin fruto, sin tin.\nEl sol la calienta con su fervor,\nla vida que busca su valor.\n¡Oh, grano eterno, de forma sutil,\nel alma en ti encuentra su riel!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

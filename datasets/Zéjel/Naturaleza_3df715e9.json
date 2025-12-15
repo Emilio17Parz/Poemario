@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Canta el viento en el bosque,\nsin que nadie se enrosque.\n\nLos árboles se mecen,\nlas flores aparecen,\ny las sombras decrecen,\naunque la luz se embosque.\n\nCanta el viento en el bosque,\nsin que nadie se enrosque.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

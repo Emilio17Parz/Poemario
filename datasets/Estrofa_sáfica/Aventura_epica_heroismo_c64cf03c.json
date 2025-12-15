@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan trompetas y el clamor se eleva,\nchocan escudos y la sangre corre,\nmuro de cuerpos que la muerte apila\nen la torre.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

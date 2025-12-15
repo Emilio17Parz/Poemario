@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi ex se marchó con el viento,\ny yo me quedé sin aliento,\nno por su partida,\nni por la herida,\nsino porque se llevó el asiento.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Ex"
+  }
+}

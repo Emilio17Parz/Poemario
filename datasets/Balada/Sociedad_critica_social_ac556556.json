@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Manos callosas de trabajar,\nde sol a sol sin descansar,\napenas tiene para cenar,\ny a sus hijos alimentar.\nBalada del que ha de luchar,\npara poder respirar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "obrero"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Temo que llegue la noche oscura,\nporque me trae la desventura,\nde soñar contigo y despertar,\ny ver que a mi lado no vas a estar.\nEl insomnio es mi fiel compañero,\nen este lecho que es agujero,\ndonde me hundo en la depresión,\nsin encontrar ninguna solución.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "noche"
+  }
+}

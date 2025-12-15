@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Si vives persiguiendo una sombra,\njamás verás la luz que tienes delante;\ndeja ya ese recuerdo distante,\nque a tu presente daña y alfombra.\nLa sombra solo existe si hay luz,\nno cargues con el ayer como cruz.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

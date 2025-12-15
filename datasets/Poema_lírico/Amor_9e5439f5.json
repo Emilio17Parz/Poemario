@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la luz que mi sendero guía,\nel sol radiante de mi despertar,\nen tus ojos yo quiero naufragar\ny hacer eterna mi melancolía.\nTu brillo apaga la noche fría,\ny me enseña de nuevo a respirar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "luz"
+  }
+}

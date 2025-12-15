@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hay un hueco en el centro del pecho donde antes habitaba un mundo.\nEs un vacío que succiona la luz y la alegría de los días venideros.\nTrato de llenarlo con ruido, con gente, con vanidades pasajeras.\nPero el vacío tiene la forma exacta de tu cuerpo y nada más encaja allí.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

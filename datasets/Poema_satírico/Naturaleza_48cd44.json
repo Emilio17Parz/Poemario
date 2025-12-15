@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nuestro primo lejano,\nque tira caca y grita,\nse parece al humano,\nen su conducta maldita.\nMirarlo es un espejo,\nde nuestro comportamiento viejo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Mono"
+  }
+}

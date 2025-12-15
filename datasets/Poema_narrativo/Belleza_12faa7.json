@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El espejo era un lago, que no quería mentir,\nMostrando la arruga, y el lento morir.\nPero al fondo del rostro, se veía un cristal,\nLa belleza del alma, que es eterna y vital.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

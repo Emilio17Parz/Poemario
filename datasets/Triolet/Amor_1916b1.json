@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi alma te busca constante,\nNo sabe vivir sin tu amor,\nEres mi eterno diamante.\nMi alma te busca constante,\nEn cada paso y instante,\nMe quitas cualquier dolor.\nMi alma te busca constante,\nNo sabe vivir sin tu amor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "constante"
+  }
+}

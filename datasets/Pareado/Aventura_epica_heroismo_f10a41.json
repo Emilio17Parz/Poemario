@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La fortaleza es el ancla, la roca sin un final (A),\nque no se doblega, el bien total (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Fortaleza"
+  }
+}

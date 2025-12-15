@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Con el alma que no doma,\nnuestro heroico viaje asoma.\n\nPor veredas de la hazaña,\ndonde el monstruo se encizaña,\ny la suerte nos acompaña,\nnuestro heroico viaje asoma.\n\nEl dragón de negra escama,\ncon su furia nos proclama,\nmas la espada lo reclama,\nnuestro heroico viaje asoma.\n\nNi el hechizo ni la duda,\nfrenarán nuestra virtud muda,\nla victoria nos saluda,\nnuestro heroico viaje asoma.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

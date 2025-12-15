@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Oh, brillo estelar, joya de la noche!\nQue guías al hombre en la oscuridad,\ncon tu distante y gran claridad,\nsin hacer de tu luz un derroche.\nDiamante eterno del firmamento,\nque nos regalas el pensamiento.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El recuerdo tiene un don,\ny la vida es un colchón.\n\nEl pasado ya me llegó,\nla pena ya se me fue,\nel alma ya me sanó,\ny la vida es un colchón.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

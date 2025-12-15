@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El lobo aúlla fuerte,\nen la oscura noche ya,\nla caza comienza.\nEl guerrero es como él,\nfiel y nunca se rinde.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Lobo"
+  }
+}

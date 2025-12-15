@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "SEPULTURERO: Aquí hay espacio para uno más.\nVIUDA: ¡No cave tan hondo, que me da frío!\nSEPULTURERO: Señora, el cuerpo ya no es brío,\nes solo tierra que vuelve atrás.\nDeje que duerma en su tumba quieta,\ndonde termina toda la meta.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

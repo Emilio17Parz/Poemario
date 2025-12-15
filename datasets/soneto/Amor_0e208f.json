@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te amo en el silencio de la tarde,\ncuando la sombra cubre el horizonte,\ny el último reflejo sobre el monte\nhace que el cielo en llamaradas arde.\n\nNo hace falta que mi voz alarde,\nni que pregone a gritos o te cuente,\npues este amor es río de corriente\nque fluye sin que nada lo retardé.\n\nEn cada gesto mío va impreso,\nen el aire que roza tu cabello,\ny en el suspiro que se vuelve beso.\n\nEs un amor sencillo, puro y bello,\nque no busca rescate ni regreso,\nsino dejar en ti su eterno sello.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

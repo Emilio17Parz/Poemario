@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Breve belleza que pasa,\ncomo el humo en la casa,\nque se desvanece,\ny desaparece,\nsin dejar brasa.\n\nEs la flor que se abrasa,\nel sol que traspasa,\ny luego oscurece,\nbreve belleza.\n\nAunque el tiempo la arrasa,\ny la muerte la tasa,\nsu recuerdo crece,\ny el alma estremece,\ncon su luz escasa,\nbreve belleza.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "efímera"
+  }
+}

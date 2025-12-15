@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El pasado es un fantasma que me visita por las noches, trayendo recuerdos y remordimientos.\nNo puedo cambiar lo que fue, pero puedo cambiar cómo lo veo y cómo me afecta.\nPerdono a mi yo de ayer, perdono a los que me hirieron, suelto la carga.\nEl pasado ya no existe, solo existe este momento presente, donde soy libre.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

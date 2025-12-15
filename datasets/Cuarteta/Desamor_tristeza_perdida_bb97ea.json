@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El mar de mi llanto es incesante,\nno hay playa donde pueda descansar,\nel dolor es un grito constante,\nque me prohíbe volver a amar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

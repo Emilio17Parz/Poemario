@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El cañón disparó, y la casa cayó,\nEl niño corrió al sótano, el miedo lo vio.\nLa guerra es la locura que el hombre inventó,\nEl castigo de sangre que a todos mató.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte llega, silencio profundo,\nBorra la huella de este mundo.\n\nSe lleva el cuerpo, su calor, su aliento,\nMas no el recuerdo, ni el pensamiento.\n\nEn cada alma vive la memoria pura,\nQue vence el olvido con su dulce figura.\n\nAsí la parca, con su velo sombrío,\nNos une a todos en su río frío.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

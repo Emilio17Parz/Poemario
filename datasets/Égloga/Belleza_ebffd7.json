@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¿Quién pintó el verde de la colina?\n¿Quién esculpió la roca gigante?\nNo fue cincel de ningún amante,\nsino la mano sabia y divina.\n\nLa naturaleza nos enseña y destina,\nel arte puro sin vanidad,\nla verdadera y gran beldad,\nque en cada hoja se adivina.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "arte"
+  }
+}

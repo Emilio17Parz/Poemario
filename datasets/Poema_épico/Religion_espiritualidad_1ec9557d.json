@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Noé construyó el arca,\npor mandato divino,\nsalvando del destino,\na la vida en la barca.\nLa lluvia fue la marca,\nde un mundo mezquino,\nque encontró su término,\nbajo el agua que abarca.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "diluvio"
+  }
+}

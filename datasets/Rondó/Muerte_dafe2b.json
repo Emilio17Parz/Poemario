@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El dolor se ha marchado,\nya no sientes nada.\nTu alma alada,\nha volado.\n\nHas dejado,\nla espada.\nEl dolor se ha marchado,\nya no sientes nada.\n\nLiberado,\nde la jornada.\nLuz dorada,\ndel amado.\nEl dolor se ha marchado.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Noche oscura,\nsin amargura,\nllega ya,\ny se va,\nla luz pura.\n\nCon frescura,\nnoche oscura.\n\nEs la cura,\ncon ternura,\nque nos da,\nla verdad,\ny la hermosura.\nNoche oscura.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "noche"
+  }
+}

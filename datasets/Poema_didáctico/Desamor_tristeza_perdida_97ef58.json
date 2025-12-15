@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No vivas en el museo del ayer,\nlimpiando el polvo a la memoria,\nhay un mundo por conocer,\ny una nueva historia.\nGuarda lo bueno en un cajón,\ny cierra esa habitación.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Recuerdos"
+  }
+}

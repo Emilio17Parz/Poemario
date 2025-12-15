@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La mentira reina,\nen el noticiero,\ny nos despeina.\n\nEl mundo entero,\ncree lo que ve,\naunque sea embustero.\n\nY sin fe.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

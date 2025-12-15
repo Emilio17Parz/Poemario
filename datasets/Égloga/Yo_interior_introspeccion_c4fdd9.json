@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cargo piedras en el alma,\nerrores del pasado ayer.\nEl deber\nrompe la calma.\nNadie ensalma\nmi ser.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "piedras"
+  }
+}

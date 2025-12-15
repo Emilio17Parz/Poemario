@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Vastedad de arena y silencio profundo,\ndonde parece acabarse el mundo!\nReino del sol y de la soledad,\ndonde se prueba la voluntad.\n\n¡Honor al desierto, austero y severo,\nque forjas el alma del buen viajero!\nEn tu vacío se encuentra la esencia,\ny se agudiza la humana conciencia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

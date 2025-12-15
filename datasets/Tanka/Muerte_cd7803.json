@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedra fría\ncon nombre y una fecha\ncasa eterna.\nAquí descansa el cuerpo\nque amó y sufrió ayer.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

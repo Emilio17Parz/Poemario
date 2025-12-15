@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu sombra se ha quedado\npegada a la pared.\nUn fantasma helado\nque no tiene sed.\n\nLa evito al pasar,\npero me mira fijo,\nel reproche mudo\ndel amor que se dijo.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

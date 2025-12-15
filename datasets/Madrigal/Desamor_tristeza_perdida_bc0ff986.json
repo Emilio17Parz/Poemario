@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rueda una lágrima\npor la mejilla pálida y cansada,\npor tu ausencia marcada,\nque mi pesar anima.\nTristeza que lastima\nmi vida desolada,\ny que al abismo oscuro se aproxima.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

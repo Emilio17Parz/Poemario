@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cintura de avispa,\nque no existe real,\nla imagen chispa,\npero es fatal.\nMentira digital,\nque nos hace mal.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Photoshop"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Arcoíris en la mirada,\ntonos de vida y matiz.\nLa escena queda pintada,\ncon un final muy feliz.\n\nTonos de vida y matiz,\nrojo, azul y amarillo.\nCon un final muy feliz,\ntodo recobra su brillo.\n\nRojo, azul y amarillo,\nla escena queda pintada.\nTodo recobra su brillo,\narcoíris en la mirada.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "color"
+  }
+}

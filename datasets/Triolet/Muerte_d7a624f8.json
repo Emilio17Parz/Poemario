@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vistamos de luto\npor el que partió,\nen este minuto.\nVistamos de luto,\nes el tributo\nque nos dejó.\nVistamos de luto\npor el que partió.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "luto"
+  }
+}

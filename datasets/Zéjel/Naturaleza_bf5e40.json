@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río tiene una voz,\ny nos une a los dos.\n\nEl agua ya me llegó,\nla vida me salvó,\ny el mundo me perdonó,\ny nos une a los dos.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "río"
+  }
+}

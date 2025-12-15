@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL VIGILANTE]\n(Mirando el mar)\nYa no sé si la luz que veo en el horizonte eres tú, o si es la locura.\nCada ola que rompe me dice que el mar te ha tragado,\ny sin embargo, el muelle sigue siendo mi única iglesia.\nUn año más, amor mío. Solo un año más.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "espera"
+  }
+}

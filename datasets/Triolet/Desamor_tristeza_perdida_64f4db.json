@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Creí en tu falsa verdad,\nY todo fue una mentira,\nMe dejaste en soledad.\nCreí en tu falsa verdad,\nSin tener ni una piedad,\nMi corazón se retira.\nCreí en tu falsa verdad,\nY todo fue una mentira.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

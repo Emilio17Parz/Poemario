@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rey de fuego brillante,\ndando calor al día.\nEterno caminante,\nlleno de energía.\n\nDando calor al día,\ndespierta la flor.\nLleno de energía,\ny de resplandor.\n\nDespierta la flor,\neterno caminante.\nY de resplandor,\nrey de fuego brillante.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sol"
+  }
+}

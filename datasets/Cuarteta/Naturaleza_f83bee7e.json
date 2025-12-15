@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La brisa suave me acaricia el rostro,\nEl pico azul de la montaña miro,\nEl sol dorado pinta cada arbusto,\nY en este edén, sereno, yo respiro.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

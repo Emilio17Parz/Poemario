@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mueren los jóvenes por la ambición,\nde viejos que gobiernan desde lejos,\nsin sentir ni una pizca de aflicción.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "sangre"
+  }
+}

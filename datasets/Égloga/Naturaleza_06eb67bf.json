@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En este valle umbrío, donde el sol se posa,\nlas ramas de los sauces besan el caudal,\nmi flauta melancólica, tierna y piadosa,\nsus notas vierte al aire, puro y virginal.\n\nLas ovejas, mansas, pastan sin rumor,\nbajo el verdor que alfombra el monte y la ladera,\ny el leve susurrar del viento, con candor,\nmeciendo las espigas, mi alma venera.\n\nDesde aquí contemplo el vasto y azul **cielo**,\nmanto inmenso que cubre la pradera,\ndonde el águila surca sin desvelo,\ny el tiempo se detiene, cual dulce quimera.\n\nNo hay falsedad aquí, ni engaño ni afán,\nsolo el murmullo eterno del arroyo claro,\nla voz de los cipreses, que al alma dan\nun bálsamo sereno, un don muy raro.\n\n¡Oh, cuán dichoso soy, sin oro ni poder,\ngozando de esta paz que el mundo ignora!\nMi cetro es el cayado, mi reino el atardecer,\ny mi única riqueza, la aurora.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

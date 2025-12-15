@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El miedo no es silencio,\nes un ruido atroz.\nEl dulce lamento\nsin ninguna voz.\n\nMe obliga a temblar,\na huir sin fin,\nla única forma\nde un triste motín.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

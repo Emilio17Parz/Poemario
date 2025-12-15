@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el final,\nde la jornada.\nSigno fatal,\nllega el final.\nEs natural,\nla mirada.\nLlega el final,\nde la jornada.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "final"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Luchó por su pan, por su esposa y su casa,\nEl guerrero incansable que nunca se atrasa.\nCayó cien veces al suelo, y cien veces se alzó,\nLa vida es la batalla que el alma forzó.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "guerrero"
+  }
+}

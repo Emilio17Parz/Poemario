@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuela el dragón,\ncon el corazón,\nde fuego,\ny el juego,\ndel león.\n\nSin perdón,\nvuela el dragón.\n\nLa maldición,\ndel torreón,\ny el ruego,\ndel ciego,\npeón.\nVuela el dragón.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

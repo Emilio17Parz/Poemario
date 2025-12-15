@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta siempre la duda,\nla realidad es muda,\ny la verdad desnuda.\nMe asalta siempre la duda,\nque me sacuda,\ny no me ayuda.\nMe asalta siempre la duda,\nla realidad es muda.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "duda"
+  }
+}

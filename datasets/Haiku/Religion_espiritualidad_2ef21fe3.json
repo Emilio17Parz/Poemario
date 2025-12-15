@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Muros sagrados,\nhuele a cera y a incienso,\ncaigo de hinojos.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "templo"
+  }
+}

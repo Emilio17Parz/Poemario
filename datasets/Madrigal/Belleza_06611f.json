@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Frontera sensible de nuestro ser,\nmaps de sensaciones y caricias,\ndelicias,\nque solo el tacto puede comprender.\nSuavidad que invita al acercamiento,\naliento,\nde vida que palpita bajo ella,\ntan bella.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tacto"
+  }
+}

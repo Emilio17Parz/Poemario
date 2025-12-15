@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo cambia y muda,\nnada permanece igual,\nes la ley natural,\nque no admite duda.\nLa oruga se desnuda,\npara ser mariposa,\ny así cambia la cosa,\nen nuestra propia piel,\na veces sabe a miel,\ny otras es dolorosa.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

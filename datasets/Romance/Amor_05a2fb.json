@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi Fuerza se fue contigo,\nsin un solo gran valor,\nahora soy solo un mendigo,\nsin un poco de fulgor.\n\nYo te miro y tú te ríes,\nde mi pena y de mi mal,\ny por eso no me iré,\ncon un golpe fatal.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Fuerza"
+  }
+}

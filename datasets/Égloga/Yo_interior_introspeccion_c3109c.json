@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En la soledad del monte,\nme encuentro conmigo mismo.\nLejos del abismo\ny del horizonte.\nNo hay quien afronte\neste mutismo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sangra la herida del desamor,\nno hay bálsamo que la pueda curar,\nsolo me queda el esperar,\nque el tiempo calme este dolor.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "herida"
+  }
+}

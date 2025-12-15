@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hogar prometido,\nde gozo eterno,\nsin invierno,\nflorecido.\nMeta final,\ndel ser mortal.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

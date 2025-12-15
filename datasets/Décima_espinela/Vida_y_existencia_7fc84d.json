@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es luchar a diario,\ncontra el viento y marea,\nuna eterna pelea,\nen este gran escenario.\nNo hay descanso voluntario,\npara el que quiere triunfar,\nhay que saber aguantar,\nlos golpes del destino,\ny seguir el camino,\nsin dejarse derrumbar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

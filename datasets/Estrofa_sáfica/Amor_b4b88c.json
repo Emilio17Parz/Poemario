@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus manos son caricias de la seda,\nrecorren hoy mi piel estremecida,\ndando calor a mi cansada vida,\ntacto de cielo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "manos"
+  }
+}

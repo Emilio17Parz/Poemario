@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cae el agua del cielo,\ncomo si compartiera mi tristeza;\nbaja la cabeza\ncon desconsuelo.\nGrises son las nubes y mi suerte,\nhasta la muerte.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

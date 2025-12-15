@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro el reflejo,\nDe quien soy yo,\nEn el espejo.\nMiro el reflejo,\nDe un hombre viejo,\nQue el tiempo dio.\nMiro el reflejo,\nDe quien soy yo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "reflejo"
+  }
+}

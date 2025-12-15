@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "VOCE: ¿Qué me ofreces a cambio de su vida?\nPOETA: Te doy mi sangre, mi voz y mi calma.\nVOCE: Eso es poco para curar su herida.\nPOETA: ¡Toma entonces la mitad de mi alma!\nQue sin ella, soy un cuerpo vacío,\ny con ella, vences al frío.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "alma"
+  }
+}

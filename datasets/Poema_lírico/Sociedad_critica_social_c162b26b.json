@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele el vacío,\nen el vientre,\nque nadie encuentre,\nel pan mío.\nEs un frío,\nque entre.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

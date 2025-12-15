@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La ola regresa\ny trae consigo la sal,\nde un amor perdido.\nSabor amargo en la boca,\nque la arena no se lleva.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Ola"
+  }
+}

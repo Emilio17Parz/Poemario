@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El joven pidió saber,\nel secreto de vivir,\nel maestro se echó a reír,\ny le dio a beber.\nUna taza de té,\nque rebosó en la mesa,\n'Tu mente está espesa',\ndijo, 'vacíate'.\n'Para aprender primero,\nhay que ser un agujero'.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "lección"
+  }
+}

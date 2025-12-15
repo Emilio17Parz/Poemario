@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Yace Fileno bajo el ciprés,\nya no respira el aire serrano.\nCayó la zampoña de su mano,\ny el rebaño le mira con estrés.\nLa muerte llegó con su palidez\na llevarse a mi querido hermano.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ciprés"
+  }
+}

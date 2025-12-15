@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres mi ancla firme (7a),\nen la tempestad (5b),\nmi corazón ya pide (7c),\nla gran caridad (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Ancla"
+  }
+}

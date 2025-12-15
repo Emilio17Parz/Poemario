@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza dura poco,\ncomo la flor de un día,\nque vuelve al hombre loco.\n\nPero en su breve guía,\ndeja una huella profunda,\nde inmensa alegría.\n\nQue inunda.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna es de plata (7a),\nque vela mi ser (5b),\nmi alma me retrata (7c),\nsin querer (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

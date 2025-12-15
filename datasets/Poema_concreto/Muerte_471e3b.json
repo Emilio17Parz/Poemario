@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "R e c u e r d o\n R e c u e r\n  R e c\n   ...",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

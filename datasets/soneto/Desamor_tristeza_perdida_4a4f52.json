@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Grita el silencio su verdad atroz,\nllenando cada hueco del espacio,\ndestruyendo mi paz muy despacio,\nal no escuchar el timbre de tu voz.\n\nEs un verdugo, un tiempo feroz,\nque convierte mi hogar en un palacio\nde hielo, donde ya no me sacio,\ny cae la guadaña y la hoz.\n\nCallaron las palabras de cariño,\nmurieron las promesas al nacer,\ny lloro como un triste y pobre niño.\n\nNo hay nada que se pueda ya hacer,\nsolo aceptar este cruel destino,\ny ver el sol del amor decrecer.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

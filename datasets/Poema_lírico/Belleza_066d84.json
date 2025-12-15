@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La risa es un sonido\nde cristal y luz.\nEl dulce gemido\nsin ninguna cruz.\n\nMe da la alegría,\nme quita el pesar,\nla dulce guía\npara poder amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "risa"
+  }
+}

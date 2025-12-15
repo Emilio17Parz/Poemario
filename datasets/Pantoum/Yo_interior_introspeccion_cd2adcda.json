@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "El alma indaga en su velo sutil,\nUn eco antiguo busca su verdad,\nLa mente vuela en un anhelo ágil,\nHurgando el ser, la propia identidad.\n\nUn eco antiguo busca su verdad,\nRefleja el tiempo el mudo espejo,\nHurgando el ser, la propia identidad,\nEn sombras claras, lejos de lo viejo.\n\nRefleja el tiempo el mudo espejo,\nLa esencia oculta quiere despertar,\nEn sombras claras, lejos de lo viejo,\nEl yo profundo anhela resonar.\n\nLa esencia oculta quiere despertar,\nHurgando el ser, la propia identidad,\nEl yo profundo anhela resonar,\nEl alma indaga en su velo sutil.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

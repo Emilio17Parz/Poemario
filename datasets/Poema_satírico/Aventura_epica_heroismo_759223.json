@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Salvaste el reino,\npero sigues pobre,\nni un solo reino,\nni una moneda de cobre.\nGracias y adiós,\ndice el rey atroz.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Creditos"
+  }
+}

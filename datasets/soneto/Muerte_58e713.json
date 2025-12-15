@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Sonríe blanca la calavera,\nburlándose de nuestra vanidad,\nmostrando la cruda verdad,\nde lo que a todos, al fin, espera.\n\nFuiste rey, mendigo o cualquiera,\nhoy eres hueso sin identidad,\nsímbolo de la caducidad,\nde la existencia y su carrera.\n\nEn tus cuencas vacías yo veo,\nel reflejo de mi propio fin,\ny se apaga el fuego del deseo.\n\nEres el guardián del jardín,\ndonde termina todo el jaleo,\ny suena el último violín.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "calavera"
+  }
+}

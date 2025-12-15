@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vienen a mi mente imágenes,\nde los días que pasaron,\nrisas, llantos y amores\nque me marcaron.\nSon fantasmas del ayer,\nque se quedaron,\nen los rincones del ser\nque habitaron.\nSoy la suma de momentos,\nque volaron,\ny que en mi memoria triste\nse grabaron.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

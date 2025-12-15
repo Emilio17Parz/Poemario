@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo borrará el nombre de tu losa,\nla vida es un susurro, una dulce rosa.\nEl olvido es la muerte del ser final,\nla sombra constante de un dolor vital.\n\nNo queda la huella, no queda la luz,\nla vida sin la calma, la triste cruz.\nMi memoria es la trampa que me obliga a amar,\nla única forma de no naufragar.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

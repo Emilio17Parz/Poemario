@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La duda era un gigante de hielo,\nque me impedía seguir adelante.\nMe retaba con voz arrogante,\nosureciendo mi propio cielo.\nSaqué la espada de la decisión,\ny le di un golpe al corazón.\nEl gigante cayó y se hizo agua,\ny mi alma salió de su fragua.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "duda"
+  }
+}

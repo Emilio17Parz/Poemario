@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que el fuego te guíe, la llama interior,\nla fuerza que impulsa tu dulce existir,\nno hay más poder, no hay más valor,\nque el deseo de seguir.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Fuego"
+  }
+}

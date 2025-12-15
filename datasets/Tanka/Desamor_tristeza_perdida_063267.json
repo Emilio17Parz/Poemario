@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miro las fotos\nde tiempos más felices\nduele mirar.\nQuisiera regresar\npero el tiempo no vuelve.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "nostalgia"
+  }
+}

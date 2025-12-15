@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Rayos de luz\ncalientan mi piel\ncuando estás cerca\neres el astro rey\nde mi universo.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "sol"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El mal de la envidia,\ncorroe el alma del que la siente,\ny es la perfidia,\nde la gente,\nque no vive su vida plenamente.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "mal"
+  }
+}

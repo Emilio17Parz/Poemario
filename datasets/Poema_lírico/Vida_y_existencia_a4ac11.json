@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El alma es un pájaro\nque no tiene jaula.\nEs el duro sarcófago\nde una fría aula.\n\nBusca la libertad,\nquiere volar ya,\nla única verdad\nque el cuerpo me da.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "alma"
+  }
+}

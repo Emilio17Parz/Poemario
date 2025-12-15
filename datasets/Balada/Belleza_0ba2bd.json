@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sin ella el mundo sería tiniebla,\nuna perpetua y oscura niebla,\npero la luz nos da el color,\ny nos revela todo el esplendor.\nBaña los montes y baña el mar,\ny nos permite poder mirar,\nla maravilla de la creación,\nen su más alta y bella expresión.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "luz"
+  }
+}

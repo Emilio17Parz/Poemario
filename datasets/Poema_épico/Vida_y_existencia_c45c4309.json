@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tejen las Moiras la vida,\nel hilo de nuestro ser,\ndecidiendo el padecer,\ny la hora de la partida.\nNadie encuentra la salida,\ndel laberinto de ayer,\nsolo queda obedecer,\na la suerte decidida.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

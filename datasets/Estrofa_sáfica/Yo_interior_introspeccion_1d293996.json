@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tengo en el alma la oscura duda,\nla realidad se presenta muda,\nverdad amarga, fría y desnuda,\nincertidumbre.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "duda"
+  }
+}

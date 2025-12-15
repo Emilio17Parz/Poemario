@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi corazón te es fiel, no miente jamás,\nes la promesa que quiero cumplir,\nel amor es la calma, la dulce paz,\nque me enseña a vivir.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Fiel"
+  }
+}

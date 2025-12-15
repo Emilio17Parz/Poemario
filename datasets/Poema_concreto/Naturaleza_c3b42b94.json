@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "S O L\n              L U Z\n             V E R D E\n            F L O R\n           A G U A\n          T I E R R A\n         R A Í Z\n        V I D A\n\n       V I E N T O\n      S U S U R R A\n     H O J A S D A N Z A N\n    R A M A S M E C I É N D O S E\n   C I E L O A Z U L Q U E C A N T A\n  P A Z Y V I D A E N S U E S E N C I A\n N A T U R A L E Z A A B R A Z A N D O",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "viento"
+  }
+}

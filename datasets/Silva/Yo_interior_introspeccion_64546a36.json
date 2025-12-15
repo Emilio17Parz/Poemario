@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta en la noche la gran duda,\nsilenciosa y muda.\n¿He vivido correcto?\n¿O imperfecto?\nLa respuesta no llega,\ny me ciega.\nBuscando la razón,\ny el corazón.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "duda"
+  }
+}

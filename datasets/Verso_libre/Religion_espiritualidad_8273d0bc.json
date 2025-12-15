@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Todos los caminos llevan a la cima.\nEl del monje, el del guerrero,\nel del artista, el del amante.\nNo importa el nombre del dios,\nni el color de la túnica.\nImporta el corazón sincero\nque sube la montaña\nbuscando la verdad.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "camino"
+  }
+}

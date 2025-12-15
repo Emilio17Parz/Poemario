@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En medio de la tormenta,\ncuando ruge el vendaval,\ny el miedo se alimenta,\ndel sufrimiento y el mal.\nUna esperanza se sienta,\na mi lado en la cruz,\ny mi espíritu calienta,\ncon su sagrada luz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "luz"
+  }
+}

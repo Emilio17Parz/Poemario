@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Será un amor eterno,\nmás allá de la muerte.\nEs mi mayor suerte,\nun verano en invierno.\n\nUn lazo moderno,\nque me hace fuerte.\nSerá un amor eterno,\nmás allá de la muerte.\n\nCálido y tierno,\nquiero tenerte.\nNo quiero perderte,\nen el caos externo.\nSerá un amor eterno.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

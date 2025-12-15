@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Donde el eco se pierde en el tiempo vano,\ny la espada no brilla en la luz de hoy,\nyace el sueño de un valor sobrehumano,\nde un heroísmo que el mundo ya no soy.\n\nEran hombres forjados de antigua aurora,\ncon la furia del cierzo en cada voz,\nque buscaron la mítica, esquiva gloria,\ndesafiando al destino y a cada dios.\n\nPor la senda de mares y montes bravos,\nsu coraje tejía leyendas sin fin,\nhasta el campo de hierro, entre lodos y clavos,\ndonde ardía la postrera **batalla**, su fin.\n\nAhora el viento sus tumbas callado acuna,\nsin un himno de bronces, sin paz ni canción,\nsolo el lamento que el alma rezuma,\npor la ausencia de su noble corazón.\n\nSus hazañas, cual mitos perdidos y lentos,\nson susurros en viejos nogales dormidos,\ny sus nombres, en mármoles ya sin cimientos,\nguardan glorias de épicos fastos heridos.\n\nY la sombra que envuelve este luto profundo,\nes el peso de un tiempo que no volverá,\nde un valor que ascendió hasta el cielo rotundo,\ny un eco amargo que aún nos desvela.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "La pobreza es el grito silencioso\nque estrangula gargantas sin escucha;\nla ignorancia, un velo,\ny la codicia manda.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

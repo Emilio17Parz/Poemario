@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Malditas las guerras\nque matan la gente,\ny dejan al mundo\ntriste y doliente.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Durmió cien horas buscando una luz,\nEl sueño era el refugio, la suave cruz.\nVio el mundo al revés, sin mal y sin bien,\nEl sueño es la puerta que al alma le es cien.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

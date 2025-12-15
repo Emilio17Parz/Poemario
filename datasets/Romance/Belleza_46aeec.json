@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Danza es un dulce juego,\nde promesa y de candor,\ny mi alma ya sin ruego,\nsin tu dulce fulgor.\n\nYo te busco en el ritmo,\ny no encuentro ya tu ser,\nmi alma ya sin sismo,\nsin un solo gran poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

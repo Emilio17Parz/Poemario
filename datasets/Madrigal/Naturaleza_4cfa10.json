@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Qué fuerza noble la del río en su prisa!,\nque no se detiene ante la roca ni el mal.\nSu curso es el tiempo, su voz la divisa,\nde la vida que corre y que es vital.\n\nEl agua canta un secreto de verdad,\nque lleva la espuma a la inmensidad.\nMe miro en su espejo, y siento que soy\ntan fugaz y potente como el rumbo que hoy\nsigue hacia el abrazo del mar.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "río"
+  }
+}

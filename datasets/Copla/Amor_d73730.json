@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo yo quiero volar (a),\nrompiendo toda prisión (b),\nel alma se quiere alzar (c),\nsin ninguna condición (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

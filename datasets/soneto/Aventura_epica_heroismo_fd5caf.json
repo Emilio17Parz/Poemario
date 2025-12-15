@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Caer con la frente alta,\nhabiendo dado todo,\nsin revolcarse en el lodo,\nni sentir que algo falta.\n\nSi la suerte nos asalta,\ny nos golpea de modo,\nque nos rompe el codo,\nla dignidad nos exalta.\n\nHay grandeza en perder,\nluchando por lo justo,\ny sabiendo defender.\n\nAunque quede el regusto,\namargo de no vencer,\nno hay miedo ni hay susto.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "derrota"
+  }
+}

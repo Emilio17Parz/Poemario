@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La soledad habita en mi morada,\ndesde el día fatal en que te fuiste,\nya no me queda fe ni queda nada,\nsolo un alma cansada y siempre triste.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "MONJE: (En su celda) ¿Y si no hay nada? ¿Si estoy solo?\nCANDELA: Yo ardo y me apago, yo me inmolo.\nMONJE: ¿Es mi vida un desperdicio vano?\nLIBRO: Lee la palabra, hermano humano.\nMONJE: Las letras están muertas si Él no habla.\nCRISTO: (Desde la cruz) Yo soy tu puerto y soy tu tabla.\nMONJE: ¡Señor! ¡Creí que te habías ido!\nCRISTO: Nunca me voy, soy el latido.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "noche"
+  }
+}

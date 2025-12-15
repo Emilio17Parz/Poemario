@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras de oro,\nque tejen sueños,\nsomos los dueños,\nde este tesoro.\nYo las adoro,\ncon mis empeños.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "poema"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Hoja brillante de filo sagrado,\nque en la justicia has sido forjado!\nNo buscas la sangre por puro placer,\nsino defender al que va a caer.\n\n¡Gloria al acero que guarda la ley,\ny sirve con honra a su noble rey!\nSímbolo eterno de fuerza y poder,\nque hace a los viles temblar y ceder.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "espada"
+  }
+}

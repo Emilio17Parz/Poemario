@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Las sombras que habitan mi mente y mi ser,\nson fantasmas viejos que quieren volver,\nlos enfrento con calma, con fe, con querer,\nla fuerza que ayuda a crecer.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Sombras"
+  }
+}

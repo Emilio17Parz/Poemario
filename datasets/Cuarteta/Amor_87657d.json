@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Abrázame muy fuerte,\nno me dejes caer,\neres mi buena suerte,\nmi dicha y mi placer.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "caer"
+  }
+}

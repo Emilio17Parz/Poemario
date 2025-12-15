@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brazo estirado y morritos,\ncien fotos iguales,\nbuscando los gritos,\nde fans virtuales.\nNarciso moderno,\nen su propio infierno.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Selfie"
+  }
+}

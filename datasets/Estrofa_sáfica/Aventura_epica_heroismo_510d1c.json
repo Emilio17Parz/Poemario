@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cofre de oro, joyas y monedas,\noculto en isla de sol y de sal,\npremio del rico y del criminal,\nsueño dorado.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Muchos hombres persiguen la vana gloria,\nqueriendo entrar por siempre en la gran historia de gloria.\n\nPero el laurel se seca y el nombre muere,\nqué efímera resulta la humana gloria.\n\nPrefiero hacer el bien sin que nadie vea,\nque vivir esclavo de la gloria.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

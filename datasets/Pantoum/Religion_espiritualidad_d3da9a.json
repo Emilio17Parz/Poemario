@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Elevo mi voz al cielo,\npalabras de petición.\nBuscando el dulce consuelo,\npara mi pobre aflicción.\n\nPalabras de petición,\nsusurros en la penumbra.\nPara mi pobre aflicción,\nuna luz que me alumbra.\n\nSusurros en la penumbra,\nbuscando el dulce consuelo.\nUna luz que me alumbra,\nelevo mi voz al cielo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "oración"
+  }
+}

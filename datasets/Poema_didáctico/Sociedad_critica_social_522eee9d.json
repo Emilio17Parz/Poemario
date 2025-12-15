@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cuida la tierra que pisas,\nno te la tomes a risas.\nEs la casa de tus nietos,\nrespeta sus decretos.\nSi matas a la natura,\ncavas tu sepultura.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "ecología"
+  }
+}

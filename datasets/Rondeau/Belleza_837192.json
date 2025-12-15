@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mi musa inspira,\ny me mira.\nLos versos,\ndiversos,\nque gira.\n\nElla tira,\ny respira.\nInmersos,\nmi musa inspira.\n\nLa pira,\nque vira.\nUniversos,\ndispersos,\ndel ira,\nmi musa inspira.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "musa"
+  }
+}

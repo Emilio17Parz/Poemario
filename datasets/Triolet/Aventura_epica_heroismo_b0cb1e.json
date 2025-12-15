@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hechizo fuerte,\nLanza el mago,\nContra la muerte.\nHechizo fuerte,\nEs tu suerte,\nEl trago.\nHechizo fuerte,\nLanza el mago.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "hechizo"
+  }
+}

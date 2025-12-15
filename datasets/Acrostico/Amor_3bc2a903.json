@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "A la luz de tu mirada clara,\nLibero mis sueños y mi esencia,\nMientras tu bondad me desampara,\nAmando tu etérea presencia.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "alma"
+  }
+}

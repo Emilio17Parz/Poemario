@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Luna que miras la noche callada,\nplata que alumbra la oscuridad.\nTu faz serena, jamás quebrada,\nes símbolo fiel de la verdad.\n¡Oh, esfera blanca, de dulce fulgor,\nme das la paz y el valor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

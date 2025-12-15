@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Se escapa entre los dedos\nla vida con sus luces y sus miedos.\n¿Qué he hecho con mis días?\n¿Fueron vanas porfías?\nEl tiempo no perdona\ny la vejez mi sien ya corona.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

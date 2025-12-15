@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "[EL VIGILANTE]\n(Ante cien pantallas)\nOs veo. Sé dónde estáis, qué decís, qué pensáis, incluso qué soñáis.\nLa libertad es una ilusión. Vuestra vida es un dato que yo almaceno en un disco duro.\nNo hay esquina donde esconderse. No hay secreto que me sea ajeno.\nSoy el ojo. El sistema no castiga. El sistema previene. Y mi aburrimiento es vuestra condena.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "vigilancia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El sol se muere,\nrojo sangre en el cielo,\nnoche que llega.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "sangre"
+  }
+}

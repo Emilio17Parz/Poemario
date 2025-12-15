@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nEl espejo me muestra tu rostro de bien (E1: bien)\nMi vida se aleja de todo querer (E2: querer)\nTu alma es la esencia de gran verdad (E3: verdad)\nEl gozo que siento no tiene ya pena (E4: pena)\nContigo mi ser ya quiere crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nTodo el querer contigo al fin crecer (E2, E5)\nLa pena me da la gran verdad (E4, E3)\nSin error, mi rostro de bien (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

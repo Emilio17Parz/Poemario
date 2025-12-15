@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Más allá del mapa y de la razón,\ndonde los monstruos marinos habitan,\nlas olas negras al barco agitan\ny ponen a prueba el corazón.\n\nBusca la ignota y nueva región,\ntierras que en sueños al hombre invitan,\ny que en los mapas antiguos no citan,\nguiado solo por su intuición.\n\nUlises moderno que el mar surca,\nlejos de Ítaca y de su hogar,\ncon la mirada en la estrella turca.\n\nNo teme al viento ni al naufragar,\npues sabe que la muerte le busca\npero él nació para navegar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Estar con uno, sin nadie más,\ndiálogo puro y sin caretas,\ndejar el ruido y el compás,\nde las exigencias inquietas.\nNo es abandono, es encuentro,\ncon el habitante del centro.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Soledad"
+  }
+}

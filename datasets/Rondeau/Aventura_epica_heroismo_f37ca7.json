@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuenta la leyenda,\nque se entienda,\nel mito,\nescrito,\ny la venda.\n\nLa prenda,\ny la ofrenda,\ndel rito,\nCuenta la leyenda.\n\nEl grito,\ny el hito,\nque encienda,\ny defienda,\nel infinito,\nCuenta la leyenda.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "mito"
+  }
+}

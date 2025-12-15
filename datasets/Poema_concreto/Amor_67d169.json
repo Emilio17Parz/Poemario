@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "      o\n   o  O  o\n o  O S O  o\n   o  O  o\n      o\n\n   calor",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "sol"
+  }
+}

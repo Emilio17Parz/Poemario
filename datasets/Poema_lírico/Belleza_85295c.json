@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El tacto es la calma,\nla única paz.\nLa vida que el alma\nme da sin disfraz.\n\nMe obliga a mirar,\nme obliga a tocar,\nla única forma\npara poder amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tacto"
+  }
+}

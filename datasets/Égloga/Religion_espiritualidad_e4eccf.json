@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Veo a Dios en la hoja,\ny en el vuelo del halcón,\nen la piedra y el rincón,\ndonde el agua se moja.\n\nNo hace falta que escoja,\nun templo de pared,\nsi calma mi sed,\nla fuente que desaloja.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "dios"
+  }
+}

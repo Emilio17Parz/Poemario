@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Torre de marfil donde uno vive,\nmirando a los otros hacia abajo,\nrecibe elogios, pero no recibe,\nni amor, ni luz, ni trabajo.\nEl yo inflado que nos separa,\ny la convivencia desampara.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Ego"
+  }
+}

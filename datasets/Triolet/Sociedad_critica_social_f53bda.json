@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dinero,\nmanda.\nPrimero,\ndinero.\nLa banda,\ndel cero.\nDinero,\nmanda.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "dinero"
+  }
+}

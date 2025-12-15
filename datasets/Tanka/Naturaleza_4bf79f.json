@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nube en el cielo,\ncon forma de barco blanco,\nviajera sin fin.\nLleva la lluvia a la sed,\npor encima de la tierra.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Nube"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién es el que me mira,\ndesde el cristal plateado?\n¿Es verdad o mentira,\nlo que allí está reflejado?\nEl tiempo gira y gira,\ndejándome perplejo,\ny el alma suspira,\nfrente al frío espejo.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

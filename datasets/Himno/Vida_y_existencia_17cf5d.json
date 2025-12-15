@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hilo de oro o cadena de hierro,\nque guías al hombre desde el destierro.\n¡Honor al Destino, mapa estelar!,\nque trazas la ruta que hemos de andar.\n\nFuerza oculta que mueves la pieza,\ncon mano firme y gran sutileza.\nAceptamos tu mando sin condición,\nbuscando en tu senda nuestra misión.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "destino"
+  }
+}

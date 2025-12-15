@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ordeñar, sembrar, segar,\nla labor de cada día,\nque nos da la alegría,\nde poder el pan ganar.\n\nLa vida es trabajar,\nen comunión con el suelo,\nbajo el azul del cielo,\ny al final descansar.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

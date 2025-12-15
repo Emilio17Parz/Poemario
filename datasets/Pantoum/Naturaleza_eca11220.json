@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Susurran los árboles viejos,\nhistorias de la antigüedad,\nguardando los consejos,\nde la verde soledad.\n\nHistorias de la antigüedad,\nse oyen en el viento,\nde la verde soledad,\ny su lento movimiento.\n\nSe oyen en el viento,\nsusurran los árboles viejos,\ny su lento movimiento,\nguardando los consejos.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

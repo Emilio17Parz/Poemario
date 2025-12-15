@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Queda el hueso desnudo,\npolvo fuimos y seremos,\nun testimonio mudo,\nde lo que no tenemos.\n\nPolvo fuimos y seremos,\nsin piel y sin disfraz,\nde lo que no tenemos,\nbuscando al fin la paz.\n\nSin piel y sin disfraz,\nun testimonio mudo,\nbuscando al fin la paz,\nqueda el hueso desnudo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "hueso"
+  }
+}

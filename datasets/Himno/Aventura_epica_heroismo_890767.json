@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo retorno, pruebas sin fin,\nmonstruos y dioses en el confín.\n¡Salve, Odisea, madre del cuento!,\nque narras la lucha contra el viento.\n\nAstucia y valor para regresar,\nal dulce hogar que se quiere abrazar.\nEres la historia de la persistencia,\nde la humana y frágil resistencia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

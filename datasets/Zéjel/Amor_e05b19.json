@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor sin final,\nes algo vital.\n\nQue dure por siempre,\nde enero a diciembre,\nque el alma la siembre,\nlejos del mal.\nAmor sin final,\nes algo vital.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

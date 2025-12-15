@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza, fulgor que el alma crece,\nInspira el arte, mi secreta musa.\nEs don que el corazón jamás decrece,\nEn su reflejo el tiempo no se excusa.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "musa"
+  }
+}

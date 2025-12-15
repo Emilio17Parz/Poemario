@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ella robó una fruta, por hambre y dolor,\nSabiendo que el castigo sería lo peor.\nEl pecado es la sombra que el alma no olvida,\nLa deuda constante de toda la vida.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "pecado"
+  }
+}

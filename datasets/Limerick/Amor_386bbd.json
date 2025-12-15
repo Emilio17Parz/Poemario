@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus ojos son mi fiel farol,\nque alumbran mi vida bajo el sol.\nSin miedo navego,\nsin duda ni ruego,\ncontigo es mi eterno arrebol.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Faro"
+  }
+}

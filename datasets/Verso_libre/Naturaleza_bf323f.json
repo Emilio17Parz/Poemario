@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río nunca mira atrás.\nSu obsesión es el mar,\ny corre hacia él\nsaltando piedras, cavando valles.\nNos enseña que la vida\nes solo fluir hacia adelante,\nsin aferrarse a la orilla.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "río"
+  }
+}

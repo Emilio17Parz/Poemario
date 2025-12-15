@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Lloro el peso de un triste secreto,\nque pudre mi alma en la soledad,\nnegándome la luz y la verdad,\ny haciendo mi vivir incompleto.\nEs una tumba dentro de mi ser,\nque me impide volver a renacer.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

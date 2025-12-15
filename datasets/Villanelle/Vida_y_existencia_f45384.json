@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo es oro que se nos gasta,\nhay que saberla bien emplear,\nantes de que la cuenta diga basta.\n\nNo se puede detener ni ahorrar,\ncorre veloz hacia la subasta,\nel tiempo es oro que se nos gasta.\n\nLa vida pasa y nos desgasta,\nsin que podamos recuperar,\nantes de que la cuenta diga basta.\n\nEs una fuerza que nos aplasta,\no nos ayuda a mejorar,\nel tiempo es oro que se nos gasta.\n\nDesde la cuna hasta la canasta,\ntenemos mucho por caminar,\nantes de que la cuenta diga basta.\n\nVive el momento con forma casta,\ny no te canses de intentar,\nel tiempo es oro que se nos gasta,\nantes de que la cuenta diga basta.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

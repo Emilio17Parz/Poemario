@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Plata en el pelo,\nsabiduría en la piel,\ndulce como miel,\ntras el desvelo.\nOcaso tranquilo,\nal borde del hilo.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

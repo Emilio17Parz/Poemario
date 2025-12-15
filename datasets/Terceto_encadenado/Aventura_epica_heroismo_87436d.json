@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escalo la roca fría,\npara llegar a la cumbre,\nantes de que acabe el día.\n\nVeo la lejana lumbre,\ndel pueblo que dejé atrás,\ny siento la incertidumbre.\n\nDe no volver más.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajaste del cielo con alas de fuego,\nValquiria que eliges a quién he de amar,\nyo, un guerrero mortal, ciego y lego,\noso a tus labios divinos tocar.\nLlevadme al Valhalla si ese es el precio,\npues vivir sin ti es mi único desprecio.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Valquiria"
+  }
+}

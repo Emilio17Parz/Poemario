@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La balanza se inclina por el peso,\ndel oro que corrompe la verdad,\ny deja al inocente siempre preso.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "ciega"
+  }
+}

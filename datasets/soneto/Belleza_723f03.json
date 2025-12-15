@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Termino este canto a la belleza,\ncon la pluma ya cansada,\npero el alma alada,\ny con firmeza.\n\nLa grandeza,\namada,\ny dada,\nempieza.\n\nQue la vida sea bella,\nhasta el último día,\ny su estrella.\n\nNos guía,\ncon ella,\ny porfía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pluma"
+  }
+}

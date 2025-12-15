@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La duda es sombra que persigue,\nno deja ver con claridad.\nEl alma inquieta no consigue,\nhallar la paz y la verdad.\n\nNo deja ver con claridad,\npregunta siempre el porqué.\nHallar la paz y la verdad,\ncuando vacila la fe.\n\nPregunta siempre el porqué,\nel alma inquieta no consigue.\nCuando vacila la fe,\nla duda es sombra que persigue.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "duda"
+  }
+}

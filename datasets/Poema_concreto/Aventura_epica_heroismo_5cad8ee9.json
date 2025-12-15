@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "G L O R I A\n                      V I C T O R I A\n                    D E S T I N O   F O R J A D O\n                  L E Y E N D A   E T E R N A\n                C I M A   D E L   M U N D O\n              D R A G Ó N   D E S A F I A N T E\n             F U E G O   Y   H I E L O\n            A C E R O   D E L   H É R O E\n           V A L O R   I N Q U E B R A N T A B L E\n          C O R A J E   P U R O\n         H A Z A Ñ A   E P I C A\n        A V E N T U R A   S I N   F I N\n       É P I C A   O D I S E A\n      H E R O Í S M O   L E G E N D A R I O",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

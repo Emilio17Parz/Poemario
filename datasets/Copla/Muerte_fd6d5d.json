@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un velo de niebla fiel (a),\ncubre mi rostro sin luz (b),\nla vida es un trago de hiel (c),\nel peso de mi cruz (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Velo"
+  }
+}

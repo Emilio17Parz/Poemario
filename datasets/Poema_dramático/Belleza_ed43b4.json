@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[EL ARQUEÓLOGO]\n(Ante un templo roto)\nEsta ruina es más hermosa que cualquier edificio nuevo. Aquí hay verdad.\nLa belleza no está en la perfección, sino en la nobleza de la caída.\nCada piedra rota cuenta la historia de un hombre, de un dios, de un tiempo.\nLa ruina es el epitafio sublime que nos recuerda que todo lo bello es mortal.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "ruina"
+  }
+}

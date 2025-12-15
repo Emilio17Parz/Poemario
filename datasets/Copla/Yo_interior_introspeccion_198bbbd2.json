@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Contemplo mi alma, su verdad,\nun rincón de luz y sombra;\nallí habita la identidad,\nque sin ella el ser zozobra.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

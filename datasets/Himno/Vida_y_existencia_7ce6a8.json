@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Sombra que obligas a buscar la luz,\ny pones al alma en su propia cruz!\nNo eres enemiga, sino aguijón,\nque despierta a la dormida razón.\n\n¡Salve, oh duda, madre de la ciencia,\nque pruebas del hombre la inteligencia!\nQuien nunca duda, jamás avanza,\nni alcanza la cumbre de la esperanza.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "duda"
+  }
+}

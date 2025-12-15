@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un espectro, con hoz y gabán,\nDijo al vivo: \"Tu tiempo se van.\"\n\"Llegó ya tu fin,\"\n\"¡Qué pena, oh ruin!\"\nY la vida escapó de su afán.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "fin"
+  }
+}

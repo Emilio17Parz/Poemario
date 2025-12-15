@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Me miro y veo una arruga,\nque avanza como tortuga.\nEl pelo se cae,\ny nada me atrae,\nni siquiera la lechuga.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuego corre en la piel,\ncuando estamos unidos,\nperdiendo los sentidos,\nbebiendo de tu hiel.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

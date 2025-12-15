@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge la guerra,\nen el llano,\ntiembla la tierra,\ny el hermano.\n\nEn el llano,\ncaen soldados,\ny el hermano,\ndesolados.\n\nCaen soldados,\nruge la guerra,\ndesolados,\ntiembla la tierra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

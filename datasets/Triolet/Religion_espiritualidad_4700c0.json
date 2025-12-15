@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La luz del alma,\nBrilla interior,\nEn la calma.\nLa luz del alma,\nQue nos ensalma,\nCon amor.\nLa luz del alma,\nBrilla interior.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "luz"
+  }
+}

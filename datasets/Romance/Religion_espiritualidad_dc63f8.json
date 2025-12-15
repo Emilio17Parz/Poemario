@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Libro de libros sagrado\nque cuenta la antigua historia,\nde profetas y de reyes\ny de divina gloria.\nSus palabras son fanales\nque alumbran la memoria,\ny nos guían al destino\nde la celestial victoria.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "biblia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un breve sueño,\nque se escapa de las manos,\nentre los seres humanos,\ncon su afán y su empeño.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

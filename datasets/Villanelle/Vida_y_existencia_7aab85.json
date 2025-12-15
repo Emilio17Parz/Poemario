@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mientras hay vida hay esperanza,\nes la luz que nunca muere,\ny nos da confianza.\n\nEn la justa balanza,\nlo bueno se prefiere,\nmientras hay vida hay esperanza.\n\nEs la dulce alianza,\nque el alma requiere,\ny nos da confianza.\n\nCon su templanza,\nel dolor no hiere,\nmientras hay vida hay esperanza.\n\nLlega la bonanza,\nque se sugiere,\ny nos da confianza.\n\nEn la andanza,\nque nos confiere,\nmientras hay vida hay esperanza,\ny nos da confianza.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Me adentré en el bosque espeso,\ndonde no entra la luz,\ny hice la cruz,\nante el tronco obseso.\nSentí el gran peso,\nde sombras y trasluz,\ny el miedo andaluz,\nme dejó preso.\nPero seguí adelante,\ncomo un gigante,\ny salí triunfante.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

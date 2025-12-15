@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dama que inspira,\nsusurra al oído,\nel sentido,\nde la lira.\nBaja y me toca,\ny me provoca.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "musa"
+  }
+}

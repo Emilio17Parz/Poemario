@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volvemos al polvo,\nceniza seremos,\ny yo me disuelvo.\nVolvemos al polvo,\nal origen vuelvo,\ny desapareceremos.\nVolvemos al polvo,\nceniza seremos.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

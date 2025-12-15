@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu cuerpo es mi dulce y fiel abrigo (A),\ncontra el frío cruel de la soledad (A),\nno hay más consuelo, yo te lo digo (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Abrigo"
+  }
+}

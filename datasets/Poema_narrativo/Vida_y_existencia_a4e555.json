@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nació el niño desnudo, sin mapa ni guía,\nDio el primer paso al sol, y empezó el largo día.\nEncontró un cruce a solas, con miedo y sin fe,\nY supo que la vida es el camino, no el 'qué'.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "camino"
+  }
+}

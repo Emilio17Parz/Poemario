@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Desde el inicio, en cada aliento,\nSe labra un surco que no tiene vuelta,\nUn pacto antiguo, cruel lamento,\nQue solo el tiempo a su pesar desvela.\n\nEl corazón, que un día fue bravío,\nCon su latido marcando el compás,\nVerá su ritmo tornarse tardío,\nY su marea no volverá jamás.\n\nEntonces llega, sin previo aviso,\nLa mano fría que apaga el fulgor,\nY en el umbral de aquel abismo,\nSolo el profundo y denso **silencio** impera sin rubor.\n\nLa silla vacía, el libro cerrado,\nEl eco ausente de una voz familiar,\nEl tiempo implacable, ya señalado,\nUn hueco frío difícil de llenar.\n\n¿A dónde vamos cuando el soplo cesa?\n¿Qué mar ignoto espera más allá?\nLa Muerte calla, su verdad no expresa,\nSolo su manto nos abrazará.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

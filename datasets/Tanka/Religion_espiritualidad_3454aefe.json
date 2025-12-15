@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Rompe la ley,\nlo imposible sucede\nante mis ojos.\nSeñal de que hay algo\nmás grande que el saber.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "milagro"
+  }
+}

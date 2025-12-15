@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta siempre la oscura duda,\nsobre el sentido de mi existir,\nla realidad se presenta muda.\n\nLa verdad es cruel y desnuda,\ny me cuesta mucho decidir,\nme asalta siempre la oscura duda.\n\nBusco una fe que me sacuda,\ny me enseñe cómo vivir,\nla realidad se presenta muda.\n\nNo hay nadie que me acuda,\npara el miedo combatir,\nme asalta siempre la oscura duda.\n\nEs una niebla que no ayuda,\na ver el porvenir,\nla realidad se presenta muda.\n\nEspero que la luz acuda,\ny la sombra se pueda ir,\nme asalta siempre la oscura duda,\nla realidad se presenta muda.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "duda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las Hojas caen sin vida,\npor el viento sin piedad,\ny mi alma está podrida,\nsin tu dulce claridad.\n\nSe marchitan y me castigan,\ncon su dulce falsedad,\ny mi alma ya se fatigan,\nsin tu dulce claridad.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Hojas"
+  }
+}

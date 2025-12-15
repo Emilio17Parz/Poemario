@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Florecen los jardines a tu paso,\nla tierra se despierta de su sueño,\ny todo se somete a tu diseño\nsin miedo al horizonte ni al ocaso.\n\nYo sigo tu perfume, voy al caso,\nde hacerme de tu amor el único dueño,\np poniendo en la conquista todo empeño,\nllenando de tu luz mi propio vaso.\n\nEres la primavera en mi existencia,\nel brote que renace tras el hielo,\nla pura y absoluta transparencia.\n\nMe llevas a tocar el mismo cielo,\nborrando del invierno la inclemencia\ncon el calor sutil de tu consuelo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

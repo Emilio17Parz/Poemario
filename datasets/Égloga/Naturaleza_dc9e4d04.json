@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bajo el dosel frondoso, donde el sol\napenas besa el musgo sosegado,\nel manso arroyo canta su crisol\nde voces, en el campo solitario.\n\nAquí la brisa trae dulce rumor\nde pinos viejos y de liras mudas,\ny el aire vibra con silente ardor\nentre las hojas de las zarzamudas.\n\nMira el sendero, tapiz de esmeralda,\ndonde la abeja busca su faena,\ny cada **flor** que el viento no desvalda,\nalza su cáliz, pura y tan serena.\n\nEl mirlo silba su canción sencilla,\nla tórtola lamenta en el ramaje;\ntodo convida a la feliz vigilia,\nal gozo humilde del agreste paraje.\n\nLejos del vano brillo, de la intriga,\ndel grito airado y el afán sin tregua,\nel alma encuentra aquí su fiel amiga:\nla Naturaleza, que jamás se ruega.\n\nElla nos viste con su verde manto,\nnos da el rocío puro, el fruto honesto,\ny alivia el pecho de cualquier quebranto\ncon su perpetua paz, su amor modesto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flor"
+  }
+}

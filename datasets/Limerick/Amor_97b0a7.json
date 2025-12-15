@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Conoció a un amor en la red,\nque calmaba su gran sed.\nAl verla en persona,\nera una mona,\ny él chocó contra la pared.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "online"
+  }
+}

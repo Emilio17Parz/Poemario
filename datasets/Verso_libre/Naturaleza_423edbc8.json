@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río no pregunta,\nsolo avanza.\nIgnora las piedras,\nlas rodea, las pule,\nlas hace parte de su canto.\nSu meta es perderse,\ndejar de ser río\npara ser inmensidad salada.\nUna lección de fluidez\nque la piedra envidia.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la rosa más preciosa,\nde mi jardín la mariposa,\nque vuela libre y elegante,\ncon su belleza deslumbrante,\ny su fragancia deliciosa.\n\nNo hay otra flor tan orgullosa,\nni tan perfecta y primorosa,\neres mi estrella y mi diamante,\nEres la rosa.\n\nSobre la tierra generosa,\nnuestra raíz es poderosa,\nun amor firme y constante,\nque sigue siempre adelante,\nde una manera asombrosa,\nEres la rosa.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

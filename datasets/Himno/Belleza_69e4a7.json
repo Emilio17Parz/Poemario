@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Voz que se eleva en nota perfecta,\ny con el alma del mundo conecta!\nCanto de ave, canto de humano,\nhimno sagrado del fiel hermano.\n\n¡Honor a la voz que rompe el silencio,\ny que al dolor le pone su precio!\nCantar es rezar dos veces a Dios,\nuniendo en un coro a todos los dos.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "canto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "L uz en tu caminar,\nI magen de primor,\nN ada puede igualar,\nD ulzura y esplendor,\nA mada singular.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "linda"
+  }
+}

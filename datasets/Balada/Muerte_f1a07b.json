@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la losa duerme el viajero,\nya sin maleta y sin caminar,\nha terminado su derrotero,\ny ha conseguido al fin descansar.\nNadie molesta su sueño eterno,\nni el sol ni el frío ni el vendaval,\npasó el verano y pasó el invierno,\ny ahora es polvo en el matorral.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

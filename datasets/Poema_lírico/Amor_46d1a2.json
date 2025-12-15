@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te busqué en la noche,\nte busqué en el mar,\nsin saber tu rostro,\nsin saber dónde estar.\n\nY te hallé en el silencio\nde mi propio corazón,\neras la respuesta\ny también la razón.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "búsqueda"
+  }
+}

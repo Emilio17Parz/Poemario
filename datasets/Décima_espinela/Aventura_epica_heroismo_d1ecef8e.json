@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un sendero de leyenda,\nmi valor fue la bandera,\nde una estirpe justiciera\nque en su causa se encomienda.\nCon la espada enardecida,\ny la fuerza que me anida,\na la cumbre me abalanzo,\ncon un grito que relanzo,\npor la patria redimida,\ndando al mal la despedida.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Fallar es parte de crecer,\ncaerse para levantar,\ny así volver a nacer.\n\nVolver a empezar y andar,\ncon la lección aprendida,\nsin miedo a tropezar.\n\nEn la vida.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "error"
+  }
+}

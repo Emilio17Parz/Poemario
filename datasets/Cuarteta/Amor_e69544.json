@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te tengo un gran cariño,\nque no puedo explicar,\ndesde que era un niño,\nte empecé a amar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "niño"
+  }
+}

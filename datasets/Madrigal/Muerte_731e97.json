@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Las rosas rojas sobre el fresco túmulo,\nson la ofrenda que trae el amor.\nUn intento vano, un mudo acúmulo,\npara mitigar el dolor.\n\nPero el aroma sube y no se pierde,\nal igual que la memoria no se muerde\npor la tierra que te dio su reposo.\nLa flor es vida y es el gozo,\nque vence a la muerte y su silencio.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "flores"
+  }
+}

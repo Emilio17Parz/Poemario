@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llegó el postrer momento,\nel fin de la jornada fatigosa;\nla mariposa\ndel pensamiento\npliega las alas y se queda quieta;\nesta es la meta\nde todo caminante,\nvolver al polvo de donde vino antes.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "final"
+  }
+}

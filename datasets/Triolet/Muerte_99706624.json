@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reina la calma\nen el cementerio,\ndescansa el alma.\nReina la calma,\nbajo la palma,\ncon gran misterio.\nReina la calma\nen el cementerio.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "calma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En el cuadro pintado,\nse detiene el tiempo y la emoción,\ntodo guardado,\ncon precisión,\nen esa bella y quieta creación.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "cuadro"
+  }
+}

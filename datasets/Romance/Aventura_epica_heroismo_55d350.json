@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ulises vuelve a su hogar\ntras diez años de pelear,\nenfrentando a poseidón\ny a sirenas en el mar.\nSu esposa teje y desteje\npara poder esperar,\nal rey de la astucia grande\nque al fin pudo regresar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

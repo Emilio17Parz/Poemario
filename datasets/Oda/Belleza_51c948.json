@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Voz melodiosa, de nota sin par,\nque el alma la calma, sin un gran mal.\nTu canto es dulce, sin poder anclar,\nel arte que vence lo real.\n¡Oh, sonido noble, de dulce fulgor,\nme das la fe y el amor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Voz"
+  }
+}

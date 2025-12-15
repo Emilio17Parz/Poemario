@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuela el dragón,\ncon fuego ardiente,\nsin compasión,\npor la gente.\n\nCon fuego ardiente,\nquema la aldea,\npor la gente,\nque pelea.\n\nQuema la aldea,\nvuela el dragón,\nque pelea,\nsin compasión.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

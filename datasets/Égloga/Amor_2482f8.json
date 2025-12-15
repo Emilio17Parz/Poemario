@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si llueve afuera, entremos a la cueva,\ndonde el musgo es alfombra y abrigo.\nYo quiero estar siempre, amor, contigo,\nmientras la tormenta el campo eleva.\nQue el tiempo su curso lento mueva,\nsiendo tú mi paz y mi testigo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cueva"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El negro de mi traje es poco color,\npara el luto que llevo en el pecho.\nHa muerto la risa, ha muerto el amor,\ntras tu partida que me ha deshecho.\n\nLa tristeza no es breve ni ligera,\nes una sombra que siempre espera.\nPero el recuerdo es la viva llama,\nque en la noche mi corazón reclama,\npara que el alma no sienta tu ausencia.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "luto"
+  }
+}

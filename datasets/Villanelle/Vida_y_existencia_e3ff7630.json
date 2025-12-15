@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco encontrar la pura verdad,\nlejos de sombras y de mentira,\npara vivir con la claridad.\n\nSalir de la oscuridad,\ndonde la duda siempre gira,\nbusco encontrar la pura verdad.\n\nVer con total sinceridad,\nlo que el alma siempre admira,\npara vivir con la claridad.\n\nSin máscaras ni vanidad,\nque la conciencia retira,\nbusco encontrar la pura verdad.\n\nEs la suprema necesidad,\npor la que mi ser suspira,\npara vivir con la claridad.\n\nAunque me duela la realidad,\ny el corazón se me partiera,\nbusco encontrar la pura verdad,\npara vivir con la claridad.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pasó de ser tallo a ser árbol frondoso,\nEl tiempo era el agua, el camino espinoso.\nGanó una arruga extra, y una cana más,\nLa vida es el arte de volver atrás.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "crecimiento"
+  }
+}

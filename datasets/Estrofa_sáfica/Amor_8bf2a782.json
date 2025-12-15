@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Deja en mis labios el ardiente beso,\nfruto prohibido del que vivo preso,\nsiempre a tu boca con amor regreso,\nfuente de vida.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "beso"
+  }
+}

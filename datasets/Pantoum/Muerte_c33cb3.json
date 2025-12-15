@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acabó el tiempo concedido,\nel reloj paró su andanza.\nTodo lo que hemos vivido,\npierde su peso y balanza.\n\nEl reloj paró su andanza,\nquieto el corazón inerte.\nPierde su peso y balanza,\nante la cara de la muerte.\n\nQuieto el corazón inerte,\ntodo lo que hemos vivido.\nAnte la cara de la muerte,\nse acabó el tiempo concedido.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

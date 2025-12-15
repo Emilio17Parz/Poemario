@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivo en un laberinto,\nguiado por el instinto.\n\nDoy vueltas sin fin,\nen este jardín,\nsin hallar el confín,\nde un mundo distinto.\n\nVivo en un laberinto,\nguiado por el instinto.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

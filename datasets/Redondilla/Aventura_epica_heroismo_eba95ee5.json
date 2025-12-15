@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Emprende el largo viaje\nbuscando la aventura,\ncon la esperanza pura\ny muy poco equipaje.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

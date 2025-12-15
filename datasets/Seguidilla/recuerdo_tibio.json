@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "recuerdo tibio",
   "poema": {
     "texto": "Vuelve tu risa\\ndesde el pasado\\nquema despacio\\nen mi memoria",

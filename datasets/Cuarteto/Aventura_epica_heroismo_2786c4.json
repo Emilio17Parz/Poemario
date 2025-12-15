@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El honor es la luz que guía la acción,\nla senda del justo, la noble verdad,\nsin mancha, sin sombra, sin decepción,\nla clave de la libertad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Honor"
+  }
+}

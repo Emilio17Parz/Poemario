@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida es un soplo al viento,\nun misterio que al andar\nnos enseña sin parar,\nes el alma y su lamento.\n\nPor este incierto camino,\nvamos buscando la luz,\ncargando a veces la cruz,\nde un incierto cruel destino.\n\nCada instante es un aliento,\nun espejo que al mirar\nnos permite descifrar\nnuestro propio pensamiento.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "camino"
+  }
+}

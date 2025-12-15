@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si mi amor te llama,\nno hay más razón;\nen este corazón\nque la pasión.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

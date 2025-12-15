@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro el verdor inmenso, el cielo azul\nque se dilata en calma,\ny el murmullo del viento, tenue tul\nque roza mi alma.\nLa luz de la mañana, un don fugaz,\ndespierta los sentidos,\ninvita a un dulce solaz,\na sueños redimidos.\n\nEn la montaña altiva, el eco viejo\nde eternidades calla;\nun río, plata viva, es un espejo\ndonde la vida halla\nsu rumbo sin cesar, su movimiento,\nperenne melodía;\nentre el musgo y la roca, el sentimiento\nque el alma confía.\n\nEntre la hierba fresca, la pequeña\n**flor** abre su corola,\nofrenda delicada que enseña\nbelleza sin desdola.\nEl bosque umbrío guarda su secreto,\nperfume de la tierra,\ndonde el tiempo se vuelve más discreto,\ny el alma se destierra.\n\nEl trino de las aves, un arpegio\nque el aire manso eleva,\nsin prisa alguna, sin ningún colegio,\nsólo la savia nueva.\nTodo respira paz, inmensa calma,\nque el corazón acuna,\nun bálsamo que envuelve, que desarma,\nbajo la misma luna.\n\nOh, naturaleza, madre generosa,\neterna y siempre viva,\ntu fuerza misteriosa, portentosa,\nal ser humano cautiva.\nEn ti hallo el consuelo, el reposo,\nla verdad más profunda,\nel eco de un amor maravilloso,\nque al ser me inunda.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "flor"
+  }
+}

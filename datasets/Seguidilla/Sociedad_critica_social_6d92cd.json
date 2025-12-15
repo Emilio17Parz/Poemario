@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Guerra maldita,\nque matas,\ny desbaratas,\nvidas.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "maldita"
+  }
+}

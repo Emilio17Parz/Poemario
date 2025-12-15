@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hombre de armas, vida de lucha,\nque la llamada del deber escucha.\n¡Salve, Guerrero, guardián de la paz!,\nque en el combate eres tenaz.\n\nNo buscas la sangre, sino el honor,\ny proteger al pueblo del dolor.\nTe rindo respeto, soldado fiel,\nque bebes a veces la copa de hiel.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "guerrero"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia serena,\nllanto dulce de la nube,\nque a la tierra baja y sube,\nllevándose toda pena.\nEl campo bebe y se llena,\ndel agua que yo mantuve.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

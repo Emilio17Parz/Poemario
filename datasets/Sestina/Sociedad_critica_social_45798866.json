@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Tememos al futuro,\nque estamos sembrando,\ncon tanta polución.\nSerá la extinción,\nsi no despertamos,\nde este sueño atroz.\n\nSueño atroz,\ndel futuro,\nque creamos.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

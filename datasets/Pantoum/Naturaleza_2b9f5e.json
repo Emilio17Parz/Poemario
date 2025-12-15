@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Duerme el fuego bajo piedra,\nesperando su momento,\ncomo trepadora hiedra,\ncrece su oscuro aliento.\n\nEsperando su momento,\ntiembla el suelo con miedo,\ncrece su oscuro aliento,\nseñalando con el dedo.\n\nTiembla el suelo con miedo,\ncomo trepadora hiedra,\nseñalando con el dedo,\nduerme el fuego bajo piedra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

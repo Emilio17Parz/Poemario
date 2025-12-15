@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mano amiga,\nque sostiene,\ny que viene,\ncon la espiga.\nNo fatiga,\nsu presencia,\nes la esencia,\nque nos liga.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "amistad"
+  }
+}

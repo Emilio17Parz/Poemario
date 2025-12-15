@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fantasma cruel\nque aparece de noche\nno me deja ir.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

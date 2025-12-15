@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "He roto las cartas que escribiste ayer,\npedazos de mentira que no quiero leer.\n\nLa tinta se ha borrado al anochecer,\ny con ella la dicha de nuestro querer.\n\nQue el viento se lleve este papel,\ny que nunca regrese tu sabor a miel.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "papel"
+  }
+}

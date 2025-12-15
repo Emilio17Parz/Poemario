@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Roce sutil de los dedos,\nque despierta la emoción,\ny borra la confusión,\nquitando todos los miedos.\nLenguaje sin palabras,\nque hace que te abras.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "caricia"
+  }
+}

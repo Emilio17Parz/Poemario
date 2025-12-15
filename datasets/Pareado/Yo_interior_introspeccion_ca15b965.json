@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta siempre la oscura duda,\ny la respuesta se queda muda.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "duda"
+  }
+}

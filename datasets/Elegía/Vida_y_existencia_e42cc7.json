@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cadenas invisibles me atan,\na la rutina y al deber,\nsin dejarme ser,\nni ver las luces que me tratan.\n\nMis ansias se desbaratan,\nal no poder,\nel vuelo emprender,\ny me matan.\n\nLibertad que soñé un día,\ny hoy es solo utopía.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

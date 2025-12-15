@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Crecen hojas verdes en la rama\ndel árbol antiguo y vital,\nque resiste el viento invernal\ny la luz de la primavera ama.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "rama"
+  }
+}

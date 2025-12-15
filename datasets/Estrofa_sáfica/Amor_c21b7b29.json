@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Solo tu nombre mi garganta anuda,\nsuena cual eco de canción lejana,\ny al pronunciarlo la esperanza brota\ncada mañana.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

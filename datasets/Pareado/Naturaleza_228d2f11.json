@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompen las olas de la inmensa mar,\nque nunca dejan de cantar y amar.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres mi sol radiante,\nmi eterno y fiel amante.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "sol"
+  }
+}

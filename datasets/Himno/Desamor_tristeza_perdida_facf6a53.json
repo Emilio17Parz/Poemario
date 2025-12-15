@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ven, dulce Olvido, manto de niebla,\nborra las huellas del ayer,\nhaz que deje de padecer\nquien en la ausencia se tiniebla.\n\nRompe las tablas de la memoria,\nque no quede rastro del traidor,\nlibérame de este gran dolor,\ny pon fin a esta triste historia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

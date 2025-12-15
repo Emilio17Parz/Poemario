@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Jugábamos en la plaza\ncuando éramos dos chiquillos,\ntú con tus trenzas al aire\ny yo con mis pantorrillos.\nHoy que somos ya mayores\nguardamos aquellos brillos,\nde un amor que fue creciendo\nentre juegos y estribillos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "infancia"
+  }
+}

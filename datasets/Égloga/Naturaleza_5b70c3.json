@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bendita el agua que cae del cielo,\nque da de beber a la raíz seca.\nLa tierra agradecida no peca\nde rechazar tal dulce consuelo.\nRenace la vida en el suelo\ny la sequía se vuelve mueca.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

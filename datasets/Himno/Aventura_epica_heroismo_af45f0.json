@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Montura de guerra y lanza en el brazo,\nque rompes del mal el terrible lazo!\nSirves a Dios y a tu dama con fe,\ny ante el peligro te mantienes en pie.\n\n¡Salve, caballero de andante figura,\nque buscas la gloria con alma pura!\nTu escudo protege al pobre y al niño,\ny entregas tu vida con santo cariño.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

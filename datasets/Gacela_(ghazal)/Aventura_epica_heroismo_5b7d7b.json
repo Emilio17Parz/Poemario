@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No siente miedo el ser valiente,\nenfrenta el riesgo el ser valiente.\n\nCuando otros huyen él permanece,\nroca firme es el ser valiente.\n\nEl mundo cambia gracias a su acción,\nfuerza del alma del ser valiente.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "valiente"
+  }
+}

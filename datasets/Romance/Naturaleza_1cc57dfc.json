@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna vino a la fragua,\ncon su polisón de nardos,\nel niño la mira, mira,\nel niño la está mirando.\nEn el aire conmovido,\nmueve la luna sus brazos,\ny enseña, lúbrica y pura,\nsus senos de duro estaño.\nHuye luna, luna, luna,\nque ya siento los caballos,\ngalopando por el monte\ncon sus jinetes de rayos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "luna"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El laurel se secó pronto,\nel aplauso se hizo silencio,\npresencio,\nlo tonto.\n\nMonto,\ny sentencio,\nel cansancio,\ndel ponto.\n\nFama que fue vanidad,\nsoledad.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

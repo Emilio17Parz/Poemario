@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nLa eterna razón de mi dulce existir (E1: existir)\nMi vida no teme ya más que perder (E2: perder)\nTu amor es la forma que me da la fe (E3: fe)\nEl gozo que siento no tiene ya sombra (E4: sombra)\nLa fuerza que impulsa mi ser a crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nNo quiero perder y al fin crecer (E2, E5)\nLa sombra me da la fe (E4, E3)\nSin un error, dulce existir (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Eterna Razón"
+  }
+}

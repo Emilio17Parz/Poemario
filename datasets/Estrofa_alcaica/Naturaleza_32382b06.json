@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Silente monte, tu cima de piedra\nContempla el valle, que en calma se extiende,\nLa brisa susurra,\nCuando la luna asoma su faz.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "luna"
+  }
+}

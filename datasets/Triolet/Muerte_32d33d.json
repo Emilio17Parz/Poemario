@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te traigo esta corona,\nDe flores hermosas,\nQue el tiempo perdona.\nTe traigo esta corona,\nQue adorna,\nLas losas.\nTe traigo esta corona,\nDe flores hermosas.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "corona"
+  }
+}

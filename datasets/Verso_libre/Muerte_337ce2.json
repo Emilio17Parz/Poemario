@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El calor se escapa,\nla vida es temperatura.\nLa muerte es el frío del mármol,\nla quietud de la piedra.\nEl fuego se ha extinguido\ny queda la ceniza helada.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "frío"
+  }
+}

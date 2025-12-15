@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La Gesta es de sombra y nada,\nno tiene ya un final,\ny mi alma está cansada,\nsin un golpe fatal.\n\nTe fuiste sin consuelo,\nsin una sola razón,\ny ahora lloro sin recelo,\npor tu cruel traición.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Gesta"
+  }
+}

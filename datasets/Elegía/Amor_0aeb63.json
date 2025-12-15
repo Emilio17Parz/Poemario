@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuerza de amor, poder que fue invencible,\nhoy la debilidad me quiere vencer.\nEl sentimiento se vuelve inasible,\nel alma sin poder ser.\nLa energía se apaga, no vuelve a brillar,\nsolo la sombra sin poder anclar.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Fuerza"
+  }
+}

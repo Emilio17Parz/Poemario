@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El barco partió tocando la sirena,\nella agitaba el pañuelo en el muelle,\nsintiendo que el corazón se le muelle,\nllena de angustia y de honda pena.\nPasaron los meses, pasaron los años,\ncartas cruzaban el vasto océano,\nmanteniendo vivo el amor temprano,\na pesar de los tiempos extraños.\nUn día el barco volvió a aparecer,\ny el amor volvió a renacer.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "puerto"
+  }
+}

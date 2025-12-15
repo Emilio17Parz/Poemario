@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Limpiar la vieja culpa,\ncon agua del perdón,\nla mente se disculpa,\nlibera el corazón.\n\nCon agua del perdón,\nse sana la herida,\nlibera el corazón,\npara la nueva vida.\n\nSe sana la herida,\nlimpiar la vieja culpa,\npara la nueva vida,\nla mente se disculpa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

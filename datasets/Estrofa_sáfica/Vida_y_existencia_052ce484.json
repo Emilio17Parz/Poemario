@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida fluye, un río sin retorno,\nel ser se asoma al borde de un abismo,\ny el alma busca un hálito de eterno.\nBreve es el viaje.\n\nMirar el mundo con ojos de asombro,\nsentir el pulso débil de la aurora,\nhallar sentido en cada nuevo escombro.\nLa senda espera.\n\nEl tiempo avanza, la memoria esfuma,\nmas queda un eco de lo que fue un día,\nun dulce anhelo que el presente ahúma.\nSe va la dicha.\n\nUn leve soplo de fugaz sueño,\nnos lleva a reinos de irreal belleza,\nla mente crea su propio diseño.\nY el alma vuela.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

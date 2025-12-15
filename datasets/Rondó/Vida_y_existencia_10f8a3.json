@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco el sentido,\nde estar aquí.\nLo que viví,\ny lo perdido.\n\nHe querido,\nser feliz así.\nBusco el sentido,\nde estar aquí.\n\nSonido,\nque oí.\nPara mí,\nel latido.\nBusco el sentido.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

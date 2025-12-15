@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge fuerte la batalla\nen el valle ensangrentado,\nel ejército cansado\nno se rinde ni desmaya.\nContra el muro y la muralla\nluchan por la libertad,\ny en esa oscuridad\ndel acero y el escudo,\nel valor se muestra crudo\nsin ninguna piedad.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

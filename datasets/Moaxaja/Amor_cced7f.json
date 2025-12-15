@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor escondido,\nbien protegido.\n\nNadie lo sabe,\nni tiene llave,\naunque se alabe,\nlo vivido.\nAmor escondido,\nbien protegido.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El templo es el alma (7a),\ndonde Dios se da (5b),\nno encuentra la calma (7c),\nsin una paz (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Templo"
+  }
+}

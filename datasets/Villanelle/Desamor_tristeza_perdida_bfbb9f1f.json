@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "La sombra de tu ausencia me consume,\nMi corazón no deja de sangrar,\nPronuncio el nombre amargo del adiós.\n\nEl tiempo pasa sin poder curar,\nLa vida ya no tiene qué esperar,\nLa sombra de tu ausencia me consume.\n\nMi voz herida no sabe ya qué hablar,\nYa solo queda lamentar y callar,\nPronuncio el nombre amargo del adiós.\n\nMi alma sola no puede más amar,\nNo hay fuerza para poder escapar,\nLa sombra de tu ausencia me consume.\n\nTus ojos que ya nunca voy a mirar,\nQuisiera de este duelo despertar,\nPronuncio el nombre amargo del adiós.\n\nMi ser perdido que no puede parar,\nTan solo sé que nunca va a acabar,\nLa sombra de tu ausencia me consume,\nPronuncio el nombre amargo del adiós.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

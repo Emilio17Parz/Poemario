@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminante no hay camino\ncomo dijo el gran poeta,\nse hace camino al andar\nhacia la lejana meta.\nCada paso es una historia\ny cada huella una grieta,\nen el suelo de la vida\nque es una extraña ruleta.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "camino"
+  }
+}

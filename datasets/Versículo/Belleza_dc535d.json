@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La música es la arquitectura del aire, construyendo catedrales invisibles que entran por el oído y se levantan en el alma.\nEs el lenguaje universal que no necesita traducción, porque habla directamente a la emoción y al espíritu.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "música"
+  }
+}

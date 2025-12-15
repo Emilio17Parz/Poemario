@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La tarde cae con tono gris,\ny las palabras sobran ya,\nse rompe el cuento de la perdiz,\ny la esperanza se nos va.\nQueda la marca de la cicatriz,\nde un sueño roto por los dos,\ny el eco triste de un infeliz,\nque balbucea el último adiós.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

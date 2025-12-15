@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En la quietud que el alma me confiere,\nun universo oculto se me abre,\ndonde el silencio al fin mi voz descubre,\ny mi propio abismo me prefiere.\n\nNingún espejo exterior se hiere\ncon la verdad que mi interior recubre,\nni falso brillo su candor encumbre,\npues solo allí mi ser se mueve y quiere.\n\n¿Qué sombra habita o luz me da razón?\nPregunta el yo a su propio laberinto,\nmientras la esencia busca su guarida.\n\nEntre reflejos, sin final ni don,\nmi profunda y frágil identidad pinto,\nun mapa eterno de mi propia vida.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

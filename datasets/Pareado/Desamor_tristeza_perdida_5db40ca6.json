@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cargo una pena muy honda,\nque en mi pecho se esconda.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "pecho"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Lo que tiene que ser, va a ser al final,\nPor más que el hombre luche contra el duro mal.\nEl destino es la mano que mueve el tablero,\nEl jugador es un peón, sin ningún esmero.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "destino"
+  }
+}

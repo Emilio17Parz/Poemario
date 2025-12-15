@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Surca los mares con gran valor,\nel viejo navío, firme y audaz,\nno teme al viento, ni al fuerte clamor,\nes la promesa de un mundo de paz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

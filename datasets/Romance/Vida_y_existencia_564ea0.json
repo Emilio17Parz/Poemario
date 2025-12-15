@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No pienses en el mañana\nque quizás nunca vendrá,\nni llores por el pasado\nque ya nunca volverá.\nVive el hoy con intensidad\nque es lo único que está,\ny sácale todo el jugo\nantes de que se nos va.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "presente"
+  }
+}

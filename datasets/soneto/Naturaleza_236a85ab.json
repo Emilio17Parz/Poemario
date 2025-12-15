@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Coloso de granito que desafía\nlas nubes y el rigor de la tormenta,\ncuya cumbre nevada se presenta\ncomo reina de toda geografía.\n\nEscalar tu ladera es osadía,\nsentir cómo el oxígeno se ausenta,\ny ver cómo el paisaje se alimenta\nde una luz que parece fantasía.\n\nDesde tu cima el mundo es diminuto,\nlos problemas se vuelven hormigueros,\ny el alma cobra un místico atributo.\n\nMontaña, son tus riscos los senderos\ndonde el silencio rinde su tributo\na los dioses antiguos y primeros.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

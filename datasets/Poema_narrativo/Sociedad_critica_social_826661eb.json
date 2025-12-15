@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vivían todos mirando la pantalla,\ncreyendo que eran muy felices.\nNadie saltaba la valla,\nni veía sus cicatrices.\nEl sistema, que nunca falla,\nles daba juegos y matices.\nHasta que uno desconectó,\ny vio sus manos llenas,\nde cables que él cortó,\nrompiendo las nuevas cadenas.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

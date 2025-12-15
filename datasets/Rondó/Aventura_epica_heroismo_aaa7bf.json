@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Defiendo mi honor,\ncon la verdad pura.\nEs la armadura,\ncontra el dolor.\n\nEl mayor valor,\nen la amargura.\nDefiendo mi honor,\ncon la verdad pura.\n\nSin temor,\na la locura.\nLa cura,\ndel error.\nDefiendo mi honor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "honor"
+  }
+}

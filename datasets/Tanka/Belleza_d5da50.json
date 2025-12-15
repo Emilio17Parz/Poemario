@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mármol pulido,\nes frío y elegante ya,\nsin una imperfección.\nUna belleza estática,\nque el tiempo no puede tocar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Mármol"
+  }
+}

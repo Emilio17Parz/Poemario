@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No está en libros la ciencia mía,\nsino en observar la naturaleza.\nElla me enseña con certeza\nel paso de noche y día.\nLa verdadera sabiduría\nnace de la simpleza.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "libros"
+  }
+}

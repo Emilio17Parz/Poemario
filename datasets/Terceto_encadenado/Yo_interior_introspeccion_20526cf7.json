@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Mis pasos lentos buscan la verdad,\nen laberintos de mi ser profundo,\nansío hallar mi propia identidad.\n\nEn laberintos de mi ser profundo,\nun rostro ajeno observa sin reproche,\n¿soy quien se mira, o soy el mundo?\n\nUn rostro ajeno observa sin reproche,\nante el **espejo**, el alma se desnuda,\nluz que se filtra en la callada noche.\n\nAnte el **espejo**, el alma se desnuda,\npregunto al fondo lo que no comprendo,\nmi esencia oculta, que jamás se muda.\n\nPregunto al fondo lo que no comprendo,\nsi el reflejo miente o dice lo que soy,\nsilencios viejos en mi voz enciendo.\n\nSi el reflejo miente o dice lo que soy,\nla paz hallada es la mayor virtud,\nen cada grieta donde habito hoy.\n\nMi yo interior, en pura plenitud.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

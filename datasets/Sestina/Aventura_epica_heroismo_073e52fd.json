@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cantan la gesta del héroe,\nque venció mil peligros,\ncon su espada y valor.\nNo sintió el temor,\nal enfrentar al dragón,\ny salvar a su pueblo.\n\nSalvar a su pueblo,\nel héroe,\nsu misión.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

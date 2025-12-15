@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Camino que ando sin un final,\nla senda que el alma no quiere seguir.\nTu ruta es sombra, el golpe fatal,\nel alma sin poder huir.\nTu forma es triste, la verdad es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una sonrisa franca,\nes belleza real,\nque el miedo arranca,\ny vence al mal.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hablo con las cuatro paredes,\nque me saben escuchar,\nporque fuera no hay nadie\nque me quiera consolar.\nLa soledad es mi dueña,\nmi forma de caminar,\nuna sombra que me sigue\ny no me deja respirar.\nSolo el eco me responde,\nal oírme suspirar,\nrepitiendo mis lamentos\nen su triste replicar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "eco"
+  }
+}

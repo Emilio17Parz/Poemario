@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu amor se transformó en un bloque de hielo,\ncongelando la dicha ya vivida,\ny cubriendo de gris mi claro cielo.\n\nMe dejaste el alma malherida,\nsin calor que pudiera consolarme,\nen esta triste y dura despedida.\n\nNo encuentro fuego para calentarme.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

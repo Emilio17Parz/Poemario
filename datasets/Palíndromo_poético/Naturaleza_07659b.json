@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Madre tierra\nnos sustenta\nvida da\nnos sustenta\nmadre tierra",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

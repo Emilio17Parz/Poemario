@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busco la luz, y solo hallo un hueco,\nla vida sin la calma, el dulce eco.\nLa sombra me persigue, me obliga a caer,\nla sombra constante sin poder ser.\n\nNo tengo la luz, no tengo la fe,\nla vida sin la calma, sin saber el qué.\nMi final es la sombra de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "luz"
+  }
+}

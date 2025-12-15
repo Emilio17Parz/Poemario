@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Por salvar a su amada del infierno,\nOrfeo descendió al reino sombrío,\ncruzando el Estigia, oscuro río,\ncon su lira y su canto sempiterno.\nConmovió a las sombras con su aire tierno,\npero la duda fue su desvarío,\ny al mirar atrás, con escalofrío,\nperdió su alma en el dolor eterno.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "sacrificio"
+  }
+}

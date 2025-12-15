@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te doy mi fe sincera,\nmi palabra de honor y mi lealtad,\nmi vida entera,\nlejos de la mentira y la falsedad.\nJuro cuidarte mientras tenga aliento,\nen cada momento,\nserás la reina de mi devoción,\ny mi canción.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "fe"
+  }
+}

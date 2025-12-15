@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Color que duerme en el tubo,\ny despierta sobre la tela,\ncreando un mundo que no hubo,\nilusión que al ojo revela.\nPincelada suave o fuerte,\nque capturas la luz del sol,\ny salvas a la forma de la muerte\ncon tu mágico arrebol.\nVentana a paisajes soñados,\nrostros que miran eterno,\ntesoros allí guardados\nlejos del frío invierno.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

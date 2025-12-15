@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Todos llevamos un secreto inconfesable en la cripta del corazón.\nUna verdad que nos da miedo mirar a la cara, una herida que no cierra.\nEl secreto nos define tanto como lo que mostramos a la luz del día.\nSomos guardianes de misterios que nos acompañarán a la tumba.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

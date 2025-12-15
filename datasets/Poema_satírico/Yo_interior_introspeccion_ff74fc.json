@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El pecado favorito,\nde la humanidad,\nun placer bendito,\nde inactividad.\nDel sofá a la cama,\nla vida me llama.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Pereza"
+  }
+}

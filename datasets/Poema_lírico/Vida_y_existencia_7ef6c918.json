@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Río que fluye y jamás se detiene,\ntiempo que pasas robando la flor,\ndejando huellas de gozo y dolor,\ny la memoria que el alma retiene.\nNadie tu marcha veloz entretiene,\noh, fugitivo y constante señor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

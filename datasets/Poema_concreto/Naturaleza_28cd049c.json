@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "  (olor)\n (color)\n    |\n    |\n  hoja",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "flor"
+  }
+}

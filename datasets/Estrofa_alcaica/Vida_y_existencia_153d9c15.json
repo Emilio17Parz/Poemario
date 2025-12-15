@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llega el invierno con su nevada blanca,\npasos pesados y la mirada atenta,\nla juventud se estanca\ny la experiencia se acrecienta.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

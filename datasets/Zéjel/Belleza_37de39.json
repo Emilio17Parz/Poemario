@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La mujer es toda luz,\ny nos quita toda la cruz.\n\nLa gracia no tiene fin,\nsin principio ni confín,\nel amor es un festín,\ny nos quita toda la cruz.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "mujer"
+  }
+}

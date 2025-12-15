@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras que danzan en el papel,\nritmo, rima y metáfora,\nllenando el ánfora,\nde dulce hidromiel.\n\nEl poeta es el fiel,\nque con su cantimplora,\nla belleza explora,\ny es su doncel.\n\nDecir lo indecible,\ncon voz humana,\ny sensible.\n\nLa mañana,\napacible,\ny sana.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "anfora"
+  }
+}

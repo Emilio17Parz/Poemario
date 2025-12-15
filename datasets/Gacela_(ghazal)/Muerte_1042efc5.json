@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nadie sabe la hora de la partida,\ncuando se corta el hilo de la vida.\n\nQueda la casa sola y la despedida,\ny una herida en el alma, honda y sentida.\n\nCruzamos la frontera desconocida,\nhacia la sombra eterna y prometida.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "partida"
+  }
+}

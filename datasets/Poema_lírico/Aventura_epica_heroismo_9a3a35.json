@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi sangre es el precio\npara vuestra libertad.\nEl dulce desprecio\nde la única verdad.\n\nCaigo sin lamento,\nmi vida es la ofrenda,\nel último aliento\nen la dura contienda.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "sacrificio"
+  }
+}

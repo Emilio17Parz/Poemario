@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor, estrella que mi noche traza,\nUn eco dulce que mi ser inflama,\nY llama viva que mi vida aclama,\nMi alma en tu mirada se solaza.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "alma"
+  }
+}

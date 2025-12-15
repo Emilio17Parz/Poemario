@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "A\n D\n  I\n   Ó\n    S",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "adios"
+  }
+}

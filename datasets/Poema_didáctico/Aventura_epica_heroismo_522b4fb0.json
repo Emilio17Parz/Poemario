@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tus hechos son tu memoria,\nlo que escribirá la historia.\nActúa con rectitud,\ny deja ver tu virtud.\nQue tu nombre se recuerde,\ncuando el cuerpo ya se pierde.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "legado"
+  }
+}

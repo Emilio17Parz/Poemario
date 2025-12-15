@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Horas que no pasan,\noscuridad eterna,\nmi mente gobierna,\ny los miedos arrasan.\nBusco el sueño en vano,\nen este mundo profano.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "insomnio"
+  }
+}

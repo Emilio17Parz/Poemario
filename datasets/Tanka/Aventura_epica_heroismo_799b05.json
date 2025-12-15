@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cofre de oro\noculto en la caverna\nbrillo letal.\nLa riqueza maldice\nal que la busca mal.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

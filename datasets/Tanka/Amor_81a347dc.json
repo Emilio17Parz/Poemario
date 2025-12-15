@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor que quema,\nenciende el corazón.\nLlama ardiente,\nsiento en mi pecho el fuego\nque consume mi ser.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

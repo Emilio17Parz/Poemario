@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oigo tu nombre en cada susurro del viento,\nla voz que me llama, que me da la paz,\nmi único y dulce, mi gran contento,\nla sombra que nunca me dejas atrás.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Susurro"
+  }
+}

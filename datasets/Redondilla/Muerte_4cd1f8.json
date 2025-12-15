@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo se termina,\nen el ataúd,\nse apaga la luz,\nque el mundo ilumina.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "final"
+  }
+}

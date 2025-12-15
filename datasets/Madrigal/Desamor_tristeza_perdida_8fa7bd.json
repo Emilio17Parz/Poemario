@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fue culpa mía darte el corazón,\nsin ver que lo tirabas a la hoguera,\nde forma ligera,\nperdiendo la cordura y la razón.\nError fatal amar a quien no ama,\napagada la llama,\nme queda solo pedir el perdón,\ncon mi canción.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

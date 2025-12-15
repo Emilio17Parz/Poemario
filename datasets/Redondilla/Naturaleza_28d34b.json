@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Agua que se lanza,\ndesde la altura,\ncon gran hermosura,\ny noble esperanza.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "cascada"
+  }
+}

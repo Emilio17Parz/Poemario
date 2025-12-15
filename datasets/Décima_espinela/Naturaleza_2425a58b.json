@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque verde y profundo\nguarda secretos de paz,\ndonde el alma halla solaz\nbajo el cielo de este mundo.\nLa flor que nace fecunda,\ncanta el susurro del mar,\nsu inmensidad, su cantar;\nel viento suelta su don,\npura y bella sensación,\ncon su eterna libertad.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "mar"
+  }
+}

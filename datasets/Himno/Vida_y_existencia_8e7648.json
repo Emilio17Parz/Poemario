@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Señor de las horas, eterno viajero,\nque marcas el paso, severo y certero!\nDevoras los siglos y borras la historia,\ndejando tan solo la leve memoria.\n\n¡Temed al tiempo, que nunca se para,\ny al rey y al mendigo su ley declara!\nJuez implacable que todo lo mide,\ny al fin de la senda la cuenta nos pide.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

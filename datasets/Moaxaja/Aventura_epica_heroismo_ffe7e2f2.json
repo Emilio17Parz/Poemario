@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi fiel caballo,\nque es como un rayo.\n\nCorre veloz,\nno es atroz,\ny alza la voz,\nsin desmayo.\n\nMi fiel caballo,\nque es como un rayo.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "caballo"
+  }
+}

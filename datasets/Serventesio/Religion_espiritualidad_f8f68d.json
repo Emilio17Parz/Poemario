@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Los milagros existen,\npara quien tiene fe,\ny los males resisten,\nporque Dios así lo ve.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "milagro"
+  }
+}

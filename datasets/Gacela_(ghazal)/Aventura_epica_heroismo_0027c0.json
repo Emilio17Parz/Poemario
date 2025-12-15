@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Marca la ruta el viejo mapa,\nguía al viajero el viejo mapa.\n\nTierras extrañas y mares bravos,\nestán trazados en el mapa.\n\nLa X señala el lugar final,\nsecreto escrito en el viejo mapa.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

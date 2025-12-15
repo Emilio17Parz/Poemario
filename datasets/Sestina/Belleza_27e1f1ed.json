@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Vive en la escultura,\nel espíritu de la piedra,\nliberado por el cincel.\nSu piel no es de papel,\nsino de mármol eterno,\nque desafía la edad.\n\nDesafía la edad,\nla escultura,\ny el invierno.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

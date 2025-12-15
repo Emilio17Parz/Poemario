@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo lo que empieza acaba,\ntodo llega a su fin,\nigual se muere la rosa\nque se muere el jazmín.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "fin"
+  }
+}

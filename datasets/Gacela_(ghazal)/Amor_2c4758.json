@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Late por ti mi fiel corazón,\nsolo conoce tu voz mi corazón.\n\nPierde el sentido y la razón,\nsi tú te alejas de mi corazón.\n\nRitmo de vida, tambor y canción,\ntuyo por siempre es mi corazón.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

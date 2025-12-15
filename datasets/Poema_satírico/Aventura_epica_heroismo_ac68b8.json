@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El ayudante torpe,\nque muere primero,\nsu vida se rompe,\npor el compañero.\nCarne de cañón,\nsin ni un galeón.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Sidekick"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Vestida de blanco cual lirio en flor,\ncaminas altiva hacia mi amor,\nsuenan campanas de felicidad,\nuniendo las vidas en la eternidad.\nTestigos el cielo y la tierra serán,\nde este compromiso que nos darán,\nunimos las manos para caminar,\ny nunca soltarnos al tropezar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "boda"
+  }
+}

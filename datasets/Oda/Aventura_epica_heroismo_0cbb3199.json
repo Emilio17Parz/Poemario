@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Oh, Aventura, llama que al alma enciende,\nSoplo audaz que al destino nos empuja,\nCorazón que el reposo no comprende,\nY en horizontes vastos se dibuja.\nTú, que al héroe despiertas de su lecho,\nCon un rumor de hazañas por venir,\nPromesa de laureles, dulce anhelo,\nQue incita al alma a nunca sucumbir.\n\nEl viaje se despliega, senda ignota,\nPor cumbres donde el rayo furia escupe,\nPor mares que la espuma ciega azota,\nDonde el abismo oscuro el alma irrumpe.\nDragones de la noche, huestes ciegas,\nTrampas de ingenio vil, desolación,\nSon sombras que la luz del alma niegas,\nPruebas forjando temple y corazón.\n\nMas surge el Héroe, antorcha en la tiniebla,\nCon mirada de acero, faz serena,\nQue el miedo con su férrea voluntad quiebra,\nY al cobarde destino desordena.\nSu espada es rayo, su escudo es fe inmensa,\nSu grito de batalla, un huracán,\nEn cada golpe, el alma se condensa,\nForjando un nombre que jamás se irán.\n\nAsí, la Épica alza su voz eterna,\nCantando al alma brava y sin igual,\nQue cruza umbrales, que a la muerte inverna,\nPara forjar la gesta inmortal.\n¡Oh, Heroísmo, faro de la especie!\nQue elevas al mortal a la deidad,\nTu nombre en el éter nunca deprecie,\nLegado de valor, perennidad.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

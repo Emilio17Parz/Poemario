@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El vasto desierto\nes silencio bajo el sol,\narena sin fin.\nSolo el cactus solitario\nguarda el agua de la vida.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Desierto"
+  }
+}

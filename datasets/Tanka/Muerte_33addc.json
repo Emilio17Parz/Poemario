@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Urna pequeña\nguarda lo que tú fuiste\npolvo y honor.\nTe esparzo en el mar\npara que seas libre.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

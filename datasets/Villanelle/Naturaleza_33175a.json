@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuelve la vida con mil colores,\ncuando el invierno dice adiós,\ny se despiertan los amores.\n\nSe llenan campos de flores,\nregalos para nosotros dos,\nvuelve la vida con mil colores.\n\nSe van las penas y dolores,\nante la luz de nuestro Dios,\ny se despiertan los amores.\n\nCantan las aves sus primores,\ncon sus trinos y con su voz,\nvuelve la vida con mil colores.\n\nSon los días prometedores,\nque pasan rápido y veloz,\ny se despiertan los amores.\n\nRenacen sueños y valores,\nen este tiempo tan precoz,\nvuelve la vida con mil colores,\ny se despiertan los amores.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

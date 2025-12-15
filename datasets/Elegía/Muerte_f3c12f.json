@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo gris en la urna,\nlo que queda del fuego,\ny de mi ruego,\nen la noche nocturna.\n\nTristeza taciturna,\nque despliego,\ny luego,\nme vuelvo diurna.\n\nVuela con el aire,\ncon bello donaire.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En mis sueños te veo cada noche,\ncomo reina de un mundo de cristal,\nsin que exista la duda ni el reproche,\nsolo un amor purísimo y leal.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se pinta de grana el cielo,\ncuando el sol se retira,\ny el mundo suspira,\nbajo un rojo velo.\nEs el último vuelo,\nde la luz que expira,\nuna pira,\nque causa consuelo.\nBelleza que muere,\npero que hiere,\ny placer confiere.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "color"
+  }
+}

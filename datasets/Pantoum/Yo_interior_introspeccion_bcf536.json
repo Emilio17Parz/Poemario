@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Respiro profundo y lento,\ncentro mi energía.\nParo el pensamiento,\nque me dirigía.\n\nCentro mi energía,\npaz en el alma.\nQue me dirigía,\nrobando la calma.\n\nPaz en el alma,\nparo el pensamiento.\nRobando la calma,\nrespiro profundo y lento.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "calma"
+  }
+}

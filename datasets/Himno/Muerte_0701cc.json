@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Río que arrastra imperios y vidas,\ncausante de todas las despedidas.\n¡Salve, Tiempo, juez implacable!,\nque haces la muerte inevitable.\n\nDevoras los días, los años, la edad,\nmostrando la cruda y fiel realidad.\nAnte ti nos postramos, pues tú eres el rey,\nque impone a todos su férrea ley.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

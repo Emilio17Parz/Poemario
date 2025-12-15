@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El viaje sagrado fiel (a),\nque el alma recorre sin fin (b),\nla vida es un trago de miel (c),\nel eterno y puro jazmín (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

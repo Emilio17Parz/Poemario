@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Veo la pura y perfecta forma,\nque no obedece a la estricta norma,\nesculpida por el viento,\nque a la materia conforma.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "forma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Mariposa que yaces sin un volar,\nla vida que el cuerpo no puede ya ver.\nTu forma es sombra, sin poder anclar,\nel alma sin un gran poder.\nTu vuelo se fue, la calma es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Mariposa"
+  }
+}

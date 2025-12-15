@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante pétreo que a las nubes toca,\nretas al tiempo con tu perfil eterno,\nfirme y dura es tu roca\nante el verano y el invierno.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

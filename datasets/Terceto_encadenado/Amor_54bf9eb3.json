@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te busco en el silencio de la noche,\ncuando el mundo se queda dormido,\ny te entrego mi amor sin un reproche.\n\nEn el sueño te encuentro, bien querido,\ny paseamos unidos por la playa,\nrecuperando el tiempo ya perdido.\n\nAntes de que la luna se nos vaya.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "noche"
+  }
+}

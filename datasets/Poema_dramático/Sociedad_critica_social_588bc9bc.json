@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "CARCELERO: Renuncia a tus ideas y saldrás.\nPRESO: Mi mente es libre, no la tendrás.\nCARCELERO: Te pudrirás en este agujero.\nPRESO: Soy luz en la sombra, soy lucero.\nCARCELERO: Nadie se acuerda de ti afuera.\nPRESO: Mi voz es semilla que espera.\nPuedes atar mi cuerpo, es verdad.\nPero no matarás la libertad.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

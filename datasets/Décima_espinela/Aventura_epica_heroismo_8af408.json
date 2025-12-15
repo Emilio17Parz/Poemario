@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi palabra es sagrada,\nvale más que mi vida,\njamás será rompida,\nni por oro comprada.\nCon la frente alzada,\ncamino con rectitud,\nes mi mayor virtud,\nser leal y sincero,\nun noble caballero,\nde gran exactitud.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "honor"
+  }
+}

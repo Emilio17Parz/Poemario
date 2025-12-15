@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se arruga la piel suave,\nel tiempo cobra su precio,\nya no tenemos la llave,\ndel vigor y su desprecio.\n\nEl tiempo cobra su precio,\nplata en el pelo crece,\ndel vigor y su desprecio,\nla juventud perece.\n\nPlata en el pelo crece,\nse arruga la piel suave,\nla juventud perece,\nya no tenemos la llave.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

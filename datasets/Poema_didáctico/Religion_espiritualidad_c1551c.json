@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Nada te pertenece,\ntodo es prestado,\nel alma florece,\nen lo liberado.\nSuelta y confía,\nen la guía.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Desapego"
+  }
+}

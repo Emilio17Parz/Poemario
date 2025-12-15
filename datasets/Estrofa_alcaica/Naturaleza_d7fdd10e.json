@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Templo de ramas donde el silencio reina,\nfiltran las hojas la claridad del día,\nel viento suave despeina\nla copa verde de la umbría.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

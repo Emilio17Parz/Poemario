@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Perseguir un ideal\nes la fuerza que nos mueve,\naunque la vida sea breve\ny el esfuerzo colosal.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "meta"
+  }
+}

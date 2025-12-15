@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "En polvo se tornó la gentileza,\nla fuerza, la bondad y la hermosura,\ntodo termina en negra sepultura,\ny el alma se disuelve en la tristeza.\nSomos apenas polvo enamorado,\nque el viento de la muerte ha dispersado.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

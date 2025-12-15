@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "luz\n l u z\n  l  u  z\n   l   u   z\n    I L U M I N A S",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "luz"
+  }
+}

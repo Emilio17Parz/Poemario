@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No sabían si el mañana traería dolor,\nPero sabían que juntos tendrían más valor.\nFirmaron el futuro con la tinta del alma,\nQue en la tempestad, el amor siempre calma.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

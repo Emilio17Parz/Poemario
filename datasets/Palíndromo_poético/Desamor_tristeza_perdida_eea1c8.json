@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Gran pena\nme dejaste\nal partir\nme dejaste\ngran pena",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "pena"
+  }
+}

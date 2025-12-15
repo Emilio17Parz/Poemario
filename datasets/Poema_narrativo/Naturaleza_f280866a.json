@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña despertó con un rugido,\nlanzando fuego y ceniza al cielo,\nrompiendo del pueblo el consuelo,\ncon su poder desmedido.\nLa lava bajó como un río rojo,\nquemando bosques y sembrados,\nlos animales huyeron asustados,\nante el natural enojo.\nLuego volvió el silencio y la calma,\ny la tierra sanó su alma.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "erupción"
+  }
+}

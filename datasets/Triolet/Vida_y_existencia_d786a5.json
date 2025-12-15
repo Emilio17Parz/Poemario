@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llevas la carga,\nen tu espalda.\nSe hace larga,\nllevas la carga.\nLa guirnalda,\namarga.\nLlevas la carga,\nen tu espalda.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "carga"
+  }
+}

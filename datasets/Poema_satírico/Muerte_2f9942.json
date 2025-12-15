@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Chupa sangre y brilla al sol,\nsegún la novela moderna,\nperdió todo el control,\nde su imagen eterna.\nAntes daban terror,\nahora dan amor.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Vampiro"
+  }
+}

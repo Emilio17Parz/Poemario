@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "En la tumba fría,\ntermina el día,\ndel caminante,\nque fue constante,\nen su vía.\n\nYa no reía,\nni sentía,\nel instante,\nEn la tumba fría.\n\nNadie sabía,\nlo que quería,\nel amante,\ndel diamante,\nque perdía,\nEn la tumba fría.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Báculo y conjuro,\npoder que domina los elementos;\nlos vientos,\ndel muro.\nSabiduría antigua y arcana,\ncada mañana.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mago"
+  }
+}

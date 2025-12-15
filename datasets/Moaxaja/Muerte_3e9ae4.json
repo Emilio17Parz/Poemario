@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reloj parado,\nterminado.\n\nYa no corre,\nni socorre,\nni borre,\nlo amado.\nReloj parado,\nterminado.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

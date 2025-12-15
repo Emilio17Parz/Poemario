@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Solo ceniza ya (7a),\nde lo que no fue (5b),\nla vida que se va (7c),\nsin un 'yo sé' (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Ceniza"
+  }
+}

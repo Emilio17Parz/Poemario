@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Verdes los campos y azules los mares,\nmontes que tocan los altos lugares,\ntodo es perfecto en el mundo natural,\nlejos del ruido y del hombre mortal.\nHay una fuerza que late en la flor,\ny en la tormenta con su gran fragor,\nbelleza salvaje que nos hace ver,\nlo pequeñito que es nuestro poder.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

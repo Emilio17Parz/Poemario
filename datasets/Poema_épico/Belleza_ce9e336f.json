@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El valle del Edén,\nera el paraíso,\nque Dios quiso,\npara el hombre también.\nTodo estaba bien,\nen ese piso,\nhasta el aviso,\ndel desdén.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

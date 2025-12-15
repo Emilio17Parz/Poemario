@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Vienes a darme luz,\nIluminando mi sendero.\nDas sentido a mi cruz,\nAmor puro y sincero.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "VIDA"
+  }
+}

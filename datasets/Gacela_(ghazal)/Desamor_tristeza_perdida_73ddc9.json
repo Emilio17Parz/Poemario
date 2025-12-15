@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Negra vestida viene la pena,\nllena mi copa de amarga pena.\n\nNo tiene llave mi dura cadena,\nsolo eslabones de triste pena.\n\nCorre veneno por cada vena,\nes la ponzoña de la honda pena.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "pena"
+  }
+}

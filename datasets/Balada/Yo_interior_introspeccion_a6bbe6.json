@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El yo se infla y se cree,\nlo que nadie nunca ve,\nel rey del mundo y la sal,\nel principio y el final.\nPero es solo una ilusión,\nuna triste condición,\nque nos separa del todo,\ny nos hunde en el lodo.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "ego"
+  }
+}

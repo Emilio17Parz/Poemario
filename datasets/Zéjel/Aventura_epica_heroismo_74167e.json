@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El grito tiene una voz,\ny nos une a los dos.\n\nEl coraje ya me llegó,\nla pena ya se me fue,\nel miedo se me acabó,\ny nos une a los dos.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "grito"
+  }
+}

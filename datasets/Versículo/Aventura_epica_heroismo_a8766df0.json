@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La gloria no se encuentra en el aplauso de las multitudes necias.\nSe halla en la satisfacción del deber cumplido y en la conciencia tranquila.\nLos monumentos caen y los nombres se borran de la piedra.\nPero la verdadera gloria perdura en el eco de las buenas acciones.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

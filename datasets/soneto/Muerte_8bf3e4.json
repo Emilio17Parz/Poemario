@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Siempre camina detrás de mí,\nla sombra fiel que espera su hora,\nno se impacienta y no demora,\npues sabe que el fin está ahí.\n\nDesde el momento en que nací,\nella me sigue, me condecora,\ncon la finitud que me devora,\ny a la que nunca, jamás vencí.\n\nNo le temo a su abrazo frío,\npues es parte de la condición,\nde este extraño y breve albedrío.\n\nCuando se pare mi corazón,\nme entregaré al oscuro río,\nsin resistencia y sin objeción.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

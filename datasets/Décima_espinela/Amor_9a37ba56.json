@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres dueña de mi alma\ny señora de mi ser,\ncontigo quiero crecer\nen la tormenta y la calma.\nEres tú la dulce palma\nque corona mi existir,\ny si he de sobrevivir\na este mundo tan adusto,\nserá solo por el gusto\nde volverte a percibir.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "alma"
+  }
+}

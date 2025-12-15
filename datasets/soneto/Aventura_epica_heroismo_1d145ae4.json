@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El hálito del norte, cruel llamado,\nDespierta el alma de un noble audaz,\nQue busca la leyenda, pura y tenaz,\nPor valles donde el mal dejó su legado.\n\nMarchó sin miedo, con el alma en llamas,\nCruzando sierras de glacial blancura,\nEnfrentando sombras de su propia amargura,\nGuiado por la luz de viejas tramas.\n\nLa senda incierta, con valor cruzada,\nRevela el nido de la antigua bestia,\nAllí donde la luz se manifiesta.\n\nUn brillo escamoso, la ira desatada,\nAnte el valiente, la furia se molesta,\nEl temible dragón, con alma funesta.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

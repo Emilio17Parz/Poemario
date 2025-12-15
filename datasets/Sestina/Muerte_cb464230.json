@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visten las almas de duelo,\nllorando la despedida,\ndel que parte al más allá.\nSaben que no volverá,\ny el corazón se les rompe,\nen mil pedazos de gris.\n\nPedazos de gris,\nen el duelo,\nque se corrompe.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

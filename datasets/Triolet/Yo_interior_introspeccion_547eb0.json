@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco mi esencia,\nEn lo profundo,\nCon paciencia.\nBusco mi esencia,\nLa conciencia,\nDe este mundo.\nBusco mi esencia,\nEn lo profundo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "esencia"
+  }
+}

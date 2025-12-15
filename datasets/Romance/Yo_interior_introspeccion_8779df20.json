@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién soy yo tras de la máscara\nque presento ante la gente?\n¿Soy el actor que recita\no el río y su corriente?\nBusco mi propia identidad\nen la calma de mi frente,\npara ser uno conmigo\ny no un ser diferente.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

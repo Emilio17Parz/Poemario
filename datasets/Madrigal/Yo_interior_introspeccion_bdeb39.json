@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Respiro y cuento diez,\nel río de la mente se detiene;\nyo viene,\nla niñez.\nLa paz interior es el gran tesoro,\nmás que el oro.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "calma"
+  }
+}

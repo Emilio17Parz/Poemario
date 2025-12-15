@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "¿Qué mundo dejaremos luego,\na los hijos de nuestros hijos?\n¿Unos parajes fijos,\no tierra quemada por fuego?\n\nJugamos un peligroso juego,\nignorando los acertijos,\ny rompemos los cobijos,\ncon nuestro orgullo ciego.\n\nEl futuro nos juzgará,\npor lo que hicimos hoy,\ny la historia contará.\n\nSi fuimos luz o convoy,\nde la sombra que vendrá,\ny del desastre que soy.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

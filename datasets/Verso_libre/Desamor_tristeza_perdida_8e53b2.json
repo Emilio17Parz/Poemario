@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me atraganto con lo que no dije.\nPalabras afiladas como cristales\nque se quedaron en la garganta.\nDebí gritar,\ndebí pedirte que te quedaras,\no quizás debí decir adiós antes.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "palabras"
+  }
+}

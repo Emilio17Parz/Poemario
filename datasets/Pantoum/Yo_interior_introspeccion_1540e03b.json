@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vuela mi inquieta mente,\npor mundos de fantasía,\nllevada por la corriente,\nde la noche y del día.\n\nPor mundos de fantasía,\nbuscando alguna razón,\nde la noche y del día,\npara mi corazón.\n\nBuscando alguna razón,\nvuela mi inquieta mente,\npara mi corazón,\nllevada por la corriente.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mente"
+  }
+}

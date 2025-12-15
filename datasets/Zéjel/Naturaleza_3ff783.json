@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo tiene un color,\nsin ningún dolor.\n\nEl sol ya se me fue,\nla noche ya tiene fe,\nel alma ya no ve,\nsin ningún dolor.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

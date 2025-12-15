@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Pintura es mi vida,\nde sombra y de quietud,\ny mi alma ya sin vida,\nsin tu dulce virtud.\n\nYo te busco en el lienzo,\ny no encuentro ya tu ser,\nmi alma ya sin tenso,\nsin un solo gran poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Pintura"
+  }
+}

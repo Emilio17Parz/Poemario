@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tomó el barro con sus manos,\ny lo puso en la rueda,\nque la forma se pueda,\ncrear con gestos humanos.\nGiraba y giraba el torno,\ny nacía una vasija,\ncomo si fuera una hija,\nsacada del horno.\nAsí modelamos la vida,\ncon la arcilla recibida.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "creación"
+  }
+}

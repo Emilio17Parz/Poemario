@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivimos una ilusión,\nun teatro de sombras y luz,\nlleno de gran confusión,\ncargando nuestra propia cruz.\nBuscamos la salvación,\ncon un constante empeño,\npero tengo la impresión,\nde que la vida es solo un sueño.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

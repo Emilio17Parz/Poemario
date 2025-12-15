@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me voy del valle, no vuelvo más,\ndejo mis prados y mi majada,\npues sin tu vista, mi bien amada,\nno tengo paz ni miro atrás.\n\nBusco otras tierras donde quizás,\nel olvido cure mi memoria,\ny pueda escribir otra historia,\ndonde tú no estés nunca jamás.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "partida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se rompió la cuerda del violín,\ncalló la nota perfecta,\nla melodía directa,\nllegó a su triste fin.\n\nSilencio en el jardín,\ndonde la orquesta selecta,\nyace incorrecta,\nen el confín.\n\nArmonía que se apaga,\ncomo una vieja llaga.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "música"
+  }
+}

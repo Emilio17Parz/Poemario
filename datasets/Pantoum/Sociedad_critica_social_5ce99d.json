@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Adoran al dios papel,\nbillete de color verde,\nsabor a hiel,\nla moral se pierde.\n\nBillete de color verde,\ncompra la voluntad,\nla moral se pierde,\nen la ciudad.\n\nCompra la voluntad,\nadoran al dios papel,\nen la ciudad,\nsabor a hiel.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "papel"
+  }
+}

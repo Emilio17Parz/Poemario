@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña gigante,\ntoca las nubes con su cima fría,\ncon gesto arrogante,\nretando al día,\nen su pétrea y gran jerarquía.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "altura"
+  }
+}

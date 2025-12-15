@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza que nos guía,\nCon su etérea melodía,\nEn el brillo de la aurora,\nCada instante nos mejora,\nLlena el alma de alegría.\n\nEs la luz que alumbra el día,\nY en la voz de mi musa confía,\nCon la fuerza que nos adora,\nY al espíritu explora,\nUna dulce fantasía,\nQue nos guía.\n\nEl encanto que porfía,\nEn la eterna simetría,\nQue al mirar nos enamora,\nY el corazón atesora,\nToda pura energía,\nQue nos guía.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "musa"
+  }
+}

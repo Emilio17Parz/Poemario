@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hormiguero de cemento.\nMillones de almas juntas\nque no se tocan.\nLa ciudad es la soledad acompañada,\nel ruido que tapa el vacío,\nla prisa hacia ninguna parte.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

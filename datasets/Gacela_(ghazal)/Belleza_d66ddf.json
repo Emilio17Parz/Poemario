@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Crea el hombre con sus manos el arte,\nplasma el alma en la obra de arte.\n\nEterniza el momento fugaz,\ncon el pincel y el color del arte.\n\nLa belleza no muere jamás,\nsi vive presa en la jaula del arte.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "arte"
+  }
+}

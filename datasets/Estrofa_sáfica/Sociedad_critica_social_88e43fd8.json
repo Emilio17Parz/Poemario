@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Todos se esconden tras la máscara,\nfinjen virtudes que jamás tuvieron,\nbaile de sombras que al final del día\ncayeron.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "máscara"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No temo el final de la vida,\nmi alma no está ya vencida.\nLa paz que vendrá,\nsin un solo ¡ah!,\nla calma que ya está cumplida.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Fin"
+  }
+}

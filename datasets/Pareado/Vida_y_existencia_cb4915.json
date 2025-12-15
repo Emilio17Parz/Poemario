@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El 'ahora' es eterno, el don sin un igual (A),\nel tiempo se para, la verdad total (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Ahora"
+  }
+}

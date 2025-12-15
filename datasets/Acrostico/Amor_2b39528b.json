@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "T odo mi ser te reclama,\nE res mi gran ilusión,\n\nA brazando tu dulce calma,\nM ientras late mi corazón,\nO freciéndote esta canción.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "te amo"
+  }
+}

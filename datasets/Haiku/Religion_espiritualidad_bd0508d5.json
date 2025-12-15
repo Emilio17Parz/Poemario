@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Voz susurrada,\nplegaria que se eleva,\nbuscando luz.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "oración"
+  }
+}

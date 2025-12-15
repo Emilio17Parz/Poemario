@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eras mi Faro en la bruma,\nde mi vida sin valor,\nahora todo es ya una espuma,\ny se fue mi gran fulgor.\n\nBusco el norte en mi destino,\ny no encuentro ya la luz,\nes un terrible camino,\nsin tu dulce Santa Cruz.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Faro"
+  }
+}

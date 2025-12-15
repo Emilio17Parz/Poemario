@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un mar,\nde olas que no conocemos,\nmisterio profundo.\nNavegamos en la barca,\nsin saber a dónde vamos.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Misterio"
+  }
+}

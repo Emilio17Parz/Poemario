@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Falta el pan,\ny el afán.\n\nDe la gente,\nindigente,\nque no siente,\nlo que dan.\n\nFalta el pan,\ny el afán.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "pan"
+  }
+}

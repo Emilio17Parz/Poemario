@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El monstruo del pantano de cien ojos y más,\nSalió a la orilla oscura sin poder ver la paz.\nLo mató con un golpe en el centro del pecho,\nEl bien es la fuerza que al mal ha deshecho.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "monstruo"
+  }
+}

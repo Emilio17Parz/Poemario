@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La mente siempre piensa\nbuscando la solución,\ncon una fuerza inmensa\ny una gran dedicación.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "piensa"
+  }
+}

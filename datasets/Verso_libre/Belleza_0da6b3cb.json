@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "También hay belleza en el silencio, en el espacio vacío, en lo que no se dice.\nComo el silencio entre las notas que hace la música, o el blanco en la pintura.\nLa belleza del reposo, de la calma, de la contemplación quieta y profunda.\nDeja que el silencio te revele la belleza que el ruido te oculta.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

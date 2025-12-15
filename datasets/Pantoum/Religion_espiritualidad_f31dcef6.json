@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Entro en el templo,\npara rezar,\ny contemplo,\nel altar.\n\nPara rezar,\ncon humildad,\nel altar,\nde la verdad.\n\nCon humildad,\nentro en el templo,\nde la verdad,\ny contemplo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "templo"
+  }
+}

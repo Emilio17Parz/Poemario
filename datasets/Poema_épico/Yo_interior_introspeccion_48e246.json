@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hay un orador en mi cabeza,\nque nunca calla, siempre opina,\njuzga con dura y gran franqueza,\no me levanta y me ilumina.\nAprender a guiar su discurso,\nes del sabio el mejor recurso.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Voz"
+  }
+}

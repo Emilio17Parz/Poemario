@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hecho imposible\nque rompe con la norma\ndedo de Dios.\nLa ciencia no lo explica\npero el ojo lo ve.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "milagro"
+  }
+}

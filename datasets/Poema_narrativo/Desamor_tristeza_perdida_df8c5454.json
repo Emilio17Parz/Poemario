@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quemó las cartas en la chimenea,\nviendo cómo el papel se hacía gris.\nQuería que el fuego, en su marea,\nborrara el rastro de aquel infeliz.\nCada palabra, aunque el alma lea,\nse consumía hasta la raíz.\nBuscaba limpiar su vieja memoria,\nsacar el dolor de su corazón,\nterminar de una vez con la historia,\ny hallar en el olvido la razón.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

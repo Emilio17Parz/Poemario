@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo ya no cuenta,\ndonde las almas viven,\ny el amor se alimenta.\n\nSe presenta,\nlo que reciben,\nel tiempo ya no cuenta.\n\nSe sustenta,\nlo que conciben,\ny el amor se alimenta.\n\nNo violenta,\nlo que perciben,\nel tiempo ya no cuenta.\n\nSe calienta,\nlo que escriben,\ny el amor se alimenta.\n\nSe fomenta,\nlo que viven,\nel tiempo ya no cuenta,\ny el amor se alimenta.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

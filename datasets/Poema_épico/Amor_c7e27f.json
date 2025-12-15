@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ardió Roma y ardieron los imperios,\npero no quema tanto como tu piel,\nguardiana de todos mis santos misterios,\ndulce veneno y amarga miel.\nSi el mundo se acaba en fuego y dolor,\nque nos encuentre ardiendo en amor.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Fuego"
+  }
+}

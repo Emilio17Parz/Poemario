@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Carga el joven el fusil,\norden de algún general,\nun futuro sutil,\nun destino fatal.\n\nOrden de algún general,\nmatar al hermano,\nun destino fatal,\nmanchando la mano.\n\nMatar al hermano,\ncarga el joven el fusil,\nmanchando la mano,\nun futuro sutil.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "fusil"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Baja del cielo el ángel de luz,\ntoma tu mano y te lleva allá,\ndonde la pena terminará,\nguía del alma.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

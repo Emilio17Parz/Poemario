@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Qué bonita eres\nmujer española,\ncomo la amapola\nque crece sola.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "mujer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El hombre miró el cristal con el rostro encendido,\nLa imagen era falsa, el mundo escondido.\nLa tecnología es el muro que nos separa,\nLa cárcel de pixeles que al alma desgarra.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "tecnología"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la tierra mojada\ncavaron la fría tumba,\ndonde el cuerpo ya descansa\ny el mundo arriba retumba.\nYa no siente el sol caliente,\nni la fiesta ni la rumba,\nsolo espera que el olvido\na su memoria sucumba.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

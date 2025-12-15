@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Un místico que busca a su dios,\nCruzando desiertos baldíos,\nOró con fervor,\nLlenándose de amor,\nY en su alma halló fe, ¡qué desvíos!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "dios"
+  }
+}

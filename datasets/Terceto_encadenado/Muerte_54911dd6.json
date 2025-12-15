@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te llevo guardado en mi memoria,\naunque ya no te encuentres aquí,\neres parte de mi propia historia.\n\nY la huella que dejaste en mí,\njamás se podrá ver borrada,\npues te quise desde que te vi.\n\nEn aquella feliz alborada.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

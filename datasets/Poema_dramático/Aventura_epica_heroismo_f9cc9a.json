@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "[EL HÉROE ENVEJECIDO]\nMe miráis con admiración. Pero mi cuerpo está roto, mi alma está vacía.\nHe matado demasiado, he perdido demasiado. El heroísmo es una carga pesada.\nMe retiro a la montaña, a buscar el silencio que el grito de guerra me robó.\nNo hay paz en la fama. Solo busco un rincón para morir como un hombre, no como un mito.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "retiro"
+  }
+}

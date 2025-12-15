@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando tu imagen besa mi corazón,\nUn fuego nace, quema todo mi ser,\nY en tu mirada encuentro mi querer,\nPerdiendo el rumbo de mi vieja razón.\n\nLa melodía que entona mi pasión,\nEs el reflejo fiel de tu candor,\nY en cada latido crece tu valor,\nAhuyentando sombras de mi corazón.\n\nNo existe duda que empañe mi fervor,\nNi sombra que amenace mi anhelo,\nPues en tu esencia mi ser ya se confunde;\n\nEs este amor, de tan sublime valor,\nUn don precioso que nos brinda el cielo,\nY que enlazados, sé que será **eterno**.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

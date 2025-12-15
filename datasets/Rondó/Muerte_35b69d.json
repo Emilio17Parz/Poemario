@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la piedra fría,\nduerme el recuerdo,\nya no estoy cuerdo,\npor la agonía.\nLa tumba vacía,\nde un hombre lerdo.\nBajo la piedra.\n\nNombre borrado,\npor el tiempo,\nsin contratiempo,\nolvidado.\nHa terminado,\nel pasatiempo.\nBajo la piedra.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

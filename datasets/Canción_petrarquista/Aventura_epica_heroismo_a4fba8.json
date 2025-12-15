@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El campo se estremece\nal golpe de los hierros y las lanzas;\nlas esperanzas\ndonde florece\nla gloria del guerrero o su final;\nsigno fatal\nde sangre y de furor,\ndonde se prueba el ánimo y valor.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

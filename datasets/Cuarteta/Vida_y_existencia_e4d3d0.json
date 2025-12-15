@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos como flores que abren un día,\ncon breve esplendor y rápido fin,\nla vida es una corta melodía,\nun dulce y fugaz jazmín.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Del amor la luz\nEn tu abrazo hallo la paz\nMi ser sonríe",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Horizonte vasto, de línea sutil,\nel fin de la tierra, el borde del mar.\nPromesa incierta de un gran candil,\nel sitio donde quiero anclar.\n¡Oh, límite eterno, de forma gentil,\nme das la fe y el riel!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Horizonte"
+  }
+}

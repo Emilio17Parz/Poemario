@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "[EL ANCIANO]\n(En el asilo)\nMe visitan, me hablan de hoy. Pero el hoy es un fraude. Mi vida está atrás.\nLa memoria es mi única amante fiel. Me lleva a los campos, a los besos perdidos.\nVivo en el pasado, porque el futuro es un hospital y el presente, un olvido.\nLa existencia es el recuerdo. Y yo soy el guardián de mi propio tesoro.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

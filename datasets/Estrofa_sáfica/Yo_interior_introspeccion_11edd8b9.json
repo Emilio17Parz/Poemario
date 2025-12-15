@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No es estar solo, es estar conmigo,\ndiálogo interno sin testigos vanos,\ndonde se estrechan el ayer y el hoy\nlas manos.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

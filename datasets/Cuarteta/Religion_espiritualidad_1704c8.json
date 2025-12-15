@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Entro en la casa de Dios,\npara encontrar la paz,\ny quitarme el disfraz,\nante la vista de los dos.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "templo"
+  }
+}

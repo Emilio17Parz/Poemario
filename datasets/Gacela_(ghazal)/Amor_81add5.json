@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Lleva mis besos el suave viento,\ny trae tu aroma el suave viento.\n\nAcaricia tu piel en este momento,\nmensajero fiel es el suave viento.\n\nSusurra 'te amo' con dulce acento,\nvoz invisible del suave viento.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "viento"
+  }
+}

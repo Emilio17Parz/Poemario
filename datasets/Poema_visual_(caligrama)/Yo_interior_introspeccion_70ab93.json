@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Forma blanca\nsin rostro\nmiedo irreal\nque asusta\nen la noche\nmental\ndel ser.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

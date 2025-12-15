@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es sueño y despertar,\nuna ilusión que se desvanece,\ny que nos gusta siempre recordar.\n\nEs la magia de poder amar,\nlo que en el alma florece,\nla vida es sueño y despertar.\n\nNadie nos puede nunca quitar,\nla esperanza que crece,\ny que nos gusta siempre recordar.\n\nEn el silencio de mi pensar,\ntodo mi ser se estremece,\nla vida es sueño y despertar.\n\nEs un eterno y dulce bogar,\nque el corazón agradece,\ny que nos gusta siempre recordar.\n\nSin miedo a volver a empezar,\ncuando el sol aparece,\nla vida es sueño y despertar,\ny que nos gusta siempre recordar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

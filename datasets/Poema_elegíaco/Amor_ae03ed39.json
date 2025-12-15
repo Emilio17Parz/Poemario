@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se apagó la luz de tu mirada,\nque era el sol de mi existencia,\ncondenado estoy a tu ausencia,\nen esta noche desolada.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "luz"
+  }
+}

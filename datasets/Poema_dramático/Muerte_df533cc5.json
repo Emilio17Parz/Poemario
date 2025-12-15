@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "NOTARIO: Y a mi hijo mayor dejo la casa.\nHIJO 1: (Sonríe) Al fin justicia, la suerte pasa.\nNOTARIO: A mi hija menor, mis joyas y oro.\nHIJA: ¡Gracias papá, mi gran tesoro!\nNOTARIO: Y a mi esposa... mi amor eterno.\nESPOSA: ¿Solo eso? ¡Vaya infierno!\n¿De qué vivo yo con amor?\nHIJOS: Madre, respeta su última labor.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

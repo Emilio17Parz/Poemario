@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Juro proteger al desvalido, ser leal a mi rey, cortés con las damas, valiente en la lid.\nEl código de caballería es mi ley, mi honor es mi vida, mi palabra es sagrada.\nCabalgo por los caminos del mundo deshaciendo entuertos, buscando el Grial.\nSoy el último de una estirpe noble, un soñador armado en un mundo cruel.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

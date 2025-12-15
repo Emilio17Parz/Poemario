@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Somos la arena que el tiempo no borra,\nhuella marcada en la playa sin fin,\nla vida sin ti es soga zorra,\nmi único puerto, mi dulce trajín.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

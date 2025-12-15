@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La herida se abre, no quiere ya cerrar (A),\nla ausencia es un clavo que sabe sangrar (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Herida"
+  }
+}

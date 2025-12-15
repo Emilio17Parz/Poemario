@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me muero si te veo,\ncon otro conversar,\nno lo puedo evitar,\nes un fuerte deseo.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "celos"
+  }
+}

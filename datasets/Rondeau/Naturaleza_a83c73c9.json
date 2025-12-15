@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla el viento fuerte,\nque cambia nuestra suerte,\nmoviendo la nube gris,\nde este viejo país,\nhasta que se vierte.\n\nNadie puede verte,\npero sí temerte,\ncuando eres infeliz,\nSopla el viento.\n\nTe llevas la muerte,\ny la hoja inerte,\nhasta la raíz,\no el maiz,\npara no perderte,\nSopla el viento.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "viento"
+  }
+}

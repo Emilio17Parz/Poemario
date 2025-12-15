@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me quema la viva pasión,\ny no tengo ya razón.\n\nTu cuerpo es toda de miel,\ntu mirada es como hiel,\nsin ser yo un ser fiel,\ny no tengo ya razón.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

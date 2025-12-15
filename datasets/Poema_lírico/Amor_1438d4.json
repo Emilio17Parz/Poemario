@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres el secreto\nque no quiero descifrar.\nEl enigma que vuelve\na mí sin avisar.\n\nTu alma es un país\nde sombra y de cristal,\ny yo un explorador\nque no llega al final.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

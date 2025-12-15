@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Coloso de piedra que tocas las nubes,\nescalera santa por donde te subes.\n¡Honor a tu cima, blanca y serena!,\nque mira la historia libre de pena.\n\nTestigo inmutable del tiempo fugaz,\neres el templo de la eterna paz.\nFirme ante el rayo y el viento feroz,\ntu silencio es el eco de la divina voz.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

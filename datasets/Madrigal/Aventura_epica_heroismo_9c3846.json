@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Árboles viejos que miran y callan,\ncaminos que llevan a ningún lado,\nencantado,\ndonde los elfos y hadas se hallan.\nEntra con miedo y con mucho respeto,\nel secreto,\ndel bosque no se revela a cualquiera,\nen la espera.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

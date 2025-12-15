@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El duelo es camino que hay que cruzar,\nno lo evites ni quieras correr,\ndeja a las lágrimas el rostro lavar,\ny permite a tu alma doler.\nSanar requiere sentir la herida,\npara luego volver a la vida.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Duelo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Visto la armadura,\nde acero brillante.\nCaminante,\nde la altura.\n\nEs la cura,\nconstante.\nVisto la armadura,\nde acero brillante.\n\nLa figura,\ngigante.\nAdelante,\nla pura.\nVisto la armadura.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "armadura"
+  }
+}

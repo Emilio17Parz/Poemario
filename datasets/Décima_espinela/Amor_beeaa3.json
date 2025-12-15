@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La Cena no tiene calma, (A)\nservida con soledad, (B)\nno existe ya la verdad (B)\ndentro de mi pobre alma. (A)\nMi corazón se desarma, (A)\nante el silencio fatal, (C)\nmi vida no tiene ya un par (C)\nen este inmenso dolor, (D)\nme queda solo el fulgor (D)\nde un recuerdo sin igual. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Cena"
+  }
+}

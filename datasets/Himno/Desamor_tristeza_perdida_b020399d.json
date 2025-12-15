@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dama de gris, pálida y suave,\nMelancolía que me acompañas,\ntú que conoces mis entrañas\ny tienes de mi prisión la llave.\n\nA ti consagro mis pensamientos,\nmusa del triste y del perdedor,\nven a inspirar mi canto mayor,\nhecho de suspiros y lamentos.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "gris"
+  }
+}

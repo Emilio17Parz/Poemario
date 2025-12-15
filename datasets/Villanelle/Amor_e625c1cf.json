@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un beso tuyo detiene el reloj,\nborra del mundo todo el sufrimiento,\ny el universo se vuelve un antojo.\n\nBrilla en tus labios un color muy rojo,\nque me regala su dulce aliento,\nun beso tuyo detiene el reloj.\n\nAnte tu boca, mi vida, me arrojo,\ncon la pasión que lleva el fuerte viento,\ny el universo se vuelve un antojo.\n\nYa no me importa ningún desalojo,\nsi en tu cariño encuentro el sustento,\nun beso tuyo detiene el reloj.\n\nQuita de mi alma cualquier viejo enojo,\ndejando solo puro sentimiento,\ny el universo se vuelve un antojo.\n\nCierro los ojos y nada recojo,\nmás que este instante de amor y contento,\nun beso tuyo detiene el reloj,\ny el universo se vuelve un antojo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "beso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra fría que a la vida acecha,\nEl velo oscuro que el final presume,\nSilencio eterno que al mortal consume,\nLa mano helada que la luz desecha.\n\nCon paso firme, sin dejar brecha,\nSe lleva el goce, la pasión, el zumo,\nY en un instante, cual fugaz perfume,\nNuestra existencia en la nada estrecha.\n\nYace el mortal en la tumba fría,\nMorada quieta de silencio y tierra,\nDonde la vida ya no tiene voz.\n\nMas no se apaga toda la osadía,\nPues algo eterno que la fe encierra,\nTrasciende el velo y vence al adiós.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

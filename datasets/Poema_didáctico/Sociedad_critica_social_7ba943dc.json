@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Ponte en los zapatos,\nde los otros por ratos.\nSiente lo que ellos sienten,\naunque a veces te mienten.\nLa empatía une al mundo,\nen un lazo profundo.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "empatía"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oh, amor que fuiste luz, hoy sombra en la memoria,\nrecuerdo tenue que el tiempo desdibuja.\nLa lumbre de tus ojos, ya pálida, es una historia,\nque el alma solitaria en su pena se acurruja.\n\n¿Dónde el fervor que alzaba nuestros vuelos al sol?\n¿El nido tierno de promesas y de besos?\nSe ha vuelto polvo el cielo, en un amargo crisol,\ny el eco de tu nombre, un mar de sin regresos.\n\nLas manos que se unieron, ya no encuentran asilo,\nni el ruego de tu voz consuela mi desvelo.\nCamino entre las sombras, errante y sin sigilo,\nbuscando tu figura bajo un desierto cielo.\n\nMas vive en mi **corazón**, cual flor mustia y doliente,\nla huella de tu paso, de tu aliento fugaz.\nUn templo de recuerdos, un dolor permanente,\nque anhela en la memoria tu efímera paz.\n\nY aunque el adiós profundo me condene a la herida,\ny el frío de tu ausencia congele el porvenir,\nconservo en mi penumbra tu imagen tan querida,\nun canto de silencio que no ha de morir.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

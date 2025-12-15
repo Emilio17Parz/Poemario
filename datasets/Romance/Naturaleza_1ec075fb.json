@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En el jardín de la tarde,\nse abrió la rosa encarnada,\nmostrando su terciopelo\na la abeja enamorada.\nPresume de su belleza,\ntan efímera y soñada,\nsin saber que al otro día\nestará ya marchitada.\nLa belleza de la flor,\nes breve y desesperada,\npero alegra la mirada\nen su vida regalada.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

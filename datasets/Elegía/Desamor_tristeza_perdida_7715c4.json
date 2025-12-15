@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se apagó la vela que me guiaba,\nquedé sumido en la noche total,\nperdido en un bosque de matorral,\ndonde la bestia del miedo acechaba.\n\nBusco la luz que antes me alumbraba,\npero solo encuentro sombra letal,\nun velo negro, espeso y fatal,\nque a mi pobre espíritu lo trababa.\n\nOscuridad densa, cárcel sin reja,\ndonde la dicha triste se aleja.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "oscuridad"
+  }
+}

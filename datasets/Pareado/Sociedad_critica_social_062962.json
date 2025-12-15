@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El pueblo dormido espera la aurora y la luz (A),\nla voz que despierte el peso de la cruz (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Pueblo"
+  }
+}

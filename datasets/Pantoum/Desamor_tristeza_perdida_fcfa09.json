@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cae la lluvia sobre el cristal,\ngris es el cielo de mi pesar.\nTodo recuerdo se vuelve sal,\nllanto que no puedo calmar.\n\nGris es el cielo de mi pesar,\nnubes oscuras cubren el sol.\nLlanto que no puedo calmar,\nmuere la llama, muere el farol.\n\nNubes oscuras cubren el sol,\ntodo recuerdo se vuelve sal.\nMuere la llama, muere el farol,\ncae la lluvia sobre el cristal.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

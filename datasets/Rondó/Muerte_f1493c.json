@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Noto tu ausencia aquí,\nen cada rincón.\nFalta tu canción,\nque yo viví.\n\nLo entendí,\ncon el corazón.\nNoto tu ausencia aquí,\nen cada rincón.\n\nYo te perdí,\nsin razón.\nGran lección,\nque recibí.\nNoto tu ausencia aquí.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

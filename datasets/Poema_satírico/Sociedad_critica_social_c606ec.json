@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hacer el tonto en un vídeo,\npara tener un millón de views,\nun comportamiento tan níveo,\nque sale en las news.\nLa fama dura un segundo,\nen este estúpido mundo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Viral"
+  }
+}

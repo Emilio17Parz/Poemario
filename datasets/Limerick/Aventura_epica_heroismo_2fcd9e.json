@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El duro y valiente marino,\nsu barca sin un gran tino.\nEnfrenta la ola,\nsin estar ya sola,\nsu fe es un gran pergamino.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Marino"
+  }
+}

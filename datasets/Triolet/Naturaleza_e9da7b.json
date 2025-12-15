@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque verde canta,\ncon el viento en las hojas.\nLa vida se levanta,\nel bosque verde canta.\nSu belleza encanta,\nsi tus pies mojas.\nEl bosque verde canta,\ncon el viento en las hojas.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

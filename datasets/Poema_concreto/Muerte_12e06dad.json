@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "M U E R T E\n    U E R T\n     E R T\n      R T\n       T\n        E\n\n       .\n       .\n       .\n\nE T E R N I D A D\nE T E R N I D A D\nE T E R N I D A D\nE T E R N I D A D\nE T E R N I D A D\nE T E R N I D A D\nE T E R N I D A D\nE T E R N I D A D\nE T E R N I D A D",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

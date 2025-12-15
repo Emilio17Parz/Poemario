@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No creas solo en la voz que promete,\nsino en el acto que se compromete.\nEl amor es verbo, es acción diaria,\nno una emoción solitaria.\nObras son amores, dice el refrán,\nlo demás es humo y vano afán.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "actos"
+  }
+}

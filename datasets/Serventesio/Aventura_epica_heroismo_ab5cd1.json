@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La firmeza es su escudo, su fiel armadura leal (A),\nque cubre su pecho de todo temor (B),\nla vida es un canto, el bien total (A),\nla fuente del puro amor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Firmeza"
+  }
+}

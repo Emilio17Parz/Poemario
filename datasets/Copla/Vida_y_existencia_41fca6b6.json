@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminante no te canses\nde buscar tu propio sino,\nque las piedras que te encuentras\nhacen fuerte tu camino.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "camino"
+  }
+}

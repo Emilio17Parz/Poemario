@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El mundo se detiene en este beso,\ny de tu dulce boca quedo preso.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "beso"
+  }
+}

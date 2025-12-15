@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Maldigo la distancia y el camino,\nque alejan tu calor de mi costado,\nmarcando nuestro cruel y duro destino.\n\nMe siento solitario y desolado,\nesperando el momento de volver,\na tenerte en mis brazos abrazado.\n\nY verte florecer.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

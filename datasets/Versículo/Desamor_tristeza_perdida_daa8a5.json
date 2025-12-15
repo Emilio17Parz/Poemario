@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu ausencia es una presencia gigante que ocupa toda la casa, sentándose en las sillas y acostándose en la cama.\nEs un vacío sólido que me golpea en el pecho cada vez que respiro, recordándome que ya no estás.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

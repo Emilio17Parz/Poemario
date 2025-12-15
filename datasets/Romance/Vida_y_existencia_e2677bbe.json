@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Despertamos a la vida\no quizás seguimos sueño,\ncreyéndonos de la tierra\nel absoluto y gran dueño.\nMas todo es ilusión breve,\nun teatro y desempeño,\nque acaba cuando la muerte\nfrunce su pálido ceño.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

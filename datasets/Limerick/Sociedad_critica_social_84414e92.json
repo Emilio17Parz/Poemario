@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "La gente, cegada por el dinero,\nCreía que el mundo era placentero.\nCon fuertes cadenas,\nAtadas sus venas,\nNo vieron que era solo un jaulero.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

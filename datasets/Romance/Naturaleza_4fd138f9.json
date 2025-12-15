@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se levantan los gigantes\nverdes dentro de aquel bosque,\ndonde la luz se filtraba\ncomo en un antiguo kiosco.\nCantan aves escondidas\nsin que nadie las conozca,\ny el musgo viste la piedra\ncon su manto suave y tosco.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

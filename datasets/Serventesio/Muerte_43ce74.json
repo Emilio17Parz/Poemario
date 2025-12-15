@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El adiós sin palabras, el golpe que es mortal y atroz (A),\nel alma se escapa, sin volver más (B),\nla vida se extingue, sin una voz (A),\nla ausencia de toda paz (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Adiós"
+  }
+}

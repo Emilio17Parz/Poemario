@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La vida brota del verde matorral,\nEl canto del ave, su voz sin compás,\nDonde el tiempo danza en serena espiral.\n\nEl sol acaricia el prado ancestral,\nUn suave murmullo de eterna solaz,\nLa vida brota del verde matorral.\n\nPor valles y cumbres, sendero vital,\nReflejos de cielo en su cauce fugaz,\nDonde el tiempo danza en serena espiral.\n\nEl agua que fluye, caudal inmortal,\nDel ancho y profundo caudal de un río tenaz,\nLa vida brota del verde matorral.\n\nEn cada rincón, belleza sin igual,\nUn eco que envuelve la luz de un solaz,\nDonde el tiempo danza en serena espiral.\n\nRenace el espíritu, don natural,\nY fluye constante, con fuerza y veraz,\nLa vida brota del verde matorral,\nDonde el tiempo danza en serena espiral.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "río"
+  }
+}

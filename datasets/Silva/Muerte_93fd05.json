@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tu imagen,\nqueda aquí,\nyo la vi,\nen el margen.\nQue bajen,\nlos santos,\ncon sus cantos,\ny trabajen.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

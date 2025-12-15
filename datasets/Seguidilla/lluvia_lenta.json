@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "lluvia lenta",
   "poema": {
     "texto": "Tiembla el camino\\nbajo la lluvia\\ncada gota cae\\ncomo un suspiro",

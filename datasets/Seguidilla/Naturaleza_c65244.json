@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La nieve cubre todo,\nde blanco manto,\ny el mundo se sume,\nen el encanto.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "blanco"
+  }
+}

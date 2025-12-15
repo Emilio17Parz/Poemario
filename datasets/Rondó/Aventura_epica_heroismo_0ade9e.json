@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo camino,\npor delante,\nel amante,\ndel destino.\nEl vino,\nerrante.\nLargo camino.\n\nAventura,\nque espera,\nla era,\nde la altura.\nLa cura,\nsincera.\nLargo camino.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "camino"
+  }
+}

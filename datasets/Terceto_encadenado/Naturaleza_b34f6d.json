@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuela el ave ligera por el cielo,\nmarcando con sus alas el compás,\nsin conocer la angustia ni el duelo.\n\nNo mira nunca con temor atrás,\nsolo busca la rama y el sustento,\ndonde pueda encontrar un poco más.\n\nDe paz y de alimento.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "pájaro"
+  }
+}

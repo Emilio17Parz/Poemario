@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juras tener una gran pasión,\nque te quema, dices, el corazón;\npero al ver la cuenta del restaurante,\nse te apaga el fuego en un instante.\nMenos llamas y más tarjeta,\n¡Romeo de la billetera prieta!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

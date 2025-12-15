@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si no estás aquí,\nme muero por ti.\n\nLa casa vacía,\nsin tu compañía,\nno tengo alegría,\ndesde que te vi.\nSi no estás aquí,\nme muero por ti.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

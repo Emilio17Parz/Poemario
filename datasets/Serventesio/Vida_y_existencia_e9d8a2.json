@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Danza esta vida, con gracia y con gran dolor (A),\nsin miedo a caer, sin temor al mal (B),\nel cuerpo que fluye, el dulce fulgor (A),\nla forma que es ya inmortal (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Danza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Un soplo al nacer, un grito al sentir,\nLa luz que despierta un alma a soñar,\nCamino incierto que invita a vivir,\nUn lienzo en blanco que empieza a pintar.\n\nEntre risas y lágrimas, crece el fulgor,\nDescubriendo abismos, trepando hacia el sol,\nCada instante efímero, un dulce sabor,\nBuscando en la sombra del miedo un farol.\n\nPreguntas profundas, ¿de dónde venimos?\n¿Qué pulsa este tiempo, qué rumbo nos da?\nEn la arena sutil, los pasos que dimos,\nSe borran con brisa que ya se nos va.\n\nY así, entre la duda y la fe sin medida,\nMiramos al cielo, al vasto existir,\nSi hay una fuerza que traza esta vida,\nUn hilo invisible que el **destino** forjó.\n\nMas no es solo traza, es labrar y forjar,\nCon cada respiro, un sendero crear,\nLa esencia que somos, un eterno vibrar,\nHasta que la calma nos venga a llevar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

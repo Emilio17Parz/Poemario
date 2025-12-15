@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo bello no está afuera,\nes lo que hay que ver,\nde manera verdadera.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "interior"
+  }
+}

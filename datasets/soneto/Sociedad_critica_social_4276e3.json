@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duerme el niño sobre el cartón mojado,\nbajo el neón que anuncia fantasía,\nsin saber si comerá en el día,\ncon el rostro sucio y cansado.\n\nEl mundo pasa rápido y de lado,\nevita ver su triste compañía,\npara no perturbar la alegría,\ndel que vive seguro y resguardado.\n\nLa miseria es la herida de la urbe,\nel espejo roto del progreso,\nque no hay discurso que lo perturbe.\n\nEs un crimen callado y espeso,\nque permite que el hambre nos turbe,\ny nos deje el alma en los huesos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

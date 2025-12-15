@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Enciende cuatro velas\nalrededor de mi caja,\nque la vida es una cuesta\nque al final siempre se baja.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "luz"
+  }
+}

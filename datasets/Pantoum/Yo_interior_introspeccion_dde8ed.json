@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Callo para escuchar,\nla voz de mi interior.\nDejar de luchar,\nsentir el dolor.\n\nLa voz de mi interior,\ngrita la verdad.\nSentir el dolor,\nen la soledad.\n\nGrita la verdad,\ndejar de luchar.\nEn la soledad,\ncallo para escuchar.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

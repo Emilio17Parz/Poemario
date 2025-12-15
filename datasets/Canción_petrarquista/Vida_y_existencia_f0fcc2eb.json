@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida huye y no se detiene una hora,\ny la muerte detrás viene a grandes jornadas,\ny las cosas pasadas\ny las presentes me dan pena ahora.\nEl futuro me causa gran espanto,\ny es tanto el quebranto,\nque si no fuera por piedad divina,\nmi alma ya estaría en la ruina.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Reloj de la Vida, de tic tac constante,\nsu voz me anuncia el tiempo fugaz.\nMe pide vivir, sin ser ya errante,\ncumplir mi destino con dulce solaz.\n¡Oh, esfera breve, de eterna verdad,\nme das la fe y la caridad!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Reloj"
+  }
+}

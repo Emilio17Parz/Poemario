@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "SALICIO: Llaman pobreza a nuestra cabaña,\nlos que en palacios de mármol habitan.\nNEMOROSO: Sus almas huecas a gritos tiritan,\nsu riqueza es solo una vil artimaña.\nPobre es aquel que teniendo de todo,\nsiempre camina cubierto de lodo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ya blanquea mi pelo\ncon la nieve de los años,\npero no tengo recelo\nde subir nuevos peldaños.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "pelo"
+  }
+}

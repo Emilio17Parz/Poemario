@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Desfile de trajes negros,\ny caras de circunstancia,\nsaludos falsos y suegros,\nen esta triste estancia.\nTodos dicen 'era un santo',\naunque fuera un espanto.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Funeral"
+  }
+}

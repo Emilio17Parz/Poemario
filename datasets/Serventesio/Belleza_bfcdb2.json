@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La mirada de un niño,\nes bella y pura,\nllena de cariño,\ny de ternura.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "inocencia"
+  }
+}

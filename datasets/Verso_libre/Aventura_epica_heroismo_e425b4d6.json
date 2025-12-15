@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "He emprendido el viaje hacia Ítaca, sabiendo que el camino es largo y lleno de aventuras.\nNo temo a los lestrigones ni a los cíclopes, ni a la ira del dios del mar Poseidón.\nLlevo en mi pecho la imagen de mi hogar y la esperanza del retorno como una brújula.\nCada puerto es un descubrimiento, cada tormenta una prueba, cada día una odisea.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

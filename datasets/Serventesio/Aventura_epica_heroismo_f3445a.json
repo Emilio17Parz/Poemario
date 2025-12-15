@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Navegar el océano,\nes cosa de valientes,\nlejos del plano,\ny de las gentes.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "mar"
+  }
+}

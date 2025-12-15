@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La legua que nos parte es infinita,\nno hay puente que la pueda atravesar,\ny el tiempo nuestro amor debilita.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

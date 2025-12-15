@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No me completas,\nporque no estaba roto.\nPero me expandes.\nContigo soy más yo,\ncomo si me hubieras dado\nuna habitación extra en el alma\nque no sabía que tenía.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "completitud"
+  }
+}

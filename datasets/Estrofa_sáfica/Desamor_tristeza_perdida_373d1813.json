@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dicen que el tiempo curará este daño,\npero los días son eternos siglos,\ny no se cierra la cicatriz roja\nde mis peligros.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

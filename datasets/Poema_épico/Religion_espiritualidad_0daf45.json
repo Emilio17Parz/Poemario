@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mesa de piedra para la ofrenda,\ndonde lo humano toca lo divino,\nlugar de pacto y de prebenda,\nsangre y pan, agua y vino.\nCentro del rito, foco de luz,\ndonde se planta la santa cruz.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Altar"
+  }
+}

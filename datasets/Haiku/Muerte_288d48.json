@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Risa de hueso\nburla de la belleza\ntodo termina.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "calavera"
+  }
+}

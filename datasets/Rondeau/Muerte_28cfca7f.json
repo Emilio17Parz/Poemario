@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El viaje sin fin, con hondo rumor,\nNos llama a todos, con frío pavor,\nLa luz se diluye, la forma se esfuma,\nY el cuerpo regresa a su vieja penumbra,\nCayendo el espíritu en triste estupor.\n\nNo hay grito que frene su negro fulgor,\nNi amor que detenga su rudo rigor,\nTan solo la tierra, que al fin nos derrumba,\nEl viaje sin fin.\n\nNos guía al umbral de un sueño mayor,\nDonde el silencio es el único orador,\nAllí, donde el tiempo jamás se vislumbra,\nDescansa la carne, en su eterna **tumba**,\nEl alma se eleva, sin miedo al dolor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

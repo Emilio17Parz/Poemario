@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Libre es el alma,\nque se desprende del cuerpo,\nsin más ataduras.\nBusca la luz de la aurora,\nla nueva vida que espera.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

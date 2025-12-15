@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Blancas ovejas en la ladera,\ncomo nubes que tocan tierra,\npaz que el corazón encierra,\nen esta vida ganadera.\n\nPastan la hierba verdadera,\nbajo el ojo del mastín fiel,\nmientras yo pruebo la miel,\nde esta calma duradera.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rebaño"
+  }
+}

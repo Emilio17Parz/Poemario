@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Emprende el largo viaje,\ncon sueños de equipaje,\ny mucho coraje.\nEmprende el largo viaje,\nv viendo el paisaje,\ndel mundo salvaje.\nEmprende el largo viaje,\ncon sueños de equipaje.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

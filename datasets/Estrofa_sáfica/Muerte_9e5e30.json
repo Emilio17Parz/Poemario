@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cae la gota de sal y dolor,\npor la mejilla del que se queda,\ny el corazón se vuelve moneda,\npago de ausencia.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

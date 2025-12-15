@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Somos el puente,\nentre pasado y luz,\nque el hijo cruza.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "hijo"
+  }
+}

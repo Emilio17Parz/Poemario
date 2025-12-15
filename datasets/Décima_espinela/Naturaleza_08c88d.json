@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Todo renace,\ncon alegría,\ny la poesía,\nse hace.\nEl lazo enllace,\nflor con flor,\ny el amor,\nvuelve a latir,\nal sentir,\nel calor.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

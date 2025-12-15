@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "El velo tenue de la fe se eleva,\ny en el silencio, el hondo espíritu clama,\nuna verdad que el corazón renueva.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

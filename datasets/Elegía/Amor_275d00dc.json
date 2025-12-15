@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oh, amor que fuiste sol y ahora eres sombra fría,\nespejo de lo ausente, eco sin voz ni abrazo.\nMi mundo, desolado, la luz ya no confía,\ny cada amanecer es un dolor que trazo.\n\nRecuerdo el fuego tierno, la mano que me guiaba,\nla paz de tu mirada, puerto de mi deriva.\nTu aliento, una caricia que el tiempo no borraba,\npromesa de una vida que se creyó cautiva.\n\nMas hoy mi **alma**, descalza, por ruinas se pasea,\nbuscando la silueta que el viento se llevó.\nY aunque la muerte cante su fúnebre marea,\ntu esencia, inextinguible, en mí se anidó.\n\nNo hay adiós que borre la huella de tu paso,\nni olvido que apague la llama de este amar.\nEres la melodía que resiste al ocaso,\nun eco eterno, un sueño que no dejará de estar.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "alma"
+  }
+}

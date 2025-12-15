@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sueño contigo,\neres mi abrigo.\n\nNoche serena,\nquita la pena,\ny la cadena,\ndel castigo.\nSueño contigo,\neres mi abrigo.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

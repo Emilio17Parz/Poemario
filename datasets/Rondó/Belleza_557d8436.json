@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte puro,\nes seguro,\nque toca,\ny provoca,\nlo duro.\n\nSin muro,\nni conjuro,\nen la boca,\nEl arte puro.\n\nLo juro,\ny lo apuro,\nque evoca,\ny choca,\nel futuro,\nEl arte puro.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "arte"
+  }
+}

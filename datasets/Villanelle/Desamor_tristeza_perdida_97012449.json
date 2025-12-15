@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aquí termina nuestra historia,\ncon un adiós seco y rotundo,\nborrando toda la memoria.\n\nFue una batalla ilusoria,\nperder el centro de mi mundo,\naquí termina nuestra historia.\n\nSe acabó la vana gloria,\nde un sentimiento profundo,\nborrando toda la memoria.\n\nQueda la estela mortuoria,\nde un fracaso vagabundo,\naquí termina nuestra historia.\n\nLa decisión perentoria,\nme deja triste y meditabundo,\nborrando toda la memoria.\n\nSin pena ni dedicatoria,\nme hundo en lo más inmundo,\naquí termina nuestra historia,\nborrando toda la memoria.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "final"
+  }
+}

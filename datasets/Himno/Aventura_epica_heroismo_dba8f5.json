@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Velas al viento hacia el mar infinito,\ndonde se escribe del hombre el gran mito!\nDejar la orilla y lo conocido,\npor buscar mundos que nadie ha medido.\n\n¡Salve, aventura de rumbo incierto,\nque nos alejas del seguro puerto!\nEl horizonte nos llama y nos guía,\nhacia la luz de un lejano día.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

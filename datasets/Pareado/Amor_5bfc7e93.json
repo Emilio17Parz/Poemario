@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tus ojos veo mi sol,\nbrillando con inmenso arrebol.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "luz"
+  }
+}

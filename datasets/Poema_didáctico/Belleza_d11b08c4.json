@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Aprecia del mundo el diverso color,\nno quieras que todo sea igual;\nla variedad es lo natural,\ny le da a la vida su sabor.\nEn la mezcla de cada matiz,\nestá la belleza de la raíz.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "color"
+  }
+}

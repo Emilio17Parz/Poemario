@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Marca el destino cruel,\nscrito en el papel,\nla voz de la vidente,\nque suena en la mente,\namarga como hiel.\n\nEs el alto nivel,\nque exige el dintel,\nde la vida pendiente,\nMarca el destino.\n\nNadie escapa de él,\nni rompe el cordel,\nde la parca impaciente,\nque espera sonriente,\nen el carrusel,\nMarca el destino.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "destino"
+  }
+}

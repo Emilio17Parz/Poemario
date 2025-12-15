@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El alma era un pájaro en una jaula de hueso,\nBuscando la ventana para huir de ese peso.\nUn día se escapó, sin que nadie lo viera,\nEl alma es el pájaro que siempre espera.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "alma"
+  }
+}

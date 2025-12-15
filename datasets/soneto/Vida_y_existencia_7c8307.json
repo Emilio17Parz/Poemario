@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se teje la red del engaño,\ncon hilos de seda y color,\nocultando el negro dolor,\ny causando el terrible daño.\n\nVivimos en un mundo extraño,\ndonde fingir es el valor,\ny el falso se vuelve señor,\nsubiendo peldaño a peldaño.\n\nLa máscara cubre la faz,\nse vende ilusión por certeza,\ny se pierde la interna paz.\n\nCaerá con su propia perez,\nel castillo de naipes falaz,\nmotrando su vil pobreza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mentira"
+  }
+}

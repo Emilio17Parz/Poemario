@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dicen que todo acaba, pero yo siento en el pecho un amor que tiene vocación de piedra y de montaña.\nAlgo en nosotros ha tocado la eternidad, creando una energía que seguirá vibrando cuando ya no seamos polvo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

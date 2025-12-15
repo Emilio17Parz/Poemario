@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ciudad dorada de paz eterna,\ndonde no existe llanto ni dolor,\nla luz divina, suave y tierna,\nbaña a las almas con su amor.\nMeta final del peregrino,\npremio glorioso del destino.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Cielo"
+  }
+}

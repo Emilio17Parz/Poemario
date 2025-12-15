@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Habla mi alma\nen silencio,\ncon calma.\nHabla mi alma,\nla ensalma,\npresencio.\nHabla mi alma\nen silencio.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "alma"
+  }
+}

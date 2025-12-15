@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor, un sol que el alma ilumina,\nUn fuego eterno que mi ser abraza,\nEn cada verso tu dulce doctrina,\nMi corazón solo por ti late y rebasa.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

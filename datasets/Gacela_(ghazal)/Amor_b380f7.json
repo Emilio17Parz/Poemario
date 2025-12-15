@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres el faro, mi eterna luz,\nquitas la sombra y mi eterna luz.\n\nNo temo a la muerte ni cargo la cruz,\nsi alumbras mis pasos, mi eterna luz.\n\nBrillas en todo y el sol trasluz,\neres mi guía, mi eterna luz.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "luz"
+  }
+}

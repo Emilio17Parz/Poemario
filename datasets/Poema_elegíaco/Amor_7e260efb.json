@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El silencio ocupa tu lugar,\nya no hay risas ni susurros tiernos,\nvivimos ahora en eternos inviernos,\nsin la esperanza de volver a amar.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

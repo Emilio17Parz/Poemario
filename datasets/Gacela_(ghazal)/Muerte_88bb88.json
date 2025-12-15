@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Emprendo solo el último viaje,\nsin maletas el último viaje.\n\nCruzo la orilla hacia lo desconocido,\nbarca sin remos del último viaje.\n\nDejo la orilla de lo que amé,\nhacia la sombra del último viaje.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

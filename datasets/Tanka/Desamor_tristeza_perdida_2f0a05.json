@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cuarto vacío\nnadie responde al grito\nsolo el silencio.\nLa soledad abraza\ncon su frío mortal.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

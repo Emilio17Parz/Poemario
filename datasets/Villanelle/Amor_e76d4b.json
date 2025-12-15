@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu suave mano calma mi tormenta,\ncon esa paz que solo tú me das,\ny mi alma en tu cariño se alimenta.\n\nEs una luz que poco a poco aumenta,\nborrando el miedo que dejé detrás,\ntu suave mano calma mi tormenta.\n\nNinguna duda ya se me presenta,\ncuando a mi lado caminando vas,\ny mi alma en tu cariño se alimenta.\n\nLa dicha pura mi razón fomenta,\nal ver que nunca te arrepentirás,\ntu suave mano calma mi tormenta.\n\nEl corazón feliz se complementa,\ncon el amor que tú le brindarás,\ny mi alma en tu cariño se alimenta.\n\nEsta pasión que el cielo nos consienta,\nno morirá, ni acabará jamás,\ntu suave mano calma mi tormenta,\ny mi alma en tu cariño se alimenta.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ternura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hacen el giro,\nlos cuerpos,\nlos tiempos,\nque miro.\nUn suspiro,\nlerdos.\nHacen el giro.\n\nMovimiento,\nde armonía,\nalegría,\ny viento.\nEl sentimiento,\ndel día.\nHacen el giro.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "giro"
+  }
+}

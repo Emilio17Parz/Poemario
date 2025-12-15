@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "El hombre cree ser libre al fin,\nPersigue un sueño sin confín,\nMas ignorando su destino ruin,\nArrastra invisibles cadenas de platín.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

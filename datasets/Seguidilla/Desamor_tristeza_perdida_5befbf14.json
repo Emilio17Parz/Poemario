@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quisiera que el olvido\nviniera presto,\nborrando de mi mente\ntu infame gesto.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

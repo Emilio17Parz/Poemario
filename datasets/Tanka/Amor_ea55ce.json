@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hacemos un nido\nen medio del gran bullicio,\nun refugio a dos.\nDonde el tiempo no nos toque,\ny el amor sea la ley.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Nido"
+  }
+}

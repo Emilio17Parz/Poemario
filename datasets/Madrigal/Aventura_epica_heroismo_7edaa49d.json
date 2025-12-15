@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El héroe parte, al alba sutil,\nCon alma en llamas, de férreo perfil,\nForjando un nombre, audaz y leal.\n\nCruza montañas de oscuro azar,\nOcéanos bravos, sin vacilar,\nForjando un nombre, audaz y leal.\n\nEnfrenta al **dragón** de escamas mil,\nCon golpe certero, puño viril,\nForjando un nombre, audaz y leal.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

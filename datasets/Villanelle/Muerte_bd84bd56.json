@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volvemos siempre a ser solo polvo,\nceniza gris que lleva el viento,\ny en la materia me disuelvo.\n\nEs el destino que yo resuelvo,\ncon resignación y sentimiento,\nvolvemos siempre a ser solo polvo.\n\nA mi origen natural vuelvo,\nterminando el padecimiento,\ny en la materia me disuelvo.\n\nEn la natura me desenvuelvo,\nsin pensamiento ni aliento,\nvolvemos siempre a ser solo polvo.\n\nTodo lo que fui lo devuelvo,\nen este último momento,\ny en la materia me disuelvo.\n\nEl ciclo eterno lo absuelvo,\ncon mi final desvanecimiento,\nvolvemos siempre a ser solo polvo,\ny en la materia me disuelvo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

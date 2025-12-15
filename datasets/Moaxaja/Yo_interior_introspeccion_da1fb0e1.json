@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro el espejo,\ny su reflejo.\n\nVeo mi cara,\nque declara,\ny repara,\nlo viejo.\n\nMiro el espejo,\ny su reflejo.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

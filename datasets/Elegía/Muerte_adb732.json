@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Libro de historias cerrado,\nvoz de la sabiduría,\nque llenaba de alegría,\nel tiempo pasado.\n\nAbuelo, te has marchado,\ncon tu paso lento y día,\ndejando la silla vacía,\ny el cuento inacabado.\n\nRaíz vieja que descansa,\nen una paz inmensa.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "abuelo"
+  }
+}

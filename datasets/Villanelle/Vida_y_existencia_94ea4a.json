@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La verdad nos hace libres,\nde toda mentira,\ncon sus fuertes calibres.\n\nQue no vibres,\ncon la ira,\nla verdad nos hace libres.\n\nNo equilibres,\nla pira,\ncon sus fuertes calibres.\n\nAunque te fibles,\nen la mira,\nla verdad nos hace libres.\n\nSus aljibes,\nse estira,\ncon sus fuertes calibres.\n\nLos jengibres,\nde la lira,\nla verdad nos hace libres,\ncon sus fuertes calibres.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

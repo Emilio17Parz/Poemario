@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "Belleza",
   "poema": {
     "texto": "Viento de otoño\nmueve las hojas secas y cruje.\nEstética en el aire.",

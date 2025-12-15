@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Fría la piedra que calor simula,\ncuerpo perfecto que el cincel libera,\nguarda la gracia del modelo vivo\ny espera.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El velo oscuro cae\nsobre el fulgor de la existencia efímera,\napagando la luz\nque brillaba con tanta intensidad.\nLa carne se desmorona,\nceniza al soplo del tiempo inexorable,\ny el espíritu vuela\na regiones ignotas, incomprensibles.\n\nNo hay grito ni lamento\nque detenga su marcha silenciosa,\nni súplica que incline\nsu voluntad de hierro, inquebrantable.\nEs la quietud profunda\nque espera a todo ser bajo el sol,\nla promesa cumplida\nde un reposo sin sueños ni fatiga.\n\nSe cierran los párpados,\ncesan los ruidos del mundo y sus afanes,\nel corazón ya mudo,\ndetiene su latido persistente.\nUna paz fría y vasta\nse extiende por la estancia desolada,\ndonde fue la alegría,\ndonde anidó el dolor y la esperanza.\n\nNo queda más que el eco\nde las palabras dichas, de las risas,\nel rastro desdibujado\nde una presencia amada, ahora ausente.\nY ante el abismo insondable,\nla pregunta sin voz que se levanta,\nsolo la verdad cruda:\ntodo tiene su claro y rotundo **fin**.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "fin"
+  }
+}

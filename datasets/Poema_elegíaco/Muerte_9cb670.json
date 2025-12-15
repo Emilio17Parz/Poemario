@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llegó el juicio, y el alma se queda sola sin amor y fe,\nla vida sin la calma, sin saber el qué.\nEl bien y el mal pesan en la cruel balanza ya,\nla sombra constante que el tiempo me da.\n\nNo hay un perdón, no hay una razón,\nla vida sin la calma, sin ninguna opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "juicio"
+  }
+}

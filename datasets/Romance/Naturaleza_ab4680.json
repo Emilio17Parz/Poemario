@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se despeña el agua clara\ndesde la altura mayor,\nrompiendo en espuma blanca\ncon estruendo y con furor.\nLa cascada canta siempre\nsu canción de gran valor,\nlavando las piedras viejas\ncon su líquido amor.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "cascada"
+  }
+}

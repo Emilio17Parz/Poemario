@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un héroe valiente, con lanza y con fe,\nA un fiero **dragón** combatió por doquier.\nSu espada brilló,\nEl mal sucumbió,\nY el reino en paz pudo por fin florecer.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

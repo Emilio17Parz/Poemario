@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se rompe el lazo\ncaemos al abismo\nseparación.\nCada uno por su lado\ncon el alma partida.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "ruptura"
+  }
+}

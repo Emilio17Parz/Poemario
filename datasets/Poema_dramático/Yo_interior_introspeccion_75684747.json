@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "VOZ 1: Hazlo, no tengas miedo al error.\nVOZ 2: Detente, es peligroso avanzar.\nYO: ¡Callad las dos! ¡Dejadme pensar!\nMi mente es un campo de terror.\nEntre el deseo y la precaución,\nbusco mi propia salvación.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "mente"
+  }
+}

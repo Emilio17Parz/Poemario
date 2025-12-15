@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La envidia es un gran mal,\nun veneno mortal.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "veneno"
+  }
+}

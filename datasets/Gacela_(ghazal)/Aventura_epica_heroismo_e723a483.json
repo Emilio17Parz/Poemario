@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Brilla bajo el sol fuerte la fiel espada,\ncompañera en la lucha, mi gran espada.\n\nDefiende la justicia y el noble honor,\nno tiembla en la batalla la dura espada.\n\nSerá mi salvación o mi perdición,\nel filo decidido de esta espada.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "espada"
+  }
+}

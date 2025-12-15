@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Lloro la ausencia de tu cuerpo amado,\nvacío está el lecho que compartimos,\nsolo quedan las sombras de lo que fuimos,\ny un frío eterno en mi costado.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Aprende del campo y la flor,\nmaestros del puro color.\nNo hay artista que supere,\nlo que la tierra sugiere.\nLa naturaleza es la guía,\nde la perfecta armonía.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bálsamo suave que cura la herida,\ndejando la pena ya dormida.\n¡Honor al Olvido que trae consuelo!,\ny limpia las nubes de nuestro cielo.\n\nNo es la nada, es la paz de la mente,\nque deja de sufrir eternamente.\nBendita la niebla que todo lo cubre,\ny que el descanso al fin nos descubre.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

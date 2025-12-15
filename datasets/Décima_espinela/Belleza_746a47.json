@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No hay más belleza,\nque el campo verde,\ndonde se pierde,\nla tristeza.\nLa naturaleza,\nes el pintor,\nde gran valor,\nque nos regala,\nsu inmensa gala,\ny su color.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Río que no se detiene,\nfluyendo hacia el mar,\nsin poder regresar,\nlo que va y viene.\nOro molido,\ntan querido.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

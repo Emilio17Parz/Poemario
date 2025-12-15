@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sabor dulce y embriagante,\nel triunfo tras la pelea,\ncuando la bandera ondea,\ny el enemigo es distante.\n\nSe siente el pecho gigante,\ny el pueblo vitorea,\nla hazaña que se crea,\nen ese instante brillante.\n\nMas la victoria es fugaz,\ny hay que saber llevarla,\ncon humildad y con paz.\n\nNo dejarse emborracharla,\nni perder el antifaz,\npara poder conservarla.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El hálito que cesa, un frío velo,\nLa luz que fue, al fin, disuelta en el cielo.\nLa tierra fría ofrece su regazo,\nDo el alma encuentra su postrer abrazo.\n\nEn ese umbral, el ser ya no se mueve,\nUn sueño denso que al fin nos envuelve.\nLa senda ignota, más allá del vado,\nO el dulce germen de *eternidad* que he hallado.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

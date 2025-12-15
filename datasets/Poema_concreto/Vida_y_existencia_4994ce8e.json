@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "V I D A\n                     E X I S T E N C I A\n                    S E R   C O N C I E N T E\n                   R E A L   P R E S E N T E\n                  T I E M P O   Q U E   P A S A\n                 M O M E N T O   D E S P I E R T O\n                E S P A C I O   Q U E   O C U R R E\n\n                             s u e ñ o\n\n                E S P A C I O   Q U E   S U S P I R A\n                 M O M E N T O   D O R M I D O\n                  T I E M P O   Q U E   F L U Y E\n                   R E A L   I M A G I N A D O\n                    S E R   I N C O N S C I E N T E\n                     E X I S T E N C I A   O T R A\n                       V I D A",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

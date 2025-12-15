@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Fuerte brillo da,\nla estrella lejana,\nen la mañana,\nque se nos va.\n\nLuz que está,\ntan cercana,\ny nos guiará.\nFuerte brillo.\n\nNadie podrá,\nromper la ventana,\nni la persiana,\ndonde estará,\nel sol de allá.\nFuerte brillo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

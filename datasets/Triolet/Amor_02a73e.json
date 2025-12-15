@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres mi flor más bella,\ndel jardín de la pasión.\nBrillas como una estrella,\neres mi flor más bella.\nDejando tu dulce huella,\nen mi pobre corazón.\nEres mi flor más bella,\ndel jardín de la pasión.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "flor"
+  }
+}

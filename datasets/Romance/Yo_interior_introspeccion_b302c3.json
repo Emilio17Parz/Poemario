@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo mis sueños secretos\nen un cajón de mi mente,\ndonde nadie pueda verlos\nni la gente indecente.\nSon mis alas para volar\na un mundo diferente,\ndonde soy libre y feliz\ny eternamente valiente.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

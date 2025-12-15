@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bailamos lento sin ver el suelo,\ngirando en círculos de ilusión.\nTocas mis manos, tocas el cielo,\nen el compás de nuestra canción.\n\nGirando en círculos de ilusión,\ntus ojos brillan como luceros.\nEn el compás de nuestra canción,\nsomos dos locos, somos viajeros.\n\nTus ojos brillan como luceros,\ntocas mis manos, tocas el cielo.\nSomos dos locos, somos viajeros,\nbailamos lento sin ver el suelo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "baile"
+  }
+}

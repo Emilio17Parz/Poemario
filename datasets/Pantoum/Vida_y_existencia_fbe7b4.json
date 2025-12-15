@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se aprende del error,\nmaestro duro y fiel,\nsuperando el terror,\na probar la hiel.\n\nMaestro duro y fiel,\nque deja cicatriz,\na probar la hiel,\ncon un nuevo matiz.\n\nQue deja cicatriz,\nse aprende del error,\ncon un nuevo matiz,\nsuperando el terror.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lección"
+  }
+}

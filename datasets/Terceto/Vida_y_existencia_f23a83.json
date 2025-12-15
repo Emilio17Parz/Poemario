@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El alma es el faro, la luz interior (A),\nque guía al cuerpo en la tempestad (A),\nla fuente de todo fulgor (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "   Un beso   \n dulce y rojo \n   sellado.   ",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "beso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo se consume hasta la ceniza,\nla carne y el hueso se irán a perder,\nla vida es una rápida brisa,\nun simple y fugaz atardecer.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Ceniza"
+  }
+}

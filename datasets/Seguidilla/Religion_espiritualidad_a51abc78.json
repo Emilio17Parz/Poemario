@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Elevo mi plegaria,\nhumilde rezo,\ny con nueva esperanza\nel día empiezo.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

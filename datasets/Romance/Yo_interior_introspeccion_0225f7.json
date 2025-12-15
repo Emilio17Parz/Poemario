@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cargo con mi pasado\ncomo una mochila vieja,\nllena de piedras y flores\nque el tiempo me deja.\nA veces pesa y duele\ny otras veces aconseja,\npero es parte de mi ser\ny de mi vida pareja.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

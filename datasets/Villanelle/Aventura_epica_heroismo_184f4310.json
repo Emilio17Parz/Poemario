@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Surca el barco la mar bravía,\nbuscando tierra lejana,\nsin perder la valentía.\n\nLucha contra la agua fría,\ny la tormenta temprana,\nsurca el barco la mar bravía.\n\nEl capitán es el guía,\nde la tripulación humana,\nsin perder la valentía.\n\nNadie sabe si vería,\nla luz de la mañana,\nsurca el barco la mar bravía.\n\nEs la aventura su vía,\ny la libertad su hermana,\nsin perder la valentía.\n\nHasta llegar a la bahía,\nde la costa soberana,\nsurca el barco la mar bravía,\nsin perder la valentía.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mar"
+  }
+}

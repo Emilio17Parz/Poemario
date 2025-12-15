@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vago por los pasillos de ayer,\nuna sombra que nadie percibe,\nun recuerdo que ya no vive,\npero se niega a desaparecer.\n\nQuisiera volver a tener ser,\nsentir la sangre que revive,\npero el destino cruel me prohíbe,\nvolver a amar y volver a ver.\n\nSoy el eco de lo que fui,\nun susurro en la habitación,\nque llora lo que perdí.\n\nBuscando el perdón y la unión,\npero atrapado me vi,\nen esta etérea prisión.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

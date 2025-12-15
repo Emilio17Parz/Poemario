@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Repito tu nombre bello,\ncomo un eco en la cueva de mi pecho,\nes mi único destello,\nen este mundo gris y tan estrecho.\nSuena a gloria bendita cuando lo digo,\nsi estás conmigo,\nque no se borre nunca de mi mente,\ntan presente.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "eco"
+  }
+}

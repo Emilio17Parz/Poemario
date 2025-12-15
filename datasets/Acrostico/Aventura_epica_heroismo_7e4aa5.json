@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fuerza que quema,\nUne destrucción.\nEterno dilema,\nGran confusión.\nOscuro problema.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "FUEGO"
+  }
+}

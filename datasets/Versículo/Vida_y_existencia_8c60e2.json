@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No espero que la fortuna llame a mi puerta vestida de gala; prefiero construir mi propia casa ladrillo a ladrillo.\nLa suerte es el nombre que los perezosos le dan al sudor de los que se levantan antes que el sol.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

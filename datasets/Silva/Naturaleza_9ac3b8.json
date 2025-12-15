@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque es silencio, la umbría sin par (11),\ndonde el alma halla su dulce hogar (11).\nEl aire es de vida, que sabe sanar (11),\nla forma de al fin amar (7).\nLa fuerza que ayuda a volar (7).",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "Bosque Sagrado"
+  }
+}

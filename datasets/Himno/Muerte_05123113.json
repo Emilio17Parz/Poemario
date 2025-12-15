@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Canto al polvo, origen y final,\nmateria humilde de la creación,\nque nos iguala en una nación,\nlejos del rango y del pedestal.\nSigno de nuestra fragilidad,\ny de la cósmica unidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

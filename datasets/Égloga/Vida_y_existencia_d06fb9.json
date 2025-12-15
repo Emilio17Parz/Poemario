@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dichoso aquel que vive sencillo,\nlejos de la corte y su engaño.\nCuidando su propio rebaño,\ncomiendo pan y tomillo.\nSin oro en el bolsillo,\npero libre de daño.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "tomillo"
+  }
+}

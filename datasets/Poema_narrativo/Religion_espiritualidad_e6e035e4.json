@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El gigante reía,\ncon su armadura,\ny su estatura,\nque miedo metía.\nEl pastor tomó,\nuna piedra del río,\ny con gran brío,\nla lanzó.\nGoliat cayó muerto,\nen el campo abierto.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "valor"
+  }
+}

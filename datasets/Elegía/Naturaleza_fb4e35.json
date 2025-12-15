@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sol que te vas con tu ardiente fulgor,\ndejas la noche sin piedad.\nTu energía se acaba, sin un gran dolor,\nel alma sin caridad.\nTu esfera es sombra, el calor se fue,\nla pena que el tiempo ve.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Sol"
+  }
+}

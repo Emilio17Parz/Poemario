@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Gira la rueda gris de cada día,\nmismos gestos, palabras y lugares,\nlos pesares,\nde una vida sin sal ni melodía.\nRompe el círculo, sal de la cadena,\nvale la pena,\nbuscar la novedad y la sorpresa,\nen la mesa.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "rueda"
+  }
+}

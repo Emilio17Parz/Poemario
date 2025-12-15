@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Brilla en lo alto la divina luz,\nrompiendo nieblas de la noche oscura,\ny nos ofrece la promesa pura\nque fue sellada en la sagrada cruz.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "luz"
+  }
+}

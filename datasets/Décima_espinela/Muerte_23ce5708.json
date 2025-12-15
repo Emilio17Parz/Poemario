@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Visto de negro el alma\npor la pena que me embarga,\nes una condena larga\nque me roba la calma.\nNadie me da la palma\nde consuelo y de paz,\nla muerte con su disfraz\nse llevó lo que quería,\ny dejó la vida mía\nsin su brillo fugaz.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

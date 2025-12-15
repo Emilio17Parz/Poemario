@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Montañas llaman ya,\nEl camino es incierto,\nMi espada reluce.\nPor el más sagrado honor,\nValiente, el héroe avanza.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "honor"
+  }
+}

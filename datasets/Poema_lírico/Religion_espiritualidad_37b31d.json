@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La cruz no es madera,\nes la carga del mal.\nLa vida que me era\nsin signo vital.\n\nEs el duro peso\ndel dolor y la fe,\nmi único beso\nsin ningún por qué.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

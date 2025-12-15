@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Crece donde no debe,\nen la grieta del suelo,\nsiempre se atreve,\na alzar su pequeño vuelo.\nLa cortas y vuelve a salir,\nsu misión es insistir.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Hierba"
+  }
+}

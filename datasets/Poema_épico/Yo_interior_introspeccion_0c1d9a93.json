@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Rompí el espejo,\nde la vanidad,\nvi mi verdad,\nen el reflejo.\nYa no soy viejo,\nni tengo edad,\nsoy la unidad,\ndel consejo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

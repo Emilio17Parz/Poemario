@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Catedral viviente de sombra y misterio,\ndonde la naturaleza tiene su imperio.\n¡Honor a tus troncos, columnas de fe!,\nrefugio de todo lo que vive y ve.\n\nPulmón del planeta, respiro sagrado,\npor siglos y siglos has sido venerado.\nQue el hacha no toque tu verde esplendor,\nsantuario de vida, de paz y de amor.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

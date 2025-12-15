@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nuestro amor nunca va a morir,\nsin fin ni huir.\n\nLa vida ya se ha dado,\nel camino está trazado,\nsin ningún otro lado,\nsin fin ni huir.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

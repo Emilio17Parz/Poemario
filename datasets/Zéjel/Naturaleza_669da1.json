@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nube blanca pasa,\nsobre mi casa.\n\nAlgodón del cielo,\nque alza el vuelo,\nsin consuelo,\nse retrasa.\nNube blanca pasa,\nsobre mi casa.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "nube"
+  }
+}

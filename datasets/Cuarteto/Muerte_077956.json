@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El viento se lleva la última voz,\nel soplo final de la corta edad,\nla vida es un breve y triste arroz,\nla eterna y cruel verdad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

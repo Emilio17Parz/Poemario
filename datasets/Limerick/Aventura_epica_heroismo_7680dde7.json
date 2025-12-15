@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Solo en la isla desierta,\ncon la boca siempre abierta,\ncomió solo cocos,\nse volvió de los locos,\ny llamó a la puerta incierta.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Náufrago"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Inmenso y profundo es nuestro mar,\nolas de pasión en nuestro mar.\n\nNavego en tus ojos sin naufragar,\npuerto seguro en nuestro mar.\n\nEl agua salada nos va a abrazar,\neterno vaivén de nuestro mar.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "mar"
+  }
+}

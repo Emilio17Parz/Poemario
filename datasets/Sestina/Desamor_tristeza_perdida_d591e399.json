@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me persigue tu larga sombra,\npor las calles de la ciudad,\nrecordando que ya no estás.\nNo sé si nunca te irás,\nde mi mente cansada y rota,\no serás mi eterna prisión.\n\nEterna prisión,\nser esa sombra,\ngota a gota.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Alza el escudo fuerte,\nContra el golpe mortal,\nProtege tu suerte.\nAlza el escudo fuerte,\nQue nadie despierte,\nEl sueño fatal.\nAlza el escudo fuerte,\nContra el golpe mortal.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "defensa"
+  }
+}

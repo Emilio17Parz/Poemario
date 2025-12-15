@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El vacío me come, un pozo sin fondo,\ndonde mi esperanza quiere caer,\nes el recuerdo cruel y rotundo,\nde un amor que nunca fue a ser.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Vacío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminar es vivir,\nabriendo sendas nuevas cada día,\nsin dejar de sentir,\nla alegría,\nde buscar nuestra propia guía.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "andar"
+  }
+}

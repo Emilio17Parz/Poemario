@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cierra la herida pero hay señal,\nmarca que queda sobre la piel.\nFuiste veneno, fuiste puñal,\nbañado en gotas de dulce miel.\n\nMarca que queda sobre la piel,\nmapa de guerras que ya viví.\nBañado en gotas de dulce miel,\nme diste todo y yo te creí.\n\nMapa de guerras que ya viví,\nfuiste veneno, fuiste puñal.\nMe diste todo y yo te creí,\ncierra la herida pero hay señal.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "herida"
+  }
+}

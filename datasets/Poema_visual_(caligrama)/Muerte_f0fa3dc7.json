@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "EL VUELO FINAL\n       /  LA SOMBRA ARREBATA   \\\n      /    EL ÚLTIMO ALIENTO     \\\n     |      SILENCIO CÓSMICO       |\n     |      DONDE TODO FUE         |\n     |      Y YA NO ES             |\n     |      POLVO QUE ESPERA       |\n     |      UN SUEÑO SIN           |\n     |      DESPERTAR.             |\n     |      EL OLVIDO CLAMA,       |\n      \\     MAS LA ESENCIA         /\n       \\    NUNCA SE APAGA.       /\n        \\___MEMORIA, ETERNA HUELLA___/",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

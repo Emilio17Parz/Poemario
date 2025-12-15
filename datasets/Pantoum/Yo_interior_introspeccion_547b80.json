@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siento que estoy cambiando,\nla piel vieja se cae.\nMe estoy transformando,\nlo nuevo me atrae.\n\nLa piel vieja se cae,\ndele duele crecer.\nLo nuevo me atrae,\nempiezo a florecer.\n\nDele duele crecer,\nsiento que estoy cambiando.\nEmpiezo a florecer,\nme estoy transformando.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te vi cruzar la calle\ny no supe quién eras.\nLlevabas mi historia en tu cara,\npero tus ojos miraban otro futuro.\nEs la muerte más extraña:\nver caminar a quien amaste\ny sentir que es un desconocido\ncon el rostro de tu vida.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "extraño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El cielo se incendia en una despedida dramática, pintando nubes de violeta y oro antes de morir.\nEl atardecer es la obra maestra efímera que Dios pinta cada día para recordarnos que los finales también pueden ser hermosos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

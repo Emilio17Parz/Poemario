@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nos juramos amor frente al altar,\ncon testigos de fe y de esperanza,\ncomenzando la hermosa y gran danza\nde dos vidas que van a la par.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "altar"
+  }
+}

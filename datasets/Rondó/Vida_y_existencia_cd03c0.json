@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Salen las canas,\ncon la edad,\nla verdad,\nde las mañanas.\nLas ganas,\nde bondad.\nSalen las canas.\n\nSabiduría,\nque se gana,\nen la ventana,\ndel día.\nAlegría,\ncercana.\nSalen las canas.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "canas"
+  }
+}

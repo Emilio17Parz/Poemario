@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Nadie responde a mi voz suplicante,\nmuro de hielo es tu mutismo atroz,\nmuere el amor y se apaga la voz,\ntriste silencio.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Muestra la tendencia,\nOrgullo al vestir.\nDas la apariencia,\nAl mundo lucir.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "MODA"
+  }
+}

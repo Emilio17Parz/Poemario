@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te escribo estos versos con tinta del alma,\nbuscando en la rima un poco de calma,\npara describir lo que me haces sentir,\ny que sin tu amor no podría vivir.\nCada estrofa lleva un trozo de mí,\ndesde el primer día en que te vi,\nacéptalos como prueba de fe,\nde este sentimiento que siempre tendré.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "poema"
+  }
+}

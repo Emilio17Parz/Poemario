@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me das la paz que el mundo me negaba,\nun refugio de calma y de quietud,\ndonde se cura el alma que lloraba.\n\nTodo el dolor que antes me pesaba,\nse vuelve ahora luz y gratitud,\nme das la paz que el mundo me negaba.\n\nLa tempestad que fuera me azotaba,\npierde su fuerza y su gran magnitud,\ndonde se cura el alma que lloraba.\n\nTu amor es el puerto donde anclaba,\nmi nave llena de solicitud,\nme das la paz que el mundo me negaba.\n\nYa no recuerdo lo que me faltaba,\ntengo en tus brazos mi plenitud,\ndonde se cura el alma que lloraba.\n\nBendigo el día en que te encontraba,\ny me mostraste tu gran virtud,\nme das la paz que el mundo me negaba,\ndonde se cura el alma que lloraba.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "paz"
+  }
+}

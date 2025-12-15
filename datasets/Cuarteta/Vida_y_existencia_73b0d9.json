@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Querer es poder, se dice,\ncon fuerza de voluntad,\nse abre la oportunidad,\npara que uno realice.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "voluntad"
+  }
+}

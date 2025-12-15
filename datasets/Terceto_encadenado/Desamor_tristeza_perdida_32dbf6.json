@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La mentira esconde la cruel verdad (A),\nel golpe amargo, sin un final (B),\nla ausencia de toda caridad (A).\n\nLa vida es un drama, el mal fatal (B),\nque rompe mi alma con gran dolor (C),\nla forma de no hallar el fanal (B).\n\nNo hay más que sufrir, no hay más fulgor (C),\nla sombra me sigue, sin un porqué (D),\nla ausencia de todo valor (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Mentira"
+  }
+}

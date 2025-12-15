@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche es larga y oscura,\nsin la estrella de tu amor,\ntodo me causa pavor,\ny me lleva a la locura.\nEs una inmensa tortura,\nrecordar tu resplandor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "noche"
+  }
+}

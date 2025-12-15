@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hay cosas que no se dicen,\nque duermen en el fondo,\nheridas que cicatrizan,\nen un pozo hondo.\nPalabras que se deslizan,\nen un papel incompleto,\ny que simbolizan,\nmi mayor secreto.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

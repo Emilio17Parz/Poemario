@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No pienses mañana\npiensa en el hoy,\nque yo te aseguro\nque contigo voy.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "presente"
+  }
+}

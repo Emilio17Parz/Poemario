@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tus ojos miro mi propia verdad (A),\nel rostro que quiero al fin ver (B),\nla ausencia de toda fatalidad (A).\n\nEs el reflejo de mi noble querer (B),\nla fuerza que impulsa mi fiel corazón (C),\nla forma que ayuda a vencer (B).\n\nLa vida sin ti no tiene razón (C),\nel camino es largo, sin un fanal (D),\nla dulce y suprema lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

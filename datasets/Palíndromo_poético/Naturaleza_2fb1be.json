@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Dura roca\nno se mueve\nfirme está\nno se mueve\ndura roca",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "roca"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Paloma blanca,\nque vuela lejos,\nreflejos,\narranca.\nFin de la guerra,\nen la tierra.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "paz"
+  }
+}

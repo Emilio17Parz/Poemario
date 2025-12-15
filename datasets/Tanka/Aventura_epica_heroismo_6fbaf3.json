@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Poner un sello fiel\na la historia con la acción,\nde un acto noble.\nQue el tiempo lo recuerde ya,\ncomo ejemplo de virtud.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Sello"
+  }
+}

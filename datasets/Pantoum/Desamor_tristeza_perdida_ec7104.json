@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tengo en la mano un viejo papel,\nuna sonrisa que ya no existe,\nsabor amargo, sabor a hiel,\npor qué el final fue tan triste.\n\nUna sonrisa que ya no existe,\ncongelada en el tiempo atrás,\npor qué el final fue tan triste,\nsi prometiste que volverás.\n\nCongelada en el tiempo atrás,\nsabor amargo, sabor a hiel,\nsi prometiste que volverás,\ntengo en la mano un viejo papel.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "papel"
+  }
+}

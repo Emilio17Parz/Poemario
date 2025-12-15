@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Deja un dulce eco\nen el corazón del otro,\ntu paso por aquí.\nQue tu vida sea un canto,\nque el mundo no olvide ya.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Eco"
+  }
+}

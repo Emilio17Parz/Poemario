@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se mira el cielo en el lago quieto,\ny se duplican las nubes blancas,\nsobre las aguas limpias y estancas,\nguardando el magno y azul secreto.\n\nEs un espejo fiel y completo,\ndonde la tierra se vuelve hermosa,\ny cada rama y cada cosa,\nhalla su doble con gran respeto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "reflejo"
+  }
+}

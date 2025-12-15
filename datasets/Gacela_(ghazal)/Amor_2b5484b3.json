@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bebo la vida entera en el borde de tu beso,\ny el tiempo se detiene cautivo de tu beso.\n\nNo quiero más palabras, ni promesas, ni juramentos,\nsolo quiero el silencio sellado por tu beso.\n\nSi la muerte viniera a buscarme esta mañana,\nle pediría prórroga para otro beso.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "beso"
+  }
+}

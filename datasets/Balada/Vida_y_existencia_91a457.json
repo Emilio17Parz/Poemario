@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ser dueño de los propios pasos,\nes el tesoro mayor,\nromper los lazos y los fracasos,\ny caminar sin el temor.\nLa libertad es aire fresco,\nque llena el pecho de poder,\ny yo por ella me merezco,\ntodo lo bueno conocer.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

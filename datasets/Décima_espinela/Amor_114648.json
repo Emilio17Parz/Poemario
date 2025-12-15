@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si alguna vez te ofendí,\ncon palabra o con acción,\nte pido de corazón,\nque tengas piedad de mí.\nMi vida te la vendí,\ny no quiero verte llorar,\nsolo quiero reparar,\nel daño que haya causado,\ny volver a ser amado,\nsin nada que reprochar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

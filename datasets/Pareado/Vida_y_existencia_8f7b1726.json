@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Persigue siempre tu sueño,\nponiendo todo tu empeño.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "empeño"
+  }
+}

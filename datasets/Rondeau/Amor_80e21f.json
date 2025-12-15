@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Es una dulce locura,\nque a mi mente tortura.\nQuererte con tal exceso,\nperdido en cada beso,\nsin buscar ninguna cura.\n\nEres la belleza pura,\nmi única atadura.\nDe este amor soy preso,\nes una dulce locura.\n\nNo pierdo la compostura,\naunque pierda la cordura.\nLlevo tu nombre impreso,\nen mi alma y en mi hueso,\nviviendo esta aventura,\nes una dulce locura.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "locura"
+  }
+}

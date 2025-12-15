@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Busco el agua del río\npara lavar tu nombre, amor impío.\nQuiero el dulce olvido\nde lo que hemos vivido.\nMas la memoria es terca\ny te siento en mi alma siempre cerca.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

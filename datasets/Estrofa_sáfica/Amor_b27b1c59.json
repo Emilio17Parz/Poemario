@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la llama de la gran pasión,\nfuego que quema sin tener perdón,\nrompe los muros de la sinrazón,\ndulce locura.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

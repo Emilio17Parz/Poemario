@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El viejo cerró los ojos, la vela se apagó,\nEl último suspiro de su pecho voló.\nEl alma fue un pájaro, el cuerpo se hizo piedra,\nY el silencio ocupó la humilde hiedra.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "aliento"
+  }
+}

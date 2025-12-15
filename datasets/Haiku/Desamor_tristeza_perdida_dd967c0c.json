@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Adiós, cruel amor,\ntu sombra, recuerdo cruel,\nvacío sin ti.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

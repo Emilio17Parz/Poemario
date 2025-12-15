@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lucha por la causa de la libertad sin fin ni dolor (A),\npor el derecho de todo mortal (B),\nsu espíritu vuela, el gran fulgor (A),\nla forma que es ya inmortal (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Libertad"
+  }
+}

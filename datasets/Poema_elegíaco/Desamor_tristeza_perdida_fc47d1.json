@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi barca se ha roto, mi vela no está ya,\nla esperanza se ha ido y no volverá.\nEl mar es el olvido, la ola es la pena,\nla vida sin tu luz es una cadena.\n\nMe ahogo en el silencio, me pierdo en el azul,\nla soledad es la prueba, el suave tul.\nMi destino es el agua, fría y sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Ruido y cemento,\nreinan en la urbe,\nsin miramiento.\n\nNada perturbe,\nla prisa constante,\nque nos absorbe.\n\nEn cada instante.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nace el héroe,\nen la batalla,\naunque empeore,\nla metralla.\n\nEn la batalla,\nmuestra valor,\nla metralla,\ncausa dolor.\n\nMuestra valor,\nnace el héroe,\ncausa dolor,\naunque empeore.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

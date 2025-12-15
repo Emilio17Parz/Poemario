@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Retumba el eco en la casa vacía,\ndonde antes habitaba nuestra risa,\ny ahora reina la melancolía.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

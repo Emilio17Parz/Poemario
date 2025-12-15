@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tomó su herencia y se fue,\na gastarla en placeres,\nentre fiestas y mujeres,\nhasta que nada le quedé.\nComió con los cerdos,\nhambriento y arrepentido,\npensó en lo perdido,\ny en sus acuerdos.\nVolvió a casa del padre,\nque lo abrazó sin que ladre.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

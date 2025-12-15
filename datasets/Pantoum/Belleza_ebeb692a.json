@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Oigo el canto,\ndel ruiseñor,\ncura el espanto,\ny el dolor.\n\nDel ruiseñor,\nsu melodía,\ny el dolor,\nse va en el día.\n\nSu melodía,\noigo el canto,\nse va en el día,\ncura el espanto.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "canto"
+  }
+}

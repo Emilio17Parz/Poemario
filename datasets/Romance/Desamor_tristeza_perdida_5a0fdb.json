@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Todo fue un teatro falso,\ntus besos y tus promesas,\nhiciste de mi cariño\nuna de tus tantas presas.\nAhora descubro el engaño\ny las verdades aviesas,\nme duele haberte querido\ncon todas mis fuerzas ilesas.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "engaño"
+  }
+}

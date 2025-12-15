@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Toda belleza es reflejo\nde la luz del Creador.\nÉl es el Pintor\ndel universo viejo.\nEn cada espejo\nvemos su amor.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "reflejo"
+  }
+}

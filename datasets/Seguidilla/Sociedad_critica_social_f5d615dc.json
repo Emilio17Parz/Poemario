@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sudor que cae al suelo\nmal pagado,\nel obrero se siente\notvidado.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

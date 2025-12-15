@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "LUNA\n                PLATA PURA\n               NOCHE Clara\n              CIELO Estrellado\n             VIENTO Que Acaricia\n            RAMAS Que Se Elevan\n           HOJAS Que Susurran\n          ÁRBOL Antiguo Fuerte\n         TRONCO Robusto Anclado\n        RAÍCES Que Abrazan La Tierra\n       NATURALEZA Respira Vida Eterna",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "luna"
+  }
+}

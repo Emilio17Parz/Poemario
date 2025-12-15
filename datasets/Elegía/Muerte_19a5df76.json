@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí yaces, bajo piedra,\nen el frío y la humedad,\nlejos de la claridad,\ndonde el olvido medra.\nLa hiedra ya se empiedra,\nen tu final morada,\ny mi alma desolada,\ncon tu silencio se arredra.\nTumba gris y callada,\nque guardas lo que amé,\ncaja cerrada.\nAnte ti perderé la fe,\ncon la vista nublada,\ny el corazón a pie.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

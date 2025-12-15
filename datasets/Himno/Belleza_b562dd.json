@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Palabra alada que buscas la esencia,\ny das al mundo tu clara presencia!\nVerso que rima con el sentimiento,\ny da forma eterna al pensamiento.\n\n¡Gloria a la lira de los poetas,\nque alcanzan del alma las altas metas!\nBelleza escrita con tinta y dolor,\ncanto sagrado del puro amor.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Azul infinito, el bello mar,\nespejo del cielo, el bello mar.\n\nOlas que bailan con espuma blanca,\ndanza eterna del bello mar.\n\nGuarda secretos en su profundidad,\nmisterio hermoso del bello mar.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "mar"
+  }
+}

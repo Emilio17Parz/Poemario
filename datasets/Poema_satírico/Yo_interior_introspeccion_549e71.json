@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fuerza de voluntad,\nque dura un minuto,\npura vanidad,\nde un ser diminuto.\nEmpiezo el lunes,\ny lo dejo el lunes.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Voluntad"
+  }
+}

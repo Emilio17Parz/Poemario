@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La palabra de Dios es viva y eficaz, y más cortante que toda espada de dos filos; y penetra hasta partir el alma y el espíritu.\nCiñe tu espada sobre el muslo, oh valiente, con tu gloria y con tu majestad; cabalga sobre palabra de verdad.\nY tomad el yelmo de la salvación, y la espada del Espíritu, que es la palabra de Dios; orando en todo tiempo.\nBienaventurado tú, oh Israel. ¿Quién como tú, pueblo salvo por el Señor, escudo de tu socorro, y espada de tu triunfo?",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "espada"
+  }
+}

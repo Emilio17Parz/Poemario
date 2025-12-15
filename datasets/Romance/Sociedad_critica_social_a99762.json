@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mira al vecino con odio\nporque tiene coche nuevo,\ny se muere de la envidia\nque le quita el renuevo.\nNo disfruta de lo suyo\npor mirar lo del longevo,\ny vive amargado siempre\npor ese mal que yo llevo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "envidia"
+  }
+}

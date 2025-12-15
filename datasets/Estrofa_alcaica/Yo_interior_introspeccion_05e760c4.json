@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "La voz silente que en mi ser habita,\nprofúndos ecos, sin cesar, susurra,\ny el alma inquieta clama,\nbuscando mi profunda identidad.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Del polvo soy, y al polvo he de volver,\nMas en el soplo que la vida brilla,\nSe alza una senda, frágil maravilla,\nAnte el misterio de existir y ser.\n\nEl *tiempo* urde su trama sin igual,\nCon hilos de oro y sombras que no cesan,\nMientras las horas fugaces nos pesan,\nY el corazón busca su propio umbral.\n\n¿Qué somos, pues, sino un fugaz fulgor?\nUn breve aliento entre el ayer y el luego,\nLa llama interna que consume el ruego.\n\nMás allá del vaivén, del desamor,\nEn cada pulso, en el callado juego,\nLa esencia vive, libre de temor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

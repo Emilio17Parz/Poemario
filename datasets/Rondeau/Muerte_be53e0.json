@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acaba el dolor,\ny el temor.\nLa paz inunda,\nde forma profunda,\ncon su amor.\n\nYa no hay rencor,\nni mal sabor.\nEn la tumba,\nse acaba el dolor.\n\nPierde el color,\ny el calor.\nSe derrumba,\ny zumba,\nel estertor,\nse acaba el dolor.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

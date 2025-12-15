@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oh, Amor, principio y fin de toda senda,\nMisterio hondo que en el ser se enciende.\nNo tiene forma, mas al mundo ofrenda\nSu luz inmensa donde lo eterno prende.\n\nEs la raíz que nutre el árbol de la vida,\nEl eco suave en la más íntima voz.\nEn tu presencia, el alma es redimida,\nY halla consuelo el corazón feroz.\n\nComo el fuego que consume y que eleva,\nAsí tu llama, divina y ancestral.\nPurifica el alma, la libera y la lleva\nMás allá del umbral de lo mortal.\n\nNo hay noche oscura que tu luz no venza,\nNi abismo hondo que no pueda cruzar.\nOh, Amor, eterna y dulce recompensa,\nEl único verbo que nos nombra y nos crea.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

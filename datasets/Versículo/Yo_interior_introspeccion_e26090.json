@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La mentira más peligrosa es la que me cuento a mí mismo para no tener que cambiar.\nEnfrentar mi propia verdad, con sus luces y sus sombras, es el único acto de valor que realmente importa.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

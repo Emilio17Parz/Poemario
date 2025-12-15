@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quedan solo cenizas,\ndel fuego del ayer.\nSe fueron las risas,\nquedan solo cenizas.\nCorriste con prisas,\nal amanecer.\nQuedan solo cenizas,\ndel fuego del ayer.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

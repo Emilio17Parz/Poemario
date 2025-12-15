@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vives en mí,\nporque te vi.\n\nEn la memoria,\ntu gran historia,\ny tu gloria,\nasí.\nVives en mí,\nporque te vi.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

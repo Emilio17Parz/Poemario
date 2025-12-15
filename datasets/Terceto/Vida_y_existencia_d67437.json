@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El misterio de ser, la pregunta sin fin (A),\nsin una respuesta, sin un final (A),\nel aroma de un dulce jazmín (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Misterio"
+  }
+}

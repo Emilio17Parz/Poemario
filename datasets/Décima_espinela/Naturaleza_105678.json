@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Dama de plata,\nde la noche oscura,\ncon tu blancura,\nque nos desata.\nTu luz retrata,\nsueños de amor,\ny el dolor,\nse vuelve calma,\nen el alma,\ndel soñador.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "luna"
+  }
+}

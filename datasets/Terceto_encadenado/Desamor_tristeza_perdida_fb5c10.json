@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi vida es una cárcel, de duro metal (A),\nencerrado en el muro de mi dolor (B),\nsin tu amor no hay un fanal (A).\n\nLa ausencia me come, sin un fulgor (B),\nel alma se pierde, sin un final (C),\nla forma de no hallar el valor (B).\n\nNo hay más que sufrir, no hay más que el mal (C),\nla pena me abraza, sin piedad (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Prisión"
+  }
+}

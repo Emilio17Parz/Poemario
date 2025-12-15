@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La pobreza es una bota que aplasta el cuello del que intenta levantarse, un ciclo maldito que se hereda.\nNo es falta de esfuerzo, es falta de justicia; es el suelo inclinado donde todo rueda siempre hacia los mismos bolsillos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

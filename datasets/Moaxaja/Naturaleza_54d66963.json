@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Florece el jardín,\ncon rosa y jazmín.\n\nEl agua corre,\nla pena borre,\ny nos socorre,\nhasta el fin.\n\nFlorece el jardín,\ncon rosa y jazmín.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

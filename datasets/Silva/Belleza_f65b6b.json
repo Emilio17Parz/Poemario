@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Flor hermosa,\nque da vida,\ny es querida,\ncomo rosa.\nMariposa,\nque ilumina,\ny camina,\norgullosa.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "mujer"
+  }
+}

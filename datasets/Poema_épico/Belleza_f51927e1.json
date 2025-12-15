@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Fidias talló el mármol,\nde la diosa Atenea,\nuna obra que sea,\ncomo la luz del sol.\nEl arte español,\no griego, crea,\nla forma que vea,\nel girasol.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "arte"
+  }
+}

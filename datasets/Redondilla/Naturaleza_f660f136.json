@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia ligera\nmojando el campo sediento,\ny calma el sufrimiento\nde la tierra en espera.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "nube"
+  }
+}

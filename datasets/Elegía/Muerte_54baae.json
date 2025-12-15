@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Gris que me cubres con sombra sombría,\nel color de la pena sin un fulgor.\nTu matiz es triste, la cruel agonía,\nel alma sin un gran amor.\nTu forma es el fin, la dura verdad,\nel alma que sufre caridad.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Gris"
+  }
+}

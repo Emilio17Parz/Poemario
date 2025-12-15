@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En esta noche de verano,\ntomo con fuerza tu mano,\nbajo la luna plateada,\ncon la mirada enamorada,\nde un sentimiento soberano.\n\nTodo se vuelve más humano,\ny lo divino más cercano,\nen esta calma sosegada,\nEn esta noche.\n\nNo es un esfuerzo vano,\namarte, mi fiel hermano,\nes la jornada deseada,\nla batalla ya ganada,\ncon un amor tan temprano,\nEn esta noche.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "noche"
+  }
+}

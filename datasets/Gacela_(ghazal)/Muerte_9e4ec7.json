@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Reina en la tumba el gran silencio,\neterno y frío es el gran silencio.\n\nYa no hay palabras, ni risas, ni llanto,\nsolo se escucha el gran silencio.\n\nLa paz de los muertos no tiene voz,\ndescanso habita en el gran silencio.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye,\ncomo el río,\ncon el frío,\nque destruye.\nSe intuye,\nel lío.\nTodo fluye.\n\nNada queda,\nquieto jamás,\ntú te vas,\nen la rueda.\nQue pueda,\nser capaz.\nTodo fluye.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "río"
+  }
+}

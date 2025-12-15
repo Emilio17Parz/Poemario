@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Esta piedra pesada\nguarda el despojo de quien tuvo vida;\nya no hay herida,\nni hay estocada,\nque pueda perturbar su sueño largo;\ntodo lo amargo\nquedó fuera del muro,\ndonde reina el descanso más seguro.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

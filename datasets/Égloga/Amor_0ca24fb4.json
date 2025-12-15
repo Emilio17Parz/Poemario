@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Coronad de rosas a la novia,\nque hoy se casa con su pastor,\nno hay riqueza ni mayor valor,\nque esta unión que a todos agobia.\nLejos de la ciudad y su fobia,\ncelebramos con puro amor,\nlibres de todo temor,\nsin que el odio nos agobia.\nBailad, ninfas y faunos,\nque se unen dos destinos,\nen estos verdes caminos.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "boda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tienes el pelo tan negro\ncomo el ala de un cuervo,\ny cuando lo sueltas al aire\nme dejas el cuerpo siervo.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "negro"
+  }
+}

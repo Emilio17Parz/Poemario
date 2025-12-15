@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Llega la musa de repente,\ny toca la frente del artista,\nque se hace altruista,\ny valiente.\n\nLa fuente,\nque avista,\ny conquista,\nla gente.\n\nCrear belleza es divino,\nes imitar a Dios,\nen el camino.\n\nDe los dos,\ny el vino,\nque es pos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "musa"
+  }
+}

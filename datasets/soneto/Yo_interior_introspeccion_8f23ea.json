@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La culpa es un ácido lento,\nque corroe la alegría,\nde noche y de día,\ncausando sufrimiento.\n\nMe arrepiento,\nde la porfía,\ny la vía,\ndel viento.\n\nPerdonarse es difícil,\nmás que perdonar a otro,\nen el redil.\n\nDomar el potro,\ndel perfil,\ny el rostro.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "acido"
+  }
+}

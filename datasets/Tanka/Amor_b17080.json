@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu dulce mirar\nilumina mi senda\nrayo de vida.\nMe pierdo en tus pupilas\ny encuentro mi destino.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

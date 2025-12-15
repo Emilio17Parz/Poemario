@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Casa de piedra, morada de paz,\ndonde se oculta del mundo la faz!\nLugar de encuentro con lo divinal,\nrefugio sagrado contra el mal.\n\n¡Honor al templo, puerta del cielo,\ndonde el alma encuentra su consuelo!\nAltar y sacrificio, canto y rezo,\nunen la tierra con el universo.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "templo"
+  }
+}

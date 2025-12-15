@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Miro la eternidad\ncon los ojos ya cerrados,\ndejando la vanidad\ny los días terminados.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

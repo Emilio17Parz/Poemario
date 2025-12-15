@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vengo a llorar sobre la fría tumba,\nque guarda lo que más amé en la tierra,\naquí mi paz y mi alegría se encierra,\ny mi esperanza rota se derrumba.\nPiedra que ocultas su rostro querido,\ndevuélveme lo que he perdido.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

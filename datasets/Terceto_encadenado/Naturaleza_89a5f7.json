@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La dama de la noche nos vigila,\ncon su cara de plata y de marfil,\nque tranquila en el cielo desfila.\n\nAlumbra con su luz suave y sutil,\nlos sueños de la gente que descansa,\nen este mundo frágil y febril.\n\nCon su mirada mansa.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "luna"
+  }
+}

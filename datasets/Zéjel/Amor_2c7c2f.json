@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dame un beso de miel,\nque sepa a tu piel.\n\nUn roce en la boca,\nque al alma la toca,\ny me vuelve loca,\nsiendo siempre fiel.\nDame un beso de miel,\nque sepa a tu piel.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "beso"
+  }
+}

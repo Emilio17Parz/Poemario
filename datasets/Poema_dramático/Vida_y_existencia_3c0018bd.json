@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "JOVEN: ¡Corre más lento, reloj maldito!\nANCIANO: No puedes frenar su paso veloz.\nJOVEN: Me roba la vida, es algo atroz.\nANCIANO: El tiempo es un juez que cumple su rito.\nAprovecha el ahora, el dulce momento,\nantes que te vuelvas solo un lamento.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ya no me queda nada\nde lo que fue ilusión,\ntengo el alma cansada.\nYa no me queda nada,\nla luz está apagada\nen mi pobre habitación.\nYa no me queda nada\nde lo que fue ilusión.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "nada"
+  }
+}

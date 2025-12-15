@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se hundió mi barca\nen el temporal,\npero salvé la vida\nque es lo principal.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "naufragio"
+  }
+}

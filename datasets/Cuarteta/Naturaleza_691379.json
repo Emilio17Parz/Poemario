@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar inmenso,\nes azul,\nes intenso,\ncomo el tul.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "azul"
+  }
+}

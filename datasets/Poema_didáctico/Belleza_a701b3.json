@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuida tu cuerpo, es tu templo,\npero no seas su esclavo,\nda el ejemplo,\nsin clavar el clavo.\nSalud es belleza,\nno solo la cabeza.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Cuidado"
+  }
+}

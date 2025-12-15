@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La simetría que el ojo admira,\nla línea que traza el arte sutil,\nla mano del genio que nunca delira,\nel patrón perfecto, el gentil misil.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Simetría"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida es un suspiro fugaz,\nLa noche eterna ya nos llama a ir.\nLa vida es un suspiro fugaz,\nSin rumbo el alma comienza a huir.\n\nLa noche eterna ya nos llama a ir,\nEl tiempo quieto detiene su andar.\nSin rumbo el alma comienza a huir,\nUn frío velo nos hace callar.\n\nEl tiempo quieto detiene su andar,\nBajo la tierra, fría está la tumba.\nUn frío velo nos hace callar,\nDonde el recuerdo al fin se derrumba.\n\nBajo la tierra, fría está la tumba,\nLa vida es un suspiro fugaz,\nDonde el recuerdo al fin se derrumba,\nLa noche eterna ya nos llama a ir.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

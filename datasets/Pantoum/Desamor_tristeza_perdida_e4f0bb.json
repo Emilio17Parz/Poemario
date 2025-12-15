@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Golpea la lluvia contra el cristal,\nlloran las nubes mi propia pena,\nun escenario gris y fatal,\narrastro sola mi condena.\n\nLloran las nubes mi propia pena,\nporque te fuiste sin decir nada,\narrastro sola mi condena,\ncon la esperanza ya quebrada.\n\nPorque te fuiste sin decir nada,\nun escenario gris y fatal,\ncon la esperanza ya quebrada,\ngolpea la lluvia contra el cristal.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cristal"
+  }
+}

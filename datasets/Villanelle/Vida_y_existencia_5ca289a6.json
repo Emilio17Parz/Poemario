@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vive el momento que es fugaz,\nno dejes que el tiempo se escape,\ncomo arena tras el antifaz.\n\nSé valiente y sé capaz,\nde disfrutar lo que te tape,\nvive el momento que es fugaz.\n\nBusca la dicha y la paz,\nantes de que la muerte atrape,\ncomo arena tras el antifaz.\n\nEl futuro es un disfraz,\nque a veces miente y a veces zape,\nvive el momento que es fugaz.\n\nNo seas lento ni tenaz,\nen el dolor que te destape,\ncomo arena tras el antifaz.\n\nCarpe diem, sé audaz,\ny de la vida bebe el jarape,\nvive el momento que es fugaz,\ncomo arena tras el antifaz.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "instante"
+  }
+}

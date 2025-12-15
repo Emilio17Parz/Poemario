@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ejército de luz en campo negro,\nvigías eternos de la humanidad,\nal verlas brillar, yo me alegro,\nante su inmensa solemnidad.\nPolvo de dioses, mapas de ayer,\ntodo el destino en su arder.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Estrellas"
+  }
+}

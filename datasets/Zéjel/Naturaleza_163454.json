@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cima de granito,\ntoca el infinito.\n\nSube hasta el cielo,\ncubierta de hielo,\nsin ningún recelo,\nes un hito.\nCima de granito,\ntoca el infinito.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

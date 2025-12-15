@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La ciudad es una selva de cemento y cristal donde el hombre se siente solo entre la multitud.\nCorremos de un lado a otro, esclavos del reloj, sin tiempo para mirar el cielo o al vecino.\nHemos perdido el contacto con la tierra, con el ritmo natural, con nuestra propia esencia.\nVolvamos a lo humano, a la plaza, al saludo, a la vida en comunidad real.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

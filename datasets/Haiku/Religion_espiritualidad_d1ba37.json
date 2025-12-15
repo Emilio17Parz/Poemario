@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tierra que pisas\nrespeta el gran misterio\ntodo es de Dios.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "sagrado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Seremos solo un nombre,\nborrado por los años venideros;\ncomo los senderos,\nque pisa el hombre.\nEl olvido es la muerte más profunda,\nque nos inunda.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

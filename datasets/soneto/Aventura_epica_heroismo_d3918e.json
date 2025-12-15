@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Rodeados por miles, siendo pocos,\naguantan el sitio en la fortaleza,\ncon hambre, sed y mucha flaqueza,\npero luchando como unos locos.\n\nNo ceden terreno ni tampoco\nmuestran al enemigo tristeza,\ndefienden su honor y su nobleza\nante los ataques y sofocos.\n\nEs la épica de la resistencia,\nde no rendirse jamás ante el mal,\ny mantener la coherencia.\n\nHasta el suspiro final,\ndejando como herencia\nun ejemplo inmortal.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sitio"
+  }
+}

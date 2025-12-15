@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vuela libre hacia el reino de luz,\nsin las cargas de la tierra fría,\nlejos ya de la sombra y la cruz.\n\nGozando de eterna alegría,\nse reúne con los que partieron,\nesperando el final de su día.\n\nQue en la paz se durmieron.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "luz"
+  }
+}

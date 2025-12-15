@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "ACTOR: Me quito la máscara, estoy cansado.\nPÚBLICO: ¡No! Queremos al rey amado.\nACTOR: Pero soy un hombre triste y solo.\nPÚBLICO: No nos importa tu protocolo.\nQueremos la risa, el drama, el show.\nACTOR: Mi alma está vacía, ya no hay flow.\nPÚBLICO: Ponte la máscara y actúa bien.\nACTOR: Seré vuestro esclavo una vez más. Amén.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

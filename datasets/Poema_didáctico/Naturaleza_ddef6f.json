@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Después de la tempestad,\nllega siempre la calma,\nl limpia la suciedad,\ny refresca el alma.\nNo temas al trueno,\nque trae algo bueno.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Tormenta"
+  }
+}

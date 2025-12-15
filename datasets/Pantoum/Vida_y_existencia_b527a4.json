@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llevamos peso en la espalda,\nrecuerdos, culpas y penas.\nSubiendo por la gran falda,\nrompiendo viejas cadenas.\n\nRecuerdos, culpas y penas,\npiedras que frenan el paso.\nRompiendo viejas cadenas,\nantes que llegue el ocaso.\n\nPiedras que frenan el paso,\nsubiendo por la gran falda.\nAntes que llegue el ocaso,\nllevamos peso en la espalda.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "carga"
+  }
+}

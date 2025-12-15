@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En la oscuridad de la sala, la luz proyecta sueños gigantes que nos enseñan a mirar la vida con otros ojos.\nEl cine es la fábrica de la belleza visual, donde el tiempo se detiene y las emociones se hacen imagen.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "cine"
+  }
+}

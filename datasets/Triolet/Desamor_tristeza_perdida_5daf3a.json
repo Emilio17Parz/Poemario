@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te digo adiós con pena,\nel amor se terminó.\nSe rompió la cadena,\nte digo adiós con pena.\nLa soledad me llena,\nlo nuestro ya murió.\nTe digo adiós con pena,\nel amor se terminó.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

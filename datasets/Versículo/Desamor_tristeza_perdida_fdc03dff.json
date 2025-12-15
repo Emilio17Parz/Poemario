@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dios mío, Dios mío, ¿por qué me has desamparado? ¿Por qué estás tan lejos de mi salvación y de las palabras de mi clamor?\nDe día clamo, y no respondes; y de noche, y no hay para mí reposo; mas tú eres santo, tú que habitas entre las alabanzas.\nMe has puesto en el polvo de la muerte, y perros me han rodeado; una cuadrilla de malignos me ha cercado.\nRepartieron entre sí mis vestidos, y sobre mi ropa echaron suertes, mientras tú te alejabas sin mirar atrás.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "abandono"
+  }
+}

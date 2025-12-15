@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me dijiste un adiós\nque rompió mi corazón,\noscuridad para los dos.\nMe dijiste un adiós,\nsin escuchar mi voz,\nsin tener una razón.\nMe dijiste un adiós\nque rompió mi corazón.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

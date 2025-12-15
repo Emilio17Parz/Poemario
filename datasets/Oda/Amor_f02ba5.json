@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Territorio descubierto,\nsuave como el terciopelo,\nque me eleva hasta el cielo,\ny me deja el pecho abierto.\nRecorro cada rincón,\ncon plena devoción.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "piel"
+  }
+}

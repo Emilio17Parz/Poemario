@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El destino es sombra (7a),\nsin un final (5b),\nmi vida te nombra (7c),\nsin un fanal (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

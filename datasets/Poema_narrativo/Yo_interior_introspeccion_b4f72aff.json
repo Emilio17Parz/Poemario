@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soñé que soñaba,\nen un laberinto,\ncon un instinto,\nque me guiaba.\nDesperté en el sueño,\ny tomé el control,\ncomo un farol,\ny un dueño.\nVolé muy alto,\ndando un salto.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "despertar"
+  }
+}

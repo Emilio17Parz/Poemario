@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "POETA: Oh, viejos muros, llenos de hiedra.\nRUINA: Fui un palacio, ahora soy piedra.\nPOETA: Hay belleza en tu decadencia.\nRUINA: Es el recuerdo de mi existencia.\nPOETA: La naturaleza te abraza y besa.\nRUINA: La gloria humana poco interesa.\nCanta mi fin, poeta viajero.\nQue la belleza muere primero.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

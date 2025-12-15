@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Paraíso en la tierra plantado,\npor manos de hombre bien cuidado!\nFlores y fuentes, sombra y frescor,\nrefugio de paz y de amor.\n\n¡Cantad al jardín, obra de arte viva,\nque la mirada siempre cautiva!\nNaturaleza y orden unidos,\npara el deleite de los sentidos.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

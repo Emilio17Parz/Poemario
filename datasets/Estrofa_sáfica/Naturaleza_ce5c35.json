@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sol que calienta, trigo que madura,\ntardes eternas, cigarras al sol,\ntodo se enciende con el arrebol,\ntiempo de fuego.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "verano"
+  }
+}

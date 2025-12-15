@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Flor con alas,\nque danza en el aire,\ncon gran donaire,\ny finas galas.\nVida breve,\ncomo la nieve.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "mariposa"
+  }
+}

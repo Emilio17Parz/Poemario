@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En la noche fría y sola\nbusco el calor de tu abrazo,\nrefugio de mis temores,\nde mi vida fuerte lazo.\nNo me sueltes, vida mía,\nque si rompes este trazo,\ncaeré como hoja seca\nen el triste y duro ocaso.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

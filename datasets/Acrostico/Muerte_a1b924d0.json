@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "C esó la dura lucha,\nA hora todo es quietud,\nL ejos de quien escucha,\nM irando la virtud,\nA cabó la vida mucha.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "calma"
+  }
+}

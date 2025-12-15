@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Belleza, monarca de lo efímero,\ncon cetro de artificios y esmalte voraz;\nsu reino es un espejo, un anhelo postrero,\ndonde el alma se rinde a un ideal mendaz.\n\nSe estiran pieles, se modelan contornos,\ncon hilo tensor y bisturí certero;\npor un rostro perfecto, se hacen entornos\nde circo y dolor, sin pudor verdadero.\n\nEl filtro digital, el retoque impostor,\nconstruye un semblante que la luz engaña;\ny entre un **esplendor** de falsa candor,\nla esencia se oculta, la verdad se empaña.\n\nPoción tras poción, inyección sin pausa,\nel tiempo que corre, el pánico voraz;\n¿qué esconde el rictus fijo, la sonrisa escasa?\n¿la búsqueda eterna de un brillo fugaz?\n\nMas la guadaña del tiempo, sin piedad,\ndesnuda la farsa, el ungüento, el postizo;\ny al caer la máscara de la vanidad,\nsolo queda el espejo en su juicio conciso.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

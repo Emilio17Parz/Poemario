@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ese niño gordo con pañales,\nque tira flechas sin mirar,\ncausa desastres mundiales,\ny no le pueden encerrar.\nUn delincuente con alas,\nque usa el amor como balas.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Cupido"
+  }
+}

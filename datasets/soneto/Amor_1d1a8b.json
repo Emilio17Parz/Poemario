@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te busco en el silencio de la tarde,\ncuando el sol se deshace en el poniente,\ny siento que tu luz, tibia y ardiente,\nen el centro de mi alma siempre arde.\n\nNo existe soledad que me acobarde\nsi tengo tu recuerdo en mi presente,\neres el río claro, la corriente\nque impide que mi ser se desoiganrde.\n\nTe nombro con la voz de la esperanza,\nte escribo en cada verso que imagino,\nbuscando en tu mirar la semejanza.\n\nContigo se endereza mi destino,\ny el corazón renueva su alianza\nandando de tu mano en el camino.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

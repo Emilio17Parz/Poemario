@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[LA ABUELA]\n(Al nieto)\nDicen que se ha ido, pero no es verdad. Él vive en cada historia que te cuento.\nEl recuerdo no es un fantasma, es un contrato. Es la última victoria contra la Muerte.\nTu abuelo no está en la tierra, está en tu risa. En el brillo de tus ojos.\nYo solo soy la guardiana de su llama. Y prometo que no se apagará.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

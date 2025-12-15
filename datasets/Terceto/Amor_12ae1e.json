@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se enciende con tu piel la llama viva,\nun fuego que consume la cordura,\ny deja el alma presa y cautiva.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

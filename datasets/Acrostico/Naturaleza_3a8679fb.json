@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viajero invisible que no para,\nImpulsa las nubes y la vela,\nEnfría el calor de nuestra cara.\nNadie lo ve, pero se revela,\nTocando la flor que se separa,\nOndeando la vieja y blanca tela.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

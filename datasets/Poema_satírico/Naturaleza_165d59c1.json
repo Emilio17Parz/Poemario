@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Dormir bajo las estrellas,\nsuena muy idealista,\npero la espalda no está lista,\npara piedras y huellas.\nLas hormigas hacen mellas,\nen mi comida de artista,\ny no hay baño a la vista,\n¡qué ideas tan bellas!",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "camping"
+  }
+}

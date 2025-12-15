@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna ya sin su brillo, (A)\nme hunde sin la verdad, (B)\nmi vida ya sin piedad, (B)\nmi ser ya sin su trillo. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Vuelven los barcos de la Armada,\ndestrozados por el viento y el mar,\nEspaña no para de llorar,\nsu gran flota desintegrada.\nLa esperanza quedó ahogada,\nen las costas del norte, al chocar,\ny el rey se retira a rezar,\npor la victoria negada.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "derrota"
+  }
+}

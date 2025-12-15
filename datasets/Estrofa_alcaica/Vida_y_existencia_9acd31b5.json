@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La senda incierta, con su incierto paso,\nnos lleva a ciegas, sin final ni ocaso.\n¿Qué somos, qué buscamos?\nUn sueño etéreo, que el tiempo teje.\n\nEn este mundo, un vasto laberinto,\nla luz y sombra son constante pinto.\nPerdidos en su centro,\nbuscamos ser, sin norte o credo.\n\nEl tiempo corre, veloz, incesante,\ndejando huellas de un pasado errante.\n¿Qué queda al fin de todo?\nUn eco leve, un débil todo.\n\nLa vida es soplo, fugaz melodía,\nque nace y muere cada nuevo día.\nAcepta el misterio,\nla danza, el don etéreo.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

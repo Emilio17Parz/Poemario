@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "[EL CONDENADO]\n(En la celda, viendo la luz)\nEl sol sale igual. El pájaro canta la misma canción de burla. ¿No lo saben?\nHoy es mi último día. La tierra girará sin mí. Me han quitado el futuro.\nPero les digo algo: en esta hora final, soy más libre que mi juez.\nPorque él aún tiene miedo a mi destino, y yo ya lo acepté. ¡Vamos!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "condenado"
+  }
+}

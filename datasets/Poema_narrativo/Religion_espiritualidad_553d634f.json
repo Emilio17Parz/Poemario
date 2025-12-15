@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El profeta subió al monte Sinaí,\nentre truenos y nubes de fuego.\nEl pueblo esperaba abajo, allí,\ncon temor y con un gran ruego.\nEscuchó una voz que decía: 'Aquí,\nyo soy el que soy, y me entrego'.\nBajó con las tablas de la ley,\ncon el rostro brillante y atroz,\ny supo que no servía a un rey,\nsino al eterno y único Dios.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "dios"
+  }
+}

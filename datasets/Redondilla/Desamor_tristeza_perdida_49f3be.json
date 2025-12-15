@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La legua nos separa,\ny el mar está en medio,\nno encuentro remedio,\nque esto repara.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

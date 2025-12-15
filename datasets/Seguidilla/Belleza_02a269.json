@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El oro me brilla (7a),\nsin un error (5b),\nmi alma se humilla (7c),\nde puro fulgor (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Oro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu dulce voz,\nMi alma entera te llama.\nAmor sin par.\nCon una viva pasión\nQue nos une sin final.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

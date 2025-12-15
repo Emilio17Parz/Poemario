@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dar sentido a la existencia,\nes la labor principal,\ncon mucha paciencia.\n\nEs la ciencia,\nfundamental,\ndar sentido a la existencia.\n\nLa conciencia,\nvital,\ncon mucha paciencia.\n\nLa esencia,\nreal,\ndar sentido a la existencia.\n\nLa presencia,\nfinal,\ncon mucha paciencia.\n\nLa vivencia,\ntotal,\ndar sentido a la existencia,\ncon mucha paciencia.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

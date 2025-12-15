@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Guerra es la vida humana,\nun combatir constante y doloroso;\nno hay lecho de reposo,\nni tarde ni mañana;\ncontra el mundo, el demonio y la flaqueza,\nluchamos con fiereza;\ny la victoria es rara,\npara quien a la suerte se encara.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

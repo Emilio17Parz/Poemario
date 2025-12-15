@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres el mar, la tierra y el viento,\neres la flor que nace en la ribera,\nla luz que trae la nueva primavera\ny el astro que domina el firmamento.\n\nEn cada cosa bella te presiento,\nen la lluvia que cae ligera,\ny en la montaña altiva y severa\nencuentro de tu ser el fundamento.\n\nNaturaleza viva es tu presencia,\nque llena de color mi gris paisaje\ny da a mi vida su vital esencia.\n\nNo necesito más equipaje\nque tu amor, tu risa y tu clemencia,\npara seguir feliz en este viaje.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mar"
+  }
+}

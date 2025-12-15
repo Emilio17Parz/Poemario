@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Lloro por el antiguo y verde bosque,\nque el fuego del verano ha devorado,\nsu tronco yace negro y calcinado,\nsin que la hiedra viva se le enrosque.\nCatedral de madera que cayó,\ny cuyo canto el humo silenció.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

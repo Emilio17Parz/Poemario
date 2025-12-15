@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Noche sin luna, de tinieblas densas,\ncubres mi pena con tu manto negro. \nMis ansias y todas mis dolencias,\nencuentran en ti un triste socorro.\n¡Oh, sombra vasta, de eterno silencio,\nel duro muro de mi conciencia!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Noche"
+  }
+}

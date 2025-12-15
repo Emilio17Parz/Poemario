@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dichoso el que vive quieto,\nlejos de la corte vana,\ndespertando en la mañana,\ncon el corazón completo.\n\nSin ambición ni secreto,\ndisfrutando de lo poco,\nsin volverse nunca loco,\npor el oro ni el respeto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sencillez"
+  }
+}

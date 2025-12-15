@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Inmenso mar azul,\nque baña la playa,\ndonde el sol desmaya,\nbajo el cielo tul.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "mar"
+  }
+}

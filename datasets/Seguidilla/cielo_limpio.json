@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "cielo limpio",
   "poema": {
     "texto": "Tiende el cielo\\nsu manto claro\\nduerme la nube\\nsin tormenta",

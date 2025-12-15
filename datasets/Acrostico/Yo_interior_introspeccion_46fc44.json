@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miras adentro,\nIntenta ver.\nReconoce el centro,\nAprende a ser.\nReal encuentro.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "MIRAR"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Salve, luz santa, don celestial!\nQue disipas la noche del pecado,\ny muestras al hombre el camino amado,\nlejos del vicio y del triste mal.\nResplandor puro de la divinidad,\nque nos conduces a la eternidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luz"
+  }
+}

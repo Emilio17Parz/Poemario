@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En el centro se encuentra la virtud,\nni mucho ni poco, la justa medida,\nla vida,\npide calma y pide rectitud.\nBalanza que sopesa bien y mal,\nes vital,\nmantenerse sereno en la tormenta,\nque violenta.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "balanza"
+  }
+}

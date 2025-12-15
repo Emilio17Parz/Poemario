@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El corazón le latía con un ritmo fatal,\nSintiendo que la vida era solo el mal.\nEl miedo era un fantasma que no quería irse,\nEl monstruo invisible que al alma la irise.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

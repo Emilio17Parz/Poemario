@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baila la niña con pies ligeros,\ncomo una hoja en el vendaval,\ngiros y saltos tan hechiceros,\nen este baile ritual.\nBelleza pura y natural,\nde un movimiento inmortal.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "danza"
+  }
+}

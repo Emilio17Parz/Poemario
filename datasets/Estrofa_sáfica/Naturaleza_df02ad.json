@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Baten las olas contra la ribera,\nfuerza y espuma de color azul,\ncubres la tierra con tu inmenso tul,\nocéano bravo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "mar"
+  }
+}

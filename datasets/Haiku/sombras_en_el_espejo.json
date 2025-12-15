@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Sombras en el espejo\"",
   "poema": {
     "texto": "Las sombras se reflejan,\nen el espejo triste y oscuro,\nfugaces, indefinidas.\n\nUn juego de luces y sombras,\nque refleja el pasado y futuro,\nen una lenta danza.",

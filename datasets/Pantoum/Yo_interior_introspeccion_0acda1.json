@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Digo mi nombre,\nal viento sordo,\nsoy solo un hombre,\nal borde a bordo.\n\nAl viento sordo,\npregunto quién soy,\nal borde a bordo,\nhacia dónde voy.\n\nPregunto quién soy,\ndigo mi nombre,\nhacia dónde voy,\nsoy solo un hombre.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

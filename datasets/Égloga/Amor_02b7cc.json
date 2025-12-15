@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "DAMÓN: Ya el sol se esconde tras el monte oscuro.\nMENALCAS: Y aún mi amor por Lidia resplandece.\nDAMÓN: Cuanto más la noche al día vence,\nmás busca el alma su refugio puro.\nAmarnos en el campo es lo seguro,\ndonde la envidia nunca nos mece.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "monte"
+  }
+}

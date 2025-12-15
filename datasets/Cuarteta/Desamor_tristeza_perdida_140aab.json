@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Donde hubo fuego, solo queda gris,\nlas ruinas de un castillo de cristal,\nestoy perdido en lo que fue mi raíz,\nclavado en la pena, sin final.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Ruinas"
+  }
+}

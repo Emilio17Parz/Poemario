@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tainen campanas llamando a misa,\nvengan los fieles a rezar,\ndejen el campo, dejen la prisa,\nque es el momento de orar.\nSu sonido invita a entrar,\ny las rodillas doblar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "campana"
+  }
+}

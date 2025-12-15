@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juro amor que sea eterno\naunque el tiempo se desborde,\ny que mi latido acorde\nvenza al frío del invierno.\nNo será un lazo moderno\nque se rompe con el viento,\nes un firme juramento\ngrabado en la piedra dura,\nque promete la ternura\nmás allá del pensamiento.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

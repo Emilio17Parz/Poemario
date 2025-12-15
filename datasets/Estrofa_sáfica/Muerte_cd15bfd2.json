@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El aire helado que el mortal respira,\ntras breve goce, al fin se nos condena\na la silenciosa y fría **tumba** espera,\n¡mudo reposo!",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

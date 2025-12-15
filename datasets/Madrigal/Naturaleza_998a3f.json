@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae el agua con tenue sonido y paz,\nlavando el polvo y el duro camino.\nEs la caricia suave y tenaz,\ndel cielo que calma el destino.\n\nLa tierra bebe, y se llena de aroma,\nque el alma sin prisa toma.\nEs vida que vuelve, que da y que fluye,\nla pena del alma destruye,\nel canto que trae la fina llovizna.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

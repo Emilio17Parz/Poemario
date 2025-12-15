@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Medicina del alma,\nque cura el dolor,\nda calor,\ny trae la calma.\nRíe fuerte,\ny vence a la muerte.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "risa"
+  }
+}

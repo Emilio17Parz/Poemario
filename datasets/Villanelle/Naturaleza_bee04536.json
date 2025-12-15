@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia mansa sobre el suelo,\nlavando las heridas de la tierra,\nbajando suavemente desde el cielo.\n\nTrae la paz y quita el desconsuelo,\ncuando su canto líquido se aferra,\ncae la lluvia mansa sobre el suelo.\n\nEl campo verde inicia su revuelo,\ny la sequía al fin se destierra,\nbajando suavemente desde el cielo.\n\nEs agua pura, es un gran consuelo,\nque en cada gota vida nos encierra,\ncae la lluvia mansa sobre el suelo.\n\nRompe del polvo el triste velo,\ny con la sed antigua hace guerra,\nbajando suavemente desde el cielo.\n\nYo miro el agua y alzo el vuelo,\nmientras la nube gris se desentierra,\ncae la lluvia mansa sobre el suelo,\nbajando suavemente desde el cielo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

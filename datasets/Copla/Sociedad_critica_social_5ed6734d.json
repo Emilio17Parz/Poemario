@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Mucho trigo en los campos\ny poca harina en la casa,\nel hambre ronda la puerta\ny la miseria nos pasa.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "hambre"
+  }
+}

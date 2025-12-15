@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo lo que te viniere a la mano para hacer, hazlo según tus fuerzas; porque en el Seol, adonde vas, no hay obra, ni trabajo, ni ciencia.\nMirad las aves del cielo, que no siembran, ni siegan, ni recogen en graneros; y vuestro Padre celestial las alimenta.\nEl obrero es digno de su salario; y el que no quiera trabajar, tampoco coma, pues el trabajo dignifica la mano del hombre.\nEncomienda al Señor tus obras, y tus pensamientos serán afirmados; el corazón del hombre piensa su camino, mas el Señor endereza sus pasos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "trabajo"
+  }
+}

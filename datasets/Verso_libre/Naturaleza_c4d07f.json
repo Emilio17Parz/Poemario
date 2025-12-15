@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mundo se ha vuelto de papel.\nTodo blanco, todo suave,\ntodo callado.\nLa nieve borra los bordes,\nesconde la suciedad,\ny nos regala una página en blanco.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

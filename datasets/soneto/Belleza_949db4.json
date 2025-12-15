@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Buscamos la forma perfecta,\nel ideal que no existe,\ny el alma insiste,\nen la recta.\n\nQue conecta,\ny resiste,\nlo triste,\ny proyecta.\n\nPlatón lo soñó,\nen su cielo,\ny nos dio.\n\nEl anhelo,\nque creó,\nel vuelo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "Platon"
+  }
+}

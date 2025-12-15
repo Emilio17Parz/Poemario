@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hoy visto luto por mi soledad,\nque se ha instalado dueña de la casa,\nmientras la vida indiferente pasa,\ncon su terrible y cruda realidad.\nNo hay nadie que responda a mi lamento,\nsolo el susurro lúgubre del viento.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

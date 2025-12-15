@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "A\n          M O\n         A M O R\n        CORAZONES\n       UNIDOS POR UN\n      A B R A Z O E T E R N O\n     ALMAS QUE DANZAN\n    SIEMPRE EN LA LUZ\n   LATIDO CON LATIDO\n  PASIÓN SIN FINAL\n AMOR VERDADERO\nSENTIR PROFUNDO\n CORAZÓN A CORAZÓN\n  SUEÑOS COMPARTIDOS\n   CARICIAS SUAVES\n    TIERNOS BESOS\n     LUZ INFINITA\n      FELICIDAD\n       PURA ALMA\n        AMAR\n         SER\n          YO\n           TÚ",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

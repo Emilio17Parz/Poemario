@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "[EL DUDOSO]\n¿Estoy haciendo lo correcto? ¿O estoy construyendo mi propia ruina con cada paso?\nLa duda es el gusano que roe la manzana de mi voluntad. Me paraliza.\nPrefiero el error seguro que el acierto dudoso. El ser es esta agonía constante.\nLa verdad está en el centro, pero tengo miedo de ir a buscarla y no encontrar nada.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "duda"
+  }
+}

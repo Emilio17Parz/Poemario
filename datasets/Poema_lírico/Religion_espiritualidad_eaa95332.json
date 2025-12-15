@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En el silencio hablas,\na mi corazón,\nme das la razón,\ny abres las tablas.\nRompes las nieblas,\nde mi confusión.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

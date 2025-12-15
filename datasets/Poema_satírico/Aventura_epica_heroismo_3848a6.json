@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cerveza caliente,\ny cama con chinches,\nambiente valiente,\nde sucios berrinches.\nInicio de gesta,\nque siempre molesta.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Posada"
+  }
+}

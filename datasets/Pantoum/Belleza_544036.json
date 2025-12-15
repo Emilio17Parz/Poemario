@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brilla la piedra preciosa,\nreflejo de vanidad,\nfría y caprichosa,\nlujo de la ciudad.\n\nReflejo de vanidad,\ncaptura la luz del sol,\nlujo de la ciudad,\nbajo el farol.\n\nCaptura la luz del sol,\nbrilla la piedra preciosa,\nbajo el farol,\nfría y caprichosa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "joya"
+  }
+}

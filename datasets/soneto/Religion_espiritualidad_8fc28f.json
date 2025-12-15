@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ciega confianza en lo que no se ve,\ncerteza de lo que se espera,\nluz que alumbra la carretera\ny nos mantiene siempre en pie.\n\nLa fe mueve montañas, lo sé,\ny cruza cualquier frontera,\nhaciendo la carga ligera\ny calmando la sed con té.\n\nEs el ancla del alma mía,\nen medio de la tempestad,\nmi fuerza y mi alegría.\n\nCreo en la divina bondad,\ny aunque no vea el día,\nsé que existe la verdad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ancla"
+  }
+}

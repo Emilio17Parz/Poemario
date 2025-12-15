@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corriendo va el arroyo\npor la ladera,\nbuscando el mar inmenso\nde forma fiera.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "río"
+  }
+}

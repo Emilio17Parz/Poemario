@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Que resuene en la gesta mi inquebrantable **valor**, mi **honor**.\nY que guíe mis pasos su eterno **fulgor**, mi **honor**.\n\nEn los valles oscuros, donde acecha el **temor**,\nAlzo la espada y clamo, defendiendo **mi honor**.\n\nCada herida sufrida, cada gota de **dolor**,\nEs un pacto con el alma, nutriendo **mi honor**.\n\nNi el **clamor** de las hordas, ni el cruel destructor,\nQuebrarán esta alma que defiende **mi honor**.\n\nBusco tierras lejanas, el **esplendor** de un vencedor,\nY en el triunfo o la muerte, guardo fiel **mi honor**.\n\nQue se escriba en los anales mi inmortal **ardor**,\nPues mi vida es la épica de mi eterno **honor**.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "honor"
+  }
+}

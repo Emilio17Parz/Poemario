@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cayó la bestia de fuego y oro,\nel último monstruo de la era,\nya no hay magia en la pradera,\nni quien guarde el antiguo tesoro.\nSu muerte marca el deterioro,\nde un mundo de fantasía primera,\nla realidad avanza fiera,\ny yo su triste fin deploro.\nSin dragones no hay caballeros,\nni gestas que valga contar,\nsolo días grises y austeros.\nLa magia acaba de expirar,\ny quedamos los mensajeros,\ncon ganas de llorar.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

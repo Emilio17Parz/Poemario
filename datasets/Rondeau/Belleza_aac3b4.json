@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baila la danza leve,\ncomo la nieve,\nque cae despacio,\nen el espacio,\nque se mueve.\n\nEl tiempo es breve,\ny se atreve,\nal palacio,\nBaila la danza.\n\nQue nos eleve,\ny nos lleve,\nal topacio,\ndel gimnasio,\nque llueve,\nBaila la danza.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "baile"
+  }
+}

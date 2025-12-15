@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ya no hay dolor\nni lucha ni tormento\ncalma total.\nEl sueño sin ensueños\nque dura para siempre.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "paz"
+  }
+}

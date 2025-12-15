@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la piedra fría,\nduerme tu cuerpo inerte,\nvencido por la muerte,\nesperando el nuevo día.\nTu memoria es mi guía,\ny mi amparo fuerte.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

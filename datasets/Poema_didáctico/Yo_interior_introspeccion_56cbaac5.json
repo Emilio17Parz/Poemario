@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "No uses máscara ajena,\nque eso causa gran pena.\nSé tú mismo en verdad,\ncon tu propia identidad.\nLa copia nunca vale,\nlo que el original sale.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "autenticidad"
+  }
+}

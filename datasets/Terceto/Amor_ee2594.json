@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi corazón te canta una melodía fiel (A),\nla música pura que sabe sanar (A),\nla dulce y suprema miel (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Canto"
+  }
+}

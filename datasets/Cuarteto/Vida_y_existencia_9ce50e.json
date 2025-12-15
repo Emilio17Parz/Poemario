@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es sueño, dijo el poeta,\ny despertamos al fallecer,\npero mientras, hay que saber,\nvivir la ilusión de la meta.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

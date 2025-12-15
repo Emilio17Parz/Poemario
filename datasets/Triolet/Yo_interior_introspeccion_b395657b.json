@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Veo mi sombra\nen el suelo,\nque me nombra.\nVeo mi sombra,\nme asombra,\nsin consuelo.\nVeo mi sombra\nen el suelo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

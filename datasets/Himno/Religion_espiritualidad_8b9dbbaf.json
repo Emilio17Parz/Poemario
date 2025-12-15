@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Salve, oh Cruz, esperanza nuestra!\nÁrbol de vida y de salvación,\ndonde se obró la redención,\ny el amor grande se nos demuestra.\n\nEn tus maderos llevó la carga,\nde nuestros culpas el Salvador,\ncambiando en gozo nuestro dolor,\ny haciendo dulce la pena amarga.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "redención"
+  }
+}

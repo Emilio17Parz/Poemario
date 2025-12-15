@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El último suspiro ya se acerca,\ndonde la sombra eterna nos convoca,\nla voz callada, el alma que se seca.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Los ecos mudos de tu amor se van,\nDejando un hueco frío en el alma mía,\nY cada noche la melancolía\nAnida en versos que ya no serán.\n\nSe fue la risa, el beso, el dulce plan,\nMarchitas quedan flores de alegría,\nSin sol que alumbre ya la noche o día,\nMi corazón no entiende dónde están.\n\nAquella voz que murmuró el adiós,\nRompió el cristal de un sueño tan querido,\nDejando un eco amargo en mi existir.\n\nNo queda ya consuelo entre los dos,\nTan solo el rastro de lo que he perdido,\nY un tiempo mustio que no sabe huir.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

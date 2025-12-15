@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la llama viva y sagrada,\nque tú encendiste con tu mirar,\nfuego que no se puede apagar,\nen esta alma enamorada.\nSoy cera por ti derramada,\nque solo sabe por ti amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

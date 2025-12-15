@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Admiro tu fino talle\ny tu gracia al caminar,\nno hay nadie en la calle\nque te pueda igualar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "talle"
+  }
+}

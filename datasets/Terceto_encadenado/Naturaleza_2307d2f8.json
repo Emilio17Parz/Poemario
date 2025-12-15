@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompe fuerte la espumosa ola,\nsobre la arena de la playa,\ny se queda la orilla muy sola.\n\nCuando el agua salada se vaya,\nvolverá con su ritmo constante,\na saltar sobre la blanca raya.\n\nCual eterno y azul caminante.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "ola"
+  }
+}

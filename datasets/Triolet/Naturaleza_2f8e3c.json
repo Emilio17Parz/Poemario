@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La cumbre toca la nube,\nGigante de piedra y nieve,\nMientras el viajero sube.\nLa cumbre toca la nube,\nDonde el águila estuve,\nY el aire se mueve.\nLa cumbre toca la nube,\nGigante de piedra y nieve.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "cumbre"
+  }
+}

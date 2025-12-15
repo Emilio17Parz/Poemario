@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cada bicho tiene su función,\ndesde la abeja al gusano,\ntoda la creación,\nes útil al ser humano.\nRespeta la diferencia,\nes la ley de la existencia.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Biodiversidad"
+  }
+}

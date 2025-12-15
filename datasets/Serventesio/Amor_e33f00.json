@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juntos andamos la misma y ancha senda (A),\nsin miedo al castigo, sin temor al mal (B),\ntu mano es la fuerza, la noble ofrenda (A),\nla vida que es ya inmortal (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Senda"
+  }
+}

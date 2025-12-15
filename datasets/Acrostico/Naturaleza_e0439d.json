@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llantos del cielo gris,\nLavan la tierra seca.\nUniendo cada matiz,\nVida que nunca peca.\nInundas el país,\nAgua de biblioteca.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "LLUVIA"
+  }
+}

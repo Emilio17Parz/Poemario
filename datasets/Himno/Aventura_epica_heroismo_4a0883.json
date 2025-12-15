@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Brillo que ciega y despierta codicia,\ncausa de guerra y de negra malicia!\nOro escondido en la entraña del suelo,\nque a muchos ha dado mortal desconsuelo.\n\n¡Temed la riqueza que el alma corrompe,\ny los lazos santos de hermanos rompe!\nEl verdadero tesoro es la paz,\ny un corazón limpio, valiente y capaz.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

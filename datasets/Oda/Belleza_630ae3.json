@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sabor que el paladar quiere ya sentir,\nla esencia de vida sin un gran mal.\nEl gusto es la fuerza, sin poder huir,\nel alma que busca lo real.\n¡Oh, sensación noble, de dulce fulgor,\nme das la fe y el amor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Sabor"
+  }
+}

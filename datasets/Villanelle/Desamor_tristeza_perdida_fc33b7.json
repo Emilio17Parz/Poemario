@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Después de ti solo hay la nada,\nun horizonte sin color,\ny una esperanza abandonada.\n\nLa luz del sol está apagada,\ny reina el frío y el dolor,\ndespués de ti solo hay la nada.\n\nMi voluntad está quebrada,\nsin tu cariño y tu calor,\ny una esperanza abandonada.\n\nSiento la vida estancada,\nsin movimiento ni valor,\ndespués de ti solo hay la nada.\n\nEs una senda desgraciada,\ndonde no crece ninguna flor,\ny una esperanza abandonada.\n\nQueda el alma desolada,\nen este mundo aterrador,\ndespués de ti solo hay la nada,\ny una esperanza abandonada.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "nada"
+  }
+}

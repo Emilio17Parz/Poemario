@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tú eliges el rumbo, la senda y la fe (A),\nel bien o el mal, la sombra o la luz (B),\nla vida es un eterno 'yo sé' (A).\n\nLa vida es el peso de la dura cruz (B),\nla lucha constante, sin un final (C),\nla esencia de nuestro valor (B).\n\nNo hay más que amar, no hay más que el mal (C),\nque en ella hallar la fe (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Elegir"
+  }
+}

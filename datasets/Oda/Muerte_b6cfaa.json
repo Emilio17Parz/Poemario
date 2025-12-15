@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Hora final, de destino certero,\nel tic tac que por fin se detiene.\nEl alma se alza, cual fiel mensajero,\na la calma que siempre se tiene.\n¡Oh, instante preciso, de paz sinigual,\nel alma que encuentra lo real!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Hora"
+  }
+}

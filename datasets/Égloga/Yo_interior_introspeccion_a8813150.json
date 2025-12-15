@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "MENALCAS: Hay mucho ruido dentro de mi mente,\nmás que cigarras en tarde de agosto.\nBATILO: Cobrará el alma un terrible costo,\nsi no calmas ese caudal potente.\nBusca el silencio, pastor distraído,\ny encontrarás lo que habías perdido.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "mente"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Solo queda la paz absoluta,\nInmóvil reposo del guerrero,\nLejos de la humana y gran disputa.\nEl ruido se vuelve pasajero,\nNada interrumpe ya la ruta,\nCalla el mundo y calla el sendero,\nInmenso misterio que se imputa,\nOlvido total y verdadero.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "G L O R I A\n           V I C T O R I A\n         D E S T I N O\n       É P I C O\n     A V E N T U R A\n   R I E S G O\n  H E R O Í S M O\n C O R A J E\nV A L O R",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Resuena todavía aquel adiós,\ncomo un golpe mortal en la memoria,\nque rompió el lazo de nosotros dos.\n\nSe terminó la breve y dulce historia,\nquedando solo polvo y decepción,\nsin rastro de la dicha ni la gloria.\n\nSintiendo estallar el corazón.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

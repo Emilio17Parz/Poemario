@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si en un fugaz momento,\nme dieras, vida mía, el dulce beso,\nquedaría yo preso\nde tu boca y tu aliento.\nSería mi sustento,\nborrando del reloj todo el proceso,\nviviendo en el exceso.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "beso"
+  }
+}

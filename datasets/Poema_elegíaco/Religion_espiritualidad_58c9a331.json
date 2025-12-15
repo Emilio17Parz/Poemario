@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Pobre alma que vaga errante,\nlejos del hogar divino,\nperdida en el camino,\ntriste y agonizante.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "alma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nadie sabe qué existe\ntras el umbral,\nmisterio del destino\ntan natural.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

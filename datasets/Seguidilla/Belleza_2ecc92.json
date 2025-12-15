@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La mirada esconde (7a),\nla gran verdad (5b),\nmi alma responde (7c),\nsin crueldad (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Mirada"
+  }
+}

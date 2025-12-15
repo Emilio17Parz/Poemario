@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "[LA MUJER SOLA]\nTe siento en el pasillo, en la puerta que cruje sin viento.\nTe veo en las sombras, en la silla donde te sentabas a leer.\nNo te has ido, ¿verdad? Eres el fantasma que me recuerda mi error.\nTe has quedado a vivir en mi dolor, y no te atreves a cruzar el umbral.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

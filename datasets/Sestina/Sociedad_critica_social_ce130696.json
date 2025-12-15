@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Gobierna el vil dinero,\nlas mentes y almas,\ncomprando la verdad.\nNo hay honestidad,\nsolo el interés,\nque mueve la rueda.\n\nMueve la rueda,\nel dinero,\ny su revés.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "dinero"
+  }
+}

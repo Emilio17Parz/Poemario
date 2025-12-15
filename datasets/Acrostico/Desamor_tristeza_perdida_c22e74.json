@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Has querido escapar,\nUniendo el horizonte.\nImposible alcanzar,\nRíos, valle y monte.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "HUIR"
+  }
+}

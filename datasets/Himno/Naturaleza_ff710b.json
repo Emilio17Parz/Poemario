@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Agua bendita que bajas del cielo,\npara saciar de la tierra el anhelo!\nLavas el polvo y el aire renuevas,\ny vida fresca a los campos llevas.\n\n¡Cantad a la lluvia, madre de la flor,\nque calmas la sed y el fuerte calor!\nBendición líquida, clara y sonora,\nque el labrador con esperanza implora.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

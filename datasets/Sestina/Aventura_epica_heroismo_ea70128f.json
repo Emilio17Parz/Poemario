@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge el cañón en la gran batalla,\ntiembla la tierra bajo los pies,\ny el destino juega al ajedrez,\nmientras el grito humano no calla,\ny la sangre riega el campo gris,\nde un rojo oscuro y matiz.",
+    "tipo": "Sestina (Estrofa I)",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

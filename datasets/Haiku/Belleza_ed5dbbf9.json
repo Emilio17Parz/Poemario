@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Flor se abre al sol,\nUn bello y dulce brillo,\nPura perfección.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

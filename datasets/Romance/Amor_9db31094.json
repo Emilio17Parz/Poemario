@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Escribo sobre el papel,\ncon la tinta de mi pena,\npalabras que son cadenas\nque a tu recuerdo me ordenan.\nTe cuento que aquí los días\nse arrastran sobre la arena,\ny que sin tu luz hermosa,\nmi casa está en cuarentena.\nVuelve pronto, vida mía,\nque la soledad me llena,\ny rompe con tu llegada\nesta triste y larga escena.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "papel"
+  }
+}

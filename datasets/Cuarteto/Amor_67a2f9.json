@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus besos son miel, la más dulce y pura,\nque endulza mi vida, que calma mi sed,\nno hay más riqueza, no hay más locura,\nque en tu amor caer en la red.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Miel"
+  }
+}

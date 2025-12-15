@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Marcha hacia lo ignoto, paso adelante,\nvoluntad férrea del caminante.\n¡Gloria a la Conquista de lo imposible!,\nhacer real lo que era invisible.\n\nNuevos horizontes, tierras lejanas,\ndonde repican nuevas campanas.\nEl espíritu humano se expande y crece,\ny ante el reto jamás desfallece.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

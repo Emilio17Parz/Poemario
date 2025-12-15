@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo borra nombres y memoria,\ny el polvo cubre lo que ayer fue,\nasí termina la humana historia,\nsin que se sepa cómo ni por qué.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

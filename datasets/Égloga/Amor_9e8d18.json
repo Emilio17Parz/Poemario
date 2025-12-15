@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tengo celos del viento que toca,\ntu cabello suelto en la colina,\ny del sol que tu piel ilumina,\ny del agua que besa tu boca.\n\nQuisiera ser elemento y roca,\npara estar siempre junto a tu ser,\ny en cada instante poder tener,\nla dicha que tu cercanía provoca.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "viento"
+  }
+}

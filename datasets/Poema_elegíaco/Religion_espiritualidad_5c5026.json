@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El templo se ha caído, sus muros son polvo y son dolor,\ny la oración es solo un eco sin ningún fulgor.\nLa piedra fue la ilusión de un refugio seguro y fiel,\nla vida sin la calma, con sabor amargo a hiel.\n\nNo tengo ya el altar donde mi alma pueda rezar sin fin,\nsoy el errante solo en busca de un triste motín.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "templo"
+  }
+}

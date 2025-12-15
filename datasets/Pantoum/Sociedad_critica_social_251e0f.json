@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La felicidad se compra,\nen la tienda de moda,\nuna larga sombra,\nque nos incomoda.\n\nEn la tienda de moda,\nusar y tirar,\nque nos incomoda,\nsin descansar.\n\nUsar y tirar,\nla felicidad se compra,\nsin descansar,\nuna larga sombra.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "compra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se nos escapa el tiempo\ncomo agua entre los dedos,\ndejando atrás las virtudes,\nlas risas y los enredos.\nAyer éramos los niños,\nhoy somos viejos y quedos,\nmirando cómo el reloj\nnos cobra sus caros ruedos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

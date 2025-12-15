@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Para la mente loca,\nrespira profundo,\ncierra la boca,\ny el mundo.\nEn el centro estás tú,\ny la luz.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Meditación"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Apretados en el vagón,\ncomo en un cajón.\nOlores fuertes,\nde varias suertes,\ny un empujón.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "metro"
+  }
+}

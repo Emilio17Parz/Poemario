@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escamas de oro y aliento de fuego,\nguardián terrible de la cueva oscura,\nla locura,\nde quien osa perturbar su sosiego.\nBestia antigua de tiempos olvidados,\nmarcados,\npor la magia, el miedo y la leyenda,\nen la senda.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

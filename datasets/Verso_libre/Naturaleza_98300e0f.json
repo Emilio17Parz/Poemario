@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo se ha vestido de luto y el trueno rueda como carros de guerra sobre las nubes negras.\nEl relámpago escribe su firma de fuego en la oscuridad, desgarrando el velo del templo celeste.\nCae la lluvia como castigo o como bendición, azotando la tierra sedienta, lavando la cara del mundo.\nEs la furia de los elementos, la danza salvaje de la naturaleza que reclama su poder.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

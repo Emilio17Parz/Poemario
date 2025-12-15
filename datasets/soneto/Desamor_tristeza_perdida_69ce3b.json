@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El tiempo no cura, solo aleja,\npone polvo sobre la herida,\npero sigue la cicatriz de vida\nque duele como una llaga vieja.\n\nEscucho del viento la triste queja,\nque suena a despedida y partida,\ny siento el alma desprotegida\ncomo oveja sin su pareja.\n\nPasarán los años y los meses,\ny quizás otro amor vendrá,\npero tú en mi memoria permaneces.\n\nNadie sabe cuándo acabará\neste sufrir que crece con creces\ny que mi paz siempre robará.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "cicatriz"
+  }
+}

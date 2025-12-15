@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque antiguo, de musgo vestido,\nacuna el canto de un feliz gorrión,\ny ofrece al mundo, con grato fulgor,\nla flor que es promesa, un sueño prometido.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi alma es un jardín\nde sombra y de paz.\nEl único motín\nsin ser capaz.\n\nMe guardo el silencio,\nla flor y el dolor,\nmi único templo\nsin ningún fulgor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

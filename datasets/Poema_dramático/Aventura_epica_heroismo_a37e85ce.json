@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "GENERAL: ¡Soldados! ¡Mirad al frente al enemigo!\nSOLDADO: Son muchos, señor, yo lo digo.\nGENERAL: ¿Teméis a la muerte o a la deshonra?\nSOLDADO: Temo no ver a quien me nombra.\nGENERAL: Hoy cenaremos en la gloria o en el suelo.\n¡Por la patria! ¡Por el rey! ¡Sin recelo!\nSOLDADO: (Gritando) ¡A la carga! ¡Sangre y acero!\nGENERAL: ¡Ese es el espíritu guerrero!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "honor"
+  }
+}

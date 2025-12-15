@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Qué dejamos al irnos, qué huella,\nen la arena del mundo, qué huella.\n\nUn amor, una frase, un recuerdo,\nes lo único vivo, la huella.\n\nCaminamos buscando sentido,\npara no ser fantasma sin huella.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "huella"
+  }
+}

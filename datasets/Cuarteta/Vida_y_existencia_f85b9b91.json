@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es un gran laberinto\nnuestra estancia terrenal,\nnos guía el puro instinto\nhacia el juicio final.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

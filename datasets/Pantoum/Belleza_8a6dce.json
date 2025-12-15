@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Aroma que embriaga el aire,\nesencia de flor cortada,\ncon sutil donaire,\nnota delicada.\n\nEsencia de flor cortada,\nrecuerdo que permanece,\nnota delicada,\nque nunca fallece.\n\nRecuerdo que permanece,\naroma que embriaga el aire,\nque nunca fallece,\ncon sutil donaire.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "perfume"
+  }
+}

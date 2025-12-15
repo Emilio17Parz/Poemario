@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En mi sueño estás,\ny nunca te vas,\nde mi mente enamorada,\ntan dulce y amada,\nque paz me das.\n\nNo miro atrás,\nen mi sueño estás.\n\nSé que volverás,\ny me besarás,\nen la madrugada,\ncon la luz plateada,\ny tú me amarás.\nEn mi sueño estás.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

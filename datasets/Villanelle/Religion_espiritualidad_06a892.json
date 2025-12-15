@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Ángel de mi guarda,\ndulce compañía,\nque nunca tarda.\n\nNo se acobarda,\nnoche y día,\nángel de mi guarda.\n\nMe resguarda,\ncon alegría,\nque nunca tarda.\n\nMe aguarda,\nen la vía,\nángel de mi guarda.\n\nLa bardana,\nque me guía,\nque nunca tarda.\n\nLa alabarda,\nque me fía,\nángel de mi guarda,\nque nunca tarda.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

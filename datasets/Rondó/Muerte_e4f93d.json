@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el final del camino,\ndonde todo se detiene.\nYa nada nos sostiene,\nsolo el destino.\n\nEs el molino,\nque va y viene.\nLlega el final del camino,\ndonde todo se detiene.\n\nTrago de vino,\nque nos mantiene.\nNadie previene,\nel golpe fino.\nLlega el final del camino.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "final"
+  }
+}

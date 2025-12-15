@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verdes montañas, la luz de la mañana,\nel aire fresco besa la floresta,\ny el claro **río** fluye sin protesta,\nvida gentil.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "río"
+  }
+}

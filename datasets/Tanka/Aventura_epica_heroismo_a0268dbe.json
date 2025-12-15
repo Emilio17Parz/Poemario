@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Viaje audaz,\nCon valor, alma enardecida.\nCanta la espada.\nEl héroe lucha sin temor,\nGloria eterna al fin ganada.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "espada"
+  }
+}

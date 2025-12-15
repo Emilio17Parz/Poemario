@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La mar bravía,\nde noche y día,\ngolpea la roca,\ncon fuerza loca,\ny energía.\n\nTodo lo guía,\nla mar bravía.\n\nSu melodía,\nme traería,\nla espuma poca,\nque me toca,\ncon alegría.\nLa mar bravía.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "mar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sendero largo de polvo y piedra,\nque cada hombre debe trazar,\na veces liso, a veces hiedra,\nque los tobillos quiere atrapar.\nNo importa el fin, sino el andar,\ny las huellas que has de dejar.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Camino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La llamada salvaje,\ndel hombre moderno,\nes ir de camping,\ncomo al infierno.\nSin aire ni tele,\nni cama blanda,\nla naturaleza,\nes quien manda.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "camping"
+  }
+}

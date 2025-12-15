@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La roca se alza, seria e inmóvil,\nviendo pasar al viento y la estación.\nElla es el tiempo, el centro no frágil,\ndonde descansa el corazón.\n\nSu cima toca el cielo y la verdad,\ncon su silencio y su majestad.\nNos enseña la fuerza de la firmeza,\nla clave de la belleza,\ny el valor de la larga paciencia.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

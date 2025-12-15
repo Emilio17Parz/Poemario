@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Es el destino,\ndel camino.\nQue traza,\ny abraza,\nel divino.\n\nEl molino,\ny el vino.\nLa raza,\nes el destino.\n\nEl pino,\ny el lino.\nLa caza,\nque amenaza,\nal peregrino,\nes el destino.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Amarás a tu prójimo como a ti mismo; no hay otro mandamiento mayor que estos. ¿Quién es mi prójimo?\nUn hombre descendía de Jerusalén a Jericó, y cayó en manos de ladrones; pero un samaritano, viéndole, fue movido a misericordia.\nSobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo. El que no ama, no ha conocido a Dios.\nEn esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros, como yo os he amado.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "prójimo"
+  }
+}

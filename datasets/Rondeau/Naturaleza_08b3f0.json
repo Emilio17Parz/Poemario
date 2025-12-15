@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna brilla,\nmaravilla.\nEn la noche oscura,\nda su ternura,\nsencilla.\n\nSobre la orilla,\ny la semilla.\nCon su blancura,\nla luna brilla.\n\nNo se humilla,\nni se astilla.\nEs la cura,\nde la locura,\nde la pandilla,\nla luna brilla.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "luna"
+  }
+}

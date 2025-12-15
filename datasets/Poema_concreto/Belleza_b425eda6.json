@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "A R T E\n    M I R A D A\n   B E L L E Z A\n  L U Z Q U E F L U Y E\n B E L L E Z A C R E A D A\nA R T E E N C A D A T R A Z O\n B E L L E Z A C R E A D A\n  L U Z Q U E F L U Y E\n   B E L L E Z A\n    M I R A D A\n     A R T E",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

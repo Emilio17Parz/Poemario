@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vampiro de la noche estival,\nzumbido que quita el sueño,\npequeño ser del mal,\nde mi sangre te haces dueño.\nRey de la naturaleza,\nque aplasto con destreza.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Mosquito"
+  }
+}

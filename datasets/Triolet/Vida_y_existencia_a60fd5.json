@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es laberinto,\nla existencia.\nPor instinto,\nes laberinto.\nCon paciencia,\ny vino tinto.\nEs laberinto,\nla existencia.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

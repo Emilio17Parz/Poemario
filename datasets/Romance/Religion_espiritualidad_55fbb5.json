@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El tiempo aquí se termina\npero el alma sigue allá,\nen un presente continuo\nque nunca acabará.\nLa eternidad nos espera\ncomo un inmenso maná,\ndonde veremos el rostro\ndel que todo lo da.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

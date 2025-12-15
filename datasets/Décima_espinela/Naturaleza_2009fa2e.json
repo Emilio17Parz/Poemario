@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro hacia el alto cielo\npintado de azul intenso,\nun escenario tan inmenso\nque levanta mi desvelo.\nEs el infinito velo\nque cubre nuestra morada,\ny en la noche estrellada\ncuenta cuentos de cristal,\nun espectáculo real\npara el alma enamorada.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

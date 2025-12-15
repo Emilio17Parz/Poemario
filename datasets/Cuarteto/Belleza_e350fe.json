@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras que son diamantes,\ngarzadas con maestría,\nla más bella melodía,\npara los seres amantes.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

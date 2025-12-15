@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Las peores cadenas son mentales,\ncreencias que nos limitan la vida;\nbusca en el saber la salida,\na esos prejuicios fatales.\nPiensa por ti mismo, sé crítico,\ny rompe el encierro mítico.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

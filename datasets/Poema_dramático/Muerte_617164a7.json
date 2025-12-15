@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "CUERPO: Aléjate, bicho, no me toques.\nGUSANO: Soy tu destino, aunque te aloques.\nCUERPO: Fui bello y rico, tuve poder.\nGUSANO: Ahora eres carne para comer.\nCUERPO: ¡Qué asco! ¡Qué fin tan miserable!\nGUSANO: Soy el reciclaje indispensable.\nDe ti nacerá una flor mañana.\nCállate y entra en la tierra sana.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

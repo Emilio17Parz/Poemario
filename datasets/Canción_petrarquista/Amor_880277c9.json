@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hirióme Amor con su dorada flecha\nentrando por los ojos al sentido,\ny quedé tan perdido\nque ya no hallo la puerta ni la brecha.\nDulce herida que mana vida y muerte,\ntriste y alegre, mi cambiante suerte,\nque adoro mi dolor\ny bendigo la mano del tirador.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "flecha"
+  }
+}

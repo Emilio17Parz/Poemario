@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tierra te cubre ya,\nUna losa pesada.\nMuerto el cuerpo está,\nBajo la cruz clavada.\nAdiós se quedará.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "TUMBA"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La brevedad de nuestra existencia,\nda a la vida su real esencia.\nSi fuéramos dioses inmortales,\nno tendrían valor nuestros males.\nLa muerte da precio al tiempo,\ny hace sagrado cada momento.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "valor"
+  }
+}

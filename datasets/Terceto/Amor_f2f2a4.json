@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En la noche te busco, mi estrella sin fin (A),\nla luz que me guía, el dulce amor (A),\nel eterno y puro jazmín (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Noche"
+  }
+}

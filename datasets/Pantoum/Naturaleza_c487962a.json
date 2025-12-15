@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla fuerte el invisible viento,\nmoviendo las hojas caídas,\nllevándose lejos el lamento,\nde las tardes ya despedidas.\n\nMoviendo las hojas caídas,\ncon su fuerza y su libertad,\nde las tardes ya despedidas,\nen la inmensa soledad.\n\nCon su fuerza y su libertad,\nsopla fuerte el invisible viento,\nen la inmensa soledad,\nllevándose lejos el lamento.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "viento"
+  }
+}

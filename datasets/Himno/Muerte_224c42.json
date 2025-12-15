@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Estructura blanca que nos sostiene,\ny que al final la tierra retiene.\nImagen desnuda de la verdad,\nque se ríe de nuestra vanidad.\n\n¡Mirad al hueso que queda pelado,\ntras haber sido tan regalado!\nEs el espejo de nuestro futuro,\nfirme, callado, yerto y duro.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "esqueleto"
+  }
+}

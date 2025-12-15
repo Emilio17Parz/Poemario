@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es sueño (7a),\nsin un final (5b),\nmi alma sin dueño (7c),\nsin un mal (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

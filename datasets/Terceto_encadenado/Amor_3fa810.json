@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres el sueño que al fin se realizó (A),\nla imagen perfecta de la verdad (B),\nmi corazón en ti se ancló (A).\n\nLa pena se aleja, la adversidad (B),\nno encuentra en mi alma ya más prisión (C),\nla dulce esperanza de la eternidad (B).\n\nPor ti yo resisto con gran condición (C),\nsin miedo al castigo, sin un final (D),\nla clave de la gran lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja la musa y me inspira,\nlos versos del corazón,\nmientras toca su lira.\n\nMi mente delira,\ncon tal emoción,\nbaja la musa y me inspira.\n\nEl aire respira,\nsu dulce canción,\nmientras toca su lira.\n\nElla me mira,\ncon gran pasión,\nbaja la musa y me inspira.\n\nTodo gira,\nen esta ilusión,\nmientras toca su lira.\n\nNunca retira,\nsu bendición,\nbaja la musa y me inspira,\nmientras toca su lira.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "musa"
+  }
+}

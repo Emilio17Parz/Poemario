@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Fulgores en la sombra del tiempo\"",
   "poema": {
     "texto": "Flotan luzes en sombras pasadas,\nTiempo vuelve a desvelar su traza,\nCambia de color nuestra mirada.",

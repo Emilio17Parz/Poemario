@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El silencio me consume, (A)\nme arrastra ya la verdad, (B)\nmi vida sin claridad, (B)\nmi ser ya se resume. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

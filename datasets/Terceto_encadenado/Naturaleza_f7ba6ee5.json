@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luz del alba en la montaña asoma,\nDespierta el prado con rocío frío,\nY el aire fresco que la sien me doma.\n\nUn claro arroyo busca ya su río,\nDonde la trucha danza en su vaivén,\nDejando atrás un plácido vacío.\n\nEl verde musgo cubre cada bien,\nUn eco antiguo trae el suave viento,\nQue al árbol viejo acaricia sin desdén.\n\nMurmura historias con sutil lamento,\nMientras el pájaro levanta el vuelo,\nDe un mundo puro, frágil monumento.\n\nLa vida fluye bajo el mismo cielo,\nUn canto eterno de amor y consuelo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "viento"
+  }
+}

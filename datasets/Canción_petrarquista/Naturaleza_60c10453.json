@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El manso soplo que las ramas mueve\ny el verde manto que la tierra viste,\ndo el ruiseñor su canto triste\nen honda paz al mundo nuevo atreve.\n\nLa clara fuente que en su curso llueve\nsobre las piedras que el musgo reviste,\ny el sol que al cielo azul se asiste,\ncon áurea luz al valle raudo eleve.\n\nSi miro el bosque que el silencio guarda,\no el monte que a los cielos se levanta,\nmi alma, que en la quietud no es cobarde,\n\nhalla un consuelo que el dolor descarta,\ny cuando el sol su luz ya no implanta,\nla suave **luna** con su brillo alarde.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "luna"
+  }
+}

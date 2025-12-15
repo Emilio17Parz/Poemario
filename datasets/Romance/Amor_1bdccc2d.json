@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Caminamos de la mano\npor la senda del destino,\ntú eres luz de mi mañana\ny la sombra en mi camino.\nSi las moiras lo tejieron\ncon su hilo cristalino,\nseguiré tus dulces pasos\nhasta el último confino.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "destino"
+  }
+}

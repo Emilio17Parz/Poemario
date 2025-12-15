@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedra fría y dura,\nque guarda el sueño de quien ya se ha ido;\nen polvo convertido,\nsin amargura.\nDescanso eterno bajo el verde suelo,\nmirando al cielo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es sentir, gozar y sufrir,\nreír y llorar, caer y volver,\nla clave no es solo resistir,\nsino aprender, siempre aprender.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Vivir"
+  }
+}

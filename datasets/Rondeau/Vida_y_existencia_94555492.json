@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, un soplo al azar,\nUn camino que debemos andar,\nCon alma que siente el temor,\nY busca un poco de calor,\nPara no desfallecer al mirar.\n\nEn cada paso, al transitar,\nIntentamos nuestro rumbo trazar,\nPese al amargo sabor,\nLa vida, un soplo al azar.\n\nEn un sinfín de puertas sin hallar,\nNos perdemos y volvemos a dudar,\nPues el mundo es un cruel escultor,\nQue nos forja con dolor,\nEs un oscuro laberinto que hay que cruzar,\nLa vida, un soplo al azar.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

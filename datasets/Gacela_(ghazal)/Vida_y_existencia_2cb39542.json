@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo es un río que nunca se para,\nagua que corre y nos lava la cara.\n\nSe lleva la juventud tan avara,\ny nos deja la vejez en la vara.\n\nAprovecha el momento que dispara,\nantes que la muerte nos separe.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

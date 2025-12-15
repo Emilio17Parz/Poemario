@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Muerte, sombra antigua, sin clamor,\nSe acerca al umbral ya conocido,\nUn soplo helado que apaga el fulgor,\nDejando el mundo en silencio y dormido.\n\nNo importa cetro, ni fortuna o edad,\nSu manto oscuro a todos va a cubrir,\nEn su pupila yace la verdad,\nQue toda vida tiene que morir.\n\nDeja un vacío, un hueco sin final,\nEn corazones que aún laten con pesar,\nUn eco triste del bien o del mal,\nQue ya no vuelve a este terrenal lugar.\n\nMas hay un velo, más allá del adiós,\nDonde las almas emprenden su viaje,\nDejan la carne, los ayeres, los \"nos\",\nHacia un destino, un ignoto paraje.\n\nAllí se encuentra la dulce **eternidad**,\nUn mar sin tiempo, un cielo sin confín,\nDonde el recuerdo pierde su cualidad,\nY cada alma halla su propio fin.\n\nAsí la Muerte, no es tan solo un final,\nSino una puerta hacia lo que no fue,\nUn soplo místico, un don trascendental,\nQue más allá del tiempo, siempre vive y cree.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

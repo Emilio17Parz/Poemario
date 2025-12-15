@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento no tiene fin,\nmi alma es un trajín.\n\nEl aire ya me llegó,\nla pena ya se me fue,\nel mundo ya no está mal,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "viento"
+  }
+}

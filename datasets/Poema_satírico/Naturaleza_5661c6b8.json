@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Fuimos de picnic al bosque,\npara que el alma se enrosque.\nPero entre hormigas y arañas,\ny picaduras extrañas,\nterminamos en el coche,\nodiando el día y la noche.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

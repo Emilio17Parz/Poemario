@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego purificador,\nque reduce a polvo gris,\nlo que fue vida feliz,\ny cuerpo de pecador.\nQueda solo el olor,\nde la carne ya quemada,\ny una urna guardada,\ncon los restos del ayer,\nque no volverá a ser,\nmás que tierra nada.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

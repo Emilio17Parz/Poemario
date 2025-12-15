@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hablar con las plantas,\nporque no discuten,\ntú te aguantas,\ny que no te imputen.\nMejor solo que mal,\nen el carnaval.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Soledad"
+  }
+}

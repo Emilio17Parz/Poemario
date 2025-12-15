@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ha llegado primavera\nvistiendo el campo de flores,\ntrayendo a los corazones\nlos más dulces de amores.\nLa mariposa aletea\nluciendo sus mil colores,\ny el mundo entero celebra\nlejos de los sinsabores.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

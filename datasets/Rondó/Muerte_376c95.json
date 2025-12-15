@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se marchitó la flor,\nantes de tiempo.\nEn un contratiempo,\nperdió el color.\n\nSin olor,\nni pasatiempo.\nSe marchitó la flor,\nantes de tiempo.\n\nEl dolor,\nes el ejemplo.\nEn el templo,\ndel amor.\nSe marchitó la flor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra fría que la vida corta,\nUn velo eterno, la quietud callada,\nPromesa hueca que jamás conforta.\n\nLa quietud callada que a la nada aborda,\nDonde el recuerdo en la profunda tumba\nSu fin encuentra, la batalla sorda.\n\nAllí en la tumba, el cuerpo ya se arrumba,\nEl alma errante, ¿a dónde irá volando?\nLa voz que canta, por la tierra zumba.\n\n¿A dónde irá, por fin, el alma errante?\nUn eco triste de lo que fuimos antes,\nEn el silencio eterno, palpitante.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El mundo está muy loco,\ny la cordura es poco.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "loco"
+  }
+}

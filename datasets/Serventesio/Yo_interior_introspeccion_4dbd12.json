@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El propósito llama, la voz que al fin se va a alzar (A),\nla razón de todo mi existir (B),\nla vida es un canto, que sabe volar (A),\nla fuerza que ayuda a seguir (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Propósito"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Columna fuerte\ntecho en pico\npuerta sagrada\ncasa de Dios\nrefugio santo\npaz adentro\nsilencio.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "templo"
+  }
+}

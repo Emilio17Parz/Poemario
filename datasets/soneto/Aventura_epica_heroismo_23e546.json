@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Suenan trompetas y tambores,\nel acero brilla en el sol,\ncorre la sangre y el alcohol,\ny se olvidan los amores.\n\nGritos, polvo y horrores,\nen este campo español,\ndonde se juega el control,\nentre reyes y señores.\n\nLa batalla es un caos cruel,\ndonde la vida no vale,\ny la muerte es el laurel.\n\nNadie que entre y exhale,\nsaldrá con la blanca piel,\nni hará que el dolor acalle.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

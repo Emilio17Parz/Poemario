@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Batalla dura,\nEn el campo,\nSin mesura.\nBatalla dura,\nLa armadura,\nDel lampo.\nBatalla dura,\nEn el campo.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

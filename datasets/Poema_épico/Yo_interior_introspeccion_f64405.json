@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dentro de mí hay pasillos largos,\nmuros de dudas y de temor,\nrecuerdos dulces y tragos amargos,\nbuscando el centro, el motor.\nSoy el minotauro y soy Teseo,\nperdido en mi propio deseo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Laberinto"
+  }
+}

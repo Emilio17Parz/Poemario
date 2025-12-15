@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Vienen las imágenes del ayer,\ncomo hojas secas al caer.\n\nLo que fui y lo que quise ser,\nse mezcla todo al atardecer.\n\nLa memoria es un renacer,\no una forma de padecer.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

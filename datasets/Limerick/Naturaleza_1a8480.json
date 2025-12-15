@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La piedra que yace en el suelo,\nsoporta sin pena ni anhelo.\nLa lluvia y el sol,\nsin un gran farol,\nla fuerza que tiene el abuelo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Piedra"
+  }
+}

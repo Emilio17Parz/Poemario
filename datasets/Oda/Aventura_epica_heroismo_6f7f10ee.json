@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Caballo de madera y vela,\nque galopas sobre la ola,\ndejando blanca estela\ncuando navegas sola.\nCasa flotante y valiente,\nque cruzas el horizonte,\nllevando a la osada gente\nlejos del firme monte.\nCuna de la aventura,\npuente entre dos orillas,\ntu casco la mar tortura\ncon tus maderas sencillas.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "barco"
+  }
+}

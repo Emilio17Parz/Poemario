@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Corona de diamantes\nque pesa sobre la sien del monarca;\ntoda la comarca\ny sus habitantes\nponen en él su paz y su justicia;\nno la codicia\ndebe guiar su mano,\nsino el amor al género humano.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "rey"
+  }
+}

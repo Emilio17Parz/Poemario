@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tuvo que partir por negocios urgentes,\nSe prometieron cartas, abrazos fervientes.\nElla lloró una hora, él solo un minuto,\nPero la ausencia fue el más amargo fruto.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

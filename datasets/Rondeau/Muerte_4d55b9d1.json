@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Hacia la eternidad,\ncon gran serenidad,\nparte el alma pura,\ndejando la amargura,\ny la vanidad.\n\nBusca la verdad,\ny la claridad,\nen esa altura,\nhacia la eternidad.\n\nSin la gravedad,\nde la enfermedad,\nhalla su cura,\ny su hermosura,\nen la inmensidad,\nhacia la eternidad.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cae el telón de la función,\nse apagan luces del escenario,\ncesa el latido del corazón,\ny se termina el calendario.\nEs la suprema lección,\nque nos iguala en el confín,\nsin distinción ni condición,\ncuando llegamos al final fin.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "fin"
+  }
+}

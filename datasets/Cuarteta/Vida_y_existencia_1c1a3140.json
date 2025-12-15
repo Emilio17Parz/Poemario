@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida parece un sueño\ndel que vamos a despertar,\nnadie es el propio dueño\nde su forma de pensar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

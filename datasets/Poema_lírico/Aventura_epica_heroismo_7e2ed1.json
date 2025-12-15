@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi armadura está en trozos,\nel cuerpo, también.\nEl alma no tiene gozos\nsin ningún bien.\n\nPero el corazón late,\ncon fuerza sin igual,\nla vida que combate\ncontra el duro mal.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "armadura"
+  }
+}

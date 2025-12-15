@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El mundo es un gran escenario,\ndonde todos jugamos un papel,\nel rey, el mendigo, el infiel,\nsiguiendo un oculto guion diario.\n\nDetrás del telón y del vestuario,\nse esconde la piel y la hiel,\nla verdad amarga o la miel,\nde nuestro destino solitario.\n\nActuamos para un público ciego,\nbuscando el aplauso y la gloria,\nhasta que se apaga el fuego.\n\nY queda solo en la memoria\nel eco de nuestro juego,\nperdido en la inmensa historia.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "teatro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pelo de plata\nexperiencia en la piel\natardecer.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Te prestan paraguas,\ncuando hace sol,\ny te lo quitan,\ncuando hay charol.\nEl banco es amigo,\ndel que tiene más,\ny al pobre le cobra,\npor respirar.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "bancos"
+  }
+}

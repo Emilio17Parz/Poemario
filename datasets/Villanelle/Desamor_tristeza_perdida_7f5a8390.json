@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche cae sobre mi alma,\noscura y fría como el final,\nrobándome toda la calma.\n\nNadie me ofrece una palma,\npara vencer a este vendaval,\nla noche cae sobre mi alma.\n\nNo hay lucero que ensalma,\nesta herida tan visceral,\nrobándome toda la calma.\n\nLa pena crece y se empalma,\ncon un dolor descomunal,\nla noche cae sobre mi alma.\n\nSoy un barco que no encalma,\nperdido en un mar de sal,\nrobándome toda la calma.\n\nEspero el día que desalma,\neste suplicio tan fatal,\nla noche cae sobre mi alma,\nrobándome toda la calma.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "noche"
+  }
+}

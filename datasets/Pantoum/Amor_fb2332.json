@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se detiene el reloj cuando te veo,\nel tiempo pierde su autoridad,\neres la fuente de mi deseo,\nla única y clara realidad.\n\nEl tiempo pierde su autoridad,\nlos minutos se vuelven eternos,\nla única y clara realidad,\nlejos de fríos y de inviernos.\n\nLos minutos se vuelven eternos,\neres la fuente de mi deseo,\nlejos de fríos y de inviernos,\nse detiene el reloj cuando te veo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pasa el tiempo\npero su luz no muere\neterno bien.\nModelos del pasado\nque siguen enseñando.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "clásico"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La dulce soledad,\nes un bálsamo en la herida,\ndel alma cansada.\nEncuentro mi propia voz ya,\nlejos del bullicio cruel.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Soledad"
+  }
+}

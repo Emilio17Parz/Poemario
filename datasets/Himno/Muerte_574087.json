@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No muere del todo quien es amado,\ny en la memoria sigue guardado.\nVivir en los otros es perdurar,\ny a la misma muerte desafiar.\n\n¡Gloria al recuerdo que nos mantiene,\ny que el olvido cruel detiene!\nEstatua viva en el pensamiento,\nmás fuerte que el mármol y el cimiento.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

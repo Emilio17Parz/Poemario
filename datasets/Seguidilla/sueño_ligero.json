@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "sueño ligero",
   "poema": {
     "texto": "Cierro los ojos\\nentre el silencio\\nflota mi mente\\nsobre la sombra",

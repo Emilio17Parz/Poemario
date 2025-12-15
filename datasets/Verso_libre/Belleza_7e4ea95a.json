@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Hay belleza en el caos.\nEn las olas rompiendo desordenadas,\nen las estrellas esparcidas sin patrón,\nen la ciudad bulliciosa.\nEl orden estricto aburre.\nEl caos es vida hirviendo,\nes energía desbordada,\nes la belleza salvaje de lo impredecible.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "caos"
+  }
+}

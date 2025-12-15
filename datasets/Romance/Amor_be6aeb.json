@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu Risa era un dulce canto,\nque me daba gran solaz,\nahora solo encuentro el llanto,\ny no tengo ya la paz.\n\nMe engañaste con tu boca,\ncon tu dulce falsedad,\ny mi corazón se aloca,\nsin tu dulce claridad.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

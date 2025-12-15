@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj se para en la hora incierta,\nel péndulo inmóvil, ya sin sonar,\nla puerta al vacío, siempre abierta,\nque nadie más puede ya cerrar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Reloj"
+  }
+}

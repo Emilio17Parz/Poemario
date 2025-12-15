@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llora Andrómaca sobre el muro,\nviendo el cuerpo de Héctor arrastrado,\npor el carro de Aquiles, atado,\nun destino cruel y oscuro.\nTroya se pierde, el fin es duro,\nel príncipe ha sido matado,\ny el futuro queda cerrado,\nbajo un cielo negro y puro.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "lamento"
+  }
+}

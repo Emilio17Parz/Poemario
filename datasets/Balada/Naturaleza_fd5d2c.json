@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entre los robles de sombra y paz,\ncanta el jilguero su dulce son,\nel viento mueve la hoja vivaz,\ny late fuerte el gran corazón.\nHuele a madera, a musgo y a flor,\nel aire puro que viene y va,\ny el sol se filtra con su calor,\ndonde el arroyo corriendo está.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

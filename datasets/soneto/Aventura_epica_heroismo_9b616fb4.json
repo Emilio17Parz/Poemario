@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El sol naciente besa un viejo sendero,\nUn corazón valiente busca un porvenir,\nDe un reino antiguo, un alma de guerrero,\nQue no teme la sombra, ni quiere huir.\n\nPor valles ignotos, montañas de hielo,\nUn eco de gestas su marcha acompaña,\nEl rugir del dragón bajo un turbio cielo,\nY el miedo a la muerte jamás le empaña.\n\nSu brazo incansable, con fe como escudo,\nLa llama del alma que arde sin cesar,\nEn cada batalla, jamás fue mudo,\n¡Con la misma **espada** que supo forjar!\n\nAsí forja el héroe su inmortal leyenda,\nLa gloria le espera al fin de la contienda.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "espada"
+  }
+}

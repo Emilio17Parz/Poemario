@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "No sabe hacer nada,\npero es famoso,\npor fotos de morros,\ny ser ocioso.\nLe regalan todo,\npor su carisma,\ny la juventud,\ncae en el misma.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "influencer"
+  }
+}

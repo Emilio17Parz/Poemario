@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La tierra nos da la vida\ny la tierra nos la quita,\ntodo se vuelve polvo\ncuando la muerte visita.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

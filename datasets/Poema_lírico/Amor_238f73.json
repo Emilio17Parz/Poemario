@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi nave iba a la deriva,\nperdida en el mar gris,\nsin puerto ni motivo,\nsin principio ni raíz.\n\nY tú fuiste el ancla\nque cortó la deriva,\nla orilla segura\nque el alma cautiva.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "ancla"
+  }
+}

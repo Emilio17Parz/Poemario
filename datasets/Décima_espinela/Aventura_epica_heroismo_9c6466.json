@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Líneas de tinta vieja,\nsobre el papel gastado,\nun camino trazado,\nque el misterio refleja.\nLa ruta no se aleja,\ndel norte y su señal,\nes la guía vital,\npara el buen explorador,\nque busca con valor,\nsu destino final.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

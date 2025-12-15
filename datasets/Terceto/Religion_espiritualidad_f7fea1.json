@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La templanza es calma, un dulce freno sin par (A),\nal impulso ciego, a la ciega pasión (A),\nla forma de al fin sanar (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Templanza"
+  }
+}

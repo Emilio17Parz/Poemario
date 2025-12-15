@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "MENDIGO: Una moneda, por caridad.\nBANQUERO: Trabaja, vago, ten dignidad.\nMENDIGO: No hay trabajo, señor, tengo hambre.\nBANQUERO: Eso es excusa de tu enjambre.\nMENDIGO: Usted tiene mucho, yo nada.\nBANQUERO: Mi riqueza fue bien ganada.\nApártate, ensucias mi traje.\nMENDIGO: Y usted ensucia el paisaje.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "moneda"
+  }
+}

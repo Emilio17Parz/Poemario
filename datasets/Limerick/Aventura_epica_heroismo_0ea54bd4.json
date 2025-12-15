@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un héroe, en su audaz **viaje**,\nEnfrentó bestias con gran coraje.\nSu espada fulguró,\nAl mal derrotó,\nY paz trajo al fin del paisaje.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

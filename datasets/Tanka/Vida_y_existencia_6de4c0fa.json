@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El ser despierta,\nBusca un sentido, luz y verdad,\nVaga sin fin\nEn este cruel laberinto,\nEl alma busca paz al final.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

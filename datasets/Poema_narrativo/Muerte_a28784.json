@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj se paró justo a las doce y diez,\nEl minuto del fin, por última vez.\nEl péndulo se hizo quieto, la manecilla fría,\nMarcando la hora de la partida y la agonía.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

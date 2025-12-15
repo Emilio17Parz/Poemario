@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viste mi alma de negro luto,\nllora la ausencia el negro luto.\n\nDolor que se lleva por dentro y por fuera,\nmarca de pena el negro luto.\n\nEl tiempo no borra la sombra amarga,\nque deja en la vida el negro luto.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "luto"
+  }
+}

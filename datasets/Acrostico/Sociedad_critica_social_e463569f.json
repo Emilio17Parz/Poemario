@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "M ientras unos derrochan,\nU nos mueren de sed,\nN adie las puertas tochan,\nD onde cae la red,\nO scuras voces brochan.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "mundo"
+  }
+}

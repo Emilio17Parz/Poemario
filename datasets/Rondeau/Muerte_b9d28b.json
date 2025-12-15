@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es un gran misterio,\neste imperio.\nLo que hay después,\ndel envés,\ndel cementerio.\n\nCriterio,\nserio.\nNadie lo ve,\nes un gran misterio.\n\nCautiverio,\no refrigerio.\nYo no sé,\nlo que hallaré,\nen el hemisferio,\nes un gran misterio.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

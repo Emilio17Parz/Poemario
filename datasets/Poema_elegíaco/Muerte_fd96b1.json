@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te fuiste tan pronto, la vida te cortó ya,\nla vida sin la calma que el tiempo no da.\nEl joven se fue, el viejo se queda aquí,\nla vida es la burla que el tiempo te di.\n\nLloro por el sol que no volverá,\nla vida sin la calma que nunca está.\nMi pena es la sombra de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "injusticia"
+  }
+}

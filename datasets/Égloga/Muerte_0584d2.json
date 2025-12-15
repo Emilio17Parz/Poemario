@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lloran los sauces en la orilla fría,\npues ha muerto el pastor más amado,\nel rebaño se queda desolado,\nsin su guía al terminar el día.\n\nYa no suena su flauta en la colina,\nni su voz llama a la oveja perdida,\nse ha apagado la llama de su vida,\ny la tarde en silencio declina.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "pastor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Con tus manos dibujas mi sendero,\ny acaricias mi rostro con amor,\neres tú lo que yo más quiero y venero,\nmi refugio, mi guía y mi valor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "manos"
+  }
+}

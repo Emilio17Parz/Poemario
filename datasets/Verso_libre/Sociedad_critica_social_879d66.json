@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El océano escupe plástico.\nLa tierra se asfixia bajo nuestros desechos.\nSomos la única especie\nque envenena su propia casa\ny lo llama progreso.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "basura"
+  }
+}

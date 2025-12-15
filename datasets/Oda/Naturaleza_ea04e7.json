@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Amigo fiel,\nque nunca traiciona,\nque me perdona,\ny es dulce cual miel.\nGuardián de la casa,\nque todo lo pasa.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "perro"
+  }
+}

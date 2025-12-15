@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rompí la cadena que me ataba,\na tu amor enfermizo y posesivo,\nme siento vivo,\naunque mi corazón mucho te amaba.\nEs mejor la tristeza de ser libre,\nque el calibre,\nde la cárcel donde yo penaba,\ny me acababa.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "prisión"
+  }
+}

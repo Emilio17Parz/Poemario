@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El oro que brilla atroz (a),\nla riqueza sin un fin (b),\nla vida sin una voz (c),\nel eterno y puro jazmín (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Oro"
+  }
+}

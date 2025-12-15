@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El pueblo tiró,\nde la cuerda,\npara que muerda,\nel que mandó.\nLa estatua cayó,\nde su pedestal,\nel gran mal,\nse terminó.\nBailaron encima,\nde la tarima.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "estatua"
+  }
+}

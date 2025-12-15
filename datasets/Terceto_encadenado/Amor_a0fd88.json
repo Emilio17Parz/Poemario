@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi amor por ti es un juramento eterno (A),\nque quema mi alma con viva pasión (B),\ny no hay frío que enfríe este invierno (A).\n\nMi vida no tiene ya más condición (B),\nque el dulce destino de amarte sin fin (C),\nla fuerza que impulsa mi fiel corazón (B).\n\nEres la luz, el eterno jazmín (C),\nla fuente de vida, mi gran verdad (D),\nel aire que respiro, mi dulce trajín (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Juramento"
+  }
+}

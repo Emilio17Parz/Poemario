@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La niebla se alza, un velo que esconde,\nel rostro del Ser que ya no está aquí,\nno hay más regreso, no hay más que adonde\nel alma decide ir.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Niebla"
+  }
+}

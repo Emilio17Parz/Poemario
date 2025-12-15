@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te entrego esta rosa roja,\nSímbolo de mi querer,\nQue el tiempo no la deshoja.\nTe entrego esta rosa roja,\nAun si la espina me enoja,\nTe la tengo que ofrecer.\nTe entrego esta rosa roja,\nSímbolo de mi querer.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "roja"
+  }
+}

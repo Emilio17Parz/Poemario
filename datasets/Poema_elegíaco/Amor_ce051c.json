@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi alma está cansada de tanto luchar,\nde amar sin respuesta, de solo esperar.\nEl cansancio es el peso que el cuerpo me da,\nla vida que se va y que nunca está.\n\nNo tengo más fuerzas para seguir aquí,\nprefiero el olvido, el dulce 'por ti'.\nMi reposo es la sombra, mi paz es el fin,\nla triste agonía de un solo patín.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "cansancio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Te escondiste en el velo negro,\ndejando la noche ciega,\nsin tu luz que nos entrega,\nconsuelo magro y íntegro.\n\nTe lloro y no me alegro,\npues la oscuridad llega,\ny mi corazón te ruega,\nque vuelvas, astro, al reintegro.\n\nAusencia de luz en el cielo,\nque causa temor y desvelo.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "luna_nueva"
+  }
+}

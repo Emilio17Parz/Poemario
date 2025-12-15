@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "La sombra de tu ausencia hoy me consume,\nY un eco amargo quiebra mi vivir;\nAl recordar que ya no has de venir,\nMi alma en luto eterno se presume.\n\nEl frío de tu adiós, cruel, me perfuma,\nMis ojos buscan tu perdido perfil,\nEn cada esquina, un sueño tan febril,\nQue el tiempo sin tu luz ya no resume.\n\nAsí la *soledad*, mi fiel consorte,\nMe envuelve en su manto gris y sin piedad,\nUn velo opaco que a la dicha aborta.\n\nNo hay cura para tanta inmensidad,\nSolo el dolor que mi existir soporta,\nEl triste fin de nuestra realidad.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

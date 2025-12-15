@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El perdón es divino,\nporque es sobrehumano.\nSoltar el rencor,\nlimpiar la herida,\nver al enemigo con compasión.\nEs el acto espiritual supremo,\nliberarse de la cadena del odio\ny volar ligero.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

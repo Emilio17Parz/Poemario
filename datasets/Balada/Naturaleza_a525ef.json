@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol calienta con fuerza plena,\ny el trigo brilla con su color,\nsuenan cigarras sobre la arena,\ncantando al fuego y al resplandor.\nBuscan las sombras los caminantes,\ny el agua fresca del manantial,\nson estos días tan radiantes,\nla fiesta pura y natural.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "verano"
+  }
+}

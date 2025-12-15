@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hilos invisibles mueven la trama,\ntejidos por las Moiras severas,\ny aunque tú escapar de ellas quieras,\ntu suerte en su rueca se derrama.\n\nEl destino te busca y te llama,\npor caminos y por carreteras,\nsaltando muros y fronteras,\nhasta que en tu pecho se inflama.\n\n¿Somos libres o somos esclavos\nde un guion que ya está escrito\npor dioses crueles y bravos?\n\nEs el dilema infinito,\nque pagamos con centavos\ny con nuestro propio grito.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "hilos"
+  }
+}

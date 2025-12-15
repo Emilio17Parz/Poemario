@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "    F\n    E\n D I O S\n    E\n    S",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

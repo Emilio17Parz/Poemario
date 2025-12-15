@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Buscan cerebros con ansia,\npero mueren de hambre hoy,\npues hay mucha ignorancia,\ndonde quiera que voy.\nCaminan mirando el móvil,\ncomo un rebaño inmóvil.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Zombis"
+  }
+}

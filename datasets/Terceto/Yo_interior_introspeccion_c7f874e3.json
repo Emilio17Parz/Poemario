@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco definir mi identidad,\nlejos de las máscaras sociales,\npara vivir en la verdad.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

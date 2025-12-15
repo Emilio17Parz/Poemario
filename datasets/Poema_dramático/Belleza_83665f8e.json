@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "POETA: No encuentro la rima, estoy vacío.\nMUSA: Búscala en el canto del río.\nPOETA: Todo está escrito, no hay novedad.\nMUSA: Mira adentro, di tu verdad.\nPOETA: ¡Dame un verso, dame una luz!\nMUSA: Carga tú mismo con tu cruz.\nYo solo inspiro al que trabaja.\nEscribe, poeta, y no te rebaja.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "verso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "D onde nace la pregunta,\nU na sombra aparece,\nD ejando el alma junta,\nA l miedo que florece.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "duda"
+  }
+}

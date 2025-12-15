@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Nacer y morir,\nes un ciclo vital, sin fin,\nsin fin, sin porqué.\nSolo el camino andar,\nhasta el final de todo.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "camino"
+  }
+}

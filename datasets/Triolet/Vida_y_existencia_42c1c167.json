@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida un soplo, tenue latido.\nEl destino, ¿quién lo forjará?\nUn laberinto que hemos vivido.\nLa vida un soplo, tenue latido.\nUn laberinto que hemos vivido.\nEl destino, ¿quién lo forjará?\nLa vida un soplo, tenue latido.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "destino"
+  }
+}

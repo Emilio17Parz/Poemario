@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Queda el sabor amargo,\nde lo que no fue.\nSe me hace largo,\nperder la fe.\n\nDe lo que no fue,\nveneno en la vena.\nPerder la fe,\nes mi condena.\n\nVeneno en la vena,\nse me hace largo.\nEs mi condena,\nqueda el sabor amargo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "rencor"
+  }
+}

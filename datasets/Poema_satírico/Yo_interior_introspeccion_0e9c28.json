@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Contar ovejas no sirve,\ncuando la mente grita,\nel sueño se inhibe,\ny la paz se quita.\nRepaso mis errores,\ny todos mis temores.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Insomnio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "QUIJOTE: ¡Ves allí, Sancho, a los gigantes?\nSANCHO: Señor, son molinos, no bergantes.\nQUIJOTE: ¡Son Briareos con brazos largos!\nSANCHO: Nos vamos a llevar tragos amargos.\nQUIJOTE: ¡No huyáis, cobardes y viles criaturas!\n(Carga contra el molino y cae)\nSANCHO: ¡Ay, mi señor! ¡Cuántas locuras!\nQUIJOTE: Fueron encantadores, Sancho amigo.\nPero el valor siempre va conmigo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "molinos"
+  }
+}

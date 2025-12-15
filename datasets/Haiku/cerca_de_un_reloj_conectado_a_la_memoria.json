@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Cerca de un reloj conectado a la memoria\"",
   "poema": {
     "texto": "Tic-toc en memoria,\nAgujas recorren el pasado,\nTiempo se vuelve cenizas.",

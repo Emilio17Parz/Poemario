@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Parte hacia tierras lejanas,\ncruzando el mar bravío.\nEntre mañanas tempranas,\nvenciendo calor y frío.\n\nCruzando el mar bravío,\nbuscando el fin del mundo.\nVenciendo calor y frío,\ncon un deseo profundo.\n\nBuscando el fin del mundo,\nentre mañanas tempranas.\nCon un deseo profundo,\nparte hacia tierras lejanas.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

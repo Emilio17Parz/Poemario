@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo corre hacia la sepultura,\ngrano de arena que cae sin freno,\nllevándonos a la noche oscura.\n\nNadie escapa de la atadura,\nde este destino que es ajeno,\nel tiempo corre hacia la sepultura.\n\nMarchita la flor y la hermosura,\ny seca el río que iba lleno,\nllevándonos a la noche oscura.\n\nEs una ley de gran amargura,\npero también de alivio bueno,\nel tiempo corre hacia la sepultura.\n\nBorra la dicha y la desventura,\ncon su compás de trueno,\nllevándonos a la noche oscura.\n\nVamos marchando con la premura,\ndel que ha bebido el veneno,\nel tiempo corre hacia la sepultura,\nllevándonos a la noche oscura.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

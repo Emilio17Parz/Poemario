@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Oh, qué belleza eleva el corazón,\nsu brillo eterno, luz que nos cautiva!\nEl alma canta al ver su pura esencia,\ncual arte en el mundo sin igual.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "arte"
+  }
+}

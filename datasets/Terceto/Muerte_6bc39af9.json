@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa el cuerpo en la fría tumba,\nolvidando el dolor y la fatiga,\nmientras el mundo arriba se derrumba.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

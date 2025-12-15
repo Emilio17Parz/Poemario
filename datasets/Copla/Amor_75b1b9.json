@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cariño dame tu mano\nque yo te daré la mía,\npara andar el camino\nllenos de paz y alegría.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "cariño"
+  }
+}

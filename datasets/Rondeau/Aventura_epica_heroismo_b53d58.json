@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La espada brilla,\nen la orilla.\nDe acero,\ny ligero,\nmaravilla.\n\nLa pesadilla,\nde la villa.\nEl guerrero,\nla espada brilla.\n\nLa semilla,\nque se trilla.\nEl sendero,\ndel primero,\nse arrodilla,\nla espada brilla.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "espada"
+  }
+}

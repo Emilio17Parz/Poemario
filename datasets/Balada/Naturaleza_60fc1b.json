@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante de piedra que tocas el cielo,\ncon nieves eternas en tu cabeza,\nmiras el valle desde tu suelo,\ncon imponente y gran fortaleza.\nEl águila vuela sobre tu cima,\ny el viento silba su canto feroz,\nmientras la nube se te aproxima,\ny se deshace con paso veloz.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

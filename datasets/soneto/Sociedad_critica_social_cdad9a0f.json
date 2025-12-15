@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "El grito sordo que la urbe no atiende,\nSe alza invisible en callejones fríos,\nDonde el hambre devora sueños vacíos,\nY el alma humilde su futuro vende.\n\nLa opulencia, impasible, al ver que ofende\nLa dignidad, entre cruel desvarío,\nIgnora el ruego, el dolor, el gentío,\nQue su sustento con sudor defiende.\n\nLa **pobreza** clava su daga en el pecho,\nMientras el oro en torres se eleva ufano,\nCegando al ojo que ve un mundo deshecho.\n\n¿Qué voz alzar ante este gran daño hecho?\nSi el corazón del hombre, sordo y vano,\nConsiente el mal que causa a su hermano.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

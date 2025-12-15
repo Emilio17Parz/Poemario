@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El valle era un secreto guardado entre dos sierras,\nDonde el pastor dormía y no había más guerras.\nEl pasto era muy verde, y el aire era puro,\nUn sitio de silencio, para un futuro seguro.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "valle"
+  }
+}

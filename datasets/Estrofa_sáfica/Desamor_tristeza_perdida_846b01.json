@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hiela el invierno dentro de mi pecho,\nya no hay calor que avive la pasión,\nsolo ceniza y desolación,\nfuego apagado.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "frío"
+  }
+}

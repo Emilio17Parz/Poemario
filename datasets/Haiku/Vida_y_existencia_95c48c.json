@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Largo sendero,\npasos en el destino,\nse hace al andar.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "andar"
+  }
+}

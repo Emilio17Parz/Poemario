@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bailemos este vals,\nsin pasos que sean fals,\ngirando por la pista,\nperdiendo la vista,\nde los tristes rivales.\n\nSon momentos especiales,\nmágicos y vitales,\nque el amor conquista,\nBailemos este.\n\nLejos de los males,\ny de los vendavales,\nseguimos la lista,\nde la unión provista,\npor lazos inmortales,\nBailemos este.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "vals"
+  }
+}

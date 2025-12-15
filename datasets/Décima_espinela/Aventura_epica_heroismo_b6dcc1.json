@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No es la ausencia de miedo,\nsino actuar a pesar,\nde querer escapar,\ny quedarse muy quedo.\nYo digo: sí puedo,\ny enfrento el terror,\ncon fuerza y vigor,\nrompiendo la cadena,\nde la duda y la pena,\ncon todo mi ardor.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "valor"
+  }
+}

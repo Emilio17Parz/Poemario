@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vive en el corazón,\nquien ha muerto y es amado,\nno está del todo acabado,\nsi queda la recordación.\nEs la única opción,\ncontra la muerte fría,\nmantener la melodía,\nde su voz y su reír,\npara así impedir,\nque muera cada día.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

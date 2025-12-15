@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Telaraña de recuerdos\"",
   "poema": {
     "texto": "Telaraña del corazón se abre,\nMomento en memoria cerrado,\nReflejos de pasado brillan.",

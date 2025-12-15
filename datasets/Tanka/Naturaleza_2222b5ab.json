@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sombra y silencio,\nel musgo en la corteza\nde viejos pinos.\nAquí encuentro la calma\nque el mundo me negó.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

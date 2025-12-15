@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La pradera se extiende, verde sin fin,\ncon flores pequeñas y dulce verdor,\nel aire es de paz, es un dulce trajín,\nla tierra que ofrece su amor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Pradera"
+  }
+}

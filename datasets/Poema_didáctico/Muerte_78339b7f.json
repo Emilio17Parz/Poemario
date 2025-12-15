@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La hoja cae para ser tierra,\nasí la vida se desenierra.\nLa muerte nutre lo que vendrá,\nla nueva vida florecerá.\nNo es un final, es transformación,\nley de la eterna renovación.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "ciclo"
+  }
+}

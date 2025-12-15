@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dejaste un gran vacío,\nque nada puede llenar.\nEs un triste río,\ndejaste un gran vacío.\nPerdí el albedrío,\nno dejo de llorar.\nDejaste un gran vacío,\nque nada puede llenar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

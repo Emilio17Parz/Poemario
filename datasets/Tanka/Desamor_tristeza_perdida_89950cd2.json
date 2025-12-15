@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Adiós, mi amor,\nEl alma llora sin ti,\nVacío cruel.\nTu imagen me persigue,\nY la sombra me abraza.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

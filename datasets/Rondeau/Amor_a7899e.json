@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu dulce mirada me llama,\nenciende en mi pecho la llama.\nEs luz que disipa el temor,\nrefugio de todo dolor,\nque al alma tranquila reclama.\n\nMi ser con locura te ama,\ny en cada latido proclama,\nque eres mi único amor,\ntu dulce mirada.\n\nEl tiempo en su curso derrama,\nla dicha que el cielo programa.\nContigo no existe el error,\ntan solo este noble calor,\nque nace cuando se asoma,\ntu dulce mirada.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

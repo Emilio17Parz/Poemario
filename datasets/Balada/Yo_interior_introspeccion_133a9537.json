@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Llevo una carga en la espalda,\nde los errores de ayer,\nuna sombra que me escalda,\ny no me deja crecer.\nQuisiera poder volver,\ny el daño deshacer.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

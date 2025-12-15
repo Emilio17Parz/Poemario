@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La herida que sangra (7a),\nno quiere cerrar (5b),\nla pena me agarra (7c),\nsin poder sanar (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Herida"
+  }
+}

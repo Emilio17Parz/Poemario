@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llegó un pastor de tierras lejanas,\ncon sedas finas y hablar galano,\ny te ganó con su falsa mano,\nllenándote de ilusiones vanas.\n\nOlvidaste mis rudas lanas,\ny mi cariño simple y fiel,\nprobando de su copa la miel,\nque mañana te dará canas.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rival"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "No puedes guardarlo en el bolsillo,\nni pedirle que espere.\nEl tiempo es un río furioso\nque nos arrastra hacia adelante.\nAyer éramos niños jugando al sol,\nhoy miramos las canas en el espejo.\nLo único que tenemos es el ahora,\nese instante breve antes de que se esfume.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

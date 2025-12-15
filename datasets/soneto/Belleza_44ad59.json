@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una gota de lluvia en la hoja,\nla risa de un niño jugando,\nel humo volando,\nque al cielo se arroja.\n\nLa belleza se aloja,\nen lo que estamos mirando,\ny amando,\nsin congoja.\n\nNo hace falta oro,\npara ver la luz,\ny el tesoro.\n\nEn la cruz,\ndel poro,\ny el trasluz.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "gota"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la llama en el corazón,\nfuego sagrado que no se apaga,\nperdí el sentido y la razón,\ncuras la herida de antigua llaga.\n\nFuego sagrado que no se apaga,\ncrepita fuerte nuestra pasión,\ncuras la herida de antigua llaga,\neres mi dueña y mi devoción.\n\nCrepita fuerte nuestra pasión,\nperdí el sentido y la razón,\neres mi dueña y mi devoción,\narde la llama en el corazón.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "llama"
+  }
+}

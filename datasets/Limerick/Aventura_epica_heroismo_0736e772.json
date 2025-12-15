@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El héroe salvó a la doncella,\nque era una chica muy bella,\nmas ella gritó,\n\"¡Mi pelo rompió!\",\ny le dio con una botella.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Héroe"
+  }
+}

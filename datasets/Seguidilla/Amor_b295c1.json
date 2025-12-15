@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz me dice ya (7a),\nque soy feliz (5b),\nmi alma te lo da (7c),\ncon una raíz (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Voz"
+  }
+}

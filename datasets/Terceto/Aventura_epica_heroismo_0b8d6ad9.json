@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un eco antiguo llama, alzado el monte,\nAl héroe insomne de valor probado,\nMás allá del oscuro horizonte.\n\nPor sendas donde el miedo ha dominado,\nEl mal acecha con su voz de hiel,\nCon paso firme, sin mirar su pasado.\n\nEl dragón fiero, con su aliento cruel,\nMas brilla en su puño la fiera espada,\nDispuesto a defender lo que es tan fiel.\n\nLa sombra cede, el aura ya dorada,\nEl héroe triunfa, sin dudar un instante,\nLa gesta épica al fin es culminada.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "espada"
+  }
+}

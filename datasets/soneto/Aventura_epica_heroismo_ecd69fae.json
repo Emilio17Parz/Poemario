@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Retumban los tambores en el llano,\nrelucen las espadas al sol,\nse pierde del miedo el control,\ny avanza decidido el ser humano.\n\nEl choque del acero es soberano,\nse tiñe de rojo el arrebol,\ny juega la muerte su rol\ncosechando vidas con su mano.\n\nEs el caos, la furia y el grito,\nel polvo, la sangre y el sudor,\nun escenario cruel y maldito.\n\nPero entre tanto horror y dolor,\nsurge el coraje infinito\nde luchar por la tierra y el honor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

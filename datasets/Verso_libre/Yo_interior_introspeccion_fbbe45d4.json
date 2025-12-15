@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hay un cuarto cerrado en mi interior,\ndonde guardo lo inconfesable.\nUn secreto que no tiene voz,\nuna verdad que podría quemar.\nLo protejo del mundo,\nporque es mi fragilidad,\ny a la vez, mi fuerza oculta.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

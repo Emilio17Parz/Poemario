@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Qué grandiosa la montaña\ncon su cumbre tan serena,\ncuando el azul del **cielo** baña\nsu piel de roca morena.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

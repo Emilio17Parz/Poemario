@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Voz que clama en medio del desierto,\nanunciando verdades olvidadas,\nigroradas,\npor un mundo que se cree despierto.\nMensajero de fuego y de luz,\ncon su cruz,\nseña el camino de la salvación,\ny la unión.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "palabra"
+  }
+}

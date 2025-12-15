@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Guarda la memoria,\nlo que ya pasó.\nLo que se amó,\nen nuestra historia.\n\nPena y gloria,\nque el tiempo dio.\nGuarda la memoria,\nlo que ya pasó.\n\nTrayectoria,\nque siguió.\nSe perdió,\nla victoria.\nGuarda la memoria.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

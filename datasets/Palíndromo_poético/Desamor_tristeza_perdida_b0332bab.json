@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Tu adiós fue silencio, que hoy me consume.\nEl tiempo perdido jamás se resume.\nSombras de ayer que mi mente asume.\nUna lágrima fiel, que mi pecho asume.\nSombras de ayer, mi mente resume.\nJamás se resume el tiempo perdido.\nQue hoy me consume, tu adiós fue silencio.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

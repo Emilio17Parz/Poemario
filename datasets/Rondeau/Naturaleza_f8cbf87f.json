@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña alta,\nque al cielo asalta,\ncon su pico blanco,\ny su duro flanco,\nnunca nos falta.\n\nEl alma resalta,\ny el miedo salta,\nante el barranco,\nLa montaña alta.\n\nNadie la malta,\nni la esmalta,\nes un banco,\nde aire franco,\nque nos exalta,\nLa montaña alta.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

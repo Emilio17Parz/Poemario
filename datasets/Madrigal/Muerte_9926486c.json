@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Hacia la eternidad\nvuela el espíritu libre y ligero,\nsiguiendo el sendero\nde la gran verdad.\nLejos de la vanidad,\ny el mundo pasajero,\nencuentra la total claridad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

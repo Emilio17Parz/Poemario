@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro en el espejo y veo el rostro de un extraño que envejece.\nDetrás de los ojos hay un niño que todavía espera ser amado.\nEl espejo refleja la cáscara, pero no muestra el torbellino interior.\n¿Quién soy yo, más allá de esta imagen que el tiempo devora?",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

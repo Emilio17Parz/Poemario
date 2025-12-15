@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Solo este hoy,\nel ayer ya se ha ido,\nmañana no es.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "hoy"
+  }
+}

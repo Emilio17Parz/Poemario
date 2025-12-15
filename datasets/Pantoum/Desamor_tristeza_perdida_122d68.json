@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rompí cadenas de tu prisión,\npero las marcas siguen ahí.\nBusco por fin mi liberación,\ndel laberinto donde caí.\n\nPero las marcas siguen ahí,\nóxido rojo en mis muñecas.\nDel laberinto donde caí,\nsalen palabras frías y secas.\n\nÓxido rojo en mis muñecas,\nbusco por fin mi liberación.\nSalen palabras frías y secas,\nrompí cadenas de tu prisión.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "cadena"
+  }
+}

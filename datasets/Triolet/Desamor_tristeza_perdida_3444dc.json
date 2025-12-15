@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Resbala el llanto en mi cara,\nRecuerdo de lo que perdí,\nEl tiempo no nos ampara.\nResbala el llanto en mi cara,\nLa suerte nos separa,\nDesde el día en que te vi.\nResbala el llanto en mi cara,\nRecuerdo de lo que perdí.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

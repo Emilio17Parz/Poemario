@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Andar lejos,\npor la senda,\nque se entienda,\ncon reflejos.\nLos consejos,\ndel viejo,\nson espejo,\nde espejos.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "camino"
+  }
+}

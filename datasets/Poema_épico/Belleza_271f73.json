@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Corazón de la tierra cristalizado,\nfuego atrapado en la faceta,\ntesoro por siglos guardado,\ndigno de reina y de profeta.\nDiamante, rubí, zafiro azul,\nllaves de un mágico baúl.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Joya"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Soy la suma de mis recuerdos, un archivo viviente de olores, sabores y rostros que ya no están.\nLa memoria es el hilo dorado que cose los retazos de mis días para formar la manta que me abriga del frío del olvido.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Caen vencidos, perdieron la guerra,\nhuyen heridos sin mirar atrás,\nsueño de gloria que no volverás,\ntriste fracaso.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "derrota"
+  }
+}

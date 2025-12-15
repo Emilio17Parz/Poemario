@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Todo fluye y nada permanece,\nes la ley del universo,\nque a todos nos mece.\n\nLo que hoy nace, mañana perece,\nen este ciclo diverso,\ntodo fluye y nada permanece.\n\nLa vida nos ofrece,\nsu cambio inmerso,\nque a todos nos mece.\n\nEl alma crece,\ncon cada reverso,\ntodo fluye y nada permanece.\n\nLa luz aparece,\ntras el adverso,\nque a todos nos mece.\n\nY nos enriquece,\ncon su anverso,\ntodo fluye y nada permanece,\nque a todos nos mece.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

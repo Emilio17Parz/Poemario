@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sin ti la casa calla,\nOigo solo el viento.\nLa soledad estalla,\nOcultando lo que siento.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "SOLO"
+  }
+}

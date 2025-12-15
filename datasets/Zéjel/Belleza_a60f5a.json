@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena la nota,\nque el alma agota.\n\nDulce canción,\ncon emoción,\ny pasión,\nque brota.\nSuena la nota,\nque el alma agota.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "música"
+  }
+}

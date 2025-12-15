@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pirámide de granito,\nque desafías la altura,\ncon tu cabeza de nieve\ny tu falda de espesura.\nInmóvil gigante serio,\nque ves pasar a la gente,\ncomo hormigas pasajeras\nen tu cuerpo permanente.\nMe invitas a subir alto,\na ver el mundo pequeño,\ny a encontrar en tu silencio\nla grandeza de mi sueño.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

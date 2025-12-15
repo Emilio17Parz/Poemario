@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza real tiene grietas.\nLa arruga en el ojo,\nla cicatriz en la rodilla,\nla hoja seca en el suelo.\nLo perfecto es frío, de plástico.\nLo bello es lo que ha vivido,\nlo que tiene historia,\nlo que se rompió y sanó.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "imperfección"
+  }
+}

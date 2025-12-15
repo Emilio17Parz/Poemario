@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Frío es el tacto del mármol,\nque cubre tu descanso,\nya no te da sombra el árbol,\nen este lugar manso.\n\nQue cubre tu descanso,\nletras de oro grabadas,\nen este lugar manso,\nlas horas están paradas.\n\nLetras de oro grabadas,\nya no te da sombra el árbol,\nlas horas están paradas,\nfrío es el tacto del mármol.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "frío"
+  }
+}

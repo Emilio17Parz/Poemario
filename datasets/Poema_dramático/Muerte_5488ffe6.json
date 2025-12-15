@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "ALMA 1: ¿Dónde estamos? Todo es niebla.\nALMA 2: Ni luz ni fuego, ni paz ni tiniebla.\nALMA 1: ¿Cuánto tiempo llevamos aquí?\nALMA 2: El tiempo no existe, ya lo perdí.\nALMA 1: ¿Hacia dónde vamos? ¿Arriba o abajo?\nALMA 2: Espera el juicio o el desparpajo.\nSomos olvido, somos espera.\nALMA 1: Quisiera volver a la primavera.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "espera"
+  }
+}

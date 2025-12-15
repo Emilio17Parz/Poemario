@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La soledad es mi amante,\nmi fiel compañero.\nMe sigue constante\nen el duro sendero.\n\nMe obliga a callar,\na mirar mi dolor,\nla única forma\nde encontrar el amor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

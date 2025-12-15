@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Si el alma busca su anhelo,\nen el sendero de la verdad,\nhallará un dulce consuelo,\ny al espíritu libertad.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi tiempo no es el del reloj,\nes el tiempo del sentimiento,\nque vuela como el viento,\no pesa como el boj.\n\nEl enojo,\ny el cuento,\ndel momento,\nque cojo.\n\nUn minuto puede ser,\nuna eternidad entera,\nal querer.\n\nLa espera,\ndel ser,\nque muera.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

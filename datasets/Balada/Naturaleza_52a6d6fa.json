@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Aúlla el lobo a la luna llena,\nen la montaña de blanca nieve,\nsu canto es grito de honda pena,\nque el viento helado se lleva breve.\nNaturaleza que se conmueve,\nante la fiera que se atreve.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "lobo"
+  }
+}

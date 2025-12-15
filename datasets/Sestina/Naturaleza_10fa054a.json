@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la mansa lluvia,\nsobre los campos sedientos,\nregalando vida y flor.\nEs el llanto del creador,\nque purifica el ambiente,\ny hace crecer la raíz.\n\nCrecer la raíz,\ncon la lluvia,\ny la simiente.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

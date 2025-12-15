@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Busco en vano el olvido\nde tus ojos y tu voz,\npues el tiempo fue feroz\ncon lo que no ha sucedido.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

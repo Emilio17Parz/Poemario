@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Hoy marca el día en el calendario,\nla fecha que unió nuestros caminos,\npero juegan los crueles destinos\ny lo convierten en un calvario.\nNo hay fiesta, solo un rosario,\nflores marchitas y desatinos,\nllantos ahogados y cristalinos,\nen este lúgubre escenario.\nBrindo con copa vacía al viento,\npor los años que no cumplirás,\ny lanzo al aire mi lamento.\nDonde quiera que tú estarás,\nrecibe mi amor y mi aliento,\npues nunca jamás volverás.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "aniversario"
+  }
+}

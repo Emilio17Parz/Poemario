@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Romped las viejas cadenas\nque oprimen al pueblo llano,\nque nadie nazca sirviendo\nal capricho de un tirano.\nQue la libertad florezca\nen el monte y en el llano,\ny nos demos como iguales\nla franca y sincera mano.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

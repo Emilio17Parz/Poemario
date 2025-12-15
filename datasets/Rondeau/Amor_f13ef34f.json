@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor que vuela, cual suspiro al viento,\nTernura que en mi pecho se concentra,\nNo hay noche oscura que mi alma no sienta,\nSi tu presencia en mi camino adentra,\nUn rayo puro de feliz contento.\n\nEs tu palabra un bálsamo, un portento,\nQue a cada fibra de mi ser alimenta,\nY la dulzura que el alma acrecienta,\nAmor que vuela.\n\nCon cada beso, un fuego en mí sustenta,\nUn dulce idilio que el tiempo no afrenta,\nMi corazón por ti nunca se ausenta,\nMi devoción sincera y sin tormenta,\nSe anida en ti, cual flor que se aposenta,\nAmor que vuela.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "beso"
+  }
+}

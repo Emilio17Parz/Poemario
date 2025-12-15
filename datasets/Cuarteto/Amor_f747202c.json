@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si el amor es la luz que nos convoca,\nY en tu mirada encuentro mi verdad,\nMi corazón se rinde sin piedad,\nVibrando el alma en cada dulce boca.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "alma"
+  }
+}

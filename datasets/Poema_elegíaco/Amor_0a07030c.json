@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Maldigo el cruel y trágico destino,\nque te arrancó de mis amantes brazos,\nrompiendo en mil pedazos nuestros lazos,\ny llenando de sombras mi camino.\nLamento lo que pudo ser y no es,\npostrado a tu recuerdo, a tus pies.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "destino"
+  }
+}

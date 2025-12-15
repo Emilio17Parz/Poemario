@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Acero fino,\nen el camino.\n\nCorta el viento,\nal momento,\nsin lamento,\ndivino.\nAcero fino,\nen el camino.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "espada"
+  }
+}

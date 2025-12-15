@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cruzar la frontera del mapa,\ndonde dicen \"aquí hay dragones\".\nLa curiosidad es más fuerte que el miedo.\nVer lo que nadie ha visto,\npisar tierra virgen.\nEl explorador no busca oro,\nbusca ensanchar el mundo,\nhacerlo más grande para todos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "desconocido"
+  }
+}

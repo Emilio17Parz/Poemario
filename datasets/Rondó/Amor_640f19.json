@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Pasa el tiempo muy despacio,\ncuando no estás a mi lado,\nme siento desamparado,\nen este inmenso palacio.\nBusco en el aire un espacio,\nun recuerdo del pasado.\nPasa el tiempo.\n\nCada hora es un lamento,\ncada minuto una pena,\narrastrando la cadena,\nde este triste pensamiento.\nSolo calma mi tormento,\nla esperanza que me llena.\nPasa el tiempo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

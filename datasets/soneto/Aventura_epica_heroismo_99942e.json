@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La mayor aventura es hacia dentro,\nconquistar los propios demonios,\nlejos de falsos testimonios,\ny hallar del alma el puro centro.\n\nEs un peligroso encuentro,\ncon miedos y patrimonios,\nque pesan como matrimonio\nen este íntimo rencuentro.\n\nEl héroe se vence a sí mismo,\ny esa es la gesta mayor,\nque lo salva del abismo.\n\nSe llena de un nuevo valor,\ny con gran optimismo,\nsupera el dolor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "demonio"
+  }
+}

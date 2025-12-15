@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Abrir camino en la selva espesa,\ndonde nadie ha puesto el pie jamás,\ndejando la seguridad atrás\npor la curiosidad que no cesa.\n\nCada paso es una gran empresa,\ncada sombra un peligro, quizás,\npero el ansia de ver, cual compás,\nal explorador siempre interesa.\n\nDescubrir ríos, montes y flores,\nponer nombre a lo desconocido,\ny pintar el mapa de colores.\n\nSentirse vivo y renacido,\nentre paisajes y primores,\nque para él han florecido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "selva"
+  }
+}

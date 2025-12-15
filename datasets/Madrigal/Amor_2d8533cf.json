@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde un fuego en mi pecho,\nque por tu gran amor se halla deshecho.\nNo lo apaga el rocío,\nni el caudaloso río.\nEs llama que no muere,\nmientras mi corazón amarte quiere.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

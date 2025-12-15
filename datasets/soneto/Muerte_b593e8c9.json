@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra acude, inexorable y fría,\nSilencia el pulso, apaga el gozo atroz,\nRetorna el cuerpo a su origen veloz,\nY el alma, ¿adónde va, qué senda guía?\n\nMas todo intento, todo un tiempo errado,\nSe desvanece en la quietud final;\nEl cuerpo yace, al fin, desamparado.\n\nYa no hay suspiros, pena ni caudal,\nY al viejo polvo el ser es regresado,\nCon el silencio de un dormir total.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

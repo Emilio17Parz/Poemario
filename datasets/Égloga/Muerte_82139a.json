@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Esparce mis restos en el viento,\nsobre los campos de trigo y miel,\npara que vuelva a ser parte de él,\ny termine mi sufrimiento.\n\nNo quiero mármol ni monumento,\nsolo volver al ciclo vital,\ny ser polvo en el matorral,\nen este eterno renacimiento.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

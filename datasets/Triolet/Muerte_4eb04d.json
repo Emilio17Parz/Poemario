@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Queda tu ausencia,\ncomo un hueco.\nEn la conciencia,\nqueda tu ausencia.\nLa existencia,\nse hace eco.\nQueda tu ausencia,\ncomo un hueco.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Coge la rosa mientras el sol calienta,\nque la belleza se marchitará pronto,\nvive lo que se sienta\ny no seas necio ni tonto.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "carpe diem"
+  }
+}

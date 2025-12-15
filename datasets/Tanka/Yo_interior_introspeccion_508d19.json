@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Juega en mi mente\nel niño que yo fui\nrisa y candor.\nNo debo de olvidarlo\nentre tanta labor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "niño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Muerte, la sombra que nos sigue fiel,\nQue desde el tiempo antiguo ha de reinar,\nSin distinción de trono o de solar,\nSu aliento gélido, su amargo hiel.\n\nEl pulso cesa, y la memoria cruel\nSe borra lenta, para no tornar,\nUn velo opaco cubre el vasto mar\nDe sueños rotos, y su dulce miel.\n\nEntonces el clamor y el vano afán,\nSe quiebran frágiles, disueltos al fin,\nLa luz se apaga en hondo padecer.\n\nNo queda voz, ni gesto, ni ademán,\nSolo el profundo **silencio** sin fin,\nÚltimo puerto para nunca volver.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

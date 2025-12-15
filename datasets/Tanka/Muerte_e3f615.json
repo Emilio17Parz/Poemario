@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El hueso en la tierra,\nsimple vestigio del ser,\nque un día vivió.\nTestimonio de lo efímero,\nde la carne que se pierde.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Hueso"
+  }
+}

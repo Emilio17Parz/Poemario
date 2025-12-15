@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El alma está en agonía, el cuerpo no quiere partir sin fe,\nla vida sin la calma, sin saber el qué.\nBusco la paz final y solo hallo este dolor cruel,\nla dulce agonía con sabor amargo a hiel.\n\nLloro por el descanso que mi espíritu no puede tener jamás,\ny mi ser es la esclava de una cruel paz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "alma"
+  }
+}

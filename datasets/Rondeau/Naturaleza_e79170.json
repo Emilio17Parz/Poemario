@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llega abril con sus colores,\ndespertando los amores,\nla tierra se viste en flor,\ncon fragancia y con primor,\nolvidando los dolores.\n\nSe terminan los temores,\ny renacen los valores,\ncon un cálido fulgor,\nLlega abril.\n\nCantan los ruiseñores,\nentre verdes esplendores,\nes la época mejor,\npara sentir el calor,\nde los nuevos sabores,\nLlega abril.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "flores"
+  }
+}

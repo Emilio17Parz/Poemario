@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Balanza rota\nel rico siempre gana\npobreza y ley.\nEl grito del humilde\nnadie quiere escuchar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "injusticia"
+  }
+}

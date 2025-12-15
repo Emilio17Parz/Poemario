@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Invisible guerrero que todo empuja,\nderriba torres y alza el polvo,\nsusurra secretos, silba y cruje,\nen sus dominios yo me disuelvo.\nAliento de dioses, fuerza vital,\ncaricia suave o golpe mortal.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

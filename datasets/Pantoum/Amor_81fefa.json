@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sombra verde y oscura,\nmiedo a perderte.\nEs una locura,\nquerer tenerte.\n\nMiedo a perderte,\nduda que carcome.\nQuerer tenerte,\ny que el miedo tome.\n\nDuda que carcome,\nes una locura.\nY que el miedo tome,\nsombra verde y oscura.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "celos"
+  }
+}

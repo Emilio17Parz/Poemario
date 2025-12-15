@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor que nos une, fuerza inmortal,\nUn fuego que consume, una quimera,\nEn cada tierno abrazo, el alma vuela.\n\nLa vida sin tu aliento, una frontera,\nUn mundo gris y triste, sin bandera,\nEl amor que nos une, fuerza inmortal.\n\nTu voz, mi dulce canto, primavera,\nLa luz que mis caminos considera,\nEn cada tierno abrazo, el alma vuela.\n\nMás allá de lo efímero, te espera\nMi ser en esta eterna esfera,\nEl amor que nos une, fuerza inmortal.\n\nLa fe que mi existencia desespera\nSi lejos de tu pecho me lloviera,\nEn cada tierno abrazo, el alma vuela.\n\nAsí la vida nuestra, sin frontera,\nSe torna sueño, verdad y manera,\nEl amor que nos une, fuerza inmortal,\nEn cada tierno abrazo, el alma vuela.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

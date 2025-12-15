@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi vida es promesa de eterno querer y fe (A),\nla palabra que al mundo al fin dice 'sé' (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Promesa"
+  }
+}

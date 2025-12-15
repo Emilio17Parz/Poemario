@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un vínculo sagrado nos une sin dolor (A),\nmás fuerte que el tiempo y la tempestad (A),\nla esencia de nuestro valor (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Vínculo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El hambre es un crimen, la herida sin par ni fulgor (A),\nque sangra en el mundo sin compasión (B),\nla riqueza es ciega, sin un valor (A),\nla eterna y dura lección (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Hambre"
+  }
+}

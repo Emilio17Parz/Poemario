@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte silenciosa viene ya,\nHacia la fría eternidad.\nEl alma suelta su lugar,\nLa muerte silenciosa viene ya.\nNo hay voz que pueda ya gritar,\nUn viaje incierto en la verdad.\nLa muerte silenciosa viene ya,\nHacia la fría eternidad.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

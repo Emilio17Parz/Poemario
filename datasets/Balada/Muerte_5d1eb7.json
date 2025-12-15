@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ciudad de mármol y de ciprés,\ndonde descansan los que se fueron,\naquí se acaba todo el estrés,\nde los que amaron y vivieron.\nCruces y nombres bajo el sol,\nguardan historias de ayer y hoy,\ny en cada tumba, un caracol,\nsusurra el tiempo en el que estoy.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

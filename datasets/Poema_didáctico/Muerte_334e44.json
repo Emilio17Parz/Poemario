@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No temas lo que ha de llegar,\nes parte del trato de vivir,\nempieza a aceptar,\nque tendrás que partir.\nVivir sabiendo que acaba,\nhace la vida más brava.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Inevitable"
+  }
+}

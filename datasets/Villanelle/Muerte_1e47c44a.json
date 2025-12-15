@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Callan las voces ante la muerte,\nrespeto mudo al gran misterio,\nque cambia siempre nuestra suerte.\n\nNadie se siente bravo ni fuerte,\nante el final del imperio,\ncallan las voces ante la muerte.\n\nCuando la vida se invierte,\ny se entra en el cementerio,\nque cambia siempre nuestra suerte.\n\nEs un silencio que advierte,\nlo efímero del criterio,\ncallan las voces ante la muerte.\n\nTodo el ruido se convierte,\nen un susurro serio,\nque cambia siempre nuestra suerte.\n\nEl alma sola se vierte,\nen el divino etéreo,\ncallan las voces ante la muerte,\nque cambia siempre nuestra suerte.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

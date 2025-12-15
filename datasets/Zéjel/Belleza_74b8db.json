@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rosa temprana,\nen la ventana.\n\nHuele tan bien,\ncomo en el edén,\ny también,\nla mañana.\nRosa temprana,\nen la ventana.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "flor"
+  }
+}

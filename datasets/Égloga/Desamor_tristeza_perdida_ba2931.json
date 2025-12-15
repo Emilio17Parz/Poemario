@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aunque el sol brille en el verano,\ndentro de mí reina el invierno,\nfrío, oscuro y sempiterno,\ndesde que soltaste mi mano.\n\nTodo me parece gris y vano,\nla hierba verde se torna parda,\ny la esperanza ya se acobarda,\nante este dolor tan soberano.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

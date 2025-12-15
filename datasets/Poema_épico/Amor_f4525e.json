@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la ciudadela inexpugnable,\ndonde guardo los tesoros del alma,\ntu amor es el foso, profundo y estable,\nque brinda a mi espíritu guerra y calma.\nQue vengan los hunos, que venga el terror,\nyo reino seguro en tu interior.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Ciudadela"
+  }
+}

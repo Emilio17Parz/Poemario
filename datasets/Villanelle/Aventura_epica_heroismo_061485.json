@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Parto hacia tierras lejanas,\nbuscando un nuevo horizonte,\ncon esperanzas ufanas.\n\nCruzo mares y sabanas,\ny subo al más alto monte,\nparto hacia tierras lejanas.\n\nDejo las vidas vanas,\ny sigo al sol de sinsonte,\ncon esperanzas ufanas.\n\nLas aventuras humanas,\nson mi único apronte,\nparto hacia tierras lejanas.\n\nMis ansias son soberanas,\ncomo las del mastodonte,\ncon esperanzas ufanas.\n\nNuevas y viejas mañanas,\nveré desde el puente,\nparto hacia tierras lejanas,\ncon esperanzas ufanas.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

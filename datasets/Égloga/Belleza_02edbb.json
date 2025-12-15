@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No busques joyas ni trajes,\nla belleza está en lo simple.\nQue tu alma contemple\nlos bellos paisajes.\nSin vanos maquillajes\nni falso temple.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "joyas"
+  }
+}

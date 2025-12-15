@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor sin fin,\nen el jardín.\n\nNunca se acaba,\nlo que se daba,\ny se alababa,\nal flautín.\nAmor sin fin,\nen el jardín.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

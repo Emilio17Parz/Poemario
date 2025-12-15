@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tu voz se ha ido, pero queda el eco,\nque repite tu nombre en el aire.\nEs un sonido leve, no es hueco,\nlleno de un eterno donaire.\n\nEl recuerdo es la voz que no se calla,\nsino que en la mente batalla\ncontra el olvido y su cruel tempestad.\nTu vida es la pura verdad,\nque mi espíritu siempre venera.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "eco"
+  }
+}

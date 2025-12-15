@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No nace, se hace en la fragua,\ndel dolor y del sacrificio,\nsin buscar el beneficio,\nni temer al fuego o al agua.\n\nProtege al débil bajo su enagua,\ncumpliendo su noble oficio,\ny enfrenta el negro precipicio,\nque el miedo en el pecho fragua.\n\nEl héroe es un hombre normal,\nque decidió no rendirse,\nante la fuerza del mal.\n\nDispuso a la lucha irse,\ny hasta el suspiro final,\nsu honor no dejó morirse.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

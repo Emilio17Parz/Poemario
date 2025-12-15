@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pasa el mendigo y nadie lo ve,\nes invisible a la mirada,\nuna figura ignorada\nque perdió la fe y el pie.\n\nCaminamos sin saber por qué,\ncon la mente cerrada,\ny el alma congelada,\nsin preguntar qué fue.\n\nLa indiferencia mata más\nque el frío o el hambre,\npues nos deja atrás.\n\nRompe el estambre,\nde la paz,\ny del enjambre.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mendigo"
+  }
+}

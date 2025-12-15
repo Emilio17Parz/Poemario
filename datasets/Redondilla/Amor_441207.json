@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus brazos son mi prisión,\ndonde quiero estar preso,\ny darte siempre un beso,\ncon toda mi pasión.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

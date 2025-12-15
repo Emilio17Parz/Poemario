@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El desierto no tiene voz, (A)\nme arrastra ya la verdad, (B)\nmi vida sin claridad, (B)\nya no encuentro ya mi voz. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Desierto"
+  }
+}

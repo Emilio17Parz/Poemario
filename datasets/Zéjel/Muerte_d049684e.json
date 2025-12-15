@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es el final,\nque a todo torna igual,\nal polvo regresar.\n\nEl alma huye veloz,\nel cuerpo inerte y voz,\nperdiendo todo goz,\nal polvo regresar.\n\nNi rey, ni gran señor,\nescapa a su rigor,\nalívio ni dolor,\nal polvo regresar.\n\nLa huella que se fue,\nla sombra de la fe,\nel eco del \"por qué\",\nal polvo regresar.\n\nLa muerte es el final,\nque a todo torna igual,\nal polvo regresar.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

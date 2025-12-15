@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En la penumbra de mi soledad,\ndonde el alma se mira sin temor,\ndespierta el eco de un antiguo amor\nque esculpe el ser en pura identidad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

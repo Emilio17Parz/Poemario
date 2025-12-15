@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Observa la hoja verde y brillante,\nque realiza un proceso constante.\nToma luz del sol y el aire impuro,\npara darnos oxígeno puro.\nLa fotosíntesis es la clave,\nque la vida en la tierra nos cabe.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "fotosíntesis"
+  }
+}

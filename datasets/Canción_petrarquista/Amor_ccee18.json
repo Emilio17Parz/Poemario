@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Como el sol en oriente\ndespierta a las flores del prado,\nasí vuestro cuidado\nhace mi ser valiente;\nsois el astro mayor de mi universo,\ny en este humilde verso,\ncanto vuestro esplendor,\nque da calor y vida a mi dolor.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "sol"
+  }
+}

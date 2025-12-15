@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ten tus cosas en orden,\ny la conciencia tranquila,\nque no desborden,\nlas penas en fila.\nIrse ligero de equipaje,\nes el mejor viaje.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Preparación"
+  }
+}

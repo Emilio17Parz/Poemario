@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Atlántida dorada,\nciudad de cristal,\nde belleza total,\nque fue ahogada.\nPor el mar tragada,\nen un día fatal,\nleyenda inmortal,\ny recordada.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

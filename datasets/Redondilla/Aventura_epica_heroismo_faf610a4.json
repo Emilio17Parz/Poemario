@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un héroe va a su destino,\ncon valor y gran pasión,\nen su noble corazón\nno hay temor, ni un desatino.\n\nPor reinos va a batallar,\ndonde sombras mil acechan,\ny las almas se deshechan\nque no pueden soportar.\n\nSu noble y fiel **espada**\nbrilla fuerte sin igual,\ncontra todo el cruel mal,\nsu leyenda es contada.\n\nSalva el mundo con honor,\nrompe el yugo del tirano,\ncon su brazo fuerte y sano\ndemostrando gran valor.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "espada"
+  }
+}

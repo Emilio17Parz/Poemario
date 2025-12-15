@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El recuerdo es un clavo\nque el alma no saca.\nEs el amo y esclavo\nde la vida que ataca.\n\nNo te vayas, memoria,\nquédate, por favor,\nla única gloria\nsin ningún dolor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

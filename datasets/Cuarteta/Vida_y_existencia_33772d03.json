@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El ser emerge, luz y misterio,\nandando el tiempo por su camino;\nun breve rastro sobre el etéreo,\ndel cual no sabe su sino.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "camino"
+  }
+}

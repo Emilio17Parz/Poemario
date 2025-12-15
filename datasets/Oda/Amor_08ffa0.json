@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aire que escapa del pecho,\ncargado de sentimiento,\nvolando libre en el viento,\npor todo lo que hemos hecho.\nSuspiro de enamorado,\npor tenerte a mi lado.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "suspiro"
+  }
+}

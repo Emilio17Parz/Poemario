@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol se asoma, caricia de oro,\nDespierta el bosque, secreto tesoro.\nUn manto verde, promesa de vida,\nEl alma libre, de angustia, huida.\n\nEl río canta su antigua canción,\nMurmullos dulces en mi corazón.\nLas hojas danzan, al son del viento,\nUn suave arrullo, puro portento.\n\nY miro arriba, al vasto azul, sereno,\nEl **cielo** inmenso, sin fin, sin freno.\nDonde las nubes, velos de gasa, van,\nUn lienzo etéreo que al alma eleva ya.\n\nEn cada flor, en roca o en el ala,\nLa vida fluye, que a mi ser regala.\nNaturaleza, maestra del sentir,\nEl alma abraza su eterno porvenir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

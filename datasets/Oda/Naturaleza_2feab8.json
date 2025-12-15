@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Río que fluyes con dulce murmullo,\nvena de vida en la tierra sedienta.\nTu caudal es un eterno arrullo,\nel alma tu fuerza se alienta.\n¡Oh, agua pura, de ritmo constante,\neres la vida, siempre adelante!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Río"
+  }
+}

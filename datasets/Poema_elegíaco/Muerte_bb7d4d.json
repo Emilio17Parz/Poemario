@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La noche te cubrió con su manto cruel,\nla vida sin la calma, con sabor a hiel.\nEl alma es la sombra, el cuerpo es el mal,\nla triste agonía de un signo vital.\n\nNo hay estrellas ni luna, solo la oscuridad,\nla vida sin la calma, sin ninguna piedad.\nMi final es el sueño, frío y sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "noche"
+  }
+}

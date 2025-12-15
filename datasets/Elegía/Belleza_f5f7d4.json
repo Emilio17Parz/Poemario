@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Luz que el arte no quiere ya dar,\nel brillo sin fuerza, sin un gran mal.\nMe ayuda la sombra a anclar,\nel alma que siente el golpe fatal.\nTu esfera es sombra, el fulgor se va,\nel alma que sufre sin un ya.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

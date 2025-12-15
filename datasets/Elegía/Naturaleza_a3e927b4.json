@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ya no resuena igual la verde umbría,\nNi el soplo antiguo mece cada fronda;\nUna melancolía vaga y fría\nPor el alma del monte se desborda.\n\nLas flores, pálidas, ocultan su fragancia,\nSus pétalos marchitos, breve aliento.\nSe extingue el trino de la distancia,\nUn eco apenas, casi un lamento.\n\nY el **río**, antes caudal, espejo y vida,\nArrastra ahora un torpe y mudo duelo;\nSus aguas, antes pura bienvenida,\nSon lágrimas que buscan ya su cielo.\n\n¿Dónde el rumor de la ancestral memoria,\nLa fuerza indómita del verde brote?\nSe esconde el duende de la vieja historia,\nY un hálito de ausencia nos azote.\n\nOh, madre tierra, en tu dolor silente,\nTu vasta herida sangra sin consuelo.\nSomos espectros de un pasado ardiente,\nY vemos tu belleza irse hacia el cielo.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "río"
+  }
+}

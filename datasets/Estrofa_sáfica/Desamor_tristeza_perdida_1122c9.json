@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Triste final de aquello que soñamos,\nrompes el lazo, marchas de mi vida,\ndejas mi alma sola y abatida,\ntodo se acaba.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

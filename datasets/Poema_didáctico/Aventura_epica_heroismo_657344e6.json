@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No hay gloria sin sacrificio,\nni triunfo sin precipicio.\nEl héroe se entrega a otros,\nrompiendo todos los potros.\nDar la vida o el confort,\nes del héroe el soporte.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "sacrificio"
+  }
+}

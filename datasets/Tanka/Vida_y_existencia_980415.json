@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ave de fuego\nsurgiendo de cenizas\nnuevo empezar.\nLa herida cicatriza\ny volvemos a andar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "renacer"
+  }
+}

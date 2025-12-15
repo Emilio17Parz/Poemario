@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Durmió bajo el sol de agosto,\ny se quemó el rostro.\nParecía un tomate,\no un disparate,\ny le costó un alto costo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "bronceado"
+  }
+}

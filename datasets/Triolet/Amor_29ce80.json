@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres tú la luz de mi vida,\nEl aire que quiero aspirar,\nMi alma se encuentra prendida.\nEres tú la luz de mi vida,\nLa meta de mi partida,\nJamás te podré dejar.\nEres tú la luz de mi vida,\nEl aire que quiero aspirar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "aire"
+  }
+}

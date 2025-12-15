@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En la corteza de este viejo haya,\ngrabé tu nombre, Elisa, con mi acero,\npara que sepa el mundo cuánto quiero,\na quien mi alma noble nunca calla.\n\nCrecerá el árbol y con él la letra,\ny así crecerá el amor que siento,\ngritando a los cuatro vientos,\nque tu belleza en mi ser penetra.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "corteza"
+  }
+}

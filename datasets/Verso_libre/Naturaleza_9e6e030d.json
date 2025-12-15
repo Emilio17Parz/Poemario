@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Entrad en el bosque sagrado, donde los árboles son columnas de una catedral viva y palpitante.\nLa luz se filtra verde y dorada a través de las hojas, creando mosaicos en el suelo de musgo y helechos.\nAquí el silencio está habitado por mil ojos invisibles, por el crujir de la madera y el canto del ave.\nSiente la savia que corre por las venas de los troncos, la misma fuerza que impulsa tu sangre.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

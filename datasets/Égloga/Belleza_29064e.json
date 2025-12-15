@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suena la zampoña lejana,\nmezclada con el balido,\nun concierto bien tejido,\nque alegra la mañana.\n\nLa nota simple y humana,\nse une al viento en la rama,\ny crea una dulce trama,\nque del corazón emana.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "música"
+  }
+}

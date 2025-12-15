@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El campo verde y florido,\nes un cuadro sin igual,\nun regalo natural,\nque debe ser protegido.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

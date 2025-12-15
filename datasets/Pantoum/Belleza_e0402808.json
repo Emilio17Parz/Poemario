@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es un don, luz sin igual,\nUn tenue **color** sobre la rosa.\nLa belleza es un don, luz sin igual,\nSu esencia siempre pura y misteriosa.\n\nUn tenue **color** sobre la rosa,\nEn cada gesto simple se revela,\nSu esencia siempre pura y misteriosa,\nLa gracia que el espíritu desvela.\n\nEn cada gesto simple se revela,\nUn eco suave, un rito sin final,\nLa gracia que el espíritu desvela,\nUn sueño que el vivir nos consuela.\n\nUn eco suave, un rito sin final,\nQue brilla en el amor y en la verdad,\nUn sueño que el vivir nos consuela,\nLa belleza es un don, luz sin igual.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "color"
+  }
+}

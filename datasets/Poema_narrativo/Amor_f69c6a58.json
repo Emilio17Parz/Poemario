@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se sientan juntos en el mismo banco,\ncada domingo al atardecer,\nven a los niños jugar y correr,\nel pelo de ambos es ya muy blanco.\nÉl le acomoda la manta en las piernas,\nella le sonríe con complicidad,\nrecuerdan tiempos de felicidad,\ny promesas que fueron eternas.\nCincuenta años de historia compartida,\nen el lento ocaso de la vida.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

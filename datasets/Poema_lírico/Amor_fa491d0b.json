@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Envuélveme en tus brazos fuertes,\nrefugio contra la tempestad,\nolvidando la realidad,\ny burlando todas las muertes.\nQue en este lazo tú despiertes,\nmi dormida felicidad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Fui a pedir un crédito,\ncon un gran demérito.\nMe lo negaron,\ny me echaron,\ncon un grito.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "banco"
+  }
+}

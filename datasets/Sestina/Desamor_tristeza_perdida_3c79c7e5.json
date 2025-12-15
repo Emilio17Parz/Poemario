@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se ahoga la noche en mi llanto,\nlluvia salada de dolor,\nque brota de la decepción.\nPerdí toda la ilusión,\nque puse en tus manos falsas,\ny ahora pago con soledad.\n\nCon soledad,\nvierto mi llanto,\nentre las zarzas.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

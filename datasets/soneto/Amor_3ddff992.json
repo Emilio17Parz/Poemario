@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si el tiempo en su reloj de arena fina\npudiera detener su paso lento,\ny el sol guardara su dorado aliento\npara alumbrar tu faz que me fascina;\n\nsi el mundo en su girar se desatina\ny pierde de su eje el movimiento,\naún tendría yo el conocimiento\nde que tu luz a mi alma determina.\n\nNo importa si la tierra se deshace,\nni si los astros pierden su brillar,\npues en tu amor mi espíritu renace.\n\nY aunque la muerte venga a visitar,\nen cada beso que tu boca nace\nhabré encontrado la razón de amar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

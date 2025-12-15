@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rostro de piedra sin nariz,\nbrazos quebrados por años,\nviendo pasar los rebaños,\ncon su gris matiz.\n\nPerdió la emperatriz,\nsus regios peldaños,\ny sufre los daños,\nde la raíz.\n\nBelleza erosionada,\npor el viento castigada.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "estatua"
+  }
+}

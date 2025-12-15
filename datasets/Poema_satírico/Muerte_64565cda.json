@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Muerte, que pintan con hoz y sudario,\nNo es lúgubre espectro ni dama fatal.\nEs más bien un burócrata, un simple operario,\nQue marca la fecha en su viejo caudal.\n\nAburrida de lutos, de llantos y misas,\nDe tronos caídos y pálidos rostros.\nElla cumple su turno sin falsas sonrisas,\nCansada de héroes, de genios y monstruos.\n\nNos ve discutir por herencias y cuotas,\nPor vanos honores, por efímera fama.\nMientras ella anota en sus gruesas libretas,\nA quién le tocará su fría pijama.\n\nPrometen mil vías, escapes y trucos,\nUn puente hacia el cielo, un eterno edén.\nMas ella, sonriendo, sin ritos ni trucos,\nSabe que lo único cierto es el **fin**.\n\nNo hay charla que valga, ni súplica vana,\nNi escudo de oro, ni báculo de rey.\nSolo una verdad, tan simple y mundana:\nLa Muerte es la única, y justa, y real ley.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "fin"
+  }
+}

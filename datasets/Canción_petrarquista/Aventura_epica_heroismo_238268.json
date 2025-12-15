@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No puede el hombre huir\nde lo que las estrellas han marcado;\nestá trazado\nel porvenir;\nel héroe marcha al encuentro fatal;\ny es igual\nque luche o se resista,\nque el hado siempre tiene lista.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "destino"
+  }
+}

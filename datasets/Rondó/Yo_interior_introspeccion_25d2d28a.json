@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El recuerdo,\nno cuerdo,\nvuelve hoy,\ndonde estoy,\ny me pierdo.\n\nSi muerdo,\no acuerdo,\nme voy,\nEl recuerdo.\n\nIzquierdo,\ny lerdo,\nque soy,\ny doy,\nel cerdo,\nEl recuerdo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Caen las hojas como llanto,\ndel árbol que se queda desnudo,\nante el invierno frío y rudo,\nperdiendo su verde manto.\n\nEl viento entona un triste canto,\nun réquiem grave y agudo,\npor el verano que fue escudo,\ny que ahora causa quebranto.\n\nMuerte dorada de la estación,\nque invita a la meditación.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hay un muro entre los dos,\nque no podemos derribar,\ny nos decimos triste adiós.\n\nCalla la que fue nuestra voz,\ny nos dejamos de mirar,\nhay un muro entre los dos.\n\nEs un castigo muy atroz,\nque nos impide el amar,\ny nos decimos triste adiós.\n\nEl tiempo corre muy veloz,\nsin que podamos arreglar,\nhay un muro entre los dos.\n\nCorta el amor con una hoz,\nque nos obliga a separar,\ny nos decimos triste adiós.\n\nNo sirve el ruego ni la tos,\npara volver a comenzar,\nhay un muro entre los dos,\ny nos decimos triste adiós.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "muro"
+  }
+}

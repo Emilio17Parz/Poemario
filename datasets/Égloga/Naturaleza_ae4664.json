@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el arroyo cantando alegre,\nsaltando piedras, besando orillas.\nLas ninfas peinan sus maravillas\ndonde el agua su curso integre.\nNo hay pena que el río no desintegre\ncon sus cristalinas y puras millas.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "arroyo"
+  }
+}

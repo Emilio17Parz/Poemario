@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pasan los días y el recuerdo muere,\nlento veneno que la mente borra,\nhasta que el nombre que adoré no queda,\nni quien socorra.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

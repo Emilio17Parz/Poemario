@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu ausencia llena cada rincón,\ncon un silencio que me aturde,\ny rompe mi pobre corazón.\n\nNo encuentro consolación,\nni nada que la pena burde,\ntu ausencia llena cada rincón.\n\nEs mi única obsesión,\nque mi razón absurda urde,\ny rompe mi pobre corazón.\n\nVivo en la resignación,\nde que la vida no me acurde,\ntu ausencia llena cada rincón.\n\nEs la mayor lección,\nque el destino curde,\ny rompe mi pobre corazón.\n\nMuere la vieja canción,\nque en el pasado surde,\ntu ausencia llena cada rincón,\ny rompe mi pobre corazón.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

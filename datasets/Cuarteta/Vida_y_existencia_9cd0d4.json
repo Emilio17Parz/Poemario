@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un mar de olas gigantes,\nde calma y tormenta, de espuma y sal,\nnavega valiente, con velas constantes,\nhasta el puerto final, el cenital.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

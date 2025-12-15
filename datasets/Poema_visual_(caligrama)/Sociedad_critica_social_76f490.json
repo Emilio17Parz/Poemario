@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Montón sucio\nplástico y lata\nolor a podrido\nlo que sobra\ndel consumo\nplaneta muere\nbajo esto.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "basura"
+  }
+}

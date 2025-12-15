@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La pregunta eterna que no tiene fin,\n¿quién soy en verdad, cuál es mi misión?\nes el motor de nuestro trajín,\nla búsqueda de una explicación.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Pregunta"
+  }
+}

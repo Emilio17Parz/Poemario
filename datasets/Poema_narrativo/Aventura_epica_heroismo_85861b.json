@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Alzó el estandarte sobre el muro alto,\nEl grito de la tropa sonó sin asalto.\nLa victoria es la cura, el final del temor,\nEl dulce descanso del gran dolor.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

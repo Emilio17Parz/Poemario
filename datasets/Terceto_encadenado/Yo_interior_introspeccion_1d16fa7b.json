@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Me asomo al umbral del silencio interior,\nun eco lejano, confuso en mi ser,\nbuscando la chispa de mi propio fulgor.\n\nEl alma se pliega, no logra entender,\ny **duda** se anida, un germen sutil,\nsi aquello que busco es real o un querer.\n\n¿Soy solo un reflejo, un cuerpo febril?\n¿O un vasto universo que pugna por hallar?\nUn frágil misterio, mi esencia infantil.\n\nLa mente se pierde en su oscuro taller,\nmas siento un aliento que impulsa mi andar,\nun pulso que afirma mi íntimo saber.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "duda"
+  }
+}

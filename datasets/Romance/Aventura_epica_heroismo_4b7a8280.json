@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelve el héroe a su pueblo,\ndespués de ganar la guerra,\ncon cicatrices en cara\ny polvo de tierra.\nLa gente sale a la calle,\ny el paso cierra,\npara ver al hijo pródigo\nque no se aterra.\nPero él solo busca paz,\nen la sierra,\ny olvidar el ruido de armas\nque el alma asierra.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

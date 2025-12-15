@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tengo miedo,\nde caer,\ny no puedo,\nver.\n\nDe caer,\nal vacío,\nver,\nel frío.\n\nAl vacío,\ntengo miedo,\nel frío,\ny no puedo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lienzo rajado, color muerto,\ndonde habitaba la luz divina,\nhoy solo queda la ruina,\nen este estudio desierto.\n\nEl pincel yace inexperto,\nsin la mano que domina,\ny la belleza declina,\nen un final desconcierto.\n\nObra maestra olvidada,\npor el tiempo devorada.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "arte"
+  }
+}

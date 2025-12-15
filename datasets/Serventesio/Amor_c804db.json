@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo aprendí que mi espíritu vuela (A),\nlibre de cadenas, sin más prisión (B),\ntu amor es la fuerza, la eterna tutela (A),\nla dulce y suprema lección (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

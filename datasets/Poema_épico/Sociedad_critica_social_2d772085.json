@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Lincoln firmó el papel,\nque rompió la cadena,\nde la raza buena,\npero de otra piel.\nLa guerra fue cruel,\ncon sangre y con pena,\npero la colmena,\nsaboreó la miel.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "esclavitud"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Fuerza salvaje que nos empuja,\nquerer comerse el mundo entero,\nser el primero y el viajero,\nque en la vida siempre burbuja.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

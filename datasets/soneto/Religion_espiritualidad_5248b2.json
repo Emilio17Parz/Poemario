@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Creer sin haber visto nada,\nsaltar al vacío confiado,\nsabernos por siempre cuidado,\npor una fuerza sagrada.\n\nLa fe es la llama dorada,\nque alumbra al desesperado,\ny mantiene el paso animado,\nen la noche más desolada.\n\nNo pide pruebas ni ciencia,\nsolo entrega y devoción,\nen la más pura conciencia.\n\nEs el ancla del corazón,\nque nos da la resistencia,\npara vencer la tentación.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "fe"
+  }
+}

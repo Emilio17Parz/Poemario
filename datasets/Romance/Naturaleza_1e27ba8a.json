@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Salió la blanca señora,\nla redonda y clara luna,\nvelando el sueño del campo\ndesde su celeste cuna.\nPlata vierte sobre el mundo,\nsin preferencia ninguna,\ny a los amantes entrega\nsu brillante y gran fortuna.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "luna"
+  }
+}

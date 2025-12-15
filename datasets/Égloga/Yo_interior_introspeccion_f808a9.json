@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hay una luz que no se apaga,\ndentro de mi oscuridad.\nLa verdad\nque me halaga.\nMe paga\nla bondad.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luz"
+  }
+}

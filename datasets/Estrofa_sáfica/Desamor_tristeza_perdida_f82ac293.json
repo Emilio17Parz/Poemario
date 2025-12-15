@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Reina en mi casa fría soledad,\núnica y dura, fiel realidad,\nlejos de toda felicidad,\nnegro vacío.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

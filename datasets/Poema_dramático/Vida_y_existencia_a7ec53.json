@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "[EL NIÑO]\n(A su madre, con ansiedad)\n¿Seré como el vecino, gris y lento? ¿O seré un héroe? Dime.\nEl futuro es un túnel negro, y tengo miedo de lo que me espera al final.\nTodos me dicen: 'Sé paciente', pero mi alma no aguanta esta espera.\nLa existencia es una promesa que no sé si quiero que se cumpla.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

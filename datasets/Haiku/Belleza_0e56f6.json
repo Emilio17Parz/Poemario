@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Gesto suave\nmover con elegancia\ndon natural.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "gracia"
+  }
+}

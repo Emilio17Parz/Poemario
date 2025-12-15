@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz ya no tiene eco, (A)\nmi ser ya sin claridad, (B)\nme hunde la soledad, (B)\nla vida es un triste hueco. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Voz"
+  }
+}

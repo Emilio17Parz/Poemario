@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Alas del alma que al cielo nos llevan,\ny en mundos lejanos el ser nos elevan!\nRefugio sagrado contra la tristeza,\ndonde recupera el hombre su alteza.\n\n¡Cantad a los sueños, visión del futuro,\nque rompen del miedo el altísimo muro!\nMotor del progreso y de la ilusión,\nque encienden el fuego en el corazón.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El árbol es vida, sus ramas al cielo van a crecer (A),\nsu sombra es refugio contra el dolor (B),\nla fuerza que impulsa el querer vencer (A),\nla esencia del gran valor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Árbol"
+  }
+}

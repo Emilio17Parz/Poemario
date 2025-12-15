@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El puente que hicimos\nya se rompió en la mitad,\nno hay vuelta al pasado.\nQueda un abismo de dolor,\ny el miedo a caer en él.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Puente"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La fe no es creer lo que no ves,\npor simple ceguera o fanatismo;\nes confiar, venciendo al abismo,\nen que hay un plan que tú no prevés.\nEs la fuerza que mueve la montaña,\ny que a la esperanza acompaña.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "fe"
+  }
+}

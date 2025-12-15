@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dulce sabor,\ntu boca junto a la mía,\ntiempo parado.\nUn universo nace\nen este breve unión.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "beso"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La ruta es la prueba, el camino sin fin (A),\nde retos y gestas, de luz y de fe (A),\nel eterno y puro trajín (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Ruta"
+  }
+}

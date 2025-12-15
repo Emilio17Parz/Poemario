@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rugen los truenos en el confín,\nel cielo negro se rompe en luz,\nla lluvia cae sobre el jardín,\ncomo el castigo de una cruz.\nFuerza salvaje, fiero alud,\nla tempestad muestra su virtud.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

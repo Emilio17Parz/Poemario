@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El reloj avanza sin tener piedad,\nllevándose lejos tu imagen querida,\ncerrando la puerta, cerrando la herida,\ncon el manto gris de la soledad.\n\nLloro el pasado, la felicidad,\nque fue tan breve en mi pobre vida,\ny ahora que estás para siempre partida,\nme enfrento a la cruda y vil realidad.\n\nEl tiempo devora lo que más amamos,\ny en polvo y olvido los dos terminamos.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vivir es luchar contra el vendaval,\nmantenerse firme frente al mal.\n\nCaer y levantarse es lo normal,\nen esta batalla fundamental.\n\nLa fuerza del alma es el ideal,\npara vencer en el juicio final.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "fuerza"
+  }
+}

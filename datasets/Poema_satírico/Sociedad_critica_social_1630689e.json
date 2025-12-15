@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "Se alza un mundo de cristal y de cemento,\nDonde el \"progreso\" es el gran mandamiento.\nPantallas brillan con fulgor sagrado,\nY el alma, dicen, ya ha evolucionado.\n\nMas bajo el filtro de la luz artificial,\nLa miseria exhibe su rostro espectral.\nHay quienes comen caviar y champán,\nMientras otros mendigan su triste pan.\n\nLa voz del pueblo clama por un futuro,\nMas el eco muere en el discurso oscuro.\nPolíticos sonríen con gesto estudiado,\nMientras el erario sigue desangrado.\n\nCon leyes torpes, de ambigua intención,\nSe arrastra lenta la declaración.\nClama el oprimido: \"¿Dónde está la **justicia**?\"\nY el tribunal bosteza, entre avaricia y malicia.\n\nAsí el teatrillo sigue su función,\nAplausos huecos, total desolación.\nY entre el aplauso fácil, sin un gran dilema,\nLa sociedad baila su triste y falso lema.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

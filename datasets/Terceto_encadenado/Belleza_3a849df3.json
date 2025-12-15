@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se muestra la perfecta y bella forma,\nen cada creación de la natura,\nque no obedece a rígida norma.\n\nEs libre su diseño y hermosura,\ndesde la flor hasta la gran montaña,\nllena de perfección y de altura.\n\nQue a nuestra vista siempre acompaña.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "forma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El brillo del mineral,\npulido con gran esmero,\nes un lujo sin igual.\n\nBrilla como un lucero,\nen el cuello o la mano,\ncon fulgor verdadero.\n\nY soberano.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "joya"
+  }
+}

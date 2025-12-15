@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El Dios que es un gran misterio,\nno cabe en un solo criterio.\nSe acepta con fe,\nsin un solo sé,\nel amor sin un gran erio.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Misterio"
+  }
+}

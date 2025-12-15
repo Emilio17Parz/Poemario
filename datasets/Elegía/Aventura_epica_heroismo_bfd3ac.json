@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Grito que el viento no quiere llevar,\nla voz que el alma no quiere ya dar.\nTu sonido es sombra, sin poder anclar,\nel alma sin poder amar.\nTu forma es triste, la verdad es cruel,\nel alma sin rastro de hiel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

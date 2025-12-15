@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Retumban los tambores en el llano,\ny el acero choca contra el acero,\nen el sangriento juego del humano.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

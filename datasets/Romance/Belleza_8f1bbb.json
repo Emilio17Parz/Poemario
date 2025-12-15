@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La Música es muy dulce,\nme arrulla con fervor,\ny mi alma ya sin pulce,\nsin tu dulce fulgor.\n\nMe voy con el invierno,\nme voy sin un adiós,\ny mi vida es un infierno,\nsin un solo de vos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Música"
+  }
+}

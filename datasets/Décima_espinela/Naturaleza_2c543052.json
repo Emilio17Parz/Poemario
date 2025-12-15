@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El campo, verde manto,\nnos da la paz que cura,\ncon su belleza pura,\ny un ruiseñor su canto.\nEs un sagrado encanto.\n\nLas flores de colores,\nexhalan sus olores,\ny en la inmensidad del cielo,\nla brisa con su anhelo,\nmitiga los dolores.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

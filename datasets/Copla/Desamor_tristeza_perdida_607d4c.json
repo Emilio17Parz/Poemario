@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Romperé tus papeles\npara no verte la letra,\nporque cada palabra\nen mi herida penetra.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "carta"
+  }
+}

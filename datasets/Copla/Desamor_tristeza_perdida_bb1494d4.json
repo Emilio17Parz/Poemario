@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Tu recuerdo me persigue,\nen este invierno mío,\nla pena que me aflige,\nme ha llenado de un vacío.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

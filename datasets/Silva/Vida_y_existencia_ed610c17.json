@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que la risa resuene,\ny llene los espacios de la vida,\nque nada la frene,\nni la despida,\ncurando con su magia la herida.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "risa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde manto cubre el ancho suelo,\nmientras la montaña roza el mismo cielo.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

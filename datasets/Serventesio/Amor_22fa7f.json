@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tu mirada hallo el universo entero (A),\nlos astros, la luna, el vasto mar (B),\nes el sitio exacto, el dulce y gran sendero (A),\nla calma que viene a sanar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Mirada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La tarde llora su gris despedida,\ny el viento lleva tu nombre al pasar,\nya no me queda razón de soñar,\npues te llevaste la luz de mi vida.\nQueda en mi pecho la abierta herida,\ndel triste y frío y final adiós.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

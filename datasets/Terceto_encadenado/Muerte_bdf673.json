@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El cuerpo queda pero el alma vuela,\nlibre de pesos y de gravedad,\ndejando en la tierra su estela.\n\nHacia la eterna y gran claridad,\ndonde no existe la enfermedad,\nni la mentira ni la maldad.\n\nSolo la verdad.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "alma"
+  }
+}

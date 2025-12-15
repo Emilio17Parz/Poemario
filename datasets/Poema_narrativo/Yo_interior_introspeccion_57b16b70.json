@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Bajé las escaleras,\nde mi propio ser,\npara ver,\nlas quimeras.\nLlegué al fondo,\nde la verdad,\nla soledad,\ndel mundo.\nY hallé la luz,\nen la cruz.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

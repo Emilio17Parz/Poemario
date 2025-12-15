@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cruzaron el mar,\nsin ver la orilla,\nen su carabela sencilla,\nsin descansar.\nGritaron ¡Tierra!,\nal ver la playa,\ntras la atalaya,\nde la sierra.\nUn mundo nuevo,\nque yo te llevo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "descubrimiento"
+  }
+}

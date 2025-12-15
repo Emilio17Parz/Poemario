@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol quema con su fuego,\nlos días largos y ardientes,\ny no atiende a nuestro ruego.\n\nEs el tiempo del juego,\ny de las aguas corrientes,\nel sol quema con su fuego.\n\nA la sombra yo me entrego,\nlejos de las gentes,\ny no atiende a nuestro ruego.\n\nTodo brilla y yo estoy ciego,\npor las luces potentes,\nel sol quema con su fuego.\n\nEl calor no da sosiego,\na las almas impacientes,\ny no atiende a nuestro ruego.\n\nPero yo no lo niego,\nson días excelentes,\nel sol quema con su fuego,\ny no atiende a nuestro ruego.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "verano"
+  }
+}

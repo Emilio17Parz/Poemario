@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El presente es lo real,\nsin ninguna sombra o mal.\n\nEl pasado ya se fue,\nel futuro ya tiene fe,\nel alma ya no ve,\nsin ninguna sombra o mal.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "presente"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Amor que mi alma siempre lleva,\nCon cada instante que se eleva,\nPor ti no siento ningún ruego,\nEs más que un simple y vano juego,\nEs la pasión que el ser renueva.\n\nNo hay sombra que me dé una cueva,\nTu luz mi ser entero prueba,\nMi corazón se vuelve ciego,\nAmor que mi alma siempre lleva.\n\nContigo el mundo se me antoja nueva,\nNingún invierno ya me nieva,\nMi ser se rinde a tu sosiego,\nY en el dulcísimo fuego,\nMi corazón dichoso brega,\nAmor que mi alma siempre lleva.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

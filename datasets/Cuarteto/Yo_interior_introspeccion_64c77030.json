@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Quiero saber cuál es mi identidad,\nmás allá del nombre y de la apariencia,\npara encontrar mi verdadera esencia\ny vivir pleno en la sinceridad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

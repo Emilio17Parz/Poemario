@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cayó el gran tirano,\nque oprimía al pueblo,\ncon miedo y con duelo,\ny mano de hermano.\nSu poder fue vano,\nante el revuelo,\ndel justo suelo,\nsoberano.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

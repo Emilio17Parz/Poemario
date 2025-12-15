@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dios habla en el suave silencio,\nno en el ruido del comercio.\nCalla tu mente y escucha,\naunque la duda sea mucha.\nEn la quietud interior,\nhallarás al Creador.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

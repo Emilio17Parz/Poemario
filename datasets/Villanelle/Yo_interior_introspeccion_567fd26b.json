@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro mi rostro reflejado,\ny veo a un desconocido,\nque el tiempo ha cambiado.\n\nEstoy asustado,\nde lo que he vivido,\nmiro mi rostro reflejado.\n\nTodo el pasado,\nse ha perdido,\nque el tiempo ha cambiado.\n\nMe siento cansado,\ny abatido,\nmiro mi rostro reflejado.\n\nHe fracasado,\ny he vencido,\nque el tiempo ha cambiado.\n\nSigo callado,\ny confundido,\nmiro mi rostro reflejado,\nque el tiempo ha cambiado.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

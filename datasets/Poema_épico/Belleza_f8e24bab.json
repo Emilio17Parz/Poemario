@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El diamante Koh-i-Noor,\njoya de la corona,\nque a nadie perdona,\nsu brillo y su albor.\nCausa de terror,\ny de la matona,\nguerra que entona,\nsu gran valor.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "joya"
+  }
+}

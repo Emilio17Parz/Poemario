@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Árbol plantado,\nbien agarrado.\n\nSabe su origen,\ndonde lo eligen,\ny le dirigen,\nal prado.\nÁrbol plantado,\nbien agarrado.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "raíz"
+  }
+}

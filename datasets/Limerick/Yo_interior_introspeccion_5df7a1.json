@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La fuerza que vive en mi ser,\nme ayuda a la sombra vencer.\nEs don y es amor,\nsin un solo error,\nel alma que quiere ya ser.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Fuerza"
+  }
+}

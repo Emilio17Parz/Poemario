@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brilla la joya,\nque apoya.\nLa belleza,\ncon fijeza,\ny no abolla.\n\nLa cebolla,\nen la olla.\nLa pieza,\nbrilla la joya.\n\nSe desarrolla,\ny embrolla.\nLa cabeza,\nde la realeza,\nque folla,\nbrilla la joya.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "joya"
+  }
+}

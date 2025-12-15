@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Brilla en tu dedo el pequeño anillo,\nsímbolo eterno de nuestra unión,\nsencillo y puro como un estribillo,\nque canta alegre mi corazón.\n\nSímbolo eterno de nuestra unión,\ncerramos el ciclo de soledad,\nque canta alegre mi corazón,\ncon una inmensa felicidad.\n\nCerramos el ciclo de soledad,\nsencillo y puro como un estribillo,\ncon una inmensa felicidad,\nbrilla en tu dedo el pequeño anillo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "anillo"
+  }
+}

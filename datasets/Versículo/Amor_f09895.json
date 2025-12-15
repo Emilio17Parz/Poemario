@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Caminamos por senderos distintos durante siglos, pero nuestros pasos llevaban la misma brújula magnética.\nEl destino no fue una línea recta, sino un laberinto diseñado para que nuestro encuentro fuera inevitable.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "destino"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El mundo es lienzo manchado\nde infinito y vivo color,\ndesde el rojo de la sangre\nal violeta de la flor.\nMatices que el sol despierta\ncon su brillante calor,\nllenando de gozo el ojo\ndel atento espectador.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "color"
+  }
+}

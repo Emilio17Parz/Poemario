@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo y ceniza,\nque el viento pisa,\nes lo que somos,\naunque nos creemos,\ncon prisa.\n\nLa muerte avisa,\ncon su sonrisa,\nque volveremos,\nPolvo y ceniza.\n\nNadie divisa,\nla cornisa,\ndonde caemos,\ny nos perdemos,\nen la brisa,\nPolvo y ceniza.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

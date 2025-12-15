@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No te quedes solo en la forma,\nindaga el fondo y el contenido;\npues muchas veces está escondido,\nel valor que rompe la norma.\nLa cáscara puede ser muy bella,\npero estar vacía la estrella.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "forma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Reloj que no detiene su carrera,\ndevorador de reyes y de imperios,\nque guardas los profundos misterios\ny conviertes en polvo la quimera.\n\nNo te importa la súplica sincera,\npasas indiferente a los cautiverios,\ny marcas en los rostros, blancos, serios,\nla huella de tu mano, cruel y fiera.\n\nEl tiempo es el tesoro que se escapa,\narena que se escurre entre los dedos,\nel río que transforma nuestro mapa.\n\nVivimos atrapados en tus ruedos,\ny al final, cuando el ciclo se destapa,\nsomos recuerdos entre tus viñedos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el viento por el olivar,\ndespeinando la arboleda,\nllevándose los sombreros\ny las cintas de la seda.\nNadie sabe dónde nace,\nni dónde quieto se queda,\nviajero de mil caminos\nque con el polvo se enreda.\nSilba canciones antiguas,\nque a las ventanas remedan,\ny golpea las persianas\ncomo manos que se hospedan.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "aire"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres mi ancla segura en la tempestad atroz (R1)\nMi vida se cubre sin un solo mal (b)\nMi alma se llena de tu fuerte y dulce voz (R2)\n\nLa calma me inunda sin un final (a)\nNo hay más que buscar, no hay más que temer (b)\n Tú eres mi ancla segura en la tempestad atroz (R1)\n\nMi vida es un canto que es ya inmortal (a)\nLa fuerza que ayuda a mi ser a crecer (b)\nMi alma se llena de tu fuerte y dulce voz (R2)\n\nEl tiempo se para sin un error (a)\nMi corazón ya no quiere más caer (b)\nTú eres mi ancla segura en la tempestad atroz (R1)\n\nMi vida es la senda de puro fulgor (a)\nNo hay más que buscar, no hay más que querer (b)\nMi alma se llena de tu fuerte y dulce voz (R2)\n\nMi alma te sigue sin un final (a)\nContigo la vida es un dulce fanal (b)\nTú eres mi ancla segura en la tempestad atroz (R1)\nMi alma se llena de tu fuerte y dulce voz (R2)",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "Ancla"
+  }
+}

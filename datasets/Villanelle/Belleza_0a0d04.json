@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sonidos que nos elevan alto,\ntocando el fondo del corazón,\ndando a la vida un nuevo salto.\n\nEs la más pura y gran emoción,\nque nos libra del sobresalto,\nsonidos que nos elevan alto.\n\nSin pedirnos ninguna razón,\ncubren el mundo con su esmalte,\ntocando el fondo del corazón.\n\nEn el silencio del asfalto,\nsuenan con fuerza y con pasión,\nsonidos que nos elevan alto.\n\nEs la divina y gran canción,\nque nos rescata del asalto,\ntocando el fondo del corazón.\n\nCon su ritmo y su diapasón,\nrompen el muro de basalto,\nsonidos que nos elevan alto,\ntocando el fondo del corazón.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "música"
+  }
+}

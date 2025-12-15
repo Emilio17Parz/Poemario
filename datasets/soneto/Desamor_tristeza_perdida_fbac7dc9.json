@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El eco de tu voz ya no me abraza,\ny el mundo se me ha vuelto un frío lienzo,\nsin rumbo fijo, sin un sol inmenso,\nmi alma vaga, sin hallar su traza.\n\nLa ausencia es un puñal que me amenaza,\nun cruel vacío que mi ser ha preso,\ny el tiempo, lento, con su amargo peso,\nrecuerdos trae que el corazón traspasa.\n\nEn cada esquina, tu figura veo,\nfantasma mudo de un amor que fue,\ny solo el viento mi pesar comprende.\n\nMi alma ya no halla consuelo, creo,\ntan solo el rastro de un amargo aye,\ny brota, fiel al duelo, una lágrima que desciende.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

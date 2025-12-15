@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ojos de niño que miran sin mal,\nlimpios y claros como un manantial,\nes la belleza de la ingenuidad,\nque no conoce la cruda verdad.\nRisa que brota sin doble intención,\npuro reflejo de su corazón,\nes el tesoro que perdemos luego,\ncuando entramos en el adulto juego.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "inocencia"
+  }
+}

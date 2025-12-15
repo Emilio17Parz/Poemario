@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sube la espuma\ncurva de agua\nrompe con fuerza\nblanca en la orilla\nmar en acción\nritmo de sal\nvaivén eterno.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "ola"
+  }
+}

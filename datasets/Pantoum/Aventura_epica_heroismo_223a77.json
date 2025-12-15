@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuidado al cruzar el bosque,\nhay magia en la sombra,\nque nadie te toque,\nni te nombra.\n\nHay magia en la sombra,\nseres que miran,\nni te nombra,\nmientras respiran.\n\nSeres que miran,\ncuidado al cruzar el bosque,\nmientras respiran,\nque nadie te toque.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "duende"
+  }
+}

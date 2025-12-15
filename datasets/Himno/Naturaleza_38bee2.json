@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Espíritu libre que vas donde quieres,\ny con tu soplo levantas los seres!\nInvisible fuerza que empujas la vela,\ny barres el rastro que el tiempo revela.\n\n¡Salve, oh viento, aliento del mundo,\nque viajas veloz por el mar profundo!\nNadie te ata ni nadie te ve,\npero sentimos tu empuje y tu fe.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viento"
+  }
+}

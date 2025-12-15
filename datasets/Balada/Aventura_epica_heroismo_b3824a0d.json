@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lejos queda el hogar,\ny el puerto conocido,\ntoca ahora navegar,\nhacia lo no sabido.\nSin temor a naufragar,\nni al viento salvaje,\nvolviendo a empezar,\neste épico viaje.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

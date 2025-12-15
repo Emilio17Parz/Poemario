@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Nemoroso:\nPartamos hacia las cumbres altas,\ndonde la hierba es más verde,\ny el que no sube se pierde,\nlas vistas y las faltas.\n\nSerá un viaje sin pausas,\ndurmiendo bajo la estrella,\nsiguiendo la huella,\nde las antiguas causas.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cumbres"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lágrimas en la cara,\nUniendo nuestro llanto.\nTristeza nos separa,\nOscuro es el manto.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "LUTO"
+  }
+}

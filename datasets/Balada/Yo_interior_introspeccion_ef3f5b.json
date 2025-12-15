@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro adelante con inquietud,\nviendo la gran multitud,\nde caminos por recorrer,\ny cosas por conocer.\nLa incertidumbre me rodea,\ny el destino se pasea,\npero confío en mi andar,\npara poder llegar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz es como un canto de sirena,\nque me atrapa y me lleva a la locura,\nrompiendo de mi soledad la cadena.\n\nEs una melodía dulce y pura,\nque resuena en mi mente cada hora,\ny me llena de dicha y de ternura.\n\nMi corazón tu acento siempre adora.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "canto"
+  }
+}

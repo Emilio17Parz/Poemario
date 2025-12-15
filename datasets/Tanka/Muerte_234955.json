@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El último aliento\nse escapa de los labios ya,\ncomo una suave brisa.\nCuerpo que se queda mudo,\nalma que se va ligera.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Respiro"
+  }
+}

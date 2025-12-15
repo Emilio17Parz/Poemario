@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un lazo invisible, pero fuerte,\nune mi alma y tu profundo ser,\nresistirá al tiempo, resistirá a la muerte,\nporque es de un amor que quiere vencer.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Vínculo"
+  }
+}

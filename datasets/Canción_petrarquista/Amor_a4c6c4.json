@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si vuestros ojos claros\nmiran mi pobre alma con dulzura,\nse acaba la amargura,\ny los momentos caros\nse vuelven eternales de repente;\nque vuestra luz de frente\nes sol que alumbra el día,\ny es la fuente de toda mi alegría.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

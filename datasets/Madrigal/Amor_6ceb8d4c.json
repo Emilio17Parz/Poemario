@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oh, mi amor, dulce melodía,\nQue el alma sin fin ansía.\nTu mirada, un rayo de sol,\nConquista mi ser, mi control.\nEn cada latido del corazón,\nRenace eterna esta pasión.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

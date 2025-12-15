@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ganar el laurel de la victoria,\nLuchando con gran dignidad,\nOfreciendo vida a la historia.\nRecordados en la eternidad,\nInmortales en la memoria,\nAlcanzando la inmortalidad.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Suenen campanas de alegría y fiesta,\nla unión sagrada hoy se manifiesta.\nDos almas juran caminar unidas,\ncompartiendo por siempre sus dos vidas.\n\n¡Gloria a las nupcias, triunfo del amor,\nque hoy se reviste de su gran esplendor!\nTestigos somos de este gran misterio,\nfundando juntos un nuevo imperio.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "boda"
+  }
+}

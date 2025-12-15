@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La rosa florece y se seca,\nla juventud pasa veloz,\nse apaga la voz,\ny se cierra la biblioteca.\n\nLa belleza peca,\nde ser atroz,\ny feroz,\ncon su mueca.\n\nPero en su brevedad,\nestá su encanto,\ny su verdad.\n\nPor tanto,\nla deidad,\ndel canto.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

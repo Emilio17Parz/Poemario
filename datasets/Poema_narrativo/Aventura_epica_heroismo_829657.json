@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Le dieron un mensaje, sellado con un rey,\nQue decía: 'Ve al norte, por la única ley'.\nCaminó sin descanso por la nieve fría,\nLa misión es el voto que al guerrero guía.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "misión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "G rito de la victoria,\nA lcanzando el final,\nN ueva y bella historia,\nA lma de lo inmortal,\nR ecuerdo en la memoria.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "ganar"
+  }
+}

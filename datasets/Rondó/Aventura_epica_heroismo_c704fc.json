@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lanza fuego,\nla bestia,\nla molestia,\ndel juego.\nEl ruego,\nmodestia.\nLanza fuego.\n\nVuela alto,\nsobre el monte,\nel horizonte,\nde un salto.\nEl asalto,\ndel sinsonte.\nLanza fuego.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

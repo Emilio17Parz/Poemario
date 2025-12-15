@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No moriré del todo, decía\nel poeta romano en su canto,\npues dejo mi obra y mi llanto\ncomo prueba de mi valentía.\n\nLo que hice con el alma mía\nperdura y causa espanto\na la muerte y a su manto,\nvenciendo su soberanía.\n\nPlanté un árbol, tuve un hijo,\nescribí un libro sincero,\ny di al pobre cobijo.\n\nEse es mi verdadero\ny eterno acertijo,\nser más que un pasajero.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "libro"
+  }
+}

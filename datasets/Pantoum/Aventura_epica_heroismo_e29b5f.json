@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Años lejos de casa,\nperdido en el océano.\nEl tiempo lento pasa,\nlejos del ser humano.\n\nPerdido en el océano,\nentre monstruos y dioses.\nLejos del ser humano,\nescuchando mil voces.\n\nEntre monstruos y dioses,\nel tiempo lento pasa.\nEscuchando mil voces,\naños lejos de casa.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

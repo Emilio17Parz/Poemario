@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia suave,\nmojando el campo seco.\nCanta el ave,\ncae la lluvia suave.\nNadie lo sabe,\nsolo el eco.\nCae la lluvia suave,\nmojando el campo seco.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

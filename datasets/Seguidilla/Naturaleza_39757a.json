@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El árbol crece alto,\nhacia las nubes,\ny si miras arriba,\ntú te subes.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "alto"
+  }
+}

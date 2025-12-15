@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega la Muerte, silenciosa y fría,\nsin prisa, sin afán;\ndisuelve el sueño de la noche y día,\nse lleva a los que van.\n\nUn velo etéreo sobre el alma posa,\nque se desligó\ndel cuerpo inerte, cual marchita rosa,\nque al polvo volvió.\n\n¡Oh, misterio insondable de la nada,\nfinal camino!\nLa luz se apaga, la visión borrada,\nque trajo el destino.\n\nNo hay voz que quiebre su inmortal dominio,\nsu paz profunda,\nsolo el susurro de un adiós nimio,\nque al tiempo inunda.\n\nBajo la tierra, en la profunda **tumba**,\ndonde el olvido mora,\nel tiempo cede, su fragor derrumba\na la vida que llora.\n\nMás allá del umbral, ¿qué nos espera?\nUn sueño eterno,\no una nueva, invisible primavera\npara el interno.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

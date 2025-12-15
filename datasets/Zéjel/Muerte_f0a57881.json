@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos el polvo,\nal que yo vuelvo.\n\nNada tenemos,\ny nos iremos,\nno volveremos,\nme disuelvo.\n\nSomos el polvo,\nal que yo vuelvo.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

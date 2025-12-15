@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La luz que el Espíritu da,\nes fuego que nunca se va.\nMe guía y me calma,\nme limpia mi alma,\nla fuerza que siempre está ya.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

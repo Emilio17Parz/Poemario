@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos ceniza y polvo de estrella,\nque el viento esparce por el lugar,\nno queda rastro ni queda huella,\nde nuestro paso y nuestro soñar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

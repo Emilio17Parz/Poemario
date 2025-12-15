@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Reina del jardín perfumado,\nvstida de seda y de espina,\ncon una elegancia fina,\nque ha a todos enamorado.\n\nSímbolo del ser amado,\nroja, blanca o purpurina,\nque al sol de mayo se inclina,\ncon su cáliz delicado.\n\nTu belleza cuesta sangre,\nsi te intentan arrancar,\nsin cuidado y con desangre.\n\nNos enseñas a amar,\ncon dolor y con hambre,\ny a saber esperar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

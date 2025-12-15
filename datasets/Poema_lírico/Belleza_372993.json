@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El tiempo no es feo,\nes la cruel verdad.\nLa vida que yo veo\nsin ninguna edad.\n\nMe obliga a mirar,\nme obliga a existir,\nla única forma\npara poder huir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

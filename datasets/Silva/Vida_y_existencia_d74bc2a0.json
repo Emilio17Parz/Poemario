@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "¿Qué es este ser que siente y piensa,\nque se alza desde el barro\ny mira el firmamento,\nbuscando una razón, un hondo arcano?\nLa vida se despliega,\nun tapiz de instantes,\nde luces y de sombra\nen la vasta extensión del ser humano.\n\nEl **tiempo**, ese tirano,\nlo mide todo en vano.\nSus arenas se escurren,\nun caudal silencioso e imparable,\nllevándose la risa,\nla pena y el anhelo,\ndejando solo el eco,\nun rastro en la memoria perdurable.\n\nExistir es un viaje\nsin mapa conocido,\nun naufragio y un puerto,\nun eterno comienzo y un final.\nSomos el pulso frágil\nde un cosmos que nos crea,\npara luego disolvernos\nen su danza sin fin, su espiral.\n\nMas no hay que claudicar ante el misterio,\nsino vivir la chispa,\ncada latido, cada amanecer,\nporque en este fugaz periplo terrenal,\nla conciencia se eleva\ny el alma se eterniza,\naunque el cuerpo se rinda\na la ley implacable del final.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

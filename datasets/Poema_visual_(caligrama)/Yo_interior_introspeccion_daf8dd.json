@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Labios juntos\nsin palabra\nruido cesa\nescucho\nlo de adentro\nsilencio\nsabio.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

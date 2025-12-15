@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bajo la cúpula de hojas verdes,\nOyes el susurro del ramaje,\nSientes la paz si en él te pierdes.\nQuietud que forma el gran paisaje,\nUniendo la tierra y lo que muerdes,\nEn este natural y gran viaje.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

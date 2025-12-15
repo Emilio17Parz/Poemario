@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lengua de acero brillante,\nforjada en fuego y sudor,\ncompañera del caminante\ny jueza del honor.\nFilo que corta el aire,\ncruz que protege la mano,\nsin miedo y sin desaire\nfieles al soberano.\nHerramienta de la guerra,\nsímbolo de poder,\nque defiendes la tierra\nal amanecer.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "espada"
+  }
+}

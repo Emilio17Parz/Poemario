@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Atrapado en el atasco,\nme siento como un churrasco,\nsuenan bocinas,\nhuele a gasolinas,\nesto es un terrible asco.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Tráfico"
+  }
+}

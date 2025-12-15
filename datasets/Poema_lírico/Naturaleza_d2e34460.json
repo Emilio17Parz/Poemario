@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Viajero etéreo que nadie ha visto,\npero que todos sentimos pasar,\nmueves las olas de la inmensa mar,\ny yo a tu fuerza jamás me resisto.\nEres el soplo en el que yo existo,\nviento que nunca podrá descansar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

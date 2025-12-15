@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor es el agua de mi manantial real (A),\nque sacia mi sed con dulce frescor (B),\nla vida que es ya un don total (A).\n\nEs la fuente de vida, de noble fulgor (B),\nque el tiempo no borra, que quiere crecer (C),\nla esencia más pura del puro amor (B).\n\nNo hay más que buscar, no hay más que ver (C),\nque tu rostro, mi única verdad (D),\nla fuerza que impulsa mi noble querer (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Manantial"
+  }
+}

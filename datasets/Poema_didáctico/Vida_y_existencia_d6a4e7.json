@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Equivocarse es aprender,\nno temas fallar,\nes la forma de ver,\ny de hallar.\nEl error es maestro,\nno un siniestro.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Error"
+  }
+}

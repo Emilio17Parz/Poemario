@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "V encer la adversidad,\nA nimo decidido,\nL uchando con verdad,\nO brando convencido,\nR ey de la voluntad.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "valor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El espejo me muestra la cara del hambre y la miseria cruel y sin razón fiel,\nla vida sin la calma, con sabor amargo a hiel.\nLa pobreza es la condena que el mundo me impuso ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la riqueza que mi mano no pudo tocar jamás sin voz ni paz,\ny mi destino es el castigo de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lucha por la causa atroz (a),\nel derecho de todo ser (b),\nla vida sin una voz (c),\nla forma de al fin vencer (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Libertad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Escucha la tripa,\nsabe más que el cerebro,\nla duda disipa,\ny yo celebro.\nEl instinto no falla,\nsi la mente calla.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Intuición"
+  }
+}

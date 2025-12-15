@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dragón no siempre tiene escamas.\nA veces es una factura impagada,\nuna enfermedad,\nun recuerdo que quema.\nVencerlo no requiere una lanza,\nsino la paciencia del agua que erosiona la piedra.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Espejo de vida sobre el escenario,\ndonde se muestra el ser temerario!\nMáscaras de risa y de dolor,\ncuentan la historia del desamor.\n\n¡Gloria a las tablas y a la ficción,\nque nos revelan la condición!\nEl mundo es teatro y nosotros actores,\nviviendo dramas y amores.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "teatro"
+  }
+}

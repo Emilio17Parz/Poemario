@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El Amor, ¡oh gran farsa de cine y novela!\nUn guion preescrito que el tonto se cela.\nCon miradas profundas y frases de miel,\npromete un edén que se muestra tan cruel.\n\nSe compran diamantes, mensajes de texto,\nun filtro en la foto que oculte el defecto.\nSe finge en la cena una risa jovial,\nmientras el alma bosteza: ¡qué tedio fatal!\n\nY si el idilio frágil al fin se desmorona,\nno es nuestra la culpa, ¡la excusa es redonda!\nFue el ciego <b>destino</b>, traidor y falaz,\nque en vez de Cupido, lanzó un buen mazazo.\n\nDespués de los besos y el furor inicial,\nviene el \"¿qué cenamos?\", el drama banal.\nLas toallas mojadas, la cuenta del gas,\ny el \"para siempre\" suena a \"hasta nunca jamás\".\n\nMas, ¡ay del que ose no amar cual esclavo!\nSerá un paria social, un ser extraviado.\nAsí que a sonreír, a comprar y a fingir,\nno sea que el <b>destino</b> te encuentre sin par.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

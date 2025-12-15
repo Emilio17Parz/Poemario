@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Un noble y valiente adalid,\nse fue a buscar un gran quid.\nLuchó contra un dragón,\nsin un gran afán,\nel alma sin un solo vid.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Caballero"
+  }
+}

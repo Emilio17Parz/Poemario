@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El fin es el principio, la puerta que abre ya (A),\nel paso al vacío, sin más dolor (A),\nla vida que se va (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Final"
+  }
+}

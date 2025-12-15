@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "   C\n  L u\n U n\n Z a",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "luna"
+  }
+}

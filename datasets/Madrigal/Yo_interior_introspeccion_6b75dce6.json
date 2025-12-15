@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro en el cristal\ny veo un rostro extraño y desigual.\n¿Quién soy yo en realidad?\nBusco mi identidad.\nLa imagen me devuelve\nuna pregunta que no se resuelve.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

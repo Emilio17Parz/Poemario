@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quisiera beber del agua de olvido,\nborrar tu recuerdo de mi memoria,\npor todo el tiempo que se ha perdido.\n\nSanar el corazón que está herido,\ncerrar para siempre nuestra historia,\nquisiera beber del agua de olvido.\n\nDejar el pasado ya concluido,\nquitarme esta pena perentoria,\npor todo el tiempo que se ha perdido.\n\nNo oír el eco de tu latido,\nbuscar otra senda promisoria,\nquisiera beber del agua de olvido.\n\nSentirme de nuevo libre y nido,\nde paz y de luz, no de escoria,\npor todo el tiempo que se ha perdido.\n\nMas sigo atrapado y dolorido,\nen esta tristeza obligatoria,\nquisiera beber del agua de olvido,\npor todo el tiempo que se ha perdido.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

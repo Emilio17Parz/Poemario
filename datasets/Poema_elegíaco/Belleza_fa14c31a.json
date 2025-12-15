@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ayer eras primavera,\nhoy eres invierno crudo,\nel tiempo, juez mudo,\ntocó tu frontera.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra larga nos alcanza,\nla noche eterna se aproxima.\nDesde la profunda sima\nse pierde toda esperanza.\nSolo queda la remembranza\nde quien vivió en la cima.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sima"
+  }
+}

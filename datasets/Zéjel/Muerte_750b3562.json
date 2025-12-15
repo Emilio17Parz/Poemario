@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Al fin, la muerte nos viene a buscar,\nSin clemencia alguna nos va a llevar,\nY en su frío silencio nos hará callar.\n\nEl pulso se apaga, un suspiro lento,\nSe acaba la vida, fugaz momento,\nSe lleva consigo el último aliento.\nY en su frío silencio nos hará callar.\n\nLa **sombra** se acerca, con su velo oscuro,\nPor el que ya parte, no hay futuro,\nSolo un viaje final, incierto y puro.\nSin clemencia alguna nos va a llevar.\n\nAdiós al sol, al brillo de la faz,\nAdiós a las penas, y también la paz,\nSolo queda un vacío, enorme, fugaz.\nY en su frío silencio nos hará callar.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Cuando el alma se desnuda\nfrente al misterio sin fin,\nsurge del pecho mi rezo\ncomo un suspiro de jazmín.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Ciencia de lo bello y lo sensible,\nbúsqueda del placer visual,\nhacer lo invisible visible,\nen un lenguaje universal.\nJuicio del gusto, ley del agrado,\ncamino por el arte trazado.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Estética"
+  }
+}

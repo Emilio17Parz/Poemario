@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aquí yace lo que fue mortal, bajo la losa fría de la tumba.\nEl nombre se borra con la lluvia y la memoria se disipa con el viento.\nLa tumba es la puerta cerrada que separa a los vivos de los muertos.\nPero la tierra abraza a sus hijos y los transforma en flores y raíces.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

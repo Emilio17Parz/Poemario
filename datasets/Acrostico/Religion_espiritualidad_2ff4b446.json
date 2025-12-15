@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Divino creador de las estrellas,\nInmenso poder y gran bondad,\nOrígen de todas las cosas bellas,\nSostén de nuestra humanidad.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "dios"
+  }
+}

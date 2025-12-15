@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llanto de nube gris,\nque limpia el polvo de la tierra seca;\nla vida nunca peca\ncon tal matiz.\nRenace el verde gracias a tu beso,\nen el proceso.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

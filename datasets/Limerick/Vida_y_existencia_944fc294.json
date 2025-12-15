@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Un ser en la vida pensante,\nCon su existir, muy campante.\nTuvo un sueño, ¡qué don!\nLleno de gran sazón,\nY halló su final fascinante.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

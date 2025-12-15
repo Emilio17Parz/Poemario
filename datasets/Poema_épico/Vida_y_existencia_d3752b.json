@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Río rojo que llevas la vida,\ncaliente y férreo, tambor interior,\nfluyes sanando cualquier herida,\nllevando la fuerza y el calor.\nLinaje, herencia, pacto sagrado,\ntinta con la que el ser es creado.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Sangre"
+  }
+}

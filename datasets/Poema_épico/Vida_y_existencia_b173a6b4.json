@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Despertó el gigante de su largo sueño,\ny vio que el mundo era una ilusión.\nForjada por sombras y confusión,\ndonde nadie es de su vida el dueño.\n'Lucharé', dijo, 'por hacer real,\neste delirio fenomenal'.\nY con su voluntad forjó la historia,\nhaciendo del sueño una victoria.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

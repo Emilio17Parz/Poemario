@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brilla la piedra preciosa,\nen el dedo anular,\nreflejando mil luces\nde forma singular.\nEs dura y transparente,\ndifícil de tallar,\nuna lágrima de estrella\nque vino a posar.\nLa belleza fría,\ndel diamante estelar,\nadmiran los hombres\nsin poder tocar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "diamante"
+  }
+}

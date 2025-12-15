@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Este es el triste final\nde nuestra vieja historia,\nun golpe muy fatal.\nEste es el triste final,\nun daño emocional\nque mancha la memoria.\nEste es el triste final\nde nuestra vieja historia.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "final"
+  }
+}

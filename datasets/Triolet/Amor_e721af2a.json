@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi amor por ti no tiene fin,\nEres la luz de mi vivir.\nUn dulce, cálido festín,\nMi amor por ti no tiene fin.\nEn mi profundo corazón sentir,\nEres la luz de mi vivir.\nMi amor por ti no tiene fin,\nEres la luz de mi vivir.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

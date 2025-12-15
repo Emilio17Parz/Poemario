@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cielo de arrebol,\npintado de naranjas y violetas;\ncumplen las metas,\ndel viejo sol.\nFinal glorioso de la jornada,\nla luz dorada.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

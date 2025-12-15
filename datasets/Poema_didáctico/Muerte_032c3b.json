@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El miedo a morir es miedo a no vivir,\na dejar cosas pendientes,\natrévete a sentir,\ny sé de los valientes.\nQuien vive plenamente,\nmuere serenamente.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Miedo"
+  }
+}

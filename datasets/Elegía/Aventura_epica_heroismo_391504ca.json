@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "¿Dónde están los gigantes que alzaron su voz\nContra el sino incierto, en glorioso solaz?\nEl eco se apaga en cumbres antaño,\nY el polvo recubre el noble peldaño.\nSe ha ido el fulgor de hazañas sin par,\nY el vasto horizonte se tiñe de pesar.\n\nEllos surcaron mares que el miedo tejía,\nEscalaron montañas donde el águila vivía.\nCon pecho de roble, con alma de fragua,\nDesafiaron la noche, la intriga, la plaga.\nCon espada en mano y mirada serena,\nCaminaron sendas de dicha y de pena.\n\nCada **batalla** forjó su leyenda inmortal,\nContra hordas oscuras, un furioso vendaval.\nSus gritos de guerra, un trueno lejano,\nResuenan en brisas de un tiempo ya vano.\nPor reinos caídos, por un sueño de luz,\nSufrieron la herida, cargaron su cruz.\n\nMas, el tiempo, verdugo de toda proeza,\nHa sellado el camino a tanta belleza.\nSus estandartes, rasgados y viejos,\nNo ondean ya al viento, no lanzan reflejos.\nSilencio de tumba en los valles sagrados,\nDonde antaño los héroes yacían honrados.\n\nSólo queda el susurro de un bardo sin voz,\nQue canta la épica, bajo el manto atroz\nDe un mundo que olvida la audacia y el don.\nOh, gloria perdida, ¡qué triste canción!\nMás allá del ocaso, su espíritu vive,\nEn el hondo recuerdo que el alma percibe.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

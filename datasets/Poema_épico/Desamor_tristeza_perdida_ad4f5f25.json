@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Las estatuas yacen en la arena,\nOzymandias, rey de reyes,\nolvidado por todas las leyes,\ncubierto por la duna llena.\nNadie recuerda su gran faena,\nni sus obras, ni sus bueyes,\nsolo el viento en los magueyes,\ncanta su eterna condena.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

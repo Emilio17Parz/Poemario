@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre incesante el cristalino río,\nbuscando el seno de la mar profunda,\ny con su fuerza la ribera inunda\nllevando lejos el temor y el frío.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Temor al hueco\na no ser nunca más\nvértigo atroz.\nLa incógnita nos hiela\nante el paso final.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

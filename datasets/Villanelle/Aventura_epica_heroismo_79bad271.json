@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos la historia,\ndel caballero valiente,\nque vive en la memoria.\n\nFue una jornada de gloria,\nque salvó a la gente,\ncuentan los viejos la historia.\n\nSu espada fue perentoria,\ncontra la bestia serpiente,\nque vive en la memoria.\n\nNo quiso fama ilusoria,\nni corona en la frente,\ncuentan los viejos la historia.\n\nSu vida fue transitoria,\npero su acto, viviente,\nque vive en la memoria.\n\nEs la leyenda notoria,\nque se narra en el puente,\ncuentan los viejos la historia,\nque vive en la memoria.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

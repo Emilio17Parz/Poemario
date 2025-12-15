@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miro el espejo y no soy yo,\nveo unos ojos llenos de gris.\nEl brillo antiguo se terminó,\ndesde que te fuiste de mi país.\n\nVeo unos ojos llenos de gris,\nrostro marcado por la fatiga.\nDesde que te fuiste de mi país,\nsolo la pena es mi amiga.\n\nRostro marcado por la fatiga,\nel brillo antiguo se terminó.\nSolo la pena es mi amiga,\nmiro el espejo y no soy yo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

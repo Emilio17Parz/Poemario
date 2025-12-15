@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminante no hay camino hecho,\nse hace camino al andar, dijo el poeta,\nbuscando cada uno su meta\ncon el corazón latiendo en el pecho.\n\nCruzamos el valle y el estrecho,\nsubimos la montaña más completa,\ny a veces la fortuna nos respeta\no nos deja sin abrigo y techo.\n\nLo importante no es llegar al final,\nsino gozar del viaje y la andanza,\nsuperando el bien y el mal.\n\nMantener siempre viva la esperanza,\ny hacer de la vida un ritual\nde amor, de lucha y de confianza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "camino"
+  }
+}

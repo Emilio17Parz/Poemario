@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "V I D A\n                          N A C E R\n                        E X I S T I R\n                      C A M I N O S\n                    S E N T I D O\n                  P A S O   A   P A S O\n                B U S C A N D O   L U Z\n              E N   L A S   S O M B R A S\n            D U D A S   Y   V E R D A D E S\n          E L E C C I O N E S   S I N   F I N\n        G I R O S   I N C I E R T O S   E N   E L   T I E M P O\n      P E R D E R S E   P A R A   E N C O N T R A R S E   A Q U Í\nL A B E R I N T O   D E   L A   E X I S T E N C I A   H U M A N A\n      A Q U Í   E N C O N T R A R S E   P A R A   P E R D E R S E\n        E L   T I E M P O   E N   G I R O S   I N C I E R T O S\n          D E C I S I O N E S   S I N   F I N\n            S O M B R A S   Y   L U C E S\n              V E R D A D E S   O C U L T A S\n                H U E L L A S   D E L   S E R\n                  F I N   Y   C O M I E N Z O\n                    D E S V A N E C E R\n                      T R A S C E N D E R\n                        M O R I R\n                          C E S A R\n                            S I L E N C I O\n                              E T E R N O",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

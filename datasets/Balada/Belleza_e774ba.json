@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Arcos y torres que buscan el sol,\nfruto del arte y del humano rol,\npiedras que cantan en la catedral,\nuna armonía que es espiritual.\nEspacios llenos de luz y de sombra,\ndonde el viajero se para y asombra,\nante la fuerza de la construcción,\nque es de la mente la gran proyección.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "arquitectura"
+  }
+}

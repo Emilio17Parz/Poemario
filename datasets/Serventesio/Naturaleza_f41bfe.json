@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna plateada nos contempla,\ndesde su trono negro y estelar,\nsu luz suave la noche destempla,\ny nos invita dulces a soñar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "luna"
+  }
+}

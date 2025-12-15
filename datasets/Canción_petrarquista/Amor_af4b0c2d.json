@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Aquellos ojos claros y serenos,\ndonde Amor escondió su ardiente fuego,\nme tienen sin sosiego,\nde dulces llamas y de gracia llenos;\ny si miro su luz, el alma mía\nhalla en su resplandor el nuevo día,\ny pierdo el miedo al daño,\nviviendo felizmente en tal engaño.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

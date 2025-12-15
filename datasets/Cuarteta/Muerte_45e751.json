@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El frío de la piedra, el mármol duro,\nque sella el paso hacia la luz,\nmi camino se vuelve oscuro,\nesta es la definitiva cruz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Frío"
+  }
+}

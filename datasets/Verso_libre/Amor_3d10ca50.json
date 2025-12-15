@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Caminé por mil senderos errados,\ntropezando con sombras y dudas,\nsin saber que cada paso\nme acercaba a tu puerta.\nNo fue casualidad,\nfue la mano invisible del destino\ntejiendo los hilos\npara que hoy estemos aquí.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "destino"
+  }
+}

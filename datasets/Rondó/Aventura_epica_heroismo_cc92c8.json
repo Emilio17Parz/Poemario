@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dulce retorno,\nal hogar querido.\nLo perdido,\nen el entorno.\n\nSin adorno,\nni ruido.\nDulce retorno,\nal hogar querido.\n\nEl horno,\nencendido.\nEl nido,\ndel contorno.\nDulce retorno.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "retorno"
+  }
+}

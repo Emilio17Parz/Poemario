@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Quién escribe nuestro guion?\n¿Es el azar o es Dios?\nCaminamos entre los dos\nbuscando la dirección.\nEs una eterna cuestión\nque no tiene respuesta clara,\nla vida nos da la cara\ny luego nos da la espalda,\ntejiendo su propia guirnalda\ncon una tijera rara.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "azar"
+  }
+}

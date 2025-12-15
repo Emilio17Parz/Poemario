@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Encuentra la paz eterna,\nlejos del dolor,\nla luz sempiterna,\nle brinda calor.\n\nLejos del dolor,\ndescansa el guerrero,\nle brinda calor,\nel sol postrero.\n\nDescansa el guerrero,\nencuentra la paz eterna,\nel sol postrero,\nla luz sempiterna.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Oh prados verdes, fuentes cristalinas,\numbría dulce del frondoso pino,\ndo el sol con rayo blando se reclina\ny el aura canta un cántico divino!\n\nAquí, sentado en musgo y flor silvestre,\ncontemplo el vuelo de la golondrina\nque al nido amado busca en cada estrofa\nque la tarde en su manto determina.\n\nEl murmullo del río me acompaña,\narrullo eterno que el silencio acuna;\nla cabra pasta en la lejana montaña,\nmientras se asoma ya la plata **luna**.\n\nElla, testigo fiel de mis desvelos,\npintando en cada hoja un brillo etéreo,\nregala al alma paz bajo los cielos,\ndisipa el hondo, antiguo misterio.\n\nNaturaleza, madre siempre pía,\nen tu regazo encuentro yo el consuelo;\ntu eterna calma mi sufrir desvía,\ny eleva mi corazón al alto cielo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "luna"
+  }
+}

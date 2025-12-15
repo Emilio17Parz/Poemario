@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Una voz le decía qué era lo peor,\nUn suave murmullo, sin ningún error.\nLa conciencia es el faro que al alma la guía,\nLa luz que no miente, la mejor guía.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "conciencia"
+  }
+}

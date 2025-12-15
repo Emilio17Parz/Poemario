@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La brisa del bosque entona un canto añejo,\nEl aire se llena de paz, de un dulce arrullo.\nRefleja el estanque el sol, cual viejo espejo,\nY el río susurra con su perenne murmullo.\n\nUna flor despierta, belleza sin complejo,\nEl aire se llena de paz, de un dulce arrullo.\nLa abeja en su vuelo, buscando su cotejo,\nLa vida se vierte en un fresco capullo.\n\nEl trino del ave se escucha a lo lejos,\nLa vida se vierte en un fresco capullo.\nLos altos pinos, con brazos viejos,\nLa tierra nos abraza con su tierno orgullo.\n\nEn cada respiro, divinos consejos,\nLa tierra nos abraza con su tierno orgullo.\nRompiendo el silencio, sin viejos complejos,\nLa brisa del bosque entona un canto añejo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "flor"
+  }
+}

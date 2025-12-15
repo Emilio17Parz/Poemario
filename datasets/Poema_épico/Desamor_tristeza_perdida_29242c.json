@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me exiliaste al yermo de la soledad,\nlejos de la luz de tu rostro divino,\nvago por tierras de frialdad,\ncargando la cruz de mi cruel destino.\nSin patria, sin rumbo, sin ley, sin rey,\ncumpliendo del olvido la dura ley.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Destierro"
+  }
+}

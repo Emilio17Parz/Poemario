@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Eres solo ceniza que el viento se llevó ya, sin piedad ni razón,\ny solo queda el recuerdo de mi roto corazón.\nLa ceniza no habla, no siente ni ama,\nla vida sin tu luz es una suave llama.\n\nLlevo el polvo en mi mano, lo suelto al dolor,\nla vida sin la calma, sin ningún fulgor.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

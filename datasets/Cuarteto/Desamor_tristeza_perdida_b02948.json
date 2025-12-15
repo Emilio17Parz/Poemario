@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Derramo mi dolor sobre la mesa,\nun mar de sal que inunda mi mirar,\nno puedo, por más que hago, parar,\nde sentir esta carga que me pesa.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

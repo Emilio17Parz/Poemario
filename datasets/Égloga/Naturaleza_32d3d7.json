@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Generosa tierra que nos das\nel trigo, la vid y la aceituna.\nBajo el sol y bajo la luna\ntu ciclo eterno de paz.\nGracias te damos por lo que harás\npara saciar nuestra hambruna.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "trigo"
+  }
+}

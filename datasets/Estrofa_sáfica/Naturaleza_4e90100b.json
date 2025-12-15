@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre cantando cristalino río,\nhuye del monte y del eterno frío,\nbusca del mar el gran poderío,\nagua viajera.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "río"
+  }
+}

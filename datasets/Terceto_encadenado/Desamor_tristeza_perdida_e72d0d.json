@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El viento se lleva la última y dulce voz (A),\nel soplo final de la corta edad (B),\nla vida se extingue sin un Dios (A).\n\nLa ausencia de toda la gran verdad (B),\nla pena me cubre con velo cruel (C),\nla eterna y dura caridad (B).\n\nMi vida es un trago de amarga hiel (C),\nsin tu amor no sé cómo voy a estar (D),\nla forma de no volver a creer (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Viento"
+  }
+}

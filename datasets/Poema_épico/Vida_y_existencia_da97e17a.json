@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cronos devora a sus hijos sin pena,\nes el dios terrible que nunca sacia.\nNo concede tregua, ni otorga gracia,\narrastra a todos a su condena.\nImperios se alzan y caen en horas,\nbajo sus ruedas demoledoras.\nEl tiempo es el único vencedor,\ndel drama humano y su resplandor.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

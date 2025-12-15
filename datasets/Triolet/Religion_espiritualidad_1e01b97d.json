@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Pido perdón\npor mis errores,\nde corazón.\nPido perdón,\nen oración,\nsin temores.\nPido perdón\npor mis errores.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lienzo que cubre el ser,\nsuave tacto de seda.\nMapa de cada placer,\nhuella que siempre se queda.\n\nSuave tacto de seda,\ncalor de vida latente.\nHuella que siempre se queda,\nen la memoria presente.\n\nCalor de vida latente,\nmapa de cada placer.\nEn la memoria presente,\nlienzo que cubre el ser.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "piel"
+  }
+}

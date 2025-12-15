@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No hay muerte real si hay memoria,\neres eterno en mi corazón,\ny en cada página de mi historia.\n\nVives en cada vieja ilusión,\ny en el recuerdo de lo vivido,\nque es mi más grande consolación.\n\nNunca perdido.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Invisible arquitectura del aire,\nque levanta palacios de sonido,\nrescatando lo que estaba perdido,\ncon su elegante y rítmico donaire.\n\nNo tiene cuerpo, ni rostro, ni desaire,\npues entra en el oído consentido,\ny deja el corazón estremecido,\nsin que nadie la toque o la desaire.\n\nLenguaje universal de las esferas,\nque une las almas en un solo canto,\nborrando las absurdas fronteras.\n\nEs el remedio para el desencanto,\nque nos eleva a cumbres verdaderas,\ny nos libera del terrible espanto.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "música"
+  }
+}

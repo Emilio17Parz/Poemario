@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En la noche soy libre, vuelo sin alas y hablo con los muertos en el idioma de las estrellas.\nEl mundo de los sueños es mi verdadera patria, el lugar donde mi alma se quita el disfraz de la lógica.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Comienza el viaje hacia lo desconocido, dejando atrás el puerto seguro.\nEl héroe debe cruzar el umbral y enfrentarse a los monstruos del abismo.\nEs un viaje de transformación, de muerte y renacimiento.\nAl final del camino, el viajero regresa, pero ya no es el mismo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

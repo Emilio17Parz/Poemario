@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Venimos del polvo de estrellas y al polvo regresamos, en un ciclo cósmico de reciclaje eterno.\nNuestros átomos se dispersan para ser parte de una flor, de una nube o de otra piel, en la danza sin fin de la materia.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

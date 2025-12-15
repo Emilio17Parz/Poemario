@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sombra fugaz es tu recuerdo,\ncon el que a veces concuerdo,\nen las noches de desvelo,\ncuando miro hacia el cielo,\ny la razón yo pierdo.\n\nYa no me siento cuerdo,\nsi a tu fantasma muerdo,\ncon rabia y con recelo,\nsombra fugaz.\n\nEs un camino izquierdo,\nun lazo que no desato,\nque cubre todo mi suelo,\ny me causa desconsuelo,\nverte como un ser lerdo,\nsombra fugaz.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

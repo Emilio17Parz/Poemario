@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Miraba su cara arrugada,\ny su calva tan despejada,\n\"¡Qué guapo soy!\",\nse dijo el cowboy,\ncon la vista ya muy gastada.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Vejez"
+  }
+}

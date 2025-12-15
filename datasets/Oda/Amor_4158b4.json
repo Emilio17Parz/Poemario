@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sagrado Beso, fuente de ternura,\nsilencio elocuente de dos almas unidas.\nSello de amor que la esperanza cura,\nque borra sombras y antiguas heridas.\n¡Oh, instante breve de fulgor bendito,\nesencia pura de afecto infinito!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Beso"
+  }
+}

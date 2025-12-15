@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El grito del alma sin luz (a),\nque rompe el silencio cruel (b),\nla vida es una gran cruz (c),\nel trago de amarga hiel (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

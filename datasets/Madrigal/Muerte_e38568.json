@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El instante supremo, el de la verdad,\ncuando se abren los ojos al Creador.\nYa no hay máscara, ni falsedad,\nsolo el peso del bien y del error.\n\nEs el encuentro que transforma todo,\nlimpiando el espíritu de lodo.\nLa obra se juzga y se da la sentencia,\nla justicia se impone sin clemencia,\npero el amor te espera y te redime.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "juicio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Gloria a la unión de la tierra y el cielo,\ncuando dos almas se funden en una,\nbajo el amparo de la blanca luna,\nalzando juntas su místico vuelo.\nEsencia pura que a Dios se asemeja,\ny que del odio mortal se aleja.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "alma"
+  }
+}

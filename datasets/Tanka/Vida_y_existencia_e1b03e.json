@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Los sueños son luz,\nque guía al hombre a lo alto,\na la meta fiel.\nSin ellos la vida es gris,\nvacía y sin gran sentido.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Sueños"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Aunque el invierno sea duro,\nsiempre vuelve la primavera,\nla esperanza nos espera,\ntras el nublado oscuro.\n\nEs el sentimiento puro,\nque nos hace resistir,\ny nos impulsa a vivir,\nconstruyendo el futuro.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

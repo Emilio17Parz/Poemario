@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "SALICIO: El río Tajo lleva mis lamentos\nal mar inmenso del olvido amargo.\nNEMOROSO: Largo es el dolor, el día largo,\ny fríos soplan los crueles vientos.\nMurieron ya los dulces juramentos,\nsolo nos queda el pesar por cargo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rio"
+  }
+}

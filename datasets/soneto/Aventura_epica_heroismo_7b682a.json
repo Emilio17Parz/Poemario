@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largas noches bajo estrellas,\ncon el viento en la vela,\nmientras el barco estela,\ndejando espumas y huellas.\n\nSe olvidan las querellas,\nla soledad se revela,\ny el corazón se consuela,\ncon visiones que son bellas.\n\nLa travesía transforma,\nal que parte y al que llega,\ndándole nueva forma.\n\nEl mar todo lo anega,\ny bajo su azul norma,\nel espíritu navega.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "travesía"
+  }
+}

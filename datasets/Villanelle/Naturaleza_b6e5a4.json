@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol se despide lento,\npintando el cielo de grana,\nen este dulce momento.\n\nSe acaba el aliento,\nde la mañana,\nel sol se despide lento.\n\nQueda el sentimiento,\nde la vida humana,\nen este dulce momento.\n\nEs el firmamento,\nquien la noche gana,\nel sol se despide lento.\n\nSin sufrimiento,\nni pena vana,\nen este dulce momento.\n\nTodo es un cuento,\nque el alma sana,\nel sol se despide lento,\nen este dulce momento.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

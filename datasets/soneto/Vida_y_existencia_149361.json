@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es la vida un relámpago en la noche,\nun breve resplandor que se apaga,\nuna herida sutil que no se llaga\npero deja en el alma su reproche.\n\nVivimos entre el miedo y el derroche,\nbuscando esa dicha que embriaga,\nmientras el tiempo, cual sombra vaga,\ncierra de nuestra historia el broche.\n\nNacemos, caminamos y morimos,\nen un ciclo eterno y repetido,\nsin saber la razón por la que fuimos.\n\nTodo queda al final en el olvido,\nlos besos y abrazos que nos dimos,\ny el sueño que jamás fue cumplido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "relampago"
+  }
+}

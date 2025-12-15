@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "De los errores se aprende,\nmás que del acierto,\nes un hecho cierto,\nque se comprende.\nQuien no se ofende,\npor su propia falta,\nsu alma exalta,\ny crece en saber,\nllegando a ser,\nuna torre alta.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "error"
+  }
+}

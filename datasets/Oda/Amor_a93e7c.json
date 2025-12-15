@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Día de Boda, cumbre de la promesa,\nel sí rotundo ante el dulce altar.\nEl amor eterno, sin duda ni prisa,\nla unión que nada puede quebrar.\n¡Oh, sacramento, de eterna dulzura,\nbendita alianza que el tiempo perdura!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Boda"
+  }
+}

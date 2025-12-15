@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mi Hogar es de soledad,\nde tristeza y de maldad,\ny mi alma sin caridad,\nno tiene claridad.\n\nYo te miro y tú te ríes,\nde mi pena y de mi mal,\ny por eso no me iré,\ncon un golpe fatal.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Hogar"
+  }
+}

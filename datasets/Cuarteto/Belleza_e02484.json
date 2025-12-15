@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El perfume es suave, el aroma sutil,\nque el alma recoge con gran placer,\nla vida es un arte, el don gentil,\nla fuerza que ayuda a vencer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Perfume"
+  }
+}

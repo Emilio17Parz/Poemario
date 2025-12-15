@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "PINTOR: No te muevas, la luz es perfecta.\nMODELO: Me duele el cuello de forma recta.\nPINTOR: Quiero captar tu alma en el lienzo.\nMODELO: Llevamos horas, ya no comienzo.\nPINTOR: ¡Es arte! ¡Es eterno! ¡Es inmortal!\nMODELO: Y yo soy humana y me siento mal.\nTermina ya, o me voy de aquí.\nPINTOR: Espera... ya casi... ¡Lo conseguí!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "lienzo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cortina de agua que cae,\nmúsica de repique,\nque lavas el polvo viejo\ny llenas el seco estanque.\nBendición para el sembrado,\ntristeza para el que mira,\nbaile de gotas suicidas\nque contra el suelo se tiran.\nHueles a tierra mojada,\na vida que se despierta,\ngracias por tu llanto dulce\nque deja la flor abierta.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

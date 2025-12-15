@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Crezca la hiedra unida al tronco fuerte,\nasí mi amor a ti se queda asido.\nJamás seré pastor agradecido\nsi el destino cruel logra perderte.\nAmor juramos hasta ver la muerte,\nen este valle placido y florido.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "hiedra"
+  }
+}

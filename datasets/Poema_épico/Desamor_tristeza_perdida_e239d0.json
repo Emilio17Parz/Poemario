@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El invierno llegó sin aviso previo,\ncongelando el lago de la pasión,\nbusqué en tus ojos algún alivio,\ny hallé glaciares sin compasión.\nEstatua de hielo me vuelvo ahora,\nesperando un sol que nunca me dora.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Hielo"
+  }
+}

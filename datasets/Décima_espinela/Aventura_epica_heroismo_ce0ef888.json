@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No teme al fiero dragón\nel caballero valiente,\nque enfrenta de frente\na la bestia en su rincón.\nSu espada es la razón\ny su escudo la verdad,\nlucha por la libertad\nde su pueblo oprimido,\ny aunque caiga herido\nvence a la maldad.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "valor"
+  }
+}

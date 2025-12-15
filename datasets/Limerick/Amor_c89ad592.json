@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un joven de ardiente fervor,\nPor su amada, sentía gran amor.\nCon su corazón\nLleno de emoción,\nLe entregó una rosa, ¡qué honor!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

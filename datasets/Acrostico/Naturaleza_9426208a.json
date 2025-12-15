@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "**N**ubes blancas que danzan al viento,\n**Á**rboles que extienden sus ramas al sol,\n**T**ierra fértil, de vida sustento,\n**U**niverso en su mágico crisol.\n**R**íos que cantan su eterna canción,\n**A**ves libres, de plumas tan bellas,\n**L**uz que se filtra en cada rincón,\n**E**l **cielo** se pinta con mil estrellas.\n**Z**éfiro suave que roza la piel,\n**A**cariciando el alma con su dulce miel.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

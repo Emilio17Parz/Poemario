@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si el destino lo escribió\ncon su pluma de cristal,\ndebe ser fundamental\nlo que el cielo decidió.\nEl camino nos unió\nsin pedir explicación,\ny en esta dulce prisión\nde tu abrazo y de tu risa,\nmi alma ya no tiene prisa\npues halló su dirección.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "destino"
+  }
+}

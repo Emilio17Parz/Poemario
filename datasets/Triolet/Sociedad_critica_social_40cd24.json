@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El mundo es ciego,\nAnte el dolor,\nDe su apego.\nEl mundo es ciego,\nEs el juego,\nDel desamor.\nEl mundo es ciego,\nAnte el dolor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "ciego"
+  }
+}

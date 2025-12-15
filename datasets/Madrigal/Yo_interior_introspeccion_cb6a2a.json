@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Callar el ruido externo,\npara oír la voz que llevo dentro;\nen mi centro,\neterno.\nEl diálogo interno sana la herida,\nde la vida.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

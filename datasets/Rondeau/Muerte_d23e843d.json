@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El alma pronta a partir,\nDe la existencia a huir,\nEn la profunda sombra que te nombra,\nSin luz que el sendero te alfombra,\nDejando al cuerpo morir.\n\nNi un lamento o sentir,\nEl mundo no va a advertir,\nQue el ser se desescombra,\nEl último suspiro.\n\nEl dolor se ha de abolir,\nUn nuevo viaje por vivir,\nBajo el eterno manto de sombra,\nQue ya nada más te asombra,\nY en paz podrás dormir,\nEl último suspiro.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

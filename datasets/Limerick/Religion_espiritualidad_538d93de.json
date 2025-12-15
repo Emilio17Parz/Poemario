@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El diablo compró un ventilador,\nporque hacía mucho calor,\nse le estropeó,\ny mucho juró,\ncausando un gran temblor.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Diablo"
+  }
+}

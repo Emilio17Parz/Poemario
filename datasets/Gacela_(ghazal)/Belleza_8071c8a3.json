@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte plasma lo que no se ve,\nla belleza oculta que yo soñé.\n\nCon el pincel y con la fe,\ncrea mundos que imaginé.\n\nEterno rastro que dejaré,\ncuando mi vida se vuelva fue.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "pincel"
+  }
+}

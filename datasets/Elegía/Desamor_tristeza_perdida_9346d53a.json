@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "¿Dónde te escondes, dulce alegría?\n¿En qué rincón te has quedado muerta?\nDejaste mi casa y mi puerta abierta\na la tristeza y a la agonía.\nAntes reía de noche y día,\nhoy mi boca es una línea yerta,\nuna mueca falsa y desierta,\nsin música y sin melodía.\nTe lloro como a un ser querido,\nporque sin ti la vida es carga,\nun camino oscuro y perdido.\nLa pena se hace extensa y larga,\ny yo me siento desfallecido,\nbebiendo esta copa tan amarga.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "alegría"
+  }
+}

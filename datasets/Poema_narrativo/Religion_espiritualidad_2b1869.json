@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Murió como un guerrero, sin pena y sin fama,\nPero volvió a nacer como una suave rama.\nEl alma es un viajero que nunca se detiene,\nLa reencarnación es la vida que viene.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "reencarnación"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lo bello se acaba\ncomo el día muere,\npero en el recuerdo\nsiempre se prefiere.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

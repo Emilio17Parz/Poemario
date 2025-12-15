@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El rostro que veo en el cristal,\nes solo un reflejo fatal.\nLa pena y la ausencia,\ncon dura evidencia,\nmi vida ya es solo un gran mal.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

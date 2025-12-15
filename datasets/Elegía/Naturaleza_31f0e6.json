@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La mala hierba devora,\nlo que fue rosa y jazmín,\nconvirtiendo el jardín,\nen selva que nadie explora.\n\nLa fuente ya no llora,\nagua clara en el confín,\ny el ángel del querubín,\nestá roto y ya no ora.\n\nParaíso que se perdió,\ny el olvido se comió.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "jardín"
+  }
+}

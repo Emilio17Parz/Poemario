@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La piedra se hace música congelada en las columnas y los arcos que se elevan buscando la altura.\nLa arquitectura es el sueño del hombre de poner orden en el caos, creando espacios de belleza donde habitar.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "arquitectura"
+  }
+}

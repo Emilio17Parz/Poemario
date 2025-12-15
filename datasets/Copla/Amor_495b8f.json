@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando escucho tu voz suave\nse me alegra el corazón,\nes la música más dulce\nde toda la creación.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "voz"
+  }
+}

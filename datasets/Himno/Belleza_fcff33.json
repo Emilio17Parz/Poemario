@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Chispa divina en la mano mortal,\nque creas mundos de un modo genial!\nPintura, escultura, música y verso,\nreflejan la gloria del universo.\n\n¡Honor al arte que el alma enaltece,\ny que en el tiempo jamás perece!\nEspejo de lo que no se puede ver,\ny que nos hace de nuevo nacer.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "arte"
+  }
+}

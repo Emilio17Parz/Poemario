@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El pueblo postrado en la plaza mayor,\nelevó un rezo como un trueno.\nPedían clemencia al Dios bueno,\nante la peste y el gran terror.\nLa plegaria subió como una flecha,\ny la ira divina quedó deshecha.\nFue la batalla ganada sin manos,\npor la fe unida de los hermanos.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

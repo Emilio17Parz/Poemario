@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si el error nos mancha, el perdón nos lava,\ny rompe la reja que al alma esclavaba.\n¡Gloria a la gracia de saber perdonar!,\ny volver de nuevo a poder empezar.\n\nEl amor no es juez, es mano tendida,\nque cura la falta y sana la herida.\nCantemos al acto de humilde bondad,\nque restaura el brillo de nuestra unidad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

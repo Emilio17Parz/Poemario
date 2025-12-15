@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Fuerza terrible que el cielo desata,\ncuando la nube negra se retrata!\nEl trueno ruge con voz de gigante,\ny el rayo brilla feroz y constante.\n\n¡Temed a la furia de la tempestad,\nque muestra de la natura la potestad!\nLimpia el aire con su gran poder,\ny hace a los hombres estremecer.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

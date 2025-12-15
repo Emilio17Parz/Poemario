@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cinta de plata viva,\nque corre sin parar hacia los mares;\nllevando los pesares\nde forma altiva.\nEl agua nunca vuelve a su comienzo,\nen este lienzo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "río"
+  }
+}

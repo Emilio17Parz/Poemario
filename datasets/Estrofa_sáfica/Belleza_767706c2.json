@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Queda la vida guardada en el arte,\nque su belleza con el mundo comparte,\nnunca la muerte logra que se aparte,\nobra inmortal.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "arte"
+  }
+}

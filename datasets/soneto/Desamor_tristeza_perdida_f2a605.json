@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Habita el eco en esta casa muerta,\ndonde tu risa ya no se levanta,\ny un nudo se acomoda en mi garganta,\nal ver cerrada para siempre la puerta.\n\nMi vida es una estepa, un desierta,\ndonde el fantasma del ayer espanta,\ny la tristeza su canción me canta,\ndejando el alma fría y descubierta.\n\nLa soledad se sienta en tu sillón,\nme mira con sus ojos de vacío,\ny se apodera de mi corazón.\n\nSiento en los huesos el inmenso frío,\nde haber perdido toda la ilusión,\ny ver que ya no eres, ni serás mío.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

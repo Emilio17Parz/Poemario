@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tu boca encuentro miel\nque me quita la amargura,\ny me da la gran ventura\nde ser dueño de tu piel.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "miel"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Quiero vivir,\ny sonreír.\n\nCada momento,\nes un cuento,\nsin lamento,\nque he de sentir.\n\nQuiero vivir,\ny sonreír.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "vivir"
+  }
+}

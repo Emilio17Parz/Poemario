@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vamos andando el difícil camino,\nsin conocer el final destino,\nsigue la senda del andar divino,\nmeta lejana.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "camino"
+  }
+}

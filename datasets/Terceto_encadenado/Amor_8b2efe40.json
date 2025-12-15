@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En el confín del alma, luz que adora,\nTu nombre fluye en suave melodía,\nUn eco eterno que mi ser añora.\n\nCual sol que alumbra cada nuevo día,\nMi amor por ti es pura, fiel ternura,\nDespierta el mundo con su dulce guía.\n\nNinguna sombra oculta tu figura,\nTu dulce voz, un don tan delicado,\nQue toda pena por amor se cura.\n\nEn cada gesto estás a mi lado,\nMi alma levanta su más alto vuelo,\nUn pacto eterno que el destino ha sellado.\n\nEn ti contemplo mi ideal anhelo,\nMi corazón ya no se siente solo,\nPues cada beso me eleva hasta el cielo.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "beso"
+  }
+}

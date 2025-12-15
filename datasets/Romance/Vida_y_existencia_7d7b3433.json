@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Apoyado en su bastón,\nmira el viejo la plaza,\nviendo jugar a los niños\nque corren y se abrazan.\nRecuerda sus propios juegos,\nque en su memoria se enlazan,\ny siente que los años\npesan como una coraza.\nLa vejez es la montaña,\ndonde las vidas descansan,\ny se ve el paisaje entero\ncon las aguas que remansan.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "bastón"
+  }
+}

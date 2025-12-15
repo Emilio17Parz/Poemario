@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mancha en la piel,\nerror que nos aleja\nde la verdad.\nBuscamos el lavado\ndel dulce perdonar.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "pecado"
+  }
+}

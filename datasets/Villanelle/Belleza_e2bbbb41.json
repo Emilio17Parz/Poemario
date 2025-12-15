@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Plasma el artista la belleza,\nen el lienzo o el papel,\ncon destreza y sutileza.\n\nBorra la tristeza,\ncon su pincel,\nplasma el artista la belleza.\n\nEs la naturaleza,\nsu modelo fiel,\ncon destreza y sutileza.\n\nCrea con franqueza,\nun mundo novel,\nplasma el artista la belleza.\n\nQuita la pureza,\ndel oropel,\ncon destreza y sutileza.\n\nEterna grandeza,\nque deja él,\nplasma el artista la belleza,\ncon destreza y sutileza.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "arte"
+  }
+}

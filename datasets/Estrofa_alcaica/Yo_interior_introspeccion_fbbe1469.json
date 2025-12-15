@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dos los caminos, la mente vacila,\nteme el error de la elección fatal,\nmientras el tiempo enfila\nsu paso natural.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "duda"
+  }
+}

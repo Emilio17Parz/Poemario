@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Proceso doloroso,\nde aceptar que ya nunca volverás;\nte quedarás\nen el reposo.\nEl duelo es el precio de haber amado,\nlo que has dejado.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo en el pecho cada recuerdo,\njoya del tiempo es cada recuerdo.\n\nLo que fui ayer me construye hoy,\nbase de todo es el fiel recuerdo.\n\nAunque se pierda todo lo demás,\nqueda grabado el vivo recuerdo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

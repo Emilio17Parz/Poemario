@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Qué linda es la hermosura\nque el alma ve,\nnos regala ternura\nen su vaivén.\n\nMusa del alma,\ntu belleza me provoca\ndulce calma.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "musa"
+  }
+}

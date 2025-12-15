@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El ser despierta en bruma, fugaz instante,\nY cada pulso es senda en el camino errante.\nSe pierde el alma en su propio laberinto,\nBuscando el eco de un amor constante.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

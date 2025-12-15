@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La Tierra se inclina al girar al sol,\ny eso provoca el cambio de rol.\nVerano caliente, invierno frío,\notoño dorado y primaveral brío.\nCuatro estaciones marcan el año,\ncada una trae su propio peldaño.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "estaciones"
+  }
+}

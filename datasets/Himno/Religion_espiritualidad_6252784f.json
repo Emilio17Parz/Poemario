@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Gloria a Ti, Padre, Rey de la Gloria,\nCreador del cielo, la tierra y el mar,\na quien los ángeles suelen cantar,\nen la eterna y divina historia.\nFuente de amor, de justicia y paz,\nSeñor de todo lo que es veraz.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "dios"
+  }
+}

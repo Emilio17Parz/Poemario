@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se buscan ansiosas nuestras dos manos,\ncreando un lazo que nadie desata,\nsomos dos seres, ya no lejanos,\nuna promesa de amor y plata.\n\nCreando un lazo que nadie desata,\ntejemos historias de piel y fuego,\nuna promesa de amor y plata,\ndejando atrás todo antiguo juego.\n\nTejemos historias de piel y fuego,\nsomos dos seres, ya no lejanos,\ndejando atrás todo antiguo juego,\nse buscan ansiosas nuestras dos manos.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "manos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La arena se fue de mis manos,\nigual que los sueños paganos.\nSe lleva el recuerdo,\ncon un duro acuerdo,\nde amores que fueron vanos.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

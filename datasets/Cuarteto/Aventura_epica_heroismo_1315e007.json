@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Valiente parte, el alma enardecida,\nPor cumbres viejas, donde el dragón mora,\nSu espada danza, justa y decidida,\nEl **honor** su lumbre, su alma que atesora.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "honor"
+  }
+}

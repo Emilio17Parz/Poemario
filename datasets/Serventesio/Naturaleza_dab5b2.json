@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La montaña se alza, de piedra y gran verdor (A),\nsu cumbre es de nieve, su alma es de paz (B),\nla fuerza que crece, el dulce fulgor (A),\nla calma que viene tenaz (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

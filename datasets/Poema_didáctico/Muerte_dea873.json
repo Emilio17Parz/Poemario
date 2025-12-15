@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La parca no distingue corona,\nde sombrero de paja,\na todos perdona,\no a todos rebaja.\nAnte el fin somos iguales,\nmortales y cabales.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Igualdad"
+  }
+}

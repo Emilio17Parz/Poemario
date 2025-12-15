@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Un grito de guerra rompe el silencio,\nel eco de un alma que no teme al mal,\nel valor no es solo necio desprecio,\nsino la virtud, el fuego vital.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

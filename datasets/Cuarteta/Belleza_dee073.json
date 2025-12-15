@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brillan lejos las estrellas,\ncomo joyas en la noche,\nsin hacer ningún reproche,\npor ser tan puras y bellas.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

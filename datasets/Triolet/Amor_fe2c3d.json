@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te sueño noche y día,\nmi dulce y gran ilusión.\nMe das tanta alegría,\nte sueño noche y día.\nEres mi poesía,\nla dueña de mi corazón.\nTe sueño noche y día,\nmi dulce y gran ilusión.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

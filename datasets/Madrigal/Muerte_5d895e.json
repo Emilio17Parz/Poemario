@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Las cruces se alzan en la colina fría,\ncomo un ejército inmóvil y callado.\nAquí termina toda la porfía,\nlos sueños rotos y el tiempo pasado.\n\nEs un jardín de piedra y ciprés,\ndonde el alma encuentra al fin el revés\ndel vivir, que era esfuerzo y dolor.\nSolo el viento murmura con amor,\nlos nombres que el mundo ya ha olvidado.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Puntos de luz lejana,\nque bordan el oscuro firmamento;\nen cada momento,\nhasta mañana.\nTestigos mudos de nuestra existencia,\ncon paciencia.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

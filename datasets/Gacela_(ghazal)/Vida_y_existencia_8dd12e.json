@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Solo existe este breve instante,\nno hay futuro, solo este instante.\n\nEl pasado es un eco lejano,\nla vida sucede en el instante.\n\nAtrapalo fuerte y vívelo,\nes eterno el valor del instante.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "instante"
+  }
+}

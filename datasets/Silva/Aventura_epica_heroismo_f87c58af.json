@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El oro del tesoro,\nescondido en la isla misteriosa,\nes el desdoro,\nde la codiciosa,\nalma del pirata ambiciosa.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "oro"
+  }
+}

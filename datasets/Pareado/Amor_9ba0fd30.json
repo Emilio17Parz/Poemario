@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu mirada mi mundo ilumina,\nMi corazón a ti se inclina.\n\nEn tus brazos hallo la calma,\nQue me nutre y llena el alma.\n\nEste amor, que siento profundo,\nSerá eterno en este mundo.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

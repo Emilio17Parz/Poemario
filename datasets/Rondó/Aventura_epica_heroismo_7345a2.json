@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Toma la tierra,\nel soldado,\nel lado,\nde la guerra.\nLa sierra,\ndel prado.\nToma la tierra.\n\nNuevo reino,\nque se funda,\nla tunda,\nque peino.\nEl reino,\nfecunda.\nToma la tierra.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

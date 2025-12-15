@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lienzo que atrapa la luz del instante,\nrostro sereno o paisaje brillante,\npincel que dibuja con gran maestría,\nla sombra tenue y la clara alegría.\nEs la ventana a un sueño pintado,\ndonde el presente se vuelve pasado,\npero la imagen se queda guardada,\npara ser siempre por todos amada.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

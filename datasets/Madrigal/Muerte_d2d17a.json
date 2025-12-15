@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Los bienes se quedaron,\naquí en la tierra para otros dueños;\ntodos los sueños,\nse terminaron.\nNada llevamos al cruzar el puente,\nde la corriente.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

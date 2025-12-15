@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El rito es el fuego\nque me obliga a estar.\nEl dulce juego\npara poder amar.\n\nMe quema y me limpia,\nme obliga a seguir,\nla vida sin pompa\npara poder vivir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "rito"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Como pájaro que escapa,\nde la jaula hacia el bosque,\nsin que nadie lo enrosque,\nni con redes lo atrapa.\n\nAsí el alma se destapa,\nde la carne que la encierra,\ny deja la triste tierra,\nvolando sin ningún mapa.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "alma"
+  }
+}

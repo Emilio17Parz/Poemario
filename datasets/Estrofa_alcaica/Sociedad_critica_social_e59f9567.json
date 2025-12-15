@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Sienta el tirano en el sillón de mando,\npisa las leyes y al pueblo oprime,\nva todo destrozando\ny no hay quien lo redime.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "tirano"
+  }
+}

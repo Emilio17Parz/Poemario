@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Madre llena de gracia,\ndanos tu santo amor,\nque el alma vacía sacia.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "virgen"
+  }
+}

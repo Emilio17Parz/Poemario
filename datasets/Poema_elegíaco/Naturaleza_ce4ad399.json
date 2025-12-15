@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El crepúsculo ciñe la montaña mustia,\ndonde el sol, cual espectro, se desangra al fin;\nla brisa helada murmura una angustia,\nun réquiem suave por lo que fue jardín.\n\nEl viejo bosque, con ramas que se inclinan,\nobserva el paso lento de la edad cruel;\nsusurros viejos en las hojas que declinan,\nmemoria frágil de un pasado y su miel.\n\nAllí el **río**, con su voz de siglos idos,\ndesliza penas sobre piedras ancestrales;\nsus aguas frías, de misterios poseídos,\nllevan el eco de amores y de males.\n\nFluyó impasible, vio el musgo florecer,\nvio la sequía morder la tierra honda;\ntestigo mudo de todo amanecer,\ny de la noche que la luz nos roba y esconde.\n\n¿Dónde el vigor que alzaba cada tallo?\n¿Dónde el aroma de la flor sin par?\nHoy solo queda el eco de un desmayo,\nun hondo duelo que no cesa de sonar.\n\nOh, naturaleza, efímera corona,\ntu gloria efímera, tu belleza en velo;\nen cada adiós, el alma se desmorona,\nbuscando un consuelo que no existe en el cielo.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "río"
+  }
+}

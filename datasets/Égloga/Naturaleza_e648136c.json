@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En la verde pradera, bajo el cielo azulado,\ndonde el manso arroyo su cantar esparce,\ny el aire sereno, con soplo callado,\nlas ramas de sauces mece y desparce.\n\nAquí, lejos del mundo, del mundano afán,\nmi alma se sosiega, mi espíritu se abre\na la dulce calma que las horas dan,\ncuando el sol, dorado, las colinas labra.\n\nLas abejas zumban, buscan con fervor\nel néctar oculto en cada cáliz nuevo;\ny en el manto verde, que el rocío baña,\nse asoma la humilde y cándida **flor** silvestre.\n\nEl pastor ausente, dejó su cayado,\ntal vez bajo un fresno, al abrigo y sombra;\nsu rebaño pace, do el césped es blando,\nsin temor al lobo, que en la noche asombra.\n\nOh, naturaleza, madre sin igual,\ntu regazo acuna mi cansada sien;\nen tu seno encuentro paz elemental,\nun edén de dicha, un supremo bien.\n\nLas nubes vagan lentas, un lienzo en el cielo,\nel canto del mirlo, la brisa que pasa;\naquí el tiempo se frena, se olvida el desvelo,\ny el alma en tu abrazo, tranquila descansa.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No reconozco mi propio reflejo,\nroto en mil partes de cristal,\nme siento cansado y viejo,\nun final triste y fatal.\n\nRoto en mil partes de cristal,\nla imagen se deforma y miente,\nun final triste y fatal,\nel frío se clava en la frente.\n\nLa imagen se deforma y miente,\nme siento cansado y viejo,\nel frío se clava en la frente,\nno reconozco mi propio reflejo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "reflejo"
+  }
+}

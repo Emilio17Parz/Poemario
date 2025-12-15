@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Yo soy el dueño de mi alma\ny el capitán de mi nave,\nno hay destino escrito\nque mi fuerza no lave.\nConstruyo mi propio mundo\ncon mi mano suave,\ny abro todas las puertas\ncon mi propia llave.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "destino"
+  }
+}

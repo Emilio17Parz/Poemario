@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llanto del cielo,\nque limpia el campo,\ncon su suave lampo,\nmojando el suelo.\nAgua bendita,\nque la sed quita.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

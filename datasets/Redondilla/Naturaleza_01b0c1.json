@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo ya no da luz, (A)\nmi vida ya sin un par, (B)\nya no puedo más amar, (B)\ncargando una triste cruz. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Porque para mí el vivir es Cristo, y el morir es ganancia; mas si el vivir en la carne resulta en fruto de mi obra, no sé entonces qué escoger.\nTeniendo deseo de partir y estar con Cristo, lo cual es muchísimo mejor; pero quedar en la carne es más necesario por causa de vosotros.\nNo queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza.\nPorque si creemos que Jesús murió y resucitó, así también traerá Dios con Jesús a los que durmieron en él.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

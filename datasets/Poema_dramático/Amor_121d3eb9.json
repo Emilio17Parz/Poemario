@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "VIEJO: Te amé en silencio cincuenta años.\nVIEJA: ¿Por qué callaste, causando daños?\nVIEJO: Tenía miedo a tu rechazo cruel.\nVIEJA: Y yo te esperaba, siempre fiel.\nAhora que la muerte nos ronda cerca,\nla vida nos juega una broma terca.\nVIEJO: ¿Aún hay tiempo para un beso, mujer?\nVIEJA: Para el amor siempre es buen ayer.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

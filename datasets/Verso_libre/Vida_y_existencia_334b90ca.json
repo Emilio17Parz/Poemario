@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Viajamos demasiado cargados.\nMaletas llenas de culpas,\nde miedos, de expectativas ajenas.\nPara subir la montaña\nhay que soltar lastre.\nQuedarse con lo esencial:\nun poco de pan, un poco de amor,\ny la libertad de ser ligero.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "equipaje"
+  }
+}

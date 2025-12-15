@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El poder corrompe,\nal hombre más sano,\ny ensucia la mano,\nque rompe.\n\nSe interrumpe,\nla buena vía,\ny la alegría,\nse irrumpe.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "poder"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se va el sol con su traje de oro y carmín,\npintando el cielo con fuego y pasión.\nUn lento adiós, sin fin,\nque toca el alma y el corazón.\n\nSe esconde el día tras la montaña,\ncon una promesa que no es vana.\nLa luz volverá, después del sueño,\npara ser de la noche el único dueño,\ny darnos de nuevo la vida.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sol"
+  }
+}

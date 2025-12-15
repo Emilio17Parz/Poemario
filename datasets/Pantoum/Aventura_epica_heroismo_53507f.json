@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Profecía antigua escrita,\nnadie puede escapar.\nLa fuerza que palpita,\nte lleva a navegar.\n\nNadie puede escapar,\nde lo que fue dictado.\nTe lleva a navegar,\nhacia el fin esperado.\n\nDe lo que fue dictado,\nprofecía antigua escrita.\nHacia el fin esperado,\nla fuerza que palpita.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "destino"
+  }
+}

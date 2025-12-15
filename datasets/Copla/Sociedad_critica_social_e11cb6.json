@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Quieren callar voces\ncon mucha censura,\npero la verdad\nsiempre perdura.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

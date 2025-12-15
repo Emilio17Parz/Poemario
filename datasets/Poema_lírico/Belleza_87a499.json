@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tu mirada es la luz\nque me quita el dolor.\nLa vida sin cruz\nsin ningún fulgor.\n\nMe obliga a mirar,\nme obliga a sentir,\nla única forma\npara poder vivir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

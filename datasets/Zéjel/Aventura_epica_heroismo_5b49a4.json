@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La misión tiene un don,\ny la vida es un colchón.\n\nLa meta ya me llegó,\nla suerte me sonrió,\ny el alma se me salvó,\ny la vida es un colchón.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "misión"
+  }
+}

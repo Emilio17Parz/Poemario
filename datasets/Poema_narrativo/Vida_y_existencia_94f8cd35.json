@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Soñó que era un rey muy poderoso,\nque gobernaba con justicia y paz.\nTodo en su reino era hermoso,\ny la gente vivía feliz y capaz.\nDespertó en su lecho, perezoso,\nsiendo un mendigo tras el antifaz.\nPero salió a la calle ese día,\ncon la dignidad de un gran dueño,\ny a todos trataba con hidalguía,\ncambiando su vida por aquel sueño.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lo más aterrador no es el dolor agudo, sino la nada gris que viene después, la apatía absoluta.\nLevantarse, comer, respirar; actos mecánicos de un cuerpo que sigue vivo aunque el alma se haya rendido.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "nada"
+  }
+}

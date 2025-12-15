@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL MÚSICO]\n(A su lira)\nMi música es un lamento constante por la belleza que no merezco.\nTe canto, amor, pero sé que eres una estrella demasiado alta para mi miseria.\nMi voz es un eco vacío. Solo deseo que tú, al menos, seas feliz.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "lamento"
+  }
+}

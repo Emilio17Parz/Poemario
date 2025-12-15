@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un viento de duda me sopla al oído,\ndiciendo que tienes otro querido,\ny el celo me muerde con diente feroz,\nrobándome el aire y también la voz.\nDime que es mentira, que solo soy yo,\nel dueño del beso que ayer se me dio,\ncalma esta angustia que me hace temblar,\ny vuelve a mis brazos para descansar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "celos"
+  }
+}

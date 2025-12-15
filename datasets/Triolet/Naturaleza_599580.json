@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae el agua del cielo,\nLimpiando la tierra gris,\nQuitando todo el desvelo.\nCae el agua del cielo,\nRegando el seco suelo,\nDe este vasto país.\nCae el agua del cielo,\nLimpiando la tierra gris.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "agua"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No deseo para ti ningún mal,\naunque hiciste mi mundo sufrir,\nes el paso del tiempo fatal.\n\nVer a nuestro cariño morir,\ny convertirnos en dos extraños,\nque ya no tienen nada que decir.\n\nTras pasar tantos y felices años.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "mal"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna es de plata, un disco sin par (11),\nque vela el sueño de la noche cruel (11).\nSu luz es misterio, que sabe sanar (11),\nel trago de dulce miel (7).\nLa forma de al fin amar (7).",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "Luna de Plata"
+  }
+}

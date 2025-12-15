@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nadie sospecha lo que hay entre tú y yo,\nel fuego escondido que nos quemó,\nmiradas furtivas en la multitud,\nguardando el secreto con gran quietud.\nAmamos la sombra y la discreción,\nlejos del juicio y de la opinión,\nnuestro paraíso es la intimidad,\ndonde reina sola nuestra verdad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

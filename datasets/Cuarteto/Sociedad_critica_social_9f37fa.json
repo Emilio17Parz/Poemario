@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La marcha en la calle, el pueblo de pie,\nque exige justicia, que quiere el honor,\nla fuerza que rompe la dura fe,\nla esencia del puro amor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Marcha"
+  }
+}

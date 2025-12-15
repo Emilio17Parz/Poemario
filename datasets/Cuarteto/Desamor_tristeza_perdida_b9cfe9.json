@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El hielo se apoderó de mi cama,\ndesde que tu calor se fue de aquí,\nno queda nada vivo en lo que fui,\nse ha muerto la ilusión y se ha muerto la llama.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "frío"
+  }
+}

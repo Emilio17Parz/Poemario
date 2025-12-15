@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "          H\n         E R O E\n        V A L O R\n       L U C H A R",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

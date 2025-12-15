@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hoy la soledad se sienta conmigo,\nen esta estancia de muros helados,\ndonde los sueños están olvidados,\ny no encuentro refugio ni abrigo.\nEs el silencio mi único amigo,\ndejando mis días desolados.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

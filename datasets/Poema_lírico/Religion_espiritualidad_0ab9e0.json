@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi rezo no tiene palabras,\nes la quietud del ser.\nLa calma que labras\npara poder ver.\n\nEl silencio es el templo\ndonde mi alma está en paz,\nel dulce ejemplo\nsin ser capaz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

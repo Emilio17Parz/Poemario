@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Esa risa temprana\nes el alegre sol de mi mañana.\nDespierta la alegría\ny da color al día.\nSi ríes, todo canta,\ny mi esperanza al cielo se levanta.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

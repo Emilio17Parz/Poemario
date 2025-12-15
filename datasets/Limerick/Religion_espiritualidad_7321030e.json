@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Fui a confesar mi error,\ncon mucho miedo y terror,\nel cura dormía,\ny nada oía,\nme fui sintiéndome mejor.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Confesión"
+  }
+}

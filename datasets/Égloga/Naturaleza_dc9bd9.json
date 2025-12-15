@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Despierta el sol tras la montaña,\ntiñendo de rosa la nieve,\nla oscuridad se hace breve,\ny la luz al mundo baña.\n\nEl gallo canta en la cabaña,\ny el rocío brilla en la hoja,\nmientras la noche se despoja,\nde su túnica y su guadaña.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

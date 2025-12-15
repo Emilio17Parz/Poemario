@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos polvo y al polvo volvemos,\nal final de la humana jornada,\ny a la tierra negra descendemos.\n\nComo una huella que es borrada,\nnos disolvemos en el viento,\ncon la misión ya terminada.\n\nEn un fugaz momento.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

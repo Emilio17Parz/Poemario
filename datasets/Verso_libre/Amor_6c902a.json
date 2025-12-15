@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nunca termino de conocerte.\nEres un país vasto,\ny yo soy un explorador lento.\nCada día descubro un nuevo valle,\nuna nueva sombra,\ny me enamoro del paisaje otra vez.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

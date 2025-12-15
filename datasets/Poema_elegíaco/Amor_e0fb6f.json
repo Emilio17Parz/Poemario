@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Miro el cristal roto donde te veías tú un día,\ny solo encuentro esquirlas de mi propia verdad.\nEl espejo se ha ido, la imagen, la alegría,\nqueda la cicatriz de la cruel soledad.\n\nMi corazón es la casa que el fuego consumió,\ndonde el techo se ha caído y solo hay lluvia y sal.\nEl amor fue la llama que al fin me destruyó,\ny mi vida es la ruina del designio fatal.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

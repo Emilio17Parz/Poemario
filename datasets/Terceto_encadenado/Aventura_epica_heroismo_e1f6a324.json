@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Un héroe surge con valor audaz,\nsu espíritu a la gloria ya se entrega,\nno teme al monstruo ni a la cruel mordaz.\n\nEl gran viaje emprende, y el alma juega\ncon cada paso, la proeza ciega\nun destino forja que al abismo niega.\n\nEn pugna épica, el acero brega,\ncontra dragones de ancestral estirpe,\ny cada embate, la esperanza riega.\n\nSu gesta impávida, con sangre esgrime,\nel grito heroico su valor responde,\ny el mal que acecha, al fin se oprime.\n\nLa luz renace, y al tirano esconde,\npues su valor la oscuridad deshace,\nla gloria eterna que el gran viaje infunde.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

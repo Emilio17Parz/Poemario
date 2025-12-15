@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Olvidé dónde puse la llave,\ny eso es un problema grave,\nno puedo salir,\nni puedo huir,\nde esta prisión suave.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Memoria"
+  }
+}

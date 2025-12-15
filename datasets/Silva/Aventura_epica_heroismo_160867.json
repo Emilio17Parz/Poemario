@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Oro y joyas,\nescondidas,\ny perdidas,\nen las boyas.\nNo te apoyas,\nen lo rico,\nni en el pico,\nde las ollas.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

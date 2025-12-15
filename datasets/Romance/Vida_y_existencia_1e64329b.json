@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sale el hombre a la faena,\ncuando canta el gallo,\npara ganar el sustento\nsin cometer un fallo.\nSuda la frente y la espalda,\ncon el pico y el tallo,\nsembrando la tierra dura\ndel mes de mayo.\nEl trabajo dignifica,\naunque sea un vasallo,\npues lleva el pan a la mesa\nsin pedir ningún caballo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pan"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor que siento es luz que aclara,\nHabita eterno dentro de mi alma clara.\n\nTu mirada dulce, suave caricia,\nEs mi mayor y pura delicia.\n\nCruzamos sendas por querer profundo,\nMarcados por el **destino** de este mundo.\n\nAsí la vida nos quiso juntar,\nPara por siempre nuestro amor celebrar.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "destino"
+  }
+}

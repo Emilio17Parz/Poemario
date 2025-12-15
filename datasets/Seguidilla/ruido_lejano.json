@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "ruido lejano",
   "poema": {
     "texto": "Cruza el ruido\\ndesde la calle\\nhiere el silencio\\ndentro del cuarto",

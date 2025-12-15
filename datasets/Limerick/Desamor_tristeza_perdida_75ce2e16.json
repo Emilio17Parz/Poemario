@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Un alma que amó con ardiente pasión,\nsufrió el desamor, la cruel decepción.\nLa pena, voraz,\ncubrió su solaz,\ndejando una *sombra* en su corazón.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

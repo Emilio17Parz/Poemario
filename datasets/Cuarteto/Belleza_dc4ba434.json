@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Viste el paisaje de un vivaz color,\ncuando el verano con su luz estalla,\ny la belleza vence la batalla\ncontra el invierno y su grisáceo horror.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "color"
+  }
+}

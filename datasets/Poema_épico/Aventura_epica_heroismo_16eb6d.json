@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Choque de aceros, gritos y polvo,\nel campo se tiñe de carmesí,\nen la violencia yo me disuelvo,\nluchando por ti y por mí.\nEl caos reina, la muerte danza,\nen la punta de cada lanza.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Batalla"
+  }
+}

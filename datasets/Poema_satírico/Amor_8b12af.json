@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Monstruo de ojos verdes, dicen,\nyo digo que es inseguridad,\nmiran el móvil y maldicen,\nbuscando alguna infidelidad.\nSi amas a alguien, déjalo libre,\naunque el estómago te vibre.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Celos"
+  }
+}

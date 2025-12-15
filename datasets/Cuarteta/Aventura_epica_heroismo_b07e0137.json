@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No le importa la gloria\nni el aplauso de la gente,\nsolo queda en la historia\nquien ha sido valiente.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

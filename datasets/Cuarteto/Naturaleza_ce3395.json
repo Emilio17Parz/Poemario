@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento invisible mueve la rama,\ny arrastra las nubes por el azul,\ncubriendo el horizonte con su tul,\navivando del sol la ardiente llama.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "viento"
+  }
+}

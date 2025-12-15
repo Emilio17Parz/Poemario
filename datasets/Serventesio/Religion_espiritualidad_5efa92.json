@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En el silencio encuentro la voz sin voz y cruel (A),\nque me habla al alma, me dice quién soy (B),\nes el maestro, la dulce miel (A),\nla fuerza que me da el hoy (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

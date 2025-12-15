@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche se hace eterna y pesada,\nno llega nunca el amanecer,\nsolo vueltas y vueltas sin poder\nconciliar el sueño en la almohada.\n\nTu imagen en mi mente clavada,\nme impide descansar y ceder,\ny vuelvo una y otra vez a leer\nla historia que ya está terminada.\n\nSon fantasmas las horas que pasan,\nburlando mi angustia y mi pena,\nmientras mis esperanzas arrasan.\n\nVivo prisionero en la colmena\nde recuerdos que nunca se atrasan\ny arrastro mi triste cadena.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "horas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Colores en el pincel,\nque crean vida nueva,\nuna magia que se eleva,\nsobre el blanco papel.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "pintura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Acepto lo que soy,\nla sombra y la luz.\nEl triste hoy\nsin ninguna cruz.\n\nLa paz no es regalo,\nes la simple verdad,\nmi único palo\nsin ninguna edad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "aceptación"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dos linajes antiguos en guerra mortal,\nseparaban las vidas de los dos amantes.\nPero sus destinos eran caminantes,\nhacia un mismo punto, final y fatal.\nDesafiaron al padre, a la ley y al rey,\ncreando ellos mismos su propia grey.\nPues nada detiene lo que está escrito,\nen el libro magno del infinito.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

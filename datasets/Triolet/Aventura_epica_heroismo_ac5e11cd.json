@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Saca la espada\npara luchar,\nen la alborada.\nSaca la espada,\nbien afilada,\nsin dudar.\nSaca la espada\npara luchar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Líneas que trazan figuras,\nperfectas y singulares,\ncreando arquitecturas,\nen los distintos lugares.\nSin ataduras oscuras,\nni rígida norma,\nveo las hermosuras,\nde la divina forma.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "forma"
+  }
+}

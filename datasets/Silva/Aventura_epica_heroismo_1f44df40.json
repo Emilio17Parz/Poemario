@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Cuando el orbe callaba, preso en brumas,\ny el miedo era un dragón,\nnació la voz que quiebra las penumbras,\nun eco en el confín.\nDe estirpe antigua, de un destino fiero,\nsurgió el héroe, audaz,\ncon alma forja de aventura y acero,\nla espada, su solaz.\n\nDejó el umbral sereno,\nel huerto y el trigal,\npor sendas de tormento,\npor rumbos del fatal.\nSobre las cumbres gélidas, el viento\ncantaba su baldón;\nbajo la selva densa, el lento\nlatido del corazón\ntemblaba ante el peligro.\nDragones de la noche\nsurgieron del abismo,\nsin tregua, sin reproche.\n\nSu espada fue un relámpago que hiere,\nsu escudo, una oración;\nsu cuerpo, roca firme que prefiere\nvencer o la extinción.\nLuchó contra mil hordas inhumanas,\nlas sombras disipó,\nlibró de atávicas cadenas,\nla paz al fin labró.\n\nLa bestia, al fin, vencida,\nel yugo, roto ya.\nLa luz rompió la noche,\nque el tiempo borrará.\nNo fue la diadema, ni el tesoro opulento,\nlo que buscó su afán,\nsino el eco en el viento,\nla estela del valor,\nel nombre que resuena\nmás allá de la muerte,\nla excelsa, verdadera, pura **gloria**,\nque el bardo entonará.\nQue la memoria cante\nsu gesta, noble y fuerte,\npor toda la eternidad.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tu sonrisa es la aurora,\nque disipa mi tristeza,\ny mi vida enamora.\n\nEs tu mayor riqueza,\nesa curva de luz,\nque muestra tu nobleza.\n\nSin la cruz.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

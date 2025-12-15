@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Temo el olvido,\nmás que a la muerte.\nEstar perdido,\ntemo el olvido.\nDesaparecido,\nde la suerte.\nTemo el olvido,\nmás que a la muerte.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

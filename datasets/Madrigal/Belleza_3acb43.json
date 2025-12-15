@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No es solo el vestido, es el andar,\nes la gracia sencilla y el gesto,\nmanifiesto,\nde un ser que sabe estar y sabe dar.\nBelleza que no grita, solo es,\ny ves,\nque brilla con luz propia y distinguida,\nen la vida.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "porte"
+  }
+}

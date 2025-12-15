@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El misterio de ser sin fin (a),\nsin una respuesta atroz (b),\nel eterno y puro jazmín (c),\nla última y fuerte voz (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Misterio"
+  }
+}

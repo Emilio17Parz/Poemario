@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cierras la puerta,\nel eco de tus pasos\nse desvanece.\nQueda el frío en la sala\ny un invierno en mí.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

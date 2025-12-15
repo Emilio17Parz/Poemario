@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El grito de vida, la voz que es un gran fanal (A),\nque rompe el silencio, sin un final (B),\nes el nacimiento, el bien total (A),\nla fuerza que sabe amar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Grito"
+  }
+}

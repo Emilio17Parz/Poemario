@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Temo al futuro\nvivir sin tu presencia\nsolo y perdido.\nEl miedo me paraliza\nante el nuevo camino.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

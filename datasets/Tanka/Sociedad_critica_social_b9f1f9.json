@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dios de papel\nque compra voluntades\ny vende amor.\nTodo tiene su precio\nen este gran mercado.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "dinero"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Levanto la mirada hacia el cielo,\nmanto azul de infinita magnitud,\ndonde el alma levanta su alto vuelo.\n\nEncuentro allí la paz y la quietud,\nlejos del ruido humano y mundanal,\nrecuperando fuerza y virtud.\n\nEn ese firmamento celestial.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "ROSA: Soy la reina del jardín, miradme.\nTIEMPO: Disfruta hoy, que vengo a cobrarme.\nROSA: Mis pétalos son de terciopelo.\nTIEMPO: Mañana estarán en el suelo.\nROSA: Soy joven y bella, soy la pasión.\nTIEMPO: Todo termina en la estación.\n(Cae un pétalo)\nROSA: ¡Ay! ¿Qué me pasa? Pierdo mi ser.\nTIEMPO: Es la belleza al atardecer.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "marchita"
+  }
+}

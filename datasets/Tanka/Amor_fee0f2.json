@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oigo tu voz,\ny el mundo se desvanece,\nno existe más nada.\nSolo el eco de tu alma,\nque a mi alma busca y llama.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Voz"
+  }
+}

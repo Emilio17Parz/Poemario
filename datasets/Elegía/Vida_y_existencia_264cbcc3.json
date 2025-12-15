@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nacemos solos y morimos,\nsolos en la gran esfera,\naunque haya quien nos quiera,\nsolos en el fondo fuimos.\nEn vano nos unimos,\nen esta larga espera,\nla soledad es fiera,\ny sus garras sentimos.\nNadie puede entender,\nel dolor que yo porto,\nni mi propio ser.\nEs un camino corto,\nque debo recorrer,\nsin ningún exhorto.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

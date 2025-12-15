@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento un frío mortal,\ndesde que tú te fuiste.\nUn final fatal,\nsiento un frío mortal.\nHerida de puñal,\nme dejaste triste.\nSiento un frío mortal,\ndesde que tú te fuiste.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "frío"
+  }
+}

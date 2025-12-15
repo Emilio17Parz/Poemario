@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La bestia echó fuego sobre el techo de paja,\nLa gente se escondía, la vida era baraja.\nPero él cruzó el puente con la espada en la mano,\nLuchando contra el mal, contra el miedo pagano.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

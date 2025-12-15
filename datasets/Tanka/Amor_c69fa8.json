@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Roce de labios\nque detiene el reloj\nfuego en la boca.\nUn instante infinito\ndonde todo se olvida.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "beso"
+  }
+}

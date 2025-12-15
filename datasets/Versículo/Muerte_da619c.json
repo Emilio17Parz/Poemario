@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No te llevas el oro ni las tierras, te llevas solamente lo que diste, el amor que sembraste en otros corazones.\nTu legado es la luz que dejaste encendida en el mundo, el calor que perdura en las manos de quienes te amaron.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "legado"
+  }
+}

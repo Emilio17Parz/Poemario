@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Miramos al mañana con temor,\nviendo cómo el mundo se deshace,\ny no nace,\nuna esperanza de un tiempo mejor.\nHerencia triste para el que viene,\nque no tiene,\nla culpa de nuestro gran error,\ny horror.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

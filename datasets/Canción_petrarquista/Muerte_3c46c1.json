@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo, gran verdugo,\ncon su guadaña siega las espigas;\ny las fatigas\nbajo el yugo\nde la vida mortal llegan a puerto;\ntodo está muerto,\no morirá mañana,\npues tal es la sentencia soberana.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

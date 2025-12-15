@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Caminaba por la plaza,\ncon su vestido de lino,\ncuando cruzamos los ojos\nen un instante divino.\nSe detuvo el reloj viejo,\nse calló el pájaro trino,\ny en el aire se escuchaba\nel latir del destino.\nNo dijimos ni palabra,\nque el silencio es el camino,\npara juntar nuestras almas\nen un lazo cristalino.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

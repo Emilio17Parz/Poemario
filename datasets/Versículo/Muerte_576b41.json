@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida es una vela temblando en el viento, y la muerte es el soplo inevitable que la apaga.\nQueda el humo dibujando espirales en el aire y el olor a cera quemada, recuerdo de la luz que brilló.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "vela"
+  }
+}

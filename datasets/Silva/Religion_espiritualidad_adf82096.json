@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi fe es cierta y clara,\ncomo la luz del sol al mediodía,\nque me prepara,\ncon alegría,\npara seguir la santa y recta vía.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "cierta"
+  }
+}

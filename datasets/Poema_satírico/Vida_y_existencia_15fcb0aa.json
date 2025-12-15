@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se me cae el pelo,\nde forma alarmante,\nya no soy el galán,\nque era antes.\nMe miro al espejo,\ncon mucho recelo,\nmi frente es pista,\nde aterrizaje y vuelo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "calvicie"
+  }
+}

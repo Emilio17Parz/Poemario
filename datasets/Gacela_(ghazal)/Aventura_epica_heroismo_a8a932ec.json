@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dulce sabor de la victoria,\ntras la batalla y la escoria.\n\nSe escriben páginas de historia,\ncon sangre, lucha y euforia.\n\nPero la fama es transitoria,\ny la paz es la verdadera gloria.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "triunfo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El tiempo avanza, mas no cura el llanto,\nMi corazón, anclado en tu partida,\nResuena triste como un viejo canto.\n\nEn cada noche la esperanza es ida,\nUn eco mudo que tu voz me niega,\nLa soledad se vuelve compañera y vida.\n\nNinguna luz mi senda ya doblega,\nEl alma vaga, perdida en su agonía,\nSi tu recuerdo aún mi mente ciega.\n\nQuisiera hallar la paz de la bahía,\nMas el olvido es un mar que no alcanza,\nY en su vacío mi existir se enfría.\n\nYa no hay consuelo, ni remota bonanza,\nSolo la herida que en mi pecho danza.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

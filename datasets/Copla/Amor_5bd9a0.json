@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Guardo tu nombre en secreto (a),\nen el silencio del viento (b),\nmi corazón está completo (c),\nsin ningún arrepentimiento (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

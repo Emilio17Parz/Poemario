@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te prometo un amor que sea eterno,\nmás allá de la vida y la muerte,\nque resista el frío del invierno,\ny que sea mi única suerte.\n\nMás allá de la vida y la muerte,\nseguiré caminando contigo,\ny que sea mi única suerte,\nser tu amante, tu paz y tu abrigo.\n\nSeguiré caminando contigo,\nte prometo un amor que sea eterno,\nser tu amante, tu paz y tu abrigo,\nque resista el frío del invierno.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

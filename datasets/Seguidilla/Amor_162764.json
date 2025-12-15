@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tus ojos miro (7a),\nla pura verdad (5b),\npor ti yo respiro (7c),\nsin crueldad (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

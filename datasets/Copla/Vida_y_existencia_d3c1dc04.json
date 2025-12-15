@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, misterio que arde,\ncamino de luz y sombra,\nla verdad nunca se esconde,\naunque el alma a veces tiembla.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

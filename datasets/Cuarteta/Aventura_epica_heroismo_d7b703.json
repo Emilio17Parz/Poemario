@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Su vida es leyenda, un canto sin fin,\nque pasa de boca en boca, sin parar,\nel mito que vive en nuestro trajín,\nla eterna lección de volver a amar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Leyenda"
+  }
+}

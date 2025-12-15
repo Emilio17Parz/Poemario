@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tocar el cielo contigo,\nes lo que yo persigo.\nSubir a las nubes altas,\ndonde nunca me faltas,\ny ser tu mejor amigo.\n\nEres mi dulce abrigo,\ny de mi dicha testigo.\nLas penas ya saltas,\ntocar el cielo.\n\nNo temo ningún castigo,\nni al viento enemigo.\nCon tus caricias esmaltas,\nlas emociones tantas,\ncuando en tus brazos sigo,\ntocar el cielo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

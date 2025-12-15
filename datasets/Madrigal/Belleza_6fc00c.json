@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras que se buscan y se encuentran,\nrimando sentimientos y verdades,\nsoledades,\nque en el papel blanco se concentran.\nEl poeta desnuda su interior,\ncon dolor,\npara crear belleza del lamento,\ny el momento.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "verso"
+  }
+}

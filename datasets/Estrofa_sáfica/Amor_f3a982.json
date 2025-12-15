@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Duele el aire si tú no estás presente,\nfalta la luz si no te veo cerca,\nmi corazón en soledad se aserca,\ntriste vacío.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El ruido de los aceros,\ndonde la muerte no calla,\ny caen los caballeros.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

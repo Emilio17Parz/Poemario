@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¡Oh, Camino de la Vida, sendero incierto,\nque ando con fe, sin un solo guion!\nCada paso es una verdad, un puerto,\nel alma que busca una bendición.\nLa ruta es la meta, el ser esencial,\nel tiempo es un don, real y total.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Camino"
+  }
+}

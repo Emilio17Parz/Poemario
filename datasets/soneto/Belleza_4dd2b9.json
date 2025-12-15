@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se rompe la luz en el prisma,\ny nace el arcoíris brillante,\nrojo, verde, azul vibrante,\nque vence a la sombra y al cisma.\n\nEl mundo sin ti sería un abisma,\nde grises tristes y constante,\npero tú lo vistes elegante,\ncon tu magia y tu carisma.\n\nEl color es vida y emoción,\nes lenguaje de la naturaleza,\nque llega directo al corazón.\n\nLlena los ojos de riqueza,\ny nos saca de la depresión,\ncon tu infinita gentileza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "color"
+  }
+}

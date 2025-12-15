@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mi musa,\ninspira.\nNo rehúsa,\nmi musa.\nElla mira,\nconfusa.\nMi musa,\ninspira.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "musa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Un sereno **bosque** es un buen lugar,\ndonde la fauna va a pastar.\nUn oso gruñón\nhalló un piñón,\ny empezó a bailar sin parar.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

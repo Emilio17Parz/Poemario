@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tengo la fe\nque mueve el monte,\nyo lo sé.\nTengo la fe,\nno dudaré\ndel horizonte.\nTengo la fe\nque mueve el monte.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "fe"
+  }
+}

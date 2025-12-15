@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Perdí el rumbo del recto camino,\ny vago ahora triste y extraviado,\nllorando por el tiempo malgastado,\ny el golpe traicionero del destino.\nNo hay vuelta atrás en esta senda oscura,\nsolo el lamento de la desventura.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "camino"
+  }
+}

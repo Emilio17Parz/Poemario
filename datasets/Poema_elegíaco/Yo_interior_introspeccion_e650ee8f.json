@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me consume la amarga duda,\nmatando la certeza que tenía,\noscureciendo la luz del día,\ncon su verdad terrible y desnuda.\nLloro la paz que la fe me daba,\ny que la incertidumbre acababa.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "duda"
+  }
+}

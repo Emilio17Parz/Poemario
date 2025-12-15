@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tierra conquistada,\ncon sangre y sudor.\nEl valor,\nde la espada.\n\nLa jornada,\nde honor.\nTierra conquistada,\ncon sangre y sudor.\n\nAmada,\nla flor.\nDolor,\nde la nada.\nTierra conquistada.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "conquista"
+  }
+}

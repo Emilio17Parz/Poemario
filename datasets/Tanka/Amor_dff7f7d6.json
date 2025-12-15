@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sombra que muerde,\nduda que se alimenta\nde mi temor.\nQuiero creer en ti\ny echar fuera el dolor.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "celos"
+  }
+}

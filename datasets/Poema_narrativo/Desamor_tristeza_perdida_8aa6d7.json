@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Durante siete noches, no probó bocado,\nLlorando el cadáver de lo que fue amado.\nEl luto era su traje, la pena su amiga,\nLa vida se había vuelto larga y mendiga.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

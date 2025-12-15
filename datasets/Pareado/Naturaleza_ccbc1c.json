@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El vuelo del pájaro, libre sin un final y sin un error (A),\nla forma más pura de todo valor (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

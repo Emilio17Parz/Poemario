@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dar al pobre es,\ndar a Dios,\ny ayudarnos,\na los dos.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

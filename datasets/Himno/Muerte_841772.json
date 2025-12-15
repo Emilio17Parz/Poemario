@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Manto de noche que cubre el dolor,\npor el que parte y pierde el color.\nLágrimas riegan el suelo frío,\nllanto que forma un amargo río.\n\n¡Respetad el duelo del corazón,\nque ha perdido su gran ilusión!\nNegros vestidos y almas heridas,\nlloran las dulces vidas perdidas.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luto"
+  }
+}

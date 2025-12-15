@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No lleva capa, ni espada brillante.\nEl héroe es el que se levanta\ncuando las piernas le tiemblan,\nel que dice la verdad\ncuando el silencio es más seguro,\nel que sostiene el techo\ncuando el cielo se cae.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

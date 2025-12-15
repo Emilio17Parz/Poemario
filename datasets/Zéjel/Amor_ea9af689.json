@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Solo quiero amar,\ny contigo estar.\n\nEn la noche fría,\ntú eres mi guía,\nla gran alegría,\nque me hace soñar.\n\nSolo quiero amar,\ny contigo estar.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "amar"
+  }
+}

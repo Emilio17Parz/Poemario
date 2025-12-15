@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Sombra gigante que el miedo agiganta,\ny que en la noche al cobarde espanta!\nPrueba suprema del héroe elegido,\nque ha de dejarte por siempre vencido.\n\n¡Temed al abismo que el monstruo revela,\npero encended de la fe la gran vela!\nPues la luz pura disipa el horror,\ny vence a la bestia con su resplandor.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "monstruo"
+  }
+}

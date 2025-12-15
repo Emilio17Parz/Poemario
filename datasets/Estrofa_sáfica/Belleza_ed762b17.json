@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza, cual luz en la mañana,\ndespierta el alma con dulce caricia,\ny en cada sombra su esencia descansa,\npuro fulgor.\n\nNo solo en el espejo que la mira,\nni en la flor que su aroma nos regala,\nsino en la mente que el mundo transpira,\nclara verdad.\n\nLa mano de un artista al dar forma,\nrevela el trazo de un sueño divino,\nun universo que el ser transforma,\neterno don.\n\nDe un ser amado la tierna mirada,\no el mar que ruge en la playa desierta,\nla vida misma, por siempre adorada,\ngenuino encanto.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "forma"
+  }
+}

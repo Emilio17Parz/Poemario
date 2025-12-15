@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No hace falta decir nada,\ncuando estamos frente a frente,\nel amor es suficiente,\nen la quietud sagrada.\nHablamos con la mirada,\nen esta paz soñada.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

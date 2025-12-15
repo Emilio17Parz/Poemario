@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Cerrar la puerta doble,\npor temor al vecino y al extraño;\nque hace daño,\nla innoble.\nVivir con miedo no es vivir en paz,\nbajo el disfraz.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

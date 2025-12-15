@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Yo, ¿quién?\nLa mente, adentro.\nUn secreto anida en mí.\nSilencio. El alma mira y se ve.\nEn mí anida un secreto.\nAdentro, la mente.\n¿Quién? Yo.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

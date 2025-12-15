@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuego quema en la piel,\ndeseo que no cesa.\nDulce como la miel,\nservido en la mesa.\n\nDeseo que no cesa,\nvolcán en erupción.\nServido en la mesa,\nperder la razón.\n\nVolcán en erupción,\ndulce como la miel.\nPerder la razón,\nfuego quema en la piel.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dos ancianos sentados en el banco,\nmiraban cómo el sol se iba poniendo.\nÉl tenía el cabello todo blanco,\nella le hablaba, casi sonriendo,\nde los tiempos de juventud lejana.\nSe tomaron la mano, resistiendo\nal paso de la tarde y la mañana.\nHabían prometido no soltarse,\ny su amor, como vieja porcelana,\nduró hasta que tuvieron que marcharse.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

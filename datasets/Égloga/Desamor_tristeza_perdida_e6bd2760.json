@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Rompo mi flauta y cayado,\nno volveré a cantar,\nme voy a otro lugar,\ndonde no sea recordado.\nQueda el valle, mi ganado,\ny el eco de mi penar,\nno quiero más amar,\npues salgo desdichado.\nAdiós, montes y riberas,\nadiós, falsa pastora,\nmi alma ya no te adora.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "despedida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se casan mañana en la iglesia,\nla novia se llama Lucrecia.\nEl novio temblando,\nestá ya sudando,\ncon una cara de necia.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "boda"
+  }
+}

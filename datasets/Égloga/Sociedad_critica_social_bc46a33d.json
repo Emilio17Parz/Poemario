@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "BATILO: En la ciudad la justicia es ciega,\npero porque el oro le tapa los ojos.\nLISARDO: Aquí no existen tales enojos,\nla tierra a todos sus frutos entrega.\nNo distingue al rico del jornalero,\nes justa la lluvia y el aguacero.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

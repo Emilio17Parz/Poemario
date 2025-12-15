@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vive en la sierra morena,\nel bandido generoso,\nque roba a los ricos duques\ncon acto alevoso.\nReparte el dinero al pobre,\ncon gesto hermoso,\ny huye de la guardia civil\nque es un oso.\nSu caballo corre mucho,\npor el terreno rocoso,\ny el pueblo le canta coplas\ncon aire gozoso.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "sierra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El tiempo se rompió\nen el momento exacto\nen que tu boca me dio\nsu primer y dulce pacto.\n\nAhora vivo en un instante\nque se niega a terminar,\nuna eterna presencia\ndonde solo puedo amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

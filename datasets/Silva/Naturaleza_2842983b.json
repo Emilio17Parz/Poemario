@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Brilla el sol en lo alto,\ndando vida a la tierra dormida,\nsin dar ningún salto,\ncura nuestra herida,\ncon su luz que jamás es vencida.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

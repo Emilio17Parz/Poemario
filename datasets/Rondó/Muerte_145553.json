@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Para el reloj,\nsu tic tac,\nun ataque,\nferoz.\nSin voz,\nel jaque.\nPara el reloj.\n\nSe acaba la arena,\ndel reloj de vida,\nla salida,\nde la pena.\nLa condena,\ncumplida.\nPara el reloj.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

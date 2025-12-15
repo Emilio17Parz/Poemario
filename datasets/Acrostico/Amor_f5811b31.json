@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "V iendo pasar las horas contigo,\nI maginando un futuro eterno,\nD ando gracias por tu existencia,\nA mándote hasta el fin del tiempo.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "vida"
+  }
+}

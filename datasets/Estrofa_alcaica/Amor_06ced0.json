@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La **vér**dad es **tú**a y **nó** quiero más (11)\nLa **pú**ra es**én**cia que **quíe**re al fin ser (11)\n**Ál**ma que **llé**na de **páz** (9)\n**Dúl**ce que**rér** (4).",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "Verdad"
+  }
+}

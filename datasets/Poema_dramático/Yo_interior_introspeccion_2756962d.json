@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "YO: ¿Quién eres tú, rostro envejecido?\nREFLEJO: Soy tú, con las heridas del tiempo.\nYO: No reconozco ese contratiempo.\nREFLEJO: Es el precio de haber vivido.\nNo rompas el espejo por vanidad,\nacepta tu propia realidad.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

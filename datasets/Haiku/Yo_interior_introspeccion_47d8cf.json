@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Fuego que quema\nquiero lo que no es\nansia vital.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

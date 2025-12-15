@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se levanta la gente\nreclamando su derecho,\ncon la mirada al frente\ny el valor en el pecho.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "gente"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En el jardín de mi interior,\ndonde mi esencia se desnuda,\npercibo un tenue temblor,\nla silenciosa voz de la duda.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "duda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Fuente primera de todo color,\nque vences a la sombra y al temor!\nSin ti la forma no existiría,\ny el mundo en caos se sumiría.\n\n¡Salve, oh luz, vestidura de Dios,\nque nos permites vernos los dos!\nBrillas en el astro y en la mirada,\npor ti la belleza es revelada.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cabalga el Cid Campeador\nsobre su caballo Babieca,\ncon la tizona en la mano\ny la barba como meca.\nLos moros huyen de miedo\ncuando su espada se acerca,\ny él conquista las ciudades\nrompiendo muro y cerca.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "cid"
+  }
+}

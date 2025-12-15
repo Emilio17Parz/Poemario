@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Último de tu especie,\ngigante de escama y fuego,\njuego,\nque precie.\n\nNecie,\nel ruego,\nciego,\nque mece.\n\nMagia que el mundo perdió,\ny murió.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

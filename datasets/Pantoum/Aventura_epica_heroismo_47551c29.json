@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Empuña su fiel espada,\nel valiente caballero,\nen la difícil jornada,\ndel combate verdadero.\n\nEl valiente caballero,\ndefiende su honor y ley,\ndel combate verdadero,\npor su pueblo y por su rey.\n\nDefiende su honor y ley,\nempuña su fiel espada,\npor su pueblo y por su rey,\nen la difícil jornada.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "espada"
+  }
+}

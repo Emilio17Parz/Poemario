@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Te pintas la cara,\ncomo una puerta,\ny pareces otra,\ncuando estás despierta.\nSi te lavas la cara,\nno te reconozco,\nes un fraude visual,\nun tanto tosco.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "maquillaje"
+  }
+}

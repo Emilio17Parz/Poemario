@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El luto viste de negro el alma,\npor la ausencia del ser amado,\nrompiendo la dicha y la calma,\ndejando el pecho desolado.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "luto"
+  }
+}

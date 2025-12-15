@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La creación es un rito\nde dolor y de luz.\nEl único mito\nsin ninguna cruz.\n\nMe obliga a vivir,\nme obliga a sentir,\nla única forma\npara poder seguir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "creación"
+  }
+}

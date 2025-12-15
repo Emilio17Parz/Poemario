@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Clara luz del día,\nque me muestra la gracia de su gesto;\na amaros estoy dispuesto\ncon tal melancolía,\nque si el sol se apaga en el poniente,\nquedará en mi mente\nvuestro brillo guardado,\npor haber sido tan bien amado.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "día"
+  }
+}

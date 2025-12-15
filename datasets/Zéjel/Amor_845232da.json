@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dame, niña, un dulce beso,\nque me deje de ti preso.\n\nEs el néctar de tu boca,\nlo que a mi alma provoca,\ny mi sentido trastoca,\ncon su mágico embeleso.\n\nDame, niña, un dulce beso,\nque me deje de ti preso.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "beso"
+  }
+}

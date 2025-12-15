@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mi cuerpo es el templo.\nMis manos el altar.\nNo necesito catedrales de mármol.\nCada acto de bondad es una ofrenda,\ncada respiración consciente es un rezo.\nLa divinidad no vive arriba,\nvive adentro, en la sangre y el hueso.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "templo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La tierra te ha reclamado,\nmadre que todo lo acoge,\nla vida se encoge,\ny el cuerpo es enterrado.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

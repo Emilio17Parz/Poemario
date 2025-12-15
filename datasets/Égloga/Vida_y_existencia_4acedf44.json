@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Coge la flor hoy, zagala,\nque mañana estará seca,\nel tiempo no tiene mueca,\nni piedad nos regala.\nLa juventud se exhala,\ncomo agua en la biblioteca,\ny la vejez nos asseca,\ncon su gris y fría ala.\nVive el momento presente,\nde forma intensa y ardiente,\nque la vida es un torrente.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "carpe_diem"
+  }
+}

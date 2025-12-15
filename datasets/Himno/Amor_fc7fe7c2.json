@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Firme promesa que al cielo sube,\nde serte fiel hasta el fin del día,\ntú eres mi norte y mi única guía,\naunque se nuble la gris nube.\n\nCanto a la fuerza de la constancia,\nque nos mantiene en el buen camino,\nluchando juntos contra el destino,\nsin que nos venza la distancia.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

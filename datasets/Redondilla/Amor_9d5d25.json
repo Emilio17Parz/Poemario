@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si el sueño no me da paz, (A)\nmi vida no tiene final, (B)\nme ha causado un gran mal, (B)\nmi alma ya sin un haz. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

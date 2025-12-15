@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las hojas caen de color oro,\ncubren la senda del caminante,\nes del otoño el gran tesoro,\nmelancólico y elegante.\nEl bosque cambia su semblante,\ny el sol se aleja, ya no es amante.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

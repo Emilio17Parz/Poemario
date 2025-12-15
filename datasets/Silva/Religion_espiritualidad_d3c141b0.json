@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La gloria prometida,\nes la esperanza del fiel peregrino,\nque da la vida,\nen su camino,\npor alcanzar el reino divino.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

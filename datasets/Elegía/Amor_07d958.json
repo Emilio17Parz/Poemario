@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se callaron las voces que nos prometían,\nun mundo eterno de dicha y placer,\nya no hay amanecer, ni volver a nacer,\nen los dulces brazos que me sostenían.\n\nEl silencio ocupa lo que antes decían,\ntus labios de fuego al atardecer,\ny siento mi alma despacio caer,\nal pozo donde las esperanzas morían.\n\nSilencio sepulcral de un amor acabado,\nque deja el corazón triste y helado.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

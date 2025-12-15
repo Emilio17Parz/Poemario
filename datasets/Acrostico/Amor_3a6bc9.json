@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Llevamos una unión,\nAtada con ternura.\nZanjada en el corazón,\nObra de la hermosura.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "LAZO"
+  }
+}

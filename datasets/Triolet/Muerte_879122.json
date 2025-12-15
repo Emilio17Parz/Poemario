@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vive el recuerdo,\nen la memoria.\nSi me pierdo,\nvive el recuerdo.\nSigo cuerdo,\nen la historia.\nVive el recuerdo,\nen la memoria.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

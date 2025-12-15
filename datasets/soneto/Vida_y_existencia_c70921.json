@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminante no hay camino al andar,\nse hace la senda con el propio paso,\nsin temer al error ni al fracaso,\nsolo con la intención de avanzar.\n\nEs un largo y tortuoso viajar,\ndonde a veces nos ciega el ocaso,\ny otras veces llenamos el vaso,\nde la dicha que logramos hallar.\n\nCada piedra es lección aprendida,\ncada flor un regalo del suelo,\nen esta travesía de la vida.\n\nNo importa si se nubla el cielo,\nsi se mantiene la antorcha encendida,\ny se alza con fuerza el propio vuelo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "camino"
+  }
+}

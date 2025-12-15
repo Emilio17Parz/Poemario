@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuego que corre por las venas,\nincendio que nadie quiere apagar,\nvolcán que despierta en la sangre\ny nos invita a naufragar.\nArde la piel con el deseo,\nse rompen los diques de la moral,\ny somos dos fieras sueltas\nen un rito fundamental.\nCelebro tu fuerza salvaje,\ntu ímpetu ciego y voraz,\nque nos eleva hasta el cielo\ny nos quita, dulce, la paz.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

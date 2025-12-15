@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Los celos no son signo de amor,\nson miedo a perder la posesión,\ncausan angustia y causan dolor,\ny nublan la clara razón.\nQuien ama confía y deja ser,\nno intenta al otro retener.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Celos"
+  }
+}

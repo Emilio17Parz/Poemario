@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ya no se escucha nada,\nel ruido mundanal se ha detenido;\ntodo ha perdido,\nen la morada.\nEl silencio eterno es el destino,\ndel peregrino.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

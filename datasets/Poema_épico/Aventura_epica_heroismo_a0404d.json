@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El guante lanzado, la prueba impuesta,\nel obstáculo en el camino,\nla vida es una eterna cuesta,\nque forja nuestro destino.\nAcepta el reto, alza la frente,\ny sé entre todos el valiente.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Reto"
+  }
+}

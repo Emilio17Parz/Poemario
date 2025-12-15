@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida fluye, enigma en el vaivén,\nUn breve soplo, luz que se ha encendido,\nPregunta eterna, ¿a dónde y de quién?\n\nUn breve soplo, luz que se ha encendido,\nLa existencia dibuja su ficción,\nUn eco en el silencio, ya perdido.\n\nLa existencia dibuja su ficción,\n¿Es real el camino que se sigue,\nO un sueño largo de la creación?\n\n¿Es real el camino que se sigue,\nDonde el sentir y el pensar se amalgaman?\nO un velo que a la mente nos aflige.\n\nDonde el sentir y el pensar se amalgaman,\nLas horas, mudas, sin cesar nos llaman.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

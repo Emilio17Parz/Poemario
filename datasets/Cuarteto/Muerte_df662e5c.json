@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra quieta donde el pulso muere,\nUn eco mudo que el recuerdo lleva.\n¿Es el final que la existencia hiere,\nO el paso a otra vasta eternidad nueva?",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

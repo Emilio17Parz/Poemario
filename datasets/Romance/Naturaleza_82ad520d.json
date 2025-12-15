@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Inmenso azul que no acaba,\nbravo y espumoso mar,\ndonde el horizonte muere\ny comienza a despertar.\nTus olas son latigazos\nque a la roca hacen llorar,\ny en tu abismo misterioso\ntodo se suele guardar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "mar"
+  }
+}

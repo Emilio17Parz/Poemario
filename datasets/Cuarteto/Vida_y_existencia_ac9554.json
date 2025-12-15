@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es frágil, un cristal sutil,\nque se rompe en un soplo, sin avisar,\nla forma de un sueño, el don gentil,\nque hay que aprender a amar.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Frágil"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la leña en el monte,\npero más arde mi piel,\ncuando tus manos me tocan\ny me saben a hidromiel.\nSomos dos llamas unidas,\nen un furioso carrusel,\nquemando las horas muertas\nsobre sábanas de riel.\nNo existe el mundo de fuera,\nni el amargo ni el hiel,\nsolo este fuego sagrado\nque nos quema a gran nivel.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

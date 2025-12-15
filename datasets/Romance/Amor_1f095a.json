@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Soñé que éramos dos aves\nvolando sobre el molino,\nsiguiendo el curso del aire\ny burlando al remolino.\nDesperté y estabas lejos,\npero claro mi destino,\nde buscarte hasta encontrarte\nen el final del camino.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

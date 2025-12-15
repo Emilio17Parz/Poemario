@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tus ojos son dos luceros,\nque alumbran mi caminar,\ny me invitan a soñar,\ncon mundos venideros.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "mirar"
+  }
+}

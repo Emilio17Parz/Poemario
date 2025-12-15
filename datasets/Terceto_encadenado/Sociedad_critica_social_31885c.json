@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El oro es la causa, la ciega ambición (A),\nque rompe al hermano, que quiebra la fe (B),\nla vida es un sueño, el don total (A).\n\nLa fuerza que impulsa mi fiel corazón (B),\nel alma que vuela, sin un error (C),\nla esencia del puro valor (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en ella hallar la paz (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Oro"
+  }
+}

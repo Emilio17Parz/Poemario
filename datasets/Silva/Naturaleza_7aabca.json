@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Agua cae,\ncon estruendo,\ny va siendo,\nlo que trae.\nNos distrae,\nsu belleza,\ny pureza,\nque atrae.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "cascada"
+  }
+}

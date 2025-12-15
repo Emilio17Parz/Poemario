@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Qué es la vida? Un frenesí, una ilusión,\nuna sombra, una ficción, un cuento,\nque se lleva el rápido viento\ndejando vacía la habitación.\n\nSoñamos con tener la razón,\ncon hallar el placer y el sustento,\npero al despertar, en un momento,\nvemos la gris desolación.\n\nQue toda la vida es sueño, y los sueños,\nsueños son, sentenció Calderón,\ndejándonos de dudas dueños.\n\nVivamos con tal pasión\nque al despertar, risueños,\ntengamos el corazón.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ficcion"
+  }
+}

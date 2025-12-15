@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabras con ritmo y rima,\nque tocan el corazón,\ny nos llevan a la cima.\n\nSon la mejor expresión,\nde lo que el pecho siente,\ncon fuerza y con pasión.\n\nEternamente.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

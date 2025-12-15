@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan la historia antigua,\nque la mente averigua,\ndel héroe legendario,\nque venció al adversario,\ncon fuerza contigua.\n\nEs una llama que no se amortigua,\ny el valor atestigua,\nen el imaginario,\ncuentan la historia.\n\nLa verdad se apacigua,\nen la voz que la fragua,\ncomo un relicario,\ndel tiempo milenario,\nque la fama persigua,\ncuentan la historia.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

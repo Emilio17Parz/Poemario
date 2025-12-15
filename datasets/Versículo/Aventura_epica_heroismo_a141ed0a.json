@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escudo mío y fuerza mía; en él confió mi corazón, y fui ayudado, por lo que se gozó mi corazón.\nPonte el escudo y el pavés, y levántate en mi ayuda; saca la lanza y cierra contra mis perseguidores.\nSobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno.\nEl Señor es mi roca y mi fortaleza, y mi libertador; Dios mío, fortaleza mía, en él confiaré; mi escudo y el fuerte de mi salvación.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "escudo"
+  }
+}

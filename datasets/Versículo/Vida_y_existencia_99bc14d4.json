@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "He aquí, el sembrador salió a sembrar. Y mientras sembraba, parte de la semilla cayó junto al camino; y vinieron las aves y la comieron.\nPero parte cayó en buena tierra, y dio fruto, cuál a ciento, cuál a sesenta, y cuál a treinta por uno.\nNo os engañéis; Dios no puede ser burlado: pues todo lo que el hombre sembrare, eso también segará.\nEl que siembra escasamente, también segará escasamente; y el que siembra generosamente, generosamente también segará.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "siembra"
+  }
+}

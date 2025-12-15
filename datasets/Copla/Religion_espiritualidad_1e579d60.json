@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tengo la fe de un carbonero\nque alumbra mi oscuridad,\ncreyendo que allá en el cielo\nreina la inmensa bondad.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "fe"
+  }
+}

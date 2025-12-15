@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo fuimos,\ny polvo seremos,\nallí volveremos,\nlo que vivimos.\nCiclo cerrado,\nya terminado.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

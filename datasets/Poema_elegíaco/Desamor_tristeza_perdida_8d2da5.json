@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El hueco que dejaste no se llena con nada ni con luz,\nel vacío es la prueba de mi amarga cruz.\nEs la ausencia que tiene tu forma exacta y fiel,\nla dolorosa certeza con sabor a hiel.\n\nMe aísla del mundo, me rompe la razón,\ny soy el esclavo de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

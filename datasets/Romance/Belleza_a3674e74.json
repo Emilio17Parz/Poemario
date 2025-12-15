@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Llora el violín en la sala,\ncon su voz de madera,\ntocando una melodía\nque parece de cera.\nLas notas vuelan al aire,\ncomo pájaros de esfera,\ny nos tocan el corazón\nde manera certera.\nEs la belleza sonora,\nque a nadie desespera,\ny nos lleva a otros mundos\nsin ninguna frontera.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "violín"
+  }
+}

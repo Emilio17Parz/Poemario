@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Comienza el viaje, un sendero fatal,\nUn héroe valiente, de espíritu leal.\n\nEl dragón espera con hálito ardiente,\nMas no hay miedo alguno en su corazón valiente.\n\nCruzando montañas y mares oscuros,\nEnfrenta peligros, tormentos futuros.\n\nSu acero reluce, su fuerza mayor,\nLuchando por siempre con hondo **honor**.\n\nDerrota a la sombra, libera la tierra,\nTras épica lucha, termina la guerra.\n\nSu nombre resuena, leyenda inmortal,\nDel héroe que vence la oscura señal.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "honor"
+  }
+}

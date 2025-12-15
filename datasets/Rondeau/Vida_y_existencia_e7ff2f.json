@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Mala suerte,\no buena suerte.\nEs el azar,\ndel jugar,\ncon la muerte.\n\nPara verte,\ny tenerte.\nAl ganar,\nmala suerte.\n\nSer fuerte,\ny no perderte.\nAl apostar,\ny al amar,\npara quererte,\nmala suerte.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

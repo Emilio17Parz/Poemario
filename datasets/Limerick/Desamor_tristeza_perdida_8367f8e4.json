@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Mi alma en pena, en un triste vacío,\nSufriendo el cruel adiós, tan sombrío.\nMe puse a llorar,\nSin poderte abrazar,\nPerdido mi amor, cual rocío.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

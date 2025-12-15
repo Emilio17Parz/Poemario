@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Acepta el desafío, el reto sin par (A),\nque el destino impone a su paso atroz (A),\nla forma de no volver a amar (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Desafío"
+  }
+}

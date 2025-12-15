@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "J amás estaremos distantes,\nU nidos por lazos de amor,\nN uestras manos siempre enlazadas,\nT eniendo el mismo valor,\nO bservando el mismo horizonte,\nS iendo uno solo los dos.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "juntos"
+  }
+}

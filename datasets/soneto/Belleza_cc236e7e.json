@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se rompe el huevo azul de la mañana,\ny el sol derrama oro en el horizonte,\ntiñendo de esperanza el viejo monte\ny entrando con su luz por la ventana.\n\nEl mundo se despierta y se engalana,\nborrando la tiniebla cual bisonte,\ny cruza el ave el cielo, cual caronte\nque trae la vida y no la muerte vana.\n\nEs el espectáculo primero,\nla obra de arte diaria y regalada,\nque ofrece su belleza al mundo entero.\n\nMirar nacer el día en la alborada\nes ver a Dios pintar con su esmero\nla tierra con su luz enamorada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

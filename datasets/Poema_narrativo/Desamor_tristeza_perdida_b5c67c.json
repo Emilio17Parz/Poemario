@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Le contaron la historia bajo el sol del mediodía,\nQue él había mentido, que otra amor había.\nElla sintió el veneno en sus venas correr,\nY el amor se hizo odio antes del atardecer.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "traición"
+  }
+}

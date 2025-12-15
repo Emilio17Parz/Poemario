@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi espada no es de acero,\nes la extensión de mi fe.\nCorta el cruel sendero\ny me obliga a tener fe.\n\nLa sombra es el miedo\nque me quiere parar,\npero mi credo\nes ir sin tardar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

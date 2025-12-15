@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "Muro se alza hoy,\nClamor por más libertad\nSombra nos cubre.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

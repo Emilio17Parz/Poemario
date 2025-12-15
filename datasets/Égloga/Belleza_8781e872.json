@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "MENALCAS: Dicen que el arte imita a la vida,\nmas este paisaje supera el pincel.\nBATILO: No hay lienzo humano ni blanco papel\nque capte esta luz, jamás conocida.\nEl arte supremo es la creación,\nque llena de gozo nuestra visión.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "arte"
+  }
+}

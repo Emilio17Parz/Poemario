@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la losa duerme el cuerpo inerte,\nlibrado del dolor y la fatiga,\nvencido por el beso de la muerte.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

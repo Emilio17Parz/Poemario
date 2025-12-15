@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El temor paraliza,\nmis pasos hacia la libertad,\ny se desliza,\nla verdad,\nescondida en la oscuridad.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "temor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La barca cruzó el río hacia la otra orilla,\nLlevando al pasajero en la lenta arcilla.\nEl barquero era ciego, el destino era cruel,\nEl viaje sin regreso, bajo el dulce vel.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Loor al destino que tejió la trama,\nuniendo los hilos de nuestra existencia,\ncon sabia mano y divina paciencia,\nencendiendo viva la dulce llama.\nGuía estelar de los enamorados,\npor su mandato somos amados.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "destino"
+  }
+}

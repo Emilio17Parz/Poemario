@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El cielo se rompe en luz y ruido.\nLa tormenta es la ira necesaria,\nla liberación de la tensión acumulada.\nEl agua cae como cortinas de acero,\nlavando el polvo,\ndando de beber a la grieta.\nDespués, el olor a ozono\nes la promesa de la calma.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

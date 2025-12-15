@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "En el vasto bosque de verdor profundo,\nla luz se posa con un dulce aliento;\nse oye el latido del silente mundo,\ny el alma danza al compás del viento.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

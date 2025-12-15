@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde el fuego de pasión\nen el centro de mi pecho,\ndejando el lecho deshecho,\nsin pedir explicación.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

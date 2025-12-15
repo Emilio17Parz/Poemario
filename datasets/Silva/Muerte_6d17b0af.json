@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Para siempre será,\nel sueño que comienza en el final,\ny el alma verá,\nla luz real,\ndel universo espiritual.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "siempre"
+  }
+}

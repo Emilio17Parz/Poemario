@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cantemos juntos al amanecer,\nlas voces unidas, las manos atadas.\nLas penas pasadas ya son olvidadas,\nsolo el futuro queremos ver.\nEn este valle hemos de tejer\nla historia de dos almas enamoradas.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "voces"
+  }
+}

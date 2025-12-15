@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz es canción,\nde mi corazón.\n\nSuena divina,\ncomo una mina,\nque ilumina,\nla razón.\nTu voz es canción,\nde mi corazón.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "voz"
+  }
+}

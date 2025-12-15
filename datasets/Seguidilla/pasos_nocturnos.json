@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "pasos nocturnos",
   "poema": {
     "texto": "Cruzan mis pasos\\nla calle oscura\\nhuye mi sombra\\npegada al muro",

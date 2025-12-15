@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Yace el héroe caído,\nsu espada está quebrada,\nla batalla acabada,\ny él en el olvido.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

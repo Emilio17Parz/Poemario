@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu luz en mi mirada resplandece,\ncomo el sol que despierta la mañana,\ny todo mi dolor se desvanece.\n\nEs la dicha que el alma me ofrece,\nuna paz que a mi vida engalana,\ntu luz en mi mirada resplandece.\n\nEl amor en mi pecho florece,\ncon la fuerza de una fe temprana,\ny todo mi dolor se desvanece.\n\nSi la sombra del miedo aparece,\ntu recuerdo a mi mente subsana,\ntu luz en mi mirada resplandece.\n\nCada día mi ser agradece,\nesta unión que es tan pura y tan sana,\ny todo mi dolor se desvanece.\n\nMi esperanza en ti permanece,\neres tú la verdad más humana,\ntu luz en mi mirada resplandece,\ny todo mi dolor se desvanece.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

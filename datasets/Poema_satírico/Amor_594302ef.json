@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me escribes versos fatales,\ncon rimas de 'amor' y 'dolor',\ncreyéndote un trovador,\nde talentos celestiales.\nSon tan malos tus causales,\nque me causan gran pavor,\nmejor cómprame una flor,\ny déjate de recitales.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "poeta"
+  }
+}

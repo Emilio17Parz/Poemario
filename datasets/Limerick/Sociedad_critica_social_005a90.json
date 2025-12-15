@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El pueblo que sufre sin fin,\nsu voz es sin un solo tin.\nLa lucha es real,\nsin un gran cristal,\nel alma sin un gran ín.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Pueblo"
+  }
+}

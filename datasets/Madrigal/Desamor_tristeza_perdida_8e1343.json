@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No dices nada ya,\nel mudo olvido cubre tu garganta;\nel dolor se levanta\ny aquí está.\nPalabras que murieron sin nacer,\nal fenecer.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

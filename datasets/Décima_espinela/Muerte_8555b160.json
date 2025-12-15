@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Después de la sepultura\nllega el olvido lento,\nborrando el sentimiento\ny también la figura.\nSe pierde la hermosura\ny el nombre en la lápida,\nes una carrera rápida\nhacia la nada total,\nel destino final\nde nuestra vida rábida.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

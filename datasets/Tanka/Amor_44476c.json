@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El tiempo contigo\nes un instante que dura,\nla vida entera ya.\nFuera de ti es arena,\nque se escurre entre mis dedos.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Tiempo"
+  }
+}

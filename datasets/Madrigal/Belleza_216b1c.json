@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Palabra tallada,\ncomo diamante fino y transparente;\nagua de fuente,\ntan sagrada.\nEl verso captura la esencia pura,\ncon su mesura.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Que canten tu nombre\ncuando ya seas polvo.\nEsa es la apuesta.\nVivir rápido, morir joven,\ny dejar un cadáver hermoso\nen la memoria de los otros.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

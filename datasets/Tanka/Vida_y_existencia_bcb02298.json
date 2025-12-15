@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "Mirada al nacer,\nCon cada latido,\nBusca la verdad\nQue el ser siempre anhela,\nY así trasciende el fin.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

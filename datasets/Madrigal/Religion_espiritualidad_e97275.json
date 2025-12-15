@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La nada que es el todo,\ndonde la forma pierde su valor;\nsin el dolor,\ndel lodo.\nEl vacío fértil donde nace el ser,\nal florecer.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

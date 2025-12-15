@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Causa y efecto,\nlo que das te regresa\nmultiplicado.\nLa rueda gira siempre\ncon justa precisión.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "karma"
+  }
+}

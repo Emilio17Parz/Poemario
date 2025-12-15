@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Desciende cantando el río,\nhuyendo del monte y su frío,\ncon todo su poderío.\nDesciende cantando el río,\nllevando el agua al plantío,\nen el calor del estío.\nDesciende cantando el río,\nhuyendo del monte y su frío.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "río"
+  }
+}

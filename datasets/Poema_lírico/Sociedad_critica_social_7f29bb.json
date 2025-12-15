@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El poder es la sombra\nque no tiene luz.\nLa cruel que te nombra\ncon una cruz.\n\nNos obliga a caer,\na servir sin fin,\nla única forma\nde un triste motín.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "poder"
+  }
+}

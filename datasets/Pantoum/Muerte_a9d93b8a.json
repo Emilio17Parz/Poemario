@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra de la muerte,\ncubre el horizonte,\ncambia nuestra suerte,\nbajando del monte.\n\nCubre el horizonte,\ncon su velo oscuro,\nbajando del monte,\ncon paso seguro.\n\nCon su velo oscuro,\nla sombra de la muerte,\ncon paso seguro,\ncambia nuestra suerte.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

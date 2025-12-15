@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mira esa rosa en la zarza fiera,\ncómo destaca su rojo encendido,\nentre lo verde y lo carcomido,\nreina absoluta de la pradera.\n\nSu olor embriaga la primavera,\ny su textura es de terciopelo,\nun trozo vivo del mismo cielo,\nque nos alegra la vida entera.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

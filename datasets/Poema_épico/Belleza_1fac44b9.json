@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cantad, oh musa, la cólera y el amor,\nque inspiran al bardo sus versos de fuego.\nAtiende, diosa, a mi humilde ruego,\ny dame la voz de un conquistador.\nTu belleza guía la pluma y la mano,\nhaciendo divino lo que es humano.\nSin ti no hay poema, ni gesta, ni brillo,\ntú eres la reina de mi castillo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "musa"
+  }
+}

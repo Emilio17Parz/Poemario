@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La divina belleza\nque el cielo en vos puso con esmero,\nes el bien que yo quiero,\nmi única riqueza;\nno hay oro que iguale vuestro pelo,\nni gracia en este suelo\nque a la vuestra se iguale,\nni que tanto en mi pecho y alma valga.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "belleza"
+  }
+}

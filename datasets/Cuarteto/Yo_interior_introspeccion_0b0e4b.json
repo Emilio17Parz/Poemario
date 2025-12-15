@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El pasado se queda, un recuerdo sutil,\nque no debe ser un ancla cruel,\nla vida es presente, un dulce misil,\nla fuerza que da la miel.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Pasado"
+  }
+}

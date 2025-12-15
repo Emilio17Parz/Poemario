@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Círculo perfecto de dos cuerpos,\nmuralla contra la soledad,\ndonde se funden los latidos\nen una sola identidad.\nEn tu cerco me siento seguro,\nlejos del frío y del dolor,\nes el nudo que no aprieta,\nsino que sostiene el amor.\nOh, abrazo que curas heridas,\nmedicina de pecho y hueso,\nquiero vivir en tu encierro\ny morir en tu tibio peso.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Plástico en el océano,\nla isla gris que flota a la deriva;\nmuerte viva,\nde antemano.\nEnsuciamos la casa que nos dieron,\ny se murieron.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "basura"
+  }
+}

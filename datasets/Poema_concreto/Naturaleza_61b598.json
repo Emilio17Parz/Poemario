@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "  hojas hojas\n hojas hojas hojas\n  hojas hojas\n       |\n       |\n       |\n     raíz",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "árbol"
+  }
+}

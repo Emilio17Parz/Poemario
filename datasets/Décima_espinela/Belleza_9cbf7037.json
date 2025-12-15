@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Es el consuelo del arte\nplasmar lo que el alma siente,\nhacer eterno el presente\ny que la muerte se aparte.\nEl pintor quiere comparte\nsu visión y su color,\npara vencer el dolor\nde lo que es perecedero,\ny dejar en el sendero\nsu huella y su esplendor.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "arte"
+  }
+}

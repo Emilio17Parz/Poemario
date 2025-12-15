@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El principio de la sabiduría es el temor del Señor; los insensatos desprecian la sabiduría y la enseñanza.\nBienaventurado el hombre que halla la sabiduría, y que obtiene la inteligencia; porque su ganancia es mejor que la ganancia de la plata.\nLarga vida hay en su mano derecha, en su izquierda riquezas y honra; sus caminos son caminos deleitosos.\nAdquiere sabiduría, adquiere inteligencia; no te olvides ni te apartes de las razones de mi boca.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sabiduría"
+  }
+}

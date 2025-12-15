@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pincelada maestra,\nque capta la hermosura en el lienzo;\nun nuevo comienzo,\nen nuestra muestra.\nEl arte eterniza el breve momento,\ny el sentimiento.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "arte"
+  }
+}

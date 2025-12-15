@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Para qué cuido el ganado?\n¿Cuál es mi fin?\n¿Tocar el violín,\no ser amado?\nMe siento varado,\nen el confín,\ndel jardín,\ncerrado.\nBusco razón,\nen mi corazón,\ny en la estación.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "camino"
+  }
+}

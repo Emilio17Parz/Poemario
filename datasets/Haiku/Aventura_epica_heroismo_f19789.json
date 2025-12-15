@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Rayo de luz,\nhechizo en la batalla,\npoder antiguo.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "luz"
+  }
+}

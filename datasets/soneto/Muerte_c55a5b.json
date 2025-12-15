@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Te has ido, pero sigues presente\nen cada rincón de la memoria,\ntu vida fue una hermosa historia\nque no se borra de nuestra mente.\n\nAunque tu cuerpo esté ausente,\ny goces ya de la eterna gloria,\ntu risa, clara y victoria,\nresuena todavía latente.\n\nNo muere quien se va, solo quien\nes olvidado por los que quedan,\nperdiendo su luz y su bien.\n\nMientras mis labios puedan\nnombrarte una y otra vez,\nlas sombras no te enredan.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

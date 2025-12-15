@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante piedra toca las nubes,\nnieves eternas en su cumbre.\nPor sus senderos lento subes,\nbuscando el sol y su lumbre.\n\nNieves eternas en su cumbre,\nvigila el valle con majestad.\nBuscando el sol y su lumbre,\nhallas allí la libertad.\n\nVigila el valle con majestad,\npor sus senderos lento subes.\nHallas allí la libertad,\ngigante piedra toca las nubes.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

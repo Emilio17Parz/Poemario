@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Respeta a tu rival,\nte hace mejor,\nen la lid final,\ny en el dolor.\nSin dragón no hay santo,\nni heroico canto.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Enemigo"
+  }
+}

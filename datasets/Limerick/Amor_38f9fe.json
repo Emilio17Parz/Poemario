@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bailaban un tango pegados,\ncon pasos muy bien ensayados.\nÉl pisó su vestido,\ny cayó malherido,\ndejando a todos pasmados.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "baile"
+  }
+}

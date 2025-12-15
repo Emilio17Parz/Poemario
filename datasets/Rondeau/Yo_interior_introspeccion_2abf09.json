@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La verdad,\nclaridad.\nSe siente,\nlatente,\nrealidad.\n\nLa edad,\ny la mitad.\nLa mente,\nla verdad.\n\nLa bondad,\ny la maldad.\nLa fuente,\nvaliente,\nde la ciudad,\nla verdad.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

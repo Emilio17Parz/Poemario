@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Era una tarde gris de nubes bajas,\nla lluvia golpeaba el empedrado,\nella corría buscando un techado,\nél caminaba contando las lajas.\nChocaron de pronto en la esquina,\ncayeron los libros al suelo mojado,\nél se agachó, sintiéndose apenado,\ny al ver sus ojos, cambió su rutina.\nBajo el paraguas compartieron la senda,\ny allí comenzó su dulce leyenda.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

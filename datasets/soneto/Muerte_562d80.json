@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Como la semilla que se entierra,\npara nacer de nuevo en la flor,\nquizás la muerte no sea dolor,\nsino el fin de la propia guerra.\n\nEl cuerpo que en la tumba se encierra,\npuede ser crisálida de amor,\npreparando un vuelo mayor,\nlejos de esta pesada tierra.\n\nRenacer en otra forma o luz,\nseguir girando en la gran rueda,\nllevando otra distinta cruz.\n\nQue la esperanza no retroceda,\npues aunque apaguemos el trasluz,\nla vida siempre, siempre se queda.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "resurrección"
+  }
+}

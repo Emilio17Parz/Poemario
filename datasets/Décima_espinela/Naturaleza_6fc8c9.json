@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llega el frío,\ncon su capa blanca,\ny se estanca,\nel viejo río.\nSiento el vacío,\nde la estación,\npero el carbón,\nda calor,\ny el color,\nde la ilusión.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

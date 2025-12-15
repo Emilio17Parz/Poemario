@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sangra el costado\ndonde estuvo tu mano\nduele el ayer.\nNo cierra la herida\nque dejaste al partir.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "herida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Ser verdadero cuesta mucho,\nen este mundo de chucho,\ndonde la farsa se premia,\ny la verdad es blasfemia.\nPero yo elijo ser real,\naunque me vaya fatal,\nprefiero mi integridad,\na la falsa comodidad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

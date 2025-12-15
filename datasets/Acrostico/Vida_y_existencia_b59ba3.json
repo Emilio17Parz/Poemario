@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cruzas por el sendero,\nAndando sin parar.\nMiras el agujero,\nIntentas avanzar.\nNada es duradero,\nOlvida descansar.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "CAMINO"
+  }
+}

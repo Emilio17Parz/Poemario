@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Lejos del puerto y la segura orilla,\nla nave se aventura,\nhacia los mares nunca navegados.\nLa Cruz del Sur en el cielo brilla,\ncon su hermosura,\nguiando a los marinos arriesgados.\nVan esperanzados,\nemprendiendo el mítico viaje,\ncon gran coraje.\n\nCanción, sigue la estela,\ndel barco que con el viento vuela.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

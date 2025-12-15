@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Toqué tu mano y ya no estabas.\nEra mármol, era cera,\nera una cáscara vacía.\nEl frío de la muerte no es de invierno,\nes el frío de la ausencia absoluta,\nde la llama que se ha extinguido\ny no deja ni humo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "frío"
+  }
+}

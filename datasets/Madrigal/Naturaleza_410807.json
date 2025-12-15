@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Los árboles se alzan en profundo silencio,\nvelando el sueño de la tierra oscura.\nSus ramas son el más alto reverencio,\nal misterio y a la eterna hermosura.\n\nEntre el musgo y la raíz que se ha clavado,\nse esconde el alma de lo inexplorado.\nUn susurro de vida, un verde manto,\ndonde el sol teje su suave canto,\ny el tiempo parece que se detiene.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

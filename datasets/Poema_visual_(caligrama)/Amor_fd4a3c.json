@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cerrado está\nmi sentimiento\nsolo tú tienes\nla combinación\npara abrirlo.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "candado"
+  }
+}

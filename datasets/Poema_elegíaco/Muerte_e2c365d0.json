@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ahora reina el pálido silencio,\ndonde antes resonaba tu reír,\nme duele respirar y subsistir,\nmientras tu muerte con horror presencio.\nCallaron para siempre tus palabras,\ny el dolor abre sus puertas macabras.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

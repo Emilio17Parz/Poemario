@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El hueso blanco ríe, sin piedad,\nde la vida y la vana ilusión.\nEs la única y cruda verdad,\nsin maquillaje ni convicción.\n\nFui como tú, dirá sin mentir,\ny te toca ahora a ti el seguir\ncon el juego que tiene su final.\nLa sonrisa es la seña más real,\nde que la gloria es solo un suspiro breve.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "calavera"
+  }
+}

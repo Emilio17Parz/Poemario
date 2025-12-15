@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Una cruzada en busca de la luz,\nque se apaga al cruzar la puerta gris,\nla vida es un peso, una dura cruz,\nque al morir se parte de raíz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Cruzada"
+  }
+}

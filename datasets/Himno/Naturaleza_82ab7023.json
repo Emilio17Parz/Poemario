@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Loor al océano, padre profundo,\ngigante azul de poder sin igual,\nespejo del cosmos, fuerza vital,\nque abrazas las costas de todo el mundo.\nTu voz de trueno y espuma nos llama,\ncon la grandeza que tu ser proclama.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "mar"
+  }
+}

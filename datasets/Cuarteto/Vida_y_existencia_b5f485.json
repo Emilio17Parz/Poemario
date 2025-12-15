@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vamos andando sin ver el final,\ncada paso es una decisión,\nconstruyendo nuestra propia misión,\nen este viaje fundamental.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "camino"
+  }
+}

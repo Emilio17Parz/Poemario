@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "En Dios hallo mi refugio, mi dulce paz (A),\nel sitio seguro contra el dolor (B),\nla calma que viene tenaz (A).\n\nLa fuerza que impulsa mi fiel corazón (B),\nel alma que vuela, sin un error (C),\nla esencia del puro valor (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en él hallar la fe (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Refugio"
+  }
+}

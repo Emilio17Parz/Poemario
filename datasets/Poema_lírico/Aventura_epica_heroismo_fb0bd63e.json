@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Joya del alma que nunca se vende,\nlimpio blasón del valiente guerrero,\nmás importante que el mundo entero,\nporque su luz en el pecho se enciende.\nQuien al honor y a la verdad atiende,\nsigue el camino recto y verdadero.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "honor"
+  }
+}

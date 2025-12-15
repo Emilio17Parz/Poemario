@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Más allá del tiempo y de la muerte,\nmi amor por ti se mantendrá constante,\ncomo la estrella firme y radiante,\nque no depende de la humana suerte.\nEs un lazo divino, puro y fuerte,\nque hace a mi alma tu eterna amante.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

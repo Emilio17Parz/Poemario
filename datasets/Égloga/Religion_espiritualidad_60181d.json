@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Hazme pequeño y sencillo,\ncomo la flor del campo.\nQue tu luz sea mi lampo\ny tu amor mi castillo.\nNo quiero el falso brillo,\nsolo tu santo amparo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flor"
+  }
+}

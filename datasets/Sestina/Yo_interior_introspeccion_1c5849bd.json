@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Enfrento mi miedo,\nmonstruo de la mente,\nque me paraliza.\nSe desvanecerá,\ncuando encienda la luz,\nde mi propia verdad.\n\nPropia verdad,\ncontra el miedo,\ny su capuz.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se acaba el tiempo aquí,\nya no hay nada para mí.\nEl reloj se ha detenido,\ny todo lo vivido,\nse pierde en un frenesí.\n\nEl alma vuela, sí,\nlejos de lo que fui.\nHa llegado el olvido,\nse acaba el tiempo.\n\nTodo lo que construí,\ny lo que compartí.\nQueda ya perdido,\nen un sueño dormido,\nporque al final partí,\nse acaba el tiempo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

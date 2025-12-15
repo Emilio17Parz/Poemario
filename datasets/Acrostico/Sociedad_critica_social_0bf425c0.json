@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "P ide pan en la esquina,\nO lvidado de todos,\nB ajando la colina,\nR otos están sus modos,\nE ntre tanta neblina.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "pobre"
+  }
+}

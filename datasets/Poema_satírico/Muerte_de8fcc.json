@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es una fiesta,\nde disfraces y alcohol,\nla tradición apesta,\nbajo el control.\nSustos de plástico chino,\ny mucho desatino.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Halloween"
+  }
+}

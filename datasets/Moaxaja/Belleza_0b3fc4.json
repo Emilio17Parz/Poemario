@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pinta el pintor,\ncon gran amor.\n\nLienzo sagrado,\ncolor amado,\ny dibujado,\nel esplendor.\nPinta el pintor,\ncon gran amor.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "arte"
+  }
+}

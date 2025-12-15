@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu beso me roba el aliento,\nMe llevas directo hacia el sol,\nBorraste mi sufrimiento.\nTu beso me roba el aliento,\nEs puro y feliz sentimiento,\nPerdiendo mi propio control.\nTu beso me roba el aliento,\nMe llevas directo hacia el sol.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "aliento"
+  }
+}

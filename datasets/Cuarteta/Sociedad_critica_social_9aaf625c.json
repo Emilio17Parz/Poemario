@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "Un velo de seda cubre el mirar,\nmientras la miseria clama en la esquina.\nLa cruda **pobreza**, sin reparar,\nla voz del hambriento se desatina.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

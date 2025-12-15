@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La esperanza no tiene fin,\nmi alma es un trajín.\n\nEl futuro ya llegó,\nla suerte me sonrió,\ny el miedo se me acabó,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "esperanza"
+  }
+}

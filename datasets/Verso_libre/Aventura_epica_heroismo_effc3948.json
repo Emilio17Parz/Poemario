@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La espada pesa,\nno por el acero,\nsino por la responsabilidad.\nDefender al débil,\nno convertirse en tirano.\nEl verdadero filo está en el alma.\nEl héroe lucha primero\ncontra sus propios demonios.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "espada"
+  }
+}

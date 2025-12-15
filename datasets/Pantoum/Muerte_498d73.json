@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega el invierno eterno,\nfrío que para la sangre.\nNo hay calor ni gobierno,\nque al cuerpo lo consagre.\n\nFrío que para la sangre,\nhielo en el corazón.\nQue al cuerpo lo consagre,\nse pierde la razón.\n\nHielo en el corazón,\nllega el invierno eterno.\nSe pierde la razón,\nno hay calor ni gobierno.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

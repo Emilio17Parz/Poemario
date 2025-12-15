@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego purificador que abrasa,\nconvirtiendo la carne en polvo,\na la tierra yo me devuelvo,\ny mi espíritu a su casa pasa.\n\nQueda en la urna, en la carcasa,\nlo que fui, y yo me disuelvo,\nel misterio al fin resuelvo\nde esta vida que fue escasa.\n\nEsparcidme en el mar abierto,\no en el bosque entre los pinos,\nno quiero un encierro muerto.\n\nSeré parte de los caminos,\ndel aire y del desconcierto,\nlejos de los destinos.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "urna"
+  }
+}

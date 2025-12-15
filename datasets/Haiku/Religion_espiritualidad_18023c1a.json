@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Alma busca paz,\nMi corazón se eleva en rezo,\nDivina quietud.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "rezo"
+  }
+}

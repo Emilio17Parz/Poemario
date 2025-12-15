@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Vamos andando el escabroso camino,\nsin mapa cierto ni señal segura,\ny entre la dicha y la desventura\nteje sus hilos el sutil destino.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "camino"
+  }
+}

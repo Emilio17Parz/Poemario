@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nuestro destino se escribió con fe (a),\nel lazo que une sin un final (b),\nmi alma te sigue sin un 'yo sé' (a),\nsin sombra que cubra mi noble fanal (b),\ntu amor es la senda que me da el bien (b),\ny la fuerza que impulsa mi ser y mi tren (c),\nla vida es un canto sin un vaivén (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, yo espero en tu voz (c'),\nla última y fuerte y noble voz (c'),\nla fuerza que viene de Dios (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

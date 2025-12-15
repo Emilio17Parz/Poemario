@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Camina la muerte a nuestro lado,\ncompañera fiel desde la cuna,\nno nos abandona ni una\nvez, aunque hayamos olvidado.\n\nEs la sombra del ser creado,\nla cara oculta de la luna,\nque espera la oportunidad una\npara cumplir su mandato dado.\n\nNo hay que temer a su presencia,\npues da valor a cada instante,\ny nos enseña la paciencia.\n\nVivir sabiendo que, constante,\nella espera con clemencia,\nhace la vida fascinante.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

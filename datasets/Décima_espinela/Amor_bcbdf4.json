@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Espejo de mi alegría\nes tu mirada serena,\nque me quita toda pena\ny hace clara la sombría.\nEres la luz de mi día,\nel faro de mi existencia,\nque con su dulce presencia,\nme guía por el camino,\nhacia el hermoso destino,\nde amar con inteligencia.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

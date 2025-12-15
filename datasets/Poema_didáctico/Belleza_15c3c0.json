@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Detente a oler la rosa,\na mirar el atardecer,\nla vida es hermosa,\nsi sabes ver.\nLa prisa mata la belleza,\ncon su torpeza.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Apreciación"
+  }
+}

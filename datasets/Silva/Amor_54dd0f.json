@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Sueño que me amas,\nsin fin ni medida,\ny que nuestra vida,\narde en bellas llamas.\nTú me reclamas,\ncon dulce pasión,\ny en mi corazón,\ntejes las más hermosas tramas.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

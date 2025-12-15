@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ejército verde de lanzas altas,\npinos y robles en formación,\nsi entras en ellos, el miedo exaltas,\npues tienen alma y respiración.\nCatedral viva de sombra y raíz,\nmisterio antiguo de este país.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Bosque"
+  }
+}

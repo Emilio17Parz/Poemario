@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "silencio frío",
   "poema": {
     "texto": "Pesa el silencio\\ndentro del cuarto\\ntiemblan las luces\\nsin tus palabras",

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El viaje interior,\nes la gran gesta,\nsubir la cuesta,\ndel propio dolor.\nVencer el temor,\nes la respuesta,\nde la propuesta,\ndel creador.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

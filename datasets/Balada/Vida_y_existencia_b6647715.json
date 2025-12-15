@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Atrapa el día, no lo dejes,\nque el tiempo vuela sin piedad,\nno te lamentes ni te quejes,\nvive con toda intensidad.\nEl instante es la única verdad,\nen esta breve realidad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "instante"
+  }
+}

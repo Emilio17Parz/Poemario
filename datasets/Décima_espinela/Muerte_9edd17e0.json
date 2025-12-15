@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo tiene su final,\nel camino y la jornada,\nla risa y la llamarada\ny el poderoso caudal.\nEs la sentencia fatal\nque iguala al rico y al pobre,\naunque el dinero le sobre\no viva en la caridad,\nante la gran verdad\nno vale plata ni cobre.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "fin"
+  }
+}

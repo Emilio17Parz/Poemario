@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi vida es promesa que quiero guardar (A),\nla fe que no miente, sin un error (B),\nsin tu ser no sé cómo voy a estar (A).\n\nEl único y dulce y puro fulgor (B),\nque rompe la sombra con gran poder (C),\nla fuente de todo valor (B).\n\nPor ti mi alma quiere al fin crecer (C),\nel amor es la calma que sabe sanar (D),\nla forma que ayuda a vencer (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Promesa"
+  }
+}

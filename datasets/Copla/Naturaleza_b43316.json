@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna es una plata\ncolgada en el balcón,\nque alumbra a los amantes\ncon mucha devoción.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "luna"
+  }
+}

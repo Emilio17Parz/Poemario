@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El fuego del dragón\nilumina el oscuro cielo,\nmiedo en la aldea.\nEl caballero lo enfrenta,\npor el honor de su rey.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Dragón"
+  }
+}

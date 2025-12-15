@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se alzan las torres, gran arquitectura,\nsueño de piedra, gran arquitectura.\n\nLíneas que buscan tocar las nubes,\norden y fuerza, gran arquitectura.\n\nRefugio humano contra la intemperie,\narte habitable, gran arquitectura.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "arquitectura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La senda que sigo con fe y con valor (A),\nsin miedo al castigo, sin un final (A),\nla esencia de nuestro fulgor (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Senda"
+  }
+}

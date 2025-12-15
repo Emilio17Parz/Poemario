@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Contemplo el mar infinito,\nespejo del cielo azul,\ncubierto de espuma y tul,\ncon su eterno y bello rito.\nEn sus olas yo medito,\nlejos de la multitud.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "mar"
+  }
+}

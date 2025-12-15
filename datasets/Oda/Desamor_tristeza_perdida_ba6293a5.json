@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Palabra breve y afilada,\nque cortas el aire en dos,\ncierras un libro de golpe\ny apagas la luz de la voz.\nPuerta que se cierra fuerte,\npuente que se rompe atrás,\nmuro que crece de pronto\ny no se salta jamás.\nEres el fin del camino,\nel punto final del guion,\nun eco triste que queda\nvibrando en la habitación.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

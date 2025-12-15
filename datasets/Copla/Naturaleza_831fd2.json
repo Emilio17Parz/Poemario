@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol de la tarde es luz (a),\nque rompe toda la sombra (b),\nel peso de mi gran cruz (c),\nla vida que al fin me nombra (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Sol"
+  }
+}

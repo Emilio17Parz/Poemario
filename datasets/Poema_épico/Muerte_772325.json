@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Suenan las trompetas del juicio final,\ncoros de ángeles cantan dolor,\nmúsica sacra, monumental,\nelevando el alma hacia el Creador.\nMelodía triste de la despedida,\núltimo himno de la vida.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Réquiem"
+  }
+}

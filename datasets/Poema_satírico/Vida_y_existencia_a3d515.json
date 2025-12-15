@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pagar para sufrir dolor,\nlevantando hierro pesado,\nsudando con olor,\ny quedando agotado.\nHámsters en la rueda,\nque la grasa se queda.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Gimnasio"
+  }
+}

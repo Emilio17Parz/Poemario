@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Pequeña potencia dormida en lo oscuro,\nrompe la cáscara, busca el sol,\npromesa de árbol, fuerte y duro,\ngestando la vida con gran control.\nMilagro verde que rompe el suelo,\nalzando sus ramas hacia el cielo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Semilla"
+  }
+}

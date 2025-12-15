@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Levantad en alto vuestros ojos, y mirad quién creó estas cosas; él saca y cuenta su ejército; a todas llama por sus nombres.\nUna es la gloria del sol, otra la gloria de la luna, y otra la gloria de las estrellas, pues una estrella es diferente de otra en gloria.\nÉl cuenta el número de las estrellas; a todas ellas llama por sus nombres; grande es el Señor nuestro, y de mucho poder.\nComo la arena que está a la orilla del mar, así son las estrellas del cielo en multitud, incontables e infinitas.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

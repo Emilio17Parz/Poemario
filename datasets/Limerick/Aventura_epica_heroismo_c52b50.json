@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dragón con furia y con fuego,\nes reto sin un solo ruego.\nEl héroe se alza,\nla pena se amansa,\nel alma sin un solo juego.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Dragón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Despedida,\ntriste y cruel,\nen el riel,\nde la vida.\nLa partida,\nes segura,\nen la oscura,\nguarida.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

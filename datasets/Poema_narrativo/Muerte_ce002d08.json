@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El caballero retó a la muerte,\na una partida de ajedrez,\njugando con lucidez,\npara cambiar su suerte.\nMovió peones y torres,\nintentando ganar tiempo,\npero en el último contratiempo,\nla muerte dijo: 'no corres'.\nJaque mate al rey,\nes la única ley.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "ajedrez"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Viene el ángel,\nde piel.\nA buscarme,\ny llevarme,\nal vergel.\n\nEs fiel,\ncomo la miel.\nPara salvarme,\nviene el ángel.\n\nEn el papel,\ndel dintel.\nAl llamarme,\ny amarme,\ncon el pincel,\nviene el ángel.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega la calma,\nal fin del día,\nsin agonía,\npara el alma.\nBajo la palma,\nque sonreía.\nLlega la calma.\n\nYa no hay dolor,\nni sufrimiento,\nsolo el viento,\ny el amor.\nSin temor,\nni lamento.\nLlega la calma.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "calma"
+  }
+}

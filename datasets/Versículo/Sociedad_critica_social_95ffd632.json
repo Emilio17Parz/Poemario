@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "He visto las lágrimas de los oprimidos, sin tener quien los consuele; y la fuerza estaba en la mano de sus opresores.\nEscuchad esto, los que explotáis a los menesterosos, y arruináis a los pobres de la tierra, diciendo: ¿Cuándo pasará el mes?\nEl salario de los obreros que han cosechado vuestras tierras, el cual por engaño no les ha sido pagado por vosotros, clama.\nNo oprimirás al jornalero pobre y menesteroso, ya sea de tus hermanos o de los extranjeros que habitan en tu tierra.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "opresión"
+  }
+}

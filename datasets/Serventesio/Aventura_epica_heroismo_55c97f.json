@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Combate al dragón, al monstruo de sombra y cruel dolor (A),\ncon la pura fuerza de su corazón (B),\nla vida es un reto, un gran fulgor (A),\nla dulce y suprema lección (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Dragón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Simple felicidad,\nes ver el rostro del sol,\ntras la gran tormenta.\nPequeños instantes dulces,\nque nos llenan de gran paz.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Felicidad"
+  }
+}

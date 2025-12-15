@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Polvo somos al final,\ny en ceniza nos vamos a tornar,\ndestino fatal,\nque ha de llegar,\npara en la tierra poder descansar.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

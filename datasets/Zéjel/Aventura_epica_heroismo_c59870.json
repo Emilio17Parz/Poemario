@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El dragón tiene un valor,\nsin ningún temor.\n\nEl fuego ya me ganó,\nla vida me probó,\ny el alma se me sanó,\nsin ningún temor.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

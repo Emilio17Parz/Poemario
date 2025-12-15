@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rimas y ritmos que la mente ordenan,\nvaso de oro para el vino añejo,\nversos que nos serenan\ny nos sirven de espejo.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

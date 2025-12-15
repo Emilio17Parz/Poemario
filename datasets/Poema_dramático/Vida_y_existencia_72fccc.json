@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "[EL ESCRITOR]\n(A su máquina de escribir)\nMe he aislado para crear la obra. Me he negado el mundo por la palabra.\nLa soledad no es la paz, es el eco de mi propia voz que me pregunta si vale la pena.\nTerminaré este libro, y nadie estará aquí para leer la primera página.\nLa gloria es fría. El arte es una amante celosa que me ha quitado a todos.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

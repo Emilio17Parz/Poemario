@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Silencio es vida, calma en el sendero.\nEl río susurra historias, brisa al pasar.\nEn el corazón del **bosque**, el tiempo se anida en paz.\nAl pasar la brisa, historias susurra el río.\nSendero en calma, vida es el silencio.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

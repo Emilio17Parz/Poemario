@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Busca la cima, el pico sin un final (A),\ndonde el águila vuela con gran valor (B),\nla vida es un reto, el bien total (A),\nla fuerza del puro fulgor (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Cima"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Unimos nuestras vidas en el rito,\ndelante del altar y de la gente,\njurando un amor puro y diferente,\nque queda en nuestros nombres ya inscrito.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "boda"
+  }
+}

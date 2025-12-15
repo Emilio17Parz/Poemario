@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No es la ausencia de miedo, señor,\nsino actuar a pesar de él,\nmirar a los ojos al terror,\ny ser a la causa fiel.\nFuego interior que nos empuja,\ncuando la muerte nos dibuja.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Coraje"
+  }
+}

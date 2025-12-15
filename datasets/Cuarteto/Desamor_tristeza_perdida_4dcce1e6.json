@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me duele el corazón con tu partida,\npues te llevas la luz de mi existencia,\ndejando solamente tu ausencia\ny esta profunda y dolorosa herida.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "partida"
+  }
+}

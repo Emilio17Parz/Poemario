@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Volver casa,\ntras el viaje,\ncon coraje,\nque arrasa.\nTodo pasa,\ny se olvida,\ncon la vida,\nque se amasa.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

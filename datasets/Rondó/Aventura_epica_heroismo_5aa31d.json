@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Muros de piedra alta,\nprotegen al reino.\nCon empeño,\nnada falta.\n\nSe asalta,\nel sueño.\nMuros de piedra alta,\nprotegen al reino.\n\nSalta,\nel dueño.\nPequeño,\nque resalta.\nMuros de piedra alta.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "castillo"
+  }
+}

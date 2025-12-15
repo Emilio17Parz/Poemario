@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cúbreme con tu manto,\ny protégeme del error,\nlibrándome del espanto.\n\nY de todo cruel dolor,\nque el enemigo provoca,\ncon su odio y rencor.\n\nQue mi fe no trastoca.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "manto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Gritó su nombre al viento, buscando una respuesta,\nPero el viento devolvió su propia protesta.\nEl eco era un fantasma que repetía su voz,\nNegándose a aceptar el amargo adiós.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "eco"
+  }
+}

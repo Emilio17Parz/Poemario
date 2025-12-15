@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Reina de la noche,\nplata en el cielo,\nguardas mi desvelo,\ncon tu gran broche.\nInspiras al poeta,\nblanca silueta.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "luna"
+  }
+}

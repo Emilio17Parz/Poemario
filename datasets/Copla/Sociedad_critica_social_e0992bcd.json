@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Al que roba una gallina\nlo meten en la prisión,\nal que roba los millones\nle dan la absolución.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "honra"
+  }
+}

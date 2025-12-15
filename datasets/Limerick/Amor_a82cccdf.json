@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un poeta de amor muy prendado,\nA su musa el alma ha entregado.\nLe dio un abrazo,\nCon fuerte lazo,\n¡Y por siempre a su lado ha estado!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

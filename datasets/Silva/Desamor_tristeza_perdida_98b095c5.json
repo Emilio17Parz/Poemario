@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu amor se volvió hielo,\ny congeló las flores del jardín,\ncubriendo de gris el cielo,\nhasta llegar al fin,\ndejando mudo al triste violín.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

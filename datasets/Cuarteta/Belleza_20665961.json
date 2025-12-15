@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pinta el campo de color\nla hermosa primavera,\nquitando todo dolor\nde la vida pasajera.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "color"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busco el oro escondido,\nen el mapa perdido,\nque el viejo pirata,\ndejó en la plata,\ndel mar embravecido.\n\nEs un sueño atrevido,\nque me tiene prendido,\nen la búsqueda grata,\nbusco el oro.\n\nAunque sea perseguido,\npor el destino bandido,\nmi alma no se dilata,\nen hallar la fogata,\ndel tesoro prohibido,\nbusco el oro.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

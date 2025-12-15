@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quiero borrar tu nombre\ndel mapa de mi piel,\npero el recuerdo vuelve\ncon gusto a miel y hiel.\n\nEl olvido es un muro\nque no puedo escalar,\ny tu sombra me mira\npara hacerme naufragar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

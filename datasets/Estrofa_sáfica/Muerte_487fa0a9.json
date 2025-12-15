@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego consume la prisión del alma,\nqueda la urna con grisácea arena,\nsímbolo frágil de la vida nuestra\ntan ajena.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

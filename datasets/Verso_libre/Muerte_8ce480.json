@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La mano se enfría,\nel pecho se queda quieto.\nEs el momento de soltar,\nde dejar ir la cuerda\ny ver cómo el barco se aleja\nhacia la niebla donde no podemos seguir.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "despedida"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, alma que en la prisa te consumes,\ndetén el paso, escucha los rumores.\nLa Naturaleza, sabia y sin reproche,\nmaestra eterna, rompe nuestra noche.\n\nContempla el árbol, su raíz profunda,\nque al cielo eleva su corteza rotunda,\nmas fruto ofrece y sombra a los que pasan,\nlecciones de dar, que nunca se retrasan.\n\nY mira el mar, inmenso y soberano,\nque con su ritmo canta al ser humano.\nEn su vaivén, la fuerza y la calma encierra,\nel pulso antiguo de la misma tierra.\n\nEl río busca siempre su camino,\nignora el obstáculo, forja su destino.\nLa flor que brota tras la helada cruda,\nde la esperanza el germen nos saluda.\n\nNo es dueña el hombre de tan vasto don,\nsino custodio de su perfección.\nGuardar el bosque, el río y la ladera,\nes la heredad que al futuro se hereda.\n\nAsí, al vivir con ojos y con mente,\nel mundo es aula que nos hace vidente.\nHonra la vida, su ciclo y su belleza,\ny hallarás paz, y eterna gentileza.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "mar"
+  }
+}

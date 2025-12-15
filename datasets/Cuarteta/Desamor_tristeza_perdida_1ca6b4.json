@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El silencio grita tu partida atroz,\nun eco mudo en la habitación,\nes el final de nuestra propia voz,\nla muerte lenta de mi ilusión.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

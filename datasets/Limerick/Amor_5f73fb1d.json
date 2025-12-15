@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un alma que amó con pasión,\nSintió en su vida una bendición.\nQuiso tener\nSu dulce ser,\nY un tierno abrazo le dio al corazón.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

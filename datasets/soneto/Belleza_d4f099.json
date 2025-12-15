@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mapa de la vida vivida,\ncon sus valles y sus colinas,\nlas risas y las espinas,\nque dejaron su huella medida.\n\nEn los ojos la luz prendida,\nventanas a luces divinas,\ny en la boca las purpurinas,\nde la palabra querida.\n\nNo hay paisaje más hermoso,\nque una cara amada y fiel,\nun refugio caluroso.\n\nMás dulce que la miel,\ny más suave que el reposo,\nes mirar esa piel.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

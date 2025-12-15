@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Quien vive a espada, a espada muere,\nes la ley antigua de la violencia;\nusa la fuerza con inteligencia,\ny solo cuando el bien lo requiere.\nLa mejor victoria es la paz,\nsin necesidad de antifaz.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

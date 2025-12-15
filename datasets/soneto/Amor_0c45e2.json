@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Guardo tu nombre escrito en mis adentros,\ndonde nadie lo puede profanar,\nen un altar difícil de encontrar\nlejos de los mundanos y sus centros.\n\nSon nuestros clandestinos los encuentros,\nmiradas que se cruzan al pasar,\npromesas que no hay que pronunciar,\nsilencios que son dulces y son neutros.\n\nAmor secreto que en la sombra crece,\nmás fuerte por ser fruto prohibido,\nque al alma satisface y enriquece.\n\nAunque al mundo parezca que he perdido,\nmi corazón en ti se fortalece,\ny en tu secreto amor haya sentido.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

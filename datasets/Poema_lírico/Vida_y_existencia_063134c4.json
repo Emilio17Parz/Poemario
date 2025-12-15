@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un camino,\nque se hace al andar,\nsin poder regresar,\nal punto del destino.\nEs un viaje divino,\nque debemos honrar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "camino"
+  }
+}

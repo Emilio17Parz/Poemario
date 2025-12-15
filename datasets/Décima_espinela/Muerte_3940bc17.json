@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Me mira la calavera\ncon su sonrisa vacía,\nburlando la vida mía\nde una forma sincera.\nDice que en la espera\ntodos somos iguales,\nque no valen caudales\nni la fama ni el poder,\nque vamos a caer\nen los mismos umbrales.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "hueso"
+  }
+}

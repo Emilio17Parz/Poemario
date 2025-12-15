@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La rosa del jardín,\ntiene un color carmín,\nque me recuerda a tu boca,\nque mi deseo provoca,\nde principio a fin.\n\nSuena el violín,\nla rosa del jardín.\n\nEres el querubín,\nde mi festín,\nque con amor me toca,\ny me vuelve loca,\ncomo un espadachín.\nLa rosa del jardín.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

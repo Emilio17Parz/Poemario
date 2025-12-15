@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El mar de hielo es mi tumba,\nla blanca y cruel extensión.\nLa nave se derrumba\nsin ninguna opción.\n\nPero el corazón arde,\ncon fuego sin igual,\nla fuerza que me guarde\ndel duro mal.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "hielo"
+  }
+}

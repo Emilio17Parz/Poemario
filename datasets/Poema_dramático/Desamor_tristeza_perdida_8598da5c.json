@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "PADRE: Mira la silla, aún está su plato.\nMADRE: No lo mires, me llena de frío.\nPADRE: No puedo ignorar este gran vacío,\nes un dolor que me mata a cada rato.\nLa casa es grande, pero sin su risa,\nes un mausoleo donde el tiempo pisa.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

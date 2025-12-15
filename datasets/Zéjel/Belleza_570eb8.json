@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Pinta el pintor,\ncon gran amor.\n\nCuadro divino,\nbuen destino,\ntan fino,\nsu color.\nPinta el pintor,\ncon gran amor.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "arte"
+  }
+}

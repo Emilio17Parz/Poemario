@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Pagas por si te mueres,\nuna apuesta singular,\ndejas ricos a los seres,\nque te van a enterrar.\nVales más muerto que vivo,\ndice el recibo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Seguro"
+  }
+}

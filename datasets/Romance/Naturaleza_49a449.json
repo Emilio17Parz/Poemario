@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ya despuntan los albores\npintando el cielo de grana,\nse despiertan los colores\nal toque de la mañana.\nEl sol asoma su frente\npor la lejana ventana,\ny el gallo canta su bando\ncon su voz soberana.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

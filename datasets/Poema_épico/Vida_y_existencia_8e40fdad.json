@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cronos devora a sus hijos,\nel tiempo no tiene piedad,\nconsume la realidad,\ny rompe los acertijos.\nNo valen los escondrijos,\nante su autoridad,\nla vida es brevedad,\ny momentos prolijos.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

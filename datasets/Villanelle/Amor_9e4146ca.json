@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te amaré siempre, más allá del tiempo,\naunque los astros dejen de brillar,\ny se deshaga el leve contratiempo.\n\nEres la calma y eres el templo,\ndonde mi alma quiere reposar,\nte amaré siempre, más allá del tiempo.\n\nYo soy tu sombra y soy tu ejemplo,\nde lo que un hombre puede entregar,\ny se deshaga el leve contratiempo.\n\nCada caricia que yo contemplo,\nes una joya del hondo mar,\nte amaré siempre, más allá del tiempo.\n\nSi viene el viento yo no destemplo,\npues tu calor me sabe abrigar,\ny se deshaga el leve contratiempo.\n\nNuestra promesa no es pasatiempo,\nes la verdad que voy a gritar,\nte amaré siempre, más allá del tiempo,\ny se deshaga el leve contratiempo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

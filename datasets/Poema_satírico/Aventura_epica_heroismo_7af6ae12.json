@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Buscas la eterna gloria,\nen un juego de memoria.\nMataste al dragón virtual,\ny te crees muy especial.\nSal a la calle, valiente,\ny enfréntate a la gente.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

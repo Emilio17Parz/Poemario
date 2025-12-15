@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es frágil, un cristal que se va a romper (A),\nque el tiempo no espera, sin avisar (B),\nla forma que se pierde, sin querer (A).\n\nNo hay más que amar, no hay más que sanar (B),\nla fuerza que impulsa mi fiel corazón (C),\nla vida que sabe volar (B).\n\nMi alma se llena de gran razón (C),\nel eterno canto, la voz sin igual (D),\nla única y dulce lección (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Frágil"
+  }
+}

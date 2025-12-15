@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa el cuerpo en la fría tumba,\nlejos del ruido de la ciudad,\nmientras el mundo gira y retumba.\n\nEl paso del tiempo todo derrumba,\npero aquí reina la soledad,\ndescansa el cuerpo en la fría tumba.\n\nYa no hay festejo, ni baile, ni rumba,\nsolo la paz de la eternidad,\nmientras el mundo gira y retumba.\n\nLa oscuridad al fin nos sucumba,\nen esta casa de la verdad,\ndescansa el cuerpo en la fría tumba.\n\nNadie a la muerte jamás tumba,\nella nos gana con potestad,\nmientras el mundo gira y retumba.\n\nBajo la tierra que se comba,\nduerme sin sueño ni voluntad,\ndescansa el cuerpo en la fría tumba,\nmientras el mundo gira y retumba.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

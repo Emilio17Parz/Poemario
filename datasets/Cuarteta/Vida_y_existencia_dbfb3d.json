@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Despertar del sueño que no termina,\nla vida es un ciclo de luz y dolor,\nla voluntad que al ser se ilumina,\nes el motor de nuestro valor.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Sueño"
+  }
+}

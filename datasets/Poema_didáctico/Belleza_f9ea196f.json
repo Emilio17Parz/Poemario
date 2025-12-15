@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No esperes sentada a la musa,\nque la inspiración te encuentre trabajando;\nsolo el esfuerzo va transformando,\nla idea que en la mente es confusa.\nEl genio es paciencia y sudor,\nmás que un divino resplandor.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "musa"
+  }
+}

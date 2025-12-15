@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cantan los bardos la gran hazaña,\ndel que venció al gigante cruel,\nsu fama cruza la montaña,\ncomo dulce y eterna miel.\nHechos que quedan en la memoria,\ntejiendo los hilos de la historia.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Gesta"
+  }
+}

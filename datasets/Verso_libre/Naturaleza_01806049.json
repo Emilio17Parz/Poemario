@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El vasto aliento del mundo\nse eleva desde las cumbres dormidas,\ndonde el silencio, un manto de escarcha,\ncubre la herida del tiempo.\nRíos que son venas de la tierra,\ntallan el granito con un canto antiguo,\nllevando el murmullo de mil inviernos\nhacia el abrazo salado del mar.\n\nEl sol, una moneda de oro fundido,\nse derrama sobre valles secretos,\ndespertando el musgo en la roca pulida,\nel suspiro del viento entre los pinos.\nY en la grieta de la existencia,\nentre el rumor de las hojas caídas,\nuna pequeña **flor**, de pétalos tímidos,\ndespliega su asombro púrpura,\nun pulso vibrante en la quietud salvaje.\n\nNubes, pastores errantes,\ndibujan sombras que bailan sobre el llano,\nmientras el aroma a tierra mojada\nasciende como una oración.\nTodo es un eco, una memoria,\nla danza incesante de nacer y morir,\nun poema eterno escrito en el aire,\nen la inmensa, indómita voz de la naturaleza.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "flor"
+  }
+}

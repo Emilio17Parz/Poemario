@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "MARINERO: Capitán, solo vemos agua y cielo.\nCAPITÁN: Sigue el rumbo, no pierdas la fe.\nMARINERO: Temo que nunca la tierra veré.\nCAPITÁN: Este viaje es nuestro gran anhelo.\nDescubrir mundos o el fondo del mar,\nes el destino de navegar.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

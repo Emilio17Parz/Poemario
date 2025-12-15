@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Queda el recuerdo,\nsi no me pierdo.\n\nEn la memoria,\nde nuestra historia,\ny de la gloria,\ndel hombre cuerdo.\n\nQueda el recuerdo,\nsi no me pierdo.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

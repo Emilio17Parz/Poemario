@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Historia vieja,\nque el pueblo cuenta,\nque aumenta,\ny deja.\nHuella en el tiempo,\ndel contratiempo.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

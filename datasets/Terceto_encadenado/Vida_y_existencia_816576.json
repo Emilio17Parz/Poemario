@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Construye el puente que cruza el dolor (A),\na la otra orilla, la paz y la fe (B),\nla vida es un paso, sin un error (A).\n\nLa fuerza que ayuda a mi alma a crecer (B),\nel alma que vuela, sin un final (C),\nla forma de no volver a caer (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en él hallar la fe (D),\nla eterna y dulce verdad total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Puente"
+  }
+}

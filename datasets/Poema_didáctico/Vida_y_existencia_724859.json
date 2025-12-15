@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Eres dueño de tus actos,\ny de sus consecuencias,\ncumple los pactos,\ny las sentencias.\nNo culpes al destino,\nde tu propio camino.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Responsabilidad"
+  }
+}

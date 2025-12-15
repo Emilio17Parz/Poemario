@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Duele la piel al tratar de crecer,\nromper la forma para crecer.\n\nDejar lo seguro y saltar al vacío,\nriesgo necesario para crecer.\n\nLa oruga se muere y nace la flor,\neterno ciclo de renacer y crecer.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "crecer"
+  }
+}

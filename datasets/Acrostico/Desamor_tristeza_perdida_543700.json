@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lágrimas en la cara,\nLavan la triste piel.\nAmargura que no para,\nNaciendo de la hiel.\nTristeza que separa,\nOlvido en el papel.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "LLANTO"
+  }
+}

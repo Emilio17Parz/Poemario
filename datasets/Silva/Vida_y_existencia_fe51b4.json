@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hoy es hoy,\ny no hay más,\nni detrás,\ndonde voy.\nYo te doy,\nmi vivir,\nal sentir,\nlo que soy.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "presente"
+  }
+}

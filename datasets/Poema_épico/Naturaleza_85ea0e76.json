@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Eolo suelta los cuatro vientos,\nque azotan las velas y los mares,\nderribando casas y altares,\ncon sus invisibles alientos.\nSon fuerzas sin sentimientos,\nque viajan por mil lugares,\ncausando mil pesares,\ny épicos desplazamientos.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

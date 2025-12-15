@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "ESCULTOR: Sobra la piedra, la forma está dentro.\nAPRENDIZ: ¿Cómo sabéis dónde dar el golpe?\nESCULTOR: No soy yo quien a la roca rompe,\nes la belleza buscando su centro.\nLibero la forma que estaba presa,\ny esa es toda mi gran empresa.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "forma"
+  }
+}

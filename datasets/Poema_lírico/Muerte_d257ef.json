@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El adiós no fue un grito,\nfue un susurro del viento.\nLa lágrima no un rito,\nsino un solo lamento.\n\nSe fue sin hacer ruido,\ncomo la luz al mar,\ndejando el oído\ncon ganas de nombrar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

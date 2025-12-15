@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vinieron a robar ganado,\ncuatreros de mala calaña,\npero usamos la maña,\ny el valor del poblado.\n\nHuyeron al otro lado,\nal ver nuestra unión,\nsin llevarse un vellón,\ndel rebaño sagrado.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "ladrones"
+  }
+}

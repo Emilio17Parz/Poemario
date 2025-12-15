@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Escamas de fuego y ojos de oro,\nguardián de tesoros ancestrales,\nque duermes en cuevas abismales\ny ruges con un eco sonoro.\n\nEres el mito que yo rememoro,\nla bestia de fuerzas colosales,\nque reta a los hombres mortales\na buscar su destino y su aforo.\n\nEnfrentarte es la prueba suprema,\nvencer al miedo en su encarnación,\ny resolver el vital dilema.\n\nEl dragón es la condenación,\npero también el eterno tema\nde la épica y la salvación.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

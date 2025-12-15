@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cada paso marca una memoria,\nAndando hacia el fin del horizonte,\nMientras escribimos nuestra historia.\nIncierto sendero hacia el monte,\nNunca segura la victoria,\nOndeando la bandera bifronte.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "camino"
+  }
+}

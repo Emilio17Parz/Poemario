@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El Prado sin flores muere,\nsin un poco de calor,\ny mi alma ya se hiere,\nsin tu dulce fulgor.\n\nTe fuiste con la primavera,\nme dejaste sola allí,\ny mi vida es una hoguera,\nsin tu dulce sí.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Prado"
+  }
+}

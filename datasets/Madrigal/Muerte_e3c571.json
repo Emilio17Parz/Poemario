@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se apaga la candela,\nla vida se termina en un suspiro;\nlo último que miro,\ncomo una tela.\nSe cierra el ciclo de la carne humana,\nhoy o mañana.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "final"
+  }
+}

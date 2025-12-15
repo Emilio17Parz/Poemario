@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida un día llega a su fin,\nel alma se va, se deshace el festín.\nNo hay vuelta atrás,\nla sombra fugaz,\nyace el cuerpo en su eterno confín.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "fin"
+  }
+}

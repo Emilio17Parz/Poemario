@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu ausencia me devora,\ncada día un poco más.\nMi alma te llora,\ntu ausencia me devora.\nLlegada la hora,\nya no volverás.\nTu ausencia me devora,\ncada día un poco más.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

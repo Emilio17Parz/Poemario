@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta cada noche la gran duda,\n¿he vivido mi vida con valor?,\nla respuesta permanece muda.\n\nSiento a veces un profundo temor,\nde haber perdido el tiempo en tonterías,\nsin haber conocido el amor.\n\nY haber gastado mal mis días.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "duda"
+  }
+}

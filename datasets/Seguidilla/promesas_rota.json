@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "promesas rota",
   "poema": {
     "texto": "Cae la promesa\\ndesde tus labios\\nqueda en el aire\\ncomo ceniza",

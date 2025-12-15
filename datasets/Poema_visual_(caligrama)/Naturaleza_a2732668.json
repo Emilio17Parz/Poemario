@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "S\n e\n  r\n   p\n  e\n n\n  t\n   e\n    de\n   agua",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "río"
+  }
+}

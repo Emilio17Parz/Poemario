@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Entre los juncos te robé un beso,\nmientras las ovejas nos miraban,\ny las aguas del Tajo murmuraban,\nviendo a mi corazón quedar preso.\n\nFue dulce el fruto de aquel momento,\nun pacto sellado en la naturaleza,\ndonde juramos con gran firmeza,\namarnos contra marea y viento.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "beso"
+  }
+}

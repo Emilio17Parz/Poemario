@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Queda del cuerpo la gris ceniza,\npolvo ligero la gris ceniza.\n\nFuego consume la carne y el hueso,\nlo vuelve todo gris ceniza.\n\nEn una urna reposa la vida,\nreducida a nada, a gris ceniza.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

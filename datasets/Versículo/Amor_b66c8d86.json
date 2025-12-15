@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "He mirado a través de tus ojos y he visto la profundidad insondable de tu alma.\nAllí donde no llega la luz del sol, brilla tu esencia con claridad divina.\nNuestras almas se reconocen como viajeras de un mismo camino sideral.\nNo somos dos cuerpos que se abrazan, sino dos espíritus que regresan a casa.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "alma"
+  }
+}

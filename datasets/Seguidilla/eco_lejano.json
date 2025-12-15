@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "eco lejano",
   "poema": {
     "texto": "Vuelve el eco\\ndesde los cerros\\ndice mi nombre\\nsin tener rostro",

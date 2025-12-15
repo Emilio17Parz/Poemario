@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La soledad es mi amiga\ncuando se esconde el sol,\nme cuenta penas antiguas\na la luz del farol.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

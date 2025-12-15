@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Máscara de cartón,\nque protege al ser.\nFalsa ilusión,\nde tener poder.\n\nQue protege al ser,\nmiedo a ser visto.\nDe tener poder,\nyo no resisto.\n\nMiedo a ser visto,\nfalsa ilusión.\nYo no resisto,\nmáscara de cartón.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ego"
+  }
+}

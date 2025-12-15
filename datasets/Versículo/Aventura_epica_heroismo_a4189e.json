@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sus muros de piedra se alzan como un desafío contra el tiempo, guardando secretos de reyes muertos y conspiraciones olvidadas.\nDesde la torre más alta, el mundo parece un tablero de ajedrez donde peones y reinas se mueven según la voluntad del destino.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "castillo"
+  }
+}

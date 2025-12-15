@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Cada recuerdo es una espina atroz,\nclavada en la carne del corazón,\nel eco amargo de tu última voz,\nsin hallar consuelo, sin razón.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Espina"
+  }
+}

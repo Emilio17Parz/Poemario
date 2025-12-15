@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nace el dorado sol,\npor el oriente lejano,\ndando calor a la tierra.\nSe acaba la fría guerra,\nde la noche y sus sombras,\ny despierta el color.\n\nDespierta el color,\ngracias al sol,\nque tú nombras.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "sol"
+  }
+}

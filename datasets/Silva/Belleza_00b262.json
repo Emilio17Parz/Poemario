@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Oro y plata,\nque deslumbran,\ny alumbran,\nla fogata.\nSe desata,\nla codicia,\ny malicia,\nque mata.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "joya"
+  }
+}

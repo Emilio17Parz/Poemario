@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Gota de luto\nresbala lenta\npena negra\ndolor líquido\nmancha la cara\nllanto amargo\ndel adiós.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

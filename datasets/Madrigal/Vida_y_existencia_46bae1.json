@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Volar sin tener alas,\nescapar de la cruda realidad;\ncon gran libertad,\nvestir de galas.\nLos sueños son refugio de la mente,\ntan diferente.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

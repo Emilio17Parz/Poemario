@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Revisas mi celular,\ncomo agente de la CIA,\nbuscando alguna uía,\npara poderme culpar.\nSi le doy a 'me gusta' al bar,\nya montas la algarabía,\ntu amor es la policía,\nque me quiere encarcelar.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "celos"
+  }
+}

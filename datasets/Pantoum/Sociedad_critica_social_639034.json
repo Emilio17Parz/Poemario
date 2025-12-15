@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La balanza está inclinada,\nhacia el lado del poder.\nLa verdad es ignorada,\nsolo importa el tener.\n\nHacia el lado del poder,\nse inclina el mazo fuerte.\nSolo importa el tener,\ncondenando a la suerte.\n\nSe inclina el mazo fuerte,\nla verdad es ignorada.\nCondenando a la suerte,\nla balanza está inclinada.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

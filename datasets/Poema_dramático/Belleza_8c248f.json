@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[EL POETA]\nLa palabra no es un sonido. Es la flecha que atraviesa la mentira del silencio.\nHe luchado cien días por el adjetivo exacto, por la métrica justa.\nSi logro una línea perfecta, habré creado un instante de belleza eterna.\nLa poesía no se escribe, se sangra. Y el verso, es mi única victoria.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "palabra"
+  }
+}

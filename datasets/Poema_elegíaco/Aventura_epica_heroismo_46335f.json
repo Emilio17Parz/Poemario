@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El destino me dijo que yo era el elegido para ser el gran campeón fiel,\ny solo hallé la ruina con sabor amargo a hiel.\nLa profecía fue la burla de un dios cruel y sin razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la gloria que mi alma no pudo obtener jamás al final sin voz,\ny mi ser es la esclava de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "destino"
+  }
+}

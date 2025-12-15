@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Suenan las cuerdas del arpa\ncon un sonido de cielo,\nque calma las fieras bestias\ny les quita el desconsuelo.\nLa música es el idioma\nque rompe el duro hielo,\ny eleva el alma del hombre\nen un invisible vuelo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "música"
+  }
+}

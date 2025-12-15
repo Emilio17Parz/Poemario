@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ELLA: ¿No ves que el barco ya levanta el ancla?\nÉL: Lo veo, amor, y el alma se me arranca.\nELLA: Prométeme que volverás un día.\nÉL: Volveré, te lo juro, vida mía.\nELLA: El mar es traicionero y olvida pronto.\nÉL: Más fuerte es mi querer, no seas tonto.\n(Se abrazan mientras suena la sirena)\nELLA: ¡Vete ya, que me matas con la pena!",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

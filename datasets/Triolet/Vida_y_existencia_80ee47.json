@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Persigue tu meta,\nCon mucha pasión,\nComo un poeta.\nPersigue tu meta,\nEn la libreta,\nDe la acción.\nPersigue tu meta,\nCon mucha pasión.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "meta"
+  }
+}

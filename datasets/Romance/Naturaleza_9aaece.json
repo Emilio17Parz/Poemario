@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se puso el cielo de plomo\ny el trueno rompió el espacio,\nel rayo bajó con furia\nsobre el antiguo palacio.\nLa naturaleza grita\ncon su poder y reacio,\nmientras el hombre se esconde\ncaminando muy despacio.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

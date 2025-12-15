@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piedra sobre piedra buscando altura,\narmonía de líneas y de espacios,\nen palacios,\ndonde reina el orden y la estructura.\nEl hombre deja su huella en el suelo,\ncon celo,\nconstruyendo belleza duradera,\ny verdadera.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "forma"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Eres la musa del pueblo,\nla reina del carnaval,\ncon esa cara bonita\nque no tiene ningún mal.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "musa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La llama que arde en mi ser sin cesar (a),\npor ti yo no tengo ya más que temer (b),\nmi alma te busca sin poder callar (a),\nla fuerza que impulsa mi dulce querer (b),\ntu amor es mi ancla, mi dulce y seguro mar (b),\nsin sombra que quiera mi senda romper (c),\nla vida es la senda que quiero andar (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, la fe que en mi pecho al fin (c'),\nes el eterno y noble jazmín (c'),\nla luz de mi dulce trajín (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Llama"
+  }
+}

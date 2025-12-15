@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Empiezo largo viaje,\ncon poco equipaje.\n\nHacia lo lejano,\npor el océano,\ncomo buen hermano,\ncon mucho coraje.\n\nEmpiezo largo viaje,\ncon poco equipaje.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

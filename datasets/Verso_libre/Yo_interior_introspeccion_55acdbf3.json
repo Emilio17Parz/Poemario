@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Miro al espejo y veo a un desconocido que me devuelve la mirada con ojos cansados.\n¿Quién soy yo en realidad, debajo de las máscaras que uso para el mundo?\nBusco mi rostro verdadero, el que tenía antes de nacer, el que tendré al morir.\nEl espejo no miente, pero tampoco dice toda la verdad, solo refleja la superficie.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La faz que lanzó mil naves,\nal mar Egeo a luchar,\nuna belleza sin par,\nque tenía las llaves.\nDe Troya los graves,\nmuros derrumbar,\ny a reyes matar,\ncon gestos suaves.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Helena"
+  }
+}

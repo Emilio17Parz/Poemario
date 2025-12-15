@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dama invisible y etérea,\nque soplas al oído el verso,\ny conviertes la materia\nen un poema diverso.\nLlegas cuando no te espero,\ny te vas si te busco mucho,\neres el aire ligero\nque en mi cabeza escucho.\nMadre de la inspiración,\nchispa del arte sagrado,\nguía de mi canción\ny del papel manchado.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "musa"
+  }
+}

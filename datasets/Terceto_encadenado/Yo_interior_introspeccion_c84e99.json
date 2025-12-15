@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Cargo con la pena,\nde lo que hice mal,\ny me encadena.\n\nEs un puñal,\nque llevo clavado,\nen lo vital.\n\nDe mi costado.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

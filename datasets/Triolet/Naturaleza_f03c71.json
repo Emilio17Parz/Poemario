@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se abre el pétalo suave,\nMostrando su corazón,\nComo el vuelo de un ave.\nSe abre el pétalo suave,\nEl secreto es la clave,\nDe su fascinación.\nSe abre el pétalo suave,\nMostrando su corazón.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "pétalo"
+  }
+}

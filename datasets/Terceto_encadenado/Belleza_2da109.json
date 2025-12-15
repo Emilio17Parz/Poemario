@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tus ojos son dos luceros,\nque alumbran mi oscuridad,\nmis compañeros sinceros.\n\nReflejan la verdad,\nque guarda tu corazón,\ncon gran intensidad.\n\nY pasión.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "ojos"
+  }
+}

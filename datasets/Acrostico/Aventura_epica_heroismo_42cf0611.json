@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "G anar la eternidad,\nL ourel del vencedor,\nO bra de voluntad,\nR ey del gran esplendor,\nI nsigne calidad,\nA mado luchador.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

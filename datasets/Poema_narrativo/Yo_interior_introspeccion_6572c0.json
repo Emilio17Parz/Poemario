@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Rompió las cadenas de su propia razón,\nDejando ir el miedo, la triste canción.\nLa libertad es el aire que entra por la boca,\nLa elección del ser que a todos nos toca.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

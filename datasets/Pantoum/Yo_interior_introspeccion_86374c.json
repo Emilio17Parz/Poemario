@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Llega la noche,\ny con ella el temor,\nsin un reproche,\nsolo dolor.\n\nY con ella el temor,\na lo desconocido,\nsolo dolor,\nde haber vivido.\n\nA lo desconocido,\nllega la noche,\nde haber vivido,\nsin un reproche.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "noche"
+  }
+}

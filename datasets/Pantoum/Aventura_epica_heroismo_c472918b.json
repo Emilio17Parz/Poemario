@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No busca la vana gloria,\nni el aplauso pasajero,\nsolo quedar en la historia,\ncomo un hombre sincero.\n\nNi el aplauso pasajero,\nle importa al luchador,\ncomo un hombre sincero,\nque demuestra su valor.\n\nLe importa al luchador,\nno busca la vana gloria,\nque demuestra su valor,\nsolo quedar en la historia.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

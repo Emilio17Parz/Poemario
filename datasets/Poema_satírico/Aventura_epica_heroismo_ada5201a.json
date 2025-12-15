@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Soy un aventurero,\ndel mando a distancia,\nviajo por canales,\ncon elegancia.\nNo subo montañas,\nni cruzo el mar,\nmi mayor hazaña,\nes no engordar.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "sofá"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo la piedra fría,\nduerme la alegría,\nde quien vivió ayer,\ny supo querer,\ncon gran valentía.\n\nYa no verás el día,\nni la melancolía,\nal amanecer,\nBajo la piedra.\n\nSolo la compañía,\nde la tierra baldía,\ny el anochecer,\nte van a proteger,\nen tu lejanía,\nBajo la piedra.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuenta el abuelo junto al fuego vivo,\nhistorias viejas de gigante y mago,\nmientras los niños con temor escuchan\nel estrago.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

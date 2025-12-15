@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Santo, Santo, Señor del Universo!\nLos cielos narran tu gran poder,\ntodo lo que es y lo que va a ser,\ncanta tu gloria en cada verso.\n\nTe alabamos, Padre bondadoso,\nfuente de vida y de santidad,\nllena la tierra tu majestad,\neres el único Todopoderoso.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "dios"
+  }
+}

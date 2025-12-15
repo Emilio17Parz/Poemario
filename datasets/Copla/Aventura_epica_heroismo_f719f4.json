@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Acepto el reto\nque me has lanzado,\ny verás que pronto\nquedas derrotado.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "desafío"
+  }
+}

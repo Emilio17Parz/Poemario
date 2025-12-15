@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dime quién es la más bella,\ny el espejo se rompe,\neres una estrella,\nque el cristal corrompe.\nLa verdad duele,\ny el espejo huele.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Espejito"
+  }
+}

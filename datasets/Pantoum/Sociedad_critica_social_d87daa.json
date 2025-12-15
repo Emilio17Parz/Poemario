@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Pájaro en la jaula,\nsueña con volar.\nDesde el aula,\nempieza a soñar.\n\nSueña con volar,\nromper la cadena.\nEmpieza a soñar,\nquitarse la pena.\n\nRomper la cadena,\ndesde el aula.\nQuitarse la pena,\npájaro en la jaula.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

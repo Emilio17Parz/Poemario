@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde prado se extiende sin fin,\nDonde la vida tiene su festín.\n\nLas flores abren con dulce fulgor,\nRegalando al mundo su bello color.\n\nEl río canta su antigua canción,\nLlevando el eco de cada emoción.\n\nCuando el sol se esconde, llega la calma,\nY la brillante **luna** alumbra nuestra alma.\n\nSu luz plateada en el cielo se posa,\nUna joya nocturna, tan silenciosa.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "luna"
+  }
+}

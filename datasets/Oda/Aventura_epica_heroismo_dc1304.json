@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Reino que espero poder ya salvar,\nla patria que el alma debe amar.\nCon fuerza y con fe, sin poder anclar,\nel alma que busca el mar.\n¡Oh, tierra noble, de dulce fulgor,\nme das la fe y el valor!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Reino"
+  }
+}

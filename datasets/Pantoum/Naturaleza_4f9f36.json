@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miran las estrellas frías,\ndesde el abismo negro,\ncuentan historias y días,\ncon un brillo íntegro.\n\nDesde el abismo negro,\nguían al caminante,\ncon un brillo íntegro,\neterno y constante.\n\nGuían al caminante,\ncuentan historias y días,\neterno y constante,\nmiran las estrellas frías.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

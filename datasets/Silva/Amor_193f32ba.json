@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde el fuego voraz,\nque enciende mi deseo incontenible,\ny no me deja en paz,\npues es tan invencible,\neste amor que parece ser terrible.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

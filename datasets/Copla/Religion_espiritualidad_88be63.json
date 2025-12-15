@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dios está en el cielo\ny en la tierra está,\ncuida de nosotros\ny no se nos va.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "dios"
+  }
+}

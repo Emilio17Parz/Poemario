@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el agua,\nhacia la mar,\nsin descansar,\nen su fragua.\nSe desagua,\nen la inmensidad,\ncon libertad,\nque se amagua.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "río"
+  }
+}

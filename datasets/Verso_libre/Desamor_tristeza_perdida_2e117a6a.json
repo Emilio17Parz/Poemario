@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llueve como si el cielo\nquisiera competir con mi tristeza.\nEl agua golpea el cristal\ncon la insistencia de un cobrador.\nNo tengo con qué pagar\nla deuda de tu ausencia.\nSolo tengo esta humedad\nque se me cala en los huesos.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

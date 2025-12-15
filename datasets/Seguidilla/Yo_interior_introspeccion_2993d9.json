@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Dudo de todo,\nlo que es,\nal revés,\ndel ser.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "todo"
+  }
+}

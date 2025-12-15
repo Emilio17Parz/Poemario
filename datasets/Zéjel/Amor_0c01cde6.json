@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Me ata tu lazo,\ny busco tu abrazo.\n\nNo me dejes ir,\nsin ti voy a morir,\nno quiero sufrir,\nni un solo rechazo.\n\nMe ata tu lazo,\ny busco tu abrazo.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "lazo"
+  }
+}

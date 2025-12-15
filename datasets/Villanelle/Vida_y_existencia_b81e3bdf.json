@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Divino tesoro perdido,\nque te marchas para no volver,\ndejando el pecho herido.\n\nFuiste el tiempo más querido,\nlleno de fuerza y de poder,\ndivino tesoro perdido.\n\nTodo lo que he vivido,\nte lo debo a tu querer,\ndejando el pecho herido.\n\nAhora que te has ido,\nsolo me queda el ayer,\ndivino tesoro perdido.\n\nMe siento envejecido,\nal ver tu luz desaparecer,\ndejando el pecho herido.\n\nAdiós al sueño vivido,\nque nunca ha de renacer,\ndivino tesoro perdido,\ndejando el pecho herido.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "juventud"
+  }
+}

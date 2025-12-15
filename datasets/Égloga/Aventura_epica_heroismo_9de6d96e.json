@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "TIRSIS: ¿Qué es el honor del que tanto hablan\nallá en las cortes de reyes lejanos?\nDAMÓN: Mancharse de sangre las propias manos,\nmientras las leyes los ricos entablan.\nHonor es vivir con la frente en alto,\nsin dar a nadie injusto asalto.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "honor"
+  }
+}

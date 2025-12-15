@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La verdad no está escrita,\nes el silencio fiel.\nLa vida que me quita\nel sabor a hiel.\n\nEs la simple certeza\nde mi única edad,\nla dulce belleza\nsin ninguna piedad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

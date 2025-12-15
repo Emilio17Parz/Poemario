@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Guardo en el alma un oculto secreto,\nque a nadie nunca me atreví a contar,\nun viejo sueño que no supe amar\ny que dejó mi vivir incompleto.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

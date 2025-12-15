@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Diez años vagó,\npor el mar vinoso,\ncon rumbo dudoso,\ny todo aguantó.\nCíclopes y sirenas,\nbrujas y vientos,\nmil sufrimientos,\ny muchas penas.\nLlegó a su hogar,\npara descansar.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

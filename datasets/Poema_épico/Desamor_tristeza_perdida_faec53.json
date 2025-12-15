@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Aquí yace el templo que juntos alzamos,\ncolumnas rotas por el rayo cruel,\nlos himnos sagrados que ayer cantamos,\nhoy son silencio, ceniza y hiel.\nCamino entre ruinas de un imperio dorado,\nun rey mendigo, por ti olvidado.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Ruinas"
+  }
+}

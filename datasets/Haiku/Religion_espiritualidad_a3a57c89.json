@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Soltar la carga,\nlimpiar el corazón,\nsanar el mal.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

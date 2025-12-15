@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche se hace eterna sin tu abrazo,\ny mis cansados ojos parpadean,\nbuscando el fin de este embarazo.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "noche"
+  }
+}

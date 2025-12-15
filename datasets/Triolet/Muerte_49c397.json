@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Emprendes la partida,\nHacia lo desconocido,\nDejando la vida.\nEmprendes la partida,\nLa luz encendida,\nSe ha perdido.\nEmprendes la partida,\nHacia lo desconocido.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "partida"
+  }
+}

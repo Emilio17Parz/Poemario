@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Templo perfecto, forma ideal,\ncuerpo humano, obra maestra,\nque la destreza nos demuestra,\nde la mano sobrenatural.\n\nEn cada gesto y movimiento,\nhay una danza de perfección,\ndigna de nuestra admiración,\ny de este lírico monumento.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "cuerpo"
+  }
+}

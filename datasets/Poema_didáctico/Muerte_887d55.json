@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte da sentido a la vida,\nporque pone un final,\nhaz que la partida,\nno sea fatal.\nEscribe tu libro bien,\nhasta el último amén.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Sentido"
+  }
+}

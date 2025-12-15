@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mármol blanco que finge vida,\ntallado por mano genial,\nforma perfecta y detenida.\n\nQueda la pose suspendida,\nen un gesto intemporal,\nmármol blanco que finge vida.\n\nBelleza fría y contenida,\nsobre el frío pedestal,\nforma perfecta y detenida.\n\nLa emoción es transmitida,\npor la piedra natural,\nmármol blanco que finge vida.\n\nNunca será envejecida,\nni sufrirá ningún mal,\nforma perfecta y detenida.\n\nEternamente erguida,\nen su silencio total,\nmármol blanco que finge vida,\nforma perfecta y detenida.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dame la mano, hijo mío,\nque se me escapa el aliento,\nsiento el frío de la parca\ny el rugido del gran viento.\nCuida de tu madre anciana\ny no tengas sufrimiento,\nque yo me voy tranquilo\na mi eterno aposento.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "despedida"
+  }
+}

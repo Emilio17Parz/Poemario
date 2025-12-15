@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Férreo deseo de lograr la meta,\nnada detiene al ánimo que quiere,\nni la tormenta que a su paso hiere,\nfuerza del ser.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "voluntad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Largo es el viaje,\ncon equipaje.\n\nCruzo la tierra,\ny la sierra,\nsin la guerra,\nni el peaje.\n\nLargo es el viaje,\ncon equipaje.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

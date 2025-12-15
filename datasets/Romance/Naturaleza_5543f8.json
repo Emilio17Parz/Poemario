@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las hojas se vuelven oro\ny caen al suelo vencidas,\nel viento las arremolina\nen danzas enloquecidas.\nEl otoño trae nostalgia\nde las horas ya vividas,\ny prepara a la tierra\npara las nieves temidas.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

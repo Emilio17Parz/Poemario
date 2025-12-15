@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Contigo es un sueño real,\nVivir cada día feliz,\nUn cuento que no tiene final.\nContigo es un sueño real,\nUn sentimiento total,\nQue sana mi cicatriz.\nContigo es un sueño real,\nVivir cada día feliz.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "feliz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Belleza pura, don que Dios nos lega,\nEn cada flor, en cada amanecer,\nSe manifiesta el mágico placer,\nQue al alma inquieta sin tardanza llega.\n\nDe un astro lejano la luz ciega,\nO el mar furioso que nos hace creer,\nQue en cada instante hay algo que ver,\nY que a la vida con amor nos pega.\n\nMás allá del efímero fulgor,\nQue el tiempo cruel pretende marchitar,\nExiste un arte puro, sin error.\n\nQue el ojo interno puede contemplar,\nEl alma eterna, su íntimo valor,\nDonde reside el máximo esplendor.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

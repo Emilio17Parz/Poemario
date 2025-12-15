@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cruzaste el río final,\nhacia la otra orilla.\nDonde brilla,\nla luz celestial.\n\nNada mal,\nla maravilla.\nCruzaste el río final,\nhacia la otra orilla.\n\nEs vital,\nla semilla.\nSencilla,\ny especial.\nCruzaste el río final.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "río"
+  }
+}

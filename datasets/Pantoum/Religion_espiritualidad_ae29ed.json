@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Soltar la cadena,\nlimpiar el rencor.\nSanar la pena,\ncon mucho amor.\n\nLimpiar el rencor,\nliberar el peso.\nCon mucho amor,\ndar un regreso.\n\nLiberar el peso,\nsanar la pena.\nDar un regreso,\nsoltar la cadena.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

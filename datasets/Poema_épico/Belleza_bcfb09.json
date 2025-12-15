@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Nacida de espuma y de mar,\ndiosa del amor y la forma,\ntodos te quieren adorar,\nrompiendo cualquier norma.\nCurvas perfectas, rostro ideal,\nbelleza pura y celestial.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Venus"
+  }
+}

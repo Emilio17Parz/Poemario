@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Rueda la bola de la fortuna ciega,\nhoy te levanta y mañana te derriba,\na nadie se le niega\nuna caída desde arriba.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "azar"
+  }
+}

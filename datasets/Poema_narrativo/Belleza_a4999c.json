@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Él vio su cara al sol, sin un solo error,\nLos ojos eran mares de puro color.\nEl rostro era un poema que se escribía solo,\nLa belleza que no necesita farol.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

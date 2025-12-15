@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Invisible y poderoso,\nmueve las hojas verdes.\nSoplo misterioso,\nnunca te pierdes.\n\nMueve las hojas verdes,\nsilba su canción.\nNunca te pierdes,\nen cada rincón.\n\nSilba su canción,\nsoplo misterioso.\nEn cada rincón,\ninvisible y poderoso.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "viento"
+  }
+}

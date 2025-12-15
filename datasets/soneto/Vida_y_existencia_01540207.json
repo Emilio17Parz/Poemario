@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se suman los años en la mirada,\ny cada cicatriz cuenta una historia,\nun triunfo, un error, una victoria,\no una batalla triste y malograda.\n\nLa piel se vuelve mapa y enramada\nde todo lo guardado en la memoria,\ny deja de importar la vanagloria\nante la sabiduría ganada.\n\nLa experiencia es el faro del anciano,\nque ya no corre, pero sabe andar,\ny tiende con firmeza su mano.\n\nEs el tesoro que ha de perdurar,\nel fruto del esfuerzo cotidiano,\nque nadie nunca nos podrá robar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "experiencia"
+  }
+}

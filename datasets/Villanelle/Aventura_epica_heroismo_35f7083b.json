@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Monta su fiel caballo,\nvestido de plata y acero,\npresto para el vasallo.\n\nNo teme al rayo,\nes un noble guerrero,\nmonta su fiel caballo.\n\nJamás comete un fallo,\nen el sendero,\npresto para el vasallo.\n\nAunque sufra desmayo,\nsigue certero,\nmonta su fiel caballo.\n\nSu honor yo subrayo,\ncomo el primero,\npresto para el vasallo.\n\nCanta el gallo,\nal aventurero,\nmonta su fiel caballo,\npresto para el vasallo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "caballero"
+  }
+}

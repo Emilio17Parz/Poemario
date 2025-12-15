@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La tierra es de quien la trabaja,\nno del señor que la hereda.\nQue la rueda\nno se rebaja.\nQuien se faja\nes quien se queda.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "señor"
+  }
+}

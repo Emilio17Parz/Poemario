@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi Alma te extraña tanto,\nque no puedo ya vivir,\ny solo encuentro el quebranto,\nsin un solo porvenir.\n\nTe llevaste mi alegría,\nmi paz y mi valor,\ny ahora soy solo agonía,\nsin tu dulce amor.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

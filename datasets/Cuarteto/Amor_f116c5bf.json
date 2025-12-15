@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la llama de la gran pasión,\nen este pecho que por ti suspira,\nmientras el alma tu bondad admira\ny pierde el juicio y la total razón.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

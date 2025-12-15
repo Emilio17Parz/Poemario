@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Reina del jardín, roja y fragante,\nde pétalos de seda construida,\nque guardas la belleza de la vida\nen tu corola tierna y elegante.\n\nMas tienes la defensa vigilante,\nla espina que protege la herida,\ny advierte a la mano atrevida\nque el dolor es del gozo acompañante.\n\nEfímera hermosura que marchita,\nsímbolo del amor y la pasión,\nque al ojo y al olfato solicita.\n\nEn ti se ve la doble condición:\nla gracia que a todos nos invita,\ny el breve tiempo de tu perfección.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

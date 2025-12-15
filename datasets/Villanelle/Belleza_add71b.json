@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte muestra la luz del alma,\nque el hombre logra al fin crear,\ny nos devuelve la dulce calma.\n\nEs un espejo para mirar,\nlo que la vida nos desalma,\nel arte muestra la luz del alma.\n\nCon el color y con la palma,\nsabe el espíritu elevar,\ny nos devuelve la dulce calma.\n\nSu belleza siempre nos ensalma,\ny nos invita a recordar,\nel arte muestra la luz del alma.\n\nAunque el destino a veces empalma,\nel sufrimiento y el penar,\ny nos devuelve la dulce calma.\n\nEs la victoria que se empalma,\ncon el deseo de soñar,\nel arte muestra la luz del alma,\ny nos devuelve la dulce calma.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "arte"
+  }
+}

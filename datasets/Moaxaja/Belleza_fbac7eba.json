@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Viva el arte,\nque se reparte.\n\nPinta el color,\ncon mucho amor,\ny sin dolor,\nen su parte.\n\nViva el arte,\nque se reparte.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "arte"
+  }
+}

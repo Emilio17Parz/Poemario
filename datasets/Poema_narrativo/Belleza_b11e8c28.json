@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Saltó el muro viejo,\ny encontró el lugar,\ndonde el tiempo al pasar,\ndejó su reflejo.\nFlores de mil colores,\nfuentes de cristal,\nun mundo ideal,\nlejos de dolores.\nSe quedó allí a vivir,\npara no sufrir.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "descubrimiento"
+  }
+}

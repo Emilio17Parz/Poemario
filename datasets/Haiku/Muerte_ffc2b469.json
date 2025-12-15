@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuego y luego,\npolvo gris en el viento,\nnada más queda.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

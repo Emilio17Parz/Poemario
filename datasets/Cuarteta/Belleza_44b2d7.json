@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La forma del cuerpo, la gracia en el gesto,\nel alma visible en el respirar,\nes el más noble, el más honesto,\nmodo de sentir y de amar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Cuerpo"
+  }
+}

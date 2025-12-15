@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Puso piedra sobre piedra,\nlevantando un muro alto,\nsin descanso y sin salto,\nmientras crecía la hiedra.\nPasó la vida en la obra,\nconstruyendo su castillo,\nsin disfrutar del brillo,\nque el sol al mundo cobra.\nAl final quedó solo,\ndueño de un mausoleo.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "obra"
+  }
+}

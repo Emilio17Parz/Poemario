@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Notas que vibran en el aire,\nmelodía que toca el alma.\nBailan con gracia y donaire,\ntrayendo al caos la calma.\n\nMelodía que toca el alma,\nritmo que marca el latido.\nTrayendo al caos la calma,\nsonido jamás perdido.\n\nRitmo que marca el latido,\nnotas que vibran en el aire.\nSonido jamás perdido,\nbailan con gracia y donaire.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "música"
+  }
+}

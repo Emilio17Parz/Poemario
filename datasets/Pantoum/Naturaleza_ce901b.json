@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pétalos de mil colores,\nabren al amanecer.\nDulces olores,\npara renacer.\n\nAbren al amanecer,\nregalo de primavera.\nPara renacer,\nde forma sincera.\n\nRegalo de primavera,\ndulces olores.\nDe forma sincera,\npétalos de mil colores.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "flor"
+  }
+}

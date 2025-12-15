@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La chispa que a la nada se subleva,\nun viaje incierto, una pasión fugaz,\nla duda que el espíritu no ceba.\n\nUn viaje incierto, una pasión fugaz,\n¿Qué somos, sino un eco, un breve sueño?\nque busca un rumbo en el hondo compás.\n\n¿Qué somos, sino un eco, un breve sueño?\nLa conciencia que surge y luego muere,\nsin saber si es ajeno o si es mi dueño.\n\nLa conciencia que surge y luego muere,\nun rastro frágil sobre la arena fría,\nsu propia luz el tiempo nos requiere.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

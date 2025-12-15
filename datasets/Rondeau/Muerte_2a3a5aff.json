@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo se acaba,\ny nadie lo alaba,\npues nos lleva al fin,\nsin tocar violín,\nni decir sílaba.\n\nLa vida se trababa,\ny se derrumbaba,\nen el confín,\nEl tiempo se acaba.\n\nLa muerte grababa,\nlo que pensaba,\nsobre el jardín,\ndel serafín,\nque lloraba,\nEl tiempo se acaba.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

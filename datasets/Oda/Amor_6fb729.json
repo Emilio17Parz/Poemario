@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¡Oh, Dama de sublime belleza,\nfaro que alumbra mi sendero incierto!\nTu presencia disipa la tristeza,\neres el puerto en mi desierto.\nCanto a tu gracia, a tu mirada honesta,\nque el alma enciende en perenne fiesta.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Dama"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo llega a su fin,\nla risa, el llanto y la vana gloria,\nborrando la memoria\ndel rey y el bailarín.\nSe calla el cornetín,\ny acaba nuestra historia\nen el rincón del último jardín.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "fin"
+  }
+}

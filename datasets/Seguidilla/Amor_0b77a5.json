@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Una mirada tuya (7a),\nme da gran consuelo (5b),\nsin tu luz no hay cura (7c),\nme guía hasta el cielo (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Mirada"
+  }
+}

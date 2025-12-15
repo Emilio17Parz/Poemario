@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Verde se extiende el inmenso campo,\nbajo la luz del sol radiante,\nque lo ilumina con su lampo,\ny lo recorre el caminante,\nsin que le cubra ningún ampo,\nde nieve fría o distante.\n\nSe ve la sierra distante,\ndesde el centro del campo,\ndonde la flor y el lampo,\nhacen la vida radiante,\npara el feliz caminante,\nque no teme al blanco ampo.\n\nNo cae del cielo el ampo,\nni se ve nube distante,\nque amenace al caminante,\nen la quietud del campo,\nque brilla puro y radiante,\nbajo el dorado lampo.\n\nEs la belleza del lampo,\nque no conoce el ampo,\nlo que hace al día radiante,\ny acerca lo distante,\nen la extensión del campo,\ndonde sueña el caminante.\n\nDescansa el buen caminante,\nbajo el calor del lampo,\nque calienta todo el campo,\nsin el invierno y su ampo,\nque lo vuelve distante,\ny apaga lo radiante.\n\nEs una vida radiante,\nla que vive el caminante,\nque no se siente distante,\nbajo el fuego del lampo,\nlejos del frío ampo,\nen la libertad del campo.\n\nCampo radiante sin ampo,\nlampo que guía al caminante,\nque ya no es distante.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "campo"
+  }
+}

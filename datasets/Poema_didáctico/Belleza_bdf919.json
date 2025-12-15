@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La proporción áurea existe,\npero la vida es caos,\nno estés triste,\nsi no das los daos.\nLa belleza asimétrica,\ntambién es poética.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Proporción"
+  }
+}

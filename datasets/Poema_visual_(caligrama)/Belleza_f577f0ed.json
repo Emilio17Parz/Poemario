@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "LA\n         BELLEZA\n        es un eco\n       que el alma\n      siente en la\n     luz o en la sombra,\n    un instante de vida\n   que el **arte** captura,\n  transforma, un rastro\n eterno del ser que nombra\n  en la mirada, en el pincel,\n   el corazón se alza\n    siempre,\n     pura,\n      real.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Jardín de piedra y de silencio,\nciudad de los que ya no están,\ndonde termina el largo viaje\ny se detiene el vano afán.\nEntre cipreses y mármol frío,\nduermen historias sin final,\npaz absoluta que se respira\nen tu recinto sepulcral.\nNo eres lugar de miedo oscuro,\nsino de calma y de quietud,\ndonde la muerte guarda el sueño\nde la cansada multitud.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un hombre de noble alma,\nbuscó para sí dulce calma.\nDijo: \"¡Mi amor!\"\n\"¡Eres mi flor!\"\n¡Y encontró su amada flama!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "alma"
+  }
+}

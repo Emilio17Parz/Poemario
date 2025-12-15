@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios. Todas las cosas por él fueron hechas.\nNo solo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios; lámpara es a mis pies tu dicho.\nLa hierba se seca, y la flor se marchita; mas la palabra del Dios nuestro permanece para siempre.\nSea vuestra palabra siempre con gracia, sazonada con sal, para que sepáis cómo debéis responder a cada uno.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "palabra"
+  }
+}

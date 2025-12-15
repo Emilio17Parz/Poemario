@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Del cuerpo fuerte y lleno de vida,\nsolo cenizas grises quedaron,\nla llamarada fue consumida,\ny los recuerdos se disiparon.\nPolvo que vuelve a la tierra madre,\npara nutrir a la nueva flor,\nasí se cumple, aunque no cuadre,\nel ciclo eterno del creador.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Temía al fuego eterno,\ny al calor del infierno.\nComió picante,\nen un restaurante,\ny sintió el castigo interno.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "infierno"
+  }
+}

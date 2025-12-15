@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres tesoro que encontré al azar,\nla joya que mi vida enriqueció,\ny que por siempre quiero yo guardar.\n\nNadie me puede nunca separar,\ndel bien que el destino me ofreció,\neres tesoro que encontré al azar.\n\nPor ti soy capaz de navegar,\nlos mares que nadie conoció,\ny que por siempre quiero yo guardar.\n\nTu brillo me ayuda a caminar,\ncuando la luz del sol oscureció,\neres tesoro que encontré al azar.\n\nNo necesito más para soñar,\nque el beso que tu boca me dio,\ny que por siempre quiero yo guardar.\n\nMi corazón se pone a cantar,\nporque el amor por fin apareció,\neres tesoro que encontré al azar,\ny que por siempre quiero yo guardar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

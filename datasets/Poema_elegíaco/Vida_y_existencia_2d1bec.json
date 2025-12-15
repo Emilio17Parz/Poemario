@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo me roba el alma y la fe,\nla vida sin la calma, sin saber el qué.\nEl ladrón no es el diablo, es el lento existir,\nla sombra constante sin poder huir.\n\nLloro por el oro que no volverá,\nla vida sin la calma, que nunca está.\nMi pena es la carga de una voz sin razón,\nla triste agonía de una sola opción.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "ladrón"
+  }
+}

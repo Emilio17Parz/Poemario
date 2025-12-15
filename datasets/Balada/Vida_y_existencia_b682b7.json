@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Guardamos todo en el cajón,\nde los recuerdos del ayer,\nrisas, llantos y emoción,\nque no queremos perder.\nSomos lo que recordamos,\nnuestra historia y nuestra piel,\ny con la memoria amamos,\nsiendo a nosotros mismos fiel.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

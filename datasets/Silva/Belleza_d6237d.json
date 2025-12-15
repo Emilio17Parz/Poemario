@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Niño puro,\nque no sabe,\nni le cabe,\nlo oscuro.\nEs seguro,\nsu mirar,\ny su andar,\nsin el muro.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "inocencia"
+  }
+}

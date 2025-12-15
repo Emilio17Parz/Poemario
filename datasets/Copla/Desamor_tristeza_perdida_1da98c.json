@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Del fuego de tu querer\nsolo quedan las cenizas,\ny las cartas que escribiste\nque el viento hace trizas.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "cenizas"
+  }
+}

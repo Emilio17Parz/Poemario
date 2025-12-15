@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Abrieron la urna gris,\nen lo alto de la loma,\ny el viento se llevó el polvo\ncon su invisible goma.\nVolaron las partículas,\ncomo niebla o paloma,\nmezclándose con el aire\ny con el dulce aroma.\nYa no eres cuerpo ni forma,\nsolo parte de la broma,\nde volver a ser la tierra\nque todo lo carcoma.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "viento"
+  }
+}

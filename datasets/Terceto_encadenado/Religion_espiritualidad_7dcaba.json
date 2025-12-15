@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La fe mueve la montaña,\ny nos da seguridad,\nsin usar ninguna maña.\n\nEs la luz de la verdad,\nque alumbra nuestro camino,\ny nos da la libertad.\n\nDe origen divino.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "fe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te regalo esta rosa\ncomo prueba de querer,\nes roja y es hermosa.\nTe regalo esta rosa,\npara ti, mi mariposa,\nal empezar a amanecer.\nTe regalo esta rosa\ncomo prueba de querer.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

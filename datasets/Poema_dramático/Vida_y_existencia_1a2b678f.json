@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "PRISIONERO: Anoche soñé que era libre y rey.\nGUARDIÁN: Despierta, gusano, estás en cadenas.\nPRISIONERO: Mis manos las tienes, mas no mis venas.\nEn mi mente yo dicto mi propia ley.\nLa vida es sueño, dijo el poeta,\ny en mi soñar alcanzo mi meta.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

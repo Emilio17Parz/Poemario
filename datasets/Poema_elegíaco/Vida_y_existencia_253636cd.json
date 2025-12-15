@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se rompió el cristal de mi dulce sueño,\ny desperté a la cruda realidad,\ndonde reina la gris necesidad,\ny nadie es de su vida el propio dueño.\nAdiós a la ilusión que me acunaba,\nlloro la magia que se terminaba.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

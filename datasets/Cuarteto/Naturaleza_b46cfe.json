@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El valle se extiende, un verde manto sin par,\ncon flores silvestres y aroma de pan,\nel aire es de vida, que sabe amar,\nlos seres que habitan van y van.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Valle"
+  }
+}

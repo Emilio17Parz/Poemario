@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piedra fría,\nhecha forma.\nSigue la norma,\nde la armonía.\n\nCon maestría,\nse transforma.\nPiedra fría,\nhecha forma.\n\nAlegría,\nque conforma.\nNo deforma,\nla vía.\nPiedra fría.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

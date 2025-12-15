@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "No salen los trenes,\nla ciudad parada,\nsi tú no vienes,\nno pasa nada.\nDerecho al pataleo,\nen este gran jaleo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Huelga"
+  }
+}

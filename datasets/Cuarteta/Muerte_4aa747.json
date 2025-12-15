@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "En la tumba,\nduerme el ser,\nse derrumba,\nel poder.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "ser"
+  }
+}

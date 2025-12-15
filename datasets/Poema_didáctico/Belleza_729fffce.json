@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Menos es más, tenlo claro,\nno busques el adorno raro.\nLa elegancia es discreta,\ncomo una línea recta.\nEn la simpleza reside,\nlo que la belleza pide.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "simplicidad"
+  }
+}

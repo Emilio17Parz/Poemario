@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dicen que hay verdes praderas,\nmás allá de las nubes altas,\ndonde no existen las faltas,\nni las humanas fronteras.\n\nAllí pastan las corderas,\nsin miedo al lobo ni al rayo,\nen un eterno mes de mayo,\nde luces verdaderas.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "más_allá"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol dora la cima\ndel monte azul,\ny en la paz del bosque\nencuentro luz.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

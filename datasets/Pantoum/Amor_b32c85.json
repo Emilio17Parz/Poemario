@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te prometo amor cada mañana,\ncuidar tus sueños con devoción.\nEres la luz que entra en mi ventana,\nla melodía de mi canción.\n\nCuidar tus sueños con devoción,\ncaminar juntos el sendero largo.\nLa melodía de mi canción,\nborrando siempre cualquier amargo.\n\nCaminar juntos el sendero largo,\neres la luz que entra en mi ventana.\nBorrando siempre cualquier amargo,\nte prometo amor cada mañana.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es un gran don,\nque en el alma se esconde,\ny su fugaz corazón,\ncon puro **brillo** responde.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

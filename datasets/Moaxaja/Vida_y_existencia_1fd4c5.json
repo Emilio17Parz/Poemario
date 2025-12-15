@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Quiero soñar,\ny volar.\n\nLejos del suelo,\nalzar el vuelo,\nsin desconsuelo,\nni descansar.\nQuiero soñar,\ny volar.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "sueños"
+  }
+}

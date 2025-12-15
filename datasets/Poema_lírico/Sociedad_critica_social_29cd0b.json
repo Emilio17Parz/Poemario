@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vivo en el barrio alto,\nde oro y de cristal.\nMi vida es un asalto\nsin signo vital.\n\nLa riqueza me aísla,\nme quita el calor,\nmi única isla\nsin ningún amor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "ghetto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Bombas cayendo\nniños lloran sin paz\nmundo sin luz.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

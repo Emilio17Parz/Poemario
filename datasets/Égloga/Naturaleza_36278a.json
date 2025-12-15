@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Negras nubes coronan la cima,\nel trueno rueda por la cañada.\nLa naturaleza, alborotada,\nsu fuerza inmensa nos encima.\nEl rayo que al viejo roble anima\ndeja la tierra purificada.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "trueno"
+  }
+}

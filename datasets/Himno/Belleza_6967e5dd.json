@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "¡Gloria al arte, reflejo inmortal!\nDe la belleza que el alma sueña,\ny que en la obra humana se empeña,\nen ser eterna y universal.\nTriunfo del genio sobre la muerte,\nque nos regala la mejor suerte.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "arte"
+  }
+}

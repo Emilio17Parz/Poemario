@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Busca el pirata el cofre\nen la isla desierta,\ncon la avaricia despierta\nque su alma sufre.\nAunque el diablo le ofrece\ntodo el oro del mundo,\nsu destino es rotundo\ny morirá en la playa,\nsin que nadie vaya\na su entierro profundo.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "oro"
+  }
+}

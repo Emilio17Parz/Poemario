@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Prefiero morir de pie\nque vivir arrodillado,\ndijo el valiente soldado\nante el pelotón armado.\nCayó con el pecho abierto\npero el honor intactado,\ndejando su nombre escrito\nen el libro sagrado.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "honor"
+  }
+}

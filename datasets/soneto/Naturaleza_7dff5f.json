@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia, música del cielo,\ngolpeando el techo con ritmo suave,\ncomo si el gris nubarrón, cual nave,\nquisiera darnos su fresco consuelo.\n\nLa tierra bebe con gran anhelo,\nabriendo poros, soltando la llave,\npara que la semilla se lave\ny rompa fuerte la piel del suelo.\n\nBendita agua que limpia el aire,\nque trae la vida y el verdor,\nsin presunción y sin donaire.\n\nCalmas la sed y el calor,\ny con tu húmedo desgaire\nnos devuelves el color.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "agua"
+  }
+}

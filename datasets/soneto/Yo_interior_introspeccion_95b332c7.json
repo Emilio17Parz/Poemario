@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En el confín del alma, luz y sombra,\nme adentro en el silencio del sentir,\nbuscando el ser que se rehúsa a huir,\nla voz callada que en mi ser me nombra.\n\nReflejo incierto que en el espejo asombra,\nun laberinto donde el yo ha de latir,\ny entre verdades que se quieren fingir,\nla esencia misma que a mi espíritu nombra.\n\n¿Quién soy, de qué matriz forjé mi historia?\nUna pregunta que en mi pecho impera,\nmientras la duda, cual sombra, me devora.\n\nMas sé que en cada pliegue de la memoria,\nen esta búsqueda que nunca desespera,\nse halla la chispa que mi ser explora.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "duda"
+  }
+}

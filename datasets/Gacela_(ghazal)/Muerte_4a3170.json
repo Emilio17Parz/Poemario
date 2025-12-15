@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se apaga la llama, la frágil vela,\nla vida es corta como una vela.\n\nSopla la muerte y se va la luz,\nhumo que sube de la apagada vela.\n\nQueda la cera fría en la mesa,\ntras consumirse la frágil vela.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "vela"
+  }
+}

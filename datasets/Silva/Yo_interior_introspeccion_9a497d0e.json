@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi identidad busco,\nentre sombras y luces del ser,\ny no me ofusco,\nal querer,\nmi verdadero rostro ver.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

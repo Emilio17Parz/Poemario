@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dicen que tras el último aliento,\nllega la calma que nunca acaba,\nya no hay dolor que el alma traba,\nni sufrimiento, ni pensamiento.\n\nSe apaga el fuego y cesa el viento,\nse detiene la sangre que andaba,\ny aquella angustia que nos minaba,\nse disuelve en el firmamento.\n\nDescanso eterno, sueño profundo,\nliberación de la carga atroz,\nde haber vivido en este mundo.\n\nCalla por fin la interna voz,\ny en ese silencio, tan rotundo,\nse encuentra una paz que es feroz.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "paz"
+  }
+}

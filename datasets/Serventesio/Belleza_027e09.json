@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Una flor se abre al sol, con dulce color y fe (A),\ncontiene el secreto de la creación (B),\nsu forma es perfecta, el eterno 'sé' (A),\nla más pura y noble lección (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

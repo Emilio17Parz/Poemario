@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Piel de barro en soledad\"",
   "poema": {
     "texto": "*Barro seco en soledad,*\n*Solitario, sin ruido,*\n*Espíritu quieto.*",

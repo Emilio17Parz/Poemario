@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Canto mi canción por ti,\ndesde que te conocí.\nNotas de puro amor,\nsin tristeza ni dolor,\nque en tu alma escribí.\n\nTodo lo que comprendí,\nes que vivo para ti.\nEres mi inspirador,\ncanto mi canción.\n\nNunca me arrepentí,\nde lo que te prometí.\nCon un inmenso valor,\ny del más bello color,\nsuena lo que sentí,\ncanto mi canción.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "canción"
+  }
+}

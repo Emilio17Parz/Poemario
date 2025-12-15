@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Dónde está el niño aquel\nque jugaba en la plaza?\nSe perdió en el adulto\nque el tiempo amenaza.\nQuiero volver a sentir\nesa alegría que abraza,\ny mirar el mundo nuevo\nsin coraza ni traza.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "niño"
+  }
+}

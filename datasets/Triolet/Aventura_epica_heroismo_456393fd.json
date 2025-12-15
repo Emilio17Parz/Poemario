@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "La aventura llama con furor,\nEl héroe debe batallar.\nCon su noble **espada** y valor,\nLa aventura llama con furor.\nVence al monstruo aterrador,\nSin miedo debe cabalgar.\nLa aventura llama con furor,\nEl héroe debe batallar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "espada"
+  }
+}

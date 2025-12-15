@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No busca el guerrero la vana gloria,\nsino cumplir con su noble deber,\ny aunque su cuerpo pueda caer,\nquedará vivo en la fiel memoria,\nde aquellos que salvó con su acción,\nen medio de la gran destrucción.",
+    "tipo": "Sestina (Estrofa I)",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

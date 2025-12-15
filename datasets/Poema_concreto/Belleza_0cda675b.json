@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "LUZ\n          GRACIA\n         ARMONÍA\n        BRILLO PURO\n       ESPLENDOR VIVO\n      BELLEZA QUE ATRAE\n       SUAVE FORMA ETERNA\n        VERDAD AL ALMA\n         SENTIR PLENO\n          PAZ SERENA\n           VER",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

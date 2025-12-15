@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento.\nEl pueblo que andaba en tinieblas vio gran luz; a los que moraban en tierra de sombra de muerte, luz resplandeció sobre ellos.\nAntes que vayas a la tierra de tinieblas y de sombra de muerte, tierra de oscuridad, como la misma oscuridad.\nMis días son como sombra que se va, y me he secado como la hierba; pero tú, Señor, permanecerás para siempre.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

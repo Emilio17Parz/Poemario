@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cinco puntas de luz\nque guían mi norte\nhacia tus brazos\ndestino brillante\nde mi viaje.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "estrella"
+  }
+}

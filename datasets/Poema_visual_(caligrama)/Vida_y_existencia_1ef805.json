@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Forma pesada\ndura y gris\ncarga en la espalda\nculpa vieja\nque no suelto\nlastre muerto\ndel ayer.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "carga"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cae la lluvia sobre el jardín,\nlavando el polvo de la ciudad,\ntocando su dulce y gris violín.\n\nEs el comienzo y no el fin,\nde la vida y la fertilidad,\ncae la lluvia sobre el jardín.\n\nHuele a tierra y a jazmín,\nrenace la felicidad,\ntocando su dulce y gris violín.\n\nBaila el agua en el confín,\ncon ritmo y con libertad,\ncae la lluvia sobre el jardín.\n\nNo hay tristeza ni motín,\nsolo paz y tranquilidad,\ntocando su dulce y gris violín.\n\nDesde la nube hasta el cojín,\nde hierba y de humedad,\ncae la lluvia sobre el jardín,\ntocando su dulce y gris violín.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

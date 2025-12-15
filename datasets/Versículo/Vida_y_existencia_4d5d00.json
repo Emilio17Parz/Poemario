@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Bendito sea el error que me hizo caer, porque desde el suelo pude ver las estrellas con una perspectiva nueva.\nLas cicatrices de mis fallos son el mapa de mi aprendizaje, la prueba de que me atreví a vivir sin manual de instrucciones.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "error"
+  }
+}

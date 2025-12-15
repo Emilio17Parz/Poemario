@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La onda del río dibuja una curva sutil y fiel (A),\nque el ojo recoge con gran placer (B),\nes la armonía, la dulce miel (A),\nla forma que ayuda a vencer (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Onda"
+  }
+}

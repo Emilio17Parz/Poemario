@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo es oro que se nos gasta,\nmoneda que no se puede ahorrar,\nantes de que la cuenta diga basta.\n\nHay que saberla bien emplear,\nviviendo el hoy con intensidad,\nsin dejar nada para el azar.\n\nNi la oquedad.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

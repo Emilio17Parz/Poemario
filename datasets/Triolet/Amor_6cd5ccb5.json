@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tú eres la luz de mi alma,\nme traes la dicha y la calma,\neres mi triunfo y mi palma.\nTú eres la luz de mi alma,\nla tempestad se desalma,\ny el corazón se empalma.\nTú eres la luz de mi alma,\nme traes la dicha y la calma.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "alma"
+  }
+}

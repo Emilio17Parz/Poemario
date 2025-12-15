@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra que nos vela al despertar,\ncon su velo de niebla siempre leve,\nyace en silencio, un hondo suspirar.\n\nEl alma en vilo busca un claro andar,\nmas la memoria de lo que se atreve,\nla sombra que nos vela al despertar.\n\nNo hay voz que pueda ya resurrección clamar,\nsolo la fría mano que nos mueve,\nyace en silencio, un hondo suspirar.\n\nQué vano intento al destino desafiar,\nante la brisa fúnebre que llueve,\nla sombra que nos vela al despertar.\n\nLa luz se apaga, llega el último lugar,\nes el fin de la fiebre que nos duele,\nyace en silencio, un hondo suspirar.\n\nSe desvanece el tiempo, el amar y el gozar,\nsolo la nada que a la tierra nos devuelve,\nla sombra que nos vela al despertar,\nyace en silencio, un hondo suspirar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "fin"
+  }
+}

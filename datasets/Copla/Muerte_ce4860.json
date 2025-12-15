@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El gran viaje sin regreso (a),\nuna vela que al fin va (b),\nmi vida sin un peso (c),\nla sombra que ya no está (b).",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

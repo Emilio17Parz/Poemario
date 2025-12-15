@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Luz de plata,\nen la noche,\nsin reproche,\nque desata.\nSe retrata,\nen el lago,\ncon halago,\nque dilata.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "luna"
+  }
+}

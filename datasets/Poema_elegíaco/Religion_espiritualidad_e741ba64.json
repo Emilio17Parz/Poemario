@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Lloro mi culpa y pecado,\nque me aleja de tu faz,\nperdí tu santa paz,\ny vivo desesperado.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "pecado"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Linda sonrisa,\nque alisa.\nEl dolor,\ncon amor,\ny prisa.\n\nLa brisa,\nde la risa.\nEl color,\nlinda sonrisa.\n\nLa camisa,\ny la misa.\nEl valor,\ndel calor,\nprecisa,\nlinda sonrisa.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

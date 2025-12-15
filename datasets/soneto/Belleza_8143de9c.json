@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Qué pura es la belleza que se anhela,\nQue del alma brota en su mejor fulgor,\nY en cada gesto es prueba de su ardor,\nSin velo alguno que su luz constela.\n\nNo es vana pompa que el sentido cela,\nNi el oro falso de un efímero error,\nSino el eterno y verdadero amor,\nQue en cada corazón se nos revela.\n\n¡Oh, <u>musa</u> etérea, de sublime don,\nQue a mi pluma dictas el clamor sereno,\nDesvela el brillo de tu faz sagrada!\n\nRecibe humilde esta mi devoción,\nY llena el lienzo de mi pecho lleno\nDe una belleza nunca imaginada.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "musa"
+  }
+}

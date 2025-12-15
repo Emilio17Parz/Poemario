@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dame un beso de tu boca,\nque a mi alma vuelve loca.\n\nEs dulce tu querer,\nme hace renacer,\ny no puedo comprender,\nla pasión que provoca.\n\nDame un beso de tu boca,\nque a mi alma vuelve loca.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "beso"
+  }
+}

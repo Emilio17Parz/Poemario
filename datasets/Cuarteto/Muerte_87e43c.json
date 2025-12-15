@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El tiempo borra el nombre de la losa,\ny nadie recuerda quién fue el mortal,\nes el destino común y fatal,\nde la existencia breve y dolorosa.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Dama ciega con balanza rota,\nque inclina el peso hacia el poder,\nal pobre siempre le explota,\ny al rico le da de comer.\nBuscamos tu rostro en el tribunal,\ny hallamos un teatro del mal.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Justicia"
+  }
+}

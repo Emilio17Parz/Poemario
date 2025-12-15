@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El alma intrépida, de audacia sin par,\nemprende un *viaje* más allá del dolor;\npor cumbres de mito y vasto mar,\nel héroe forja su épico fulgor.\n\nDesafía la sombra, el cruel azar,\ncon temple de acero, alma de valor.\n¡Oh, gesta inmortal! Su canto ha de vibrar,\nla gloria eterna de un dulce candor.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

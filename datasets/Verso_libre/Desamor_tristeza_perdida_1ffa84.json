@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Esta ciudad era nuestra,\ny ahora es un campo minado.\nNo puedo ir al cine,\nni al parque, ni al bar.\nTodo tiene tu etiqueta,\ntu huella dactilar,\ny yo soy un intruso en mi propia vida.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

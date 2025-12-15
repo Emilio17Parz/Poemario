@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El ímpetu guía, al alba la lid.\nValiente el adalid, su hueste leal.\nRompe el asedio, el fuego sin fin.\n¡Oh, la gloria eterna, del bien triunfal!\nRompe el asedio, el fuego sin fin.\nValiente el adalid, su hueste leal.\nEl ímpetu guía, al alba la lid.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

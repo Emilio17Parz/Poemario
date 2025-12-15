@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Miraba con ojo de halcón,\na su novia en el balcón.\nSi pasa un vecino,\nse pone mezquino,\ny monta un gran novelón.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "celos"
+  }
+}

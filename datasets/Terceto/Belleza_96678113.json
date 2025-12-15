@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Vence a la muerte el inmortal arte,\nplasmando la belleza en el papel,\ny con el mundo su visión comparte.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

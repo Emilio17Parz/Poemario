@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mapa gastado y cruz marcada,\npromesa de oro y de riqueza,\nque despierta la vil avaricia\ny la ambición desenfrenada.\n\nSe emprende la ruta pesada,\ncruzando selva y maleza,\nperdiendo a veces la cabeza\npor una fortuna soñada.\n\nMas al final del camino,\nel cofre quizás esté vacío,\no lleno de polvo y destino.\n\nPues el verdadero poderío\nno es el metal, sino el tino\nde haber superado el desafío.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

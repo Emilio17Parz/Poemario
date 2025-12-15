@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Que me ames es un gran milagro,\nun don divino que no merecí,\nmantengo tu imagen como un sagrado\nrayo de luna, solo para mí.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Milagro"
+  }
+}

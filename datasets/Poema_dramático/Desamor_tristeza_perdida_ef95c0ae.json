@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "JOVEN: ¿Quién llama a la puerta a esta hora?\nSOMBRA: Soy tu vieja amiga, la soledad.\nJOVEN: ¡Vete! Busco amor y felicidad.\nSOMBRA: Ellos se fueron con la aurora.\nAhora estamos solos tú y yo,\nen la casa vacía que ella dejó.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

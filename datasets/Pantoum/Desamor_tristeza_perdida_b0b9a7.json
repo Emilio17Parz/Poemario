@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Silencio en la habitación,\nnadie contesta mi voz.\nBusco una explicación,\nal destino tan atroz.\n\nNadie contesta mi voz,\nsolo el eco del vacío.\nAl destino tan atroz,\nme muero de puro frío.\n\nSolo el eco del vacío,\nbusco una explicación.\nMe muero de puro frío,\nsilencio en la habitación.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

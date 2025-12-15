@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Combatir,\ncada día,\ncon valía,\ny sufrir.\nResistir,\nes ganar,\ny llegar,\na vivir.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

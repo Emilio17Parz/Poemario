@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Soy una sombra de lo que fui,\nvagando sola por la ciudad,\ndesde el día en que te perdí.\n\nYa no hay luz dentro de mí,\nsolo tiniebla y oscuridad,\nsoy una sombra de lo que fui.\n\nTodo el amor que te di,\nse convirtió en soledad,\ndesde el día en que te perdí.\n\nNo sé por qué te creí,\ntu juramento de lealtad,\nsoy una sombra de lo que fui.\n\nAhora sé que no vencí,\nante tu cruel frialdad,\ndesde el día en que te perdí.\n\nMuero despacio y así,\npago mi gran ingenuidad,\nsoy una sombra de lo que fui,\ndesde el día en que te perdí.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

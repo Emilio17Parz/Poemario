@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Ayer eras mi luz y mi bandera,\nmi causa, mi razón y mi motivo,\nel aire que me hacía estar vivo,\nmi eterna y florida primavera.\n\nHoy eres una extraña cualquiera,\nun recuerdo lejano y esquivo,\nun pensamiento gris y cautivo,\nuna cruel y cerrada frontera.\n\nCómo cambia la vida en un paso,\nde la cumbre al profundo abismo,\ndel amanecer al triste ocaso.\n\nYa no somos, ni soy el mismo,\ny ante este doloroso fracaso,\nme hundo en mi propio ostracismo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "ayer"
+  }
+}

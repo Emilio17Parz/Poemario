@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "MELIBEO: ¿Probaste miel más dulce que su boca?\nSILVANO: La miel del panal virgen no la iguala.\nEs su palabra pluma, nunca bala,\nque el corazón herido apenas toca.\nPor ella mi razón se vuelve loca\ny el alma enamorada tiene gala.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "miel"
+  }
+}

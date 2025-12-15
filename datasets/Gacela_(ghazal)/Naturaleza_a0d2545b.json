@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompen las olas blancas frente a la mar,\ny se escucha el lamento de la gran mar.\n\nEspejo de la luna en la noche oscura,\nmisterio profundo que guarda la mar.\n\nQuisiera ser un barco y zarpar lejos,\nperdido en la inmensa soledad de la mar.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "mar"
+  }
+}

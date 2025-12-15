@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Versos te escribo,\nporque estoy vivo.\n\nLetras de amor,\ncon mucho color,\nsin ningún dolor,\nyo las recibo.\nVersos te escribo,\nporque estoy vivo.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "poema"
+  }
+}

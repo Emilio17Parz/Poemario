@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Llevamos luto por la libertad,\nque agoniza entre rejas y cadenas,\nahogada por las leyes y las penas,\nperdiendo su vital dignidad.\nLloro al ver al hombre esclavizado,\npor el sistema que él ha creado.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

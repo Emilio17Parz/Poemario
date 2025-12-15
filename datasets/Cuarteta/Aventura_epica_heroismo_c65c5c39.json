@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por tierras ignotas va el campeón leal,\nSu corazón arde, no teme al final.\nPreparado está para la gran batalla,\nLa victoria ansiada que jamás falla.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

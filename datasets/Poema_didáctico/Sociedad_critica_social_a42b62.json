@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El trabajo dignifica,\nsi es justo el pago,\nno sacrifical,\ncomo un trago.\nDefiende tus derechos,\ncon hechos.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Trabajo"
+  }
+}

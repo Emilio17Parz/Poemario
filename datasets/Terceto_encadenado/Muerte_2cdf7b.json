@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Se apaga la vela que nos alumbra,\nllega el silencio definitivo,\ny entramos en la eterna penumbra.\n\nDejando de ser un cuerpo vivo,\npara volver al polvo original,\nsin ningún objetivo ni motivo.\n\nEn el sueño final.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "final"
+  }
+}

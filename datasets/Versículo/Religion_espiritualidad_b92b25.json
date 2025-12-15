@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "No espero que se abran los mares ni que el sol se detenga; el milagro es que mi corazón siga latiendo.\nCada amanecer es un prodigio inexplicable, una nueva oportunidad que el universo me regala para amar.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "milagro"
+  }
+}

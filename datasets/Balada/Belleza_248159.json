@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Piedra que cobra la vida y el gesto,\npor el cincel del artista dispuesto,\nforma perfecta de mármol o bronce,\nque al ser humano en su alma conoce.\nInmóvil vive a través de los siglos,\nlejos de miedos y de los peligros,\nmostrando siempre su ideal,\nde la belleza en el mundo real.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Rocío que bañas la hoja con perlas,\nlíquido breve de dulce esplendor.\nTu brillo fugaz al alma la alteras,\ncon la promesa de un gran fulgor.\n¡Oh, lágrima pura, de vida sencilla,\nel sol en ti se mancilla!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Rocío"
+  }
+}

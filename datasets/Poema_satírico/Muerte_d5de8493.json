@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vamos al funeral,\nno por el difunto,\nsino por el punto,\ndel café y el tamal.\nSe habla del bien y el mal,\ny se arregla el asunto,\ndel chisme conjunto,\nen el acto final.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "velorio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Sombras que crecen cuando el sol se pone,\nmonstruos creados por la propia mente,\nque el corazón dispone\nde forma inconsciente.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Guarda la cueva el feroz dragón,\nfuego en la boca del gran dragón.\n\nEscamas de oro y garras de acero,\nterror del reino, el gran dragón.\n\nSolo el valiente podrá vencer,\na la leyenda del gran dragón.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

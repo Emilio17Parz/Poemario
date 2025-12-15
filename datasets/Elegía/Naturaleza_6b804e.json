@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Flor que te vas con tu dulce donaire,\nel color se apaga sin un gran bien.\nTu aroma es un eco en el aire,\nel alma sin un sostén.\nTu pétalo cae, la vida se fue,\nla pena que el tiempo ve.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

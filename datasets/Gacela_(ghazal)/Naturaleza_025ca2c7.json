@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante de piedra que toca la nube,\nescalera al cielo por donde se sube.\n\nLa nieve corona lo que el tiempo anduve,\ny guarda el silencio que siempre mantuve.\n\nFirmeza y altura que nadie detuve,\nla montaña reina donde yo estuve.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "piedra"
+  }
+}

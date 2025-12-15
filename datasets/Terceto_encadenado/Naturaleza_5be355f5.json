@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sacude las encinas el gran viento,\ncon fuerza invisible y poderosa,\nllevándose muy lejos el lamento.\n\nNo se detiene en planta ni en rosa,\npues su destino es siempre caminar,\nde una manera libre y caprichosa.\n\nHasta llegar a descansar al mar.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "viento"
+  }
+}

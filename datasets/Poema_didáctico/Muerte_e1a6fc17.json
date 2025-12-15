@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El luto es proceso de sanación,\nno lo apresures en tu corazón.\nNegación, ira y depresión,\nluego el pacto y la aceptación.\nSon las etapas que has de cruzar,\npara la paz volver a encontrar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj marca la hora,\nde la cita ineludible,\nuna fuerza terrible,\nque la vida devora.\nYa no brilla la aurora,\nha llegado el anochecer,\ny se empieza a deshacer,\nel tejido de la historia,\nquedando solo memoria,\nde lo que solía ser.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

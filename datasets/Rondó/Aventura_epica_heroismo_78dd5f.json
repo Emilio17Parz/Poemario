@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Alza el escudo,\nante el golpe,\nno sea torpe,\nni rudo.\nEl nudo,\nque rompe.\nAlza el escudo.\n\nProtección,\ncontra el mal,\nel metal,\nde la acción.\nLa pasión,\nvital.\nAlza el escudo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "defensa"
+  }
+}

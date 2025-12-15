@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Llegó el invierno al cuerpo,\nla nieve en el cabello,\nse perdió el destello\ny el andar es lerdo.\nYa casi no recuerdo\nel vigor y el sello,\nde aquel tiempo bello,\ny la razón pierdo.\nLa vejez es despedida,\nlenta y dolorosa,\nuna vela derretida.\nEs la tarde brumosa,\nel final de la partida,\ntriste y silenciosa.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "vejez"
+  }
+}

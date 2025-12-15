@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Quedó la cama grande y fría,\ny el sitio en la mesa sin ocupar,\nse le hace eterna la noche y día,\ny solo sabe rezar y llorar.\nMira la foto del compañero,\nque compartió su vida y su afán,\ny se pregunta por qué el barquero,\nse lo llevó en su oscuro plan.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "viuda"
+  }
+}

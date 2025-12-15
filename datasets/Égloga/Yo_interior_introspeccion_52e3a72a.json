@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "AMINTA: Guardo un secreto en el fondo del alma,\nque pesa como una piedra de río.\nCLORIS: Suéltalo al viento, amigo mío,\ny volverá a ti la perdida calma.\nLo que se guarda se pudre y amarga,\nhaciendo la vida penosa y larga.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

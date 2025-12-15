@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La Flor se pudre en el suelo,\nsin un poco de valor,\ny mi alma ya sin recelo,\nsin tu dulce fulgor.\n\nSe marchita y me castiga,\ncon su dulce falsedad,\ny mi alma ya se fatiga,\nsin tu dulce claridad.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Flor"
+  }
+}

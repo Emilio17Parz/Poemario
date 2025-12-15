@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz es canción celestial,\nQue calma mi angustia veloz,\nUn tono que es especial.\nTu voz es canción celestial,\nRemedio contra todo mal,\nUn lazo entre tú, yo y Dios.\nTu voz es canción celestial,\nQue calma mi angustia veloz.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "canción"
+  }
+}

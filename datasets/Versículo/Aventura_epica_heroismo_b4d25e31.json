@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No te he dicho que si crees, verás la gloria de Dios? Esfuérzate y sé valiente; no temas ni desmayes.\nEl Señor es mi luz y mi salvación; ¿de quién temeré? El Señor es la fortaleza de mi vida; ¿de quién he de atemorizarme?\nEsperad en el Señor; esfuércese vuestro corazón, y esperad en el Señor; él fortalecerá vuestro corazón.\nPorque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "coraje"
+  }
+}

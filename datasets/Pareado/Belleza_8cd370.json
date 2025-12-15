@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El silencio esconde la gran paz sin un final (A),\nque el alma descubre, el bien total (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

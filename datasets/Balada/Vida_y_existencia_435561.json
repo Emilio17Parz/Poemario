@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es senda que se hace andando,\nsin mapa previo ni dirección,\nvamos las huellas allí dejando,\ncon cada paso y decisión.\nA veces llano, a veces cuesta,\nlleno de flores o de espinas,\npero la marcha es la respuesta,\na las preguntas que adivinas.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "camino"
+  }
+}

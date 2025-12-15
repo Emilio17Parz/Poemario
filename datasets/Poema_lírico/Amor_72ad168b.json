@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estaba escrito en el libro sagrado,\nque nuestras vidas se habrían de unir,\npara juntos llorar y sonreír,\nen este mundo por Dios creado.\nBendito sea el destino trazado,\nque me permite contigo vivir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

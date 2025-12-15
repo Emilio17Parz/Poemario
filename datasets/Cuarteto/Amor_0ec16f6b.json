@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Juro guardarte un sentimiento eterno,\nmás allá de la muerte y del olvido,\npues este amor que en mí siempre ha vivido\nvence las sombras del cruel invierno.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

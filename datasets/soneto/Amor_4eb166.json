@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "La noche nos envuelve con su manto,\ntestigo mudo de nuestro querer,\ndonde se funde el ser con el ser\ny el silencio se vuelve un encanto.\n\nNo hay lugar para el miedo ni el llanto,\nsolo el deseo y el placer de ver\ncómo la luna empieza a caer\nmientras te cubro con mi canto.\n\nDuerme, mi vida, en brazos seguros,\nque yo velaré tu sueño profundo\nlejos de los ruidos oscuros.\n\nEres lo más preciado del mundo,\ny derribaré todos los muros\npara amarte cada segundo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "manto"
+  }
+}

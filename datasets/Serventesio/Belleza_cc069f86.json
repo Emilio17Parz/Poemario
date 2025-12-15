@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es un rayo de candor,\nun eco eterno que nos da valor,\nsu esencia pura, su gran esplendor,\nque calma el alma y apaga el dolor.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

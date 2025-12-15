@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Un bosque frondoso junto a un río,\ncon brisa que acaricia el rocío.\nLas aves alzarán\nsu dulce cantar.\n¡Qué paz el paisaje mío!",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "río"
+  }
+}

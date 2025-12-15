@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se perdió el mejor carnero,\ny anduve tres días buscando,\npor los montes caminando,\nsin agua y sin sombrero.\n\nLo hallé en un agujero,\nherido pero con vida,\ny curé su herida,\ncon cuidado esmero.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "búsqueda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rayo que rompe la negra negrura,\ntrueno que ruge con fuerza brutal,\nllueve con furia sobre el manantial,\ntiempo de caos.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

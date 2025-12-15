@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Niebla que borra la historia,\ny desdibuja el rostro,\nante el cual me postro,\nperdiendo la memoria.\nVen y llévate el dolor,\nde este fracasado amor.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

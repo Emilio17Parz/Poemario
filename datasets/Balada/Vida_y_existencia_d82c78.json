@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La buscamos en el dinero,\nen la fama y el placer,\npero es un ave ligero,\nque no se deja coger.\nVive en las cosas sencillas,\nen un beso o una flor,\ny no en las maravillas,\nde falso y vano resplandor.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "felicidad"
+  }
+}

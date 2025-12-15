@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "ULISES: Largo fue el viaje por el mar oscuro,\nmonstruos y dioses quisieron mi fin.\nPASTOR: Aquí tu nave toca el jardín,\nde un puerto quieto y un lecho seguro.\nDescansa el héroe de su labor,\ny cure el campo su gran dolor.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

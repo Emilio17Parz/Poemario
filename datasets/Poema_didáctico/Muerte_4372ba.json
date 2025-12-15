@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "No te llevas oro ni plata,\nte llevas lo que has dado,\neso es lo que ata,\nel presente al pasado.\nSiembra amor y bondad,\ny vencerás la edad.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Legado"
+  }
+}

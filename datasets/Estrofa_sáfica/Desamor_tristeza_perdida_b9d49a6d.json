@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Ya no consigo tu amor esquivo,\nvana la lucha contra el olvido;\nmuere la chispa de aquel fulgor,\ncruda agonía.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

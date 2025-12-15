@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla furioso el viento\narrancando las hojas secas,\ny en las cañadas y huecas\ndeja su ronco lamento.\nEs un vivo movimiento\nque nadie puede atrapar,\ncapaz de acariciar\no de romper la madera,\nviajero de la pradera\ny dueño de todo lugar.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "viento"
+  }
+}

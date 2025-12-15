@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se ha cerrado por fin nuestro cuento,\nse apagó la pasión de ayer,\ny se lleva lo nuestro el viento.\n\nComo hojas que suelen caer,\nse perdieron las dulces promesas,\nque no supimos bien defender.\n\nQuedan solo las dudas espesas.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "cuento"
+  }
+}

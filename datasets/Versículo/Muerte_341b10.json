@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Ante el altar de la muerte somos todos iguales, el rey y el mendigo, despojados de trajes y títulos.\nCalaveras blancas que sonríen con la misma mueca, hermanas en el hueso, unidas en el destino común.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "igualdad"
+  }
+}

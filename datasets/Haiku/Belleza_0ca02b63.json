@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Sol que despierta,\npinta el cielo de oro,\nnace la luz.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

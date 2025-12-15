@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL CAPITÁN]\n(A su pareja, antes de la batalla)\nMi cuerpo puede fallar, mi espada puede romperse,\nPero mi juramento es el ancla de nuestras almas.\nSi caigo, búscame en el primer rayo de sol que nazca mañana.\nAllí estaré, velando por ti desde el silencio.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "alianza"
+  }
+}

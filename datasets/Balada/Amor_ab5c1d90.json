@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Asómate, niña, a tu balcón,\nque traigo guitarra y traigo flores,\nescucha la triste canción\nde este trovador de mil amores.\nNo me causes penas ni dolores,\nregálame tus dulces favores.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "balcón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Un hálito final, la vida se disuelve.\nLa luz se apaga, un eco ya no existe.\nOh, Muerte, tu silencio abraza la eternidad.\nNo existe ya un eco, se apaga la luz.\nSe disuelve la vida, un hálito final.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

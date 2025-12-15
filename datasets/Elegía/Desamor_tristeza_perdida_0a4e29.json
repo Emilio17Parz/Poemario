@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Arena que el viento cruel dispersó,\nel tiempo que huye sin un gran bien.\nLa vida se acaba, sin un solo no,\nel alma sin un sostén.\nEl grano es frágil, la verdad es dura,\nla pena que el alma cura.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Arena"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hallar sentido a la vida,\nes la búsqueda esencial,\ncurar la interna herida,\ny vencer al miedo fatal.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

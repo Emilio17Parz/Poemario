@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Brama la mar,\nal despertar.\n\nOlas gigantes,\ntan elegantes,\ny resonantes,\nal chocar.\n\nBrama la mar,\nal despertar.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "mar"
+  }
+}

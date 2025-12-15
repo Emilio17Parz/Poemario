@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bendita agua que cae del cielo,\nregando el surco y la semilla,\nhaciendo que la tierra brilla,\ny rompiendo del seco el velo.\n\nLa lluvia es vida y es consuelo,\npara el pastor y el labrador,\nes el regalo del Señor,\nque da fruto en el suelo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "lluvia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El agua nunca es la misma,\nfluye constante hacia su destino de sal.\nLame las piedras, las pule con paciencia,\ncanta una canción líquida\nque viene de la montaña.\nEl río es el viajero eterno,\nque nos enseña a soltar y seguir.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "río"
+  }
+}

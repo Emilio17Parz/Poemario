@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si te he herido te pido mil perdones,\nno fue nunca mi intención hacerte mal,\nborraremos las tristes discusiones,\npara volver al cauce natural.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "perdón"
+  }
+}

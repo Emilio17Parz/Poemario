@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Reina de plata en la noche oscura,\nmiras al mundo con palidez,\neres la dueña de la hermosura,\ny de la nocturna placidez.\nTu luz nos baña con lucidez,\ny nos regala su calidez.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "luna"
+  }
+}

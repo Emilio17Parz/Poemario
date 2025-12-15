@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruido y polvo\nlucha por la victoria\nvida o final.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Muerte, antigua certeza que se teje en el hilo de cada vida,\nllegarás con tu manto de sombra, con la quietud de la tierra sin voz.\nNo hay corona que te amedrente, ni súplica que desvíe tu paso,\ncomo un río que siempre encuentra su mar, como la noche que abraza al día,\nvienes a reclamar lo que el sol prestó, lo que el tiempo moldeó con su prisa.\n\nDespojas de formas, desvaneces el contorno del gesto y la palabra,\ntransformas el latido en el eco de un silencio primordial,\nel retorno al polvo que un día fue estrella, al aliento que se disuelve en el aire.\nLa memoria se vuelve bruma, la esencia un rumor en el viento frío,\ny el cuerpo, un navío varado en la orilla del olvido.\n\nPero en ese instante postrero, cuando el pulso se apaga y el ojo se cierra,\ncuando la trama se rompe y el espíritu se alza hacia lo ignoto,\ncomprendemos el **fin**, no como el vacío que aniquila toda luz,\nsino como el umbral a una paz que no tiene orillas, a un reposo inmutable,\nla clausura de la herida, la calma suprema después de la tormenta del ser.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "fin"
+  }
+}

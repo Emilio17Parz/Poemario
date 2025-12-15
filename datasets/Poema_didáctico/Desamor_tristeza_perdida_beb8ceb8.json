@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "De cada fracaso saca lección,\nanaliza bien tu corazón.\n¿Qué permitiste? ¿Qué te faltó?\n¿Por qué el camino se bifurcó?\nEl dolor es maestro severo,\nque te hace más fuerte y más entero.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "aprendizaje"
+  }
+}

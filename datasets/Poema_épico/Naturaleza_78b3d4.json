@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Ojo de fuego, padre de todo,\ncarro dorado que cruza el cenit,\nsin ti la vida es hielo y lodo,\ntu luz es lanza, escudo y lid.\nRey de los astros, dador de fe,\nante tu brillo me postraré.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Sol"
+  }
+}

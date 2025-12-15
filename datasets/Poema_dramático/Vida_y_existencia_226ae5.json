@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "[EL VIEJO]\nHe vivido ochenta años, he plantado, he luchado, he amado. ¿Para qué?\nEl tiempo es un ladrón que te quita todo y no te da una razón.\nEl sentido es un juguete que los dioses nos dieron para que no lloráramos.\n¡Señor! Si estás ahí, dame una señal. O déjame morir en esta estúpida duda.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

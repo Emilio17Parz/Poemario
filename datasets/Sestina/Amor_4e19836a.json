@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde en el pecho un invisible fuego,\nque tú encendiste con sola palabra,\ny que el viento no puede apagar.\nEs la llama sagrada del deseo,\nque consume la duda y el miedo,\ny me deja purificado en ti.\n\nPurificado en ti,\npor este gran fuego,\nsin ningún miedo.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

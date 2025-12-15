@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La duda ya me ganó,\ny la razón me dejó.\n\nEl miedo ya me llegó,\nla fe se me escapó,\nmi vida ya se rompió,\ny la razón me dejó.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "duda"
+  }
+}

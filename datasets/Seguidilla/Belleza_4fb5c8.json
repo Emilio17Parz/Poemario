@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Campo verde,\ny florido,\ntan bello,\ny querido.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "verde"
+  }
+}

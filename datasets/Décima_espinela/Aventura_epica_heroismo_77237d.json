@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Alcé la copa al cielo,\ntras ganar la contienda,\nsin que nadie me venda,\nconsuelo ni duelo.\nTerminó el desvelo,\ny el esfuerzo duro,\nahora estoy seguro,\nde mi gran poder,\ny puedo ver,\nun claro futuro.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

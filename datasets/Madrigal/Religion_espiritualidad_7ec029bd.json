@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Miro el cielo y a Dios,\ncreador de la luz y la belleza,\nque con gentileza\nune a los dos.\nJamás diré adiós,\npues su grandeza\nescucha siempre mi pequeña voz.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "dios"
+  }
+}

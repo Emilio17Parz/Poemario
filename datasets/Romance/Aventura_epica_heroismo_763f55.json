@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ragnar lanzó sus drakkars\nal mar del norte bravío,\npara saquear las costas\ncon su hacha y con su brío.\nQuemaron los monasterios\ny robaron el navío,\nvolviendo cargados de oro\ny de fama a su gentío.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "vikingo"
+  }
+}

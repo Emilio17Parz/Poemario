@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Siento un nudo en la garganta,\npalabras que no pueden salir,\nel dolor que tanto espanta,\nno saber cómo vivir.\n\nPalabras que no pueden salir,\nel silencio se hace fuerte,\nno saber cómo vivir,\nes como una pequeña muerte.\n\nEl silencio se hace fuerte,\nel dolor que tanto espanta,\nes como una pequeña muerte,\nsiento un nudo en la garganta.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "garganta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cruza la puerta de la eternidad,\ndeja la carga de la vanidad,\nbusca el reino de las sombras,\ndonde no existe la edad.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

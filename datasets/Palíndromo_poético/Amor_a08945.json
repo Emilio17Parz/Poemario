@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Haces reír\na mi ser\ncon amor\na mi ser\nhaces reír",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "reir"
+  }
+}

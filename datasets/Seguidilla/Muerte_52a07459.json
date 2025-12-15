@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Aunque te hayas marchado\nde nuestro lado,\ntu nombre sigue vivo\ny recordado.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

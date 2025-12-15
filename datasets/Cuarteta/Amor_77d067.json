@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu luz me ilumina,\ncuando todo es gris,\neres medicina,\nque me hace feliz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "gris"
+  }
+}

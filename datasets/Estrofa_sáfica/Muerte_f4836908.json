@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida final se escapa sin ruido,\nel alma emprende su viaje incierto,\ndomina el frío, el gran **silencio** llega,\n¡paz absoluta!",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

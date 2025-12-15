@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida fue un círculo, que al final se cerró,\nEl hombre terminó donde un día empezó.\nEl final fue la paz, el descanso por fin,\nEl libro se terminó, se acabó el motín.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "fin"
+  }
+}

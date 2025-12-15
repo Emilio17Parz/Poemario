@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza es un regalo,\nque al corazón da calor,\nen cada gesto y detalle,\nse muestra su esplendor.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

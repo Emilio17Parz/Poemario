@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No el golpe de la espada, sino el beso de Judas,\nel que rompe la carne y asesina la luz.\nDejaste el alma sola en medio de las dudas,\ny cargaste mi nombre con el peso de la cruz.\n\nAhora la noche es larga y el rencor es mi amigo,\nla única llama viva en el frío del desamor.\nPrefiero tu recuerdo cruel que el incierto sigilo,\nde una vida sin odio y sin tu fulgor.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "traición"
+  }
+}

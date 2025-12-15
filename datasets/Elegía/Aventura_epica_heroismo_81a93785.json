@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Yace en el barro el noble guerrero,\nrota su espada y sucio el blasón,\nse detuvo por fin su corazón,\nque fue valiente y aventurero.\nLloran las nubes un llanto ligero,\nsobre el cuerpo sin vida y sin acción,\nse acabó la épica y la ilusión,\nde aquel que fue del reino el primero.\nAdiós al coraje que deslumbraba,\nadiós a la fuerza de su brazo,\nque a tantos monstruos derribaba.\nLa muerte le dio su frío abrazo,\ny la leyenda que él forjaba,\nse rompió en mil pedazos.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "héroe"
+  }
+}

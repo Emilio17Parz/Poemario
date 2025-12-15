@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Trabaja no por fama pasajera,\nsino pensando en la eternidad;\nobra con justicia y con bondad,\nque esa es la riqueza verdadera.\nLo que haces por ti, contigo muere,\nlo que haces por otros, siempre prefiere.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

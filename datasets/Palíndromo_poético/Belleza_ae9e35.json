@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Paz es\nbella flor\ndel ser\nbella flor\npaz es",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "paz"
+  }
+}

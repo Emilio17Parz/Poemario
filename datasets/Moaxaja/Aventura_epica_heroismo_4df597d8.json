@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Surco la mar,\nsin descansar.\n\nBarco velero,\naventurero,\nque yo quiero,\ngobernar.\n\nSurco la mar,\nsin descansar.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "mar"
+  }
+}

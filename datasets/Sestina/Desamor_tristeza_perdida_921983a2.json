@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "De todo aquello no queda nada,\nsolo cenizas y rencor,\ny palabras que hirieron hondo.\nHe tocado el oscuro fondo,\nde la tristeza humana,\ny no veo la luz del sol.\n\nLa luz del sol,\nno alumbra nada,\nesta mañana.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "nada"
+  }
+}

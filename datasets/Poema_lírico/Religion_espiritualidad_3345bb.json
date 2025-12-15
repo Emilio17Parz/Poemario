@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La fe es el ciego andar\nsobre un mar sin orilla.\nEs la única forma de amar\nsin que el alma se humilla.\n\nEs la certeza suave\nde que una mano está,\nla única clave\nque la vida me da.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "fe"
+  }
+}

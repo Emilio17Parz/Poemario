@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El desierto es un mar de arena y sol,\ndonde la vida lucha por estar,\nbajo un cielo de fuego y arrebol,\nsin agua que la pueda refrescar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

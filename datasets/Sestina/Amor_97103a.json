@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nLa promesa de amarte no tiene final (E1: final)\nMi fe en tu palabra no temo perder (E2: perder)\nTu rostro es la forma que me da la fe (E3: fe)\nEl gozo que siento no tiene temor (E4: temor)\nLa fuerza que impulsa mi ser a crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nNo temo la fuerza que quiere crecer (E2, E5)\nEl temor me da la fe (E4, E3)\nSin error, mi dulce final (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Promesa"
+  }
+}

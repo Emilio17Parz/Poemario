@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra de la muerte\nno es oscura, es gris.\nEs la dura suerte\nde quien ya tiene raíz.\n\nCamina junto a mí,\nes mi fiel compañera,\nme obliga a existir\nen su cruel quimera.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

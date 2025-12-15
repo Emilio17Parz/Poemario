@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Siente el odio,\nel rival,\nel mal,\ndel podio.\nEl episodio,\nfatal.\nSiente el odio.\n\nCara a cara,\nen el duelo,\nel suelo,\nque ampara.\nLa vara,\ndel vuelo.\nSiente el odio.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "odio"
+  }
+}

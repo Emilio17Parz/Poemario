@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Llega la gracia\na mi vivir,\ncon eficacia.\nLlega la gracia,\nsin falacia,\npara sentir.\nLlega la gracia\na mi vivir.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "gracia"
+  }
+}

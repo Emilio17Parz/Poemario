@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Subió muy alto el muro, con gran velocidad,\nBuscando en la cima toda la verdad.\nPero el viento lo tiró, y la mano falló,\nY en el duro cemento, el sentido se rompió.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "caída"
+  }
+}

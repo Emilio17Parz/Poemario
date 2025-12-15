@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es un grito ahogado en la garganta,\nun peso que en el pecho se acomoda,\nuna canción triste, oscura oda,\nque al corazón herido desencanta.\n\nEl duelo es la tormenta que levanta\nel polvo de la ausencia que incomoda,\ny aunque el tiempo pase y todo roda,\nla pena de la pérdida se implanta.\n\nHay que aprender a andar con la herida,\na respirar el aire con pesar,\ny a retomar el curso de la vida.\n\nPero jamás se deja de extrañar\na aquella luz que fue la preferida\ny que hoy solo en sueños ha de brillar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "duelo"
+  }
+}

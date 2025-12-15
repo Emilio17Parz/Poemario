@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Cuando el llamado atruena, sin temor ni duda,\nEl corazón audaz emprende gran labor,\nDejando atrás el hogar, la plácida virtud,\nHacia senderos donde espera lo peor.\n\nEl monstruo acecha, la sombra sin piedad,\nCon espada en mano, el héroe se alza en pie,\nCruzando abismos de cruel oscuridad,\nDonde el peligro su estandarte teje.\n\nCon cada golpe, el alma es más gigante,\nSu noble causa arde cual ardiente sol,\nPor más que el mal su fuerza sea incesante,\nÉl busca la **gloria**, su eterno arrebol.\n\nY su valor inmortal, al fin, rompe el telón,\nDejando huella eterna en cada corazón.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

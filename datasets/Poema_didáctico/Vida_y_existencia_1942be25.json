@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Soñar es bueno si te da una meta,\npero actuar es lo que la consigue;\nquien solo sueña y nada persigue,\nse queda en una ilusión incompleta.\nDespierta y trabaja por tu ideal,\nhaciendo tu sueño algo real.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

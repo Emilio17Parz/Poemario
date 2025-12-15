@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La excelsa forma, cual divina gracia,\nQue al alma eleva con sereno encanto,\nSu luz emana, invisible y plena,\nCon vivo brillo que jamás declina.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

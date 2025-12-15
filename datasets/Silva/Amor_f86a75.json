@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Despierto contigo,\ny el sol nos saluda,\nla noche es muda,\ny tú eres mi abrigo.\nSiempre te digo,\nque eres mi luz,\ny cargas mi cruz,\nsiendo mi mejor y fiel amigo.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

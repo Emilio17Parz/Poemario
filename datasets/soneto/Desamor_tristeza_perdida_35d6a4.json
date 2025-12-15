@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Llegó el invierno al alma de repente,\nhelado se quedó el corazón,\nperdiendo la calor y la razón,\nvolviéndose de hielo la fuente.\n\nNo hay abrigo que sea suficiente,\npara cubrir esta desilusión,\nque muerde con feroz agresión,\ny se clava de forma inclemente.\n\nTiembla mi cuerpo por tu partida,\ncongelado en el tiempo estancado,\nbuscando una imposible salida.\n\nTodo lo cálido ha terminado,\ny en esta escarcha de la vida,\nme quedo solo y olvidado.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "frío"
+  }
+}

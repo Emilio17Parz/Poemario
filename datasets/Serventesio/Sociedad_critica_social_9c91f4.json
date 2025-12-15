@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El mundo acaba,\nsi no cuidamos,\nlo que se traba,\ny que pisamos.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "futuro"
+  }
+}

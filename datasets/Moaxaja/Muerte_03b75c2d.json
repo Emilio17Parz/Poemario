@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fría está la tumba,\nel mundo se derrumba.\n\nDuerme el viajero,\nsin su sombrero,\nni su dinero,\ny la pena zumba.\nEl mundo se derrumba.\n\nJarcha:\nMadre tierra, cúbrelo,\nque ya no tiene consuelo.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

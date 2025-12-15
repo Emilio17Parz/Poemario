@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quedo sola\nen la noche\nsin tu voz\nen la noche\nquedo sola",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "sola"
+  }
+}

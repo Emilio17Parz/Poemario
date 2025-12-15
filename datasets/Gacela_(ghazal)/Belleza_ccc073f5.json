@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se viste la pradera de mil colores,\ny alegra mi mirada con sus colores.\n\nEl rojo de la rosa, el verde mar,\nel mundo es una fiesta de colores.\n\nNo quiero ver la vida en blanco y negro,\ndame la intensidad de los colores.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "color"
+  }
+}

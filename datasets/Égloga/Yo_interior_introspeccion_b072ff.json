@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco la razón,\nde estar en la tierra,\nsi es paz o guerra,\nla misión.\n\nPasión,\npor hallar,\nel lugar,\ny la unión.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "sentido"
+  }
+}

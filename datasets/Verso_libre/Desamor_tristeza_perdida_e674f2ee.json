@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Miro las ruinas de lo que construimos, las columnas rotas, los techos caídos, el polvo sobre los muebles.\nTodo lo que fue hermoso ha sido devorado por la polilla de la rutina y el óxido del desamor.\nCaminamos entre escombros, tropezando con los restos de las promesas que no supimos cumplir.\nEs triste ver cómo cae un imperio, pero es más triste ver cómo muere un amor que se creía eterno.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "ruina"
+  }
+}

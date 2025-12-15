@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor que yo te tengo\nno se puede comparar,\nes más grande que el cielo\ny más profundo que el mar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "querer"
+  }
+}

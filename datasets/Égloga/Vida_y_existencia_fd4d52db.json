@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "TIRSIS: Largo es el camino que nos toca andar,\nentre zarzas, piedras y algún claro llano.\nALCINO: Mas no caminamos, amigo, en vano,\nsi al final del día podemos amar.\nCada paso cuenta, cada huella queda,\naunque el destino gire cual rueda.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "camino"
+  }
+}

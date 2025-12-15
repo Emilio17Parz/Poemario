@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Una cruz marca el lugar,\ndonde terminan los pasos,\nfinal de todos los ocasos,\ndonde venimos a llorar.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

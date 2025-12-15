@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estás aquí,\ny el aire cambia de densidad.\nNo hace falta que me toques;\ntu gravedad me atrae,\nme orbitas y te orbito,\nen este sistema solar privado\nque hemos fundado en la sala.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "presencia"
+  }
+}

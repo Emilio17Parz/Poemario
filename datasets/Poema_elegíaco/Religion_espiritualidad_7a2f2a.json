@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La culpa es la cadena que el alma me obliga a arrastrar sin fe,\ny el pecado es la herencia que me condena sin saber el qué.\nBusco el perdón y solo hallo el juicio constante y sin final,\nla vida sin la calma, el signo fatal.\n\nLloro por la mancha que el tiempo no quiere borrar jamás,\ny mi alma es la esclava de una amarga y cruel paz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "pecado"
+  }
+}

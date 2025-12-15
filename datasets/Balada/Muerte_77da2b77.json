@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "¿Qué habrá detrás del muro final?\n¿Ángeles bellos o soledad?\n¿Será el descanso, será el mal?\nNadie conoce la realidad.\nSolo la muerte con lealtad,\nnos mostrará la eternidad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "misterio"
+  }
+}

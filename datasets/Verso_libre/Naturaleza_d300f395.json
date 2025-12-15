@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento, una mano invisible,\npeina la cumbre del pino,\ndescorre el velo de la neblina\nsobre el valle dormido.\n\nLa piel de la tierra, un mosaico\nde líquenes y musgo, húmedo al tacto,\nguarda el eco de mil estaciones,\nel pulso lento de la roca madre.\n\nEl sol, un puñado de oro líquido,\nse derrama sobre el lienzo verde,\nilumina la danza de las motas de polvo\nen el aire quieto de la mañana.\n\nUn olor a tierra mojada, a vida\ndespertando, a savia nueva,\nse eleva, tenue, dulce,\npromesa de un ciclo que no cesa.\n\nY allí, donde la sombra se alarga,\ndonde el silencio tiene voz propia,\nel bosque se alza, catedral de troncos,\npilares de tiempo y misterio.\nLa luz se filtra, difusa, en hebras,\ndibujando patrones efímeros\nsobre el lecho de agujas y hojas caídas.\n\nLas ramas, brazos extendidos,\nabrazan el cielo,\ny bajo su dosel, la vida bulle\nen la quietud sagrada,\nun susurro constante, antiguo,\nla respiración profunda del mundo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

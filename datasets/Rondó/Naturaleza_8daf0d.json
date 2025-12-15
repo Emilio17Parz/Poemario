@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de arena caliente,\ndonde el sol quema,\nes el gran tema,\ndel superviviente.\nNo hay ninguna fuente,\nni diadema.\nMar de arena.\n\nLas dunas se mueven,\ncomo serpientes,\ncon sus dientes,\nque se atreven.\nAunque se eleven,\nson silentes.\nMar de arena.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "arena"
+  }
+}

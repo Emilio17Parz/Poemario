@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Alma en el fondo,\nsilencio busca entender.\nMi propio espejo\nme muestra lo que no veo,\nmi esencia al fin siento hoy.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

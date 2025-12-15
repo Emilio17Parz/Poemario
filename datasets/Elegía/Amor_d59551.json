@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Alma que yaces sin tu otra mitad,\nel ser que en vano te quiso amar.\nLa pena es profunda, la cruel verdad,\nel mar de la vida sin poder anclar.\nMi esencia es ahora un hueco vacío,\nsin un consuelo, con un gran frío.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

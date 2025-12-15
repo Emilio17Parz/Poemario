@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No habrá final para este cuento,\npues cada página se renueva.\nEres el aire, eres el viento,\nque a las alturas me conlleva.\n\nPues cada página se renueva,\ncon la escritura de nuestra piel.\nQue a las alturas me conlleva,\nsaboreando tu dulce miel.\n\nCon la escritura de nuestra piel,\nno habrá final para este cuento.\nSaboreando tu dulce miel,\neres el aire, eres el viento.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "final"
+  }
+}

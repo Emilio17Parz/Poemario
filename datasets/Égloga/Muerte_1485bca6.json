@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Su cayado está en el suelo,\nsin mano que lo sostenga,\nno hay quien venga,\na darnos consuelo.\nMiramos al cielo,\nque la pena contenga,\npero nada detenga,\neste desconsuelo.\nEl hueco que deja,\nes grande y profundo,\nen este ancho mundo.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

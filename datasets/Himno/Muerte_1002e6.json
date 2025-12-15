@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llama que tiembla y al fin se apaga,\nla vida es breve y el tiempo es plaga.\nQueda la cera fría y sin vida,\nseñal de la partida cumplida.\n\n¡Honrad la luz que brilló un momento,\ny que se llevó el furioso viento!\nFue guía y calor mientras duró,\ny en la memoria perduró.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "vela"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cuida tu cuerpo, que es un templo,\nde la vida y del espíritu;\nno lo dañes con vicio o ímpetu,\nsé para otros un buen ejemplo.\nMente sana en cuerpo sagrado,\nes el equilibrio deseado.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "templo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La noche despliega su manto de estrellas sobre la tierra cansada, ofreciendo el reposo y el sueño.\nLa luna, ojo de nácar, vigila desde lo alto, bañando el mundo con su luz espectral y fría.\nEs la hora de los misterios, cuando las sombras cobran vida y los miedos antiguos despiertan.\nPero también es la hora de la paz, del silencio que sana y repara el tejido roto del día.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "noche"
+  }
+}

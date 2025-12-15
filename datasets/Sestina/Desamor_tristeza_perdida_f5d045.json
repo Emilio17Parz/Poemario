@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nLa soledad me envuelve sin un final (E1: final)\nMi vida se aleja sin querer ya caer (E2: caer)\nLa pena me inunda sin una razón (E3: razón)\nEl frío me cubre con un gran dolor (E4: dolor)\nMi alma se apaga sin poder vencer (E5: vencer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nNo quiero caer sin poder vencer (E2, E5)\nEl dolor me da la razón (E4, E3)\nSin un error, sin un final (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Soledad"
+  }
+}

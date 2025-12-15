@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El hombre quiere más y más,\ny rompe la tierra por oro.\nOlvida el tesoro\nde la paz.\n¡Qué incapaz\ny qué desdoro!",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "oro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol ya se va a ocultar, (A)\nmi ser ya sin claridad, (B)\nme hunde la soledad, (B)\nya no puede ya ni amar. (A)",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "Sol"
+  }
+}

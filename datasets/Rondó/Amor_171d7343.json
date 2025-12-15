@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Bajo el cielo azul,\nte cubro con tul,\nde caricias suaves,\ncomo vuelan las aves,\nen Estambul.\n\nGuardo en el baúl,\nbajo el cielo azul.\n\nEres el abedul,\nmi norte y mi sur,\nque tienes las llaves,\nde mis graves,\ny mi gandul.\nBajo el cielo azul.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

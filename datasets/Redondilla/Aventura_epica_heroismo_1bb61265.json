@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Que una épica historia\nnuestro héroe va a forjar,\nsin temor a tropezar,\nalcanzando la gloria.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

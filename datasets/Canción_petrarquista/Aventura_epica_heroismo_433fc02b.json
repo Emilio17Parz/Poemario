@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tiembla la tierra bajo los corceles,\ny el aire se oscurece,\ncon el polvo y el humo del cañón.\nSe ganan y se pierden los laureles,\ny la muerte crece,\nen medio de la gran confusión.\nPero la razón,\nresiste firme en la batalla,\ny nunca calla.\n\nCanción, narra la hazaña,\nque ocurrió en la lejana campaña.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

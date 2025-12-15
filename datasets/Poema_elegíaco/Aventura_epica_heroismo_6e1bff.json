@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El rey ha caído, su trono es solo polvo en el duro cristal y cruel,\nla vida sin la calma, con sabor amargo a hiel.\nLa corona no vale, el poder se fue ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la gloria que mi alma no pudo salvar jamás sin voz ni paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "trono"
+  }
+}

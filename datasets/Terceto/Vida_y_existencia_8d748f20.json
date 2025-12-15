@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es ilusión, es un sueño,\nque soñamos despiertos cada día,\nsin ser de nada el absoluto dueño.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

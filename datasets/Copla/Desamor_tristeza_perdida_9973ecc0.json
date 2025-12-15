@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Dicen que el tiempo lo borra\ntodo lo que fue querer,\npero yo llevo tu nombre\ngrabado en mi padecer.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

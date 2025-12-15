@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[LA MADRE]\n(Al hijo)\nVe, amor mío, y no mires atrás. Yo enfrentaré al tirano.\nMi vida no vale tanto como la promesa de tu futuro libre.\nSi me recuerdas, hazlo con orgullo. Yo elegí este final.\nPorque amar es, a veces, saber desaparecer a tiempo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sacrificio"
+  }
+}

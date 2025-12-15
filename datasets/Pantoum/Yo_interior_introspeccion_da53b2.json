@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Alzo el vuelo,\nen mi fantasía,\ntoco el cielo,\ncon alegría.\n\nEn mi fantasía,\ntodo es posible,\ncon alegría,\ne imperceptible.\n\nTodo es posible,\nalzo el vuelo,\ne imperceptible,\ntoco el cielo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "vuelo"
+  }
+}

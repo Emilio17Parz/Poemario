@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¡Ay, vacío inmenso en el lecho frío!\nDonde tu cuerpo tibio descansaba,\nahora solo la sombra se recaba\ny llora en silencio el amor mío.\nTe fuiste como el agua de aquel río,\nque al mar de la muerte se entregaba,\ndejando esta alma que te amaba\nsumida en un eterno y gris hastío.\nYa no escucho tu risa en la mañana,\nni siento el roce de tu mano fiel,\nsolo queda el dolor que no se sana,\ny el gusto amargo de la triste hiel.\nCierro los ojos, mi esperanza es vana,\npues te has ido para siempre, mi clavel.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

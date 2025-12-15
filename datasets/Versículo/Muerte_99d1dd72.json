@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todos van a un mismo lugar; todos son del polvo, y todos vuelven al mismo polvo; ¿quién sabe que el espíritu de los hijos de los hombres sube arriba?\nHe aquí, yo soy polvo y ceniza; me he atrevido a hablar a mi Señor, aunque no soy más que un soplo pasajero.\nEsparciste como ceniza la escarcha; quien se mantiene ante su frío, solo tu palabra derrite el hielo de la muerte.\nPor tanto me aborrezco, y me arrepiento en polvo y ceniza, esperando la redención de este cuerpo mortal.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "ceniza"
+  }
+}

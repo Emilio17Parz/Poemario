@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Somos polvo,\ny nada más,\ntú te vas,\ny yo me vuelvo.\nLo resuelvo,\njamás.\nSomos polvo.\n\nUrna pequeña,\nque guarda todo,\nde este modo,\nse diseña.\nLa leña,\ndel lodo.\nSomos polvo.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

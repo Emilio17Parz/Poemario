@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "NADA [ V A C Í O ] NADA\nNADA [         ] NADA\nNADA [ V A C Í O ] NADA",
+    "tipo": "Poema concreto",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Encuentra el muerto la paz,\nque la vida le negaba,\nentre ruido y ansiedad.\nAhora en la eternidad,\ndescansa de la fatiga,\ny duerme el sueño final.\n\nEl sueño final,\ndonde hay paz,\ny no hay liga.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "paz"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El día del juicio semanal,\nsuena la alarma cruel,\nregreso al penal,\nde la oficina y el papel.\nOdiado por la nación,\nsin ninguna compasión.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Lunes"
+  }
+}

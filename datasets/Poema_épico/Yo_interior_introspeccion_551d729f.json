@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién soy? Preguntó el caballero andante,\nperdido en la selva de las máscaras.\nRompió las falsas y duras cáscaras,\nbuscando su rostro, su ser constante.\nFue una cruzada hacia el interior,\nhasta encontrar al verdadero autor.\nDescubrió que él era el rey y el grial,\nen su propia gesta espiritual.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

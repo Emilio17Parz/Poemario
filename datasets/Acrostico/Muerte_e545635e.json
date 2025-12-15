@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Partimos de barro y de la nada,\nOlvidados luego por el viento,\nLa vida es ceniza dispersada.\nVana gloria y vano sentimiento,\nOrgullo que acaba en la jornada.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

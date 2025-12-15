@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mirada clara,\nComo el agua,\nQue me ampara.\nMirada clara,\nQue para,\nLa fragua.\nMirada clara,\nComo el agua.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz es la canción que me enamora,\nla música que calma mi tormenta,\ny la señal de mi feliz aurora.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "voz"
+  }
+}

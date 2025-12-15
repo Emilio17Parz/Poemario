@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llegamos al umbral de la partida,\ndonde se acaba el juego y la comedia,\ny ya no vale cura ni remedia\npara extender la hebra de la vida.\n\nLa puerta negra queda desunida,\ny entra la sombra que a todos asedia,\nborrando la alegría y la tragedia\nen una paz profunda y definida.\n\nEl final no es castigo, es consecuencia,\nel cierre natural del argumento,\nla vuelta a la absoluta inmanencia.\n\nSe apaga del cerebro el pensamiento,\ny queda de nosotros la esencia\ndisuelta en el eterno firmamento.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "final"
+  }
+}

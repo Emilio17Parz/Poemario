@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Soñar es vivir, crear un nuevo mundo,\nrompiendo las cadenas del temor,\nes el vuelo del alma, el gozo profundo,\nla forma más pura de amor.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Soñar"
+  }
+}

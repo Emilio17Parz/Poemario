@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En el jardín marchito de mi vivir, la rosa yace mustia,\nsu púrpura recuerdo se diluye en el gris.\nLa risa que fue eco, hoy es lamento, injusta\nla ausencia que devora lo que un día fue feliz.\n\nTu imagen se levanta, etérea, en la penumbra,\nojos que fueron astros, voz que fue dulce ley.\nEn cada fibra rota, la memoria me alumbra\nel tiempo en que éramos uno, y tú eras mi rey.\n\nMas el hado inclemente, con su guadaña fría,\ncortó el hilo dorado de nuestro amanecer.\nY el dulce juramento, la frágil melodía,\nse rompió en mil pedazos, sin jamás renacer.\n\nMi **alma**, desolada, un templo sin su dios,\naún siente la impronta de tu adiós en su fervor.\nCada latido es réquiem que recuerda a los dos,\nuna estela de frío de un extinto fulgor.\n\nAsí el amor, efímero y cruel, nos enseña su ley:\nconstruye para luego demoler sin piedad.\nY aunque el corazón llore al ausente y su rey,\nqueda el rastro de un fuego en la inmensa soledad.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "alma"
+  }
+}

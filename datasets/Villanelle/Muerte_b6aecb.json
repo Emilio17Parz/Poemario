@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Suena la música triste,\npor el que ya se marchó,\ny que en vida quisiste.\n\nNo resiste,\nlo que pasó,\nsuena la música triste.\n\nTe vestiste,\nde lo que dio,\ny que en vida quisiste.\n\nInsiste,\nen el que amó,\nsuena la música triste.\n\nExiste,\nquien perdonó,\ny que en vida quisiste.\n\nYa viste,\nque terminó,\nsuena la música triste,\ny que en vida quisiste.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "réquiem"
+  }
+}

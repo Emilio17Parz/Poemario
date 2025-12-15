@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "El oro ciega al gran poder que pasa,\nmientras el pueblo gime en su cruel letargo;\nla opulencia ríe sin sentir,\ny la pobreza clama al sol que quema.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

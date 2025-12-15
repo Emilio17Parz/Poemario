@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Duele ver tanta pobreza\nen las calles de la urbe,\nmientras otros tiran pan\nsin que nada les perturbe.\nLa indiferencia es el mal\nque hace que el alma se turbe,\ny permite que la sombra\na la esperanza disturbe.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

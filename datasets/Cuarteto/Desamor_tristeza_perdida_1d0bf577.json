@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La casa se ha quedado en el vacío,\nsin tu voz resonando en la sala,\ny el silencio a mi pecho apuñala\ncon su toque de muerte y de frío.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

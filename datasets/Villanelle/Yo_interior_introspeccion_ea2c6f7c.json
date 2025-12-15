@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Escucho el silencio hablar,\ndiciendo verdades,\nque no quiero escuchar.\n\nMe hace pensar,\nen las edades,\nescucho el silencio hablar.\n\nSin descansar,\nlas voluntades,\nque no quiero escuchar.\n\nVoy a llorar,\nlas soledades,\nescucho el silencio hablar.\n\nVa a estallar,\nlas tempestades,\nque no quiero escuchar.\n\nDejo de andar,\nlas ciudades,\nescucho el silencio hablar,\nque no quiero escuchar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

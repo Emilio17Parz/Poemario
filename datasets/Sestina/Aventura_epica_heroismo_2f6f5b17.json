@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Desafían al mar,\nlos argonautas valientes,\nen su nave ligera.\nNo hay quien los espera,\nsino la aventura,\ny el destino fatal.\n\nDestino fatal,\nen el mar,\ny su locura.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "mar"
+  }
+}

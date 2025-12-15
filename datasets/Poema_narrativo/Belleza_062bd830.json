@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El escultor miró el bloque de piedra,\nrudo, deforme y sin sentido.\nQuitó la tierra y quitó la hiedra,\ncon su cincel y su martillo.\n'Dentro hay un ángel', dijo a la piedra,\n'y quiero que sea nacido'.\nGolpe tras golpe fue liberando,\nla figura que estaba dormida,\ny la belleza fue tomando,\nsu perfecta y eterna forma.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "forma"
+  }
+}

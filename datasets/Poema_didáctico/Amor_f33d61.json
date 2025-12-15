@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No busques tu espejo en el otro,\namar la diferencia es crecer,\ndomar del orgullo el potro,\ny aprender a comprender.\nEn la variedad está el gusto,\ny en la aceptación lo justo.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Diferencias"
+  }
+}

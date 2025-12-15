@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro al cielo y las estrellas cuento,\ny en su orden perfecto y armonía,\nbusco la estrella mía\nque guíe mi perdido pensamiento.\nMas el cielo responde con silencio,\ny en su paz diferencio\nmi caos interior,\nque no encuentra en lo alto su favor.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

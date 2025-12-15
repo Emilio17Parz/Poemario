@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La casa grita tu silencio,\nlos muebles extrañan tu piel,\nsiento el sabor de la hiel,\nen todo lo que presencio.\nMi soledad sentencio,\nsobre este amargo papel.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

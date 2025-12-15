@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Su nombre fue gritado en la iglesia sola,\nPero el eco no vino, ni siquiera la ola.\nEl nombre se perdió en el techo de piedra,\nComo un signo de ausencia que la vida engendra.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "eco"
+  }
+}

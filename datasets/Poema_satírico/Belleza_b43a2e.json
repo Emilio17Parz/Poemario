@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se mira y se besa,\nen cada reflejo,\nsu única empresa,\nes su pellejo.\nVacío por dentro,\ndel ego es el centro.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Vanidad"
+  }
+}

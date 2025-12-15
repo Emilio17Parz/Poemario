@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El mar nos separa con su inmensidad,\ny yo aquí me muero de soledad,\ntus cartas no llegan, tu voz no está,\ny mi esperanza se me va.\nLa distancia mata el amor más fiel,\ny lo convierte en amarga hiel,\nte siento tan lejos, tan fantasmal,\nque este alejamiento se siente fatal.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

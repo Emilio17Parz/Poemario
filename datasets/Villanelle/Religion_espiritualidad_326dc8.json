@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Espero llegar al cielo,\ndonde no hay sufrimiento,\nsolo paz y consuelo.\n\nEs mi anhelo,\nen cada momento,\nespero llegar al cielo.\n\nSin el velo,\ndel tormento,\nsolo paz y consuelo.\n\nAlzo el vuelo,\ncon el viento,\nespero llegar al cielo.\n\nSin el duelo,\ndel lamento,\nsolo paz y consuelo.\n\nEn el suelo,\ndel firmamento,\nespero llegar al cielo,\nsolo paz y consuelo.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Biblioteca de libros viejos,\nalgunos rotos, otros dorados,\ncaras, voces, tiempos y lejos,\nen estantes desordenados.\nSoy lo que fui y lo que recuerdo,\nen este archivo donde me pierdo.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Memoria"
+  }
+}

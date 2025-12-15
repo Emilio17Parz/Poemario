@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo este olmo que el tiempo ya ha marcado,\nmientras el sol se fuga tras la sierra,\ny el río, eterno, murmurando yerra\npor el valle de verdor calado;\ncontemplo el lento fin de lo creado,\nla flor que cae, el rocío que se cierra,\ny pienso en esa paz que al fin nos cierra\nlos ojos a este mundo amado.\n\n¡Oh, dulce senda que el rebaño pisa,\ncuán frágil es la huella que dejemos!\nEl canto del pastor, la brisa\nque mueve los cabellos que peinemos,\ntodo es efímero, tenue como brisa,\nun sueño fugaz que nunca retendremos.\n\nNo hay canto que redima la partida,\nni llanto que despierte al que se ha ido.\nLa vida es una luz, luego extinguida,\nun breve resplandor, un eco huido.\nY este cuerpo, que amó, que sintió herida,\nse hará **polvo** en el surco ya vencido.\n\nRegreso al vientre oscuro de la tierra,\ndonde el musgo secreto teje su manto.\nNi pena ni alegría ya lo aterra,\nsolo el silencio denso, el hondo espanto\nde saber que la faz que el día encierra\nes ya olvido, ceniza, y final llanto.\n\nLa naturaleza sigue su camino:\nel brote nuevo surge, verde y fuerte.\nMas para el hombre, el único destino\nes la implacable mano de la muerte.\nUn eco en el desierto, un peregrino\nque al fin se pierde en la noche inerte.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

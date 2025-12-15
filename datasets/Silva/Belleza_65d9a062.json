@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El verso fluye libre,\ncomo el agua que baja de la fuente,\npara que vibre,\nen nuestra mente,\nla palabra que se hace diferente.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "verso"
+  }
+}

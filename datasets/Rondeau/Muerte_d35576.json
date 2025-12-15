@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es para siempre,\nel sueño,\nsin dueño,\nni timbre,\nque vibre.\n\nQue se siembre,\ny se enjambre,\nel pequeño,\nEs para siempre.\n\nEn la cumbre,\nde la lumbre,\ncon empeño,\ny diseño,\nde mimbre,\nEs para siempre.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "siempre"
+  }
+}

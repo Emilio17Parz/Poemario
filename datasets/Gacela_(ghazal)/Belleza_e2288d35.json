@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Buscamos siempre lo perfecto,\nsin encontrar ningún defecto.\n\nPero la vida es un proyecto,\nlleño de fallos y de afecto.\n\nLa belleza real, en efecto,\nestá en lo humano y su aspecto.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "ideal"
+  }
+}

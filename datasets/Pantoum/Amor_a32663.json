@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un hilo rojo nos ha unido,\natravesando tiempo y lugar,\nnunca me siento ya perdido,\nsi a tu lado puedo estar.\n\nAtravesando tiempo y lugar,\nel destino tejió la trama,\nsi a tu lado puedo estar,\nse enciende viva nuestra llama.\n\nEl destino tejió la trama,\nnunca me siento ya perdido,\nse enciende viva nuestra llama,\nun hilo rojo nos ha unido.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "hilo"
+  }
+}

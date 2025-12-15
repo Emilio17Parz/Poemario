@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Al fin hallé mi centro y mi quietud,\ndejando atrás la guerra y el afán,\nen una inmensa y grata plenitud.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "centro"
+  }
+}

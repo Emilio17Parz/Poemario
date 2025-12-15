@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te vi llegar,\ncon luz en tu mirada,\ncambió mi suerte.\nAhora todo es claro\nbajo este cielo azul.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Eres la nota de mi melodía,\nla partitura que quiero tocar,\nllenando de música mi noche y día.\n\nSin ti la orquesta se callaría,\ny el instrumento no sabría sonar,\neres la nota de mi melodía.\n\nTu voz es canto de fantasía,\nque me permite siempre soñar,\nllenando de música mi noche y día.\n\nCantar tu nombre es mi alegría,\nlo único que quiero yo conservar,\neres la nota de mi melodía.\n\nBaila mi alma con tu armonía,\nsin detenerse a descansar,\nllenando de música mi noche y día.\n\nSuena el acorde de la poesía,\nque nuestro amor viene a crear,\neres la nota de mi melodía,\nllenando de música mi noche y día.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "canción"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "En cada pétalo que el aire mece,\nUn rastro de la gracia se desnuda;\nEl ojo encuentra el mágico esplendor,\nQue el tiempo roba mas nunca desanuda.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

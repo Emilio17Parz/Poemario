@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El fuego de nuestro deseo,\nNos quema con dulce calor,\nEs lo único que yo veo.\nEl fuego de nuestro deseo,\nEn el que siempre yo creo,\nMe llena de gran valor.\nEl fuego de nuestro deseo,\nNos quema con dulce calor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "deseo"
+  }
+}

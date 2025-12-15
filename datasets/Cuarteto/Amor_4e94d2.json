@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El roce de tu boca es el veneno,\nque cura la tristeza de mis días,\nborrando las antiguas agonías,\ny haciendo mi camino mucho más bueno.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "beso"
+  }
+}

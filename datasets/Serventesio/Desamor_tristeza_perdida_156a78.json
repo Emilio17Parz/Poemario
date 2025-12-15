@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No encuentro mi sitio, no hay más lugar (A),\ndespués que tu sombra se fue de aquí (B),\nmi vida es un naufragio, sin poder sanar (A),\nsin el dulce y puro 'sí' (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Lugar"
+  }
+}

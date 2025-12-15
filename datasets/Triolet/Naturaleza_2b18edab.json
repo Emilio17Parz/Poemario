@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El verde monte al sol se entrega,\nCon el rumor del claro río.\nLa brisa suave que nos llega.\nEl verde monte al sol se entrega,\nNinguna pena nos doblega.\nDel tiempo que pasó el desvío.\nEl verde monte al sol se entrega,\nCon el rumor del claro río.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "río"
+  }
+}

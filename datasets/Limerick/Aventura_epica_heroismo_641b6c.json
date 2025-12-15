@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Un dragón con acidez,\nsopló fuego alguna vez.\nQuemó al aldeano,\ny a su hermano,\ncon gran rapidez.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

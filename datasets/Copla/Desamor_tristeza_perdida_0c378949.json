@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te busco por las paredes\ny solo encuentro tu sombra,\nparece que estoy oyendo\ncuando tu boca me nombra.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

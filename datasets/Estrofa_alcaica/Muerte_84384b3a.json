@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo camino tiene su gran fin,\ncuando se apaga la luz vital,\nsuena triste la campana,\nen el momento del final.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "fin"
+  }
+}

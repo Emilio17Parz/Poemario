@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Lejos estás,\npero vendrás.\n\nEl tiempo pasa,\nen nuestra casa,\ny no fracasa,\njamás.\nLejos estás,\npero vendrás.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

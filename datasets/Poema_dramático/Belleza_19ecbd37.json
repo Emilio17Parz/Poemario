@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "MAESTRO: ¡Más alto el salto! ¡Punta del pie!\nBAILARINA: Me sangran los dedos, ya no sé.\nMAESTRO: La belleza cuesta, el arte duele.\nBAILARINA: Siento que el cuerpo se me demuele.\nMAESTRO: Sonríe al público, oculta el llanto.\nBAILARINA: Es demasiado, no aguanto tanto.\nMAESTRO: Eres un cisne, vuela y gira.\nBAILARINA: Vuelo y muero en esta mentira.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

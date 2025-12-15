@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Parca, con su guadaña desafilada,\nNo un juez severo, ni un lúgubre villano;\nEs más bien un burócrata de mirada cansada,\nQue archiva existencias, con un gesto mundano.\n\nEl hombre, en su absurda búsqueda de demora,\nInventa dietas, gurús y elixires caros;\nCreyendo que la cita fatal nunca le llega la hora,\nMientras su epitafio ya prepara sus faros.\n\nY la **eternidad**, ¡oh, promesa sin fin!\n¿Será un edén de arpas o un averno atroz?\nQuizás es solo el eco de un viejo violín,\nO la misma rutina, sin poder alzar la voz.\n\nAl final, cuando llega el silencio y la paz,\nY el mármol se yergue, con frase pomposa;\nLa Muerte solo susurra, con gesto mordaz:\n\"¡Qué tonto este afán de ser otra cosa!\"",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

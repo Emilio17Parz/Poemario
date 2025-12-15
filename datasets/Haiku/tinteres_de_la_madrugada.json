@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "\"Tinteres de la madrugada\"",
   "poema": {
     "texto": "Tranquila noche cede espacio,\nLa madrugada te reclama,\nTinte azul en el cielo.\n\nCrepúsculo suave y calma,\nLluvia de estrellas descansa,\nMadrugada inicia.",

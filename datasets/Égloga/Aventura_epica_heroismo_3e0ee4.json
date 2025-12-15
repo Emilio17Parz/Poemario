@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Volvimos a casa al fin,\ntras la larga transhumancia,\ncon la ganancia,\nde ver el jardín.\n\nSuena el clarín,\ndel regreso feliz,\ny curamos la cicatriz,\nen nuestro confín.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "regreso"
+  }
+}

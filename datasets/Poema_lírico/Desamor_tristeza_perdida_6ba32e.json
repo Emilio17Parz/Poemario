@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Despierto y te busco\nen el hueco frío.\nLa verdad me golpea\nen el rostro mío.\n\nLa noche era el sueño,\nla vigilia, el horror,\nmi vida es la pena\nsin el dulce amor.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "despertar"
+  }
+}

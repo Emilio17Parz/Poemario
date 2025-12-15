@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La vida es una ficción,\nsin ninguna convicción.\n\nEl amor no fue real,\nla pena me es fatal,\nel mundo ya está mal,\nsin ninguna convicción.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "desengaño"
+  }
+}

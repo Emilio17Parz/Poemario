@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La pena habita en mi mirada,\ndesde que tú no estás aquí,\ny veo la vida terminada.\n\nMi alma se siente cansada,\nde tanto que por ti sufrí,\nla pena habita en mi mirada.\n\nEs una carga muy pesada,\nque no me deja ser feliz,\ny veo la vida terminada.\n\nComo una flor pisoteada,\nque pierde su dulce matiz,\nla pena habita en mi mirada.\n\nNo tengo ruta ni jornada,\nsolo una enorme cicatriz,\ny veo la vida terminada.\n\nQuedó la historia cancelada,\ncon un final de color gris,\nla pena habita en mi mirada,\ny veo la vida terminada.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "pena"
+  }
+}

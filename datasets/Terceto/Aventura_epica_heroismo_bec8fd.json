@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El coraje es la llave,\ny actuar con honor,\ncomo el vuelo del ave.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "valor"
+  }
+}

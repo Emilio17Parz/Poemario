@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Dicen que vaga una pena,\npor los pasillos oscuros,\natravesando los muros,\narrastrando su cadena.\nEs un alma que no cena,\nni duerme ni descansa,\nuna figura mansa,\nque busca su redención,\nen la triste mansión,\ndonde el miedo se afianza.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "fantasma"
+  }
+}

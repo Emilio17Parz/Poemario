@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El perfume es aire, la esencia de un breve jazmín (A),\nque el alma recoge sin poder callar (B),\nla vida es un canto que no tiene fin (A),\nla calma que viene a sanar (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Perfume"
+  }
+}

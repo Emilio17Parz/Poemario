@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Tener fe en el porvenir,\nes la fuerza que nos guía,\npara ver la luz del día,\ny dejar de sufrir.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "fe"
+  }
+}

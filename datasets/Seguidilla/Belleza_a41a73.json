@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La música suena,\nen el aire,\ncon gracia,\ny donaire.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "suena"
+  }
+}

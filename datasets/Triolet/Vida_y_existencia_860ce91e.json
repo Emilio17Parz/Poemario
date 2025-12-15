@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Doy un paso\nhacia el futuro,\nsin retraso.\nDoy un paso,\nno hago caso\nal muro duro.\nDoy un paso\nhacia el futuro.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "paso"
+  }
+}

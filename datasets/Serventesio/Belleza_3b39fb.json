@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Un suspiro breve que el alma no puede callar (A),\npor la hermosura que ha sabido ver (B),\nla vida es un canto que sabe volar (A),\nla fuerza que ayuda a crecer (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Suspiro"
+  }
+}

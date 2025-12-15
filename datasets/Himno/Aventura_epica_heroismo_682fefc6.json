@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Desde el confín del alba, un clarín nos llama,\nLa senda de lo ignoto el espíritu inflama.\nCon brío inquebrantable, la frente alza el valiente,\nHacia la gesta eterna, audaz, omnipotente.\n\nCruzando abismos gélidos y sierras sin igual,\nDonde el viento susurra un presagio letal.\nDragones milenarios, y sombras sin piedad,\nEnfrenta el alma fiera con su luz y su verdad.\n\nEl temple de su espada es la justicia en luz,\nUn credo inextinguible que alumbra cada cruz.\nNo importan las heridas, ni el hondo desgarro,\nSu sangre es promesa, su espíritu un farro.\n\nY cuando el polvo baje, y calme ya el fragor,\nGrabado en los anales, con eterno fulgor.\nEl eco de sus hazañas, que el tiempo ha de guardar,\n¡Resuene para siempre el sagrado **honor**!",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "honor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Morí mil veces,\npara aprender,\na renacer,\ncomo los peces.\nEn las heces,\ndel padecer,\nhallé el placer,\nde las nueces.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "renacer"
+  }
+}

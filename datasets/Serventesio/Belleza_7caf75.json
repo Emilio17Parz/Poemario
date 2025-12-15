@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El arte es la expresión,\nde lo bello y sublime,\nque causa emoción,\ny al espíritu redime.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "arte"
+  }
+}

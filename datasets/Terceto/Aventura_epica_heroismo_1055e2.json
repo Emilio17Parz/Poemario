@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Navegar por el océano,\nes la vida que consuela,\nal espíritu profano.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "mar"
+  }
+}

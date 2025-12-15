@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las frondas viejas, donde el sol moría lento,\nrevelan hoy un eco de lo que fue esplendor.\nUn hálito de ausencia, un gris presentimiento,\nse cierne sobre el valle, sobre cada flor.\n\nEl **bosque** centenario, guardián de mil secretos,\ndonde el liquen tejía su manto en la quietud,\nrecuerda aún los cantos de pájaros discretos,\ny el aire puro, virgen de toda inquietud.\n\nMas hoy la sombra pesa, un lamento callado\nasciende de las grietas, del musgo ya reseco.\nEl arroyo que antaño juguetón había hollado,\nahora arrastra el silencio, un desolado eco.\n\nLa encina noble gime su dolor de raíces,\nsintiendo el tiempo yermo que no perdona edad.\nY en este adiós sereno de bellas cicatrices,\nla naturaleza llora su propia fugacidad.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Limpia conciencia\ncumplir con la palabra\nnoble virtud.\nVale más que el dinero\ny que la propia vida.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "honor"
+  }
+}

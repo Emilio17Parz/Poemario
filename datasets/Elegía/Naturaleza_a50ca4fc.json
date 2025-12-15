@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Muere el día en occidente,\nsangra el cielo en su herida,\nse escapa la luz y la vida,\nde forma lenta y doliente.\nEl sol se esconde, latente,\ndejando la tierra sumida\nen la sombra desmedida\nque avanza fría y silente.\nAdiós, claridad hermosa,\nhasta mañana, si vienes,\nte cubres con negra losa.\nLas sombras son tus rehenes,\ny en esta hora luctuosa,\nmis penas tú las tienes.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "tarde"
+  }
+}

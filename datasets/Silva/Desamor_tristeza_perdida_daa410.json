@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lejos estamos,\nel uno del otro,\ncomo un potro,\nque no domamos.\nYa no nos amamos,\ncon la cercanía,\ny la vía,\nse rompe en los tramos.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

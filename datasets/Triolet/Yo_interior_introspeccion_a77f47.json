@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Ruido interior,\nQue no me deja,\nSentir amor.\nRuido interior,\nCausa dolor,\nY vieja queja.\nRuido interior,\nQue no me deja.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "ruido"
+  }
+}

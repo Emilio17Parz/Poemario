@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por senda ancestral,\nLa espada en mano alzada,\nHonor se forjó.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "espada"
+  }
+}

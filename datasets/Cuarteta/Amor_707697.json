@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fue nuestro destino,\nencontrarnos los dos,\nen este camino,\nde la mano de Dios.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "dos"
+  }
+}

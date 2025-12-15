@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo el mármol frío, al fin descansas,\nlejos de toda pena y afán.\nYa no hay luchas, ni ansias,\nsolo la quietud del pan.\n\nEl silencio es profundo y sereno,\ncomo un lago que no tiene veneno.\nEl mundo que te hirió ya no te toca,\nsolo el musgo que lentamente te arroca,\nen el sueño más calmo y postrero.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "losa"
+  }
+}

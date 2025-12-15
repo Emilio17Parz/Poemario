@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Pesa como losa tu ausencia,\nen el cuarto que compartimos,\nlleno de ecos y de polvo.\nA veces creo que vuelvo,\na escuchar tu paso leve,\npero es solo el viento cruel.\n\nEl viento cruel,\ntrae tu ausencia,\ny nada se mueve.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

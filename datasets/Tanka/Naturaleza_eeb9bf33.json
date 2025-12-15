@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Olas gigantes,\ngolpean la roca dura\ncon furia azul.\nEl mar canta su historia\nde sal y de misterio.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "mar"
+  }
+}

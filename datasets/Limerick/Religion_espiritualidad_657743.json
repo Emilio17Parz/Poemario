@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Quería subir a la nube,\npero la escalera no sube.\nSe quedó abajo,\npasando trabajo,\ny viendo lo que no tuve.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

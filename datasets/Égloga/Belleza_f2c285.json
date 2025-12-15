@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Todo es blanco y silencioso,\npureza que cae del cielo,\ncubriendo con fino velo,\nel mundo ruidoso y ansioso.\n\nEs un milagro asombroso,\nver el campo transformado,\nen un lienzo inmaculado,\ny peligrosamente hermoso.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

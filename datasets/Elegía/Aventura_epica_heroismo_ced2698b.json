@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Las grandes salas guardan hoy un triste son,\nLas cuerdas del arpa, un quejido de añoranza y desazón.\nNo más el fragor de la gesta audaz,\nNi el acero cantando una heroica paz.\nLa lanza caída, el yelmo sin cerviz,\nLa senda virgen donde ya no hay raíz.\n\nOh, cómo cabalgaron bajo el sol y el cierzo,\nDesafiando el destino, el más cruento esfuerzo.\nAbrieron caminos donde nadie osó soñar,\nCruzaron abismos que nos hacían temblar.\nDerribaron tiranos, liberaron almas en cadenas,\nSus nombres, un eco que corre por las venas.\n\nCon alma de hierro, mirada de halcón,\nEn cada batalla, en cada expedición,\nFueron faro de fuerza, baluarte de verdad,\nForjando su leyenda con gran tenacidad.\nY el *honor*, cual divisa, grabada en su blasón,\nGuiaba sus pasos, su más noble razón.\n\nMas llega el crepúsculo, el fin del gran cantar,\nEl tiempo implacable que todo hace mermar.\nLa llama se apaga, la estirpe se diluye,\nEl viento del olvido sus hazañas destruye.\nEl trono vacío, la capa sin usar,\nUn eco de gloria que no puede retornar.\n\nPero la memoria, un torrente sin igual,\nMantendrá su lumbre, su gesta inmortal.\nEn cada cuento al calor del hogar,\nEn cada verso que se vuelve a recitar,\nVivirán por siempre, la espada, el adalid,\nEl espíritu épico, su valiente lid.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "honor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Por la fe cayeron los muros de Jericó después de rodearlos siete días; tocaron las trompetas y el pueblo gritó a gran voz.\nContigo desbarataré ejércitos, y con mi Dios asaltaré muros; porque tú has ceñido de fuerza mis lomos para la batalla.\nHe puesto a Jerusalén por copa que hará temblar a todos los pueblos de alrededor; y será piedra pesada a todos los pueblos.\nSobre tus muros, oh Jerusalén, he puesto guardas; todo el día y toda la noche no callarán jamás.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "muros"
+  }
+}

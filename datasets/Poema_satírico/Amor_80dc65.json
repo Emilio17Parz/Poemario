@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ese fantasma que vuelve en redes,\na ver si eres feliz o no,\nescalando las paredes,\ndel bloqueo que se ganó.\nComo un zombie regresa,\na ver si queda alguna presa.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Ex"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche es más negra, sin luna ni sol (A),\nel frío me abraza con gran dolor (B),\nsin tu ser no hay dulce arrebol (A).\n\nLa vida se extingue, sin un fulgor (B),\nel alma se pierde, sin un final (C),\nla forma de no hallar el valor (B).\n\nMi vida es un drama, el golpe fatal (C),\nla pena me cubre, sin piedad (D),\nla ausencia de todo bien total (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Noche"
+  }
+}

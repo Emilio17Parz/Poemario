@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Caronte boga por la laguna estigia,\nlleva a los muertos a la región sombría,\nmanteniendo vigía\nsobre la barca que los guía.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "barca"
+  }
+}

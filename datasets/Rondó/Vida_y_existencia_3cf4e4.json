@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Juega la suerte,\nsu carta marcada.\nEn la jugada,\nde vida y muerte.\n\nHay que ser fuerte,\nen la jornada.\nJuega la suerte,\nsu carta marcada.\n\nPara verte,\nliberada.\nNada,\nte divierte.\nJuega la suerte.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "suerte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Nos cubre a todos el gran silencio,\ncuando la voz se apaga al final,\ny el gran misterio yo presencio.\n\nYa no hay disputa ni diferencio,\nel bien del mal, ni el bien del mal,\nnos cubre a todos el gran silencio.\n\nEs el estado que reverencio,\npor su quietud tan sepulcral,\ny el gran misterio yo presencio.\n\nDe la existencia me desentiendo,\ncruzando el pálido umbral,\nnos cubre a todos el gran silencio.\n\nEn este instante me conciencio,\nde nuestra suerte natural,\ny el gran misterio yo presencio.\n\nTodo termina y sentencio,\nque es el destino universal,\nnos cubre a todos el gran silencio,\ny el gran misterio yo presencio.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

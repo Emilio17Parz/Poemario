@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Clavada en el suelo,\nRecuerdo del final.\nUniendo tierra y cielo,\nZanja todo mal.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "CRUZ"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "[LA ACTRIZ]\n(Detrás del escenario)\nMe aplauden por esta curva, por esta mueca de alegría que no siento.\nLa sonrisa es el arma más poderosa de la mujer. Es el camuflaje del dolor.\nMe la pongo como un guante. Y nadie ve el terror que hay detrás de mis ojos.\nLa belleza es un deber. Y mi sonrisa, mi más grande y cruel actuación.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

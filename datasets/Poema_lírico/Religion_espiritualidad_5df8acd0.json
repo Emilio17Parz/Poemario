@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Espíritu de vida,\nsopla en mi ser,\nhazme renacer,\nde la caída.\nSana la herida,\ncon tu poder.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

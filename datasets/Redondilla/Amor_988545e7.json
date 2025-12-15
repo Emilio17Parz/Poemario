@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Guardo tu nombre en secreto\nen el fondo de mi pecho,\ny me siento satisfecho\ncon este amor tan discreto.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

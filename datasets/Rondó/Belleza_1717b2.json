@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dulce aroma,\nque embriaga,\nque paga,\nla loma.\nSe asoma,\nla llaga.\nDulce aroma.\n\nEsencia flor,\ndelicada,\nguardada,\ncon amor.\nEl olor,\namada.\nDulce aroma.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "aroma"
+  }
+}

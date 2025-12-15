@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El viento las ramas remueve,\ncon su fuerza invisible y audaz,\ncomo un soplo gigante y leve.\n\nNo deja a las hojas en paz,\ny las lleva en su danza locura,\ncon un ritmo veloz y tenaz.\n\nRecorriendo la gran llanura.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "aire"
+  }
+}

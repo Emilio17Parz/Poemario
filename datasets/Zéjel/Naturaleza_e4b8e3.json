@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El desierto no tiene fin,\nmi alma es un trajín.\n\nLa arena ya me ganó,\nla vida me traicionó,\nel alma ya no ve,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

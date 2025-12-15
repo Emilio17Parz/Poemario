@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Juré a mi rey la vida, y mi juramento se fue con el viento fiel,\nla vida sin la calma, con sabor amargo a hiel.\nLa palabra no tiene valor, el honor se rompió ya sin luz sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por la lealtad que mi alma no pudo guardar jamás sin voz ni paz,\ny mi ser es la esclava de una cruel faz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "promesa"
+  }
+}

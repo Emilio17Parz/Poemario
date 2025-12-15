@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Nadie conoce su hado\nni lo que vendrá después,\nel futuro está cerrado\ny oculto a nuestro interés.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "hado"
+  }
+}

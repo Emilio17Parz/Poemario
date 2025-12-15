@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dos pozos de misterio y de luz,\nventanas donde asoma el ser interno,\ncapaces de crear el propio infierno\no de cargar con dicha nuestra cruz.\n\nHay ojos que brillan cual andaluz,\ny otros que reflejan el invierno,\npero en todos habita lo eterno\ncuando la honestidad es el capuz.\n\nLa belleza no está en el color,\nsino en la profundidad sincera\nque muestra la verdad sin temor.\n\nUna mirada limpia y verdadera\nes la joya de mayor valor\nque en el rostro humano nos espera.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mirada"
+  }
+}

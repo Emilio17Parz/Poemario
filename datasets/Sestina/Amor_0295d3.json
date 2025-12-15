@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nMi corazón late con dulce razón (E1: razón)\nLa seda de tu piel no temo perder (E2: perder)\nMi vida es la senda que rompe la sombra (E3: sombra)\nLa única verdad que mi alma atesoró (E4: atesoró)\nContigo la fe que me lleva a crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nLa seda que quiero contigo crecer (E2, E5)\nLa sombra que atesoró toda la razón (E4, E3)\nMi vida no tiene error ni razón (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Corazón"
+  }
+}

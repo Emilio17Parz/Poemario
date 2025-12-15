@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu sombra vaga por la mansión,\nyo la persigo sin alcanzar,\nes una triste y vana ilusión,\nque no me deja nunca soñar.\nBalada de pena y penar,\nver tu fantasma y no tocar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La mujer es,\nla obra maestra,\nque nos demuestra,\nlo que Dios es.\nA sus pies,\ncae la flor,\ncon gran honor,\nde su hermosura,\ny su ternura,\nde puro amor.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "mujer"
+  }
+}

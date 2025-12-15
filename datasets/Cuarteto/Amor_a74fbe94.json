@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te ofrezco mi respeto y mi lealtad,\ncomo un pacto sagrado y verdadero,\nporque eres el amor que yo prefiero\ny la fuente de mi felicidad.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "lealtad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dicen que el amor es ciego,\nyo digo que es idiota,\nse lanza al fuego el lego,\ny la realidad no nota.\nVe virtudes donde hay vicio,\ny se tira al precipicio.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Ciego"
+  }
+}

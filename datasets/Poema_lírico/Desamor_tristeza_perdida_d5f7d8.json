@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El reloj se detuvo\nel día que te fuiste.\nEl tiempo no tuvo\npiedad, ni lo viste.\n\nAhora vivo en un ayer\nque no quiere morir,\nla condena de un ser\nque no puede huir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

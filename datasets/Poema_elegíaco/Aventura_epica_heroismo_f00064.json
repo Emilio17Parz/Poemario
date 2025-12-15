@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Dejé la bandera, mi honor se rompió con el golpe atroz sin fe ni mal,\nla vida sin la calma, el sino fatal.\nLa cobardía es el castigo de un ser sin razón sin fin,\nla vida sin la calma, el triste motín.\n\nLloro por el valor que mi alma no pudo tener jamás sin luz ni voz,\ny mi destino es el castigo de un triste arroz.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "deserción"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Divina esencia, don del Creador,\nQue en cada estación muestra su sazón,\nY late, pura, en cada corazón,\nUn eco eterno de su vasto amor.\n\nEn un paisaje de sublime olor,\nO en la melodía de una canción,\nQue vibra tierna en profunda emoción,\nReside su profundo resplandor.\n\nMas el **arte** la sabe contemplar,\nVenciendo de la vida el fugaz dolor,\nPara que eterna pueda siempre ser.\n\nSu esencia pura logra así brillar,\nUn eco inmortal de su Creador,\nDejando en el espíritu un placer.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hablando se entiende la gente,\nno con gritos ni armas,\nsea inteligente,\ny calma las alarmas.\nLa palabra es puente,\nhacia la otra fuente.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Diálogo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Se sienta en el trono,\nCon peso real,\nSin cambiar el tono.\nSe sienta en el trono,\nNo pide el abono,\nDel bien y del mal.\nSe sienta en el trono,\nCon peso real.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "trono"
+  }
+}

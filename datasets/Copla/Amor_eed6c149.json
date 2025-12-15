@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El amor que yo te tengo\nno se lo lleva el invierno,\nes como piedra de río,\nduro, constante y eterno.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

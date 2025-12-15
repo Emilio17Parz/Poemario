@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fue una traición,\nlo que me hiciste,\nsin compasión,\nte despediste.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "hiciste"
+  }
+}

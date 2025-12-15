@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El tiempo es un río invisible que nos arrastra hacia el océano del olvido sin que podamos nadar contracorriente.\nIntentamos atrapar los minutos con las manos, pero se escurren como agua, dejándonos solo la humedad del recuerdo.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

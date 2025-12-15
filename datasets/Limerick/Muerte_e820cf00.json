@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida es un breve chispazo,\nque acaba de un fuerte portazo,\nno te lo tomes mal,\nes el acto final,\ny te vas al eterno regazo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Final"
+  }
+}

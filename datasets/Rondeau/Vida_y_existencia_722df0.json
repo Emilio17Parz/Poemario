@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Largo camino,\nes el destino.\nLleno de piedras,\ny de hiedras,\ny de espino.\n\nPeregrino,\ny divino.\nEntre las yedras,\nlargo camino.\n\nCon el vino,\ny el molino.\nNo te arredras,\nsi te empiedras,\nen el pino,\nlargo camino.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "camino"
+  }
+}

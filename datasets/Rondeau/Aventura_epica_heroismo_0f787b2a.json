@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Vuelvo a casa al fin,\ntras el largo trajín,\nde la guerra lejana,\ncon el alma ufana,\ny el cuerpo pueril.\n\nEs el dulce festín,\ndel guerrero y su fortín,\nque la paz emana,\nvuelvo a casa.\n\nLejos del clarín,\ny del sangriento confín,\nmi tierra me llama,\ny mi gente me ama,\nen el nuevo jardín,\nvuelvo a casa.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "retorno"
+  }
+}

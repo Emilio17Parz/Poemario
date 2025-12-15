@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Toca mi alma con tu mirada,\nque se siente tan amada,\nlejos de la oscura soledad,\nen esta bella realidad,\npor el destino dibujada.\n\nEres la luz en la alborada,\nmi dulce y tierna camarada,\nque despierta con bondad,\ntoca mi alma.\n\nNo quiero verla desgraciada,\nni por el dolor azotada,\nquiero vivir en la verdad,\nde nuestra gran felicidad,\nmientras tu mano delicada,\ntoca mi alma.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "alma"
+  }
+}

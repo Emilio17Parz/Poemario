@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Muere la tarde en occidente,\nsangrando luz en las nubes,\nmientras las sombras subes,\ny se apaga el sol ardiente.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "tarde"
+  }
+}

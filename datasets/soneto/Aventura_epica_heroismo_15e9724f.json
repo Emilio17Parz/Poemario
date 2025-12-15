@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Zarpar hacia lo nunca conocido,\ndejar el puerto y la seguridad,\nbuscando la oculta verdad\nen el mapa jamás recorrido.\n\nEl mar se muestra fiero y atrevido,\nponiendo a prueba la voluntad,\npero impulsa la curiosidad\nal alma del viajero decidido.\n\nCada isla es un nuevo misterio,\ncada tormenta una lección,\ny el barco su único imperio.\n\nLa aventura es la gran pasión,\nescapar del triste cautiverio\ny hallar en el mundo su canción.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

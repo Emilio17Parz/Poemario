@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "El dolor es maestro severo,\nque enseña con golpe y herida,\nla lección más dura de la vida\nal pobre y triste pasajero.\n\nCincela el alma como el acero,\ndejándola fuerte y curtida,\no la deja rota y perdida\nen el oscuro agujero.\n\nQuien no ha sufrido no sabe,\nlo que vale una alegría,\nni tiene del gozo la llave.\n\nTras la noche oscura y fría,\nllega el alba suave,\ny canta la melodía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "maestro"
+  }
+}

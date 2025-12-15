@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Puntos de luz lejana,\nen el manto de la noche,\nsin hacer ningún derroche,\nbrilláis hasta la mañana.\nBelleza soberana,\nque miráis desde el coche.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "estrella"
+  }
+}

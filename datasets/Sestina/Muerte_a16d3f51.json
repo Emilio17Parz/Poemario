@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El miedo al gran olvido,\nes lo que al hombre aterra,\nmás que la muerte en sí.\nSaber que no estaré ahí,\ny que mi nombre se borra,\ncomo huella en el agua.\n\nHuella en el agua,\nhacia el olvido,\nque nadie socorra.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

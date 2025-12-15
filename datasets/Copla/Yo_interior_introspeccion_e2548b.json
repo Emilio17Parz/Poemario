@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "En el gran silencio\nse oye la verdad,\nque a veces se esconde\nen la realidad.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

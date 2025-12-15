@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Palabra terrible que rompe el cristal,\nel adiós es el golpe, el corte letal.\n¡Ay, triste destino que nos separó!,\ny la puerta del gozo para siempre cerró.\n\nSe eleva mi canto como un funeral,\npor el amor muerto, por el cruel final.\nAdiós a los sueños, adiós a la paz,\nel mundo se cubre con negro antifaz.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

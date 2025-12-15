@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Yo quería la tumba, el descanso sereno y fiel,\npero la vida me obliga a beber esta hiel.\nMe ata al recuerdo, a la pena sin fin,\nla condena de un ser sin ningún motín.\n\nTu paz es tu victoria, mi vivir es mi cruz,\ny la única esperanza es la ausencia de luz.\nQue el cielo me devuelva el dolor que no tuve,\ny me quite esta alma que nunca se mueve.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "condena"
+  }
+}

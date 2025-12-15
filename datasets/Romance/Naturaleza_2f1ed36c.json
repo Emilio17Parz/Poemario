@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Llora el cielo gris plomizo,\nsobre los tejados rojos,\nlavando la cara sucia\nde la calle y los abrojos.\nSuenan las gotas cayendo,\ncomo miles de cerrojos,\nque encierran a la ciudad\nen sus húmedos antojos.\nBendita el agua que cae,\nquitando polvos y enojos,\ny dejando la tierra fresca\npara los verdes manojos.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "gris"
+  }
+}

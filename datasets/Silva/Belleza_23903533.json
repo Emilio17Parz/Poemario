@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del cielo la divina musa,\nque a nadie rehúsa.\nInspira la canción,\ny la emoción,\ndel poeta que escribe,\ny percibe.\nLa gracia de lo bello,\ny su destello.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "musa"
+  }
+}

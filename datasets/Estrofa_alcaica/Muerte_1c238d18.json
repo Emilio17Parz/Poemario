@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La vida, un soplo frágil, huye sin tregua,\ncual sombra errante al alba que no retorna.\nEl frío abrazo espera,\nsilente abismo final.\n\nSe borra el gesto amado, la voz querida,\nla luz que fue en los ojos, dulce fulgor.\nEl mundo sigue y gira,\nmas ya no existe aquel.\n\nMas la memoria guarda su tenue huella,\nun eco fiel que vence al oscuro fin.\nEn cada verso vive\nsu esencia, inmortal.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estaba escrito en las estrellas antes de que tuviéramos nombre.\nQue nuestros pasos convergerían en este punto exacto del destino.\nNo fue el azar quien nos trajo, sino la fuerza gravitatoria del amor necesario.\nSomos marionetas felices en las manos de una providencia que nos une.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "destino"
+  }
+}

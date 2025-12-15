@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Suelo sagrado que nos das sustento,\nmadre de la roca, la flor y el viento.\nTe cantamos himnos de gracias y honor,\npor tu fruto dulce y tu inmenso amor.\n\nDe tu vientre oscuro brota el manantial,\neres el principio y el lecho final.\n¡Loada sea tu fuerza, Tierra fecunda!,\nque la vida entera en tu seno inunda.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "tierra"
+  }
+}

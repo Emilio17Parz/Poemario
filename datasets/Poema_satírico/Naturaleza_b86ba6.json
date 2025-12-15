@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Inmensidad azul y bella,\ndonde los peces hacen pis,\nseguimos la estrella,\nhasta llegar a este país.\nSal, arena y quemadura,\nla playa es una tortura.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

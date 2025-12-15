@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Está escrito el guion o lo escribo yo?\n¿Hilos de parcas o libre albedrío?\nLa duda eterna que siempre dolió,\ncomo la corriente de un río frío.\nNavego mi barco, sea cual sea,\nla fuerza oculta que me marea.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Destino"
+  }
+}

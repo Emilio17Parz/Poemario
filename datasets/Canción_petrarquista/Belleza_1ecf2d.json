@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El sol ya se retira,\ny deja el cielo en oro y grana tintas;\ncon luces pintas,\nel mundo expira\nun suspiro de paz y de sosiego;\ncesó el fuego\ndel mediodía ardiente,\ny llega el frescor suave de la fuente.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "atardecer"
+  }
+}

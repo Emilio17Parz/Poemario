@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "ELISO: Ni el diamante ostenta tal brillo\ncomo el rocío sobre la hierba.\nALCINO: Belleza humilde que se conserva\nlejos del lujo de un gran castillo.\nBrilla la gota con luz de sol,\nmás pura que el oro y el arrebol.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "brillo"
+  }
+}

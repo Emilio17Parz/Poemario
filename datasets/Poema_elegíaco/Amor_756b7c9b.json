@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "¿Dónde se fue el dulzor de aquel beso?\nQue prometía un mundo diferente,\nhoy es recuerdo amargo y decadente,\ny de su ausencia vivo triste y preso.\nLabios que ayer sellaron la alegría,\nhoy callan en la tumba de la día.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "beso"
+  }
+}

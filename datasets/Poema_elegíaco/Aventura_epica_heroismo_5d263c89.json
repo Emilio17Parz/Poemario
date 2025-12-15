@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La espada yace fría,\nsin mano que la empuñe,\nel óxido la bruñe,\nsin la valentía.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "espada"
+  }
+}

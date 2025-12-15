@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Desenrolló el pergamino, con tinta y con luz,\nVio el camino secreto, la ruta de la cruz.\nEl mapa era la fe, el destino la prueba,\nSin guía, el camino nunca se renueva.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

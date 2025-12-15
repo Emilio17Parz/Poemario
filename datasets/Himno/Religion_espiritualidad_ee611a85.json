@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Oh, fe bendita, roca y sostén!\nQue nos levantas cuando caemos,\ny en lo invisible siempre creemos,\nbuscando el supremo y divino bien.\nFuerza que mueve montañas y mares,\ny nos consuela en nuestros pesares.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "fe"
+  }
+}

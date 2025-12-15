@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Curva de agua\nespuma blanca\nrompe y cae\nmar en danza\nmovimiento\nfuerza bella\nazul.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "mar"
+  }
+}

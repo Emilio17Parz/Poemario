@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Se escapa entre las manos este tiempo,\narena que no puede detenerse,\nmarcando nuestro ritmo y contratiempo.\n\nEs inútil tratar de oponerse,\nal curso natural de los relojes,\npues todo lo que es, ha de perderse.\n\nAunque de rabia y miedo te sonrojes.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

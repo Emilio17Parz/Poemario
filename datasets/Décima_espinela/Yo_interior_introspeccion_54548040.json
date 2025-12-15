@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me miro en el espejo\ny veo a un desconocido,\nun rostro ya perdido\nque se siente muy viejo.\nBusco algún consejo\nen mis ojos cansados,\npor los años pasados\ny los sueños rotos,\nque quedaron ignotos\ny jamás realizados.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

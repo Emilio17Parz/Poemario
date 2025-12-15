@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar que agonizas llena de veneno,\ntu espuma blanca se ha vuelto manchada,\nyaces enferma, triste y desolada,\nperdiendo tu vigor y tu sereno.\nElegía por los peces que murieron,\ny los corales que desaparecieron.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "mar"
+  }
+}

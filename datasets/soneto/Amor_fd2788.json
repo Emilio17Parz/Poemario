@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Lo guardo en el rincón más escondido,\ndonde nadie se atreve a la mirada,\nen esa habitación quieta y sagrada\ndel corazón que late en el olvido.\n\nEs un amor callado y decidido,\nuna llama voraz, nunca apagada,\nque vive en la penumbra resguardada\nsin haber sido nunca comprendido.\n\nTe amo en el silencio de la gente,\nte grito sin usar una palabra,\nte siento tan lejano y tan presente.\n\nOjalá que el destino se nos abra\ny deje que este amor, hoy inocente,\nsu propia libertad por fin labra.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

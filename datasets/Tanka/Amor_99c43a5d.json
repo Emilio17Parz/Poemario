@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuego en la piel,\ntus manos me recorren,\narde el deseo.\nSomos llama que sube\nhasta tocar el sol.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

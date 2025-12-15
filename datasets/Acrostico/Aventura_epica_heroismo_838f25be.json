@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "L evantarse del suelo,\nU nir fuerzas y fe,\nC onquistar el anhelo,\nH acer lo que se ve,\nA lcanzar nuestro cielo.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

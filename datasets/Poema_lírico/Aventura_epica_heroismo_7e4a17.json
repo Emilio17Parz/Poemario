@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La herida es mi mapa,\nla cicatriz, mi sol.\nLa vida que se tapa\nsin ningún dolo.\n\nMe recuerda el combate,\nel dolor que pasó,\nmi único abate\nsin ningún no.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "herida"
+  }
+}

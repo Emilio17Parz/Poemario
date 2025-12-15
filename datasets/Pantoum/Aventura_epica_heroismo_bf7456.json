@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Daga por la espalda,\nen la sombra acecha.\nMancha la esmeralda,\nla confianza desecha.\n\nEn la sombra acecha,\nel falso aliado ríe.\nLa confianza desecha,\nantes que te confíe.\n\nEl falso aliado ríe,\ndaga por la espalda.\nAntes que te confíe,\nmancha la esmeralda.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "traición"
+  }
+}

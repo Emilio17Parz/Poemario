@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Miro mi alma en el cristal de tu mirada (A),\nla forma más pura y bien hallada (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Espejo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuentan los bardos de un tiempo olvidado,\ndonde un rey renunció a su trono dorado,\npor el fuego sagrado de una gran pasión.\nCruzó siete mares y enfrentó al dragón,\nno por la gloria, ni por la nación,\nsino por el brillo de unos ojos claros.\nFue la gesta más grande de los tiempos raros,\ndonde el amor venció a la espada y al cañón.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

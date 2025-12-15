@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Toma fuerte mi mano,\ncaminemos el llano.\n\nJuntos en el sendero,\nporque yo te quiero,\ny por ti me muero,\nde un modo muy sano.\n\nToma fuerte mi mano,\ncaminemos el llano.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "mano"
+  }
+}

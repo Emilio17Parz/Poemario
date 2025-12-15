@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Siente la piel suave,\nque es la clave,\ndel placer,\ny el querer,\nque la lave.\n\nLa nave,\ny el ave,\ndel ser,\nSiente la piel.\n\nEl ayer,\ny el ver,\nque acabe,\ny grabe,\nla miel,\nSiente la piel.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tacto"
+  }
+}

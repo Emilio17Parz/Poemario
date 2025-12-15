@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Romped cadenas, alzad la frente,\nla libertad es nuestro derecho,\narda este grito en cada pecho,\nde forma pura y permanente.\n\nNunca más siervos, siempre señores,\nde nuestro propio y libre destino,\nhemos hallado el buen camino,\nlejos de amos y de opresores.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

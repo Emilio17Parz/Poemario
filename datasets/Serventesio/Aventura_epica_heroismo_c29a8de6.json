@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "No le interesa la vana gloria,\nni los aplausos de la multitud,\nsolo quedar en la fiel memoria,\npor su coraje y su gran virtud.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

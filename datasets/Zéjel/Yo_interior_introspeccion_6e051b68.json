@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Quiero ver,\ny entender.\n\nLo que pasa,\nen mi casa,\ny me arrasa,\nel querer.\n\nQuiero ver,\ny entender.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "ver"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soy pastor y soy rey,\nde mi propio destino,\nen el camino,\ny la grey.\n\nMi ley,\nes amar,\ny cuidar,\nel buey.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "yo"
+  }
+}

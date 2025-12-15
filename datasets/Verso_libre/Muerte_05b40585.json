@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Muerte no es un telón que desciende,\nni la última página de un libro.\nEs el aire que se retira de los pulmones,\nel eco que se disuelve antes de alcanzar la pared.\n\nEs el silencio después del concierto,\nno el fin de la música,\nsino el fin de su audición aquí.\nLa silla vacía,\nla huella que se borra con el viento,\nel sabor que la memoria guarda, pero la lengua olvida.\n\nNo tiene un rostro definido,\nsino los mil rostros de la pena\ny la paz, por igual.\nEs la hoja que se desprende del árbol\nno porque muera, sino porque su tiempo ha llegado\npara ser otra cosa, o para no ser.\n\nUn viaje sin equipaje,\nuna puerta que no elegimos abrir,\npero que, al cruzarla, disuelve el miedo\nen una inmensidad que nos excede.\n\nY en ese umbral, donde la luz se curva,\ndonde el tiempo cesa de marcar sus horas,\ncomprendemos el **fin** de la forma,\npero no el fin de la esencia,\nque se derrama, invisible,\nen el rumor de las hojas\ny en el latido callado de la tierra.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "fin"
+  }
+}

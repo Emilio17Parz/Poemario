@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor es mi gran fortaleza,\nque vence a toda pereza.\nMe da un gran valor,\nsin miedo ni error,\ny el alma ya es una belleza.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Fuerza"
+  }
+}

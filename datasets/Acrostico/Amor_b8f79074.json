@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "A tado a tu esencia divina,\nL ibre me siento a tu lado,\nM ientras susurras te quiero,\nA lcanzo la gloria soñada.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "alma"
+  }
+}

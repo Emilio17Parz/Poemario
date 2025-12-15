@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Encerrada en la torre más alta,\nla dama suspira por su señor,\nque lucha en tierras de gran dolor,\ny cuya presencia tanto le falta.\nSu trenza dorada por el muro salta,\nseñal de esperanza y de amor,\nesperando el regreso del valor,\nque a su corazón asalta.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "torre"
+  }
+}

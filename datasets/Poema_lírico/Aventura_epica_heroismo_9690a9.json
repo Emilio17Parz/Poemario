@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El faro es un punto\nde luz en la noche atroz.\nEl único adjunto\ncon una voz.\n\nMe guía sin hablar,\nme obliga a seguir,\nla única forma\npara poder vivir.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "faro"
+  }
+}

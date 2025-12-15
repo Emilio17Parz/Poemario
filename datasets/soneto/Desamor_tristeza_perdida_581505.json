@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Hay un vacío inmenso en esta casa,\nla silla vacía, el lecho frío,\ntodo me habla de tu desvarío\ny el tiempo lentamente se retrasa.\n\nLa vida sin tu luz apenas pasa,\nes un río seco, un triste hastío,\nun campo sin verdor ni rocío,\ndonde el dolor su huella repasa.\n\nTe busco en los rincones y no estás,\nsolo el silencio responde a mi grito,\ndiciendo que tal vez no volverás.\n\nSiento en el alma un dolor infinito,\npreguntándome dónde estarás,\nmientras en mi soledad me marchito.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "silla"
+  }
+}

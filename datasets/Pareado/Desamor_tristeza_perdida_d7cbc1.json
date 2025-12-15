@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La soledad es mi única y fiel voz (A),\nel fantasma triste que me sigue atroz (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Soledad"
+  }
+}

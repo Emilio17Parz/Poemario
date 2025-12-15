@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi mente es un gran misterio,\nsin rastro de un solo criterio.\nLa calma es de fe,\nsin un solo sé,\nel alma sin un gran erio.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Misterio"
+  }
+}

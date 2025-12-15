@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Templo viviente de verdor sagrado,\npor siglos y por vientos respetado!\nEn tus pilares de madera añeja,\nel alma encuentra paz y no se queja.\n\nCantad al bosque, pulmón de la tierra,\nque en su espesura la vida encierra.\n¡Gloria a tus hojas y a tu sombra densa,\nregalo eterno de bondad inmensa!",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "bosque"
+  }
+}

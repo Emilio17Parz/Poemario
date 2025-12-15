@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Quién soy yo bajo las estrellas?\nUn punto en la inmensidad.\nMi verdad\nson mis huellas.\nCosas bellas\ny soledad.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "huellas"
+  }
+}

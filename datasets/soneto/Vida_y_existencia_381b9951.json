@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, soplo que de nada brota,\nMisterio y luz en un fugaz momento,\nUn rito antiguo, cósmico portento,\nDonde la pena con la dicha flota.\n\nOh, senda incierta que el andar denota,\nUn pergamino abierto al firmamento,\nQue el alma escribe con su sentimiento,\nAntes que el hilo al fin se quiebra y rota.\n\nNos vemos, ciegos, en un laberinto\nDe ensueños, miedos, sombras y alboradas,\nBuscando el centro, el tácito destino.\n\nEntre las huellas ya por otros dadas,\nEl eco busca un significado quinto,\nY el ser se asombra de ser peregrino.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

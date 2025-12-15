@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Cuando el clamor del viento en la montaña\nDespierta el pulso, llama a la ambición,\nY un eco antiguo el corazón engaña,\nCon dulces promesas de una misión.\n\nDe un brillo frío, mi leal espada vieja,\nCompañera en batallas, fiel señal,\nLa que a los monstruos con valor doblega,\nY parte la tiniebla con su metal.\n\nMil noches sin estrella, mil soles sin piedad,\nCruzando páramos, sin descanso, sin dormir,\nEnfrentando la hueste de la oscuridad,\nY aprendiendo a luchar, a caer y a surgir.\n\nNo por la gloria vana, ni el oro que se da,\nMas por el eco justo que en el alma resonó,\nPor cada vida a salvo, por la libertad,\nEl canto de mi gesta el tiempo grabará.\n\nY aunque el cuerpo un día ceda ante el fulgor,\nO el viaje encuentre su final umbral,\nMi corazón de héroe, lleno de valor,\nBrillará eterno, faro inmortal.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "espada"
+  }
+}

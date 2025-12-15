@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es breve\ncomo un suspiro,\nse va leve.\nLa vida es breve,\npronto llueve\ny me retiro.\nLa vida es breve\ncomo un suspiro.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "breve"
+  }
+}

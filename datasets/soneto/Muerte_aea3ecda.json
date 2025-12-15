@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra fría que al final nos llama,\nun paso lento sin volver atrás,\nse apagan voces, se disipan paz,\ny el pulso cede a la fatal proclama.\n\nLa frágil vida que en su ocaso brama,\ndejando huella que no vuelve a ser,\ny todo yace en su implacable ver,\nla esencia misma que al silencio amaga.\n\nMas cuando el soplo vital se ha partido,\nel alma etérea levanta su vuelo,\ny el cuerpo inerte baja al hondo suelo.\n\nDe lo que fuimos, queda un eco asido,\nla materia en **polvo** torna al hondo cielo,\nel fin de todo, un callado consuelo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

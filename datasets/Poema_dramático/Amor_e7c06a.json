@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL CELOSO]\nDime, ¿quién es él? ¿Qué tiene que yo no poseo?\n¿Su risa es más franca? ¿Su sombra es más firme?\nNo me mires con esa piedad fría. Prefiero el odio.\nPorque el odio se siente, pero la indiferencia me mata.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "celos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es un adiós final,\nUn viaje sin igual,\nQue al alma hace perecer,\nSin darnos tiempo a ver\nLa paz tras este umbral.\n\nEn su manto tan frío y leal,\nNos sume en un sueño astral,\nSin voluntad de ser,\nLa muerte es un.\n\nLa tumba es su portal,\nSilenciosa, fría, total,\nNos espera sin un ser\nQue su vacío pueda ver,\nUn destino fatal,\nLa muerte es un.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol dorado besa cumbre altiva,\nY en verde manto se adorna la colina,\nDonde la vida en su vigor camina,\nCon voz serena que al alma cautiva.\n\nEl río manso su canción derrama,\nEntre laureles de ancestral verdor,\nY el ruiseñor, con dulce canto y flor,\nA cada instante la existencia aclama.\n\nMas en la orilla, el mar de azul profundo,\nCon su vaivén eterno, siempre late,\nUn pulso antiguo que jamás se abate,\n\nEspejo fiel del cielo vagabundo,\nQue en cada ola un secreto comparte,\nObra maestra de incesante arte.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mar"
+  }
+}

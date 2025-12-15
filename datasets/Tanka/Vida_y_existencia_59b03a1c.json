@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Grito primero,\nun pulmón que se llena\nde aire nuevo.\nComienza la aventura\nde ser y de sentir.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "nacer"
+  }
+}

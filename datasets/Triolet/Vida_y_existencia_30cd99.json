@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Sigo el sendero largo,\nSin mirar hacia atrás,\nLlevando mi cargo.\nSigo el sendero largo,\nCon sabor amargo,\nPero tú vendrás.\nSigo el sendero largo,\nSin mirar hacia atrás.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "sendero"
+  }
+}

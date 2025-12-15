@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu risa es la música, el dulce fulgor eterno (A),\nque rompe el silencio con gran claridad (B),\nes el eco vivo de un sueño tierno (A),\nla esencia de la verdad (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Risa"
+  }
+}

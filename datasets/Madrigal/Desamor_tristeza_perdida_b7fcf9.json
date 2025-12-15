@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La noche se hace larga y no termino,\nde dar vueltas pensando en tu regreso,\nme falta tu beso,\ny me sobra este amargo y negro vino.\nEl sueño huye de mis ojos rojos,\nllenos de enojos,\nperdido en este oscuro torbellino,\nsin un camino.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "insomnio"
+  }
+}

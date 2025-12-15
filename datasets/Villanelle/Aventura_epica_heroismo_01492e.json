@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi palabra es ley,\ny mi honor sagrado,\ncomo el de un rey.\n\nCuido de mi grey,\ny de mi legado,\nmi palabra es ley.\n\nNo soy buey,\nque va atado,\ncomo el de un rey.\n\nSoy el maguey,\nque está plantado,\nmi palabra es ley.\n\nEn el batey,\nsoy respetado,\ncomo el de un rey.\n\nNo hay virrey,\nque me haya mandado,\nmi palabra es ley,\ncomo el de un rey.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "honor"
+  }
+}

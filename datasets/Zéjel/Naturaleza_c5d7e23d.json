@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La sabia tierra que florece,\nCon cada día que amanece.\n\nEl río su camino labra,\nAntigua y dulce palabra,\nQue el corazón nos abra,\nCon cada día que amanece.\n\nLas cumbres, reino de azur,\nCustodian su vasta luz,\nPaz que el alma reluz,\nCon cada día que amanece.\n\nY en el jardín, con gran fulgor,\nSe abre la delicada flor,\nUn lienzo de vivo color,\nCon cada día que amanece.\n\nEl pájaro su trino da,\nA la mañana que ya está,\nQué hermosa eternidad,\nCon cada día que amanece.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "flor"
+  }
+}

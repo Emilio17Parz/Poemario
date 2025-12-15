@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Lazo invisible y sagrado,\nque une sin atadura,\npromesa firme y segura,\ndel corazón entregado.\nLealtad que no se rompe,\nni el viento la corrompe.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "fidelidad"
+  }
+}

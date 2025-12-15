@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "Un monje de gran corazón,\nBuscando en la meditación.\nSu espíritu al fin,\nHalló su confín,\nCon santa y pura emoción.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

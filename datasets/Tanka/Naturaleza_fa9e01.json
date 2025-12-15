@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Arena y sed\nhorizonte de fuego\nmar sin agua.\nLa soledad habita\nentre las dunas secas.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

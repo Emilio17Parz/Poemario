@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar golpea la roca con furia,\nrugiendo su canción de sal y espuma,\nborrando la tristeza y la penuria.\n\nSe levanta entre la blanca bruma,\ncon fuerza que a la tierra injuria,\nel mar golpea la roca con furia.\n\nNo hay silencio ni paz en su curia,\nsolo el viento que al agua suma,\nborrando la tristeza y la penuria.\n\nEs la eterna y azul gran lujuria,\nque el abismo profundo rezuma,\nel mar golpea la roca con furia.\n\nSin que nadie le imponga una espuria,\nley que su libertad consuma,\nborrando la tristeza y la penuria.\n\nEn su danza de vieja centuria,\ntodo rastro de llanto se esfuma,\nel mar golpea la roca con furia,\nborrando la tristeza y la penuria.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "mar"
+  }
+}

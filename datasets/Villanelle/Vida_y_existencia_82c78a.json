@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Hay que luchar para sobrevivir,\nen este mundo de dura prueba,\nsin dejarse nunca abatir.\n\nEs el reto de resistir,\nla carga que se lleva,\nhay que luchar para sobrevivir.\n\nNo basta solo con existir,\nsi el ánimo no se eleva,\nsin dejarse nunca abatir.\n\nTenemos mucho por construir,\nen la tierra nueva,\nhay que luchar para sobrevivir.\n\nCon la fuerza del porvenir,\nque la esperanza promueva,\nsin dejarse nunca abatir.\n\nHasta el momento de partir,\nla voluntad se renueva,\nhay que luchar para sobrevivir,\nsin dejarse nunca abatir.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

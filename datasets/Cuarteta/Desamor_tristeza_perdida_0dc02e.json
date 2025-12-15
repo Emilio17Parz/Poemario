@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Se rompieron los sueños de la mano,\nfragmentos de vidrio en el cristal,\nmi amor fue esfuerzo fútil, vano,\nun triste cuento con un mal final.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Sueños"
+  }
+}

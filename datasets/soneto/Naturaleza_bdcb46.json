@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corren libres sin ley ni pecado,\nel lobo, el ciervo, el águila real,\nsiguiendo su instinto natural\nen el bosque, el aire o el prado.\n\nNo conocen el tiempo pasado,\nni el futuro que causa el mal,\nviven el presente vital\ncon el sentido siempre aguzado.\n\nNos miran con ojos inocentes,\no con la fiera luz de la caza,\nsiendo nuestros parientes.\n\nSon de la vida la noble raza,\nque sin palabras ni mentes,\nel equilibrio abraza.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "instinto"
+  }
+}

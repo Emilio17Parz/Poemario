@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Apenas es un soplo este momento,\nya pasó mientras digo esta palabra,\nno hay magia que la puerta reabra\ndel segundo que llevó el viento.\n\nEl presente es el único sustento,\nlo demás es memoria que taladra\no futuro incierto que no cuadra\ncon este fugaz acontecimiento.\n\nCarpe Diem, atrapa el día hoy,\nno dejes para luego la alegría,\npues no sabemos a dónde voy.\n\nLa vida es esta breve melodía,\ny yo tan solo soy lo que ahora soy,\nmañana es otra luz, u otro día.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "instante"
+  }
+}

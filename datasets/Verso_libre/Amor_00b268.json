@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te cuelas en mis sueños\ncomo un polizón en un barco nocturno.\nY al despertar,\nla realidad me parece pálida,\nporque le falta el color\nque tú le pones a mi inconsciente.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

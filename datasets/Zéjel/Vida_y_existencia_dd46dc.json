@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La esencia tiene un fin,\nmi alma es un trajín.\n\nEl ser ya me llegó,\nla vida me salvó,\ny el mundo me perdonó,\nmi alma es un trajín.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "esencia"
+  }
+}

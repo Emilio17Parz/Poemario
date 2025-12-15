@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Alas de pluma,\nguardián sutil,\nde perfil,\nque suma.\nMe cuidas siempre,\ndesde diciembre.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "ángel"
+  }
+}

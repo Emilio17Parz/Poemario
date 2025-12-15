@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hoja que cae,\npiel que se renueva,\ntodo transforma.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La rosa que un día me diste,\nes seca, con pena y tan triste.\nSu rojo se fue,\nsu aroma no sé,\nigual que el amor que perdiste.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Rosa"
+  }
+}

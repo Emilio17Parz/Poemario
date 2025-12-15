@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "¡Corona de luz que el tiempo no gasta,\ny que a los cielos el nombre subasta!\nPremio del héroe que dio su existir,\npara que otros pudieran vivir.\n\n¡Cantad a la gloria, inmortal destino,\nque marca con fuego el final del camino!\nNo muere quien vive en la voz de la gente,\ny su memoria será permanente.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "gloria"
+  }
+}

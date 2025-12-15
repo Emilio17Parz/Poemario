@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Del alma surge un clamor, la epopeya va a empezar.\n\nPor cumbres que rasgan el cielo, por valles de cruel soledad,\nSu espíritu es fuego y anhelo, su corazón, pura verdad,\nEnfrenta al destino y al duelo, con fiera y audaz voluntad.\n¡Oh, qué gesta ha de grabar!\n\nLa sombra que danza y que engaña, el miedo que acecha sutil,\nLa espada, cual rayo, lo apaña, un grito de coraje viril,\nEl héroe la fiera desgarra, rompiendo la trama tan vil.\n¡El honor ha de ganar!\n\nCon sangre se escribe la historia, en cada paso un jurar,\nLos ecos de antigua memoria, lo invitan a no desmayar,\nSu nombre será ya la gloria, su luz nunca se ha de apagar.\n¡Su leyenda va a forjar!\n\nMas ¿quién teme este **viaje** al fin del mar?\n¡Vamos, que la aventura nos llama a triunfar!",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Nariz grande y pies planos,\norejas de soplillo,\ndefectos humanos,\nque son un martillo.\nNadie los nota,\npero a mí me agota.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Complejos"
+  }
+}

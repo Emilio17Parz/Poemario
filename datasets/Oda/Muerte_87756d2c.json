@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lo que dejamos cuando partimos,\nno solo objetos y metal,\nsino el amor que repartimos\ny el ejemplo fundamental.\nLegado vivo en la memoria,\npalabras dichas con fervor,\nque continúan nuestra historia\nmás allá del dolor.\nOda a la huella que perdura,\nal rastro fértil del ayer,\nque hace que la sepultura\nno sea el fin del ser.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

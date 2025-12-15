@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "[EL POBRE]\nNo tengo casa, no tengo oro, no tengo nombre. Pero tengo esta chispa.\nEl alma es mi único reino, el único tesoro que el rey no puede robar.\nLa siento arder, un fuego pequeño y terco que se niega a morir.\nSi me matan, solo ganarán mi cuerpo. Mi alma ya ha zarpado, libre y eterna.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "alma"
+  }
+}

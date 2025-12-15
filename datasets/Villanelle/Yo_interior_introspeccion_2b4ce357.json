@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "Mi ser se busca en íntimo aposento,\nY cada huella levanta una duda.\nLa esencia oculta, un fuego que me llama.\n\nProfundo ahínco, sutil sentimiento,\nLa verdad del alma que se vuelve muda,\nMi ser se busca en íntimo aposento.\n\nDesvelo el velo de mi firmamento,\nLa realidad se muestra así, tan cruda,\nLa esencia oculta, un fuego que me llama.\n\nRecorro el laberinto del tormento,\nAquella luz que al fin me ayuda,\nMi ser se busca en íntimo aposento.\n\nRespiro el aire de mi pensamiento,\nLa frágil carne que se siente desnuda,\nLa esencia oculta, un fuego que me llama.\n\nComprendo al fin mi propio juramento,\nPero la senda al fin no se rehúsa,\nMi ser se busca en íntimo aposento,\nLa esencia oculta, un fuego que me llama.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "duda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Tu gracia me salvó a mí,\nsin tener merecimiento,\nes el mayor sentimiento,\nque en mi vida conocí.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "gracia"
+  }
+}

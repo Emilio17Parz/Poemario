@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El voto es tu gran poder,\nno lo dejes de ejercer.\nParticipa y opina,\nen la plaza y la esquina.\nLa democracia se muere,\nsi el pueblo no la quiere.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "democracia"
+  }
+}

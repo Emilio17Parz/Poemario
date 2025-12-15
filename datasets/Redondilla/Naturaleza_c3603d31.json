@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El bosque susurra un cantar,\nla brisa su dulce vaivén,\ny en cada pequeño edén,\nuna flor vuelve a brotar.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "flor"
+  }
+}

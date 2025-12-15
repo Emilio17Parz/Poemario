@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No suena, no vibra,\nnegro aparato,\nque me da mal trato,\ny me desequilibra.\nEspero tu llamada,\ny no llega nada.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "teléfono"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sigue la línea del mapa viejo,\nque guarda del mundo el consejo.\n\nNavega lejos, sin complejo,\nbuscando el mítico reflejo.\n\nEl destino es un espejo,\ndonde se mira el pellejo.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "ruta"
+  }
+}

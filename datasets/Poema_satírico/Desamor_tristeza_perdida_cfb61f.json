@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "'Un clavo saca otro clavo',\ndicen los sabios amigos,\ny yo me siento un esclavo,\nde refranes y castigos.\nAcabaré siendo ferretero,\ncon tanto clavo en el cuero.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Consejos"
+  }
+}

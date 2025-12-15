@@ -1,4 +1,5 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "subcategoria": "peregrinos",
   "poema": {
     "texto": "Hacia Roma caminan\\ndos peregrinos,\\na que los case el Papa,\\nporque son primos.",

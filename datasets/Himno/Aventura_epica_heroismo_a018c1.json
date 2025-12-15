@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mano en el timón, ojo en el norte,\nque llevas la nave con regio porte.\n¡Gloria al Capitán, líder y guía!,\nque cruzas la noche esperando el día.\n\nTu voz es la orden, tu calma el sostén,\nllevándonos salvos al puerto del bien.\nTe seguimos todos con lealtad,\nen medio de la gran tempestad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "capitán"
+  }
+}

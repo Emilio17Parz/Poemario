@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Honor,\nprimero.\nValor,\nhonor.\nGuerrero,\nmejor.\nHonor,\nprimero.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "honor"
+  }
+}

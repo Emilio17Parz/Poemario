@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Mar de arena, dorado y cruel,\ndonde el sol es rey tirano,\nquema la planta, seca la piel,\ninfinito y mudo, soberano.\nLas dunas caminan como legiones,\nborrando huellas y direcciones.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Desierto"
+  }
+}

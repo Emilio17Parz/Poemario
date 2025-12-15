@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Bella flor se abre,\nque nadie la labre.\n\nPétalos de seda,\nque el viento enreda,\ny allí se queda,\nque taladre.\nBella flor se abre,\nque nadie la labre.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "flor"
+  }
+}

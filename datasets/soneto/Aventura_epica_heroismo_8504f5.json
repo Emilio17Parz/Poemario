@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Diez años para volver,\na la isla del amor,\nsufriendo todo el dolor,\nque un dios puede imponer.\n\nSirenas, cíclope, y ver,\nel inframundo y su horror,\nmas nunca perder el valor,\nni la esperanza de ser.\n\nÍtaca espera al final,\ncon Penélope tejiendo,\nla tela ceremonial.\n\nLa vida es ir aprendiendo,\nen este viaje vital,\nmientras vamos volviendo.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "odisea"
+  }
+}

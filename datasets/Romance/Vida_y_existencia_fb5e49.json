@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Buscamos la verdad pura\nentre mentiras y sombras,\nqueriendo ver lo que es cierto\nen las cosas que tú nombras.\nPero la verdad se esconde\nbajo pesadas alfombras,\ny solo se muestra a veces\nen las almas que no asombras.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

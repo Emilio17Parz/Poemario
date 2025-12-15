@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tu adiós me causó un dolor,\nperdí todo mi valor.\n\nLa vida no tiene paz,\nsin engaño ni antifaz,\nsolo el alma tenaz,\nperdí todo mi valor.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

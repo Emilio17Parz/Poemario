@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "En tu abrazo encuentro mi hogar,\ndonde no llega el frío viento,\ny donde puedo descansar.\n\nEs el lugar para soñar,\nlejos de todo sufrimiento,\nen tu abrazo encuentro mi hogar.\n\nNo necesito más buscar,\npues tengo aquí mi fundamento,\ny donde puedo descansar.\n\nMe enseñas a volver a amar,\ncon cada gesto y movimiento,\nen tu abrazo encuentro mi hogar.\n\nNada nos puede separar,\nni el tiempo ni el alejamiento,\ny donde puedo descansar.\n\nQuiero por siempre allí estar,\nviviendo el dulce momento,\nen tu abrazo encuentro mi hogar,\ny donde puedo descansar.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

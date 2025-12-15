@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Escucha cómo late el corazón,\ncon un ritmo de fuego y ansiedad,\nclamando por tu dulce piedad,\nperdiendo por ti la razón.\nEs música de pura pasión,\nque canta mi feliz verdad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "latido"
+  }
+}

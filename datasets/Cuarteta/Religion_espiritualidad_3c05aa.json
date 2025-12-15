@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Rezo en la noche callada,\nbuscando tu protección,\ndame tu bendición,\nen la nueva jornada.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "oración"
+  }
+}

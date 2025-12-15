@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El sistema es máquina, de hierro y de cruel gris (A),\nque muele la carne, la sombra de la raíz (A).",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "Sistema"
+  }
+}

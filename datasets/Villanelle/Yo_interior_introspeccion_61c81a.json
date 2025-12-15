@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La duda me quita el sueño,\nno sé qué camino tomar,\ny pongo todo mi empeño.\n\nMe siento pequeño,\nante el mar,\nla duda me quita el sueño.\n\nSin dueño,\nal pensar,\ny pongo todo mi empeño.\n\nEl diseño,\ndel andar,\nla duda me quita el sueño.\n\nEl leño,\ndel hogar,\ny pongo todo mi empeño.\n\nEl ceño,\nal mirar,\nla duda me quita el sueño,\ny pongo todo mi empeño.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "duda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oh, néctar puro que mi sed apaga,\nResplandor tierno que a mi noche dio fin,\nTu voz, arrullo que mi pecho embriaga,\nUn universo en mi humilde jardín.\n\nEn cada pliegue de tu ser amado,\nDescubro el mapa de mi propia paz,\nUn firmamento en tu mirar cuajado,\nQue desvanece toda sombra fugaz.\n\nNo fue el capricho de la suerte vana,\nNi senda errante que nos hizo coincidir,\nSino la mano de un **destino** que gana,\nEl rumbo exacto que nos hizo vivir.\n\nAsí enlazados, alma con el alma,\nUn solo soplo en la inmensidad,\nNuestra canción, la más serena palma,\nEterna brasa de la eternidad.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "destino"
+  }
+}

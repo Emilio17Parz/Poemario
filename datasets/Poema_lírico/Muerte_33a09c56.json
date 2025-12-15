@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Fuimos formados del barro y del suelo,\ny al mismo polvo hemos de volver,\nes el destino de todo nacer,\nbajo la capa del amplio cielo.\nPero el espíritu alza su vuelo,\ncuando el polvo se deja caer.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

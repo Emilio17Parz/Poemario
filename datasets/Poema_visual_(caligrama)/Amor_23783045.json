@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "      A\n    M   O\n  R       L\n    U   Z\n      S",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "estrella"
+  }
+}

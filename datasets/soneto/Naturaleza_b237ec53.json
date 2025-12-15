@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Invisible viajero sin frontera,\nque agitas las espigas en el campo,\ny corres con la fuerza de un estampo\nsin que nadie tu forma, ver pudiera.\n\nEres la voz de antigua primavera,\nel susurro que cruza el vasto lampo,\ny a veces huracán en descampado\nque rompe lo que encuentra en su carrera.\n\nLlevas polen, arena y hojas secas,\neres aliento puro del planeta,\ny mueves las veletas y las muecas.\n\nViento libre, sin fin y sin meta,\nque en tus alas de aire nos impecas\na seguir tu canción de gran poeta.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "viento"
+  }
+}

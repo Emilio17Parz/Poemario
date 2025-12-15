@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Nace el torrente como un dios niño,\nrompiendo la roca con fuerza brutal.\nSerpiente de plata, poder natural,\nque labra los valles con rudo cariño.\nArrastra ciudades, fecunda los campos,\nrefleja del cielo los miles de lampos.\nEl río es el tiempo que nunca se para,\nla fuerza que al mundo su rostro declara.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "río"
+  }
+}

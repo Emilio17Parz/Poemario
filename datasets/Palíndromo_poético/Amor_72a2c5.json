@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Toma mi mano\nven conmigo\namor puro\nven conmigo\ntoma mi mano",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "mano"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hacen leyes para la araña,\nque atrapa a la mosca chica.\nAl rico no pica\nni le daña.\nEs la maña\nque se aplica.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "leyes"
+  }
+}

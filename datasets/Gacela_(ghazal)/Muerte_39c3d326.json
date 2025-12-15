@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Duerme el cuerpo cansado en la fría tumba,\nmientras el mundo gira sobre la tumba.\n\nYa no le hiere el sol ni la helada nieve,\nprotegido en el seno de la tumba.\n\nAquí termina el viaje del peregrino,\nbajo la losa gris de su propia tumba.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

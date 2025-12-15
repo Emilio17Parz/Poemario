@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "La verdad que me hace crecer,\nes fuerza que puedo vencer.\nEs dulce y es paz,\nsin un solo haz,\nel alma que quiere ya ser.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Verdad"
+  }
+}

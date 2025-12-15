@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Peso en la espalda,\npiedra del ayer,\ncaer,\nfalda.\nPerdón busco,\ny no ofusco.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

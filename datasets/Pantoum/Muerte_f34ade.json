@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra cubre el lecho,\nvisita inesperada.\nSiente frío el pecho,\ncon la luz apagada.\n\nVisita inesperada,\nla parca viene a ver.\nCon la luz apagada,\ndejando de ser.\n\nLa parca viene a ver,\nsiente frío el pecho.\nDejando de ser,\nla sombra cubre el lecho.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "sombra"
+  }
+}

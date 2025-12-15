@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi barca naufraga en el mar del dolor,\nsin puerto seguro, sin un fanal,\nel alma se pierde sin un valor,\nen este cruel y triste mal.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Naufragio"
+  }
+}

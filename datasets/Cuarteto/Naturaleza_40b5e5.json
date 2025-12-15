@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se borran las sombras de la tiniebla,\nel mundo recupera su contorno,\nvuelve la vida y todo su adorno,\nmientras se disipa la densa niebla.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "amanecer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tus manos sujetan mi ser,\nCalientan mi frío interior,\nContigo yo vuelvo a nacer.\nTus manos sujetan mi ser,\nMe ayudan a no caer,\nMe llenan de fuerza y valor.\nTus manos sujetan mi ser,\nCalientan mi frío interior.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "calor"
+  }
+}

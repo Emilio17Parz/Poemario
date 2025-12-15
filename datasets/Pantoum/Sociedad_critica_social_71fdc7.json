@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se escucha un grito,\nde la multitud,\nya no es un mito,\nla esclavitud.\n\nDe la multitud,\npidiendo justicia,\nla esclavitud,\ny su inmundicia.\n\nPidiendo justicia,\nse escucha un grito,\ny su inmundicia,\nya no es un mito.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "grito"
+  }
+}

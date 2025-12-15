@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Montas un drama griego,\nporque no te llamé ayer,\nparece que va a llover,\nfuego y azufre luego.\nBájale al ego,\nque no es para tanto el deber,\nni que fueras lucifer,\npara tenerme tal miedo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "drama"
+  }
+}

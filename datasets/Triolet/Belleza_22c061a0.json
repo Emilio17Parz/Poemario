@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Bella es la flor\ncon sus colores,\nda su olor.\nBella es la flor,\nsin dolor,\nsin temores.\nBella es la flor\ncon sus colores.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "flor"
+  }
+}

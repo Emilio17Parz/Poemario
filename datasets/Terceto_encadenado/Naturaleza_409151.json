@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El astro rey despierta la mañana,\npintando de dorado el horizonte,\ncon luz que entra por mi ventana.\n\nIlumina el valle y el monte,\ndando calor a todo lo viviente,\nsin que su brillo nadie desmonte.\n\nEterno y refulgente.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "sol"
+  }
+}

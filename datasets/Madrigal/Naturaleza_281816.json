@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El desierto se extiende, sin compasión,\ncomo un mar de arena y de soledad.\nEs el vacío, la gran lección,\nde la cruda y eterna verdad.\n\nNo hay sombra, ni refugio para el alma,\nsolo el viento que nunca se calma.\nPero el silencio es un amigo fiel,\nque quita la máscara y la piel,\ny te deja en el centro de ti mismo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

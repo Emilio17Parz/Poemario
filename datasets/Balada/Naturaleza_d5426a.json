@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna es de plata, sin un error (a),\nque vela el sueño con gran fulgor (b),\nmi alma se cubre de puro fulgor (a),\nsin sombra que cubra mi gran valor (b),\nla vida es un canto, de gran valor (b),\ny la fe me ayuda a seguir sin temor (c),\nla esencia más pura de puro amor (b),\n**Mi vida se cubre de puro fulgor** (C).\n\nPríncipe, el alma se va (c'),\nes la sombra que nunca se da (c'),\nla fuerza que al fin se está (b),\n**Mi vida se cubre de puro fulgor** (C).",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Verdad de mi amor, sin artificio,\ncompromiso que el alma proclama.\nUn sentimiento libre de vicio,\nuna flama que nunca se amansa.\n¡Oh, firmeza de noble raíz,\nla única senda que me hace feliz!",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Verdad"
+  }
+}

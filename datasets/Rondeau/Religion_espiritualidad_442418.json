@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Mira al cielo,\ncon anhelo,\ny fe,\nque sé,\nsin velo.\n\nEl suelo,\ny el hielo,\ndel pie,\nMira al cielo.\n\nEl té,\ny el café,\ndel vuelo,\ny el consuelo,\nque ve,\nMira al cielo.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

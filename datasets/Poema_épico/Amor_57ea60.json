@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No busco la gloria en el campo de Marte,\nni en los monumentos de mármol frío,\nmi única gloria es poder amarte,\ny que tu destino se funda con el mío.\nQue otros escriban la historia con ira,\nyo la escribo pulsando tu lira.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Gloria"
+  }
+}

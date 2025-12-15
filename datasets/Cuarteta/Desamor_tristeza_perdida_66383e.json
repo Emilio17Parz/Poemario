@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No tengo rencor,\nsolo dolor,\nse fue el amor,\ny el color.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

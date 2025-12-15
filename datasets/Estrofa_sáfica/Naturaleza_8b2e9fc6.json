@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Vuelve la vida con verdor intenso,\nbrotan capullos de color precioso,\ny la natura se despierta alegre\ndel gran reposo.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "primavera"
+  }
+}

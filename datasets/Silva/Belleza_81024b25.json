@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La mano del artista,\ncrea mundos de ensueño y de color,\npara la vista,\ndel soñador,\nque busca la belleza con amor.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "mano"
+  }
+}

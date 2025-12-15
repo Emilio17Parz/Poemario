@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Intento que tu rostro se me borre,\npero sigues en mi alma clavada,\ny el tiempo de tu ausencia ya no corre.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

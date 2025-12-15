@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La poesía es destilar el lenguaje hasta que solo quede la esencia pura, la gota de perfume que contiene el jardín entero.\nEs nombrar lo innombrable y dar voz al silencio, usando palabras como llaves para abrir las puertas cerradas del corazón.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "poesía"
+  }
+}

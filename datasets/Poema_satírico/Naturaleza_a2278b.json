@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Romántica tras el cristal,\npero moja los calcetines,\nun engorro universal,\npara todos los fines.\nEl campo la agradece,\nmi peinado perece.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Lluvia"
+  }
+}

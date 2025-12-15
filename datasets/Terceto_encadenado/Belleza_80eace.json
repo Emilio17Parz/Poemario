@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "No hay obra más hermosa,\nque el campo en primavera,\nni pintura más grandiosa.\n\nLa tierra entera,\nse viste de mil colores,\nde una forma sincera.\n\nCon sus olores.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "naturaleza"
+  }
+}

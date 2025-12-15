@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "El ser florece,\nEl destino nos llama,\nY al final paz.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "destino"
+  }
+}

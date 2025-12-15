@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El miedo es un carcelero que me encierra en la prisión de mis propias limitaciones.\nTemo fracasar, temo ser rechazado, temo sufrir, temo vivir.\nPero el miedo es solo una ilusión, una sombra que desaparece cuando la iluminas.\nAtravieso mi miedo y descubro que al otro lado está mi poder y mi libertad.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

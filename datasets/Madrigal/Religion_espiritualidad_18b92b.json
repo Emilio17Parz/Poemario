@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Gestos que nos conectan,\ncon lo sagrado y lo trascendental;\nacto central,\nque proyectan.\nEl rito une al hombre con su dios,\na los dos.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "ritual"
+  }
+}

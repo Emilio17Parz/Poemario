@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La vecina del quinto,\nbebe mucho vino tinto.\nGrita chismes,\ncon sus mismos,\nen el recinto.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "vecina"
+  }
+}

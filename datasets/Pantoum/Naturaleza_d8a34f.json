@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Baja la niebla desde el monte,\nborrando el trazo del camino,\nun gris y denso horizonte,\nque esconde el verde pino.\n\nBorrando el trazo del camino,\nel mundo pierde su color,\nque esconde el verde pino,\ncubierto de un frío vapor.\n\nEl mundo pierde su color,\nun gris y denso horizonte,\ncubierto de un frío vapor,\nbaja la niebla desde el monte.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "gris"
+  }
+}

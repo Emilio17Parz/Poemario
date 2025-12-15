@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Tiene valor,\nsin medida,\nla vida,\ncon amor.\nEl color,\nde la herida.\nTiene valor.\n\nEnfrenta el mal,\nsin dudar,\nal andar,\nel final.\nEl metal,\ndel mar.\nTiene valor.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "valor"
+  }
+}

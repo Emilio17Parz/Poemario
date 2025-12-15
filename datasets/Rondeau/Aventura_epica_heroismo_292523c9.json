@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Por un sueño inmortal, el héroe se alzó,\nSu senda de gloria el destino trazó,\nDe épica batalla,\nSu fuerza no falla,\nY ante su bravura el mal se doblegó.\n\nCon paso resuelto, su ímpetu creció,\nAl fiero dragón su valor desafió,\nNinguno le calla,\nPor un sueño inmortal.\n\nLa luz de su gesta el tiempo grabó,\nMil reinos caídos su brazo salvó,\nLa muerte no halla,\nSu alma no estalla,\nY libre a su pueblo al fin lo elevó,\nPor un sueño inmortal.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

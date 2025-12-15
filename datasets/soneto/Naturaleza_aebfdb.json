@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Señora blanca de la noche oscura,\nfarol de plata en medio de la nada,\npor los poetas siempre tan amada,\nsímbolo de misterio y de pureza.\n\nCambias tu rostro con tal sutileza,\ncreciente, llena, nueva o menguada,\nmirando a la tierra enamorada,\ncon esa triste y pálida belleza.\n\nMueves las aguas con tu gravedad,\ny velas el sueño de los mortales,\nen tu silencio de solemnidad.\n\nTestigo de los besos y los males,\nreinas con tu absoluta claridad,\nsobre los bosques y los manantiales.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "luna"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "El pasado vuelve a mi mente,\ncon imágenes de dolor,\ny se hace siempre presente.\n\nEs un río corriente,\nque trae el temor,\nel pasado vuelve a mi mente.\n\nMe siento impotente,\nante su clamor,\ny se hace siempre presente.\n\nNada es diferente,\nen este interior,\nel pasado vuelve a mi mente.\n\nSoy el paciente,\nde mi propio error,\ny se hace siempre presente.\n\nUn lazo latente,\nde desamor,\nel pasado vuelve a mi mente,\ny se hace siempre presente.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "pasado"
+  }
+}

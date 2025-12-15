@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo interior introspeccion",
+  "poema": {
+    "texto": "En el confín de mi alma, donde habito,\nUn eco mudo el pensamiento anida,\nY la verdad, a veces, queda hundida,\nBajo el silencio de mi propio rito.\n\nAhí donde el tiempo se detiene, invito\nA la razón que mis sentidos mida,\nLa esencia pura, tan desconocida,\nQue en cada pulso de mi ser transito.\n\nDescubro entonces, con sutil desvelo,\nUn viejo anhelo que jamás confieso,\nUn hondo **secreto**, un íntimo cielo.\n\nQue me acompaña en cada nuevo peso,\nY me define bajo oscuro velo,\nDe este viaje interior, mi gran regreso.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Cuando el vasto horizonte se oscurece,\nY el eco de la guerra ya estremece\nA un alma singular, heroica y fiel,\nQue el sino empuja a una aventura audaz.\n\nUn héroe surge, de mirada fiera,\nCon la voluntad firme, justiciera,\nY la espada en su mano, firme va,\nPromete al mal su fin, su día aciago.\n\nAtraviesa montañas, mar y llanos,\nDesafía a los hados inhumanos,\nSin temor ni piedad, su fe le guía,\nBuscando siempre el bien, la luz, lo puro.\n\nY cuando al fin la lid culmina en gloria,\nResuena por los siglos su victoria.\nSu nombre inmortal, un eco fiel,\nGrabado queda en cada corazón.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Siento que estoy cambiando\ncomo muda la serpiente,\ndejando la piel antigua\nseca y decadente.\nNazco de nuevo cada día\nde forma diferente,\naprendiendo a ser yo mismo\nvaliente y consciente.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "cambio"
+  }
+}

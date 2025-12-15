@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Más bella que el sol naciente\nes la pastora que adoro.\nSus cabellos de oro\ny su risa luciente.\nEs el don excelente\ny mi gran tesoro.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "cabellos"
+  }
+}

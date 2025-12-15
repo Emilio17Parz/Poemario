@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Te fuiste tan lejos, muy lejos de aquí,\ndonde mis manos no llegan a ti.\n\nCruzo horizontes desde que te vi,\npartir hacia un mundo lejos de aquí.\n\nMi voz te llama y se pierde allí,\nen la distancia, lejos de aquí.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "lejos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Viaje largo,\nMarca el mapa,\nSin embargo.\nViaje largo,\nCon el cargo,\nSe escapa.\nViaje largo,\nMarca el mapa.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

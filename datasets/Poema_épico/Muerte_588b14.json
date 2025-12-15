@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Alzamos la piedra, la tumba vacía,\nen honor al guerrero que el mar devoró,\nsu nombre en el mármol resiste al día,\naunque su cuerpo la sal disolvió.\nMonumento al alma que no tuvo entierro,\nmás fuerte que el bronce, más dura que el hierro.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Cenotafio"
+  }
+}

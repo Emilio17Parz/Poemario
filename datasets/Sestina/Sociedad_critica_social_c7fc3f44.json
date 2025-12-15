@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se ahoga la ciudad,\nen el humo y el ruido,\ny la prisa voraz.\nYa no existe la paz,\nentre los muros grises,\nde hormigón y cristal.\n\nHormigón y cristal,\nla ciudad,\ny sus matices.",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "      Fin      \n      RIP      \nSilencio Eterno\n      Paz      \n      .        ",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "fin"
+  }
+}

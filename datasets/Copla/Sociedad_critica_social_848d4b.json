@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Los políticos roban\na manos llenas,\ny al pueblo le dejan\nsolo las penas.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "corrupción"
+  }
+}

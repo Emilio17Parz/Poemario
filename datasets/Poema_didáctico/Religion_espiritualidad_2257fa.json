@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Dios habla bajito,\nen el silencio interior,\nno en el grito,\nni en el exterior.\nCalla y escucha,\nla paz sin lucha.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La justicia es ciega,\npara el que no paga,\npero siempre halaga,\nal que el oro entrega.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

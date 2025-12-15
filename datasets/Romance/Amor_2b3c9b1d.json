@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Suena la guitarra triste,\nbajo el balcón de mi amada,\nlas cuerdas lloran amores\nen esta noche estrellada.\nDespierta, niña bonita,\nno te quedes acostada,\nque vengo a entregarte el alma\nen esta copla cantada.\nSi asomas tu rostro blanco,\nla luna queda apagada,\npues tu luz es más brillante\nque la del cielo sagrada.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "guitarra"
+  }
+}

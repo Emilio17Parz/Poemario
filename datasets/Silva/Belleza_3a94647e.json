@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Queda viva la vida en el arte,\nque el genio comparte.\nPincel, pluma o cincel,\nsobre el papel,\natrapan el momento,\ny sentimiento.\nBelleza congelada,\ny amada.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "arte"
+  }
+}

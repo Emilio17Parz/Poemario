@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Fue un gran error amarte sin medida,\nahora pago con la soledad,\nla cuenta de una apuesta ya perdida.\n\nDarte las llaves de mi voluntad,\nfue entregarme a un verdugo sonriente,\nque me dejó sin luz y sin piedad.\n\nTristemente.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "error"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El reloj nunca se para\ny nos lleva hacia el fin,\ntocando su violín\ncon una melodía rara.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "reloj"
+  }
+}

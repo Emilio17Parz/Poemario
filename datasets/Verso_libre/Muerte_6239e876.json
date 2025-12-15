@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte es el segador que no distingue entre el trigo maduro y la flor temprana.\nSu guadaña corta el hilo de la vida con un golpe certero e imparcial.\nCaemos como espigas en el campo, unos llenos de grano, otros vacíos, todos igualados.\nEs la cosecha final, donde se recoge lo que se ha sembrado en los surcos del tiempo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "siega"
+  }
+}

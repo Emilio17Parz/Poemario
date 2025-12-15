@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo se apaga en el mortal silencio,\nse acaba el tiempo de la vana historia,\nya nada queda en la fugaz memoria,\nsolo la paz que con temor presencio.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

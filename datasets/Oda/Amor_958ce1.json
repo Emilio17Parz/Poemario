@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Fuego que corre en las venas,\nvolcán que despierta hoy,\nsabemos a dónde voy,\nrompiendo todas las penas.\nArde la piel sin medida,\nen esta danza de vida.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

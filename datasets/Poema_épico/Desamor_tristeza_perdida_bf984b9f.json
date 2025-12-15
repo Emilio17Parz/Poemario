@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quedó el trono vacío en el gran salón,\nel rey ha partido a la tierra yerma.\nLe sigue la sombra, su amiga enferma,\nla fría y terrible soledad en procesión.\nCambió su corona por el aislamiento,\nsu manto de armiño por el sufrimiento.\nPues sin el amor que le daba sentido,\nprefiere reinar en lo desconocido.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

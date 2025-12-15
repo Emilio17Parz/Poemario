@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Fusiles y cañones\nsuenan fuerte,\nsembrando por los campos\nsola muerte.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

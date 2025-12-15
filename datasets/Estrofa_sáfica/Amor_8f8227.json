@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mares y tierras nos tienen lejanos,\npero el amor no sabe de fronteras,\nrompe las leyes y las barreras,\nalma con alma.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "distancia"
+  }
+}

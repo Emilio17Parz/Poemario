@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Sigo esperando junto a la puerta,\naunque sé bien que la cosa es muerta,\nque no vendrás a tocar el timbre,\nni a pronunciar mi triste nombre.\nEs la costumbre de la esperanza,\nque se resiste a la mudanza,\ny me mantiene en este lugar,\nviendo la vida pasar y pasar.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "espera"
+  }
+}

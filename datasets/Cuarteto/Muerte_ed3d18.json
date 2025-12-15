@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El cuerpo que yace, de cera y marfil,\nla forma que se va a perder,\nla vida es un sueño, el don gentil,\nla fuerza que quiere creer.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "Cuerpo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Oh, Alma que buscas la calma interior,\nel puerto donde la verdad está!\nTu fuerza es la lucha, sin un gran dolor,\nel fin de la vida, el ya.\nBuscas la paz, la dulce verdad,\nla fuerza que da caridad.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

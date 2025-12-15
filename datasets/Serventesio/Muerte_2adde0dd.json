@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La muerte, sombra que la luz apaga,\ndisuelve el cuerpo, mas no la verdad,\ny el tiempo efímero al olvido traga,\nabriendo el paso a la gran **eternidad**.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

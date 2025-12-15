@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La nube es blanca duda\nque flota sobre mí.\nLa forma que se muda\nsin saber adónde ir.\n\nEs aire y es promesa\nde una lluvia cruel,\nmi única certeza\ncon sabor a hiel.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "nube"
+  }
+}

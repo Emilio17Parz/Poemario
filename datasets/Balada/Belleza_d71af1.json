@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Brillo de fuego en la gema tallada,\npor la codicia y el lujo buscada,\nrojo rubí o diamante de luz,\nque a veces carga una pesada cruz.\nAdorna el cuello de la dama hermosa,\npero su entraña es fría y rocosa,\nsolo es belleza de la vanidad,\nque no conoce la felicidad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "joya"
+  }
+}

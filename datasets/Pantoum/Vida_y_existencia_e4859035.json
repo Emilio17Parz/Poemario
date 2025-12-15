@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Es lucha constante,\nel vivir aquí,\nsiempre adelante,\ndiciendo que sí.\n\nEl vivir aquí,\nes un desafío,\ndiciendo que sí,\ncontra el vacío.\n\nEs un desafío,\nes lucha constante,\ncontra el vacío,\nsiempre adelante.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "lucha"
+  }
+}

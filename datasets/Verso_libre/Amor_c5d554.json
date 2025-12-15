@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Podemos estar callados,\nmirando el techo o la lluvia,\ny no hay huecos que llenar.\nTu silencio no me pesa,\nme acompaña,\nes una manta cómoda\nque compartimos en el sofá.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cayó el roble fuerte del bosque,\nel pilar que el techo sostenía,\nse ha marchado la guía,\nsin que nadie lo enrosque.\n\nPadre, aunque la muerte tosco,\nte lleve de mi día,\ntu ejemplo y valentía,\nen mi alma yo conozco.\n\nGigante que duerme ahora,\nesperando la aurora.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "padre"
+  }
+}

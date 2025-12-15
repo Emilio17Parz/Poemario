@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Campo de paz,\nbajo el disfraz.\n\nCruces y flores,\npara los señores,\ny sus dolores,\ncapaz.\nCampo de paz,\nbajo el disfraz.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "cementerio"
+  }
+}

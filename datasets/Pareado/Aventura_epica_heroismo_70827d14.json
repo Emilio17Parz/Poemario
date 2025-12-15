@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El viento sopla, una leyenda va a nacer,\nUn héroe parte, un mundo por vencer.\n\nPor sendas ásperas, con lanza y con valor,\nLucha la sombra que anuncia cruel dolor.\n\nSu alma forjada en la fragua del deber,\nDefiende el *honor* que lo hace renacer.\n\nAsí su gloria se eleva sin final,\nMarcando un rumbo, un legado inmortal.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "honor"
+  }
+}

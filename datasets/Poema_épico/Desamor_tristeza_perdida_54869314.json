@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Bebió el guerrero del río Leteo,\nbuscando el alivio del dulce olvido.\nQuería borrar lo que había perdido,\ny apagar del pecho el ardiente deseo.\nPero ni las aguas del inframundo,\ncuraron su mal, vasto y profundo.\nPues la imagen de ella seguía grabada,\ncomo cicatriz por acero marcada.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

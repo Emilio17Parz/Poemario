@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro hacia arriba y me disuelvo\nen el azul infinito.\nLas nubes son barcos de vapor\nque navegan sin timón.\nEl cielo es el techo del mundo,\nun abismo invertido\ndonde vuelan mis sueños\ncuando la tierra me pesa demasiado.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

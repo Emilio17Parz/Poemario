@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "¿Qué somos, si el tiempo nos va a borrar?\nUn soplo que cruza este vasto esplendor,\nLa gran verdad, que el ser anhelará.\n\nEl alma, un espejo que quiere mirar,\nEl hondo misterio de nuestro dolor,\n¿Qué somos, si el tiempo nos va a borrar?\n\nLa vida es un sueño que al fin terminará,\nEn cada latido, un frágil fulgor,\nLa gran verdad, que el ser anhelará.\n\nDel polvo nacemos, al polvo es el mar,\nUn viaje sin fin, un íntimo ardor,\n¿Qué somos, si el tiempo nos va a borrar?\n\nDel hálito cósmico que nos creará,\nUn eco lejano, un dulce candor,\nLa gran verdad, que el ser anhelará.\n\nMas siempre la chispa que quiere brillar,\nEn cada momento, su eterno valor,\n¿Qué somos, si el tiempo nos va a borrar?\nLa gran verdad, que el ser anhelará.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "verdad"
+  }
+}

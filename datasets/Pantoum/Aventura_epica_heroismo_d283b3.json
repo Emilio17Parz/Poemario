@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Cuentan los viejos sabios,\nhistorias de otro tiempo.\nEn todos los labios,\ncomo el mismo viento.\n\nHistorias de otro tiempo,\nmitos que no mueren.\nComo el mismo viento,\naunque algunos hieren.\n\nMitos que no mueren,\nen todos los labios.\nAunque algunos hieren,\ncuentan los viejos sabios.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "leyenda"
+  }
+}

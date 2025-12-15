@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Notas que fluyen como un río claro,\nllevando al alma a un mundo superior,\ndonde el dolor se vuelve menos caro.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "son"
+  }
+}

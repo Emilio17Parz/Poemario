@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No fue un golpe en la espalda,\nfue un puñal en el alma.\nEl amor era una falda\nque ocultaba la calma.\n\nLa traición es la sombra\ndel amigo más fiel,\nla herida que te nombra\ncon sabor a hiel.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "traición"
+  }
+}

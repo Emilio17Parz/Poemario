@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dos mitades\nrojo latir\nsentimiento\namor profundo\nbelleza interna\ncentro de\nla vida.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

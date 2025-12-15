@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Cargando con la cruz pesada,\ncaminas hacia el calvario,\ncon la espalda lacerada.\n\nPor la gente malvada,\nsufres el calvario,\ncargando con la cruz pesada.\n\nTu sangre derramada,\nes el precio necesario,\ncon la espalda lacerada.\n\nVida sacrificada,\nen el escenario,\ncargando con la cruz pesada.\n\nHumanidad salvada,\ndel destino precario,\ncon la espalda lacerada.\n\nAmor de llamarada,\ndivino y voluntario,\ncargando con la cruz pesada,\ncon la espalda lacerada.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

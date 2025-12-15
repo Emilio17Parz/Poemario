@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Solo eco\nde tu voz\nqueda aquí\nde tu voz\nsolo eco",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "eco"
+  }
+}

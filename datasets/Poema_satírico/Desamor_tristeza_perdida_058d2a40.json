@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Lloré un río, es verdad,\npero fue de la alergia,\nal polvo y a la energia,\nde tu inmensa necedad.\nNo te des la autoridad,\nde ser mi melancolía,\nlloro porque la casa está fría,\ny por la factura de electricidad.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "llanto"
+  }
+}

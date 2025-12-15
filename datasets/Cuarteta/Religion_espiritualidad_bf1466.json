@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La oración es el puente, la voz que clama,\nal cielo infinito, a la inmensidad,\nla dulce palabra que enciende la llama,\nde eterna y pura caridad.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Oración"
+  }
+}

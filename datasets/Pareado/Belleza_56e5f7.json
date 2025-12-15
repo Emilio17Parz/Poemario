@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Vuela la flor,\ncon gran color.",
+    "tipo": "Pareado",
+    "palabra_clave_ingresada": "mariposa"
+  }
+}

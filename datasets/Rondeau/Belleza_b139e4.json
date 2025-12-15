@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Lindo paisaje,\ndel viaje.\nMontañas,\ny cañas,\nsalvaje.\n\nEl traje,\ndel paje.\nLas mañas,\nlindo paisaje.\n\nEl peaje,\ndel carruaje.\nLas arañas,\ny pestañas,\ncoraje,\nlindo paisaje.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

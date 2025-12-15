@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Hay una guerra que no sale en mapas,\nla guerra del hambre en los arrabales.\nDonde los niños son los generales,\ny el frío se cuela por todas las capas.\nHéroes anónimos que sobreviven,\naunque los ricos de todo les priven.\nLa épica triste de la pobreza,\nque lucha a diario con gran entereza.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "pobreza"
+  }
+}

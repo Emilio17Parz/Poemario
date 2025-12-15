@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El capitán dio el mando en la tormenta cruel,\nCon el rostro sereno, sin miedo ni hiel.\nLlevó a su gente a puerto, sin una fisura,\nEl líder es el faro, la cosa más pura.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "capitán"
+  }
+}

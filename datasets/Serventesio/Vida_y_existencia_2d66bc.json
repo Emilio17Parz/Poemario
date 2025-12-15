@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "La vida es un mar de olas gigantes y crueles (A),\nde calma y tormenta, de espuma y de sal (B),\nnavega valiente con velas fieles (A),\nhasta el puerto final (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Mar"
+  }
+}

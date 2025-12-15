@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Honor al pecho que se ha partido,\npor haber amado con exceso,\nque lleva la marca de aquel beso\ncomo un estigma dolorido.\n\nSangre invisible que el alma vierte,\nen el altar del desamor,\nsea este himno de clamor,\nel canto triste de nuestra suerte.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "grieta"
+  }
+}

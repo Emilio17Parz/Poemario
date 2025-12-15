@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, alma errante, que la prisa ciega,\nDetén tu paso, que la luz no niega\nUn saber hondo, antiguo, sin rumor,\nQue en cada forma nos regala amor.\n\nObserva el roble, su paciente tronco,\nQue al viento cede, mas no queda ronco;\nEl río fluye, nunca está de pie,\nEn su constante ir, la vida ve.\n\nAprende del arroyo que se adapta,\nA cada piedra su camino capta;\nDel campo fértil, que tras el invierno,\nPromete el fruto, un don del don eterno.\n\nMira los ciclos, el morir, nacer,\nLa espiga brota, vuelve a perecer;\nY en lo alto, serena, la **luna** rige,\nSu luz plateada nuestras sombras teje.\n\nNo somos dueños de su gran designio,\nMas parte somos de su bello signo.\nCon humildad escucha su canción,\nHallarás calma en tu atribulado corazón.\n\nAsí la tierra, el cielo y el vasto mar,\nUn libro abierto que hay que descifrar.\nMedita en ella, pues su voz secreta,\nAl fin te muestra tu verdad completa.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "luna"
+  }
+}

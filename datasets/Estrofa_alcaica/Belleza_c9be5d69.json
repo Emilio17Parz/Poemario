@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La luz serena que la tierra abraza,\nel don sublime de la creación.\nAsí la musa nos revela\nsu faz que el tiempo no borrará.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "musa"
+  }
+}

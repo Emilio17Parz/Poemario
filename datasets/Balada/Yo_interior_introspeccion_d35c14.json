@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Callar la boca y la mente,\npara oír la voz latente,\nque nos habla desde el fondo,\nde un modo claro y hondo.\nEn el silencio está la paz,\ny se cae el antifaz,\ndescubriendo lo que somos,\nsin cargas ni sin plomos.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

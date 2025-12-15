@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge la cruel batalla,\ny el soldado no calla,\nfrente a la muralla.\nRuge la cruel batalla,\ndonde la metralla,\ntodo lo avasalla.\nRuge la cruel batalla,\ny el soldado no calla.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

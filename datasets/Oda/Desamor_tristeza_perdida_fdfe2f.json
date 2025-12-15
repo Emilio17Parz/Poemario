@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Madera que nos divide,\ncandado y cerrojo,\nlleno de enojo,\nque el paso impide.\nTe fuiste por ahí,\ny yo me perdí.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "puerta"
+  }
+}

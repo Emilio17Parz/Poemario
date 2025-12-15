@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "[EL CABALLERO]\n¡No te resistas, mujer! Tu hermano te ha vendido al enemigo.\nHe cruzado cien leguas, he luchado cien batallas para traerte de vuelta.\nDame la mano. No es por tu belleza, es por la deuda que mi alma contrajo\nla noche que tus ojos me miraron por primera y última vez.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "rescate"
+  }
+}

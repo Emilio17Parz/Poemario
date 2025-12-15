@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Papel viejo y arrugado,\ncon líneas de tinta negra,\nque al aventurero alegra,\ny le muestra lo soñado.\n\nEl mundo allí dibujado,\ncon monstruos que desintegra,\ny rutas que reintegra,\nal tesoro deseado.\n\nEl mapa es la promesa,\nde tierras por descubrir,\ny de una gran sorpresa.\n\nInvita a salir y a ir,\nsin sentarse a la mesa,\na ver el mundo latir.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

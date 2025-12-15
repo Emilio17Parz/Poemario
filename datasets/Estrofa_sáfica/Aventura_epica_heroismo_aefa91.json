@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Sol que calcina, arena sin fin,\nsed que tortura al caminante,\npaso pesado y vacilante,\ntierra de fuego.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "desierto"
+  }
+}

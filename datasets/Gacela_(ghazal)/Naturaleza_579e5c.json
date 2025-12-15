@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Cubre de blanco la fría nieve,\nduerme el paisaje bajo la nieve.\n\nSilencio absoluto en el mundo helado,\ntodo lo acalla la suave nieve.\n\nCristales de hielo que el cielo regala,\npureza efímera de la blanca nieve.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "nieve"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Oh, dulce amada, luz que mi alma enciende,\ntu voz un trino, un eco de la aurora.\nEn cada gesto, un cielo se me abre,\ny el tiempo en tu mirar feliz se demora.\n\nComo la fuente pura que desciende,\nasí tu gracia mi espíritu enamora.\nUn suspiro de brisa que me comprende,\nla suave caricia que mi ser añora.\n\nMi **corazón**, rendido, te comprende,\npor ti, mi vida, la pasión aflora.\nEs tu amor el bálsamo que me defiende,\nla verdad más hermosa que me mejora.\n\nAsí, en este idilio que la vida engendra,\nnuestro amor, sin cadenas, libre y fuerte,\npor siempre mi alma a la tuya se ofrenda,\nmás allá del presente, más allá de la muerte.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "corazón"
+  }
+}

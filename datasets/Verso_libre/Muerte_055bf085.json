@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El último suspiro, un temblor en el aire\nque nadie atrapa.\nLa luz se retira de la mirada,\nno en abrupto, sino en un lento desgarro,\ncomo la niebla que se funde con el día.\n\nEl cuerpo, mapa de batallas y de amores,\ncuna de un yo que ya no habita,\nse entrega al silencio.\nLos dedos, que una vez trazaron el mundo,\nreposan; el corazón, motor incansable,\nya no mide el tiempo.\n\nHay una promesa en la quietud,\nun pacto ancestral con la tierra hambrienta.\nNos despojamos de la forma,\nde la piel, del hueso, del recuerdo encapsulado.\nNos volvemos arena, partícula,\nla esencia diluida en el vasto mar del olvido.\n\nY entonces, la transformación:\nde cada vida, una estela invisible,\npero el envase, el cántaro de barro,\nse desmorona, se rinde al tacto del tiempo\nhasta ser **polvo**, elemental y libre,\npartícula cósmica, de nuevo,\nflotando en el aliento insondable\nde lo que fue y lo que será,\nsin forma, sin nombre, solo el eco perpetuo.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

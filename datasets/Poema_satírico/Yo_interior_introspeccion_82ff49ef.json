@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mi ego es tan grande,\nque no cabe aquí,\ntodo el universo,\ngira por mí.\nSoy el más guapo,\ny el más listillo,\naunque en el fondo,\nsoy un membrillo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "ego"
+  }
+}

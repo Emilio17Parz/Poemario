@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Descansa en la tumba,\nel cuerpo inerte,\nque ya no siente nada,\nde la muerte.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "cuerpo"
+  }
+}

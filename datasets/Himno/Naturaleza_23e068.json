@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Reina de la noche, de pálida faz,\nque viertes tu plata en el mundo en paz!\nFaro de amantes y de caminantes,\nque en la penumbra se ven vacilantes.\n\n¡Salve, señora de la oscuridad,\nreflejo de calma y de majestad!\nTu ciclo eterno las mareas guía,\ny eres la luz cuando muere el día.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "luna"
+  }
+}

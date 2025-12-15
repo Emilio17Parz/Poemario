@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Casa de oración,\ndonde Dios habita,\ncon devoción.\n\nLa unión,\nque incita,\ncasa de oración.\n\nLa pasión,\nque medita,\ncon devoción.\n\nLa acción,\nque cita,\ncasa de oración.\n\nLa mansión,\nque grita,\ncon devoción.\n\nLa bendición,\ninfinita,\ncasa de oración,\ncon devoción.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "templo"
+  }
+}

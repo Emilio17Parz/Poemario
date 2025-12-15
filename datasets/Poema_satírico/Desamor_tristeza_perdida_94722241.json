@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "No te rayaré el coche,\nni quemaré tu ropa,\nni te pondré en la sopa,\nveneno de medianoche.\nMi venganza sin reproche,\nes que te veas en la copa,\ncon esa nueva tropa,\nque aguanta tu fantoche.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "venganza"
+  }
+}

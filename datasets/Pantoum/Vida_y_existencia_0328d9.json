@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Teje la parca el hilo,\nde nuestra frágil historia,\ncaminamos sobre el filo,\nbuscando algo de gloria.\n\nDe nuestra frágil historia,\nnadie conoce el final,\nbuscando algo de gloria,\nen este mundo mortal.\n\nNadie conoce el final,\nteje la parca el hilo,\nen este mundo mortal,\ncaminamos sobre el filo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "hilo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Un vínculo eterno nos une al fin con dulzor (A),\nmás fuerte que el hierro, más puro que el sol (B),\nla vida es el canto de nuestro fulgor (A),\nel único y gran arrebol (B).",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "Vínculo"
+  }
+}

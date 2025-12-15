@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El color de la flor,\nalegra el prado verde en primavera,\ncon su primor,\nde tal manera,\nque la vista se queda prisionera.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "color"
+  }
+}

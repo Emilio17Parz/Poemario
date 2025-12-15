@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Todo principio tiene fin\ny todo río su mar,\nla vida es un breve paso\nque no se puede parar.\nLlegamos desnudos al mundo\ny así nos hemos de marchar,\ndejando solo el recuerdo\nde nuestro triste pasar.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "final"
+  }
+}

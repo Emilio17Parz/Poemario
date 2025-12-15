@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna de plata vigila el sueño,\nde un mundo que descansa en la penumbra,\nsu pálido reflejo nos alumbra,\ncon su misterio y su callado empeño.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "luna"
+  }
+}

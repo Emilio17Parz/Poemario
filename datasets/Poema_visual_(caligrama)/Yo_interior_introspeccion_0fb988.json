@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Forma suave\nflota en mente\npensamiento\nque pasa\ny se va\ncomo el humo\ndel sueño.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

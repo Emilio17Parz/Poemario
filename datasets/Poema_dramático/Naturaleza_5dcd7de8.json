@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "HOMBRE: ¡Oh, cielo mudo! ¿Por qué no respondes?\nTe grito mis penas y sigues azul.\nCIELO: Te cubro con manto de nube y de tul,\npero mis designios siempre escondes.\nNo busques arriba lo que está en el suelo,\nmira en tu pecho y hallarás consuelo.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

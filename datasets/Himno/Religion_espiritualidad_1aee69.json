@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "¡Noche de paz, noche de amor,\nnace en Belén el Salvador!\nÁngeles cantan gloria en la altura,\ny paz a los hombres de buena ventura.\n\n¡Gloria al Niño que viene a salvar,\ny en un pesebre quiso habitar!\nLuz que ilumina la oscuridad,\ndios hecho hombre por su bondad.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "navidad"
+  }
+}

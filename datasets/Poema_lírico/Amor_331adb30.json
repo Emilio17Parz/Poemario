@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu amor, serena luz en mi aposento,\nes brisa antigua que renueva el ser,\nun eco dulce en cada pensamiento,\nla clara fuente donde quiero beber.\n\nNo existe invierno que empañe tu mirada,\nni senda oscura que no aclares tú;\nmi alma en tus manos se siente anclada,\nun puerto a salvo en la infinita azul.\n\nEs tu presencia, el hálito que inflama\nla entraña oculta de mi corazón;\nun sacro rito, una invencible llama,\nel vivo **fuego** de mi adoración.\n\nDejaste huella en cada amanecer,\ntu voz resuena en mi interior más quieto;\nsin ti, el sendero perdería el querer,\ny el alma un eco sin el dulce secreto.\n\nAsí te nombro, amor, fuerza que guía,\nestrella fija en mi nocturno andar;\nmi eterna musa, mi profunda vía,\nel único motivo para amar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "fuego"
+  }
+}

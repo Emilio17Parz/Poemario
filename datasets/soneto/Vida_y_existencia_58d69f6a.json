@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "¿Quién teje el hilo de nuestra existencia?\n¿Acaso está la historia ya trazada?\n¿O es hoja blanca, libre y despejada,\ndonde escribe la propia conciencia?\n\nA veces siento la fuerte influencia\nde una fuerza mayor e inesperada,\nque guía la pisada en la calzada\ncon una misteriosa prepotencia.\n\nDestino, azar o voluntad divina,\nsea lo que sea, voy navegando,\naunque la niebla el rumbo difumina.\n\nQuizás lo escrito se vaya borrando,\ny seamos nosotros quien domina\nel barco que la vida va llevando.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "destino"
+  }
+}

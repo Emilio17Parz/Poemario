@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "El miedo no falta,\npero el coraje lo vence y pisa;\nuna brisa,\nque asalta.\nSer bravo es actuar pese al temor,\ncon valor.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "valiente"
+  }
+}

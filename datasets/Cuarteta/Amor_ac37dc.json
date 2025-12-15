@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si mi alma se apaga en el desvelo,\ntu risa es el sol que vuelve a brillar,\nno hay cielo más azul, no hay más consuelo\nque en tus brazos al fin poder hallar.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Luz"
+  }
+}

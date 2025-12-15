@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Acero toledano,\nforjado en el calor de mil fraguas;\nno temes aguas\nni golpe vano;\ncompañera fiel del brazo fuerte;\ndas la muerte\nal enemigo impío,\ncon el rigor de tu cortante frío.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "espada"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Cuerpo al aire,\nque se mueve,\ny se atreve,\ncon donaire.\nSin desaire,\nbaila y gira,\ny suspira,\nel baile.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "danza"
+  }
+}

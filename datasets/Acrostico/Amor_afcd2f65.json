@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "T odo lo que tengo es para ti,\nU nico dueño de mi querer,\nY a no puedo vivir sin tu luz,\nO frezco mi vida a tus pies.",
+    "tipo": "Acróstico",
+    "palabra_clave_ingresada": "tuyo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Inmenso vacío dejaste,\ncuando te marchaste,\nde mi casa y de mi vida,\ndejando abierta la herida,\nque con frialdad creaste.\n\nTodo lo que tocaste,\nen silencio transformaste,\nen una pena desmedida,\ninmenso vacío.\n\nYa no sé si me amaste,\no solo conmigo jugaste,\npero en esta despedida,\nmi alma queda perdida,\nen el hueco que formaste,\ninmenso vacío.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La suave silueta\nde la luna en la noche,\ncubre el horizonte.\nUna forma simple y bella,\nque el ojo ya no olvida.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Silueta"
+  }
+}

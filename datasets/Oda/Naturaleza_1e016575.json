@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pequeño tigre de sala,\nseñor de la independencia,\nque caminas con sigilo\ny duermes con inocencia.\nOjos de luna y misterio,\nsuave piel de terciopelo,\ncazador de sombras vanas,\ndueño del sofá y del suelo.\nTe admiro, felino altivo,\npor tu elegante desdén,\ny por el ronroneo tibio\nque me hace sentir bien.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "gato"
+  }
+}

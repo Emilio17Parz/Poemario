@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del cielo, divina,\nmi inspiradora y gran musa,\nque sin tu toque la pluma\na escribir versos rehúsa.\nDame la imagen perfecta,\nla palabra que se usa,\npara pintar la belleza\nque en el mundo se difusa.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "musa"
+  }
+}

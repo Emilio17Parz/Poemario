@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Marco dorado\ncristal plano\nreflejo fiel\nverdad muestra\nimagen doble\nvanidad\ny realidad.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

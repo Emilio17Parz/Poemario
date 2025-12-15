@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se detienen las horas, se para el tiempo,\ncuando estoy contigo no existe el tiempo.\n\nEterno presente, feliz contratiempo,\nvivir sin medidas, vencer al tiempo.\n\nUn solo segundo es vasto y amplio,\nporque nuestro amor derrota al tiempo.",
+    "tipo": "Gacela",
+    "palabra_clave_ingresada": "tiempo"
+  }
+}

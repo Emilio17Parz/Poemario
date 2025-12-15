@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El cuerpo muere y acaba\npero el alma es inmortal,\ny sube al reino ideal\nque tanto tiempo esperaba.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "eterna"
+  }
+}

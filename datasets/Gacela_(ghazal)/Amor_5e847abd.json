@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Ya no somos dos ríos, somos el mismo mar,\ndonde las aguas se mezclan sin poder separar.\n\nTu latido y el mío aprendieron a acompasar,\nuna sola música en el eterno girar.\n\nFundidos en el abrazo, sin miedo a naufragar,\nporque siendo uno, nada nos puede matar.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "uno"
+  }
+}

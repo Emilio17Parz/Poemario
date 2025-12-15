@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "El amor se fue,\ndeja un hondo y frío vacío,\ngran desolación.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

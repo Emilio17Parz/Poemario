@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Diente blanco,\nque se asoma,\ny es la broma,\ndel barranco.\nSoy muy franco,\nal decir,\nque reír,\nes el banco.",
+    "tipo": "Silva",
+    "palabra_clave_ingresada": "sonrisa"
+  }
+}

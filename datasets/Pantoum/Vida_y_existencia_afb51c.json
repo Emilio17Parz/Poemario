@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Dejamos rastro al caminar,\npequeña marca en la historia.\nTratando siempre de mejorar,\ngrabar el nombre en la memoria.\n\nPequeña marca en la historia,\nque el viento puede borrar.\nGrabar el nombre en la memoria,\nes nuestra forma de amar.\n\nQue el viento puede borrar,\ntratando siempre de mejorar.\nEs nuestra forma de amar,\ndejamos rastro al caminar.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "huella"
+  }
+}

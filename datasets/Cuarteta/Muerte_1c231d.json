@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Volvemos al polvo, a la tierra fría,\ndonde el recuerdo se desvanece ya,\nel cuerpo descansa de su agonía,\nla esencia, ¿a dónde irá?",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Polvo"
+  }
+}

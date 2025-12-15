@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "ESTROFA 1 (Abreviada):\nMi alma contigo quiere al fin volar (E1: volar)\nLa jaula de hierro no quiero ya ver (E2: ver)\nTu amor es la senda de un gran fulgor (E3: fulgor)\nEl miedo se aleja sin un dolor (E4: dolor)\nLa fuerza que ayuda a mi ser a crecer (E5: crecer)\nEl tiempo se para sin un error (E6: error)\n\nTORNADA:\nNo quiero ya ver al fin crecer (E2, E5)\nEl dolor me da el gran fulgor (E4, E3)\nSin error, yo quiero volar (E6, E1)",
+    "tipo": "Sestina",
+    "palabra_clave_ingresada": "Vuelo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "De la piedra sale vida,\ncon el golpe del cincel,\nes una obra fiel,\ny una forma definida.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

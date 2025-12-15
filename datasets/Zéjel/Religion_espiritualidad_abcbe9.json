@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La cruz ya me salvó,\ny la pena se me acabó.\n\nEl perdón ya me llegó,\nla gracia me sonrió,\nel alma me sanó,\ny la pena se me acabó.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "cruz"
+  }
+}

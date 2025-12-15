@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Mi lecho se siente de hielo,\nsin tu cuerpo que era mi cielo.\nNo hay paz ni calor,\nsolo un gran dolor,\nla noche sin un gran consuelo.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "Hielo"
+  }
+}

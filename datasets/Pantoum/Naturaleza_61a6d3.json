@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Guarda la cueva el secreto,\nla oscuridad y el eco,\nun lugar frío y quieto,\ndonde el sol está seco.\n\nLa oscuridad y el eco,\nrebotan en la pared,\ndonde el sol está seco,\nse teje de piedra la red.\n\nRebotan en la pared,\nun lugar frío y quieto,\nse teje de piedra la red,\nguarda la cueva el secreto.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "eco"
+  }
+}

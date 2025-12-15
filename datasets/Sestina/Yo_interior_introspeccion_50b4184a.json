@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Busco encontrar mi identidad,\nsaber quién soy en la soledad,\nlejos de la falsa vanidad,\ncon absoluta sinceridad,\npara vivir siendo verdadero,\ny no un simple pasajero.",
+    "tipo": "Sestina (Estrofa I)",
+    "palabra_clave_ingresada": "identidad"
+  }
+}

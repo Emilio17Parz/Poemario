@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La justicia es ciega,\ndicen quien la ruega,\npero el oro la inclina,\ny al pobre lo arruina,\nmientras el rico juega.\n\nLa verdad se niega,\nen la ley que se entrega,\nal poder que domina,\nla justicia es ciega.\n\nEl pueblo se doblega,\nante la fuerza que llega,\ncon mano asesina,\ny la esperanza termina,\nen la sombra andariega,\nla justicia es ciega.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

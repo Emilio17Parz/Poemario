@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Juego de viejos en mesa,\nque juegan con vidas de jóvenes,\nmientras llueven bombas y órdenes,\ny la muerte jamás cesa.\n\nLa tierra sangra y se estresa,\nse rompen los frágiles órdenes,\ny quedan los tristes desórdenes\nde una humanidad que no pesa.\n\nNo hay ganador en la contienda,\nsolo viudas, huérfanos, llanto,\ny odio que el fuego encienda.\n\nLa guerra es el negro manto,\nla locura que no se remienda,\nel error que nos duele tanto.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "guerra"
+  }
+}

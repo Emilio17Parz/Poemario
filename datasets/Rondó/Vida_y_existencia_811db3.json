@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Abre las alas,\npara volar,\ny soñar,\nsin balas.\nLas galas,\ndel mar.\nAbre las alas.\n\nRompe cadenas,\nde la mente,\nvaliente,\nsin penas.\nLas cenas,\nde la gente.\nAbre las alas.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "alas"
+  }
+}

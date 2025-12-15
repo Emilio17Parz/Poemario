@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Atrapa el breve instante,\nque huye velozmente,\nvívelo intensamente,\ncomo un diamante.\nEl presente es constante,\ny el futuro ausente.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "instante"
+  }
+}

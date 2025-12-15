@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te llevo grabada en los pliegues de mi memoria como se llevan las cicatrices de las batallas ganadas.\nEres el recuerdo recurrente que me asalta en mitad del día para recordarme que la belleza existe.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

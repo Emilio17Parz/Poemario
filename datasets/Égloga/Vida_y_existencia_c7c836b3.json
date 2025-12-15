@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Con la azada y el sudor,\nlabramos la tierra dura,\npara sacar la hermosura,\ndel fruto y de la flor.\nEs sagrada la labor,\nque aleja la amargura,\ny da la compostura,\nal hombre agricultor.\nBenditas sean las manos,\nde los seres humanos,\nque nos hacen hermanos.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "labor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Escondo en mi interior un secreto,\nque jamás ha salido a la luz,\ny hace mi corazón incompleto.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "secreto"
+  }
+}

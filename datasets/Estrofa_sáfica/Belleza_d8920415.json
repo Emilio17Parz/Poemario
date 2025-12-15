@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Mira la belleza que en el orbe se extiende,\nsiente el misterio que en su forma vive,\ny el brillo incansable de su puro color,\nluz sin condición.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "color"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Qué bello y cristalino río,\npoético, fresco y bravío.\nHasta que vi pasar flotando,\nun neumático navegando.\nNaturaleza muy pura,\nllena de nuestra basura.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "río"
+  }
+}

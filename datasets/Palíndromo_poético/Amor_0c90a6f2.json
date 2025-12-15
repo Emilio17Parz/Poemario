@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Nace el amor, tenue cristal,\nMirada pura, leve aliento.\nUn rayo de sol, elemental.\n\nProfundo anhelo, fiel sentir,\nCon cada pulso, un alma en vuelo.\nEl tiempo cesa, no hay que huir.\n\nLuz que perdura, ardiente calma,\nUn nosotros que el ser proclama.\nTodo lo abarca, mi ser te aclama.\n\nNo hay que huir, el tiempo cesa.\nEn vuelo un alma, con cada pulso.\nFiel sentir, anhelo que regresa.\n\nElemental rayo de sol,\nLeve aliento, mirada pura.\nTenue cristal, amor, su arrebol.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "alma"
+  }
+}

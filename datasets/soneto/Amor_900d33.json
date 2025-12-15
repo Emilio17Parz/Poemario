@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Arde la piel al roce de tu mano,\nun fuego que devora la cordura,\ny en esta dulce y trágica locura\nse vuelve el mundo entero tan lejano.\n\nEs este sentimiento soberano\nel que me da la fuerza y la ternura,\nrompiendo la prisión, la atadura,\nde todo lo que fue gris y mundano.\n\nBesar tu boca es beber la vida,\nes encontrar la paz en la tormenta,\ncurar con un suspiro cada herida.\n\nMi alma de tu esencia se alimenta,\ny en esta unión eterna y desmedida\nel pulso del amor se incrementa.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "pasión"
+  }
+}

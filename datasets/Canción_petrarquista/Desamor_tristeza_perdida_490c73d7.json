@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Amargo es el dolor de recordar\nla dicha que se tuvo y se ha perdido,\npues no hay peor olvido\nque el no poder dejar de amar.\nVivo muriendo en esta paradoja,\nque el alma desaloja,\ny el cuerpo desfallece,\nmientras mi mal con el pensar florece.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "dolor"
+  }
+}

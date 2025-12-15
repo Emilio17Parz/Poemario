@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "[EL SOÑADOR]\n(Saliendo de un sueño intenso)\nLa realidad es una burla, una farsa pálida comparada con el color de mis sueños.\nAllí fui rey, héroe, amante. Aquí solo soy este oficinista gris.\nNo me pidáis que acepte vuestra luz falsa. Viviré en la noche.\nLa vida es el largo, estúpido tiempo que me separa de mi próxima siesta.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "despertar"
+  }
+}

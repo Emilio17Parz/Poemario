@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Un hombre sin su honor\nes como un jardín sin flor,\nno tiene aroma ni vida,\nni merece el amor.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "honor"
+  }
+}

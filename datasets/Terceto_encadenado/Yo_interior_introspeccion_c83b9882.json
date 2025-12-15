@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Viaja sin descanso mi propia mente,\npor laberintos de duda y razón,\nllevada por una fuerte corriente.\n\nBuscando paz para mi corazón,\nentre recuerdos y sueños lejanos,\nlejos de la locura y la pasión.\n\nY de los deseos que son vanos.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "mente"
+  }
+}

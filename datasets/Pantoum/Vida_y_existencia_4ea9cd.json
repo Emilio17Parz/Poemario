@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Solo existe el ahora,\nlo demás es ilusión,\nno esperes a la hora,\nde pedir perdón.\n\nLo demás es ilusión,\nel pasado ya se fue,\nde pedir perdón,\nmantén firme la fe.\n\nEl pasado ya se fue,\nsolo existe el ahora,\nmantén firme la fe,\nno esperes a la hora.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ahora"
+  }
+}

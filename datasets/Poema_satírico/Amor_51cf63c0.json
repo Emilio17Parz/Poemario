@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Prometes amarme amor eterno,\nhasta que llegue el crudo invierno.\nPero si paso de los cuarenta,\ntu amor eterno se pone en venta.\nLo eterno te dura un par de meses,\no lo que tardan los intereses.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "eterno"
+  }
+}

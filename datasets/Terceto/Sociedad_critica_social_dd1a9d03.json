@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Clama el pueblo pidiendo justicia,\nque se aplique la ley con equidad,\nsin la sombra de la cruel codicia.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Frío que muerde,\nfuego en el hogar,\ntiempo de pensar,\ndonde el verde pierde.\nDescanso de tierra,\nfin de la guerra.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "invierno"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Soy el centro del mundo,\npiensa mi cerebro,\nun error profundo,\nque yo celebro.\nNadie me mira,\npero mi ego delira.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Ego"
+  }
+}

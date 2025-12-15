@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Tengo sótanos oscuros donde guardo mis monstruos, mis envidias y mis rencores secretos.\nBajar allí con una vela no es para matarlos, sino para reconocerlos y entender que también son parte de mi humanidad.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "oscuridad"
+  }
+}

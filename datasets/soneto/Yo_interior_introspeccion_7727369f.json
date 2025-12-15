@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Baúl donde guardo tesoros,\nimágenes, voces, olores,\nlos días de grandes amores\ny también los tristes lloros.\n\nA veces resuenan los coros\nde aquellos pasados actores,\ny vuelven los viejos dolores\no los alegres aforos.\n\nSoy lo que recuerdo y olvido,\nmi historia se teje en la mente,\ncon hilo de tiempo cosido.\n\nSin ella no estoy presente,\npues es el suelo medido\ndonde pisa mi pie valiente.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

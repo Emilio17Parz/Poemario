@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El canto del pájaro en la mañana,\nes una dulce y clara oración,\nque rompe la bruma, quita la pena,\ny llena de ritmo el corazón.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Pájaros"
+  }
+}

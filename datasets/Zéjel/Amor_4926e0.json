@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu nombre pronuncio,\ny al mal yo renuncio.\n\nPalabra sagrada,\npor mí tan amada,\nen la madrugada,\nsiempre lo anuncio.\nTu nombre pronuncio,\ny al mal yo renuncio.",
+    "tipo": "Zejel",
+    "palabra_clave_ingresada": "nombre"
+  }
+}

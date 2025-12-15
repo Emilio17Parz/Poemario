@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Veo mi rostro,\n¿quién habita esos ojos\ntan profundos?\nBusco mi identidad\nmás allá de la piel.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "espejo"
+  }
+}

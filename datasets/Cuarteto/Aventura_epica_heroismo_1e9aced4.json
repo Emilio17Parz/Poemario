@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Aunque sienta miedo atroz\nsigo firme en mi puesto,\ncon el ánimo dispuesto\ny el corazón veloz.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "temor"
+  }
+}

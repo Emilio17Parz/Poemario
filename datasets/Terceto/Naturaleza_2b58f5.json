@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La luna es de plata, la luz sin igual (A),\nque vela el sueño de la noche cruel (A),\nla eterna y dulce verdad total (A).",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "Luna"
+  }
+}

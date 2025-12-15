@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Se rompe el cielo con un gran estruendo,\nel rayo corta el aire como espada,\ny la naturaleza asustada,\nve cómo el caos está sucediendo.\n\nEl viento aúlla, todo barriendo,\nla lluvia cae furiosa y pesada,\ny la creación se siente amenazada,\nante el poder que está descendiendo.\n\nEs la ira de dioses antiguos,\nque muestran su fuerza y su vigor,\ndejando a los hombres exiguos.\n\nMas tras la furia y el gran terror,\nvuelven los tiempos calmos y ambiguos,\ny brilla el iris con su color.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "tormenta"
+  }
+}

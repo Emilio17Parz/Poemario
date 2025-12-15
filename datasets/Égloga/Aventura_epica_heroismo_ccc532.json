@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Ruge el cielo, cae el rayo,\nla riada amenaza el puente.\nSalvar a la gente\nes el ensayo.\nNo hay desmayo\nen el valiente.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "rayo"
+  }
+}

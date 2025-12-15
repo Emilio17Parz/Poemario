@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "El rencor es un veneno,\nque me bebo cada día,\ny que no me deja ser bueno.\n\nEs un cielo sin sereno,\nuna triste melodía,\nel rencor es un veneno.\n\nMe siento en un terreno,\nde dolor y agonía,\ny que no me deja ser bueno.\n\nNo le pongo ningún freno,\na esta oscura porfía,\nel rencor es un veneno.\n\nMi pecho está lleno,\nde una gran antipatía,\ny que no me deja ser bueno.\n\nEs un sentimiento ajeno,\na la paz que yo quería,\nel rencor es un veneno,\ny que no me deja ser bueno.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "rencor"
+  }
+}

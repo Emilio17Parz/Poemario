@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Senda estrecha que lleva a la vida,\ndifícil de hallar y recorrer,\nal nacer,\nla puerta ancha es la preferida.\nPero el camino recto y seguro,\naunque duro,\nes el que lleva a la felicidad,\nde verdad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "senda"
+  }
+}

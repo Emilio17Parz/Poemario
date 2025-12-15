@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Defiende siempre su honor,\nsin conocer el temor,\nni el falso dolor.\nDefiende siempre su honor,\ncon gran valor,\ny puro amor.\nDefiende siempre su honor,\nsin conocer el temor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "honor"
+  }
+}

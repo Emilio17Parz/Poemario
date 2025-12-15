@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Emprendes el viaje,\nsin maleta,\na la meta,\ndel paraje.\nSin equipaje,\nni chaqueta.\nEmprendes el viaje.\n\nBarca de Caronte,\nque te lleva,\na la nueva,\nhorizonte.\nEn el monte,\nque se eleva.\nEmprendes el viaje.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

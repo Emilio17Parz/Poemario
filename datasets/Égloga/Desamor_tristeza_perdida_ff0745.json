@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Marchitóse la flor que me diste,\nigual que el amor que prometías.\nFueron tan breves las alegrías,\ny tan larga la pena que me viste.\nAhora el monte se me antoja triste,\ny oscuros y eternos los días.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Me dejaste con un triste adiós,\nrompiendo mis sueños en pedazos,\nya no hay mundo para los dos,\nni calor en tus fríos abrazos.\n\nRompiendo mis sueños en pedazos,\nte marchaste sin mirar atrás,\nni calor en tus fríos abrazos,\nporque sé que ya no volverás.\n\nTe marchaste sin mirar atrás,\nme dejaste con un triste adiós,\nporque sé que ya no volverás,\nya no hay mundo para los dos.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

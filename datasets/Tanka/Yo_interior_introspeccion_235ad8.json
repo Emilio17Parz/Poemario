@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Mente que vuela\nlejos de la razón\nmundo al revés.\nA veces es refugio\nde la cruda verdad.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "locura"
+  }
+}

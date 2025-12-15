@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Despliego el pergamino viejo y sigo con el dedo las líneas de tinta que prometen tierras más allá del mar.\nEl mapa es una invitación a perderse, una promesa de que el mundo es más grande que el pequeño rincón donde nacimos.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

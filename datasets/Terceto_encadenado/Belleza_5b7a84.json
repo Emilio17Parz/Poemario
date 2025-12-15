@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Del bloque de mármol frío,\nsurge una forma viviente,\ncon fuerza y con brío.\n\nEl cincel es la fuente,\nde la figura inmortal,\nque nos mira de frente.\n\nEn su pedestal.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

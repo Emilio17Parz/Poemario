@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Tumba fría\nguarda el ser\nque fue\nguarda el ser\ntumba fría",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

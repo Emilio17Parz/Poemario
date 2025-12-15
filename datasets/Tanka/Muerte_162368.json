@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Comienza un viaje\nsin regreso al puerto aquí,\nun adiós forzoso.\nLa barca parte ligera,\nhacia el mar de la noche.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Viaje"
+  }
+}

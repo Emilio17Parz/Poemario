@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu voz resuena como un eco fiel,\nen la caverna hueca de mi pecho,\nno hay amargura, sino solo miel,\nel más hermoso de mis hechos.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "Eco"
+  }
+}

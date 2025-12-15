@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Se sienta en el trono con mano dura,\nacalla las voces de la razón,\nsu sombra es larga y oscura,\nsembrando el miedo en el corazón.\nPero todo imperio de terror cae,\ncuando la ira del pueblo se atrae.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Tirano"
+  }
+}

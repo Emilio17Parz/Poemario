@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante azul de espuma y de sal,\nque muerdes la orilla con tu diente,\nrugiendo fuerte, bravo e imponente,\nen un eterno y rítmico ritual.\n\nEspejo inmenso, líquido cristal,\nque guardas vida en tu vientre latente,\ny abrazas al sol en el poniente,\ncurando al mundo de su propio mal.\n\nNavego en tus lomos de marea,\nbuscando el horizonte que se aleja,\ndonde la luz con el agua pelea.\n\nTu voz profunda nunca se hace vieja,\ny mi alma en tu grandeza se recrea,\nmientras tu canto su dolor despeja.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "mar"
+  }
+}

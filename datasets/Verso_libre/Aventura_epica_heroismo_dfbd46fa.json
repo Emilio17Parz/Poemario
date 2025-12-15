@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Hacerse a la mar sin mapas.\nConfiar en las estrellas\ny en la madera crujiente.\nEl monstruo marino espera abajo,\nla tormenta espera arriba.\nPero el corazón del navegante\nes más vasto que el océano.\nNavegar es necesario, vivir no.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "mar"
+  }
+}

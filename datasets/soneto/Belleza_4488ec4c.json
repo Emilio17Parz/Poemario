@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza que el alma al fin conmueve,\nUn don sutil que el mundo nos regala,\nQue en cada forma, en cada luz se exhala,\nY un dulce hechizo sobre el ser remueve.\n\nReflejo fiel del sol que siempre llueve\nSobre la tierra, y nada se le iguala,\nEn cada flor su esencia nos señala,\nY el corazón a su embrujo se atreve.\n\nMas no es solo color o el vivo trazo,\nSino el fulgor que el espíritu derrama,\nUn puro y etéreo esplendor sin lazo.\n\nQue más allá del tiempo se proclama,\nUn arte eterno, un celestial abrazo,\nQue en la memoria y el amor nos llama.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "esplendor"
+  }
+}

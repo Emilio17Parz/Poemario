@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Limpia la fama, palabra cumplida,\nvale la vida perder por honor,\nantes que vivir con el deshonor,\nnoble conducta.",
+    "tipo": "Estrofa sáfica",
+    "palabra_clave_ingresada": "honor"
+  }
+}

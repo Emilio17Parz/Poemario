@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Corre el arroyo claro\nentre las piedras, límpido y avaro.\nMurmura su canción\ncon suave vibración,\nbuscando el mar inmenso\nen un viaje constante y siempre intenso.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "arroyo"
+  }
+}

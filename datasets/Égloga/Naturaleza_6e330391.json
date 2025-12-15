@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Oh, valle amado, donde el alba suave llega,\ntiñendo el prado fresco de luz color de miel,\nel manso viento apenas susurrando ruega\nque el tiempo se detenga, tan frágil como un fiel.\n\nAquí el silbo del mirlo saluda la mañana,\nla abeja atareada liba en cada flor,\ny el río, espejo errante, su dulce voz derrama,\ncantando sin descanso su eterno fulgor.\n\nÉl baja de la cumbre, entre juncos y brezos,\ndejando atrás la sierra, su origen puro y fiel,\npresuroso en su rumbo, venciendo los tropiezos,\nhasta besar el **mar**, su destino más leal.\n\nAquí el alma se aquieta, el espíritu reposa,\nolvida los afanes del mundo y su fragor,\nhallando en cada hoja, en cada humilde rosa,\nla esencia verdadera del divino amor.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "mar"
+  }
+}

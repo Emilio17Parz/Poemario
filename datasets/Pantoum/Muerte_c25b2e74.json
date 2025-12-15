@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Bajo el alto ciprés,\nduermen los ausentes,\nya no hay un después,\npara estas gentes.\n\nDuermen los ausentes,\nen la tierra quieta,\npara estas gentes,\nse acabó la meta.\n\nEn la tierra quieta,\nbajo el alto ciprés,\nse acabó la meta,\nya no hay un después.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "ciprés"
+  }
+}

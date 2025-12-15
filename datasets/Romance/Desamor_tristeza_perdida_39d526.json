@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Quiero borrar de mi mente\ntu nombre y tu geografía,\npero estás en cada cosa\nde mi triste y larga día.\nEl olvido no me llega\naunque beba en la taberna,\ny tu recuerdo me sigue\ncon su luz que no es eterna.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

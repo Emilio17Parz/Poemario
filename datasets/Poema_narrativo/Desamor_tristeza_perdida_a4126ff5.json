@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Volvió a la casa después del entierro,\nlos muebles cubiertos con sábanas blancas.\nSintió en el pecho el frío del hierro,\nal ver las fotos sobre las bancas.\nYa no había risas, ni el perro,\nsolo el silencio de puertas estancas.\nRecorrió el pasillo hasta el final,\nabrió la ventana hacia el rocío,\ny gritó su nombre al vendaval,\npero solo le respondió el vacío.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

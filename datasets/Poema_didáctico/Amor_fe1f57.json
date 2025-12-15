@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Dos líneas paralelas van,\njuntas pero no revueltas,\ncomparten el vino y el pan,\npero con almas sueltas.\nRespetar la soledad ajena,\nes romper la cadena.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Espacio"
+  }
+}

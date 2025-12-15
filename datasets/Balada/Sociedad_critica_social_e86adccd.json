@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Vemos la balanza rota,\nen manos del poderoso,\nmientras la sangre brota,\ndel pueblo laborioso.\nLa esperanza se agota,\nante tanta inmundicia,\ny queda una nota,\nclamando por justicia.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "justicia"
+  }
+}

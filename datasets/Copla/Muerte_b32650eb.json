@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Llega la muerte callada,\ny al cuerpo va a enterrar;\nmas vive nuestra memoria,\nque no se puede quebrar.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "memoria"
+  }
+}

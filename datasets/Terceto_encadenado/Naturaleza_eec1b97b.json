@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol de la mañana el prado besa,\ndespertando la flor, tierna y vivaz,\ncon su dulce calor, la luz que apresa.\n\nUn eco de la vida, tan fugaz,\nse extiende en el follaje que suspira,\ny vuela un ave en su mirar tenaz.\n\nLa cumbre de la sierra que respira,\nbajo el azul profundo del gran cielo,\ndonde la nube libre se retira.\n\nSu manto de quietud, su manso velo,\ncobija al mundo en sueño de cristal,\nun universo de verdad y celo.\n\nQue muestra su belleza sideral,\ndonde el espíritu halla su portal.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Queda la foto,\ndel devoto,\nmomento feliz,\ncon su matiz,\nremoto.\n\nCorazón roto,\nque noto,\nla cicatriz,\nQueda la foto.\n\nSin alboroto,\nni terremoto,\nla raíz,\nde la actriz,\nes el voto,\nQueda la foto.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "foto"
+  }
+}

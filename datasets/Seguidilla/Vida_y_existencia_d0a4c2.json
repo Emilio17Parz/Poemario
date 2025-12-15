@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Cada uno se labra,\nsu propio suelo,\ncon trabajo duro,\ny con desvelo.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "suelo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "El héroe forja su destino, audaz y fuerte,\nUn viaje comienza en la aurora, sin temor.\nDesafía sombras, la brújula le advierte,\nCon cada paso, crece su noble valor.\n\nPor sendas ocultas, el peligro acecha,\nUn viaje comienza en la aurora, sin temor.\nLa espada fulgura, una promesa estrecha,\nCon cada paso, crece su noble valor.\n\nEntre ruinas antiguas, un canto de gloria,\nLa espada fulgura, una promesa estrecha.\nSu corazón late con mística memoria,\nPor sendas ocultas, el peligro acecha.\n\nAl fin, el dragón en su guarida dormita,\nSu corazón late con mística memoria.\nLa estirpe del mal, el héroe la delimita,\nEntre ruinas antiguas, un canto de gloria.\n\nEl héroe forja su destino, audaz y fuerte,\nLa estirpe del mal, el héroe la delimita.\nDesafía sombras, la brújula le advierte,\nAl fin, el dragón en su guarida dormita.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

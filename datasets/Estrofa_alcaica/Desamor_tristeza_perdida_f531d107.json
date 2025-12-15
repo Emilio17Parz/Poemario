@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Mi corazón, tan herido, aún te nombra,\nmientras la soledad me abraza cruel.\nLa memoria es un fiero fantasma,\ndesde que escuché tu último adiós.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "adiós"
+  }
+}

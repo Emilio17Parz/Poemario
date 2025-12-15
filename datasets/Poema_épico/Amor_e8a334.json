@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Odiseo no surcó aguas tan bravas\ncomo las que cruzo por ver tu mirar,\nentre monstruos y sirenas esclavas,\nmi nave persiste en su navegar.\nÍtaca no es tierra, ni puerto, ni hogar,\nÍtaca eres tú, y en ti he de anclar.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Travesía"
+  }
+}

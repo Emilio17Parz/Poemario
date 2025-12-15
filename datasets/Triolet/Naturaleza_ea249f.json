@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Las estrellas brillan,\nen el manto negro.\nNos maravillan,\nlas estrellas brillan.\nSi se encasillan,\nyo me alegro.\nLas estrellas brillan,\nen el manto negro.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

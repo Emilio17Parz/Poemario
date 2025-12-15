@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Navego el mar,\nsin ver tierra,\nquiero llegar,\ndonde se cierra.\n\nSin ver tierra,\nsolo azul,\ndonde se cierra,\ncomo un baúl.\n\nSolo azul,\nnavego el mar,\ncomo un baúl,\nquiero llegar.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "mar"
+  }
+}

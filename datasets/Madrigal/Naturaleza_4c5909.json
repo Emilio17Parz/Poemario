@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Hojas de oro y cobre,\nque caen lentamente al suelo pardo;\nya no queda el dardo,\nni árbol pobre.\nEl ciclo se prepara para el sueño,\ncon mucho empeño.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "otoño"
+  }
+}

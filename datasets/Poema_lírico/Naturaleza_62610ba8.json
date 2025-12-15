@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "La aurora tiñe el monte de carmesí y perla,\nDespierta el musgo, el canto de un zorzal.\nEntre los pinos, la sombra se desvela,\nY el rocío besa el pétalo astral.\n\nEl arroyo murmura su secreto al guijarro,\nUn suspiro de espuma, un eco fugaz.\nCada hoja, un espejo en este paraje,\nRefleja el cielo, su eterna paz.\n\nY llega entonces, el aliento invisible,\nQue cimbrea los álamos con suave rumor.\nEl **viento**, mensajero impasible,\nDespeina la montaña, mece cada flor.\n\nTransporta aromas de tierra húmeda y pino,\nCaricia fresca que despierta la piel.\nMe envuelve en su danza, en su destino,\nMientras el alma a la quietud es fiel.\n\nEs voz de lo antiguo, de lo que no cesa,\nMelodía errante que me invita a soñar.\nEn cada ráfaga, una promesa,\nDe que la vida se ha de renovar.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

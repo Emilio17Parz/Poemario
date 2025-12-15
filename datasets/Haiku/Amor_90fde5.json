@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tiempo no existe\ncuando estamos unidos\nsiempre es ahora.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

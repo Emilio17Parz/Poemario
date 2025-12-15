@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Se sentaron a la mesa,\nlos doce y el maestro,\nen un acto diestro,\nque en el alma pesa.\nPartió el pan y dio,\nel vino en la copa,\na toda la tropa,\nque lo recibió.\n'Haced esto en memoria',\nde mi triste historia.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "pan"
+  }
+}

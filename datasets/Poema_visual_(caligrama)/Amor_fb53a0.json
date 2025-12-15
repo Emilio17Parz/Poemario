@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Solo tú tienes\nel secreto de metal\nque abre la puerta\nde mi corazón cerrado\nal mundo entero.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "llave"
+  }
+}

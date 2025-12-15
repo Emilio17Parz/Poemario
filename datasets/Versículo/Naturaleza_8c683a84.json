@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El mar ruge con la voz de mil leones y calla con la paz del abismo.\nEs la cuna de la vida, el desierto de agua, el espejo del infinito.\nSus olas son latidos de un corazón gigante que nunca deja de bombear.\nAnte la inmensidad del mar, el hombre se inclina con humildad y temor.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "mar"
+  }
+}

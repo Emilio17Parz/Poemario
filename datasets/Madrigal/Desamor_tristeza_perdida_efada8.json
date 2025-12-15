@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Invierno en mi interior,\naunque el verano brille allá afuera;\nse hiela la espera\nsin tu calor.\nEl hielo cubre todo sentimiento,\ny el pensamiento.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "frío"
+  }
+}

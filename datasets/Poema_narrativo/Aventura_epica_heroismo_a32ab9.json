@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La espada era de hierro, forjada con fe,\nEl arma del guerrero, su única ley.\nLa usó con destreza, sin temblar la mano,\nEl acero es el signo del deber pagano.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "espada"
+  }
+}

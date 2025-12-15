@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "¿Dónde el fragor de gestas que el viento llevaba lejos?\n¿Dónde el vigor del brazo que el mal aniquiló?\nSilencio ahora habita en los antiguos complejos,\nTras el paso del héroe, que al éter ascendió.\n\nFue suya la audacia que desafió el destino,\nSuya la senda incierta bajo sol y ciclón,\nCon el alma intrépida, de un temple divino,\nForjando en cada paso su épica razón.\n\nSu **espada**, un fulgor de acero, justa y severa,\nDanzó con la muerte en el alba y el ocaso,\nDefendió al oprimido, quebró la quimera,\nMarcando con su filo cada glorioso paso.\n\nHoy yace el campeón, y el reino suspira y llora,\nLos bardos entonan un lamento sin fin,\n¿Quién guiará la hueste en la incierta aurora?\n¿Quién alzará el estandarte que el miedo hizo ruín?\n\nMas no muere el valor, ni la llama que inspira,\nPermanece en el viento, en el canto fugaz,\nSu espíritu vela, su nobleza aún respira,\nEn la memoria viva, que halla en él su paz.\n\nAsí la leyenda, más allá de la tumba fría,\nSe teje en el tiempo, jamás se apagará,\nEl héroe vive siempre, en la luz de cada día,\nSu gesta inmarcesible, por siempre brillará.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "espada"
+  }
+}

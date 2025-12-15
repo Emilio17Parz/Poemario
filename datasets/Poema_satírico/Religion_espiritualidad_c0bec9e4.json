@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Día del santo,\nfiesta patronal,\nmucha procesión,\ny mucho mezcal.\nLa virgen pasea,\nentre borrachos,\nque rezan y bailan,\ncomo muchachos.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "fiesta"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Se fue la luz que ayer nos unió,\nquedó el silencio, herida en mi pecho.\nUn eco mudo de lo que no volvió.\n\nEn vano busco el rastro deshecho,\ny una *lágrima* el rostro me inunda al caer.\nMi alma navega sin puerto ni lecho.\n\nNo queda aurora que me haga creer,\nsolo la sombra de un tiempo pasado,\nque con su adiós me enseñó a padecer.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "lágrima"
+  }
+}

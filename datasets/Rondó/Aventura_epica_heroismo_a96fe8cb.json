@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Mi espada valiente,\ndefiende el honor,\ncon gran valor,\ny corte caliente.\n\nSiempre al frente,\ndel opresor,\ny del delincuente.\nMi espada.\n\nEs combatiente,\nsin el temor,\nni el dolor,\nde la gente,\nque está presente.\nMi espada.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "espada"
+  }
+}

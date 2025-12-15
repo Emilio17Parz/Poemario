@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Corona de laurel verde,\nmeta del gran esfuerzo,\ndonde el dolor se pierde\ny brilla el universo.\nGrito de triunfo alto,\nfinal de la batalla,\ndespués del gran asalto\ny de romper la muralla.\nDulce sabor del éxito,\ngloria del ganador,\nque escribes en el léxico\nla palabra honor.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "victoria"
+  }
+}

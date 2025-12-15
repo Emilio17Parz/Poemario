@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Tu nombre es un eco, un dulce susurro fiel (A),\nque el viento repite sin cesar (B),\nla voz que me inunda con dulce miel (A).\n\nNo hay más palabra para yo nombrar (B),\nque la tuya, la única verdad (C),\nla fuerza que ayuda a mi alma a volar (B).\n\nEres mi escudo, mi caridad (C),\nla calma que el alma quiere hallar (D),\nel don más precioso de la eternidad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Susurro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Después de tanto ruido queda el silencio,\nla respuesta final es el gran silencio.\n\nYa no hay gritos de guerra ni de dolor,\nsolo la paz profunda de este silencio.\n\nEscucha lo que dice la eternidad,\nen el idioma mudo del silencio.",
+    "tipo": "Gacela (ghazal)",
+    "palabra_clave_ingresada": "silencio"
+  }
+}

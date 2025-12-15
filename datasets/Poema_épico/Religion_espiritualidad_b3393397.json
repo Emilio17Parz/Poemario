@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "El profeta alzó la voz,\ncontra el rey y el pecado,\ncon el mensaje sagrado,\ny la verdad veloz.\nFue perseguido atroz,\npero nunca callado,\npues estaba enviado,\npor un Dios feroz.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "profeta"
+  }
+}

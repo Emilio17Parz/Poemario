@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Defiende con su espada\nla justicia y el honor,\nsin mostrar ningún temor\nen la dura jornada.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "espada"
+  }
+}

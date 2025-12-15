@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Miro hacia arriba y veo el abismo,\nmillones de mundos lejanos,\nque giran en ciclos soberanos,\najenos a nuestro egoísmo.\n\nSiento el vértigo del ostracismo,\nal ver cuán pequeños y vanos,\nson los esfuerzos de los humanos,\nante tal grandeza y mecanismo.\n\nPolvo de estrellas somos al fin,\nvajeros en una roca azul,\nflotando en el cósmico confín.\n\nBajo la manta de este tul,\nsuena del cosmos el violín,\nen un silencio de multitud.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "universo"
+  }
+}

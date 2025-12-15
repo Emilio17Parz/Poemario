@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos, día tras día emiten palabra.\nNo hay lenguaje, ni palabras, ni es oída su voz, mas por toda la tierra salió su pregón, y hasta el extremo del mundo sus palabras.\nEn ellos puso tabernáculo para el sol, y él es como un esposo que sale de su tálamo; se alegra cual gigante para correr el camino.\nDe un extremo de los cielos es su salida, y su curso hasta el término de ellos; y nada hay que se esconda de su calor.",
+    "tipo": "Versículo",
+    "palabra_clave_ingresada": "cielos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Canta la musa,\nal oído,\nel sonido,\nque usa.\nNo rehúsa,\nel nido.\nCanta la musa.\n\nInspiración,\nque llega,\nque navega,\nla canción.\nLa emoción,\nque juega.\nCanta la musa.",
+    "tipo": "Rondó",
+    "palabra_clave_ingresada": "musa"
+  }
+}

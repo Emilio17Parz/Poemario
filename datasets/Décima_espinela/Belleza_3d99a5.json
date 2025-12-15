@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Dura un instante,\nla flor del día,\nla alegría,\ndel caminante.\nEs inconstante,\nsu perfección,\nuna ilusión,\nque se deshace,\ny que renace,\nen la canción.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "efímero"
+  }
+}

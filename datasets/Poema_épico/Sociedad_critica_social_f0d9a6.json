@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Todos llevamos el rostro falso,\npara encajar en la sociedad,\ncaminamos hacia el cadalso,\nocultando nuestra verdad.\nHipocresía, baile de salón,\ndonde nadie muestra el corazón.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Máscara"
+  }
+}

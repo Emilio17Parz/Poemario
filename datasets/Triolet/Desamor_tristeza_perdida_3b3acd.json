@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Amarte fue mi error,\ny ahora pago el precio.\nSiento el dolor,\namarte fue mi error.\nPerdí mi valor,\nante tu desprecio.\nAmarte fue mi error,\ny ahora pago el precio.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "error"
+  }
+}

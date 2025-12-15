@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Inmenso azul profundo,\nespejo del misterio de este mundo.\nTu ola va y viene,\nnada la detiene.\nFuerza de sal y espuma\nque entre la niebla gris se difumina.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mar"
+  }
+}

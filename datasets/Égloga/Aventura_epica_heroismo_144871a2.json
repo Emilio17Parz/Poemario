@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "SILVANO: Cuentan que hubo una gran batalla,\ndonde cayeron mil hombres valientes.\nELISO: Aquí luchamos con las corrientes,\ny contra el lobo que nunca se calla.\nHéroe es quien cuida de su rebaño,\ny sobrevive un día y un año.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

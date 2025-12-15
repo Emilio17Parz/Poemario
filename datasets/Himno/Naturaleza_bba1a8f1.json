@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "¡Oh, viento libre, espíritu fuerte!\nQue no conoces barrera ni ley,\nviajero antiguo, invisible rey,\nque a veces traes vida o traes muerte.\nAliento del mundo que nunca cesa,\ny a la montaña con ímpetu besa.",
+    "tipo": "Himno",
+    "palabra_clave_ingresada": "viento"
+  }
+}

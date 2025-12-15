@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Luna de plata brilla,\nEn la noche oscura,\nSobre la orilla.\nLuna de plata brilla,\nUna maravilla,\nDe gran hermosura.\nLuna de plata brilla,\nEn la noche oscura.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "plata"
+  }
+}

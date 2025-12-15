@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Lugar de paz sagrada,\ndonde el ruido del mundo se detiene;\ny se mantiene,\nla mirada.\nCasa de Dios y puerta del consuelo,\nhacia el cielo.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "templo"
+  }
+}

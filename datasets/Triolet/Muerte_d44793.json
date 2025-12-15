@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Es hora de dormir,\nCierra los ojos ya,\nDeja de sufrir.\nEs hora de dormir,\nY partir,\nAl más allá.\nEs hora de dormir,\nCierra los ojos ya.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "dormir"
+  }
+}

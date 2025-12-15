@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "TIRSIS: Eres tú, pastora, mi dulce musa,\ninspiras los versos que al aire canto.\nCLORIS: No es mi belleza la que causa espanto,\nsino el amor que tu pecho usa.\nLa belleza vive en quien sabe ver,\ny tú me has mirado con tu querer.",
+    "tipo": "Égloga",
+    "palabra_clave_ingresada": "musa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Gigante de piedra que toca el cielo,\ntrono de nieve, corona de luz,\nvigilas el mundo con firme celo,\ncargando de eras la antigua cruz.\nLos hombres son hormigas a tu pie,\ntestigo eterno de lo que se fue.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "Montaña"
+  }
+}

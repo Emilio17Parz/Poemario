@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Sostiene al hombre la divina fe,\ncuando la noche cubre el caminar,\nes la fuerza que levanta,\ny nos ayuda a continuar.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "fe"
+  }
+}

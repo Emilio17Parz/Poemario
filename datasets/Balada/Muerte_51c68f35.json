@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cruza la barca hacia el más allá,\ndejando el cuerpo en la orilla,\ndonde el dolor ya no está,\nni la rodilla se humilla.\nUna luz nueva vendrá,\ncon su infinita verdad,\ny el alma conocerá,\nlo que es la gran eternidad.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "eternidad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cruzan caminos,\ndos almas se conocen,\nnace la chispa.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "encuentro"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tajo abierto en el pecho,\nque sangra sin parar,\nsin poder sanar,\ntodo lo que se ha hecho.\nCicatriz que no cierra,\nen esta triste guerra.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "herida"
+  }
+}

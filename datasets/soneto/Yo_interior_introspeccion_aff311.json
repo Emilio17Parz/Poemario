@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Hueco negro en el interior,\nque nada consigue llenar,\nni el placer, ni el amar,\nni el éxito mayor.\n\nEs un sordo dolor,\nun constante preguntar,\n¿qué sentido tiene andar,\nen este mundo inferior?\n\nEl vacío es el espacio,\npara poder crear,\no para morir despacio.\n\nHay que saber habitar,\nese silencioso palacio,\ny aprender a estar.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "vacío"
+  }
+}

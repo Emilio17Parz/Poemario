@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Amas la caricia del viento,\nes tu romántico argumento.\nPero se te voló el peluquín,\ndelante de todo el jardín.\nAhora odias el aire,\npor dejarte al desgaire.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "viento"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "Voces mudas hoy,\nun fuerte grito se alza,\nsordo es su clamor.",
+    "tipo": "Haiku",
+    "palabra_clave_ingresada": "grito"
+  }
+}

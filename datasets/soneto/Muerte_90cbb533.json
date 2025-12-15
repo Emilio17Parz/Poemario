@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La sombra fría que nos ha de hallar\nCon paso lento, sin hacer rumor,\nDisipa sueños, quita todo ardor,\nY al fin nos lleva a un hondo despertar.\n\nEl tiempo avanza, sin poder frenar,\nConvierte el brillo en lúgubre esplendor,\nEl cuerpo frágil, sin su protector,\nCae y se mustia para no sangrar.\n\nDe tanta vida, fuerza y dulce don,\n¿Qué queda entonces tras el postrer aliento?\nUn fugaz eco, un tenue sentimiento,\nQue el tiempo borra, sin piedad ni razón.\nVolverá el cuerpo al fin al vil tormento,\nDe ser tan solo **polvo** y olvido lento.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "polvo"
+  }
+}

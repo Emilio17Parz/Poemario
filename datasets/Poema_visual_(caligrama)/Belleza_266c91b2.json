@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "       Pétalo\n      suave\n     que en\n    silencio\n   despliega\n  su color\n brillante.\nCorola de\n luz que\n perfuma\n  el aire\n   sutil.\nTallo erguido\n que busca el\n  sol con\n   anhelo.\n    Raíz\n     fuerte\n      que se\n       hunde en\n        la tierra\n         oscura.\n          Belleza\n           efímera\n            que alegra\n             la vista\n              un instante.\n               Regalo\n                divino\n                 de la\n                  creación.",
+    "tipo": "Poema visual (caligrama)",
+    "palabra_clave_ingresada": "flor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¡Ay, Alma que buscas la paz sin un fin,\nla calma que nunca quiere ya ser!\nTu fuerza es la sombra, sin un solo ín,\nel alma sin un gran poder.\nBuscas la pena, la amarga verdad,\nel alma sin caridad.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "Alma"
+  }
+}

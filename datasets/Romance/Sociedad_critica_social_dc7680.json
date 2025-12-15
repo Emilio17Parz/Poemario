@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "La escuela se cae a trozos\ny no hay libros que leer,\npero gastan en cañones\npara la guerra hacer.\nUn pueblo culto es libre\ny sabe bien escoger,\npor eso quieren que sepas\nsolo obedecer.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "escuela"
+  }
+}

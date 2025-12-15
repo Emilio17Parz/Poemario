@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Papel con líneas y nombres,\ndibujo del vasto mundo,\nque guías a los hombres\npor el camino profundo.\nPromesa de tierras lejanas,\ntesoro de la exploración,\nventanas y más ventanas\na la imaginación.\nMarcas la ruta segura,\no el sitio del dragón,\neres la escritura\nde la orientación.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "mapa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Fuego y escama en la cueva,\ndonde el dragón lleva,\nsu tesoro guardado,\npor siglos soñado,\nsin que nadie se atreva.\n\nLa bestia se eleva,\ny el miedo renueva,\nen el poblado,\nfuego y escama.\n\nEl caballero prueba,\nsu valor que conmueva,\nal monstruo alado,\ny lo deje acabado,\nen la nueva prueba,\nfuego y escama.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Memoria me engaña a diario,\ncon recuerdos sin valor,\ny mi vida es un calvario,\nsin un poco de fulgor.\n\nYo te busco en el pasado,\ny no encuentro ya tu ser,\nmi alma está desesperada,\nsin un solo gran poder.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Memoria"
+  }
+}

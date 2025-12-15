@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompe fuerte la espumosa ola,\nsobre la arena de la playa,\ny se borra la huella y la raya\ndejando a la orilla muy sola.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "ola"
+  }
+}

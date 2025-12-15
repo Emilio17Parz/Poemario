@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura epica heroismo",
+  "poema": {
+    "texto": "Oda a la Aventura, al Héroe y al Coraje\n\nOh, Aventura, grito de la cumbre helada,\nsenda ignota que el destino con fervor traza,\npor valles hondos donde el sol apenas anda,\ntu llama ardiente el corazón con fuerza abraza.\n\nY tú, Héroe, del alma forja en la tormenta,\ncon temple de cristal que nunca se doblega,\ntu alma noble, que la vileza no amedrenta,\nla gloria eterna tu valía siempre entrega.\n\nEn mares bravos, cumbres de basalto anciano,\ndo el viento gime historias de valor y duelo,\nel eco firme de tu paso soberano,\nrompe las cadenas, eleva hasta el cielo.\n\nMas llega el punto, la prueba más severa,\nallá donde la niebla el pico esconde inmenso,\ncuando la sombra de la noche oscura impera,\ny el fiero, ancestral **dragón** del abismo responde.\n\nSu aliento de azufre el aire quema y mancha,\nsus garras de obsidiana, promesa de tormento,\nmas la espada en tu mano, luz que hiende y se ensancha,\nimpulsa tu coraje, más allá del tormento.\n\nAsí la gesta se labra, imperecedera y pura,\nun canto épico que el tiempo no podrá olvidar,\nla virtud, el valor, la verdad que perdura,\nla luz que al mundo de la sombra logra alejar.\n\n¡Oh, Heroísmo, faro que la humanidad guía!\n¡Oh, Epopeya, legado de valientes sin par!\nTu espíritu sublime la memoria desafía,\nen las venas eternas de la historia, siempre arderá.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "dragón"
+  }
+}

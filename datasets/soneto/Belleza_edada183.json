@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La gracia que un suspiro en el aire devela,\nEl brillo que al mirar nos roba el corazón,\nPromesa silenciosa que toda pena cela,\nReflejo eterno en la azulada inmensidad.\n\nDesde la flor que rinde su tersa floración,\nAl mármol que la mano del artista esculpió,\nSu toque nos envía una dulce impresión,\nLa paz para el espíritu que el tiempo no venció.\n\nEl tenue rubor, el vívido **color** que asombra,\nQue pinta el alba y tiñe el velo del ocaso,\nUna constante dicha que jamás se deshonra,\nSiempre fresca y gentil, sin dar un solo paso.\n\nAsí la Belleza reina, joya sin igual,\nEl más sublime don, tesoro terrenal.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "color"
+  }
+}

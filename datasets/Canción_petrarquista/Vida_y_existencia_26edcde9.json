@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Caminamos por senda de abrojos,\nbuscando flores donde no las hay,\ny entre el ay y el ay,\npasamos la vida con enojos.\nOh, necios pensamientos que nos guían,\ny que nos desvían\ndel verdadero bien,\nllevándonos al mal en un vaivén.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "camino"
+  }
+}

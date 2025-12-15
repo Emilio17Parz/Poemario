@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "El anciano es un mueble\nque nadie quiere ver.\nEl triste e indomable\nacto de ser.\n\nLo tiran a la sombra,\nle quitan la voz,\nla vida que nombra\nsin ningún arroz.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "anciano"
+  }
+}

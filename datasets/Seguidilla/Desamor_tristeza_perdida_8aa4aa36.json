@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor tristeza perdida",
+  "poema": {
+    "texto": "Las lágrimas me mojan,\n¡ay, qué gran pena!\nmi vida es olvido\nsin ti, apenas.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

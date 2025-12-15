@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Ser libre es la cosa\nmejor de este mundo,\nno vivir atado\nal dolor profundo.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "libertad"
+  }
+}

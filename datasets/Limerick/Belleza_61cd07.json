@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Llevaba collares de oro,\ncomo si fuera un tesoro.\nUn ladrón vino,\ncon mucho tino,\ny la dejó sin el decoro.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "joyas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Gira el cuerpo con gran pasión,\ndibujando formas al viento,\nen perfecta coordinación.\n\nEs la danza pura emoción,\nun lenguaje sin argumento,\ngira el cuerpo con gran pasión.\n\nSigue el ritmo y el movimiento,\ncon el corazón en acción,\nen perfecta coordinación.\n\nOlvida todo el sufrimiento,\nen esta bella función,\ngira el cuerpo con gran pasión.\n\nCada paso es un monumento,\na la gracia y la perfección,\nen perfecta coordinación.\n\nVive el fugaz momento,\nde la mágica unión,\ngira el cuerpo con gran pasión,\nen perfecta coordinación.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "danza"
+  }
+}

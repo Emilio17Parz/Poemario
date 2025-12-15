@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Barco a la deriva,\nBuscando tierras nunca vistas;\nlas conquistas,\nde arriba.\nCruzar el océano desconocido,\nes lo vivido.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "viaje"
+  }
+}

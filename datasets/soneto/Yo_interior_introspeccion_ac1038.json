@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Carga pesada en la espalda,\npiedra del ayer mal hecho,\nque oprime fuerte el pecho,\ny el alma nunca salda.\n\nEs una mancha gualda,\nque rompe el derecho,\nde vivir satisfecho,\ny el corazón escalda.\n\nPerdonarse es la llave,\npara soltar el lastre,\ny que el dolor acabe.\n\nAntes del desastre,\nque la culpa trabe,\nmi propio engaste.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "culpa"
+  }
+}

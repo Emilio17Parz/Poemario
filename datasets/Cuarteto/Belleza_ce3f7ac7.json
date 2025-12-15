@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Baja del cielo la radiante musa,\npara inspirar el verso del poeta,\ny con su magia, sutil y secreta,\ntoda la sombra del papel rehúsa.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "musa"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Silla vacía\nplato que no se sirve\nfalta tu ser.\nLa casa se hace grande\ny yo me hago pequeño.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Se llena el mundo de color,\nborrando el gris del dolor,\ncon todo su esplendor.\nSe llena el mundo de color,\ny nos da su calor,\ncon inmenso valor.\nSe llena el mundo de color,\nborrando el gris del dolor.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "color"
+  }
+}

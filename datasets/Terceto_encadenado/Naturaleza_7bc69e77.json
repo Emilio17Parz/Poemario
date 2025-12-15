@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El sol derrama luz sobre la sierra,\ndonde el pino valiente se alza erguido,\npintando sombras sobre vasta tierra.\n\nAbajo, un **río** canta, desprendido\nde cumbres frías, buscando el mar profundo,\nsu murmullo ancestral, nunca extinguido.\n\nRefleja el cielo azul de este mundo,\nnutre la orilla, da sustento y vida,\ncon cada curva, un secreto rotundo.\n\nLa brisa mece la flor amarilla,\nmientras el bosque susurra su historia,\ny el tiempo fluye sin dejar huella.\n\nNaturaleza, eterna memoria,\nbelleza pura en cada amanecer,\ndonde el alma halla paz y euforia.\n\nEn tu abrazo, volvemos a nacer.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "río"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Letras borrosas que el lagrimar deshace,\npalabras vanas de un juramento roto,\ntodo en el suelo yace\ncomo un paisaje de terremoto.",
+    "tipo": "Estrofa alcaica",
+    "palabra_clave_ingresada": "carta"
+  }
+}

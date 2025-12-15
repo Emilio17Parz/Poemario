@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Alma vuela\nlibre ya\nhacia Dios\nlibre ya\nalma vuela",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "alma"
+  }
+}

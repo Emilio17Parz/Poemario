@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Camino sin saber bien,\nsi voy por el lado correcto,\nsi soy mi propio rehén,\no un ser imperfecto.\nBuscando el amén,\nque me preste ayuda,\npara vencer también,\na la eterna duda.",
+    "tipo": "Balada",
+    "palabra_clave_ingresada": "duda"
+  }
+}

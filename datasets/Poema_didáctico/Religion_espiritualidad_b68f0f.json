@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "La fe mueve montañas,\npero lleva una pala,\nno solo mañas,\nsino obra a la gala.\nCreer y actuar,\nes la forma de orar.",
+    "tipo": "Poema didáctico",
+    "palabra_clave_ingresada": "Fe"
+  }
+}

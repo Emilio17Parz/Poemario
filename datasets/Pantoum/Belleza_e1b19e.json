@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Montañas, valles y ríos,\ncuadro de inmensa grandeza.\nLejos de humanos líos,\nreina la naturaleza.\n\nCuadro de inmensa grandeza,\nverde, azul y marrón.\nReina la naturaleza,\nllenando el corazón.\n\nVerde, azul y marrón,\nlejos de humanos líos.\nLlenando el corazón,\nmontañas, valles y ríos.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "paisaje"
+  }
+}

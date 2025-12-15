@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "(Monólogo frente a una carta)\n¡Quémate, papel! ¡Hazte ceniza!\nQuiero que el fuego traiga el olvido,\nborrando el nombre de quien he querido.\nMas la memoria, cruel, se desliza,\ny aunque las llamas consuman la tinta,\nsu imagen en mi alma sigue distinta.",
+    "tipo": "Poema dramático",
+    "palabra_clave_ingresada": "olvido"
+  }
+}

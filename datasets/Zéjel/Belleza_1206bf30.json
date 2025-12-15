@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La rosa roja,\nno se deshoja.\n\nEs la reina,\nque se peina,\ny nos reina,\nsin congoja.\n\nLa rosa roja,\nno se deshoja.",
+    "tipo": "Zéjel",
+    "palabra_clave_ingresada": "rosa"
+  }
+}

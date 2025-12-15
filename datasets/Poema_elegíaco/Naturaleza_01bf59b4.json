@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El humo gris ha cubierto el cielo,\nmatando el azul puro que tenía,\nno se ve el sol, ni nace el nuevo día,\nbajo este sucio y contaminado velo.\nLamento la pureza que perdimos,\npor el maltrato que al mundo le dimos.",
+    "tipo": "Poema elegíaco",
+    "palabra_clave_ingresada": "cielo"
+  }
+}

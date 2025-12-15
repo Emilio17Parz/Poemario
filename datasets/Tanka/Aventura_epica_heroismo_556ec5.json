@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Coraje en el alma,\nes la armadura fuerte,\ncontra el duro miedo.\nNo es la ausencia de terror,\nsino vencerlo de pie.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "Coraje"
+  }
+}

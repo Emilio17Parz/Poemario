@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Corremos tras el premio,\nqueriendo llegar.\nComo en un gremio,\nsin descansar.\n\nQueriendo llegar,\nla cima lejana.\nSin descansar,\nde noche y mañana.\n\nLa cima lejana,\ncomo en un gremio.\nDe noche y mañana,\ncorremos tras el premio.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "meta"
+  }
+}

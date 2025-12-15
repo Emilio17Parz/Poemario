@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Resuena el golpe seco,\nen la calle oscura,\nun triste eco,\nde la locura.\n\nEn la calle oscura,\nsangre en el suelo,\nde la locura,\nsin consuelo.\n\nSangre en el suelo,\nresuena el golpe seco,\nsin consuelo,\nun triste eco.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "golpe"
+  }
+}

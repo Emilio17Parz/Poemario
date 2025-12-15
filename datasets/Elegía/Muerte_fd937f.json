@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Solo me queda la foto,\ny la memoria en la piel,\nun sabor a hiel,\ny el corazón roto.\n\nSiento el alboroto,\nde un tiempo fiel,\nque fue oropel,\ny hoy es remoto.\n\nFantasma del ayer,\nque no puedo ver.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

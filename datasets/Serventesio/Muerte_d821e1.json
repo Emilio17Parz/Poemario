@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "El miedo a morir es natural,\npues nadie sabe lo que vendrá,\nes el misterio fundamental,\nque solo el fin revelará.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "miedo"
+  }
+}

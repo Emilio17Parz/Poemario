@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Sopla con fuerza el invisible viento,\nmoviendo el mundo con su poder,\nllevando lejos nuestro lamento.\n\nNo tiene forma ni tiene asiento,\nsolo se siente al recorrer,\nsopla con fuerza el invisible viento.\n\nEs un eterno y gran movimiento,\nque hace las hojas estremecer,\nllevando lejos nuestro lamento.\n\nTrae la lluvia y el sustento,\no la tormenta al atardecer,\nsopla con fuerza el invisible viento.\n\nNadie detiene su gran aliento,\nni su manera de proceder,\nllevando lejos nuestro lamento.\n\nEscucho atento su ronco acento,\nque tiene mucho que nos decir,\nsopla con fuerza el invisible viento,\nllevando lejos nuestro lamento.",
+    "tipo": "Villanelle",
+    "palabra_clave_ingresada": "viento"
+  }
+}

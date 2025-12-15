@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Rompen las olas de la mar,\nsin que se cansen de cantar,\ny a la orilla besar.\nRompen las olas de la mar,\ninvitando a soñar,\ny a nunca despertar.\nRompen las olas de la mar,\nsin que se cansen de cantar.",
+    "tipo": "Triolet",
+    "palabra_clave_ingresada": "mar"
+  }
+}

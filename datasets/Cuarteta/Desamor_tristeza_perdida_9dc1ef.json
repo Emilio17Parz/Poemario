@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Todo fue engaño,\nen tu querer,\nme hiciste daño,\nal no volver.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "querer"
+  }
+}

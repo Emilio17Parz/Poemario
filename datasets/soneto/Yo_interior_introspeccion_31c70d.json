@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "¿Dónde quedó el infante,\nque jugaba sin miedo,\nque creía que 'puedo',\nser un gigante?\n\nSu risa brillante,\nse quedó en el enredo,\nde ser adulto y quedo,\nserio y distante.\n\nDebo rescatar al niño,\nque vive todavía,\ncon todo cariño.\n\nDevolverle la alegría,\ny quitarle el aliño,\nde la gris melancolía.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "niño"
+  }
+}

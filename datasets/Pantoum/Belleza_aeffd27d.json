@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Tu rostro brilla,\ncomo el sol,\nes maravilla,\ny arrebol.\n\nComo el sol,\nme das luz,\ny arrebol,\nsin trasluz.\n\nMe das luz,\ntu rostro brilla,\nsin trasluz,\nes maravilla.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "rostro"
+  }
+}

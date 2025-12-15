@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La promesa es el lazo que nunca se va a romper (A),\nde salvar al mundo, de hallar la paz (B),\nla vida es un sueño, el don total (A).\n\nLa fuerza que impulsa mi fiel corazón (B),\nel alma que vuela, sin un error (C),\nla esencia del puro valor (B).\n\nNo hay más que amar, no hay más fulgor (C),\nque en él hallar la fe (D),\nla eterna y dulce verdad (C).",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "Promesa"
+  }
+}

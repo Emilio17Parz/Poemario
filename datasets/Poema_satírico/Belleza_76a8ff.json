@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "Leñador de ciudad,\nque usa aceites caros,\nsu masculinidad,\ntiene reparos.\nNido de migas,\ny otras intrigas.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "Barba"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Estaba escrito en astros superiores,\nque tú serías mi norte y mi guía,\ncalmando mis angustias y dolores.\n\nLa luz que alumbraría el mediodía,\nde mi existencia gris y solitaria,\nllenándola de dulce melodía.\n\nEn forma necesaria.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "destino"
+  }
+}

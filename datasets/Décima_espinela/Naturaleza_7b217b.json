@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Pico nevado,\nque tocas el cielo,\ncubierto de hielo,\ny bien plantado.\nEstás callado,\nmirando el valle,\nsin que te falle,\nla majestad,\nde tu edad,\ny tu talle.",
+    "tipo": "Décima espinela",
+    "palabra_clave_ingresada": "montaña"
+  }
+}

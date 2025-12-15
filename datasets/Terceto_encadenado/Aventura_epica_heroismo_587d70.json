@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Oculto en la cueva oscura,\nbrilla el oro del pirata,\ncausando la locura.\n\nLa codicia se desata,\npor las joyas y monedas,\nque la muerte retrata.\n\nEn las sedas.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "tesoro"
+  }
+}

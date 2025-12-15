@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Selva de vidrio\nhormigón y bocinas\nprisa total.\nSoledad entre miles\nque no saben quién soy.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "ciudad"
+  }
+}

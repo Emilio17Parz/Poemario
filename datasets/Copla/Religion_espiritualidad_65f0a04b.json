@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "He puesto una vela blanca\nen el altar mayor,\npara que vuelvas conmigo\ny me des tu calor.",
+    "tipo": "Copla",
+    "palabra_clave_ingresada": "vela"
+  }
+}

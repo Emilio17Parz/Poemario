@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "Tiré el anillo al océano\ndonde no pueda encontrarlo,\nes el fin de nuestro pacto\ny no quiero recordarlo.\nSe hundió en el agua profunda\nsin que pudiera salvarlo,\ncomo se hundió nuestro amor\nsin poder recuperarlo.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "anillo"
+  }
+}

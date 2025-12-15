@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La belleza danza en cada amanecer,\nUn lienzo vivo que el alma contempla.\nSusurros suaves nos hacen creer,\nQue la esencia del mundo se extasia y se ejempla.\n\nUn lienzo vivo que el alma contempla,\nReflejo puro de algún dios que crea,\nQue la esencia del mundo se extasia y se ejempla,\nDonde el sentido del arte nos recrea.\n\nReflejo puro de algún dios que crea,\nEn cada trazo, un latido que inspira,\nDonde el sentido del arte nos recrea,\nLa forma etérea que el corazón admira.\n\nEn cada trazo, un latido que inspira,\nLa belleza danza en cada amanecer,\nLa forma etérea que el corazón admira,\nSusurros suaves nos hacen creer.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "arte"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "Elevo mi oración\ncon humildad y con el corazón.\nEscucha mi lamento\ny calma mi tormento.\nDame tu luz divina,\nque mi sendero oscuro se ilumina.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "plegaria"
+  }
+}

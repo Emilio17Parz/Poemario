@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Te veo revolver el café\ncon la calma de quien detiene el mundo.\nNo hay prisa en tus manos,\nsolo un movimiento circular\nque atrapa mi atención\ncomo si fuera el eje de la tierra.\nMe basta este instante,\nel vapor subiendo,\ntu mirada perdida,\ny yo encontrándome en ella.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "café"
+  }
+}

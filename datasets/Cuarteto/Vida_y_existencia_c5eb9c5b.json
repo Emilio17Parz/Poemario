@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida es un verso que el tiempo desliza,\nUn eco en la noche, pregunta sin fin,\nDonde el alma busca su tenue confín,\nY el destino la pauta, sutil, profetiza.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "destino"
+  }
+}

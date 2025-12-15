@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Que el fuego te guíe (7a),\nla llama sin fin (5b),\nmi alma ya no se ríe (7c),\nsin un jazmín (5b).",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "Fuego"
+  }
+}

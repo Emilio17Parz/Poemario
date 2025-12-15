@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "No es la melodía que se ajusta a una métrica,\nni el oro pulido de un romance antiguo.\nEs más bien el murmullo de la tierra\ncuando la lluvia cesa,\nla quietud que se asienta en los campos después de la labor.\n\nEs el conocimiento silencioso\nde un mapa de arrugas,\ncada línea una historia que no necesita ser contada,\nsolo sentida, respirada.\nLa vulnerabilidad de un párpado que se cierra en confianza,\nel peso ligero de una cabeza en el hombro\ncuando el día se quiebra.\n\nNo es la promesa de eternidad,\nsino la certeza del ahora,\nla resiliencia de un hilo de seda\nque une distancias,\nun puente invisible sobre las aguas turbias de la duda.\n\nEs la sabiduría de las raíces que se entrelazan\nbajo la tierra, sin prisa, sin aspavientos,\nsolo creciendo hacia una luz compartida.\nY en la fragilidad de un momento que podría romperse,\nun **abrazo** se convierte en el ancla,\nel refugio donde el universo entero\nse reduce a la calidez de dos cuerpos,\nel simple acto de ser, juntos,\ncontra el vaivén implacable del tiempo.\n\nEs el espacio sin aire entre dos almas que se reconocen,\nuna quietud que lo dice todo,\nun eco que persiste mucho después\nde que la última palabra se haya desvanecido.\nEs la libertad de ser uno mismo,\nenteramente,\nfrente a unos ojos que ven más allá de la máscara,\nhasta el núcleo tembloroso de la verdad.",
+    "tipo": "Verso libre",
+    "palabra_clave_ingresada": "abrazo"
+  }
+}

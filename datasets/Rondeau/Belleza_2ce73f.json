@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "La forma nace,\ny satisface.\nDe la piedra,\nque no medra,\nse hace.\n\nSe deshace,\nel enlace.\nLa hiedra,\nla forma nace.\n\nEl desenlace,\nque place.\nLa cátedra,\nde la piedra,\nrenace,\nla forma nace.",
+    "tipo": "Rondeau",
+    "palabra_clave_ingresada": "escultura"
+  }
+}

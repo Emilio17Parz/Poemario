@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Se escapa de mi pecho un aire leve,\ncargado de tu nombre y tu memoria,\ncontando en el silencio nuestra historia,\ntan fugaz, tan eterna y tan breve.\n\nEs copo de una blanca y pura nieve\nque busca de tus labios la victoria,\nalzándome a la cumbre de la gloria\ncon esa suavidad que me conmueve.\n\nSuspiro porque estás y porque existes,\nporque llenas de luz mis soledades,\ny borras los momentos que son tristes.\n\nVenciendo con amor las tempestades,\ntú eres la razón por la que insistes\nen darme mil y una felicidades.",
+    "tipo": "Soneto",
+    "palabra_clave_ingresada": "suspiro"
+  }
+}

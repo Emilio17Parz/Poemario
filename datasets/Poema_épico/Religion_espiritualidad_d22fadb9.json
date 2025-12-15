@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion_espiritualidad",
+  "poema": {
+    "texto": "San Jorge mató al dragón,\ncon su lanza de fe,\ny a la princesa se ve,\nlibre de la prisión.\nFue su gran misión,\nque el pueblo cree,\ny en su honor se lee,\nesta narración.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "santo"
+  }
+}

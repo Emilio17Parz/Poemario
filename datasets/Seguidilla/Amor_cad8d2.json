@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Seré fiel a tus ojos,\ny a tu sonrisa,\naunque el tiempo se escape,\ncon mucha prisa.",
+    "tipo": "Seguidilla",
+    "palabra_clave_ingresada": "fiel"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida y existencia",
+  "poema": {
+    "texto": "La vida, un don; ser, o no.\n¿Ver el sendero, el vasto aquí?\nEl laberinto, ¡ay!, nos atrapa.\nGira y vive, o muere y ve.\nAtrapa nos, ¡ay!, laberinto el.\nAquí vasto, el sendero, el ver.\nNo o, ser; don un, vida la.",
+    "tipo": "Palíndromo poético",
+    "palabra_clave_ingresada": "laberinto"
+  }
+}

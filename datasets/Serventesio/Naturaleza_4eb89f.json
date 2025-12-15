@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "El río fluye alegre entre las piedras,\nbuscando su camino hacia el mar,\nentre juncos y verdes y altas hiedras,\nsin que nada lo pueda ya parar.",
+    "tipo": "Serventesio",
+    "palabra_clave_ingresada": "río"
+  }
+}

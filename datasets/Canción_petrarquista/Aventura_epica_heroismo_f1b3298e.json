@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "La fama es un eco que el viento lleva,\nun soplo que hincha la vanidad,\nno la verdad,\nque en el silencio su valor prueba.\nBusca la gloria que no fenece,\nla que crece\nen el bien obrar,\ny deja a la fama sola pasar.",
+    "tipo": "Canción petrarquista",
+    "palabra_clave_ingresada": "fama"
+  }
+}

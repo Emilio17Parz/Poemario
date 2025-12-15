@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad_critica_social",
+  "poema": {
+    "texto": "Caigan los hierros que al hombre atan,\nrompan los lazos de la esclavitud,\nque surja nueva la gran juventud,\ncontra las leyes que nos maltratan.\nEsas cadenas que nos maniatan,\nno vencerán a nuestra virtud.",
+    "tipo": "Poema lírico",
+    "palabra_clave_ingresada": "cadenas"
+  }
+}

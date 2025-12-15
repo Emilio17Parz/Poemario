@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Cuando el barco atracó tras la larga travesía,\nElla lo estaba esperando, aunque nadie creía.\nCorrió bajo la lluvia, sin pensar en el frío,\nEl amor no es paciencia, es puro desafío.",
+    "tipo": "Poema narrativo",
+    "palabra_clave_ingresada": "puerto"
+  }
+}

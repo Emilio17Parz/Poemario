@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "La Tumba me espera oscura, (A)\ncon su frío sin piedad, (B)\nmi vida sin claridad, (B)\nya no tiene ya una cura. (A)\nMi corazón ya murmura, (A)\nde tristeza y de dolor, (C)\nya no siento el fulgor, (C)\nde tu dulce y gran verdad, (D)\nen mi triste soledad, (D)\nme queda solo el horror. (C)",
+    "tipo": "Décima Espinela",
+    "palabra_clave_ingresada": "Tumba"
+  }
+}

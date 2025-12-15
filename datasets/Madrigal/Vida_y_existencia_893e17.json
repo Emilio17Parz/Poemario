@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Vida_y_existencia",
+  "poema": {
+    "texto": "Libro cerrado de páginas blancas,\nque escribiremos con nuestros pasos,\nsin fracasos,\nsi saltamos las piedras y las zancas.\nEl mañana es promesa y es misterio,\nun imperio,\nque conquistamos con la voluntad,\nde verdad.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "mañana"
+  }
+}

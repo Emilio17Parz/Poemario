@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me gusta estar solito,\ncomiendo un huevo frito.\nNadie molesta,\nni hace fiesta,\nni da un grito.",
+    "tipo": "Limerick",
+    "palabra_clave_ingresada": "soledad"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Desamor_tristeza_perdida",
+  "poema": {
+    "texto": "La distancia es un muro de cristal,\nque me impide tocar tu rostro amado,\ny convierte el amor en un mal.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "lejos"
+  }
+}

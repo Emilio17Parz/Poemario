@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Millones de luces en la inmensidad,\nson la prueba de que no estamos solos.\nEs la sublime y fría verdad,\nque se burla de todos los protocolos.\n\nEl cielo es un espejo de lo eterno,\nlejano al miedo y al invierno.\nMe pierdo en la sombra y la quietud,\nbebiendo de tanta plenitud,\ny sintiendo la magia del infinito.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "estrellas"
+  }
+}

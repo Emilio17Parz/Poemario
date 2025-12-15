@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Lloran mucho al abuelo,\ncon pañuelos de seda,\npero preguntan qué queda,\ndel dinero y el suelo.\nSe consuelan con celo,\nal ver la moneda,\ny la pena se enreda,\ncon el reparto y el vuelo.",
+    "tipo": "Poema satírico",
+    "palabra_clave_ingresada": "herencia"
+  }
+}

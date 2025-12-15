@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Cuando el ruido se termina,\ny se apaga el pensamiento,\nllega la calma absoluta,\nsin dolor ni sufrimiento.\nOcéano de quietud,\ndonde nada nos altera,\nni la prisa, ni el deseo,\nni la angustia de la espera.\nEs el regalo final,\ntras la lucha de los años,\ndormir sin soñar con nada,\nlibres de todos los daños.",
+    "tipo": "Oda",
+    "palabra_clave_ingresada": "paz"
+  }
+}

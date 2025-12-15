@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Aventura_epica_heroismo",
+  "poema": {
+    "texto": "Rompieron las filas al son del tambor,\nchocaron los escudos como truenos.\nLa tierra se llenó de cuerpos ajenos,\nen un día de furia y de terror.\nEl sol se ocultó tras el humo negro,\ny nadie sintió ni paz ni allegro.\nFue la batalla de los cien reyes,\ndonde el acero dictó sus leyes.",
+    "tipo": "Poema épico",
+    "palabra_clave_ingresada": "batalla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Soñé que me querías,\ny que eras para mí,\npero luego te perdí,\nen las horas vacías.",
+    "tipo": "Redondilla",
+    "palabra_clave_ingresada": "sueño"
+  }
+}

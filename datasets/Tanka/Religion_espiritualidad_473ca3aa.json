@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Religion espiritualidad",
+  "poema": {
+    "texto": "La fe que me guía\nMi espíritu hoy se eleva,\nBusca la verdad,\nLuz que el alma me ilumina,\nGracia que me sostiene.",
+    "tipo": "Tanka",
+    "palabra_clave_ingresada": "espíritu"
+  }
+}

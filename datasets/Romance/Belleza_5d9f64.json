@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Belleza",
+  "poema": {
+    "texto": "El Rocío es mi gran pena,\nme moja sin piedad,\ny mi alma es una cadena,\nsin tu dulce claridad.\n\nTe fuiste sin despedida,\nsin darme la razón,\ny mi vida está podrida,\nsin tu dulce corazón.",
+    "tipo": "Romance",
+    "palabra_clave_ingresada": "Rocío"
+  }
+}

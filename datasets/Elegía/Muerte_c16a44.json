@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Piedra fría con tu nombre,\nfecha de inicio y final,\ndestino fatal,\nde todo pobre hombre.\n\nQue la tierra no te asombre,\nni te cause mal,\nen este lecho mineral,\ndonde el cuerpo se escombre.\n\nDescansa bajo la losa,\ntranquila y silenciosa.",
+    "tipo": "Elegía",
+    "palabra_clave_ingresada": "tumba"
+  }
+}

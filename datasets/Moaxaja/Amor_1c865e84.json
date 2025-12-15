@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Mi corazón se quebranta,\npor tu ausencia que espanta.\n\nNo estás en la ciudad,\nsolo hay soledad,\ny mucha oscuridad,\nque a mi alma levanta.\n\nMi corazón se quebranta,\npor tu ausencia que espanta.",
+    "tipo": "Moaxaja",
+    "palabra_clave_ingresada": "ausencia"
+  }
+}

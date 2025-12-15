@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "Si pudiera robarte solo un beso,\ndetendría la marcha del reloj,\ny viviría de tus labios preso.",
+    "tipo": "Terceto",
+    "palabra_clave_ingresada": "beso"
+  }
+}

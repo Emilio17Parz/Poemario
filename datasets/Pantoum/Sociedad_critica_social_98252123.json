@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Sociedad critica social",
+  "poema": {
+    "texto": "La sombra del poder ahoga al pueblo,\nEn cada esquina el hambre se despierta,\nPromesas rotas quiebran el anhelo,\nLa indiferencia es muro, puerta abierta.\n\nEn cada esquina el hambre se despierta,\nUn mundo sordo al clamor del desposeído,\nLa indiferencia es muro, puerta abierta,\nEl progreso es un sueño malherido.\n\nUn mundo sordo al clamor del desposeído,\nAsciende un ronco silencio, un grito ahogado,\nEl progreso es un sueño malherido,\nPor sendas de injusticia hemos caminado.\n\nAsciende un ronco silencio, un grito ahogado,\nPromesas rotas quiebran el anhelo,\nPor sendas de injusticia hemos caminado,\nLa sombra del poder ahoga al pueblo.",
+    "tipo": "Pantoum",
+    "palabra_clave_ingresada": "grito"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Naturaleza",
+  "poema": {
+    "texto": "Abre al alba la flor\nsu corona de matiz,\nregalando su olor\na la abeja más feliz.",
+    "tipo": "Cuarteta",
+    "palabra_clave_ingresada": "flor"
+  }
+}

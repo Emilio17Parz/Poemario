@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Yo_interior_introspeccion",
+  "poema": {
+    "texto": "Me asalta siempre la duda,\nla realidad es fría y desnuda,\ny no sé qué elegir\npara vivir.\nLa verdad es muda,\ny no me ayuda\na ver el turbio porvenir.",
+    "tipo": "Madrigal",
+    "palabra_clave_ingresada": "duda"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Muerte",
+  "poema": {
+    "texto": "Vives en mí a través de la memoria,\nburlando a la muerte con el amor,\ntu imagen guarda todo su color,\ny sigue viva nuestra vieja historia.",
+    "tipo": "Cuarteto",
+    "palabra_clave_ingresada": "recuerdo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "subcategoria": "Amor",
+  "poema": {
+    "texto": "El roce de tu boca es mi alimento,\nla fuente donde bebo la alegría,\nborrando de mi ser el sufrimiento.\n\nEspero con afán el nuevo día,\npara volver a probar tu dulzura,\nque llena de color mi fantasía.\n\nY cura mi locura.",
+    "tipo": "Terceto encadenado",
+    "palabra_clave_ingresada": "beso"
+  }
+}
