@@ -1,0 +1,992 @@
+[
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Crisálida de Humedad",
+            "texto": "La niebla matutina\nviste al sauce llorón\ncon un velo de misterio.\nGotas resbalan lentas,\npesadas de silencio,\ncomo lágrimas de la tierra\nrecordando la sequía.\nPronto el sol despuntará,\ny el verde resurgirá,\nlavando las memorias\ncon luz líquida y cálida.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "renacimiento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Arquitectura del Tacto",
+            "texto": "Tus manos construyen\nun puente sobre mi piel.\nCada roce,\nun ladrillo de deseo.\nEn tu abrazo encuentro\nun refugio, una ciudad\ndonde el miedo no habita.\nSomos dos arquitectos\nlevantando un edificio\nque desafía la gravedad,\nfundamentado en la ternura.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "intimidad"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Espejo Fragmentado",
+            "texto": "Me miro en los pedazos\nde un espejo roto.\nCada fragmento refleja\nun yo diferente,\ndistorionado, incompleto.\n¿Cuál es el verdadero?\n¿El que sonríe a la cámara,\no el que llora en silencio?\nReconstruyo la imagen,\npieza por pieza,\naceptando las grietas,\nla belleza imperfecta.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "autoconocimiento"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Nocturno de Asfalto",
+            "texto": "La ciudad respira\nun aliento de neón.\nLuces parpadean,\nmúsica distante,\nconversaciones fugaces.\nUn gato callejero\ncruza la avenida,\nsu sombra un fantasma\nen la noche húmeda.\nLas ventanas iluminadas,\npequeños universos,\nnarrando historias silentes.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anonimato"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Ecos del Ayer",
+            "texto": "El reloj de arena\nfiltra los recuerdos,\ngrano a grano.\nVoces del pasado\nresuenan en el silencio,\necándolas de momentos\nque creía olvidados.\nEl tiempo es un río,\nque fluye inexorable,\npero las orillas guardan\nlas huellas de nuestros pasos.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "memoria"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Respiración del Bosque",
+            "texto": "El musgo verde, tapiz silencioso,\nguarda secretos centenarios.\nUn rayo de sol, filtrado entre las hojas,\npinta la humedad con pincel dorado.\nEl viento susurra nombres olvidados,\ny la tierra respira, lenta y profunda.\nUn instante suspendido,\nentre el ahora y la eternidad.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "serenidad"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la Arena",
+            "texto": "Tus ojos, faros en la niebla,\nguíando mi alma errante.\nTu voz, eco suave en el acantilado,\ncalmando la tormenta interior.\nJuntos, huellas en la arena,\nborradas por la marea,\npero grabadas en el corazón.\nUn baile sutil,\nentre la cercanía y la libertad.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Espejos Rotos",
+            "texto": "Fragmentos de mí, dispersos en el tiempo,\nespejos rotos de identidades pasadas.\n¿Quién soy en esta constelación de recuerdos?\n¿Un eco lejano o una promesa futura?\nLa incertidumbre me abraza,\ny el silencio me revela verdades ocultas.\nLa búsqueda continúa,\n en el laberinto del ser.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "introspección"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Cicatrices de Asfalto",
+            "texto": "La ciudad despierta, bostezando humo,\nun laberinto de acero y cristal.\nCicatrices de asfalto, huellas del olvido,\nmientras la multitud avanza, indiferente.\nLuces de neón, promesas vacías,\nun grito silencioso en la noche urbana.\nUn alma solitaria,\nbuscando un refugio en el cemento.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anonimato"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "El Reloj de Arena",
+            "texto": "Grano a grano, el tiempo se escurre,\nuna melodía fugaz en el silencio.\nMemorias diluidas, fotografías descoloridas,\nmarcas en la piel, testimonio del viaje.\nEl presente, un instante efímero,\nentre el ayer y el mañana.\nAbrazar la impermanencia,\nla belleza de lo que se desvanece.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "transitoriedad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Susurro del Sauce",
+            "texto": "La brisa danza entre las hojas,\nun susurro antiguo que acaricia el río.\nUn verde temblor,\npintando reflejos en el agua quieta.\nEl sauce llora silencios,\nmemorias líquidas que fluyen al mar.\nUn eco persistente,\nde tiempos olvidados.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "paz"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la Arena",
+            "texto": "Tus manos, mapas de un viaje,\nque quiero recorrer sin fin.\nCada cicatriz, una constelación,\nguiando mi rumbo en la noche.\nEn tus ojos encuentro el eco,\nde un universo inexplorado.\nSomos dos huellas en la arena,\nborradas por la marea, perpetuamente unidas.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El Laberinto Interior",
+            "texto": "Me pierdo en los pasillos de mi mente,\nuna ciudadela de espejos y sombras.\nCada reflejo, una posibilidad,\nun camino bifurcado en la niebla.\nLa duda carcome los cimientos,\nde esta estructura frágil y efímera.\nBusco una salida, una ventana,\nhacia la claridad del presente.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "incertidumbre"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Nocturno Urbano",
+            "texto": "Las luces de la ciudad parpadean,\ncomo luciérnagas atrapadas en el asfalto.\nSirenas rasgan el silencio,\nun lamento metálico en la noche.\nLos edificios se alzan imponentes,\ntestigos mudos de historias efímeras.\nUn gato callejero cruza la avenida,\nun fantasma en la jungla de concreto.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Ecos del Ayer",
+            "texto": "El tiempo se desliza entre mis dedos,\narena fugaz que se niega a ser retenida.\nLas fotografías amarillentas,\nrevelan rostros y momentos desvanecidos.\nLas arrugas en mis manos,\nun mapa de batallas silenciosas.\nUn eco persistente del ayer,\nresuenan en el presente.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "memoria"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "El Susurro del Bosque",
+            "texto": "Las hojas caen, no como derrota,\nsino como una danza suave hacia la tierra.\nEl sol se filtra entre las ramas,\ndibujando patrones de luz y sombra.\nUn ciervo bebe en el arroyo,\nsilencio que se rompe en cristal.\nEl bosque respira, un pulmón gigante,\nconectado a la tierra, al cielo, a mí.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Geometría Sagrada",
+            "texto": "Tus ojos, dos universos paralelos,\ndonde mi alma se pierde y se encuentra.\nEl roce de tus dedos, un temblor,\nun mapa estelar en mi piel.\nNo hay palabras que definan este espacio,\neste silencio lleno de promesas.\nSomos dos líneas que convergen,\nen un punto infinito de amor.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "infinito"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El Eco de la Memoria",
+            "texto": "Los recuerdos, fantasmas persistentes,\nbailan en los bordes de mi conciencia.\nFragmentos de un ayer desdibujado,\ncomo fotografías antiguas y rotas.\n¿Quién soy yo sin la memoria?\nUn barco a la deriva, sin rumbo fijo,\nbuscando un faro en la niebla del tiempo.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "olvido"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Sin(fonía) Urbana",
+            "texto": "El asfalto, espejo roto de la luna,\nrefleja la prisa, la soledad,\nel eco de pasos perdidos.\nSirenas ululan en la noche oscura,\nun lamento constante, una queja sorda.\nLuces de neón parpadean,\npromesas vacías en la jungla de cemento.\nUn graffiti grita su verdad,\nun arte efímero, una rebelión silenciosa.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anonimato"
+        }
+    },
+    {
+        "subcategoria": "sueños",
+        "poema": {
+            "titulo": "Paisajes Oníricos",
+            "texto": "En el reino de los sueños, las leyes se disuelven,\nla lógica se desvanece en la bruma.\nÁrboles que florecen hacia abajo,\npeces que vuelan en un cielo púrpura.\nUn laberinto sin puertas ni salidas,\ndonde el tiempo se pliega sobre sí mismo.\nDespertar es volver a la jaula,\nal olvido de la verdad onírica.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "irrealidad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Hojas Suspendidas",
+            "texto": "Un viento lento\nPeina la copa del árbol.\nHojas cobrizas, detenidas un instante,\nBailan en el filo del ocaso.\nSilencio profundo, olor a tierra húmeda.\nEl río murmura una vieja canción\nde despedida, de promesa, de nuevo comienzo.\nLa luz se diluye en las sombras.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la Arena",
+            "texto": "Tus manos,\nun eco cálido en mi piel.\nComo la espuma que acaricia la orilla,\nLlegas y te vas, constante, impredecible.\nNuestras huellas se entrelazan en la arena,\nUn mapa efímero de un instante eterno.\nLa sal en tus labios,\nun sabor a mar y a nosotros.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "fugacidad"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Espejos Fragmentados",
+            "texto": "Me miro en los espejos rotos del pasado.\nReflejos distorsionados,\nDe quien fui, de quien creí ser.\nCada fragmento, una cicatriz,\nUna lección aprendida a medias.\n¿Quién soy ahora, entre estas piezas dispersas?\nQuizás, la suma imperfecta\nde todos mis yoes.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "identidad"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Asfalto Gris",
+            "texto": "La ciudad respira humo y neón.\nUn latido constante de bocinas y pasos.\nRascacielos que arañan el cielo,\nTestigos silenciosos de vidas cruzadas.\nEn cada esquina, una historia,\nun sueño roto, una esperanza naciente.\nEl asfalto gris refleja las luces,\nun río de sombras y promesas.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "caos"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Reloj de Arena",
+            "texto": "El tiempo se escurre entre los dedos,\nComo arena fina, inasible.\nCada grano, un segundo perdido,\nun recuerdo que se desvanece.\n¿Qué queda al final del viaje?\nLa huella suave de lo vivido,\nun eco lejano en el silencio del alma.\nLa certeza de que todo fluye,\ninvariablemente.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "impermanencia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Hojas Caídas",
+            "texto": "Un tapiz ocre en la vereda,\nhojas que susurran secretos del viento.\nEl sol, un recuerdo tibio,\nmientras el aire se viste de nostalgia.\nCada crujido bajo mis pies,\nun eco del verano que se fue.\nLa tierra respira lento,\npreparándose para el sueño blanco.\nUn ciclo eterno,\nun baile silencioso de vida y muerte.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Fragmentos de un Beso",
+            "texto": "El sabor a sal en tus labios,\nun eco de mares lejanos.\nTus ojos, dos luceros,\nguiando mi alma en la noche oscura.\nEl roce de tu piel,\nun incendio sutil que me consume.\nEn el silencio entre latidos,\nse dibuja un universo,\ndonde tú y yo somos uno.\nUn instante eterno,\ncapturado en un beso.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "beso"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "La Huella del Silencio",
+            "texto": "En el vacío de la noche,\nla mente divaga sin rumbo.\nPreguntas sin respuestas,\necos de un pasado incierto.\n¿Quién soy detrás de esta máscara?\n¿Qué anhelo en la inmensidad del tiempo?\nEl silencio responde con calma,\ndibujando sombras en la pared.\nUn viaje introspectivo,\nbuscando la verdad en el eco de mi ser.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Asfalto y Neón",
+            "texto": "La ciudad despierta con prisa,\nun río de rostros anónimos.\nLuces de neón parpadean,\nun espejismo en la noche urbana.\nEl ruido constante,\nsinfonía caótica de la vida moderna.\nEntre edificios grises y altos,\nbusco un respiro, un instante de paz.\nEl asfalto guarda secretos,\ny la promesa de un nuevo amanecer.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "caos"
+        }
+    },
+    {
+        "subcategoria": "sueños",
+        "poema": {
+            "titulo": "Jardines Oníricos",
+            "texto": "En el jardín de mis sueños,\nflorecen flores imposibles.\ncolores que desafían la realidad,\nperfumes que embriagan el alma.\nMariposas de cristal,\nvuelan entre árboles de luna.\nUn laberinto de espejos,\nrefleja mis anhelos más profundos.\nLa libertad en cada paso,\nun universo paralelo donde todo es posible.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "imaginación"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Canto de la Cicada",
+            "texto": "El sol plomizo diluye la tarde,\nuna cicada desgarra el silencio.\nSu vibrato, un lamento ancestral,\nun hilo delgado en la inmensidad verde.\nLas hojas, espejos rotos de luz,\ncapturan fragmentos de su canto,\nun eco persistente, testamento de vida,\nantes del abrazo final de la noche.\nUn latido en el pulso del mundo.\nCiclo eterno, danza efímera.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "estío"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la arena",
+            "texto": "Tu mano en la mía, promesa salada,\nhuellas que el mar reclama implacable.\nUn faro lejano, testigo mudo,\nde este instante robado al tiempo.\nTus ojos, dos pozos de noche estrellada,\ndonde naufragan mis miedos y anhelos.\nPalabras susurradas, caracolas vacías,\nresonando con la melodía del alma.\nEl viento, cómplice secreto,\ndespeina la orilla de nuestro encuentro.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "encuentro"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Espejo Roto",
+            "texto": "Fragmentos de un yo desdibujado,\nreflejos distorsionados en la memoria.\nBuscando la coherencia perdida,\nun rompecabezas sin piezas completas.\nLas aristas cortantes del pasado,\nheridas invisibles que aún sangran.\n¿Quién soy en este mosaico imperfecto?\nUn eco lejano de lo que fui,\nun presentimiento de lo que seré.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "identidad"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Sin(fonía) Asfáltica",
+            "texto": "Sirenas aúllan en la noche densa,\nla ciudad, un monstruo insomne, respira.\nLuces de neón, cicatrices brillantes,\nen el rostro oscuro de la metrópoli.\nPisadas urgentes, ecos solitarios,\nbajo la lluvia ácida y persistente.\nUn saxofón llora en un callejón,\nuna balada triste para almas perdidas.\nEl pulso febril de la jungla de cemento.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "sueños",
+        "poema": {
+            "titulo": "Jardín Suspendido",
+            "texto": "Un jardín de glicinas flotantes,\nraíces danzando en el aire etéreo.\nColibríes de cristal, besando las flores,\nun torrente de luz iridiscente.\nMúsica callada, melodías del alma,\nen este edén onírico y fugaz.\nDespertar, el fin de la magia,\nla puerta que se cierra lentamente.\nEl recuerdo, una bruma sutil,\nde un paraíso perdido para siempre.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "fantasía"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Desierto Floreciente",
+            "texto": "Arena que duerme,\nbajo un sol despiadado.\nUna flor amarilla,\nrasga el silencio ocre.\nLa vida persiste,\nun milagro tenaz,\nen el corazón del olvido.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "resiliencia"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la Niebla",
+            "texto": "Tu voz,\nun eco suave,\nen la niebla de la mañana.\nHuellas que se desdibujan,\npero el calor persiste,\nen la palma de mi mano.\nUn recuerdo,\ndulce y agridulce.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "recuerdo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El Peso del Silencio",
+            "texto": "El silencio,\nun abismo profundo.\nPalabras no dichas,\npesan como piedras,\nen el alma.\nLa verdad se esconde,\ndetrás de una sonrisa fingida.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "verdad"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Luces de Neón",
+            "texto": "Ciudad que respira,\ncon pulmones de asfalto.\nLuces de neón,\npintan la noche,\ncon colores artificiales.\nAlmas solitarias,\nbuscan refugio,\nen la multitud.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Ecos del Ayer",
+            "texto": "El tiempo,\nun río incesante,\nlleva consigo,\nlos ecos del ayer.\nMemorias que flotan,\ncomo hojas secas,\nen la corriente.\nUn susurro lejano,\nde un pasado que fue.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "memoria"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "El latido verde",
+            "texto": "La lluvia fina,\ndanza sobre las hojas,\nun susurro ancestral.\nLa tierra exhala,\nun perfume húmedo y oscuro,\nraíces desnudas bebiendo.\nUn instante detenido,\nel corazón del bosque palpita,\nun eco eterno.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "renacimiento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la arena",
+            "texto": "Tus ojos,\nun faro en la noche.\nTu mano en la mía,\nun cable a tierra.\nCaminamos juntos,\ndejando huellas efímeras,\nque la marea borra,\npero el recuerdo persiste,\ncomo una caracola,\nguardando el rumor del mar.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El laberinto interior",
+            "texto": "Me pierdo en mí,\nun laberinto de espejos,\ndonde las sombras bailan.\nLa duda carcome,\nel silencio grita.\nBusco la salida,\nun hilo de Ariadna,\nentre fragmentos rotos,\nde un yo desdibujado.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "introspección"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Asfalto líquido",
+            "texto": "Luces de neón,\npintan la noche urbana,\nun lienzo de artificio.\nEl ruido constante,\nuna sinfonía discordante,\nde bocinas y pasos.\nAlmas errantes,\nse cruzan sin mirarse,\nen la corriente fría,\ndel asfalto líquido.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anonimato"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Ecos del ayer",
+            "texto": "El reloj,\nun tirano implacable,\nmarcando el ritmo fugaz.\nLas arrugas,\nun mapa del tiempo,\ngrabado en la piel.\nMemorias difusas,\nse desvanecen lentas,\ncomo hojas secas,\nllevadas por el viento.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "transitoriedad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Respiración del Bosque",
+            "texto": "El aire huele a tierra mojada\ny a promesas de hojas nuevas.\nUn murmullo verde asciende\ndesde las raíces profundas.\nEl sol, un pincel dorado,\npinta luces fugaces entre las ramas.\nEl silencio respira con el bosque,\nun latido lento y ancestral.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la Arena",
+            "texto": "Tus ojos, faros encendidos\nen la noche de mi alma.\nTu voz, la marea suave\nque arrastra mis miedos lejos.\nJuntos, huellas en la arena,\npromesas que el viento susurra.\nUn instante eterno,\nmientras las olas cantan.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "eternidad"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Ecos del Silencio",
+            "texto": "El silencio, un espejo roto,\nrefleja fragmentos de mí mismo.\nPreguntas sin respuesta,\nflotando en la quietud.\nUna búsqueda constante,\nun laberinto de sombras y luces.\nEn el eco vacío,\nun atisbo de verdad.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "introspección"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Melancolía Asfáltica",
+            "texto": "Luces de neón parpadean,\nreflejando rostros cansados.\nEl asfalto, un río gris,\nque arrastra sueños rotos.\nMúsica distante, un lamento urbano,\nun grito ahogado en el cemento.\nSoledad compartida,\nentre la multitud que avanza.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "desarraigo"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Fragmentos de un Ayer",
+            "texto": "Fotografías descoloridas,\ntestigos silenciosos del pasado.\nEl tiempo, un río implacable,\nque erosiona la memoria.\nSombras de risas y lágrimas,\nflotando en el presente.\nUn eco lejano,\nde lo que fuimos y seremos.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "nostalgia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "El susurro del viento",
+            "texto": "En el valle silencioso,\nel viento danza entre las hojas.\nUn murmullo suave, casi inaudible,\nnarra historias de la tierra.\nÁrboles ancestrales escuchan atentos,\ntestigos del tiempo que fluye sin cesar.\nEl sol, un pincel dorado,\npinta sombras efímeras en el suelo.\nLa naturaleza respira, un latido constante,\nun poema eterno que se revela a quien sabe escuchar.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "armonía"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la arena",
+            "texto": "Tus ojos, dos faros en la noche,\nguiando mi alma errante.\nTu voz, melodía suave y cálida,\ncalma la tempestad en mi interior.\nJuntos, caminamos por la orilla del mar,\ndejando huellas que el agua borrará.\nPero el eco de nuestros pasos,\nresonará por siempre en mi corazón.\nUn amor fugaz, pero intenso,\ngrabado a fuego en la memoria.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "fragilidad"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El laberinto interior",
+            "texto": "Me pierdo en los recovecos de mi mente,\nun laberinto oscuro y silencioso.\nLas paredes se cierran a mi alrededor,\ny la salida parece inalcanzable.\nPero una luz tenue parpadea a lo lejos,\nun rayo de esperanza en la oscuridad.\nBusco la llave que abra la puerta,\na la libertad, al entendimiento.\nEn cada paso, una nueva pregunta,\nun nuevo desafío, una nueva oportunidad.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "introspección"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Asfalto y neón",
+            "texto": "La ciudad despierta entre el caos y el bullicio,\nun hormiguero gigante en constante movimiento.\nLuces de neón parpadean en la noche,\niluminando rostros anónimos y solitarios.\nEl asfalto, un río gris que serpentea,\nconduciendo a destinos inciertos.\nRascacielos se alzan hacia el cielo,\ntestigos silenciosos de la vida urbana.\nLa soledad se esconde en cada esquina,\nuna sombra que acecha en la multitud.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anonimato"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Ecos del pasado",
+            "texto": "El tiempo, un río que fluye sin retorno,\nllevando consigo recuerdos y sueños.\nLas arrugas en mi rostro, un mapa del pasado,\ncada línea, una historia que contar.\nVoces lejanas resuenan en mi memoria,\necos de risas y lágrimas.\nEl presente, un instante fugaz,\nun puente entre el ayer y el mañana.\nEl futuro, una promesa incierta,\nun lienzo en blanco que espera ser pintado.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "transitoriedad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Raíces Silenciosas",
+            "texto": "La tierra respira profundo,\nentre la danza de hojas caídas.\nUn susurro de viento,\nacaricia las ramas desnudas.\nEl río serpentea,\nun espejo de cielo invertido.\nEn el silencio del bosque,\nla vida germina en secreto.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "paz"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la Arena",
+            "texto": "Tu mano en la mía,\nun instante detenido en el tiempo.\nEl sol dibuja sombras largas,\nsobre la arena dorada.\nCada ola que rompe,\nes un secreto compartido.\nTus ojos, dos faros,\nguiando mi alma errante.\nEl eco de tu risa,\nuna melodía en mi corazón.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El Laberinto Interior",
+            "texto": "Me pierdo en los pasillos,\nde mi propia mente.\nSombras danzan,\nrevelando verdades ocultas.\nLa búsqueda incesante,\nde un sentido esquivo.\nUn eco lejano,\nme llama a la superficie.\n¿Quién soy,\nmás allá de este laberinto?",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "introspección"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Neon Nocturno",
+            "texto": "Luces parpadeantes,\nun río de coches sin fin.\nEl asfalto húmedo,\nrefleja la noche artificial.\nVidas cruzándose,\nen la inmensidad urbana.\nUn saxofón solitario,\nllena el aire con nostalgia.\nSoledad compartida,\nentre multitudes anónimas.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anonimato"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Fragmentos de Ayer",
+            "texto": "El álbum de fotos,\nun viaje al pasado.\nRostros desdibujados,\npor la niebla del tiempo.\nRecuerdos fugaces,\nfragmentos de una historia.\nUn suspiro de melancolía,\nal rozar el papel amarillento.\nEl ayer persiste,\nen la memoria del corazón.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "memoria"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Ecos del Viento",
+            "texto": "El viento susurra secretos entre las hojas,\ndibujando sombras danzantes en la hierba.\nUn suspiro largo, un eco lejano,\nla promesa incierta de la lluvia.\nEl sol, un ojo perezoso que observa,\nla tierra respirando, lenta,\nprofunda,\ncomo un sueño eterno.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "naturaleza, calma"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Fragmentos de un Encuentro",
+            "texto": "Tu mirada, un laberinto de luces,\nmi nombre, una melodía en tus labios.\nEl tiempo se detuvo, un instante,\nuna eternidad en el roce de las manos.\nUn universo naciente en cada silencio,\nla promesa frágil de un amor perpetuo,\nun eco que resuena, profundo,\nla esperanza en la aridez.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "amor, encuentro"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El Peso del Silencio",
+            "texto": "En la quietud de la noche,\nel silencio es un manto denso,\nuna presencia palpable.\nPreguntas sin respuesta, ecos de la mente,\nun laberinto oscuro que me absorbe.\nEl peso de lo no dicho,\nla sombra de lo que fue,\nun enigma en la soledad,\nla búsqueda de un nuevo amanecer.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "silencio, reflexión"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Metrópolis Gris",
+            "texto": "Rascacielos que arañan el cielo,\nuna sinfonía de bocinas y gritos.\nEl asfalto humea, un aliento caliente,\nmultitudes que fluyen, sin rostro, sin nombre.\nLuces artificiales que maquillan la noche,\nel eco lejano de una risa olvidada.\nUna soledad urbana,\nun latido constante,\nun laberinto de concreto y acero.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "ciudad, soledad"
+        }
+    },
+    {
+        "subcategoria": "sueños",
+        "poema": {
+            "titulo": "Cartografía Onírica",
+            "texto": "En la noche, los sueños florecen,\npaisajes inciertos, colores vibrantes.\nUn vuelo sin alas, un abrazo sin cuerpo,\nel eco de una voz que me llama.\nEl tiempo se diluye, se transforma,\nun río de sensaciones que me arrastra.\nEl umbral de la vigilia, un espejismo,\nun viaje a la esencia del ser,\ndonde el alma danza libremente.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "sueños, libertad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Canto del Río Urbano",
+            "texto": "El río, una serpiente de asfalto,\nse desliza entre edificios que lo ignoran.\nSus aguas, espejo roto del cielo,\nreflejan la prisa, el humo, el olvido.\nPero aún escucho, entre el ruido constante,\nel susurro ancestral de la corriente.\nUna melodía persistente, \nun recuerdo vivo de la tierra,\nantes del cemento, antes de la jaula.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "resiliencia"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la Arena",
+            "texto": "Tus manos, constelaciones en mi piel,\nrecorren caminos que creíamos perdidos.\nEn la orilla del tiempo,\nnuestros pasos se entrelazan,\ndejando huellas efímeras\nque la marea borra, sin piedad.\nPero en el eco del silencio,\npersiste la promesa\nde un amor que trasciende\nla fugacidad del instante.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "eternidad"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Fragmentos del Espejo",
+            "texto": "Me miro en el espejo roto del pasado,\nrecogiendo fragmentos de quien fui.\nCada astilla, un recuerdo difuso,\nun sueño truncado, una promesa incumplida.\n¿Qué queda de aquel idealista ingenuo,\nbajo la armadura de la experiencia?\nSólo la cicatriz,\nla marca indeleble\nde una batalla perdida,\ncontra el implacable paso del tiempo.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "aceptación"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Nocturno Metropolitano",
+            "texto": "La ciudad, un laberinto de luces,\nparpadea febril bajo la luna.\nUn concierto de sirenas,\nuna sinfonía de cláxones,\ndibujan la banda sonora\nde esta jungla de concreto.\nAlmas solitarias, errantes,\nbuscan refugio en la penumbra,\nsoñando con un oasis,\nlejos del asfalto.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anonimato"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Ecos del Ayer",
+            "texto": "El tiempo, un río silencioso,\narraastra consigo los recuerdos.\nVoces lejanas, imágenes desvanecidas,\nflotan en la corriente,\ncomo hojas secas en otoño.\nIntento aferrarme a la memoria,\npero la niebla del olvido\nlo cubre todo con su manto gris.\nSólo quedan los ecos,\nlos fantasmas del ayer,\nacechando en los rincones\nde mi corazón.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "nostalgia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Silencio Verde",
+            "texto": "La luz se filtra entre las hojas,\nun susurro esmeralda en la tierra.\nEl musgo respira bajo mis pies descalzos,\nun templo de silencio y savia.\nEl aire huele a pino y a promesa,\nun renacer constante,\nun ciclo eterno,\nun verde que cura.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "paz"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Fragmentos de Ti",
+            "texto": "Tu risa, una melodía fugaz,\ngrabada en la memoria del viento.\nTus ojos, dos luceros perdidos,\nbuscando un eco en la noche.\nFragmentos de ti,\nesparcidos en mi alma,\nun rompecabezas incompleto,\nque anhelo reconstruir.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anhelo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "La Danza de las Sombras",
+            "texto": "Somos sombras danzantes,\nen el teatro del tiempo.\nBuscamos la luz,\npero abrazamos la oscuridad.\nCada paso,\nuna pregunta sin respuesta,\nun eco vacío en el abismo.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "incertidumbre"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Asfalto Gris",
+            "texto": "El asfalto gris,\nun río de almas apresuradas.\nEdificios de cristal,\nreflejan un cielo distorsionado.\nSirenas ululan en la distancia,\nun lamento urbano.\nLuces de neón parpadean,\nun espejismo en la noche.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "El Reloj de Arena",
+            "texto": "El tiempo se escurre,\ncomo arena entre los dedos.\nCada grano,\nun recuerdo fugaz.\nEl ayer se desvanece,\nel mañana es una promesa incierta.\nSolo queda el presente,\nun instante eterno.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "efímero"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Susurro de hojas",
+            "texto": "El viento peina la arboleda,\nun susurro verde, un lamento suave.\nLas hojas caen, espirales doradas,\nsobre el musgo húmedo y la tierra oscura.\nUn adiós silencioso al verano fugaz,\nun preludio frío a la quietud invernal.\nEl río canta su canción de piedra,\nlavando memorias, nutriendo raíces.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la arena",
+            "texto": "Tus ojos, dos mares profundos,\ndonde me pierdo sin querer encontrar la orilla.\nTu risa, el eco de una caracola,\nresonando en la vastedad de mi alma.\nTus manos, la suave caricia del viento,\ndibujando huellas en la arena del tiempo.\nJuntos, dos almas danzando en la marea,\nuna promesa silenciosa grabada en el sol.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Fragmentos de espejo",
+            "texto": "Me miro en el espejo roto,\nveo fragmentos de quien fui,\nde quien anhelo ser, de quien temo.\nLas grietas reflejan mis miedos,\nmis dudas, mis anhelos silenciados.\n¿Qué rostro reconstruiré?\n¿Qué historia contaré de mí?",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "autoconocimiento"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Melodía de asfalto",
+            "texto": "El latido constante del tráfico,\nuna sinfonía estridente y familiar.\nLuces de neón pintando la noche,\nun lienzo urbano de sueños y sombras.\nEdificios que alcanzan el cielo,\nreflejando la ambición desmedida.\nAlmas solitarias caminando entre la multitud,\nbuscando un eco, una conexión fugaz.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "soledad urbana"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "El río del olvido",
+            "texto": "El tiempo fluye como un río impasible,\nllevando consigo recuerdos desvanecidos.\nLas arrugas en mi rostro, mapas de la vida,\ntestigos silenciosos de batallas ganadas y perdidas.\nEl eco de risas lejanas,\nun susurro fantasmal en la memoria.\nEl presente, un instante fugaz,\nentre el pasado que se desvanece y el futuro incierto.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "impermanencia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Ecos del Bosque",
+            "texto": "La luz tamizada por hojas temblorosas,\npintando manchas doradas sobre el musgo.\nEl aire huele a tierra húmeda y promesa de lluvia.\nUn susurro de viento entre las ramas,\ncuenta historias ancestrales.\nSilencio roto por el canto de un mirlo,\nuna melodía que se desvanece en la espesura.\nEl bosque respira, eterno y sabio.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "armonía"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Fragmentos de un Encuentro",
+            "texto": "Tus ojos, dos luceros perdidos en la noche.\nTu voz, un eco suave que me envuelve.\nUn roce accidental, una chispa inesperada.\nPalabras suspendidas en el aire,\nrevelando secretos a medias.\nUn instante detenido en el tiempo,\nuna promesa silenciosa de eternidad.\nEn tus brazos, encuentro mi refugio.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "La Sombra del Ayer",
+            "texto": "Los recuerdos, fantasmas persistentes,\nque acechan en los rincones de la memoria.\nHuellas borrosas de un camino recorrido,\nmomentos perdidos en la niebla del tiempo.\n¿Quién soy ahora, sino la suma de mis errores?\nLa vida, un laberinto sinuoso y desafiante.\nLa búsqueda constante de un significado,\nun eco vacío en el silencio.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "incertidumbre"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Cromo y Concreto",
+            "texto": "Luces de neón que parpadean en la noche,\nreflejadas en el asfalto mojado.\nUn río de coches rugiendo sin cesar,\nla sinfonía estridente de la urbe.\nAlmas solitarias caminando entre la multitud,\nperdidas en el laberinto de edificios.\nEl pulso frenético de una ciudad insomne,\nun grito silencioso de desesperación.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Arena Fugaz",
+            "texto": "El tiempo, un río que fluye sin retorno.\nCada segundo, una gota que se escurre entre los dedos.\nLa juventud, un espejismo que se desvanece.\nEl presente, un instante efímero y valioso.\nEl futuro, una promesa incierta y lejana.\nLa memoria, el eco distante de lo que fue.\nVivimos atrapados en la rueda del destino,\nobservando cómo la arena se desliza.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "impermanencia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Respiración del Bosque",
+            "texto": "El sol se filtra entre hojas antiguas,\npolvo dorado danzando en la quietud.\nUn susurro de viento,\nlenguaje secreto de los árboles.\nLa tierra húmeda, un abrazo silencioso.\nRespiro profundo, absorbiendo la paz,\nuna promesa de renacimiento,\nun ciclo eterno grabado en la corteza.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "paz"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Fragmentos de un Recuerdo",
+            "texto": "Tu risa, eco lejano en mi memoria.\nMomentos congelados en ámbar,\ndestellos de un verano eterno.\nLa fragilidad de un pétalo,\nasí se sintió tu partida.\nAhora, solo queda el perfume\nde una flor marchita,\nun dolor sordo en el pecho.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "nostalgia"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El Laberinto Interior",
+            "texto": "Me pierdo en los pasillos de mi mente,\nreflejos distorsionados en espejos rotos.\nPreguntas sin respuestas,\nun eco constante.\nLa búsqueda incesante de un sentido,\nun faro en la niebla,\nun camino que se bifurca,\ny la incertidumbre, compañera fiel.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "incertidumbre"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Asfalto y Neón",
+            "texto": "Luces parpadeantes, un río de acero,\nla ciudad despierta, un gigante insomne.\nSombras que se alargan,\nilusiones efímeras en escaparates.\nEl ruido constante, una melodía urbana.\nAlmas solitarias buscando conexión,\nentre el humo y la prisa,\nun oasis de silencio.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Ecos del Ayer",
+            "texto": "El tiempo, arena escurridiza entre los dedos,\nhuellas borradas por la marea.\nRecuerdos que se desvanecen,\ncomo fotografías amarillentas.\nEl futuro, una promesa incierta,\nUn lienzo en blanco esperando ser pintado.\nVivimos en el instante,\nun presente fugaz.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "efímero"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Susurro del Viento",
+            "texto": "El viento juega entre las hojas,\nuna danza silenciosa de verdes y marrones.\nEl sol filtra su luz,\ndibujando sombras danzantes en el suelo.\nUn aroma a tierra húmeda se eleva,\nrecordando la promesa de la primavera.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "renacimiento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Huellas en la Arena",
+            "texto": "Tus ojos, dos faros en la noche,\nguiando mi barco hacia puerto seguro.\nTu risa, melodía que inunda mi alma,\ncalmando las tormentas interiores.\nJuntos, construimos castillos de arena,\nsabiendo que la marea los borrará,\npero la memoria permanecerá.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El Laberinto del Tiempo",
+            "texto": "Las horas se deslizan entre mis dedos,\ncomo arena fina que escapa al puño.\n¿A dónde voy? ¿Qué busco?\nPreguntas que resuenan en el vacío.\nUn eco distante del pasado,\nun presentimiento incierto del futuro.\nSolo el ahora se revela,\nun instante fugaz de consciencia.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "incertidumbre"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Sinestesia Urbana",
+            "texto": "El asfalto vibra bajo mis pies,\nun latido constante y monótono.\nLuces de neón parpadean,\nun baile frenético en la oscuridad.\nEl murmullo de la ciudad se eleva,\nuna cacofonía de voces y sirenas.\nMe pierdo entre la multitud,\nun fantasma anónimo en la noche.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "alienación"
+        }
+    },
+    {
+        "subcategoria": "sueños",
+        "poema": {
+            "titulo": "Fragmentos Oníricos",
+            "texto": "En el jardín de la noche,\nflorecen imágenes surrealistas.\nRostros difusos, paisajes imposibles,\nconversaciones sin sentido.\nLa lógica se desvanece,\ndejando paso a la fantasía.\nDespierto con la memoria borrosa,\nun eco lejano de un mundo paralelo.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "inconsciente"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Raíces Aéreas",
+            "texto": "La higuera estranguladora, un abrazo lento,\ndejando sin aliento al árbol que la sostiene.\nParasitismo elegante, lección de supervivencia.\nEn la selva urbana, cemento y musgo.\nUna danza silenciosa, verdor contra gris.\nLa persistencia de la vida, buscando el sol entre edificios.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "resiliencia"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Fragmentos de un Eco",
+            "texto": "Tu risa, un eco lejano en mi memoria,\nuna melodía que desafina con el tiempo.\nLos fantasmas de besos perdidos, susurran entre las sábanas.\nEl vacío que dejaste, una constelación de ausencias.\nBusco tu aroma en el café de la mañana,\nun espejismo de lo que fue, y ya no es.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "nostalgia"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El Inventario del Silencio",
+            "texto": "El silencio, una biblioteca infinita,\ndonde las palabras se esconden, esperando ser descubiertas.\nUn jardín secreto, floreciendo en la quietud.\nEn el susurro del viento, la respuesta que busco.\nUn espejo que refleja mi alma desnuda,\nla verdad incómoda, la belleza cruda.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "introspección"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Asfalto Líquido",
+            "texto": "La ciudad respira humo y neón,\nun pulso frenético en la noche oscura.\nLas luces parpadeantes, estrellas artificiales.\nEn el laberinto de calles, me pierdo y me encuentro.\nUn río de rostros anónimos, historias que se cruzan.\nEl asfalto, un espejo líquido de la ambición.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anonimato"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Reloj de Arena Roto",
+            "texto": "El tiempo, un río que se desborda,\narena que se escurre entre los dedos.\nLos recuerdos, fotografías desteñidas,\nfragmentos de un pasado que se desvanece.\nUn eco de promesas incumplidas,\nel futuro, una incertidumbre constante.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "efímero"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Canto del Río Urbano",
+            "texto": "El río corre bajo el puente de cemento,\nmurmurando historias de piedras lisas y peces plateados.\nIgnora el ruido de los coches, la prisa del asfalto,\nsus aguas llevan promesas de un mar distante.\nRefleja la luna, una moneda de plata en la noche,\ny sigue su camino, rebelde y soñador,\nbuscando la libertad en la desembocadura.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "fluidez"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Geometría del Abrazo",
+            "texto": "Dos cuerpos se encuentran, líneas paralelas,\nque de pronto convergen en un punto cálido.\nEl silencio se vuelve lenguaje, una melodía,\nde respiraciones lentas y latidos acompasados.\nUn universo entero cabe en este instante,\ndonde el tiempo se detiene, rendido ante la piel.\nEl abrazo, la forma perfecta del amor.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "La Sombra del Olvido",
+            "texto": "¿Qué queda de nosotros cuando la memoria se desvanece?\nSombras danzantes en los muros del presente,\nfragmentos de un pasado que se escapa entre los dedos.\nBuscamos rastros, ecos de voces amadas,\nen los rincones polvorientos del corazón.\nPero el tiempo es un río implacable,\nllevando consigo nombres y rostros.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "fragilidad"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Nocturno de Asfalto",
+            "texto": "Luces de neón pintan la noche urbana,\nun lienzo de colores artificiales.\nEdificios altos, gigantes dormidos,\nvelan por el sueño inquieto de la ciudad.\nEl eco de un taxi, la sirena lejana,\nrompen el silencio momentáneo.\nUna ciudad que nunca descansa, un pulso constante.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "insomnio"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Ecos del Mañana",
+            "texto": "El futuro se dibuja en trazos inciertos,\nuna promesa lejana, un eco en el vacío.\nMiramos hacia adelante, con temor y esperanza,\nbuscando respuestas en el laberinto del tiempo.\nCada paso es una elección, una nueva dirección,\nun camino que se bifurca en infinitas posibilidades.\nEl mañana es un lienzo en blanco, esperando ser pintado.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "posibilidad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "El río invisible",
+            "texto": "Bajo la piel asfáltica,\ncorre un río secreto.\nRecuerdo de cauces antiguos,\nla sed que alimenta los parques.\nEl asfalto se agrieta a veces,\ny un verde tímido se asoma:\nla promesa de un Edén perdido,\ndonde el agua besaba la tierra,\nsin la prisa de las tuberías,\nsin el olvido de la ciudad.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "olvido"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Geometría del encuentro",
+            "texto": "Dos líneas paralelas\nque creían en la distancia,\nde repente convergen.\nPunto de fuga inesperado,\nen el infinito de tu mirada.\nUn ángulo perfecto,\ndonde la soledad se diluye\ny nace la posibilidad\nde un nuevo universo,\nconstruido a cuatro manos,\ny un corazón latiendo\nen sincronía.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "encuentro"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El peso del silencio",
+            "texto": "El silencio no es vacío,\nes un eco denso.\nCarga con las palabras\nque nunca fueron dichas,\ncon los sueños abortados,\ncon las heridas sin cicatrizar.\nPesa como plomo,\nal principio,\nluego se vuelve musgo,\nen la piel del alma,\nuna invitación al abismo,\nun refugio inesperado.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "silencio"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Sinestesia urbana",
+            "texto": "La ciudad grita colores,\nun bullicio de neón.\nEl olor a lluvia sobre asfalto,\nmemoria de veranos lejanos.\nEl tacto frío del metal,\nen la baranda del balcón.\nEl sabor amargo del café,\na las seis de la mañana.\nY el sonido constante del tráfico,\nuna nana artificial,\nun mantra de supervivencia,\nen la jungla de cemento.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "ciudad"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Fragmentos del ahora",
+            "texto": "El tiempo no es lineal,\nes una espiral fragmentada.\nPequeños instantes\nque se repiten en bucle,\nrecuerdos que emergen\ncomo islas en la niebla.\nUn déjà vu constante,\nla sensación de haber vivido\nmil vidas en una sola,\nla certeza de que el futuro\nes solo un eco del pasado,\nreverberando en el presente.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    }
+]
