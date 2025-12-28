@@ -1,0 +1,47 @@
+[
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Crisálida de Humedad",
+            "texto": "La niebla matutina\nviste al sauce llorón\ncon un velo de misterio.\nGotas resbalan lentas,\npesadas de silencio,\ncomo lágrimas de la tierra\nrecordando la sequía.\nPronto el sol despuntará,\ny el verde resurgirá,\nlavando las memorias\ncon luz líquida y cálida.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "renacimiento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Arquitectura del Tacto",
+            "texto": "Tus manos construyen\nun puente sobre mi piel.\nCada roce,\nun ladrillo de deseo.\nEn tu abrazo encuentro\nun refugio, una ciudad\ndonde el miedo no habita.\nSomos dos arquitectos\nlevantando un edificio\nque desafía la gravedad,\nfundamentado en la ternura.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "intimidad"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Espejo Fragmentado",
+            "texto": "Me miro en los pedazos\nde un espejo roto.\nCada fragmento refleja\nun yo diferente,\ndistorionado, incompleto.\n¿Cuál es el verdadero?\n¿El que sonríe a la cámara,\no el que llora en silencio?\nReconstruyo la imagen,\npieza por pieza,\naceptando las grietas,\nla belleza imperfecta.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "autoconocimiento"
+        }
+    },
+    {
+        "subcategoria": "ciudad",
+        "poema": {
+            "titulo": "Nocturno de Asfalto",
+            "texto": "La ciudad respira\nun aliento de neón.\nLuces parpadean,\nmúsica distante,\nconversaciones fugaces.\nUn gato callejero\ncruza la avenida,\nsu sombra un fantasma\nen la noche húmeda.\nLas ventanas iluminadas,\npequeños universos,\nnarrando historias silentes.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "anonimato"
+        }
+    },
+    {
+        "subcategoria": "tiempo",
+        "poema": {
+            "titulo": "Ecos del Ayer",
+            "texto": "El reloj de arena\nfiltra los recuerdos,\ngrano a grano.\nVoces del pasado\nresuenan en el silencio,\necándolas de momentos\nque creía olvidados.\nEl tiempo es un río,\nque fluye inexorable,\npero las orillas guardan\nlas huellas de nuestros pasos.",
+            "tipo": "Verso Libre",
+            "palabra_clave_ingresada": "memoria"
+        }
+    }
+]

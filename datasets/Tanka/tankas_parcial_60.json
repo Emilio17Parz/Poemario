@@ -1,0 +1,2702 @@
+[
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "Brisa en el pinar,\nLas hojas danzan al son,\nUn suave murmullo.\nEl sol pinta oro y miel,\nLa tarde encuentra su paz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "bosque"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco lejano",
+            "texto": "Tu nombre resuena,\nEn el silencio profundo,\nUn eco persistente.\nRecuerdos dulces y agrios,\nUn amor que nunca muere.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "recuerdo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Arena fugaz",
+            "texto": "El tiempo se escurre,\nComo arena entre los dedos,\nUn río constante.\n¿Qué queda tras el paso?\nUn eco de lo vivido.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas ya caídas,\nBajo un cielo gris plomizo,\nMelancolía dulce.\nEl viento sopla suavemente,\nAnunciando el frío invierno.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Alma en sombra",
+            "texto": "La luna me mira,\nTestigo de mi silencio,\nSoledad profunda.\nUn vacío inmenso y frío,\nBuscando un rayo de luz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "vacío"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "Viento en las hojas,\nBailan sauces al río,\nLuz esmeralda,\nCanta el agua su canción,\nVida en el bosque despierta.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "bosque"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce Mirada",
+            "texto": "Tus ojos café,\nUn universo en tu alma,\nMiel en la mañana,\nCalidez en tu sonrisa,\nMi corazón siempre tuyo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Arena Fugaz",
+            "texto": "El tiempo se va,\nComo arena entre los dedos,\nUn eco lejano,\nRecuerdos que ya no están,\nBúsqueda eterna en la vida.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño Dorado",
+            "texto": "Hojas que caen,\nTapiz ocre en el suelo,\nAire frío llega,\nEl sol se esconde temprano,\nUn nuevo ciclo comienza.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra Lunar",
+            "texto": "Luna en la noche,\nCompañera silenciosa,\nFrío en mi alma,\nAnhelo una mano amiga,\nVacío que no se llena.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "Brisa entre hojas,\nEl sauce llora en el río,\nEco de la tarde,\nUn vuelo rasante dibuja\nSombras que el agua refleja.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "sauce"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada eterna",
+            "texto": "Ojos que me ven,\nUn lazo invisible y fuerte,\nAlma con mi alma,\nDos mundos que se comprenden,\nEn silencio, pura magia.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El tiempo es río",
+            "texto": "Arena se va,\nCon cada segundo que pasa,\nEl ayer se esfuma,\n¿Qué huellas quiero dejar yo?\nAntes de que el río cese.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "efímero"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno gris",
+            "texto": "Cielo plomizo,\nLas ramas desnudas tiemblan,\nFrío que penetra,\nSueña la tierra dormida\nCon el sol que ha de volver.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "hibernación"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco vacío",
+            "texto": "Pasos sin rumbo,\nEn la inmensidad urbana,\nAlma solitaria,\nAnhelo de una presencia,\nUn calor que me rescate.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "anhelo"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Hojas al viento",
+            "texto": "Rojo el arce danza,\nBailando con el otoño,\nSusurro al caer.\nLa tierra ya se prepara,\nPara el sueño invernal profundo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce Mirada",
+            "texto": "Tus ojos brillan,\nUn universo profundo,\nMe pierdo en ellos.\nUn lazo invisible une,\nNuestras almas, amor eterno.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo Fugaz",
+            "texto": "Las horas se van,\nComo arena entre los dedos,\nEfímero andar.\n¿Qué legado dejaremos,\nTras este breve paso aquí?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Verano Cálido",
+            "texto": "Sol en su cenit,\nLa cigarra canta fuerte,\nCalor en la piel.\nLas flores abren sus alas,\nBajo el cielo, un sueño azul.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "verano"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra Larga",
+            "texto": "Silencio profundo,\nLa luna es mi compañía,\nEn la noche fría.\nUn eco en la lejanía,\nSoledad, fiel compañera.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde despertar",
+            "texto": "Brota la hierba\nTras la lluvia, un canto dulce\nEl sol se asoma\nGotas brillan en las hojas\nLa mañana reverdece.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Silencio tuyo",
+            "texto": "Tus ojos lejos\nEl silencio es una herida\nNo estás aquí hoy\nAnhelo tu suave voz\nMi alma te necesita.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Ecos del tiempo",
+            "texto": "El tiempo vuela\nSombras largas se dibujan\nRecuerdos vivos\n¿Qué huellas dejaremos?\nPolvo somos, polvo iremos.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "efímero"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas que caen",
+            "texto": "Otoño dorado\nLas hojas caen lentamente\nViento las arrastra\nUn tapiz ocre en el suelo\nEl invierno ya se siente.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Luna solitaria",
+            "texto": "Frío en el alma\nLa luna, blanca y distante\nNadie a mi lado\nUn eco en la oscuridad\nProfunda, inmensa quietud.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "aislamiento"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río de plata",
+            "texto": "Cae la fina lluvia,\nEl río canta una canción,\nVerde melodía,\nEl sauce llora en la orilla,\nSus ramas besan al agua.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "río"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce espera",
+            "texto": "Tu voz, un susurro,\nEn mi alma deja una huella,\nAnsío tu regreso,\nComo la flor busca al sol,\nMi corazón te reclama.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "anhelo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Efímera vida",
+            "texto": "Polvo somos, viento,\nUn instante en la memoria,\nBreve parpadeo,\n¿Qué sentido tiene el viaje?\nBuscando eternidad vana.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas que se caen,\nEl viento las lleva lejos,\nOcre sinfonía,\nEl sol se esconde temprano,\nLa tierra duerme en silencio.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sola en la noche",
+            "texto": "La luna me mira,\nUn faro en la inmensidad,\nNoche silenciosa,\nEco de pasos lejanos,\nMi alma busca compañía.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "aislamiento"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "Hojas al viento,\nBailan suaves melodías,\nEl sol las besa,\nUn río canta al pasar,\nLa paz llena el corazón.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "bosque"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco de tu voz",
+            "texto": "Tu voz me llama,\nUn eco en la lejanía,\nAnsío tu piel,\nLa noche se vuelve larga,\nSin tu calor, frío tengo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "distancia"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "Arena en la mano,\nEl tiempo se escurre así,\nRecuerdos quedan,\nMirando hacia el horizonte,\n¿Qué huella quiero dejar?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno blanco",
+            "texto": "Copos de nieve,\nCubren el mundo en silencio,\nBlanca quietud hay,\nEl río se duerme ahora,\nSoñando con la primavera.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "frio"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra lunar",
+            "texto": "Luna en el cielo,\nCompañera silenciosa,\nMi sombra fiel,\nCaminando en la penumbra,\nUn suspiro en la noche.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Brisa Marina",
+            "texto": "Olas susurran,\nArena tibia en mis pies,\nCielo se diluye.\nGaviota en vuelo audaz,\nMar, eterno confidente.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "mar"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco del Alma",
+            "texto": "Tu voz, dulce eco,\nEn mi corazón resuena,\nNoche estrellada.\nAnhelo tu cercanía,\nAmor, llama que no cesa.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "anhelo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Fragmentos",
+            "texto": "El tiempo se va,\nRecuerdo un sueño perdido,\nPasado fugaz.\n¿Qué sentido hallar ahora?\nBuscar la luz en la sombra.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño Dorado",
+            "texto": "Hojas que caen,\nTonalidades de ocre,\nViento susurrante.\nEl verano se ha marchado,\nLlega el frío taciturno.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Silencio Interior",
+            "texto": "La noche oscura,\nUn grillo canta a lo lejos,\nVacío profundo.\nSoledad me acompaña,\nEn el alma, frío invierno.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "vacío"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Alba en la niebla",
+            "texto": "Gris amanecer\nNiebla abrazando al sauce\nLuz tenue asoma\nEl río, lento, refleja\nUn nuevo día que nace",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "niebla"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada fugaz",
+            "texto": "Ojos encontré\nEn la danza de la gente\nUn instante solo\nPero el alma reconoció\nLa llama que nunca muere",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "El tiempo vuela",
+            "texto": "Arena en la mano\nSe escapa entre los dedos\nEl tiempo es así\nUn constante devenir\n¿Qué legado dejaré?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "impermanencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas que caen\nAlfombrando los senderos\nAmarillo y ocre\nEl viento trae melodías\nDe un tiempo que se va",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra lunar",
+            "texto": "Silencio profundo\nLa luna, fría, me observa\nSola en la noche\nMi alma busca consuelo\nEn el eco del silencio",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "aislamiento"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "Brisa en el pinar\nEl viento suave cantando\nUn eco lejano\nLas hojas danzan serenas\nEl bosque duerme tranquilo",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "bosque"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada eterna",
+            "texto": "Tus ojos me ven\nUn universo infinito\nEn tu alma me pierdo\nDos mundos que se entrelazan\nAmor que nunca se apaga",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Ecos del tiempo",
+            "texto": "El reloj avanza\nMarcando cada segundo\nRecuerdos que son\nUn pasado que ya se fue\nY un futuro incierto aún",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas de otoño",
+            "texto": "Amarillo y ocre\nBailan las hojas al viento\nEl frío se acerca\nLa tierra se va a dormir\nEsperando la primavera",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra y silencio",
+            "texto": "La luna me ve\nEn la noche silenciosa\nCompañera fiel\nMi alma encuentra la calma\nEn esta quieta soledad",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "noche"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río susurrante",
+            "texto": "Agua que discurre\nBajo el sauce, lento va\nPiedras brillan hoy\nReflejos del cielo azul\nLa paz encuentra mi ser",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "río"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada fugaz",
+            "texto": "Ojos que me ven\nUn instante, casi nada\nBasta para amar\nUn fuego dentro se enciende\nAnhelo verte otra vez",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo que se va",
+            "texto": "Arena en la mano\nEscurridiza, se va\nRecuerdos quedan\n¿Qué he hecho con mi existir?\nUn eco en la soledad",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas caen ya",
+            "texto": "Otoño ha llegado\nLas hojas pintan el suelo\nDe ocre y carmín\nViento frío las arrastra\nUn ciclo vuelve a empezar",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Noche estrellada",
+            "texto": "Silencio profundo\nBajo un manto de estrellas\nLa luna me ve\nSolo en la inmensidad\nMi alma busca un consuelo",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Brisa en el sauce",
+            "texto": "Verde susurro,\nBrisa que al sauce acaricia,\nHoja temblorosa.\nEl río lento reflejo,\nEl cielo azul se dibuja.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "viento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada furtiva",
+            "texto": "Ojos que se cruzan,\nUn instante, una promesa,\nCallado latido.\nSiento el alma que florece,\nCon una dulce melodía.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "anhelo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Arena del tiempo",
+            "texto": "Grano tras grano,\nEl tiempo fluye constante,\nRecuerdo fugaz.\n¿Qué legado dejo atrás?\nSilencio, eco en la memoria.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas que caen,\nDanza final en el viento,\nOcre tapiz.\nEl sol se esconde temprano,\nInvierno pronto vendrá ya.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "madurez"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Luz en la ventana",
+            "texto": "Noche estrellada,\nUna vela silenciosa,\nCalma en la sombra.\nAnhelo una compañía,\nEn este inmenso universo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Cielo de otoño",
+            "texto": "Hojas al viento,\nDanzan bajo el sol pálido,\nOtoño dorado,\nLa tierra se viste ocre,\nPronto la nieve caerá.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "hojas caídas"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Tu dulce voz",
+            "texto": "Tu voz, melodía,\nCalma el alma en la tormenta,\nRefugio seguro,\nEn tus ojos hallo paz,\nMi corazón siempre tuyo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "dulzura"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "Reloj que no para,\nEl tiempo, arena en la mano,\nRecuerdos se van,\n¿Qué legado dejaré?\nUn eco en la eternidad.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "legado"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Primavera azul",
+            "texto": "Cielo celeste,\nFlores abren sus colores,\nEl sol nos sonríe,\nLas aves cantan alegres,\nLa vida renace hoy.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "renacimiento"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Noche oscura",
+            "texto": "Luna solitaria,\nMiro el cielo estrellado,\nUn silencio denso,\nLa noche me abraza suave,\nAnhelo un alma gemela.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "anhelo"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río Susurrante",
+            "texto": "Agua que fluye,\nCantos de la orilla verde,\nPiedras que besar\nEl sol dibuja senderos,\nAlma del bosque revive.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "río"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada Robada",
+            "texto": "Ojos que se cruzan,\nUn instante eterno allí,\nSilencio cómplice.\nUn deseo que palpita,\nCorazón que quiere hablar.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor platónico"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Ecos del Tiempo",
+            "texto": "¿Quién fui, quién seré?\nSombras danzan en la pared,\nEl ayer se esfuma.\nLa memoria es un río,\nSiempre fluyendo hacia el mar.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño Dorado",
+            "texto": "Hojas que se caen,\nDanza final en el viento,\nAdiós al verano.\nEl invierno se aproxima,\nSueños de nieve y quietud.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Luna Solitaria",
+            "texto": "Sola en la noche,\nUn espejo de mi alma,\nSilencio profundo.\nLa ciudad duerme tranquila,\nYo velo, buscando un faro.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Cielo al amanecer",
+            "texto": "Rosa pálido,\nEl sol lento se levanta,\nLuz dorada cae.\nLas nubes se encienden ya,\nUn nuevo día comienza.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amanecer"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Silencio roto",
+            "texto": "Tu voz me llama,\nEn el silencio profundo,\nMi alma responde.\nUn eco de sentimientos,\nAmor que nunca se fue.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "recuerdo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "Arena en mis manos,\nEl tiempo vuela ligero,\nNo puedo atraparlo.\nCada instante es un tesoro,\nQue debo siempre guardar.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "inevitable"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas de otoño",
+            "texto": "Viento las arrastra,\nHojas rojas, amarillas,\nAlfombra dorada.\nEl invierno se avecina,\nUn sueño de nieve blanca.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra callada",
+            "texto": "La luna me ve,\nBajo su luz solitaria,\nMi sombra me abraza.\nUn consuelo silencioso,\nEn la noche sin final.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "nostalgia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Viento susurrante",
+            "texto": "Árboles se inclinan\nBajo el viento que susurra\nMelodía verde\nLas hojas danzan al son\nDel tiempo que va pasando",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "viento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada fugaz",
+            "texto": "En tus ojos veo\nUn universo profundo\nMisterio y bondad\nUn instante de conexión\nUn amor que quiere nacer",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Breve instante",
+            "texto": "El tiempo se escurre\nEntre los dedos sin más\nFugaz realidad\n¿Qué huella dejaremos hoy?\nEn este efímero andar",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas amarillas\nTapizan la suave tierra\nUn manto ocre es\nEl aire frío ya se siente\nAntesala al crudo invierno",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra y silencio",
+            "texto": "La luna me mira\nEn la noche silenciosa\nCompañera fiel\nEn la vasta inmensidad\nEncuentro mi propio ser",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde Susurro",
+            "texto": "El sauce llora,\ncon hojas de esmeralda,\nbrisas de abril.\nBailan al son del viento,\nun canto de la mañana.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "sauce"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco del Corazón",
+            "texto": "Tu voz resuena,\nen el silencio profundo,\nun eco fiel.\nDos almas entrelazadas,\nbajo un cielo estrellado.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "pasión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo Fugaz",
+            "texto": "Arena del río,\nse escurre entre los dedos,\nun breve instante.\n¿Qué huellas dejaré atrás,\nen este viaje incierto?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño Dorado",
+            "texto": "Hojas que caen,\nun manto de color miel,\ncubre el jardín.\nEl sol se esconde temprano,\nrecuerdo de un verano.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "melancolía"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Luna Solitaria",
+            "texto": "La luna brilla,\nun faro en la noche oscura,\nfría y distante.\nAnhelo una compañía,\nun cálido y tierno abrazo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "anhelo"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Viento suave",
+            "texto": "Cielo azul claro,\nViento susurra entre hojas,\nÁrboles danzan,\nEl sol calienta la piel,\nUn día perfecto al fin.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "verano"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce espera",
+            "texto": "Tu rostro sueño,\nCada instante sin tu voz,\nUn largo camino,\nEl eco de tu recuerdo,\nMi alma anhela tu amor.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "Arena en mis manos,\nEl tiempo fluye constante,\nRecuerdos vagos,\n¿Qué legado dejaré yo?\nVida, misterio sin fin.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas doradas",
+            "texto": "Otoño llegó,\nLas hojas caen al suelo,\nColor carmesí,\nEl frío invierno se acerca,\nLa tierra duerme en paz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Noche oscura",
+            "texto": "Luna menguante,\nLa sombra me acompaña,\nUn grito sordo,\nEl silencio me consume,\nSoledad, mi fiel amiga.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tristeza"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Hojas al viento",
+            "texto": "Viento las lleva,\nhojas secas ya caídas,\nun baile lento.\nOtoño viste de oro,\nla tierra duerme ya en paz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Silencio amado",
+            "texto": "Tu mano en la mía,\nun mundo en este contacto,\nsin hablar, sentir.\nTus ojos son mi refugio,\namor que siempre me da.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Ecos del tiempo",
+            "texto": "¿Qué es la memoria?\nSombras de un ayer lejano,\nSueños desvanecidos.\nEl tiempo es un río lento,\nllevando todo al final.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "pasado"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Lluvia de abril",
+            "texto": "Cielo gris llora,\nabril despierta la tierra,\nverde renacer.\nGotas lavan el invierno,\nla vida brota otra vez.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Luna solitaria",
+            "texto": "La luna me mira,\nun rostro pálido y frío,\nen la noche azul.\nComo ella, solo me siento,\nen este mundo tan vasto.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "aislamiento"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde renacer",
+            "texto": "Brota la hoja nueva,\nBajo el sol tibio que dora,\nEl mundo despierta.\nEl río murmura alegre,\nLa vida florece en paz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco del silencio",
+            "texto": "Tu dulce mirada,\nReflejo en el agua quieta,\nUn eco profundo.\nMi alma anhela tu cercanía,\nEn este silencio eterno.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "deseo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Arenas del tiempo",
+            "texto": "El tiempo es arena,\nQue se escurre entre los dedos,\nDejando memorias.\n¿Qué huellas dejaré en la vida?\n¿Qué legado perdurará?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Viento otoñal",
+            "texto": "Hojas que caen,\nBailando con el viento cruel,\nUn triste adiós.\nEl sol se esconde tras nubes,\nInvierno se acerca ya.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Alma errante",
+            "texto": "Vacío profundo,\nUn alma perdida en la niebla,\nSin rumbo ni hogar.\nLa luna es mi único faro,\nEn esta noche sin fin.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "desamparo"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Hojas al viento",
+            "texto": "Otoño ya está,\nLas hojas caen sin cesar,\nTapiz dorado,\nEl viento las lleva lejos,\nUn nuevo ciclo vendrá.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada eterna",
+            "texto": "Tus ojos café,\nUn brillo que me hace amar,\nProfundo sentir,\nEncuentro en ti mi refugio,\nAmor que siempre ha de ser.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor verdadero"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "El tiempo se va,\nComo arena entre los dedos,\nNo puedo frenar,\nDebo aprender a vivir,\nCada instante disfrutar.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "impermanencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Flor de invierno",
+            "texto": "Frío invernal,\nUna flor busca la luz,\nEntre la blancura,\nResiste con valentía,\nUn renacer esperará.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Silencio profundo",
+            "texto": "La noche callada,\nSolo el eco de mi voz,\nEn la oscuridad,\nUn alma que busca paz,\nSoledad acompañada.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "aislamiento"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "Hojas al caer\nBajo el viento suavemente\nBaila la luz sol\nEl bosque en calma respira\nVida que renace al fin",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "bosque"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco en el alma",
+            "texto": "Tu dulce mirar\nUn eco profundo siento\nEn mi corazón\nUn lazo que nos conecta\nAmor que florece hoy",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "mirada"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Efímera sombra",
+            "texto": "El tiempo es fugaz\nComo la arena en la mano\nNada perdura aquí\nBuscar la esencia en la vida\nAntes que llegue el final",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Lluvia tardía",
+            "texto": "Cae la lluvia gris\nSobre el campo ya dorado\nOtoño llegó\nEl viento frío lo anuncia\nHojas secas en el suelo",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Silencio profundo",
+            "texto": "La noche es oscura\nSolo el silencio me abraza\nEn la soledad\nAnhelo una voz amiga\nQue rompa este triste son",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "noche"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Viento Susurrante",
+            "texto": "Verde es la colina\nEl viento la acaricia hoy\nSuave melodía\nLas hojas danzan al son\nDel tiempo, eterno vaivén",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "viento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce Mirada",
+            "texto": "Tus ojos, luceros\nEn la noche oscura brillan\nCalmando mi ser\nProfundo amor que me inunda\nEterna llama que arde",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "mirada"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Breve Instante",
+            "texto": "La vida es un río\nCorre sin mirar atrás\nEfímero instante\n¿Qué huellas dejaré yo aquí?\nUn eco en la inmensidad",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno Blanco",
+            "texto": "Cae blanca la nieve\nCubriendo todo el paisaje\nSilencio profundo\nEl mundo duerme y espera\nQue vuelva a brotar el sol",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Lejos de Casa",
+            "texto": "Sola en la noche\nRecuerdo mi antiguo hogar\nLejos, muy lejos\nLa luna me acompaña hoy\nEn este triste caminar",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Viento en el sauce",
+            "texto": "Verde susurro,\nBaila el sauce al viento fiel,\nHoja temblorosa.\nEl río canta su son,\nCalma en la tarde serena.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "sauce"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Silencio amado",
+            "texto": "Tu mano en la mía,\nUn silencio que lo dice,\nToda la verdad.\nNo hacen falta más palabras,\nSólo el latido cercano.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "abrazo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Ecos del tiempo",
+            "texto": "Huellas en la arena,\nEl tiempo, río constante,\nBorrando memorias.\n¿Qué queda al final, me pregunto,\nMás que un tenue recuerdo?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "efimero"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas que se caen,\nDanza ocre en el vacío,\nMelancolía dulce.\nEl sol se despide ya,\nUn invierno se avecina.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Lluvia en la ventana",
+            "texto": "Gotas resbalando,\nUn eco en la habitación,\nSoledad profunda.\nEl alma busca un consuelo,\nEn el silencio que hiere.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Brisa en el sauce",
+            "texto": "Verde susurro,\nSauce llorón al viento da,\nCanta la brisa,\nSus hojas bailan sin fin,\nUn eco suave y sereno.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "viento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce recuerdo",
+            "texto": "Tu dulce mirada,\nEn mi alma siempre estará,\nUn eco suave,\nDe un amor puro y sincero,\nQue nunca jamás morirá.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "mirada"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "El tiempo se va,\nComo arena entre los dedos,\nQué rápido vuela,\nDejando atrás solo huellas,\nEn la memoria del ser.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno frío",
+            "texto": "Hielo en la ventana,\nEl mundo blanco se tornó,\nFrío silencio,\nLa nieve cubre los campos,\nUn sueño blanco sin fin.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "nieve"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sola en la noche",
+            "texto": "Luna en el cielo,\nCompañera silenciosa,\nEn la oscuridad,\nSola con mis pensamientos,\nBuscando un nuevo amanecer.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río Susurrante",
+            "texto": "Agua que discurre\nEntre piedras, canta suave\nUn eco lejano\nEl sauce llora su sombra\nEn la tarde que se va.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "río"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco de tu voz",
+            "texto": "Tu nombre resuena\nEn el silencio profundo\nAnhelo tu piel\nBajo la luna plateada\nMi corazón busca tu luz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Espejo del alma",
+            "texto": "La vida es un sueño\nUn reflejo en agua turbia\n¿Qué es la realidad?\nBuscamos respuestas claras\nEn el eco de la duda.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas de otoño",
+            "texto": "Rojos y amarillos\nTapizan la tierra ahora\nEl viento las lleva\nUn susurro melancólico\nAnuncia el invierno ya.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra Lunar",
+            "texto": "La luna me mira\nEn la noche solitaria\nUn frío silencio\nMe abraza con sus cadenas\nUn alma que busca amor.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verdor sutil",
+            "texto": "Brota la hierba\nBajo el sol, danza el viento\nColor esmeralda\nUn susurro en la arboleda\nVida renace otra vez",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco distante",
+            "texto": "Tu voz se aleja\nComo un canto en la memoria\nRecuerdo amargo\nEn el alma queda el eco\nDe un amor que ya no está",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "despedida"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Senda incierta",
+            "texto": "Pasos que dudan\nEn el camino sin fin\n¿A dónde iré yo?\nLa brújula está rota\nEl destino es un misterio",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "destino"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas doradas",
+            "texto": "Amarillo ocre\nTapiza la tierra el suelo\nEl viento susurra\nMelancolía del otoño\nEl invierno llegará pronto",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Luna plateada",
+            "texto": "Noche estrellada\nLa luna es mi compañía\nSilencio profundo\nEn la quietud de la noche\nUn consuelo en mi soledad",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "insomnio"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río Susurrante",
+            "texto": "Agua que discurre\nLamiendo piedras antiguas\nFrescor matutino\nEl sol dora las orillas\nVida que fluye sin fin",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "río"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada Fugaz",
+            "texto": "Ojos que se cruzan\nUn instante, una promesa\nSilencio profundo\nEl corazón se desboca\nUn amor casi secreto",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor platónico"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo Fugaz",
+            "texto": "Arena en la mano\nSe escurre sin detenerse\nLa vida es un río\nCorriendo hacia el gran océano\n¿Qué huellas dejo al pasar?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "transitoriedad"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno Blanco",
+            "texto": "Copos delicados\nCubren el mundo de blanco\nSilencio profundo\nUn manto de paz y calma\nLa tierra duerme feliz",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "nieve"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Alma Errante",
+            "texto": "Luna solitaria\nEn la noche oscura brilla\nUn faro lejano\nGuía a los viajeros tristes\nEn busca de un nuevo hogar",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "anhelo"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Viento susurrante",
+            "texto": "Hojas que se mecen,\nEl viento canta una canción,\nÁrboles danzan,\nUn eco en la lejanía,\nEl otoño vuelve a nacer.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "viento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada fugaz",
+            "texto": "Tus ojos me ven,\nUn instante de conexión,\nMi alma se enciende,\nEl tiempo se vuelve eterno,\nUn secreto entre tú y yo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Silencio interior",
+            "texto": "Calma en mi ser,\nUn lago de tranquilidad,\nMente sosegada,\nBuscando la verdad pura,\nEl eco de la eternidad.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "silencio"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Lluvia de abril",
+            "texto": "Gotas en el cristal,\nAbril llora suavemente,\nFlores renacen,\nEl cielo se vuelve grisáceo,\nLa vida vuelve a despertar.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco distante",
+            "texto": "Sombra en la pared,\nEl silencio me acompaña,\nNadie a mi lado,\nUn eco de melancolía,\nEn la inmensidad del ser.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Hojas al viento",
+            "texto": "Vuela hoja seca\nBailando con el otoño\nUn efímero\nSusurro al árbol desnudo\nAntes que el invierno venga",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce espera",
+            "texto": "Tu mano, mi paz\nUn roce que lo ilumina\nMi alma suspira\nAnhelo de tus besos\nAmor que siempre perdura",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "anhelo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Ecos del tiempo",
+            "texto": "¿Qué es la memoria?\nFragmentos de un sueño viejo\nPasado que duele\nUn susurro entre las sombras\nRealidad desvanecida",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "recuerdo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Flores de estío",
+            "texto": "El sol radiante\nColores vivos vibrando\nEn cada jardín\nAbejas buscan el néctar\nVida que el verano ofrece",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "verano"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Luna solitaria",
+            "texto": "Noche silenciosa\nLa luna, blanca y distante\nEn el cielo azul\nUn faro en la oscuridad\nCompañera de mi alma",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "insomnio"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Sol de la mañana",
+            "texto": "El alba despierta\nOro líquido en la hierba\nUn cálido aliento\nEl rocío aún dormido\nBeso sutil de la luz",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amanecer"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Silencio compartido",
+            "texto": "Tu mano en la mía\nPalabras no son necesarias\nEl alma se une\nMás allá de lo visible\nUn lazo eterno de amor",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "conexión"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Ecos del pasado",
+            "texto": "Sombras del ayer\nSusurros de lo que fue\nUn espejo roto\nEn busca de la verdad\n¿Quién soy en este presente?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "identidad"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas que se caen\nBailando en el suave viento\nAdiós, verdes días\nLa tierra se viste ocre\nUn tiempo para la espera",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Alma errante",
+            "texto": "Vacío profundo\nUn eco en la inmensidad\nAusencia palpable\nBuscando un faro en la noche\nAnhelo de un nuevo hogar",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "desarraigo"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Brisa en el Sauce",
+            "texto": "Verde susurro,\nel sauce llorón se mece,\nleve melodía.\nEl viento trae su secreto,\nhojas danzan en la tarde.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "viento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco en el Corazón",
+            "texto": "Tu dulce mirada,\nprofundo eco en mi alma,\nuniverso nuevo.\nEn cada latido te siento,\namor eterno floreciendo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "mirada"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Caminos Divididos",
+            "texto": "¿Cuál es mi destino?\ndos senderos divergentes,\nla duda persiste.\n¿Qué voz escuchar en la bruma?\nEl tiempo dirá la verdad.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "destino"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno Silente",
+            "texto": "Blanca serenidad,\nel campo duerme en silencio,\nfrío cristalino.\nEl sol, pálido recuerdo,\nla vida espera despertar.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "nieve"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra Lunar",
+            "texto": "Bajo la luna,\nun alma errante suspira,\nla noche es larga.\nUn eco vacío resuena,\nsoledad, fiel compañera.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "melancolía"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río de Jade",
+            "texto": "Agua que discurre\nBajo sauces melancólicos\nSusurro sutil\nLa piedra guarda secretos\nDel tiempo que siempre fluye",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "río"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco del Alma",
+            "texto": "Tu voz en el viento\nResuena en mi corazón\nUn eco profundo\nDos almas entrelazadas\nAmor eterno y sincero",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Instantes Fugaces",
+            "texto": "Efímera vida\nUn suspiro en la tormenta\n¿Qué queda al final?\nRecuerdos que nos definen\nY el eco de nuestra voz",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "vida"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño Dorado",
+            "texto": "Hojas que se caen\nBajo un cielo gris plomizo\nEl viento las lleva\nEl invierno se avecina\nUn letargo silencioso",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra Longeva",
+            "texto": "Vacío en el alma\nLa noche me envuelve lento\nUna sombra soy\nEn la inmensidad oscura\nSoledad, mi fiel amiga",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde aliento",
+            "texto": "Musgo en la piedra,\nBrisa suave, aroma a pino,\nEl bosque respira,\nCantos de aves, luz serena,\nUn mundo nuevo florece.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "bosque"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce espera",
+            "texto": "Tu nombre, un eco,\nEn mi alma, suave melodía,\nLa noche es larga,\nAnhelo tu dulce mirada,\nEl tiempo lento se desliza.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Velo sutil",
+            "texto": "¿Qué es la verdad,\nsino un reflejo en el agua,\nUn sueño fugaz?\nBuscamos respuestas vanas,\nEn el silencio la encuentro.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "verdad"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas caen lentas,\nBailan al son del viento,\nEl aire es fresco,\nAdiós al sol del verano,\nOro y carmín, bello ocaso.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco distante",
+            "texto": "Vacío inmenso,\nLa noche me abraza fuerte,\nSolo una sombra,\nRecuerdos que me atormentan,\nUn grito sordo en el alma.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "nostalgia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Lluvia Tímida",
+            "texto": "Cielo gris plomizo,\nGotas besan la ventana,\nTierra huele a paz,\nEl jardín sediento bebe,\nVida nueva reverdece.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "lluvia"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco del Alma",
+            "texto": "Tu dulce mirada,\nUniverso descubierto,\nMi alma te anhela,\nEn silencio te idolatro,\nAmor puro, llama eterna.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor platónico"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Arenas del Tiempo",
+            "texto": "El tiempo se escurre,\nComo arena entre los dedos,\nVida fugaz vuela,\n¿Qué legado dejaré yo?\nUn eco en la memoria.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño Dorado",
+            "texto": "Hojas amarillas,\nBailan con el viento frío,\nEl sol se despide,\nLa tierra se duerme lenta,\nUn manto cubre su sueño.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Alma Errante",
+            "texto": "En la noche oscura,\nLa luna, mi fiel amiga,\nSola, pero fuerte,\nBuscando un nuevo camino,\nEn la inmensidad del ser.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad creativa"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Viento y hojas",
+            "texto": "Hojas al volar,\nBailan con brisa suave,\nOtoño ya está.\nSusurros entre las ramas,\nAdiós al verde del sol.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada eterna",
+            "texto": "Tus ojos brillan,\nUn universo profundo,\nMi alma se hunde.\nEn ellos encuentro paz,\nAmor que siempre perdura.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "El reloj avanza,\nCada segundo se va,\nLa vida es un río.\n¿Qué huellas dejaré yo?\nUn eco en la eternidad.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Lluvia de abril",
+            "texto": "Cielos grises lloran,\nLa tierra sedienta bebe,\nFlores renacen.\nUn despertar colorido,\nAbril, promesa de vida.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco distante",
+            "texto": "El silencio grita,\nEn la vasta inmensidad,\nUn alma perdida.\nBuscando un eco lejano,\nSoledad, fiel compañía.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "silencio"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Viento en la rama",
+            "texto": "Hojas susurran,\nBaila el viento en el árbol,\nVerde melodía,\nSol entre las ramas tiembla,\nOtoño ya cerca está.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "árbol"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada fugaz",
+            "texto": "Tu rostro veo,\nEn la multitud distante,\nMi aliento cesa,\nUna chispa, un breve instante,\nEl corazón se estremece.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo que fluye",
+            "texto": "Arena en mis manos,\nEl tiempo corre ligero,\nPasado se va,\n¿Qué futuro me espera?\nLa vida sigue su curso.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "pasado"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Nieve temprana",
+            "texto": "Primeros copos,\nBlanca alfombra silenciosa,\nInvierno llegó,\nEl mundo se vuelve blanco,\nLa tierra duerme en paz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco en la noche",
+            "texto": "Luna en el cielo,\nMi sombra me acompaña,\nUn grito lejano,\nEl silencio es tan profundo,\nNadie responde a mi voz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "silencio"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Viento y hojas",
+            "texto": "Hojas al viento\nBailan en suave remolino\nOtoño se acerca\nEl sol se va desvaneciendo\nMelancolía en el aire",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada fugaz",
+            "texto": "Un cruce de ojos\nUn instante eterno siento\nTu alma me llama\nEn silencio hablas de amor\nMi corazón se estremece",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo que huye",
+            "texto": "El reloj avanza\nLos días son arena fina\nQue entre dedos va\n¿Qué he hecho con este tiempo?\nLa pregunta sigue latente",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Lluvia de abril",
+            "texto": "Gotas en el cristal\nAbril trae llanto y verdor\nLa tierra despierta\nEl campo huele a florecer\nNueva vida en cada brote",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra lunar",
+            "texto": "Bajo la luna\nMi sombra es única amiga\nEl silencio reina\nUn eco de mi propio ser\nSoledad, dulce compañera",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Brisa en el sauce",
+            "texto": "Verde susurro,\nEl sauce al viento se mece,\nBrisa lo acaricia,\nSus hojas danzan al sol,\nUn baile suave y sereno.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "viento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce mirada",
+            "texto": "Tus ojos, luceros,\nIluminan mi camino,\nCalman mi tormenta,\nTu voz, un dulce susurro,\nMi alma encuentra la paz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "Arena en las manos,\nEl tiempo sigue su curso,\nNada se detiene,\nRecuerdos dulces y amargos,\nLa vida, un eterno fluir.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas amarillas,\nTapizan el sendero,\nEl aire es fresco,\nEl sol se esconde temprano,\nOtoño, belleza efímera.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra y silencio",
+            "texto": "Vacío en el alma,\nSombra que me acompaña,\nSilencio profundo,\nLa luna, única testigo,\nDe mi tristeza infinita.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "silencio"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Brisa en el sauce",
+            "texto": "Verde temblor,\nel viento susurra suave,\nhojas al bailar.\nReflejos de plata pura,\nun lago de calma y paz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "viento"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Recuerdo tenue",
+            "texto": "Tu voz se alejó,\nun eco en la memoria,\nun dulce pesar.\nMiradas que ya no existen,\nun fuego que no volverá.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Espejo del alma",
+            "texto": "¿Quién soy en verdad?\nUn cúmulo de instantes,\nuna sombra fiel.\nBuscando un significado,\nun eco en la inmensidad.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "identidad"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas al caer,\nTapizan el suelo ocre,\nun manto de luz.\nEl viento anuncia el invierno,\nun sueño en la quietud.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Noche vacía",
+            "texto": "Luna solitaria,\nun faro en la inmensidad,\niluminando.\nEl silencio es mi refugio,\nen la noche sin final.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "silencio"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río de Cristal",
+            "texto": "Agua que susurra,\nBajo el sauce llorón canta,\nReflejo del sol,\nSusurros de hojas caídas,\nLa paz en su lecho duerme.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "río"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Aliento Fugaz",
+            "texto": "Tu aroma en el aire,\nUn recuerdo persistente,\nCálido fulgor,\nLatidos que aún resuenan,\nAmor eterno en el alma.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "recuerdo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Sombra del Ayer",
+            "texto": "El tiempo es arena,\nSe escurre entre los dedos,\nMirando hacia atrás,\nLas huellas desdibujadas,\nUn futuro incierto espera.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño Dorado",
+            "texto": "Hojas que se caen,\nBailan en el viento frío,\nEl suelo se viste,\nDe ocres, rojos y dorados,\nLa tierra pronto dormirá.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco Silencioso",
+            "texto": "Vacío en mi ser,\nLa noche cubre mi alma,\nSilencio profundo,\nAnhelo un cálido abrazo,\nLa soledad me consume.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "silencio"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verdor silente",
+            "texto": "Hojas esmeralda,\nBajo el sol la brisa juega,\nSusurro del río,\nEl bosque guarda secretos,\nPaz que el alma necesita.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "bosque"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Recuerdo vivo",
+            "texto": "Tu dulce mirada,\nEn mi mente aún persiste,\nFuego que no apaga,\nAnhelo de tus abrazos,\nSueño con verte otra vez.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "nostalgia"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Efímera vida",
+            "texto": "Breve es la jornada,\nUn instante en la corriente,\nBusco la verdad,\nEntre sombras y destellos,\nEl sentido que me falta.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno blanco",
+            "texto": "Nieve silenciosa,\nCubre campos y ciudades,\nBlanco inmaculado,\nEl frío viento susurra,\nUn sueño de larga noche.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco distante",
+            "texto": "Vacío en el alma,\nSolo el silencio me abraza,\nLejos la alegría,\nMi corazón busca consuelo,\nEn la quietud de la noche.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "Hojas al viento\nBailan con suave canción\nÁrboles mecen\nEl sol su oro está vertiendo\nFrescor de la primavera",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada eterna",
+            "texto": "Tus ojos brillan\nComo estrellas en la noche\nMi alma se eleva\nEn un abrazo sincero\nAmor que nunca se acaba",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Efímera vida",
+            "texto": "Un sueño fugaz\nLa vida, breve destello\nSombra y luz mezcladas\n¿Qué sentido hay en buscar\nAlgo que al final se va?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "sentido"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas doradas",
+            "texto": "Otoño llega\nPintando el bosque de ocre\nVientos fríos soplan\nLas hojas caen lentamente\nLa tierra se prepara ya",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Silencio blanco",
+            "texto": "Nieve cayendo\nUn paisaje solitario\nEl alma se hunde\nEn la calma del invierno\nUn eco dentro de mí",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Hojas al viento",
+            "texto": "Amarillo sol,\nHojas caen suavemente,\nOtoño ya llegó,\nBrisa fría las dispersa,\nEl invierno se avecina.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Tu dulce mirada",
+            "texto": "Ojos que me ven,\nUn universo infinito,\nBrillo en tu mirar,\nMi alma encuentra consuelo,\nUn amor puro y sincero.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "El tiempo se va,\nComo arena entre los dedos,\nLa vida es un don,\nDebemos aprovecharla,\nAntes que sea demasiado tarde.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "vida"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Flor de cerezo",
+            "texto": "Sakura en flor,\nPrimavera renaciendo,\nSueño delicado,\nSu belleza es efímera,\nLa vida, un ciclo constante.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Noche oscura",
+            "texto": "Luna en el cielo,\nTestigo de mi silencio,\nSoledad profunda,\nEn la noche busco calma,\nAnhelo un nuevo amanecer.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "noche"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río Susurrante",
+            "texto": "Agua que discurre\nBajo sauces siempre verdes\nCanta una canción\nDe piedras lisas y musgo\nReflejo del cielo azul",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "río"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada Fugaz",
+            "texto": "Tus ojos brillaron\nUn instante de secreto\nMi alma se encendió\nEn un fuego silencioso\nUn amor recién nacido",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor platónico"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Ecos del Tiempo",
+            "texto": "Huellas en la arena\nBorradas por el mar cruel\nPasado que fue\nSolo queda el eco sordo\nDe lo que nunca volverá",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "impermanencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño Dorado",
+            "texto": "Hojas que se caen\nTapizan el suelo ocre\nViento frío sopla\nAnunciando la llegada\nDel invierno y su quietud",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Luz Solitaria",
+            "texto": "Una vela arde\nEn la noche silenciosa\nSombra compañera\nPensamientos que divagan\nEn el vacío profundo",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "aislamiento"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Hojas al viento",
+            "texto": "Otoño llegó\nHojas caen, baile lento\nEl viento las guía\nTapizan suelo dorado\nUn susurro de despedida",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "hojas"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Tu mirada",
+            "texto": "Ojos de miel, sí\nMe pierdo en su profundidad\nUn dulce refugio\nEncuentro paz y sosiego\nMi corazón, allí, vive",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "mirada"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "Arena en las manos\nSe escurre entre los dedos\nEl tiempo se va\n¿Qué he hecho con este instante?\nMañana, ¿qué traerá?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Primavera tibia",
+            "texto": "Despierta la flor\nEl sol calienta la piel\nCielo azul sin fin\nCanto alegre de los pájaros\nLa vida vuelve a nacer",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco vacío",
+            "texto": "Silencio profundo\nLa noche me acompaña hoy\nVacío en mi ser\nAnhelo una compañía\nUn eco que vuelva a hablar",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "La hierba se mece\nBajo el sol, su danza suave\nFrescor en el aire\nUn murmullo entre las hojas\nEl bosque entero respira",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "prado"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce espera",
+            "texto": "Tu nombre susurro\nCon la brisa de la tarde\nAnhelo tu voz\nLuz en la sombra, presente\nMi corazón solo por ti",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "añoranza"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Polvo de estrellas",
+            "texto": "Breve es nuestro ser\nUn instante en la memoria\nEl tiempo es eterno\n¿Qué legado dejaremos?\nUn eco en la inmensidad",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas doradas",
+            "texto": "El otoño llega\nPintando el mundo de ocre\nEl viento las lleva\nBajo un cielo melancólico\nLa tierra espera dormir",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco vacío",
+            "texto": "Silencio profundo\nEn la casa abandonada\nRecuerdos fugaces\nUn eco que ya no retorna\nMi alma en la sombra está",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "olvido"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Hojas al viento",
+            "texto": "Otoño llega,\nlas hojas caen danzando,\nun baile lento.\nEl viento las lleva lejos,\nun susurro en la distancia.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada eterna",
+            "texto": "Tus ojos veo,\nun universo profundo,\ndulce reflejo.\nMi alma se encuentra en ellos,\namor eterno, sin final.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "El tiempo vuela,\ncada instante se desliza,\nun río lento.\n¿Qué huellas dejaré atrás?\n¿Cuál será mi legado aquí?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Primer deshielo",
+            "texto": "El sol regresa,\nel hielo empieza a ceder,\nagua que fluye.\nPromesa de nueva vida,\nla primavera renace.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Noche oscura",
+            "texto": "La luna mengua,\nla noche extiende su manto,\nun frío abrazo.\nMi alma busca compañía,\nen la inmensidad del ser.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Cielo de otoño",
+            "texto": "Hojas doradas,\nBajan lentas al camino,\nAire ya es frío,\nUn adiós silencioso,\nDel verano que se ha ido.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce mirada",
+            "texto": "Tus ojos miel,\nUn universo infinito,\nMe pierdo en ellos,\nCalma encuentro a tu lado,\nAmor eterno florece.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Breve instante",
+            "texto": "Un parpadeo,\nLa vida pasa volando,\nValorar el hoy,\nSin mirar hacia el pasado,\nNi al futuro incierto aún.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Blanco invierno",
+            "texto": "Nieve cubriendo,\nTodo el campo se ha dormido,\nSilencio blanco,\nEsperando la primavera,\nQue despierte con su luz.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco vacío",
+            "texto": "Sola en la noche,\nEl silencio es mi canción,\nVacío en el alma,\nAnhelando compañía,\nUn eco sin contestación.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verdor sutil",
+            "texto": "Musgo en la piedra\nUn eco de verde profundo\nLa lluvia canta\nUn susurro entre las hojas\nEl bosque entero respira",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "bosque"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada fugaz",
+            "texto": "Ojos que brillan\nUn instante, dulce encuentro\nEl tiempo se va\nQueda un eco en el alma\nUn deseo que me quema",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor imposible"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Efímera sombra",
+            "texto": "Polvo de estrellas\nSomos sueño que se desvanece\nLa vida es breve\nUn suspiro en el vacío\nUn eco lejano y triste",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "existencia"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas que caen\nDanza lenta en el ocaso\nViento de octubre\nEl árbol desnudo espera\nQue vuelva la primavera",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco distante",
+            "texto": "Vacío profundo\nUn silencio que me ahoga\nNadie responde\nSolo el viento en la ventana\nMi alma llora en la sombra",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río de plata",
+            "texto": "Agua que susurra,\nReflejos del cielo azul,\nLa roca lo abraza,\nBajan gotas, lento son,\nEl valle reverdece ya.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "rio"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce espera",
+            "texto": "Tu nombre en mi voz,\nUn eco que me hace bien,\nTe espero aquí yo,\nEl tiempo se vuelve ilusión,\nTu mano, mi dulce calor.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Viejo reloj",
+            "texto": "Las horas se van,\nEn un tic tac constante,\nRecuerdos del ayer,\n¿Qué será de mi futuro?\nUn eco en la inmensidad.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Hojas de otoño",
+            "texto": "Viento que las lleva,\nBailando en el aire van,\nUn manto dorado,\nEl invierno pronto vendrá,\nNaturaleza duerme ya.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Noche oscura",
+            "texto": "Luna silenciosa,\nCompañera en la distancia,\nMiro las estrellas,\nSiento un vacío profundo,\nBuscando luz en la verdad.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Sol en la montaña",
+            "texto": "Picos nevados,\nBajo el sol un resplandor,\nCalma silenciosa.\nEl viento suave susurra,\nSecretos de la altura.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "montañas"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce anhelo",
+            "texto": "Tu dulce mirada,\nUn eco en mi corazón,\nDeseo cercano.\nAnhelo tus suaves manos,\nEn la noche, dulce amor.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "deseo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "Hojas que caen,\nEl tiempo sigue su andar,\nVida que se escurre.\nRecuerdos del ayer,\nEn el presente, aprender.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno frío",
+            "texto": "Blanco silencio,\nLa nieve cubre el jardín,\nUn sueño helado.\nEl fuego en la chimenea,\nCalienta el alma dormida.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sola en la orilla",
+            "texto": "Olas rompientes,\nEn la arena mis huellas,\nVacío profundo.\nMiro al horizonte gris,\nSoledad, fiel compañera.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "playa"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Brisa marina",
+            "texto": "Olas susurran,\nSalpican la arena gris,\nAlgas al sol,\nUn canto de gaviotas,\nEl mar, inmenso y azul.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "mar"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada fugaz",
+            "texto": "Tus ojos brillan,\nUn instante de conexión,\nAlma se enciende,\nCalla el mundo alrededor,\nSólo tu rostro veo yo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo perdido",
+            "texto": "¿Dónde se fue\nLa juventud que tuve ayer?\nEl eco responde,\nBuscando en vano el ayer,\nSolo cenizas puedo ver.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "juventud"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas caen lentas,\nVuelan con suave vaivén,\nEl sol se retira,\nNoches frías ya se sienten,\nInvierno pronto vendrá.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Noche vacía",
+            "texto": "Silencio profundo,\nLa luna es mi compañía,\nSombra en la pared,\nAnhelando una palabra,\nEn este invierno glacial.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "silencio"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Cielo de Invierno",
+            "texto": "Viento frío sopla\nLas nubes grises se alzan\nSobre el campo yerto\nUn cuervo canta su pena\nEn la rama desolada",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada Perdida",
+            "texto": "Tus ojos me ven\nPero ya no hay la pasión\nDe aquellos ayeres\nSolo un frío sentimiento\nEn tu alma que ya no siento",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "desamor"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo Fugaz",
+            "texto": "Arena del mar\nSe escurre entre los dedos\nEl tiempo que va\nSin poderlo detener\nUna vida efímera es",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "vida"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño Dorado",
+            "texto": "Hojas ya caídas\nTapizan el viejo sendero\nEl sol se despide\nCon colores anaranjados\nUn dulce adiós de la estación",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco en el Silencio",
+            "texto": "Vacía la casa\nSolo un eco persistente\nDe tu dulce voz\nLa soledad me acompaña\nEn este triste caminar",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "La lluvia fina,\nBaña el bosque en calma gris,\nUn verde renace,\nEl musgo suave despierta,\nVida tras la larga espera.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "lluvia"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco distante",
+            "texto": "Tu voz se ha ido,\nQueda el eco en mi alma,\nDulce melodía,\nQue en noches frías me arrulla,\nRecuerdo de amor eterno.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ausencia"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Arena fugaz",
+            "texto": "El tiempo se va,\nComo arena entre los dedos,\nUn breve instante,\n¿Qué huella dejo al pasar?\n¿Qué legado construire?",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas que caen,\nDanzan al viento otoñal,\nOro en el suelo,\nEl sol se esconde temprano,\nInvierno pronto llegará.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra silente",
+            "texto": "La luna asoma,\nY en la noche me acompaña,\nSombra silente,\nUn eco de mi existir,\nSolo en la inmensidad.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "noche"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Verde susurro",
+            "texto": "Viento entre hojas,\nUn canto suave y profundo,\nBosque se estremece,\nBajo el sol de la mañana,\nVida en cada nuevo brote.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "bosque"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco del alma",
+            "texto": "Tu voz me llama,\nEn el silencio te encuentro,\nLatido cercano,\nDos almas en un abrazo,\nAmor que nunca se acaba.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "abrazo"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "Arena en la mano,\nEl tiempo se escurre así,\nInstante eterno,\nBuscando el sentido oculto,\nEn cada paso del viaje.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno blanco",
+            "texto": "Cae blanca nieve,\nEl mundo duerme en silencio,\nFrío cristalino,\nEsperando la primavera,\nBajo un manto de quietud.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra larga",
+            "texto": "Sol se ha escondido,\nLa noche extiende su velo,\nSola mi alma,\nBuscando una luz lejana,\nEn el vasto cielo oscuro.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "noche"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Brisa de Otoño",
+            "texto": "Hojas al caer\nBailan con viento suave\nUn oro efímero\nEl sol se torna más frío\nLa tierra duerme ya bien",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "otoño"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce Mirada",
+            "texto": "Tus ojos, farol\nEn la noche oscura brillan\nMi alma encuentran,\nEn tu tierna voz encuentro\nLa paz que tanto busqué.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo Fugaz",
+            "texto": "Arena en la mano\nSe escurre sin que lo notes\nAsí la vida va\nUn instante, un suspiro\nHay que aprender a vivir",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Flor de Primavera",
+            "texto": "El sol ha vuelto\nEl campo se viste de color\nAves ya cantan\nLa flor abre sus pétalos\nEl aire fresco es amor",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "primavera"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra Larga",
+            "texto": "Lentamente cae\nLa noche, sombra se alarga\nUn grillo canta\nMi alma se siente vacía\nEn este oscuro rincón.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Río susurrante",
+            "texto": "Agua que discurre,\nEntre rocas, su canción,\nUn verde murmullo,\nEl sol besa su cristal,\nFrescor en la tarde azul.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "agua"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Dulce encuentro",
+            "texto": "Tus ojos, mi faro,\nGuían mi alma en la noche,\nUn lazo invisible,\nNuestros mundos convergiendo,\nUnión que el tiempo sostiene.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Breve instante",
+            "texto": "El tiempo es arena,\nEscapando entre los dedos,\nUn soplo fugaz,\n¿Qué huella dejaremos hoy?\nEco en la vasta eternidad.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Otoño dorado",
+            "texto": "Hojas que se caen,\nAlfombra ocre en el bosque,\nViento melodía,\nNaturaleza durmiente,\nEsperando la primavera.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "hojas"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Silencio profundo",
+            "texto": "Vacío en el alma,\nUn eco sin respuesta,\nLa noche me abraza,\nBuscando consuelo en vano,\nLuz que tarda en regresar.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "eco"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Brisas del mar",
+            "texto": "Olas que susurran\nUn canto eterno a la arena\nSol las ilumina\nReflejos de un cielo azul\nEl alma se siente en paz",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "mar"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Eco en el alma",
+            "texto": "Tu voz melodía\nResuena en mi corazón\nUn dulce recuerdo\nTus ojos, faros de amor\nMi destino es estar contigo",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "amor"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo fugaz",
+            "texto": "Las horas se van\nComo hojas en el otoño\nVida transitoria\n¿Qué legado dejaremos?\nUn eco en la eternidad",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno blanco",
+            "texto": "Cae blanca la nieve\nUn manto cubre los campos\nSilencio profundo\nEsperando la primavera\nRenacer, promesa fiel",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Sombra lunar",
+            "texto": "La luna me mira\nCompañera en la noche\nSilencio profundo\nAnhelo un tierno abrazo\nEn esta inmensa soledad",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    },
+    {
+        "subcategoria": "naturaleza",
+        "poema": {
+            "titulo": "Viento en el sauce",
+            "texto": "Verde se balancea,\nEl sauce al viento susurra,\nHojas temblorosas.\nBajo su sombra, el río,\nCanta suave melodía.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "sauce"
+        }
+    },
+    {
+        "subcategoria": "amor",
+        "poema": {
+            "titulo": "Mirada eterna",
+            "texto": "Tus ojos encuentro,\nProfundo mar de secretos,\nAlma descubierta.\nUn lazo invisible une,\nDos corazones latiendo.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "ojos"
+        }
+    },
+    {
+        "subcategoria": "reflexión",
+        "poema": {
+            "titulo": "Tiempo que se escapa",
+            "texto": "Arena en la mano,\nEl tiempo vuela ligero,\nSin mirar atrás.\n¿Qué huellas dejo al andar?\nUn eco en la lejanía.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "tiempo"
+        }
+    },
+    {
+        "subcategoria": "estaciones",
+        "poema": {
+            "titulo": "Invierno blanco",
+            "texto": "Cae la nieve fría,\nCubriendo el mundo en silencio,\nBlanco es el paisaje.\nEl fuego en la chimenea,\nCálido refugio encuentro.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "invierno"
+        }
+    },
+    {
+        "subcategoria": "soledad",
+        "poema": {
+            "titulo": "Eco en el vacío",
+            "texto": "Sola en la penumbra,\nMi voz se pierde en el aire,\nUn eco distante.\nLa noche me acompaña hoy,\nSilencio, fiel compañía.",
+            "tipo": "Tanka",
+            "palabra_clave_ingresada": "soledad"
+        }
+    }
+]
