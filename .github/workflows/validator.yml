@@ -1,0 +1,43 @@
+name: Validador y Corrector Poemario IA
+
+# Permisos necesarios para que el bot pueda hacer commit de los arreglos
+permissions:
+  contents: write
+
+on: [pull_request]
+
+jobs:
+  validate-and-fix:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        # CORRECCIÓN: Especificamos el repositorio origen del PR
+        repository: ${{ github.event.pull_request.head.repo.full_name }}
+        ref: ${{ github.head_ref }}
+        # fetch-depth: 0 asegura que tengamos todo el historial para evitar conflictos de git
+        fetch-depth: 0
+
+    - name: Instalar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+
+    - name: Instalar dependencias
+      run: pip install jsonschema
+
+    # Ejecutar el corrector (separa listas en archivos individuales y limpia campos)
+    - name: 🛠️ Ejecutar Auto-Corrector
+      run: python scripts/corrector.py
+
+    # Si hubo correcciones, hacer commit y push automático
+    - name: 💾 Guardar correcciones en git
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "🤖 Auto-corrección de formato JSON (Lista -> Archivos individuales)"
+        file_pattern: 'datasets/**/*.json'
+
+    # Finalmente, ejecutar el validador estricto para asegurar que todo quedó perfecto
+    - name: ✅ Ejecutar validador estricto
+      run: python scripts/validator.py
